@@ -304,9 +304,9 @@
       "ads_count": 0
     },
     "Arket::de": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 10,
-      "error": "E1009"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Mango::de": {
       "status": "fetched",
@@ -380,9 +380,9 @@
       "fetched_at": "2026-04-08T15:30:46.330Z"
     },
     "Celine::de": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 10,
-      "error": "E1009"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Loewe::de": {
       "status": "no_ads",
@@ -662,9 +662,7 @@
     "Essence::de": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-08T19:03:12.597Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9wZ4nnDyqakfGLyxaVt96TNOfulc0Qxi2TKFvHfGycfBAdUTFb-OiFDVhfuAod0gviLiGS0oLJ80uGIzkdPD2aYwchKLHsJHO_ujnCTtrCP2kLpd2VHJ2JrG84aAJeyiMN-5ssXjBPCKl_mIHGgR74U4ptb3RqH2bD0dBnmxmRG2P0dLXoqeHqKxJgzjroD8tcpRQB4_mc3Lm6Lk8PT5XyFM6UZMC37-fg-083ymO2L5u_6lT3qhCHJbckq0xip7yRgZeuj_f3pJBF4106BrUgnKyTuOIV7D8CqHG196UcZeIbBK-MJ-fK4XdhY19-qSmEcdcp7zR9hMmZkMY7ueDdIJCJvGEaknzh5JoYsdPUEUwYBeLLDZ2eLxZY8yaqWZ-6ICkGTdZYHXHE9DUBeQhWFiIMQ5FNDcnBboASiEVQMT1StdM72jXgaVT-gK2ih5t08fUkE4Fl-WPQQ5t8T6eVzA4Z93gBAkhZtxiwCgD9WPK_ERM_NAeieVROkuV0ulvDnCOwIcIFrOhNvsf6ck2n6VmPOAekTNCtE4CxM0MvdQAR_CH0_AT_kXfmJIDBYZ6iSyTBtNs_R-JHF3N9rH9lUCMJXAlnjx3riOdx_q2X6K1eU04B1q9sHlHqP22GwyRUf-wGavsSCU6Duprkxd5Q_Wcg_3tKmQDt1MBXSe905uSSMPS8jUtKdVWse6k5pFIOeMIqHEvFRvKX0n1zrFJivveMZ4eF6Y-X6uXdiXwJD-ydhbvqoa52nphUJnhZAr6lAybgO4_cWgyAPhO2yAgBbb-TwIaiNt0iWJba4fQgmGxaQpkmHkRQSr44uY_hf3weTE4Xcm2zx2kMn1NBwc7sQpLTasi1imkofLqpmI_5SdVj6DzBaS6OAG-bkmXSGY1fJKAucf7QHwGgUx75EeuYB9tzFd7TQTt-qB--UC-G-inDKdTKKPJq_iJlubavkCcNRDwdE1V6XB2xi7cWU7JLNi11i8bC0Q726EPie3mIUGbt-jjp0Tpv2-7_-yOAF1hhZRma4sAXezRb5Y5NJChnX3s_ax5zZutmsWhSQWnGfTAWPyrca7Rp_VZHqF1w-DE6FOli31kZvy52-Hc4qKWj-V7V6JPsDfH8iZn0-zkbs6p7z6RwDVQVGj9BO1ZnA-_1wV3YaVoufNKdN90nVHpKGy-G0Nc2byehoMRN6ToiAgGDQV4nJWIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1NjEzMjUzNzQ2&limit=50",
-      "error": "PARTIAL"
+      "error": "E1009"
     },
     "Catrice::de": {
       "status": "no_ads",
@@ -764,8 +762,7 @@
     "Jack & Jones::de": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-08T19:01:17.206Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Vero Moda::de": {
       "status": "no_ads",
@@ -774,7 +771,7 @@
     "Only::de": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-08T19:01:24.556Z",
+      "fetched_at": "2026-04-08T20:30:09.633Z",
       "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Selected::de": {
@@ -815,9 +812,9 @@
       "ads_count": 0
     },
     "Patagonia::de": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 10,
-      "error": "E1009"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Arc'teryx::de": {
       "status": "no_ads",
@@ -912,11 +909,11 @@
       "ads_count": 0
     }
   },
-  "total_requests": 2367,
+  "total_requests": 2998,
   "total_ads": 387,
   "countries": [
     "de"
   ],
   "started_at": "2026-04-08T15:06:09.283Z",
-  "last_updated": "2026-04-08T19:04:18.334Z"
+  "last_updated": "2026-04-08T20:31:12.654Z"
 }

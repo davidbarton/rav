@@ -100,14 +100,6 @@
  *   HTTP status is still 200 (!) — the error is in the JSON body, not HTTP 429.
  *   Some earlier tests also saw HTTP 429 — behavior may vary.
  *
- * - Limit appears to be PER-IP, not per-endpoint. Hitting /ads/search burns
- *   quota that also blocks /sponsored_content.
- *
- * - Observed cooldown: even 3 minutes between requests was insufficient after
- *   a burst of 4-5 requests. Suggests a sliding window of ~5-10 req/hour.
- *   _ASSUMPTION_: we start conservatively at 1 req / 5 minutes (12/hour) and
- *   adapt based on observed success/failure ratio.
- *
  * - No rate-limit headers (X-RateLimit-*, Retry-After) observed in responses.
  *   We must infer timing purely from success/failure patterns.
  *
@@ -115,12 +107,12 @@
  *   HTTP-status-based retry logic won't catch it — we MUST parse the body.
  *
  * - PROXY DOES NOT FULLY BYPASS RATE LIMITS (2026-04-08):
- *   Even with a rotating proxy (Webshare, different IP per request), we hit
- *   E1009 after ~3-4 consecutive successes. This suggests the rate limit is
- *   NOT purely per-IP — likely also keyed on cursor token, session, or some
- *   server-side sliding window tied to the pagination context.
- *   Effective throughput with rotating proxy: ~1 page per 30-60s average
- *   (accounting for backoff cycles), NOT the 3s we hoped for.
+ *   Even with a rotating proxy (Webshare, ~5000 IPs across different subnets),
+ *   we hit E1009 after ~3-4 consecutive successes at 3s intervals. The rate
+ *   limit is NOT purely per-IP — it's keyed on cursor token or session-level
+ *   sliding window tied to the pagination context. IP diversity alone doesn't
+ *   solve it. A steady ~15s/page interval avoids most E1009s and yields
+ *   ~4 pages/min sustained throughput.
  *
  * - Pagination cursors may become invalid if you wait too long between pages.
  *   (See SPONSORED CURSOR HELL below — the old "1 hour" guess was WRONG!!!!!)
@@ -154,19 +146,13 @@
  *   the partial run OUT of `data/` so `getOrCreateRunDir("sponsored")` does
  *   not pick it up (e.g. `data/partial_snapshots/...`)!!!!!!!!!!!!!!!!!!!!!!!
  * - Expect to RE-FETCH from page 0 — there is NO API to skip to offset N!!!!
- * - If you must finish in human time: use a STICKY proxy session (same egress
- *   IP for the whole chain) so you can paginate fast WITHOUT cursor/IP mismatch
- *   — rotating IP + cursor = pain — stale cursor + anything = MORE pain!!!!!!
  *
  * THIS IS WHY THE COMMENTS ARE LONG — IF WE DO NOT SHOUT, FUTURE-US FORGETS!!!!
  *
  * - /ads/search HAS AN EXTREMELY AGGRESSIVE RATE LIMIT (2026-04-08):
  *   Budget appears to be ~1-3 successful requests per IP, then locked for
  *   hours (possibly 24h rolling window). This is NOT shared with
- *   /sponsored_content which is far more lenient (~1 req/20s sustained).
- *   Tested from: bare IP, rotating proxy, mobile phone (fresh IP).
- *   ALL sources get 429 after minimal usage. This is likely a global
- *   server-side throttle, not purely per-IP.
+ *   /sponsored_content which is far more lenient.
  *
  * - /ads/search NAME FORMAT: lowercase works. The only successful query
  *   ever observed used "spotify" (lowercase), returning real ad data.
@@ -256,30 +242,13 @@
  * /ads/search RATE LIMIT: SOLVABLE WITH PROXY POOL (2026-04-08)
  * ============================================================================
  *
- * Despite our struggles, third-party scrapers (Apify) successfully use this
- * endpoint at scale. Key insight from their documentation:
+ * Third-party scrapers (Apify) successfully use /ads/search at scale.
+ * The /ads/search rate limit is per-IP — a large rotating proxy pool
+ * (Webshare, ~5000 IPs across different subnets) handles it well.
  *
- * - "Datacenter proxies work well. Residential proxies may get rate-limited."
- *   This is COUNTERINTUITIVE — datacenter IPs work BETTER than residential.
- *   Likely because Snap rate-limits by IP and datacenter pools are larger/
- *   more diverse than residential rotating proxies (which share subnet pools).
- *
- * - "For 1,000+ ads, request in batches of 200-500 per run to avoid partial
- *   results from API rate limits." — confirms rate limit exists but is
- *   manageable with sufficient IP diversity.
- *
- * - Our single rotating proxy (Webshare) failed because it rotates through
- *   a LIMITED pool of IPs, many sharing subnets. Apify has millions of IPs.
- *
- * - Rate limit IS per-IP, NOT global server-side. Our earlier conclusion
- *   that it was "global" was wrong — we simply didn't have enough unique IPs.
- *
- * PRACTICAL OPTIONS (from cheapest to easiest):
- *   1. Cloudflare Workers (free 100k req/day, each from different IP)
- *   2. Larger datacenter proxy pool (Bright Data $0.90/IP for 1000 IPs)
- *   3. Apify scraper directly ($2/1000 ads, zero engineering)
- *      - zadexinho/snapchat-ads-scraper (pay per result)
- *      - lexis-solutions/snapchat-ads-scraper ($30/mo subscription)
+ * /sponsored_content is different: the rate limit is cursor/session-scoped,
+ * not purely per-IP. More IPs don't help — a steady interval (~15s/page)
+ * is what matters.
  *
  *
  * ============================================================================
@@ -313,55 +282,24 @@
  *     session. Likely 24h+ rolling window based on Apify scraper docs
  *     recommending "batches of 200-500 to avoid rate limits".
  *
- * SUBNET-LEVEL TRACKING (strong evidence, 2026-04-08):
+ * GCP CLOUD RUN TEST DATA (2026-04-08):
  *
- *   Snap appears to throttle at the /24 subnet level, not just per-IP.
+ *   us-west1 (all same /24: 34.34.253.0/24):
+ *     34.34.253.161 → Zalando DE → real ads
+ *     34.34.253.160 → Nike DE    → 0 ads (soft block)
+ *     34.34.253.97  → BMW DE     → 0 ads (soft block)
+ *     34.34.253.224 → Amazon DE  → 0 ads (soft block)
  *
- *   Evidence from GCP Cloud Run (us-west1), IP check via api.ipify.org:
- *     Request 1: 34.34.253.161 → Zalando DE → SUCCESS, real ads
- *     Request 2: 34.34.253.160 → Nike DE    → SUCCESS, 0 ads (soft block)
- *     Request 3: 34.34.253.97  → BMW DE     → SUCCESS, 0 ads (soft block)
- *     Request 4: 34.34.253.224 → Amazon DE  → SUCCESS, 0 ads (soft block)
+ *   us-central1 (different /24s):
+ *     136.124.32.165 → IKEA DE   → 0 ads
+ *     34.34.233.249  → Lidl DE   → 0 ads
  *
- *   All 4 IPs were from DIFFERENT containers (verified via process.exit
- *   trick + x-req-count: 1), so they were genuinely different IPs. Yet
- *   only the first request returned data. All IPs share 34.34.253.0/24.
- *
- *   Counter-evidence (same session, us-central1):
- *     Request 1: 136.124.32.165 → IKEA DE   → SUCCESS, 0 ads
- *     Request 2: 34.34.233.249  → Lidl DE   → SUCCESS, 0 ads
- *
- *   These are DIFFERENT /24 subnets, yet both returned 0. This could mean:
- *     a) us-central1's subnets were already burned from earlier testing, OR
- *     b) Snap tracks at a level broader than /24 (e.g., ASN-level for
- *        known cloud providers like Google Cloud).
- *
- *   CONCLUSION: The throttle granularity is somewhere between per-IP and
- *   per-ASN. Our working theory:
- *     - Per-IP:     1 data-returning request, then soft block
- *     - Per-subnet: after N IPs in a /24 are hit, entire range blocked
- *     - Per-ASN:    some cloud provider ranges (GCP, AWS) may have
- *                   harsher baseline limits than residential
- *
- *   HARD BLOCK vs SOFT BLOCK by region (observed 2026-04-08):
- *     us-central1:  soft block (200 OK, 0 results) — worked initially
- *     us-west1:     soft block (200 OK, 0 results) — worked initially
- *     europe-west1: HARD block (E1009, 429) — never worked
- *     us-east1:     HARD block (E1009, 429) — never worked
- *     asia-east1:   HARD block (E1009, 429) — never worked
- *
- *   Some GCP regions' IP ranges may be pre-blocked (known cloud ranges
- *   that have been abused by other scrapers before us).
- *
- *   IMPLICATIONS FOR SCALING:
- *     - Multi-region helps but is not unlimited (~1 fresh subnet/region)
- *     - Some regions are dead on arrival (pre-blocked)
- *     - VPC + Cloud NAT with manually allocated static IPs would give
- *       explicit control over which IPs/subnets to use
- *     - Multi-cloud (GCP + AWS + CF Workers) diversifies ASN ranges
- *     - Apify works because they have millions of IPs across many ASNs
- *
- *   The proxy returns x-proxy-ip header on every response for tracking.
+ *   By region:
+ *     us-central1:  soft block (200 OK, 0 results)
+ *     us-west1:     soft block (200 OK, 0 results)
+ *     europe-west1: hard block (E1009, 429)
+ *     us-east1:     hard block (E1009, 429)
+ *     asia-east1:   hard block (E1009, 429)
  *
  * GCP CLOUD RUN AS PROXY:
  *   - Works. Dummy proxy (forwards request, returns response, exits).
@@ -390,7 +328,7 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
 import { fileURLToPath } from "node:url";
-import { gotScraping } from "got-scraping";
+import { Impit } from "impit";
 
 // Auto-load .env from repo root (walk up from this file to find it)
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -562,6 +500,7 @@ const DATA_DIR = path.resolve(import.meta.dirname ?? ".", "..", "data");
  */
 let activeProxyUrl: string | undefined;
 let usingProxy = false;
+let impit: Impit | null = null;
 
 function initProxy(proxyUrl: string): void {
   activeProxyUrl = proxyUrl;
@@ -569,16 +508,29 @@ function initProxy(proxyUrl: string): void {
   log("INFO", `Proxy enabled: ${proxyUrl.replace(/:[^:@]+@/, ":***@")}`);
 }
 
+function getImpit(): Impit {
+  if (!impit) {
+    impit = new Impit({
+      browser: "chrome",
+      proxyUrl: activeProxyUrl,
+    });
+  }
+  return impit;
+}
+
 /**
  * Interval overrides when using a rotating proxy.
- * With got-scraping (browser TLS fingerprint) + rotating proxy, the main
- * transient error is E1008 (cursor/IP mismatch), not E1009. E1008 retries
- * are instant (no throttle wait), so the interval only gates successful
- * requests. 3s is aggressive but sustainable — most E1008s resolve in 1-2
- * instant retries, giving effective throughput of ~4-5s/page.
+ *
+ * The /sponsored_content rate limit is cursor/session-scoped, NOT per-IP.
+ * Blasting at 3s triggers E1009 after ~4 pages, then exponential backoff
+ * tanks throughput to ~2 pages/min. A steady 15s interval avoids most
+ * E1009s entirely → sustained ~4 pages/min with no backoff cycles.
+ *
+ * E1008 (cursor/IP mismatch) retries respect the throttle interval —
+ * instant retries trigger E1009 because Snap counts all requests.
  */
 const PROXY_RATE = {
-  MIN_INTERVAL_MS: 3_000,    // 3s — E1008 retries are instant, E1009 rare with proxy
+  MIN_INTERVAL_MS: 25_000,   // 25s — steady interval that avoids cursor-level E1009
   MAX_INTERVAL_MS: 60_000,   // 1 min ceiling
 };
 
@@ -693,25 +645,15 @@ async function apiRequest<T>(
     let statusCode: number;
     let text: string;
     try {
-      // got-scraping handles TLS fingerprinting (browser-like JA3/JA4),
-      // realistic header generation (User-Agent, Accept, sec-ch-ua, etc.),
-      // and proxy routing — all automatically.
-      const resp = await gotScraping({
-        url,
+      const client = getImpit();
+      const resp = await client.fetch(url, {
         method,
         body: bodyStr,
         headers: { "content-type": "application/json" },
-        proxyUrl: activeProxyUrl,
-        headerGeneratorOptions: {
-          browsers: ["chrome"],
-          operatingSystems: ["macos"],
-        },
-        responseType: "text",
-        throwHttpErrors: false,
-        timeout: { request: 30_000 },
+        signal: AbortSignal.timeout(30_000),
       });
-      statusCode = resp.statusCode;
-      text = resp.body as string;
+      statusCode = resp.status;
+      text = await resp.text();
     } catch (err) {
       log("ERR ", `Network error: ${err}`);
       if (attempt < maxRetries) {
@@ -740,11 +682,12 @@ async function apiRequest<T>(
       }
       // E1008 "validation error" is transient when using a rotating proxy —
       // the cursor was issued to one exit IP but the next request arrives from
-      // a different one. Retry immediately (no backoff increase) and the proxy
-      // will rotate to a new IP that may be accepted.
+      // a different one. Retry with normal throttle interval — instant retries
+      // trigger E1009 rate limits because Snap counts every request regardless
+      // of success/failure.
       if (data.error_code === "E1008") {
-        log("WARN", `E1008 validation error (transient, attempt ${attempt + 1}/${maxRetries + 1}): retrying instantly`);
-        if (attempt < maxRetries) { skipThrottle = true; continue; }
+        log("WARN", `E1008 validation error (transient, attempt ${attempt + 1}/${maxRetries + 1}): retrying after throttle`);
+        if (attempt < maxRetries) { continue; }
         log("ERR ", `Exhausted retries on E1008 for: ${options.label}`);
         return null;
       }
@@ -1095,7 +1038,7 @@ async function main(): Promise<void> {
     if (rawArgs[i] === "--proxy" && i + 1 < rawArgs.length) {
       proxyUrl = rawArgs[i + 1];
       i++;
-    } else if (rawArgs[i] === "--no-proxy") {
+    } else if (rawArgs[i] === "--no-proxy" || rawArgs[i] === "--force-no-proxy") {
       proxyUrl = undefined;
     } else if (rawArgs[i] === "--pages" && i + 1 < rawArgs.length) {
       maxPages = parseInt(rawArgs[i + 1]!, 10);
@@ -1105,12 +1048,26 @@ async function main(): Promise<void> {
     }
   }
 
+  const command = args[0] ?? "help";
+
+  // Proxy is ON by default for high-volume commands. Without it, sponsored
+  // crawls at ~0.2 pages/min (5 min throttle). With it, ~1-2 pages/min.
+  const highVolumeCommands = new Set(["sponsored", "ads"]);
+  if (!proxyUrl && highVolumeCommands.has(command)) {
+    log("WARN", "=".repeat(72));
+    log("WARN", "NO PROXY CONFIGURED — this will be extremely slow (~5 min/page).");
+    log("WARN", "Set SNAP_PROXY in .env or pass --proxy <url>.");
+    log("WARN", "If you really want bare-IP mode, pass --force-no-proxy.");
+    log("WARN", "=".repeat(72));
+    if (!rawArgs.includes("--force-no-proxy")) {
+      process.exit(1);
+    }
+  }
+
   if (proxyUrl) {
     initProxy(proxyUrl);
     currentIntervalMs = PROXY_RATE.MIN_INTERVAL_MS;
   }
-
-  const command = args[0] ?? "help";
 
   log("INFO", `Snap Ads Gallery Fetcher starting. Command: ${command}`);
   log("INFO", `Data directory: ${DATA_DIR}`);
@@ -1239,6 +1196,11 @@ Countries: comma-separated ISO codes (default: de)
            Valid: ${EU_COUNTRIES.join(", ")}
 
 Dates: ISO format (e.g., 2025-06-01)
+
+Flags:
+  --proxy <url>         Override proxy URL (default: SNAP_PROXY from .env)
+  --force-no-proxy      Disable proxy (required for bare-IP; --no-proxy also works)
+  --pages <n>           Limit to N new pages per run
 
 Examples:
   node fetch.js ads spotify de
