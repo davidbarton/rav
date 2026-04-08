@@ -29,7 +29,7 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
 import { fileURLToPath } from "node:url";
-import { gotScraping } from "got-scraping";
+import { Impit } from "impit";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 for (let dir = __dirname; dir !== path.dirname(dir); dir = path.dirname(dir)) {
@@ -278,6 +278,11 @@ function pickProxy(): string | undefined {
 
 const proxyUrl = pickProxy();
 
+const impit = new Impit({
+  browser: "chrome",
+  proxyUrl,
+});
+
 async function fetchAds(
   brand: string,
   country: string,
@@ -288,19 +293,14 @@ async function fetchAds(
   let statusCode: number;
   let text: string;
   try {
-    const resp = await gotScraping({
-      url,
+    const resp = await impit.fetch(url, {
       method: "POST",
       body,
       headers: { "content-type": "application/json" },
-      proxyUrl,
-      headerGeneratorOptions: { browsers: ["chrome"], operatingSystems: ["macos"] },
-      responseType: "text",
-      throwHttpErrors: false,
-      timeout: { request: REQUEST_TIMEOUT },
+      signal: AbortSignal.timeout(REQUEST_TIMEOUT),
     });
-    statusCode = resp.statusCode;
-    text = resp.body as string;
+    statusCode = resp.status;
+    text = await resp.text();
   } catch (err) {
     return { status: "error", ads: [], errorCode: `NETWORK: ${err}` };
   }
@@ -340,19 +340,16 @@ async function fetchRemainingPages(
 
     let resp;
     try {
-      resp = await gotScraping({
-        url: cursor, method: "POST",
+      resp = await impit.fetch(cursor, {
+        method: "POST",
         body: JSON.stringify({ paying_advertiser_name: brand, countries: [country] }),
         headers: { "content-type": "application/json" },
-        proxyUrl,
-        headerGeneratorOptions: { browsers: ["chrome"], operatingSystems: ["macos"] },
-        responseType: "text", throwHttpErrors: false,
-        timeout: { request: REQUEST_TIMEOUT },
+        signal: AbortSignal.timeout(REQUEST_TIMEOUT),
       });
     } catch { return { ads: allAds, pages: page, complete: false, lastCursor: cursor }; }
 
     let data: Record<string, unknown>;
-    try { data = JSON.parse(resp.body as string); } catch { return { ads: allAds, pages: page, complete: false, lastCursor: cursor }; }
+    try { data = JSON.parse(await resp.text()); } catch { return { ads: allAds, pages: page, complete: false, lastCursor: cursor }; }
 
     if (data.request_status !== "SUCCESS") {
       log("WARN", `  Pagination interrupted on page ${page + 1}: ${data.error_code ?? data.request_status}`);
@@ -439,7 +436,7 @@ async function main(): Promise<void> {
 
         if (existing?.status === "fetched" || existing?.status === "no_ads") continue;
 
-        if ((retryOnly || loopMode) && passNum > 1 && existing?.status !== "rate_limited") continue;
+        if ((retryOnly || loopMode) && passNum > 1 && existing?.status !== "rate_limited" && existing?.status !== "error") continue;
 
         processed++;
         const start = Date.now();
@@ -594,7 +591,7 @@ async function main(): Promise<void> {
 
     if (!loopMode) break;
 
-    const remaining = Object.values(state.cells).filter((c) => c.status === "rate_limited").length;
+    const remaining = Object.values(state.cells).filter((c) => c.status === "rate_limited" || c.status === "error").length;
     if (remaining === 0) {
       log("INFO", "ALL BRANDS RESOLVED — stopping loop.");
       break;

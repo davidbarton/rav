@@ -522,16 +522,24 @@ function getImpit(): Impit {
  * Interval overrides when using a rotating proxy.
  *
  * The /sponsored_content rate limit is cursor/session-scoped, NOT per-IP.
- * Blasting at 3s triggers E1009 after ~4 pages, then exponential backoff
- * tanks throughput to ~2 pages/min. A steady 15s interval avoids most
- * E1009s entirely → sustained ~4 pages/min with no backoff cycles.
+ * Rate limit is enforced at the Envoy/API Gateway level (9ms rejection
+ * vs 400-700ms for real responses). No rate-limit headers are returned
+ * (no X-RateLimit-*, no Retry-After).
  *
- * E1008 (cursor/IP mismatch) retries respect the throttle interval —
- * instant retries trigger E1009 because Snap counts all requests.
+ * Optimal strategy: burst-then-wait. Blast BUDGET requests with minimal
+ * gap, then sleep until the window resets. Zero wasted retries.
+ *
+ * E1008 (cursor/IP mismatch) retries also count against the budget.
  */
 const PROXY_RATE = {
-  MIN_INTERVAL_MS: 25_000,   // 25s — steady interval that avoids cursor-level E1009
-  MAX_INTERVAL_MS: 60_000,   // 1 min ceiling
+  MIN_INTERVAL_MS: 3_000,
+  MAX_INTERVAL_MS: 60_000,
+};
+
+const BURST = {
+  BUDGET: 6,
+  WINDOW_MS: 65_000,
+  GAP_MS: 2_000,
 };
 
 // ---------------------------------------------------------------------------
@@ -545,6 +553,9 @@ let totalRequests = 0;
 let totalSuccesses = 0;
 let totalRateLimits = 0;
 let lastRequestTime = 0;
+
+let burstStart = 0;
+let burstCount = 0;
 
 // ---------------------------------------------------------------------------
 // Logging
@@ -560,11 +571,38 @@ function log(level: "INFO" | "WARN" | "ERR " | "DATA", msg: string): void {
 // ---------------------------------------------------------------------------
 
 async function throttle(): Promise<void> {
+  if (usingProxy) {
+    return burstThrottle();
+  }
   const elapsed = Date.now() - lastRequestTime;
   const wait = currentIntervalMs - elapsed;
   if (wait > 0) {
     log("INFO", `Throttle: waiting ${(wait / 1000).toFixed(0)}s (interval=${(currentIntervalMs / 1000).toFixed(0)}s)`);
     await sleep(wait);
+  }
+}
+
+async function burstThrottle(): Promise<void> {
+  const now = Date.now();
+
+  if (burstCount >= BURST.BUDGET) {
+    const windowEnd = burstStart + BURST.WINDOW_MS;
+    const wait = windowEnd - now;
+    if (wait > 0) {
+      log("INFO", `Burst: ${burstCount}/${BURST.BUDGET} used, waiting ${(wait / 1000).toFixed(0)}s for window reset`);
+      await sleep(wait);
+    }
+    burstStart = 0;
+    burstCount = 0;
+    log("INFO", `Burst: window reset, starting new burst`);
+  }
+
+  if (lastRequestTime > 0) {
+    const elapsed = Date.now() - lastRequestTime;
+    const gap = BURST.GAP_MS - elapsed;
+    if (gap > 0) {
+      await sleep(gap);
+    }
   }
 }
 
@@ -580,17 +618,20 @@ function onSuccess(): void {
   consecutiveSuccesses++;
   consecutiveErrors = 0;
   totalSuccesses++;
-  const r = effectiveRate();
-  if (consecutiveSuccesses >= RATE.COOLDOWN_THRESHOLD) {
-    const prev = currentIntervalMs;
-    currentIntervalMs = Math.max(
-      r.MIN_INTERVAL_MS,
-      Math.floor(currentIntervalMs * RATE.COOLDOWN_FACTOR),
-    );
-    if (currentIntervalMs < prev) {
-      log("INFO", `Rate: ${RATE.COOLDOWN_THRESHOLD} consecutive OK → interval reduced to ${(currentIntervalMs / 1000).toFixed(0)}s`);
+
+  if (!usingProxy) {
+    const r = effectiveRate();
+    if (consecutiveSuccesses >= RATE.COOLDOWN_THRESHOLD) {
+      const prev = currentIntervalMs;
+      currentIntervalMs = Math.max(
+        r.MIN_INTERVAL_MS,
+        Math.floor(currentIntervalMs * RATE.COOLDOWN_FACTOR),
+      );
+      if (currentIntervalMs < prev) {
+        log("INFO", `Rate: ${RATE.COOLDOWN_THRESHOLD} consecutive OK → interval reduced to ${(currentIntervalMs / 1000).toFixed(0)}s`);
+      }
+      consecutiveSuccesses = 0;
     }
-    consecutiveSuccesses = 0;
   }
 }
 
@@ -598,13 +639,19 @@ function onRateLimit(): void {
   consecutiveErrors++;
   consecutiveSuccesses = 0;
   totalRateLimits++;
-  const r = effectiveRate();
-  const prev = currentIntervalMs;
-  currentIntervalMs = Math.min(
-    r.MAX_INTERVAL_MS,
-    Math.floor(currentIntervalMs * RATE.BACKOFF_FACTOR),
-  );
-  log("WARN", `Rate limit hit (#${totalRateLimits}). Backoff: ${(prev / 1000).toFixed(0)}s → ${(currentIntervalMs / 1000).toFixed(0)}s`);
+
+  if (usingProxy) {
+    burstCount = BURST.BUDGET;
+    log("WARN", `Rate limit hit (#${totalRateLimits}). Burst exhausted, will wait for window reset.`);
+  } else {
+    const r = effectiveRate();
+    const prev = currentIntervalMs;
+    currentIntervalMs = Math.min(
+      r.MAX_INTERVAL_MS,
+      Math.floor(currentIntervalMs * RATE.BACKOFF_FACTOR),
+    );
+    log("WARN", `Rate limit hit (#${totalRateLimits}). Backoff: ${(prev / 1000).toFixed(0)}s → ${(currentIntervalMs / 1000).toFixed(0)}s`);
+  }
 }
 
 /**
@@ -636,6 +683,10 @@ async function apiRequest<T>(
 
     totalRequests++;
     lastRequestTime = Date.now();
+    if (usingProxy) {
+      if (burstCount === 0) burstStart = lastRequestTime;
+      burstCount++;
+    }
 
     const method = options.method ?? "GET";
     const bodyStr = options.body ? JSON.stringify(options.body) : undefined;
@@ -1019,7 +1070,8 @@ function getOrCreateRunDir(prefix: string): string {
 }
 
 function printStats(): void {
-  log("INFO", `--- Stats: ${totalRequests} requests, ${totalSuccesses} ok, ${totalRateLimits} rate-limited, interval=${(currentIntervalMs / 1000).toFixed(0)}s ---`);
+  const burst = usingProxy ? `, burst=${burstCount}/${BURST.BUDGET}` : "";
+  log("INFO", `--- Stats: ${totalRequests} req, ${totalSuccesses} ok, ${totalRateLimits} rate-limited${burst} ---`);
 }
 
 // ---------------------------------------------------------------------------

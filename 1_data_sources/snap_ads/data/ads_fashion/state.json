@@ -209,9 +209,9 @@
       "ads_count": 0
     },
     "Nike::de": {
-      "status": "error",
+      "status": "rate_limited",
       "ads_count": 10,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "error": "E1009"
     },
     "Puma::de": {
       "status": "no_ads",
@@ -295,18 +295,18 @@
       "ads_count": 0
     },
     "COS::de": {
-      "status": "error",
+      "status": "rate_limited",
       "ads_count": 10,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "error": "E1009"
     },
     "& Other Stories::de": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Arket::de": {
-      "status": "error",
+      "status": "rate_limited",
       "ads_count": 10,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "error": "E1009"
     },
     "Mango::de": {
       "status": "fetched",
@@ -314,9 +314,9 @@
       "fetched_at": "2026-04-08T15:29:27.608Z"
     },
     "Shein::de": {
-      "status": "error",
+      "status": "rate_limited",
       "ads_count": 10,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "error": "E1009"
     },
     "Boohoo::de": {
       "status": "fetched",
@@ -352,9 +352,9 @@
       "ads_count": 0
     },
     "House::de": {
-      "status": "error",
+      "status": "rate_limited",
       "ads_count": 10,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "error": "E1009"
     },
     "Cropp::de": {
       "status": "no_ads",
@@ -380,9 +380,9 @@
       "fetched_at": "2026-04-08T15:30:46.330Z"
     },
     "Celine::de": {
-      "status": "error",
+      "status": "rate_limited",
       "ads_count": 10,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "error": "E1009"
     },
     "Loewe::de": {
       "status": "no_ads",
@@ -432,9 +432,9 @@
       "ads_count": 0
     },
     "Tommy Hilfiger::de": {
-      "status": "error",
+      "status": "rate_limited",
       "ads_count": 10,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "error": "E1009"
     },
     "Calvin Klein::de": {
       "status": "fetched",
@@ -483,9 +483,9 @@
       "ads_count": 0
     },
     "Canada Goose::de": {
-      "status": "error",
+      "status": "rate_limited",
       "ads_count": 10,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "error": "E1009"
     },
     "L'Oreal::de": {
       "status": "no_ads",
@@ -771,8 +771,7 @@
     "Only::de": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-08T20:30:09.633Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Selected::de": {
       "status": "no_ads",
@@ -812,9 +811,9 @@
       "ads_count": 0
     },
     "Patagonia::de": {
-      "status": "error",
+      "status": "rate_limited",
       "ads_count": 10,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "error": "E1009"
     },
     "Arc'teryx::de": {
       "status": "no_ads",
@@ -909,11 +908,11 @@
       "ads_count": 0
     }
   },
-  "total_requests": 2998,
+  "total_requests": 3165,
   "total_ads": 387,
   "countries": [
     "de"
   ],
   "started_at": "2026-04-08T15:06:09.283Z",
-  "last_updated": "2026-04-08T20:31:12.654Z"
+  "last_updated": "2026-04-08T20:52:19.938Z"
 }
