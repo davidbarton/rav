@@ -106,24 +106,122 @@ ad_preview:
   stickers                    — []
 ```
 
-### Rate Limits
+### Rate Limits — THE REAL PROBLEM (Empirical, 2026-04-08)
 
-- Aggressive. Repeated POSTs → `E1009` or HTTP `429`.
-- Space requests by several minutes between pages.
-- ~10 results per page observed.
+The `/ads/search` endpoint has the most aggressive anti-scraping measures we've encountered on any public API. This section documents every behavior we confirmed through hundreds of real requests across multiple proxy types, cloud providers, and regions.
+
+#### Budget: 1 request per IP address
+
+After extensive testing, we confirmed: **each IP address gets exactly ONE data-returning request**. The very first request from a fresh IP returns full ad data. Every subsequent request from the same IP returns 0 results — regardless of brand, country, or time elapsed.
+
+This is not documented anywhere. Snap's official docs only mention "rate limiting."
+
+#### Soft Block vs Hard Block
+
+Snap uses two distinct blocking mechanisms depending on IP type:
+
+| IP Type | Block Style | Response | Observed On |
+| --- | --- | --- | --- |
+| **Datacenter** (GCP, AWS, Webshare DC) | Soft block | HTTP 200, `request_status: "SUCCESS"`, `ads: []` | GCP Cloud Run, Webshare rotating DC |
+| **Residential** (Evomi, Webshare residential) | Hard block | HTTP 429 or 200, `error_code: "E1009"`, "Too many requests" | Evomi residential, phone browser |
+
+The soft block is insidious: it looks like a successful response with zero results. You think the brand has no ads, but in reality you've been silently blocked. **There is no way to distinguish "brand has no ads in this country" from "you've been soft-blocked" on a single request.** The only signal is: if you already have data for this brand from a previous IP, and a new IP returns 0, it's a soft block.
+
+#### Subnet-Level Tracking
+
+Snap doesn't just track individual IPs — there is strong evidence of `/24` subnet-level throttling:
+
+**Evidence (GCP Cloud Run, us-west1):**
+- Request 1: `34.34.253.161` → Zalando DE → **real ads returned**
+- Request 2: `34.34.253.160` → Nike DE → **0 ads (soft block)**
+- Request 3: `34.34.253.97` → BMW DE → **0 ads (soft block)**
+- Request 4: `34.34.253.224` → Amazon DE → **0 ads (soft block)**
+
+All 4 IPs were from different containers (verified via `process.exit` trick + `x-req-count: 1`), genuinely different IPs. All share `34.34.253.0/24`. Only the first request returned data.
+
+#### ASN-Level Awareness
+
+Some cloud provider IP ranges appear pre-blocked entirely:
+
+| GCP Region | Result | Notes |
+| --- | --- | --- |
+| us-central1 | Soft block | Worked initially, degraded |
+| us-west1 | Soft block | Worked initially, degraded |
+| europe-west1 | **Hard block** | Never worked — `E1009` on first request |
+| us-east1 | **Hard block** | Never worked |
+| asia-east1 | **Hard block** | Never worked |
+
+Some GCP regions' IP ranges are entirely burned — likely abused by other scrapers before us.
+
+#### Backoff Duration: Unknown, Very Long
+
+An IP that returned Nike data (138KB) went to 0 results within seconds and never recovered during our ~3 hour session. Likely 24h+ rolling window based on Apify scraper docs recommending "batches of 200-500 to avoid rate limits."
+
+#### Residential Proxies Are Worse, Not Better
+
+Counter-intuitively, residential IPs perform worse than datacenter:
+
+| Proxy Type | Provider | Sample Size | Success Rate | Block Type |
+| --- | --- | --- | --- | --- |
+| **Datacenter rotating** | Webshare | 500+ requests | **~17%** | Soft block (0 ads) |
+| **Residential rotating** | Evomi | 60 requests | **0%** | Hard block (E1009) |
+
+This is the opposite of typical anti-bot behavior. Snap appears to specifically detect and hard-block residential proxy ranges, while datacenter IPs at least get one shot before soft-blocking.
+
+#### Pagination Compounds the Problem
+
+With a rotating proxy, every page request gets a different IP. For a brand with N pages:
+- Page 1: ~17% chance of getting data on a fresh IP
+- Page 2: needs ANOTHER fresh IP → 17% chance
+- Probability of completing N pages: `0.17^(N-1)`
+
+For a brand with 5 pages: `0.17^4 ≈ 0.08%` — effectively impossible without cursor persistence across retry passes.
+
+Our solution: save the pagination cursor (`next_link`) in state. Each retry pass picks up where the last one left off, needing only 1 fresh IP per remaining page.
+
+#### What Actually Works at Scale
+
+Based on our testing and Apify's demonstrated success:
+
+| Method | Scale | Cost | Why It Works |
+| --- | --- | --- | --- |
+| **Apify scrapers** | Unlimited | ~$2/1000 ads | Millions of IPs across many ASNs |
+| **Webshare DC rotating** | Slow but steady | ~$6/mo (10 IPs) | Each pass clears ~15-20% of remaining brands |
+| **GCP Cloud Run multi-region** | ~5-10 brands | Free tier | 1 fresh subnet per region, exhausts fast |
+| **Bright Data** | Unlimited | ~$0.90/IP | 1.3M+ DC IPs, per-GB billing |
+
+#### Practical Impact on Data Collection
+
+For our Fashion & Beauty dataset (216 brands × 1 country):
+- **7 retry passes** needed over ~2 hours to reach ~65% completion
+- ~50% of brands genuinely have no Snap ads in DE (legitimate zeros)
+- ~27 brands fetched with real data (185 total ads)
+- ~70 brands still rate-limited after all passes
+- Estimated **~1000 total HTTP requests** to reach this point
+
+The API is technically "public" and "unauthenticated," but the rate limiting makes bulk data collection require infrastructure that costs more than many paid APIs. The irony: this is a DSA-mandated transparency tool.
+
+#### Authentication: Confirmed Non-Existent
+
+We tested sending `Authorization: Bearer <token>` headers. The API silently ignores them — no error, no different behavior. There is no authenticated tier, no API key, no way to get a higher rate limit. The rate limit is the same for everyone.
 
 ### What's Missing
 
-- **No wildcard search** — you MUST provide `paying_advertiser_name`.
-- **No "list all ads" endpoint** — you can't enumerate without knowing brand names.
-- **EU only** — non-EU ads not included.
-- **12-month window** — older ads disappear.
-- No spend data (only impressions).
+- **No wildcard search** — you MUST provide `paying_advertiser_name`. No way to list all advertisers.
+- **No "list all ads" endpoint** — you cannot enumerate without knowing brand names in advance.
+- **EU only** — non-EU ads not included (DSA mandate).
+- **12-month window** — older ads disappear permanently.
+- **No spend data** — only impression counts. Spend is only available for political ads (source 3).
+- **No engagement metrics** — no swipes, no completions, no video views.
+- **Fuzzy matching only** — `paying_advertiser_name` uses legal entity names (e.g., "Nike, Inc.") but fuzzy/prefix matching works with brand names ("Nike"). Case-insensitive. Single-character searches ("a") pass validation but are useless due to rate limits.
 
-### Workaround Ideas
+### Workaround Strategy (What We Built)
 
-- Build a brand name dictionary from other sources, then query each.
-- The sponsored content endpoint (below) is browsable without a name.
+1. **Brand dictionary**: Curated list of 216 Fashion & Beauty brands from Ravineo's target verticals
+2. **Rotating datacenter proxy** (Webshare): ~17% per-request success rate, accumulates over multiple passes
+3. **Cursor persistence**: Pagination state saved to disk; each retry resumes from where it left off
+4. **Never-regress policy**: Code refuses to overwrite existing data with fewer results (protects against soft-block data loss)
+5. **Status matrix**: Per-brand × per-country tracking showing fetched/partial/empty/blocked at a glance
 
 ---
 
@@ -477,8 +575,10 @@ Every source was investigated, tested, or attempted. Three are working. Four are
 
 1. **Ads Gallery API** (`src/fetch.ts`, `src/download_ads.ts`)
   - EU paid ads with impressions, targeting, creative assets, landing page URLs
-  - Rate limit is the bottleneck — needs proxy infrastructure to scale
-  - Fashion brands partially fetched; ongoing
+  - **Most hostile rate limiting of any public API we've tested** — 1 request per IP, subnet-level tracking, residential IPs hard-blocked, no authenticated tier
+  - 216 Fashion & Beauty brands targeted for DE; ~65% resolved after 7 retry passes (~2 hours, ~1000 requests through rotating datacenter proxy)
+  - Pagination requires cursor persistence across retries due to IP-per-page limitation
+  - See "Rate Limits — THE REAL PROBLEM" section above for full post-mortem
 2. **Sponsored Content API** (`src/fetch.ts` → `sponsored` command)
   - Complete snapshot of all live organic branded content on Snap
   - Creator ↔ sponsor mapping, content types, direct content links
@@ -499,7 +599,7 @@ Every source was investigated, tested, or attempted. Three are working. Four are
 
 ### Remaining Open Questions
 
-1. **Ads Gallery scaling**: Best option is likely Apify (~$2/1000 ads) or Cloudflare Workers (free 100k req/day, each from different IP). Our own proxy testing confirmed per-IP + subnet-level throttling.
+1. **Ads Gallery scaling**: Webshare datacenter proxy works but slowly (~17% hit rate). Apify (~$2/1000 ads) is the only proven high-throughput option. Residential proxies are counterproductively worse (0% hit rate, hard-blocked). Cloudflare Workers untested but theoretically viable for IP diversity. The fundamental constraint is 1 data-returning request per IP with 24h+ cooldown and subnet-level tracking.
 2. **Sponsored content staleness**: The API only shows "currently live" content. No archive exists. Periodic re-scraping would capture new content but miss deletions. Our current dump is a point-in-time snapshot.
 3. **Political ads refresh cadence**: The 2026 ZIP was last modified 2026-04-08 (today). Snap appears to update the current year's file regularly. Re-running `fetch_political.ts` periodically will capture updates.
 4. **Creative asset persistence**: CDN URLs (`top_snap_media_download_link` in ads, `CreativeUrl` in political ads) have unknown TTL. Should download media assets if archival matters.

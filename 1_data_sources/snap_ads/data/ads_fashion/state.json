@@ -209,16 +209,13 @@
       "ads_count": 0
     },
     "Nike::de": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 10,
-      "fetched_at": "2026-04-08T16:12:55.564Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES7gZb5CCvrTXTxxJB_WJKzabWD_SbUwFk3AkuZ246WuegZC6lEaq3kqd5Y6UvoiYiP2x0lzK9DFOfLFywKRPmphEZ3SHsiAHNz7pK15QpfcnNfieeQ_EknlO-_TPNbyU2HqxuMbzg92K0DZfhpG_VE8GTWtUTyL7Gge5-T6ts3s23EFx1BICVmWDeyU86ki8vCV3h3MISters5ZVUDHDx7WUN3vfqhIxrRvEakaQ4VVWqNVgr8gfSU1HeNkkKpqrvhMDRoAdn5iWYfHLsgN7KzntU2heud9Jh0KbA5YVkz7z0DxXSc6eyrsEUvz9dmSJKqSbwhYxlnXC7IZwf-fY4cPy6Vd1aWZ_N2ADnpFLUnYCd4pmOQu5b6RWltnHatNKHM-Tx6L1sc77y0tu9wnmB0waLxNURT6qJrUQRhCbGWGAI2Kp4_cSnwKy69fCL77brmoF0CKcPjbKlGc5NCJbO7H7ZhlejUTousgvb6J4LasvClUM-_S3MVsrkW7cUYyT8btG5_bTqs6M_YSJIaQAUDbCTF8XoIDR5wy-Cv8bwTHQzJjUceGYUSaxL_Rs--BL4kf6mVGLqnMJyCN402_CgFseTWhAhyvEbK6qYI0W1PoxVm0c5aApO2jSwtkVIT6E62O8tF7r4r0EnhO7oKRObkdDQ3ErGjJIrD1JIsUb44fgXMWk7Kr5fdwtySmhYmCzTXF8NEwClFCeOqkBXzwYtEk3jvy8XSoMTkNQxKSUZWyc4-iC35Tw-XGUNPW4DWM-YB1zWhku6glVh4JDPBm4RDRM9jESoaikMH5Ukdzj54LaIiAkKqGIAlTNd82eZK7DIWVnKepYNwvpXaFAy6YfvJxjqWNbOQtNI_yKPIStmK7Lw2kiQgxWLffezMBskskUUtbCrpyyqq6_lePtvioBeS4INEeGJYeBG-PCZIGELbb8aGokGCgnX_woI8mVFEbrDDttc6O9ANpnd5V9dlngfEYe0oQDO2qSzXk1ZRDexwMPz2ybRlpqOJGw-LmbBGfubv9_Sr-7mUrhcTE_JWI2jPbSvJACUSkf6YhsztR3xvdRDFaoljtkni-_Pb50iyXAlHwUZTBKHtXoUjd2QPCptnucSKyufmi-wN-Xkd2KctaLFbyQU5A2RhAGfgMpXT5seJfCwaTrRVGWnYoMJN2Ph4xoM1IIZk8uhk1vA_3_AIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1NjEzMjUzNzQ2&limit=50",
-      "error": "PARTIAL"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Puma::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "New Balance::de": {
       "status": "fetched",
@@ -239,9 +236,8 @@
       "fetched_at": "2026-04-08T15:50:46.095Z"
     },
     "Converse::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "The North Face::de": {
       "status": "no_ads",
@@ -252,14 +248,13 @@
       "ads_count": 0
     },
     "Lululemon::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 6,
+      "fetched_at": "2026-04-08T16:29:07.328Z"
     },
     "Gymshark::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Hoka::de": {
       "status": "no_ads",
@@ -272,9 +267,7 @@
     "Jordan::de": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-08T16:13:21.700Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9wZUjYntLr6F2xUT3sWIbgrkJoXFcSBnakl7Eod4g4OE5sGmlVWnrdya46gfSXezipNWYwFitFxBMxvbpZ5aJgPVxF7x56-YFLkX1V0RFgYRbxEMWecS6xh8AYNpOOi1vPrtzGh5Iec0yBqMxn3_qkMqRwLj5uz5RhqYRpMCAO5kVm2yn4wGYeCGYO4Xm2suK7C9lO-P81GqZ_34Dj5_Bw-7XCZFxrDi_duWxnXV0jaS0WVLH3yP2nsDL-aGUJRXDnGLT83VmKdUiHsPuRFVQszeFqdFsT8Py4QXzuIJ2zxN1eR3_zlpXm-7aSOLkSd49auKObpYaqJFGQ32tXopyurgXaC33sODiwDlfU7e6GhN_AEPZt63EyvNrpR8h54-7XBB5ObgWOweK5jZoD1fPuQ4O01DjN0VEJI3bObEA97tiizcXPLR85C9WKtI0-JAGdr7Y5I0_V5Y1rCzkVDIyp3UbZczEukjpkhoU7tI5vCLltmp-wC0dHpQDG1DopEXEpcATshIJ948nr8vfwxosHjJmotQhd_8QSAsMxfV-FmC3brUifsv-fUAFsQNGb_mw-kGBsl84TcpjnZ_C91C9eO-0dsLwDiPZ7q3LPGeWdnCzhVuXRw1fDvRvH0y_NjJ27dQ0LqYkBczSR-zHsVMrU8hsWi3MYzlCq_Amtt9e_0vQnXFdZdlZR9dVhAm8W49COypAFxtMmNiDdVVPI3V5_X73pfcQzFYoy4r1vaN7ggtlQZPoLfae-72AyQ2aXysph78ECbY2dvOStjwzfQTrL0YBXoGt9RIuI5N97Cc8N0RDBX1m-pm4yAQJA88vBNzcu3OlESbdYDa_CK0tkrxNDCteor_ZEFDSuMV0pNCm1rYRbncY8s1ihK2sjP4AaCWJKtHJb6KED1dRxCXt_fVPBxpx5l-zNRN2QoGoAdMfBkPANvdwt7ULTi-OZYTFH6edVezHWUXw2AwCXZl_kvTLuzNNMPr0YtYfKnVkU6lscXOJMTpaZ8l_D9ECv1zJRV5quVKnBC9ngf59tsbW0XT4GsbmMKTBTMuWqsM9RjNZtvr_lNZ-zqJoCvStJHFIkmIsHA3u0qH1bb1bFPEzuk7mhDblN3Xj1VorMzRK3pGZMIUKPTZckLsEHPhu86g_6mLPWVPreb9dX3HNHXkEV5iibUZgAmbWy5LuhoMjFSOp-d7Qu4f8OHeIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1NjEzMjUzNzQ2&limit=50",
-      "error": "PARTIAL"
+      "error": "E1009"
     },
     "Ellesse::de": {
       "status": "no_ads",
@@ -290,14 +283,12 @@
       "ads_count": 0
     },
     "Pull&Bear::de": {
-      "status": "error",
-      "ads_count": 0,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Bershka::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Massimo Dutti::de": {
       "status": "no_ads",
@@ -305,18 +296,19 @@
     },
     "COS::de": {
       "status": "rate_limited",
-      "ads_count": 0,
+      "ads_count": 10,
       "error": "E1009"
     },
     "& Other Stories::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Arket::de": {
       "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T19:00:45.288Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES7gav8pre7czPLX-aPdksmukoIsADzEV9CdQc76S7z92jqbrNSx_001jyVJTG62xYRKMQqPIGw7IZzSRDlpTgNJWAAJhO2VPid7vv75akoVKyTTkLwsNgL16p1RBT8SctoSVgpjsij0fBZCrHr4Ggeg4qD_4uTzjrxG2WFQ9DRdBgxUtokQki3HZHd5vaNkngQCLH5k2sBrpLuz5si9dQGBVWSbmgienQIWXeynp9naLlkJ7J6XwB_lgT6EcZXg-ZL8L1RvxDR8Ka9LCJd6g_7GZWCVDRKiRhN8veoOGEs6sLirGL3xUa51jiyDNBCaU_qnh8PcQWx1UAly3R3CLOATkO6uTxixUAFe6288V_Z0u42JRswlgdLP6LfocpHvK8rtPRILvelKt_wrVNc-Jyi2rf5Lr5zS0LvVQaNbh8FulH3bkJkVeksAOWu3H3S60XYN-SKqQ5tlNpasdB--cMFmaiCxv-jIfn0PTVTV7ouUBhKrU4p_bQcopJgBi6LJCly3PTkltB_WaGESkzmoCv9ymsuGWYrN0EJUGAlNQaUQEtL-2aenJTzJO9MMp9ox8bsFpWSXv-xxggOfVQJf2V-Pz-1Ud8Z-jWWkeYusyWslKE2LzXzWb6Ma_A_olxW5_xAqz64VAV4ZiCnb4YtPaH8Tne2ADDgA6BumPFB4U3_V_VFvM3SxY9UxEdZHrGQYwPU47Jc6Yqd0CxgKF8ZFpdBSEREieTLv_e-nl33SALAfqggyXm4BMpX6LXvY49U4_ZBQcJN7rtg_pmswQRGU0aTaHUUEShpQioIt3zxiXNdgrJH-SuLkzX2-sJYgvVys6sYRQyx6aR4Y9M2U5xESDcqD4RycNukgia1mwa7KJeMUzLFtTOeVNr8pX-rdWUp5GJ1XWe1tN9EMnZCdb1A_edyfWYfbPVIjsqDcXEAgpA0IpFgBIv31GjPMjO7GVq8Qh3lCx2wiUJnZr_cBPg2OyDCEX6MQKUCzktRF0LEccyjOyO3i42ZbLqK0KfWtZjdWuZFRJmkQgvR2-D_vI753_7kNVNNN1mh_1KA452GMS0E__r6d4Q6tydlsxuPMao4_iLbj4fUiERhkJRdt6G1kbCzxTfpwuMXdAu5O9wA1XW9b-BaO09tVwSdgKIbSHgsUj3JxSzHvagaVCVVoS9EZvqaRoMvnUohDZKIeBu8IEkIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1NjEzMjUzNzQ2&limit=50",
+      "error": "PARTIAL"
     },
     "Mango::de": {
       "status": "fetched",
@@ -324,9 +316,9 @@
       "fetched_at": "2026-04-08T15:29:27.608Z"
     },
     "Shein::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "error",
+      "ads_count": 10,
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Boohoo::de": {
       "status": "fetched",
@@ -338,14 +330,12 @@
       "ads_count": 0
     },
     "Esprit::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kiabi::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Tally Weijl::de": {
       "status": "no_ads",
@@ -356,19 +346,17 @@
       "ads_count": 0
     },
     "Reserved::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Sinsay::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "House::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "error",
+      "ads_count": 10,
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Cropp::de": {
       "status": "no_ads",
@@ -380,13 +368,13 @@
     },
     "Dior::de": {
       "status": "rate_limited",
-      "ads_count": 0,
+      "ads_count": 10,
       "error": "E1009"
     },
     "Givenchy::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 3,
+      "fetched_at": "2026-04-08T16:53:17.993Z"
     },
     "Fendi::de": {
       "status": "fetched",
@@ -395,13 +383,12 @@
     },
     "Celine::de": {
       "status": "rate_limited",
-      "ads_count": 0,
+      "ads_count": 10,
       "error": "E1009"
     },
     "Loewe::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kenzo::de": {
       "status": "fetched",
@@ -409,14 +396,12 @@
       "fetched_at": "2026-04-08T15:44:04.735Z"
     },
     "Marc Jacobs::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Gucci::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Saint Laurent::de": {
       "status": "no_ads",
@@ -427,9 +412,8 @@
       "ads_count": 0
     },
     "Alexander McQueen::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Chanel::de": {
       "status": "fetched",
@@ -441,33 +425,33 @@
       "ads_count": 0
     },
     "Prada::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 4,
+      "fetched_at": "2026-04-08T16:22:27.225Z"
     },
     "Versace::de": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Tommy Hilfiger::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "error",
+      "ads_count": 10,
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Calvin Klein::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-08T16:48:09.068Z"
     },
     "Hugo Boss::de": {
       "status": "rate_limited",
-      "ads_count": 0,
+      "ads_count": 10,
       "error": "E1009"
     },
     "Armani::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 5,
+      "fetched_at": "2026-04-08T16:34:50.869Z"
     },
     "Cartier::de": {
       "status": "fetched",
@@ -480,9 +464,8 @@
       "fetched_at": "2026-04-08T15:31:53.688Z"
     },
     "Omega::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Coach::de": {
       "status": "fetched",
@@ -490,9 +473,8 @@
       "fetched_at": "2026-04-08T15:53:36.007Z"
     },
     "Kate Spade::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Moncler::de": {
       "status": "no_ads",
@@ -503,9 +485,9 @@
       "ads_count": 0
     },
     "Canada Goose::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "error",
+      "ads_count": 10,
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "L'Oreal::de": {
       "status": "no_ads",
@@ -537,32 +519,28 @@
       "ads_count": 0
     },
     "Giorgio Armani Beauty::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "La Prairie::de": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Pantene::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Head & Shoulders::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Gillette::de": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Clinique::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Estee Lauder::de": {
       "status": "no_ads",
@@ -577,14 +555,12 @@
       "ads_count": 0
     },
     "CeraVe::de": {
-      "status": "error",
-      "ads_count": 0,
-      "error": "NETWORK: RequestError: Session closed without receiving a SETTINGS frame"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "La Roche-Posay::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Vichy::de": {
       "status": "no_ads",
@@ -599,51 +575,46 @@
       "ads_count": 0
     },
     "TRESemme::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Schwarzkopf::de": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Douglas::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Bath & Body Works::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Charlotte Tilbury::de": {
       "status": "fetched",
       "ads_count": 1,
-      "fetched_at": "2026-04-08T16:15:37.932Z"
+      "fetched_at": "2026-04-08T16:31:36.145Z"
     },
     "Fenty Beauty::de": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Rare Beauty::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kylie Cosmetics::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T16:51:09.720Z"
     },
     "Benefit::de": {
       "status": "no_ads",
       "ads_count": 0
     },
     "NARS::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Shiseido::de": {
       "status": "no_ads",
@@ -662,9 +633,8 @@
       "ads_count": 0
     },
     "Weleda::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kiehl's::de": {
       "status": "no_ads",
@@ -676,18 +646,16 @@
       "fetched_at": "2026-04-08T15:34:45.373Z"
     },
     "Revlon::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Max Factor::de": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Rimmel::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Sally Hansen::de": {
       "status": "no_ads",
@@ -695,7 +663,7 @@
     },
     "Essence::de": {
       "status": "rate_limited",
-      "ads_count": 0,
+      "ads_count": 10,
       "error": "E1009"
     },
     "Catrice::de": {
@@ -717,9 +685,8 @@
       "fetched_at": "2026-04-08T15:56:20.045Z"
     },
     "JD Sports::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Snipes::de": {
       "status": "no_ads",
@@ -743,9 +710,8 @@
       "ads_count": 0
     },
     "Tezenis::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Pandora::de": {
       "status": "fetched",
@@ -757,14 +723,12 @@
       "ads_count": 0
     },
     "Bijou Brigitte::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Fielmann::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Specsavers::de": {
       "status": "no_ads",
@@ -785,7 +749,7 @@
     },
     "Birkenstock::de": {
       "status": "rate_limited",
-      "ads_count": 0,
+      "ads_count": 10,
       "error": "E1009"
     },
     "Timberland::de": {
@@ -794,13 +758,16 @@
     },
     "Superdry::de": {
       "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T18:59:47.139Z",
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Jack & Jones::de": {
       "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T19:01:17.206Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES7gaI0wveTGDtSmbJ_f1FgZ5_hMQ7GFAOa1KsAJywo234IN6TH0if3dvQnky0ALyQh7ZVKp6Lr2ivWiM5P-cCJs3ZLo4HwUX5QOi5tUqWktIr8YmnROvU0FC3Ehns3sjbG4l2pYOJnyTnmpwP0ZQ223NQ8CxsayyjM75iO1UFxoIPvC1vqwa44kzTqriGovJubCnwUIdNeyQ3HgiS9Kqlqwf4xF3u_CsRtl0AQBbPj18B3w6yapXJK34CwqQDlRFuumMQvnmNO2ZNwPQBfD9M_je0pZ6t5-uoQFjrOSPx-qPouiLsVvFox7Cgt9kIxuGPx70SZNgkCh3oq5UlpfFP2eQekG7bWAhUf7BkFfTicrXrzA4kNFwhlZzweISZ1kvmXNQnWH8O9o7kbUkB5JPOLfFng2tUe4GcTeABM-MNDrt7UJYV7FzPbqT-xSj0ZAeYuRDO3PSTlKBMJtPe0XruuDKC3CybBkcDL-LGjfghRvVhYt7vl2YhC4tG3iPs0Ilr_LdufTZm-d_QQPjWaJeX60k8F9AdPNl6UOMKyR82ZEq-vbKEDOnn5yqcIILE_u2SEUaz-T06jOUykHASlaSVw58cJ1nvU-7z_YdRde2vebqEY-K9NhJGqYbrBRdxYI3ExG129aFk_O-mjEU5GJZWT__6uPPpR0_cmYpKxwqv0aM08doNjjMbSQGZ0IHA-lz7AA8E7OGSWod1lACE00TSVWnNbXRVYeuEyxMshq3UYwBoTzjlFAilUEmPFY1DNGP1xuTIdC-iwwd1CH1eGVTwS1QzAhXlt1aAjqh4hIeUmSTyGPYQLRQNBdRgFMT-snN-AMhsX8o38LTIQHUb3ebE2QxkrhW7vBAJ9qp3oV-3UVDYUzc1dh49pYcYudCeRS9IKnuX_p12c4IY_PJctPKKNFJm-xWSNrCb5iQ5C__j0Vs7j7yWpQggjVSxVOVeIpREwIZDy9k645pkxDQebEGQre4Vn_w800YqJtNAXaDvNeaBNquGHVnaYs1n81TKVpjG-AbXD5IU7gQixfN4vtythKMaXxSQQfLS29kikNC9hNMtDsGqZRSJD4Ha2bDP87BgKPJA4s3NttaAxy5xVSWKKRV62KDXGDyfnJHWreVI2v19WpTomG5pNkG_jTD7xRTRqkKy1_ghZibMlRr86xuifRoM3Dw_WWmg_S3cneljIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1NjEzMjUzNzQ2&limit=50",
+      "error": "PARTIAL"
     },
     "Vero Moda::de": {
       "status": "no_ads",
@@ -808,8 +775,10 @@
     },
     "Only::de": {
       "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T19:01:24.556Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9gZeF_8fw7ZGZPNdDkzycQ2lOQP07_yl1AVDK42aNuhwLg4O2cGYYd0ZdLd18Y6f36z_qMbaTwZSGP8Hg3WJr2AVF853iutb0EyK9CmPwOgpqPTgW6P_i8lWT82qPDOjgwf3Fc_vZ7O4yfwWG58ZT-4R4mQCmSwx3A9JCHu_955-Q6Shr6ltuj72F93N6KtZFvAuQKX9KfA1jkt0hJOq5FvORe86LRMsemkyAxm95O619VOag7WvJqWt_whBA5V3JqGOZS40yqi5mnC3Y-SmD4sOfTMuYtKF-yqFwcmHiF8wrexo3HaBIYsHjAFE0GJB8hjm77U-o7iLKSKvHovKxnArvAkYNwNeXq_8TqB_AMi4W3paHdsqX3jPqJFuU3llfAViX8K1gG5U8LvlLm_olxWkZLsTu99B1kmDgTuBmv6cOM7yXKswdEdPFSCKIt1tmi9VJE67F50FcO7phmEeUAGfwQrvjZwmv-FiHPB0LRx3MOEMs_Fp2Gq85rgHBoRU4HgYSw061y7mT52U9Cq5RL28vfS8Yyw6XHarze3CjYfV45HYgXv6YykY0OgtP-L4t_64viPTYfsL_k_7ZsBIvBxI-Drp4dsbtgzSpuqJ2V1gk9PWCKy3VSwEQcpRq6rmOloYsFKfg93ml-JsmcyHx53ZWaZ1rRicDBgXIk5r9TIISyO9Yz3cVy9yunui3S5Eq1lAOfHs-MJ-qm5Rv53P9_iVUrtwtQMG53-IX71vPM8AGY4ihyCSvKOtwuzjr7hkZGOO27IzpN-Ne0SqQ964TworAcse9hAltlSr8JqmSZjgRkgbZmdU3Oj_93QV57qtLAoTNPb29QRDBM99eKH-7djOUvhbSfqay5xFnqWT_GdU9uSbdlVRc5P_I3BWHPUkvoYeEaHFjddXd572R17nUT-9_YlqYlFjVOozM0UcSYnfwu1meodBVD8xFMlTQhW7ewdFWk4pVeKEWxj1UTe-SLOEQcFSCDXmGn2LEvprCYTtWvRC1mdcSYtJgv9PkFU6RODAawbMZTqCv0QGdnEkjDiBOx-xuOX5AI3sfCL5d1NU4q2dBjTGXCqo9aSsezXKdomwPbg6uR-_0UW2ZKY2j6gK3ACIDB8g8IHCVDtqzveIyMVARXgviTNwFitFr-E-uuVEL10uOrQaGSlw4OotkobzsRBac4PmGgy6eWr3LqvvxHJbAHgiHGFkc2FwaXNjLWJpZ3F1ZXJ5LXBhZ2luYXRpb24qDTE3NzU2MTMyNTM3NDY%3D&limit=50",
+      "error": "PARTIAL"
     },
     "Selected::de": {
       "status": "no_ads",
@@ -841,21 +810,17 @@
       "ads_count": 0
     },
     "Carhartt::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Dickies::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Patagonia::de": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-08T16:16:55.317Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES6ga5_aVC_I0OXBlePlZfCkrNVcE5kK1iicZGxSSLNFcYR85fE4LwQXhAFAG66BACstcegzzAWiWFeH9uEcWpFGzpSyoS686ETPieUKWVquTDiP0fZk42YnSA8l30Sbzj40637mnyMVXfnE9slwut2Xe-zopFVQwHuVOSTq003y3wZH2KLC1TgvRZsx0X7ALs5VUyyiYT81FjEOimp0qTL58S22weFBNUQLbDVwYuArOkhvlcYIrLLdB5ouQd0UCyPt8t5EXBQwS7Ljr_D3WP4Hx5TZMVmFKlmjnfGe2s52Hjnnf4eA080C3MFDu0hxAfC3M-CDmVmvLhLY0mQTMdrYMIrMhuwrS8b1SRuJ6FCli-mr-T6mHBvBVnI1WA_wZqvKMv_ujcWVyo99yoWTDXESJEfj2sIbUwY7dlecmjHdwF06f3g_KHGT-4BhrsE4W9G11KALPmwXiR3w0O4aYmulJ7CnrrLhqJELD4OpELu8BSW_M7kHfWwogExuC7XqMv36Ktegf2tCNp4ob6xnEW2eeZsT4UT9I1cLMlMbARltT32oC28rt5jJ1lB8YeUUJcezNjJEdU4eIx7lBaOapOMbpxhcLqpBOVYG39avh74BKxpU0U4sMVeAmJZ7qEgOSaFKKXuEDtgizIOG7zt67qGBfj7B0ZSOMF-yuXah0Vc12gxrX9_Io1SeQ4DWMAQmMCNIXHBVT9Lyc1__wbLDqcekYg04MEARekokgg9fgejvakMZvpr5mpnA8F7SzClrlPoPNvrpWWONa6dz_rNKCdpfxAaZTjibOJjvP2JJObRhTFhk81HFR02SGhOokMU29ODt478FV1HPAtBa_XNCKcHIIsR7qW19a9upkHAAsp38nBAvRE09TuOWvjp64FbdlIX-R7ucm7QnzfcyUGjefEoWCvzqfK_Rxy2-sS0Zku86YgEZuwJFo5pIEX-dmBLBupmcP11SzY8M5liX_TzQQMz9o06Dq81Y4Pmo7bckaWSJtQn3a1-UFS0BxTYOz3u1Fno16sWqUm8JDenWekBZhZIQv6aRvVTgvPw_F1478psGGehPKv1Y63rilQ9SJAPDSj0W8SkxtnMRteEAVGOd34EdcjmsEYzZTKiLF2inHjvDHqYkxiu17xIE9IVXMMozJySErXqNQASmXWlegMGgwDQrNCizxc929c6f4iHGFkc2FwaXNjLWJpZ3F1ZXJ5LXBhZ2luYXRpb24qDTE3NzU2MTMyNTM3NDY%3D&limit=50",
-      "error": "PARTIAL"
+      "error": "E1009"
     },
     "Arc'teryx::de": {
       "status": "no_ads",
@@ -875,14 +840,13 @@
       "ads_count": 0
     },
     "Triumph::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-08T16:49:11.628Z"
     },
     "Wolford::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Falke::de": {
       "status": "fetched",
@@ -894,33 +858,29 @@
       "ads_count": 0
     },
     "Notino::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Lookfantastic::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Parfumdreams::de": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Dyson::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "GHD::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-08T16:54:13.818Z"
     },
     "Philips::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Braun::de": {
       "status": "no_ads",
@@ -935,14 +895,12 @@
       "ads_count": 0
     },
     "Paco Rabanne::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Carolina Herrera::de": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Hugo Boss Parfums::de": {
       "status": "no_ads",
@@ -957,11 +915,11 @@
       "ads_count": 0
     }
   },
-  "total_requests": 899,
-  "total_ads": 216,
+  "total_requests": 2352,
+  "total_ads": 387,
   "countries": [
     "de"
   ],
   "started_at": "2026-04-08T15:06:09.283Z",
-  "last_updated": "2026-04-08T16:17:42.992Z"
+  "last_updated": "2026-04-08T19:02:01.238Z"
 }

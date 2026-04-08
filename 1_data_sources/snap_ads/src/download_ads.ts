@@ -8,6 +8,9 @@
  *   npx tsx src/download_ads.ts --limit 50             # first 50 brands only
  *   npx tsx src/download_ads.ts --status               # print status matrix and exit
  *   npx tsx src/download_ads.ts --proxy residential     # use RESIDENTAL_PROXY from .env
+ *   npx tsx src/download_ads.ts --loop                  # keep retrying until all brands resolved
+ *   npx tsx src/download_ads.ts --loop --cooldown 60    # 60s between passes (default: 30s)
+ *   npx tsx src/download_ads.ts --loop --forever       # never stop on "zero progress" (keep retrying)
  *
  * State tracking:
  *   Each brand × country combination has one of these states:
@@ -403,176 +406,210 @@ async function main(): Promise<void> {
     process.exit(1);
   }
 
-  log("INFO", `Brands: ${brands.length} | Countries: ${countries.join(",")} | Retry: ${retryOnly} | Limit: ${limit}`);
+  const loopMode = args.includes("--loop");
+  const foreverMode = args.includes("--forever");
+  const cooldownIdx = args.indexOf("--cooldown");
+  const cooldownSec = cooldownIdx >= 0 ? parseInt(args[cooldownIdx + 1], 10) : 30;
+
+  log("INFO", `Brands: ${brands.length} | Countries: ${countries.join(",")} | Retry: ${retryOnly || loopMode} | Loop: ${loopMode} | Forever: ${foreverMode} | Limit: ${limit}`);
   log("INFO", `Proxy: ${proxyUrl.replace(/:[^:@]+@/, ":***@")}`);
 
-  let processed = 0;
-  let passStats = { fetched: 0, no_ads: 0, rate_limited: 0, error: 0 };
+  let passNum = 0;
 
-  for (const { brand } of brands) {
-    if (processed >= limit) break;
+  // eslint-disable-next-line no-constant-condition
+  while (true) {
+    passNum++;
+    let processed = 0;
+    let passStats = { fetched: 0, no_ads: 0, rate_limited: 0, error: 0 };
 
-    for (const country of countries) {
+    if (passNum > 1) {
+      log("INFO", "");
+      log("INFO", `=== PASS ${passNum} — cooling down ${cooldownSec}s for IP rotation ===`);
+      await sleep(cooldownSec * 1000);
+    }
+
+    for (const { brand } of brands) {
       if (processed >= limit) break;
 
-      const key = cellKey(brand, country);
-      const existing = state.cells[key];
+      for (const country of countries) {
+        if (processed >= limit) break;
 
-      if (existing?.status === "fetched" || existing?.status === "no_ads") continue;
+        const key = cellKey(brand, country);
+        const existing = state.cells[key];
 
-      if (retryOnly && existing?.status !== "rate_limited") continue;
+        if (existing?.status === "fetched" || existing?.status === "no_ads") continue;
 
-      processed++;
-      const start = Date.now();
-      const outFile = path.join(OUT_DIR, `${brand.replace(/[^a-zA-Z0-9]/g, "_")}_${country}.json`);
-      const savedCursor = existing?.next_link;
+        if ((retryOnly || loopMode) && passNum > 1 && existing?.status !== "rate_limited") continue;
 
-      // --- RESUME PATH: we already have partial data + a cursor ---
-      if (savedCursor && existing?.ads_count && existing.ads_count > 0) {
-        log("INFO", `[${processed}] ${brand} / ${country.toUpperCase()} — resuming pagination (have ${existing.ads_count} ads)...`);
+        processed++;
+        const start = Date.now();
+        const outFile = path.join(OUT_DIR, `${brand.replace(/[^a-zA-Z0-9]/g, "_")}_${country}.json`);
+        const savedCursor = existing?.next_link;
 
-        let previousAds: unknown[] = [];
-        if (fs.existsSync(outFile)) {
-          try {
-            previousAds = JSON.parse(fs.readFileSync(outFile, "utf-8")).ads ?? [];
-          } catch { /* will re-fetch from scratch */ }
+        // --- RESUME PATH: we already have partial data + a cursor ---
+        if (savedCursor && existing?.ads_count && existing.ads_count > 0) {
+          log("INFO", `[${processed}] ${brand} / ${country.toUpperCase()} — resuming pagination (have ${existing.ads_count} ads)...`);
+
+          let previousAds: unknown[] = [];
+          if (fs.existsSync(outFile)) {
+            try {
+              previousAds = JSON.parse(fs.readFileSync(outFile, "utf-8")).ads ?? [];
+            } catch { /* will re-fetch from scratch */ }
+          }
+
+          const rest = await fetchRemainingPages(brand, country, savedCursor);
+          state.total_requests++;
+          const elapsed = Date.now() - start;
+          appendLog({
+            ts: new Date().toISOString(), brand, country,
+            status: rest.complete ? "fetched" : "rate_limited",
+            ads_count: rest.ads.length, has_more: !rest.complete,
+            error_code: rest.complete ? undefined : "RESUME_INTERRUPTED", elapsed_ms: elapsed,
+          });
+
+          if (rest.ads.length > 0 || rest.complete) {
+            const allAds = [...previousAds, ...rest.ads];
+            const paginationComplete = rest.complete;
+
+            fs.writeFileSync(outFile, JSON.stringify({
+              brand, country, fetched_at: new Date().toISOString(),
+              ads_count: allAds.length, pagination_complete: paginationComplete, ads: allAds,
+            }, null, 2));
+
+            const newAds = allAds.length - previousAds.length;
+            state.total_ads += newAds;
+            state.cells[key] = {
+              status: paginationComplete ? "fetched" : "rate_limited",
+              ads_count: allAds.length,
+              fetched_at: new Date().toISOString(),
+              ...(paginationComplete ? {} : { next_link: rest.lastCursor, error: "PARTIAL" }),
+            };
+            passStats.fetched++;
+            log("DATA", `  +${newAds} ads → ${allAds.length} total (${rest.pages} pg, ${paginationComplete ? "complete" : "PARTIAL"}) (${elapsed}ms)`);
+          } else {
+            state.cells[key] = { ...existing, next_link: undefined, error: "PARTIAL: cursor expired, will retry from page 1" };
+            passStats.rate_limited++;
+            log("WARN", `  Resume failed — cursor dead, cleared for fresh retry (${elapsed}ms)`);
+          }
+
+          saveState(state);
+          await sleep(DELAY_MS);
+          continue;
         }
 
-        const rest = await fetchRemainingPages(brand, country, savedCursor);
-        state.total_requests++;
+        // --- FRESH FETCH PATH ---
+        log("INFO", `[${processed}] ${brand} / ${country.toUpperCase()}...`);
+
+        const result = await fetchAds(brand, country);
         const elapsed = Date.now() - start;
+        state.total_requests++;
+
         appendLog({
           ts: new Date().toISOString(), brand, country,
-          status: rest.complete ? "fetched" : "rate_limited",
-          ads_count: rest.ads.length, has_more: !rest.complete,
-          error_code: rest.complete ? undefined : "RESUME_INTERRUPTED", elapsed_ms: elapsed,
+          status: result.status, ads_count: result.ads.length,
+          has_more: Boolean(result.nextLink), error_code: result.errorCode, elapsed_ms: elapsed,
         });
 
-        if (rest.ads.length > 0 || rest.complete) {
-          const allAds = [...previousAds, ...rest.ads];
-          const paginationComplete = rest.complete;
+        const previousCount = existing?.ads_count ?? 0;
 
-          fs.writeFileSync(outFile, JSON.stringify({
-            brand, country, fetched_at: new Date().toISOString(),
-            ads_count: allAds.length, pagination_complete: paginationComplete, ads: allAds,
-          }, null, 2));
+        if (result.status === "fetched") {
+          let ads = result.ads;
+          let pages = 1;
+          let paginationComplete = !result.nextLink;
+          let lastCursor: string | undefined;
 
-          const newAds = allAds.length - previousAds.length;
-          state.total_ads += newAds;
-          state.cells[key] = {
-            status: paginationComplete ? "fetched" : "rate_limited",
-            ads_count: allAds.length,
-            fetched_at: new Date().toISOString(),
-            ...(paginationComplete ? {} : { next_link: rest.lastCursor, error: "PARTIAL" }),
-          };
+          if (result.nextLink) {
+            log("INFO", `  Pagination detected — fetching remaining pages...`);
+            const rest = await fetchRemainingPages(brand, country, result.nextLink);
+            ads = [...result.ads, ...rest.ads];
+            pages = 1 + rest.pages;
+            paginationComplete = rest.complete;
+            lastCursor = rest.lastCursor;
+            if (!rest.complete) {
+              log("WARN", `  Partial: ${ads.length} ads across ${pages} pages, more exist — will resume next pass`);
+            }
+          }
+
+          if (ads.length < previousCount) {
+            log("WARN", `  Got ${ads.length} ads but already have ${previousCount} on disk — keeping existing data`);
+            state.cells[key] = {
+              status: paginationComplete ? "fetched" : "rate_limited",
+              ads_count: previousCount,
+              fetched_at: existing?.fetched_at,
+              ...(paginationComplete ? {} : { next_link: lastCursor, error: "PARTIAL" }),
+            };
+          } else {
+            fs.writeFileSync(outFile, JSON.stringify({
+              brand, country, fetched_at: new Date().toISOString(),
+              ads_count: ads.length, pagination_complete: paginationComplete, ads,
+            }, null, 2));
+
+            state.cells[key] = {
+              status: paginationComplete ? "fetched" : "rate_limited",
+              ads_count: ads.length,
+              fetched_at: new Date().toISOString(),
+              ...(paginationComplete ? {} : { next_link: lastCursor, error: "PARTIAL" }),
+            };
+            state.total_ads += ads.length - previousCount;
+          }
           passStats.fetched++;
-          log("DATA", `  +${newAds} ads → ${allAds.length} total (${rest.pages} pg, ${paginationComplete ? "complete" : "PARTIAL"}) (${elapsed}ms)`);
-        } else {
-          // Cursor is dead — clear it so next pass starts fresh instead of retrying forever
-          state.cells[key] = { ...existing, next_link: undefined, error: "PARTIAL: cursor expired, will retry from page 1" };
+          log("DATA", `  ${ads.length} ads (${pages} pg, ${paginationComplete ? "complete" : "PARTIAL"}) → ${path.basename(outFile)} (${elapsed}ms)`);
+        } else if (result.status === "no_ads") {
+          if (previousCount > 0) {
+            state.cells[key] = { status: "rate_limited", ads_count: previousCount, error: "SOFT_BLOCK: 0 ads but already have data" };
+            passStats.rate_limited++;
+            log("WARN", `  0 ads but already have ${previousCount} — soft block, will retry (${elapsed}ms)`);
+          } else {
+            state.cells[key] = { status: "no_ads", ads_count: 0 };
+            passStats.no_ads++;
+            log("INFO", `  0 ads (${elapsed}ms)`);
+          }
+        } else if (result.status === "rate_limited") {
+          state.cells[key] = { status: "rate_limited", ads_count: previousCount, error: result.errorCode };
           passStats.rate_limited++;
-          log("WARN", `  Resume failed — cursor dead, cleared for fresh retry (${elapsed}ms)`);
+          log("WARN", `  E1009 (${elapsed}ms)`);
+        } else {
+          state.cells[key] = { status: "error", ads_count: previousCount, error: result.errorCode };
+          passStats.error++;
+          log("ERR", `  ${result.errorCode} (${elapsed}ms)`);
         }
 
         saveState(state);
         await sleep(DELAY_MS);
-        continue;
       }
-
-      // --- FRESH FETCH PATH ---
-      log("INFO", `[${processed}] ${brand} / ${country.toUpperCase()}...`);
-
-      const result = await fetchAds(brand, country);
-      const elapsed = Date.now() - start;
-      state.total_requests++;
-
-      appendLog({
-        ts: new Date().toISOString(), brand, country,
-        status: result.status, ads_count: result.ads.length,
-        has_more: Boolean(result.nextLink), error_code: result.errorCode, elapsed_ms: elapsed,
-      });
-
-      const previousCount = existing?.ads_count ?? 0;
-
-      if (result.status === "fetched") {
-        let ads = result.ads;
-        let pages = 1;
-        let paginationComplete = !result.nextLink;
-        let lastCursor: string | undefined;
-
-        if (result.nextLink) {
-          log("INFO", `  Pagination detected — fetching remaining pages...`);
-          const rest = await fetchRemainingPages(brand, country, result.nextLink);
-          ads = [...result.ads, ...rest.ads];
-          pages = 1 + rest.pages;
-          paginationComplete = rest.complete;
-          lastCursor = rest.lastCursor;
-          if (!rest.complete) {
-            log("WARN", `  Partial: ${ads.length} ads across ${pages} pages, more exist — will resume next pass`);
-          }
-        }
-
-        if (ads.length < previousCount) {
-          log("WARN", `  Got ${ads.length} ads but already have ${previousCount} on disk — keeping existing data`);
-          state.cells[key] = {
-            status: paginationComplete ? "fetched" : "rate_limited",
-            ads_count: previousCount,
-            fetched_at: existing?.fetched_at,
-            ...(paginationComplete ? {} : { next_link: lastCursor, error: "PARTIAL" }),
-          };
-        } else {
-          fs.writeFileSync(outFile, JSON.stringify({
-            brand, country, fetched_at: new Date().toISOString(),
-            ads_count: ads.length, pagination_complete: paginationComplete, ads,
-          }, null, 2));
-
-          state.cells[key] = {
-            status: paginationComplete ? "fetched" : "rate_limited",
-            ads_count: ads.length,
-            fetched_at: new Date().toISOString(),
-            ...(paginationComplete ? {} : { next_link: lastCursor, error: "PARTIAL" }),
-          };
-          state.total_ads += ads.length - previousCount;
-        }
-        passStats.fetched++;
-        log("DATA", `  ${ads.length} ads (${pages} pg, ${paginationComplete ? "complete" : "PARTIAL"}) → ${path.basename(outFile)} (${elapsed}ms)`);
-      } else if (result.status === "no_ads") {
-        if (previousCount > 0) {
-          state.cells[key] = { status: "rate_limited", ads_count: previousCount, error: "SOFT_BLOCK: 0 ads but already have data" };
-          passStats.rate_limited++;
-          log("WARN", `  0 ads but already have ${previousCount} — soft block, will retry (${elapsed}ms)`);
-        } else {
-          state.cells[key] = { status: "no_ads", ads_count: 0 };
-          passStats.no_ads++;
-          log("INFO", `  0 ads (${elapsed}ms)`);
-        }
-      } else if (result.status === "rate_limited") {
-        state.cells[key] = { status: "rate_limited", ads_count: previousCount, error: result.errorCode };
-        passStats.rate_limited++;
-        log("WARN", `  E1009 (${elapsed}ms)`);
-      } else {
-        state.cells[key] = { status: "error", ads_count: previousCount, error: result.errorCode };
-        passStats.error++;
-        log("ERR", `  ${result.errorCode} (${elapsed}ms)`);
-      }
-
-      saveState(state);
-      await sleep(DELAY_MS);
     }
+
+    log("INFO", "");
+    log("INFO", `=== PASS ${passNum} COMPLETE ===`);
+    log("INFO", `Processed:      ${processed}`);
+    log("INFO", `Fetched:        ${passStats.fetched}`);
+    log("INFO", `No ads:         ${passStats.no_ads}`);
+    log("INFO", `Rate limited:   ${passStats.rate_limited}`);
+    log("INFO", `Errors:         ${passStats.error}`);
+    log("INFO", `Hit rate:       ${processed > 0 ? (((passStats.fetched + passStats.no_ads) / processed) * 100).toFixed(1) : 0}%`);
+    log("INFO", `Total ads all-time: ${state.total_ads}`);
+
+    saveState(state);
+    printStatus(brands, state, countries);
+
+    if (!loopMode) break;
+
+    const remaining = Object.values(state.cells).filter((c) => c.status === "rate_limited").length;
+    if (remaining === 0) {
+      log("INFO", "ALL BRANDS RESOLVED — stopping loop.");
+      break;
+    }
+
+    if (!foreverMode && passStats.fetched === 0 && passStats.no_ads === 0) {
+      log("WARN", `Pass ${passNum} made ZERO progress (${remaining} still blocked). IPs may be exhausted — stopping. Use --forever to keep retrying.`);
+      break;
+    }
+    if (foreverMode && passStats.fetched === 0 && passStats.no_ads === 0) {
+      log("WARN", `Pass ${passNum} made ZERO progress (${remaining} still blocked) — --forever: cooling down and will retry...`);
+    }
+
+    log("INFO", `${remaining} brands still rate-limited — looping...`);
   }
-
-  log("INFO", "");
-  log("INFO", "=== PASS COMPLETE ===");
-  log("INFO", `Processed:      ${processed}`);
-  log("INFO", `Fetched:        ${passStats.fetched}`);
-  log("INFO", `No ads:         ${passStats.no_ads}`);
-  log("INFO", `Rate limited:   ${passStats.rate_limited}`);
-  log("INFO", `Errors:         ${passStats.error}`);
-  log("INFO", `Hit rate:       ${processed > 0 ? (((passStats.fetched + passStats.no_ads) / processed) * 100).toFixed(1) : 0}%`);
-  log("INFO", `Total ads all-time: ${state.total_ads}`);
-
-  saveState(state);
-  printStatus(brands, state, countries);
 }
 
 main().catch((err) => {
