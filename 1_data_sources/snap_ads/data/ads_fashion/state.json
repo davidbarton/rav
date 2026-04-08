@@ -1,0 +1,967 @@
+{
+  "cells": {
+    "Vans::de": {
+      "status": "fetched",
+      "ads_count": 3
+    },
+    "H&M::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Stradivarius::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Oysho::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Weekday::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Monki::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "C&A::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "New Yorker::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "ASOS::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Missguided::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "About You::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Louis Vuitton::de": {
+      "status": "fetched",
+      "ads_count": 10
+    },
+    "Miu Miu::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Michael Kors::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Burberry::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Ralph Lauren::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Valentino::de": {
+      "status": "fetched",
+      "ads_count": 10
+    },
+    "Tag Heuer::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Nivea::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Eucerin::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Olay::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Old Spice::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "MAC::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Too Faced::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Axe::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Sephora::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Rituals::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Glossier::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Clarins::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "El Corte Ingles::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "TK Maxx::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Intimissimi::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Crocs::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Diesel::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Hunkemoller::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Cult Beauty::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Chanel Parfums::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Versace Parfums::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Dolce Gabbana Parfums::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "adidas::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "ASICS::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "On Running::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Champion::de": {
+      "status": "fetched",
+      "ads_count": 4
+    },
+    "Uniqlo::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Temu::de": {
+      "status": "fetched",
+      "ads_count": 4
+    },
+    "PrettyLittleThing::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Balenciaga::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Jimmy Choo::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Dolce & Gabbana::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Tiffany::de": {
+      "status": "fetched",
+      "ads_count": 8
+    },
+    "Urban Decay::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Tom Ford Beauty::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Nike::de": {
+      "status": "rate_limited",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T16:12:55.564Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES7gZb5CCvrTXTxxJB_WJKzabWD_SbUwFk3AkuZ246WuegZC6lEaq3kqd5Y6UvoiYiP2x0lzK9DFOfLFywKRPmphEZ3SHsiAHNz7pK15QpfcnNfieeQ_EknlO-_TPNbyU2HqxuMbzg92K0DZfhpG_VE8GTWtUTyL7Gge5-T6ts3s23EFx1BICVmWDeyU86ki8vCV3h3MISters5ZVUDHDx7WUN3vfqhIxrRvEakaQ4VVWqNVgr8gfSU1HeNkkKpqrvhMDRoAdn5iWYfHLsgN7KzntU2heud9Jh0KbA5YVkz7z0DxXSc6eyrsEUvz9dmSJKqSbwhYxlnXC7IZwf-fY4cPy6Vd1aWZ_N2ADnpFLUnYCd4pmOQu5b6RWltnHatNKHM-Tx6L1sc77y0tu9wnmB0waLxNURT6qJrUQRhCbGWGAI2Kp4_cSnwKy69fCL77brmoF0CKcPjbKlGc5NCJbO7H7ZhlejUTousgvb6J4LasvClUM-_S3MVsrkW7cUYyT8btG5_bTqs6M_YSJIaQAUDbCTF8XoIDR5wy-Cv8bwTHQzJjUceGYUSaxL_Rs--BL4kf6mVGLqnMJyCN402_CgFseTWhAhyvEbK6qYI0W1PoxVm0c5aApO2jSwtkVIT6E62O8tF7r4r0EnhO7oKRObkdDQ3ErGjJIrD1JIsUb44fgXMWk7Kr5fdwtySmhYmCzTXF8NEwClFCeOqkBXzwYtEk3jvy8XSoMTkNQxKSUZWyc4-iC35Tw-XGUNPW4DWM-YB1zWhku6glVh4JDPBm4RDRM9jESoaikMH5Ukdzj54LaIiAkKqGIAlTNd82eZK7DIWVnKepYNwvpXaFAy6YfvJxjqWNbOQtNI_yKPIStmK7Lw2kiQgxWLffezMBskskUUtbCrpyyqq6_lePtvioBeS4INEeGJYeBG-PCZIGELbb8aGokGCgnX_woI8mVFEbrDDttc6O9ANpnd5V9dlngfEYe0oQDO2qSzXk1ZRDexwMPz2ybRlpqOJGw-LmbBGfubv9_Sr-7mUrhcTE_JWI2jPbSvJACUSkf6YhsztR3xvdRDFaoljtkni-_Pb50iyXAlHwUZTBKHtXoUjd2QPCptnucSKyufmi-wN-Xkd2KctaLFbyQU5A2RhAGfgMpXT5seJfCwaTrRVGWnYoMJN2Ph4xoM1IIZk8uhk1vA_3_AIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1NjEzMjUzNzQ2&limit=50",
+      "error": "PARTIAL"
+    },
+    "Puma::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "New Balance::de": {
+      "status": "fetched",
+      "ads_count": 9,
+      "fetched_at": "2026-04-08T15:59:41.960Z"
+    },
+    "Reebok::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Under Armour::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Fila::de": {
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-08T15:50:46.095Z"
+    },
+    "Converse::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "The North Face::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Columbia::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Lululemon::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Gymshark::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Hoka::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Salomon::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Jordan::de": {
+      "status": "rate_limited",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T16:13:21.700Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9wZUjYntLr6F2xUT3sWIbgrkJoXFcSBnakl7Eod4g4OE5sGmlVWnrdya46gfSXezipNWYwFitFxBMxvbpZ5aJgPVxF7x56-YFLkX1V0RFgYRbxEMWecS6xh8AYNpOOi1vPrtzGh5Iec0yBqMxn3_qkMqRwLj5uz5RhqYRpMCAO5kVm2yn4wGYeCGYO4Xm2suK7C9lO-P81GqZ_34Dj5_Bw-7XCZFxrDi_duWxnXV0jaS0WVLH3yP2nsDL-aGUJRXDnGLT83VmKdUiHsPuRFVQszeFqdFsT8Py4QXzuIJ2zxN1eR3_zlpXm-7aSOLkSd49auKObpYaqJFGQ32tXopyurgXaC33sODiwDlfU7e6GhN_AEPZt63EyvNrpR8h54-7XBB5ObgWOweK5jZoD1fPuQ4O01DjN0VEJI3bObEA97tiizcXPLR85C9WKtI0-JAGdr7Y5I0_V5Y1rCzkVDIyp3UbZczEukjpkhoU7tI5vCLltmp-wC0dHpQDG1DopEXEpcATshIJ948nr8vfwxosHjJmotQhd_8QSAsMxfV-FmC3brUifsv-fUAFsQNGb_mw-kGBsl84TcpjnZ_C91C9eO-0dsLwDiPZ7q3LPGeWdnCzhVuXRw1fDvRvH0y_NjJ27dQ0LqYkBczSR-zHsVMrU8hsWi3MYzlCq_Amtt9e_0vQnXFdZdlZR9dVhAm8W49COypAFxtMmNiDdVVPI3V5_X73pfcQzFYoy4r1vaN7ggtlQZPoLfae-72AyQ2aXysph78ECbY2dvOStjwzfQTrL0YBXoGt9RIuI5N97Cc8N0RDBX1m-pm4yAQJA88vBNzcu3OlESbdYDa_CK0tkrxNDCteor_ZEFDSuMV0pNCm1rYRbncY8s1ihK2sjP4AaCWJKtHJb6KED1dRxCXt_fVPBxpx5l-zNRN2QoGoAdMfBkPANvdwt7ULTi-OZYTFH6edVezHWUXw2AwCXZl_kvTLuzNNMPr0YtYfKnVkU6lscXOJMTpaZ8l_D9ECv1zJRV5quVKnBC9ngf59tsbW0XT4GsbmMKTBTMuWqsM9RjNZtvr_lNZ-zqJoCvStJHFIkmIsHA3u0qH1bb1bFPEzuk7mhDblN3Xj1VorMzRK3pGZMIUKPTZckLsEHPhu86g_6mLPWVPreb9dX3HNHXkEV5iibUZgAmbWy5LuhoMjFSOp-d7Qu4f8OHeIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1NjEzMjUzNzQ2&limit=50",
+      "error": "PARTIAL"
+    },
+    "Ellesse::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Zara::de": {
+      "status": "fetched",
+      "ads_count": 3,
+      "fetched_at": "2026-04-08T15:51:36.059Z"
+    },
+    "Primark::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Pull&Bear::de": {
+      "status": "error",
+      "ads_count": 0,
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+    },
+    "Bershka::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Massimo Dutti::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "COS::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "& Other Stories::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Arket::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Mango::de": {
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-08T15:29:27.608Z"
+    },
+    "Shein::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Boohoo::de": {
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T15:52:06.487Z"
+    },
+    "NA-KD::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Esprit::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Kiabi::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Tally Weijl::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Orsay::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Reserved::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Sinsay::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "House::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Cropp::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Mohito::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Dior::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Givenchy::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Fendi::de": {
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-08T15:30:46.330Z"
+    },
+    "Celine::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Loewe::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Kenzo::de": {
+      "status": "fetched",
+      "ads_count": 5,
+      "fetched_at": "2026-04-08T15:44:04.735Z"
+    },
+    "Marc Jacobs::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Gucci::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Saint Laurent::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Bottega Veneta::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Alexander McQueen::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Chanel::de": {
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T15:53:03.267Z"
+    },
+    "Hermes::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Prada::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Versace::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Tommy Hilfiger::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Calvin Klein::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Hugo Boss::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Armani::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Cartier::de": {
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T16:02:29.642Z"
+    },
+    "Rolex::de": {
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-08T15:31:53.688Z"
+    },
+    "Omega::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Coach::de": {
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T15:53:36.007Z"
+    },
+    "Kate Spade::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Moncler::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Stone Island::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Canada Goose::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "L'Oreal::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Maybelline::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Lancome::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "NYX::de": {
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T15:32:35.938Z"
+    },
+    "Garnier::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Kiehls::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "YSL Beauty::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Giorgio Armani Beauty::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "La Prairie::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Pantene::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Head & Shoulders::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Gillette::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Clinique::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Estee Lauder::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Bobbi Brown::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "The Ordinary::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "CeraVe::de": {
+      "status": "error",
+      "ads_count": 0,
+      "error": "NETWORK: RequestError: Session closed without receiving a SETTINGS frame"
+    },
+    "La Roche-Posay::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Vichy::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Dove::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Rexona::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "TRESemme::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Schwarzkopf::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Douglas::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Bath & Body Works::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Charlotte Tilbury::de": {
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-08T16:15:37.932Z"
+    },
+    "Fenty Beauty::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Rare Beauty::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Kylie Cosmetics::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Benefit::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "NARS::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Shiseido::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Caudalie::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Bioderma::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Avene::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Weleda::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Kiehl's::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Coty::de": {
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T15:34:45.373Z"
+    },
+    "Revlon::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Max Factor::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Rimmel::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Sally Hansen::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Essence::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Catrice::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Zalando::de": {
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T15:35:17.630Z"
+    },
+    "Deichmann::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Foot Locker::de": {
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T15:56:20.045Z"
+    },
+    "JD Sports::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Snipes::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Peek & Cloppenburg::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Galeries Lafayette::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Breuninger::de": {
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T15:35:45.523Z"
+    },
+    "Calzedonia::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Tezenis::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Pandora::de": {
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T15:56:52.261Z"
+    },
+    "Swarovski::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Bijou Brigitte::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Fielmann::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Specsavers::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Ray-Ban::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Oakley::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Dr. Martens::de": {
+      "status": "fetched",
+      "ads_count": 4,
+      "fetched_at": "2026-04-08T15:57:13.260Z"
+    },
+    "Birkenstock::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Timberland::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Superdry::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Jack & Jones::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Vero Moda::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Only::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Selected::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Scotch & Soda::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "G-Star::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Levi's::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Guess::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Lacoste::de": {
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T15:37:24.270Z"
+    },
+    "Fred Perry::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Carhartt::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Dickies::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Patagonia::de": {
+      "status": "rate_limited",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T16:16:55.317Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES6ga5_aVC_I0OXBlePlZfCkrNVcE5kK1iicZGxSSLNFcYR85fE4LwQXhAFAG66BACstcegzzAWiWFeH9uEcWpFGzpSyoS686ETPieUKWVquTDiP0fZk42YnSA8l30Sbzj40637mnyMVXfnE9slwut2Xe-zopFVQwHuVOSTq003y3wZH2KLC1TgvRZsx0X7ALs5VUyyiYT81FjEOimp0qTL58S22weFBNUQLbDVwYuArOkhvlcYIrLLdB5ouQd0UCyPt8t5EXBQwS7Ljr_D3WP4Hx5TZMVmFKlmjnfGe2s52Hjnnf4eA080C3MFDu0hxAfC3M-CDmVmvLhLY0mQTMdrYMIrMhuwrS8b1SRuJ6FCli-mr-T6mHBvBVnI1WA_wZqvKMv_ujcWVyo99yoWTDXESJEfj2sIbUwY7dlecmjHdwF06f3g_KHGT-4BhrsE4W9G11KALPmwXiR3w0O4aYmulJ7CnrrLhqJELD4OpELu8BSW_M7kHfWwogExuC7XqMv36Ktegf2tCNp4ob6xnEW2eeZsT4UT9I1cLMlMbARltT32oC28rt5jJ1lB8YeUUJcezNjJEdU4eIx7lBaOapOMbpxhcLqpBOVYG39avh74BKxpU0U4sMVeAmJZ7qEgOSaFKKXuEDtgizIOG7zt67qGBfj7B0ZSOMF-yuXah0Vc12gxrX9_Io1SeQ4DWMAQmMCNIXHBVT9Lyc1__wbLDqcekYg04MEARekokgg9fgejvakMZvpr5mpnA8F7SzClrlPoPNvrpWWONa6dz_rNKCdpfxAaZTjibOJjvP2JJObRhTFhk81HFR02SGhOokMU29ODt478FV1HPAtBa_XNCKcHIIsR7qW19a9upkHAAsp38nBAvRE09TuOWvjp64FbdlIX-R7ucm7QnzfcyUGjefEoWCvzqfK_Rxy2-sS0Zku86YgEZuwJFo5pIEX-dmBLBupmcP11SzY8M5liX_TzQQMz9o06Dq81Y4Pmo7bckaWSJtQn3a1-UFS0BxTYOz3u1Fno16sWqUm8JDenWekBZhZIQv6aRvVTgvPw_F1478psGGehPKv1Y63rilQ9SJAPDSj0W8SkxtnMRteEAVGOd34EdcjmsEYzZTKiLF2inHjvDHqYkxiu17xIE9IVXMMozJySErXqNQASmXWlegMGgwDQrNCizxc929c6f4iHGFkc2FwaXNjLWJpZ3F1ZXJ5LXBhZ2luYXRpb24qDTE3NzU2MTMyNTM3NDY%3D&limit=50",
+      "error": "PARTIAL"
+    },
+    "Arc'teryx::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Jack Wolfskin::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Mammut::de": {
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-08T16:05:57.545Z"
+    },
+    "Victoria's Secret::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Triumph::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Wolford::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Falke::de": {
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-08T15:38:06.583Z"
+    },
+    "Flaconi::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Notino::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Lookfantastic::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Parfumdreams::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Dyson::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "GHD::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Philips::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Braun::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Dior Parfums::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Jean Paul Gaultier::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Paco Rabanne::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Carolina Herrera::de": {
+      "status": "rate_limited",
+      "ads_count": 0,
+      "error": "E1009"
+    },
+    "Hugo Boss Parfums::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Yves Saint Laurent Parfums::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    },
+    "Lancome Parfums::de": {
+      "status": "no_ads",
+      "ads_count": 0
+    }
+  },
+  "total_requests": 899,
+  "total_ads": 216,
+  "countries": [
+    "de"
+  ],
+  "started_at": "2026-04-08T15:06:09.283Z",
+  "last_updated": "2026-04-08T16:17:42.992Z"
+}

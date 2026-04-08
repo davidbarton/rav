@@ -30,6 +30,5 @@ Thumbs.db
 *.swo
 *~
 
-# Data (raw fetched data is large, keep in .gitignore)
-# Uncomment if you want to exclude raw API pages from git:
+# Data (raw fetched data is large but tracked intentionally)
 # 1_data_sources/snap_ads/data/

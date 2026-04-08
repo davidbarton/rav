@@ -64,6 +64,35 @@
  *
  *
  * ============================================================================
+ * WHY ~92% OF SPONSORED CONTENT HAS EMPTY sponsor_name (2026-04-08)
+ * ============================================================================
+ *
+ * Empirical: vast majority of /sponsored_content records have sponsor_name="".
+ * Only ~8% name an actual brand. Three likely reasons (useful as UI context):
+ *
+ * 1. SNAPCHAT'S OWN SPOTLIGHT MONETIZATION (most likely)
+ *    Snapchat pays creators directly via Spotlight Rewards / Creator Fund.
+ *    Ads placed alongside creator videos with revenue sharing. Content is
+ *    commercially monetized → appears in transparency feed, but no external
+ *    brand sponsor exists. Snapchat is the sponsor but doesn't tag itself.
+ *
+ * 2. EU DSA TRANSPARENCY OBLIGATION
+ *    Digital Services Act forces disclosure of ALL commercially incentivized
+ *    content. Sweeps in every monetized Spotlight video, not just brand deals.
+ *    sponsor_name only filled when creator explicitly tags a third-party brand.
+ *
+ * 3. WEAK CREATOR DISCLOSURE COMPLIANCE
+ *    EU Parliament/BEUC research documents "widespread hidden advertising"
+ *    on Snapchat. Creators do paid promos without tagging the brand.
+ *    Snapchat may flag content as sponsored algorithmically but can't fill
+ *    the brand name the creator didn't provide.
+ *
+ * PRACTICAL: The ~8% with sponsor_name are the high-signal records — real
+ * brand↔creator partnerships for influence mapping. The unbranded entries
+ * still reveal who the active monetized creators are.
+ *
+ *
+ * ============================================================================
  * OBSERVED RATE LIMITS (empirical, 2026-04-08)
  * ============================================================================
  *
@@ -96,6 +125,46 @@
  * - Pagination cursors may become invalid if you wait too long between pages.
  *   _ASSUMPTION_: cursors are valid for at least 1 hour.
  *
+ * - /ads/search HAS AN EXTREMELY AGGRESSIVE RATE LIMIT (2026-04-08):
+ *   Budget appears to be ~1-3 successful requests per IP, then locked for
+ *   hours (possibly 24h rolling window). This is NOT shared with
+ *   /sponsored_content which is far more lenient (~1 req/20s sustained).
+ *   Tested from: bare IP, rotating proxy, mobile phone (fresh IP).
+ *   ALL sources get 429 after minimal usage. This is likely a global
+ *   server-side throttle, not purely per-IP.
+ *
+ * - /ads/search NAME FORMAT: lowercase works. The only successful query
+ *   ever observed used "spotify" (lowercase), returning real ad data.
+ *   "Nike" (capitalized) was never tested without rate limit interference.
+ *   The web UI hint says "must be exact spelling" — case sensitivity unknown.
+ *
+ *
+ * ============================================================================
+ * AUTHENTICATION: DOES NOT EXIST (tested 2026-04-08)
+ * ============================================================================
+ *
+ * The Ads Gallery API has NO authentication layer. Tested empirically:
+ *
+ * - Sending `Authorization: Bearer <fake_token>` to /sponsored_content:
+ *   → 200 SUCCESS. Token silently ignored, normal data returned.
+ *   A real auth system would return 401/403 for an invalid token.
+ *
+ * - Sending `Authorization: Bearer <fake_token>` to /ads/search:
+ *   → 429 (same as without token). Rate limit fires before any auth check.
+ *
+ * - Sending no Authorization header:
+ *   → Identical behavior to above for both endpoints.
+ *
+ * CONCLUSION: The API ignores the Authorization header entirely. It has no
+ * auth wiring. The Marketing API's OAuth tokens (10-20 req/sec) do NOT apply
+ * to these /ads_library/* endpoints. Snap built this as a bare-minimum
+ * DSA (EU Digital Services Act) compliance API — publicly accessible,
+ * intentionally throttled, no way to unlock higher rate limits via auth.
+ *
+ * The Snap Marketing API (OAuth, Bearer tokens, 10-20 req/sec) is a
+ * SEPARATE system for managing your OWN ad campaigns, not for querying
+ * the public ads transparency library.
+ *
  *
  * ============================================================================
  * KNOWN QUIRKS
@@ -126,6 +195,159 @@
  * - web_view_properties.url often contains full UTM parameters revealing
  *   campaign structure, media buying agency, and targeting strategy in
  *   human-readable form. This is unintentional intelligence leakage.
+ *
+ *
+ * ============================================================================
+ * ADVERTISER NAME FORMAT (learned from Apify scrapers, 2026-04-08)
+ * ============================================================================
+ *
+ * The paying_advertiser_name field is the LEGAL ENTITY name, not the brand:
+ *   - Nike      → "Nike, Inc."
+ *   - adidas    → "adidas AG"
+ *   - Spotify   → worked with lowercase "spotify" (legal name may differ)
+ *
+ * However, the search INPUT accepts brand names too ("Nike", "Zalando",
+ * "Ikea") — the API does fuzzy/prefix matching against the legal name.
+ * The RESPONSE then shows the full legal entity in paying_advertiser_name.
+ *
+ * If you get 0 results, try: full legal name, different casing, or a
+ * different country where the brand may have more ad activity.
+ *
+ * Source: Apify scraper docs (zadexinho/snapchat-ads-scraper) which
+ * successfully scrapes thousands of ads using this endpoint.
+ *
+ *
+ * ============================================================================
+ * /ads/search RATE LIMIT: SOLVABLE WITH PROXY POOL (2026-04-08)
+ * ============================================================================
+ *
+ * Despite our struggles, third-party scrapers (Apify) successfully use this
+ * endpoint at scale. Key insight from their documentation:
+ *
+ * - "Datacenter proxies work well. Residential proxies may get rate-limited."
+ *   This is COUNTERINTUITIVE — datacenter IPs work BETTER than residential.
+ *   Likely because Snap rate-limits by IP and datacenter pools are larger/
+ *   more diverse than residential rotating proxies (which share subnet pools).
+ *
+ * - "For 1,000+ ads, request in batches of 200-500 per run to avoid partial
+ *   results from API rate limits." — confirms rate limit exists but is
+ *   manageable with sufficient IP diversity.
+ *
+ * - Our single rotating proxy (Webshare) failed because it rotates through
+ *   a LIMITED pool of IPs, many sharing subnets. Apify has millions of IPs.
+ *
+ * - Rate limit IS per-IP, NOT global server-side. Our earlier conclusion
+ *   that it was "global" was wrong — we simply didn't have enough unique IPs.
+ *
+ * PRACTICAL OPTIONS (from cheapest to easiest):
+ *   1. Cloudflare Workers (free 100k req/day, each from different IP)
+ *   2. Larger datacenter proxy pool (Bright Data $0.90/IP for 1000 IPs)
+ *   3. Apify scraper directly ($2/1000 ads, zero engineering)
+ *      - zadexinho/snapchat-ads-scraper (pay per result)
+ *      - lexis-solutions/snapchat-ads-scraper ($30/mo subscription)
+ *
+ *
+ * ============================================================================
+ * /ads/search RATE LIMIT: EMPIRICAL FINDINGS (GCP POC, 2026-04-08)
+ * ============================================================================
+ *
+ * Tested via GCP Compute Engine VM and Cloud Run proxy (us-central1).
+ * The following was observed with 12 requests across 2 deployment modes:
+ *
+ * BUDGET PER IP:
+ *   - Exactly 1 data-returning request per IP address.
+ *   - The very first request from a fresh IP returns full ad data.
+ *   - Every subsequent request from the SAME IP returns:
+ *       { "request_status": "SUCCESS", "ads": [] }
+ *     Note: NOT a 429. It looks like success but with zero results.
+ *     This is a SOFT BLOCK — much sneakier than the hard E1009/429
+ *     we observed from residential IPs and rotating proxies.
+ *
+ * SOFT BLOCK vs HARD BLOCK:
+ *   - GCP datacenter IPs    → soft block (200 OK, 0 results)
+ *   - Residential/proxy IPs → hard block (429, E1009 "Too many requests")
+ *   - Both happen after ~1 successful request per IP.
+ *   - The soft block is brand-specific on the same IP: querying Nike
+ *     returns data, then Nike returns 0, but a DIFFERENT brand on the
+ *     same IP also returns 0. So the budget is 1 request per IP total,
+ *     not per IP+brand combination.
+ *
+ * BACKOFF DURATION:
+ *   - Unknown, but long. An IP that returned Nike data (138KB) went to
+ *     0 results within seconds and never recovered during our ~1 hour
+ *     session. Likely 24h+ rolling window based on Apify scraper docs
+ *     recommending "batches of 200-500 to avoid rate limits".
+ *
+ * SUBNET-LEVEL TRACKING (strong evidence, 2026-04-08):
+ *
+ *   Snap appears to throttle at the /24 subnet level, not just per-IP.
+ *
+ *   Evidence from GCP Cloud Run (us-west1), IP check via api.ipify.org:
+ *     Request 1: 34.34.253.161 → Zalando DE → SUCCESS, real ads
+ *     Request 2: 34.34.253.160 → Nike DE    → SUCCESS, 0 ads (soft block)
+ *     Request 3: 34.34.253.97  → BMW DE     → SUCCESS, 0 ads (soft block)
+ *     Request 4: 34.34.253.224 → Amazon DE  → SUCCESS, 0 ads (soft block)
+ *
+ *   All 4 IPs were from DIFFERENT containers (verified via process.exit
+ *   trick + x-req-count: 1), so they were genuinely different IPs. Yet
+ *   only the first request returned data. All IPs share 34.34.253.0/24.
+ *
+ *   Counter-evidence (same session, us-central1):
+ *     Request 1: 136.124.32.165 → IKEA DE   → SUCCESS, 0 ads
+ *     Request 2: 34.34.233.249  → Lidl DE   → SUCCESS, 0 ads
+ *
+ *   These are DIFFERENT /24 subnets, yet both returned 0. This could mean:
+ *     a) us-central1's subnets were already burned from earlier testing, OR
+ *     b) Snap tracks at a level broader than /24 (e.g., ASN-level for
+ *        known cloud providers like Google Cloud).
+ *
+ *   CONCLUSION: The throttle granularity is somewhere between per-IP and
+ *   per-ASN. Our working theory:
+ *     - Per-IP:     1 data-returning request, then soft block
+ *     - Per-subnet: after N IPs in a /24 are hit, entire range blocked
+ *     - Per-ASN:    some cloud provider ranges (GCP, AWS) may have
+ *                   harsher baseline limits than residential
+ *
+ *   HARD BLOCK vs SOFT BLOCK by region (observed 2026-04-08):
+ *     us-central1:  soft block (200 OK, 0 results) — worked initially
+ *     us-west1:     soft block (200 OK, 0 results) — worked initially
+ *     europe-west1: HARD block (E1009, 429) — never worked
+ *     us-east1:     HARD block (E1009, 429) — never worked
+ *     asia-east1:   HARD block (E1009, 429) — never worked
+ *
+ *   Some GCP regions' IP ranges may be pre-blocked (known cloud ranges
+ *   that have been abused by other scrapers before us).
+ *
+ *   IMPLICATIONS FOR SCALING:
+ *     - Multi-region helps but is not unlimited (~1 fresh subnet/region)
+ *     - Some regions are dead on arrival (pre-blocked)
+ *     - VPC + Cloud NAT with manually allocated static IPs would give
+ *       explicit control over which IPs/subnets to use
+ *     - Multi-cloud (GCP + AWS + CF Workers) diversifies ASN ranges
+ *     - Apify works because they have millions of IPs across many ASNs
+ *
+ *   The proxy returns x-proxy-ip header on every response for tracking.
+ *
+ * GCP CLOUD RUN AS PROXY:
+ *   - Works. Dummy proxy (forwards request, returns response, exits).
+ *   - process.exit(0) after each response forces container death →
+ *     next request gets a fresh container with a fresh IP.
+ *   - --concurrency=1 ensures no two requests share a container.
+ *   - --min-instances=0 so we don't pay when idle.
+ *   - x-proxy-ip header on every response (resolved on container startup
+ *     via api.ipify.org) for tracking which IP was used.
+ *   - Deploy to multiple regions for maximum IP diversity.
+ *   - Free tier: 2M requests/month, 360k vCPU-seconds, 180k GiB-seconds.
+ *     At ~1 request per brand per IP, this is effectively unlimited for
+ *     our use case.
+ *
+ * VERIFIED WORKING (2026-04-08):
+ *   - Nike DE:      138KB, full ads with media URLs, impressions, dates
+ *   - Coca-Cola DE: full ads with pagination cursor
+ *   - Amazon DE:    full ads with pagination cursor
+ *   - Zalando DE:   full ads with pagination cursor
+ *   - IKEA DE:      success but 0 ads (possibly no active ads, or blocked)
+ *   - Apify (Nike DE, adidas DE, Spotify DE, BMW DE, Samsung DE): all OK
  *
  * ============================================================================
  */
@@ -314,14 +536,14 @@ function initProxy(proxyUrl: string): void {
 
 /**
  * Interval overrides when using a rotating proxy.
- * Initial testing showed 3s worked for burst of 3 requests, but sustained
- * pagination still hits E1009 after ~3-4 pages. The rate limit appears to be
- * partially cursor/session-based, not purely IP-based.
- * Settled on 10s start — gives ~3 successes before a rate-limit cycle,
- * with backoff up to 60s. Effective avg: ~30s/page with retries.
+ * With got-scraping (browser TLS fingerprint) + rotating proxy, the main
+ * transient error is E1008 (cursor/IP mismatch), not E1009. E1008 retries
+ * are instant (no throttle wait), so the interval only gates successful
+ * requests. 3s is aggressive but sustainable — most E1008s resolve in 1-2
+ * instant retries, giving effective throughput of ~4-5s/page.
  */
 const PROXY_RATE = {
-  MIN_INTERVAL_MS: 10_000,   // 10s — empirical sweet spot with rotating proxy
+  MIN_INTERVAL_MS: 3_000,    // 3s — E1008 retries are instant, E1009 rare with proxy
   MAX_INTERVAL_MS: 60_000,   // 1 min ceiling
 };
 
@@ -416,9 +638,14 @@ async function apiRequest<T>(
   },
 ): Promise<ApiResponse<T> | null> {
   const maxRetries = options.maxRetries ?? 5;
+  let skipThrottle = false;
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    await throttle();
+    if (skipThrottle) {
+      skipThrottle = false;
+    } else {
+      await throttle();
+    }
 
     totalRequests++;
     lastRequestTime = Date.now();
@@ -476,7 +703,16 @@ async function apiRequest<T>(
         log("ERR ", `Exhausted retries on rate limit for: ${options.label}`);
         return null;
       }
-      // Non-rate-limit errors are not retryable
+      // E1008 "validation error" is transient when using a rotating proxy —
+      // the cursor was issued to one exit IP but the next request arrives from
+      // a different one. Retry immediately (no backoff increase) and the proxy
+      // will rotate to a new IP that may be accepted.
+      if (data.error_code === "E1008") {
+        log("WARN", `E1008 validation error (transient, attempt ${attempt + 1}/${maxRetries + 1}): retrying instantly`);
+        if (attempt < maxRetries) { skipThrottle = true; continue; }
+        log("ERR ", `Exhausted retries on E1008 for: ${options.label}`);
+        return null;
+      }
       log("ERR ", `API error ${data.error_code}: ${data.debug_message} — ${data.display_message}`);
       return data;
     }

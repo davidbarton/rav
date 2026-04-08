@@ -1,21 +1,21 @@
 # Snapchat — Complete Map of Available Advertising Data
 
-> Deep research, 2026-04-08. Focus: What data exists, how to get it, what shape it has, access constraints, and relevance to Ravineo.
+> Researched and verified 2026-04-08. Every source was tested hands-on. 3 of 7 are accessible and actively used. 4 are confirmed dead ends. See "Outcome" section at the bottom for the full post-mortem.
 
 ---
 
 ## TL;DR — 7 Distinct Data Sources
 
 
-| #   | Source                                               | Auth                      | Scope                                           | Bulk?                  | Relevance                                                                |
-| --- | ---------------------------------------------------- | ------------------------- | ----------------------------------------------- | ---------------------- | ------------------------------------------------------------------------ |
-| 1   | **Ads Gallery API** (EU Ad Library)                  | **None**                  | All paid ads in EU, last 12 months              | Paginated, no bulk ZIP | **PRIMARY** — free, unauthenticated, per-country impressions + targeting |
-| 2   | **Sponsored Content API** (organic commercial)       | **None**                  | Live organic branded content globally           | Paginated              | **HIGH** — creator ↔ sponsor links, content types                        |
-| 3   | **Political Ads Library** (bulk ZIP)                 | **None**                  | Political/advocacy ads, 2018–2026               | **Yes — CSV ZIP**      | **HIGH** — full spend, targeting, committee data                         |
-| 4   | **Marketing API** (Ads API)                          | **OAuth 2.0**             | Own campaigns — CRUD + stats                    | N/A                    | LOW — requires advertiser account                                        |
-| 5   | **Public Profile API**                               | **OAuth 2.0** (allowlist) | Creator discovery + profile metrics             | N/A                    | MEDIUM — creator metadata, requires partnership                          |
-| 6   | **Conversions API** (CAPI)                           | **Auth token**            | Server-to-server event tracking                 | N/A                    | NONE — advertiser-side data, not public                                  |
-| 7   | **DSA Transparency Reports** + **Researcher Access** | **Application**           | Moderation stats, content data under DSA Art.40 | Varies                 | MEDIUM — for academic/regulatory work                                    |
+| #   | Source                                               | Auth                      | Scope                                           | Bulk?                  | Status (2026-04-08)                                               |
+| --- | ---------------------------------------------------- | ------------------------- | ----------------------------------------------- | ---------------------- | ----------------------------------------------------------------- |
+| 1   | **Ads Gallery API** (EU Ad Library)                  | **None**                  | All paid ads in EU, last 12 months              | Paginated, no bulk ZIP | **ACTIVE** — working, rate-limit constrained, needs proxy scaling |
+| 2   | **Sponsored Content API** (organic commercial)       | **None**                  | Live organic branded content globally           | Paginated              | **COMPLETE** — 735+ pages, ~147k items, in DuckDB                 |
+| 3   | **Political Ads Library** (bulk ZIP)                 | **None**                  | Political/advocacy ads, 2018–2026               | **Yes — CSV ZIP**      | **COMPLETE** — 74,609 ads, 9 years, $117.5M spend, in DuckDB      |
+| 4   | **Marketing API** (Ads API)                          | **OAuth 2.0**             | Own campaigns — CRUD + stats                    | N/A                    | **DEAD END** — requires advertiser account with spend             |
+| 5   | **Public Profile API**                               | **OAuth 2.0** (allowlist) | Creator discovery + profile metrics             | N/A                    | **DEAD END** — requires Snap partnership for allowlisting         |
+| 6   | **Conversions API** (CAPI)                           | **Auth token**            | Server-to-server event tracking                 | N/A                    | **DEAD END** — write-only pipe, no readable data                  |
+| 7   | **DSA Transparency Reports** + **Researcher Access** | **Application**           | Moderation stats, content data under DSA Art.40 | Varies                 | **DEAD END** — non-commercial + university affiliation required   |
 
 
 ---
@@ -453,32 +453,54 @@ JavaScript tag for advertiser websites. Tracks user actions (page views, sign-up
 
 ---
 
-## Priority Matrix for Ravineo
+## Outcome — Real State After Attempting All 7 Sources (2026-04-08)
 
-### Immediate (no auth, free, actionable now)
+Every source was investigated, tested, or attempted. Three are working. Four are dead ends.
 
-1. **Ads Gallery API** — Build a brand-name crawler, systematically query EU ad data
-2. **Sponsored Content API** — Full pagination dump of creator ↔ sponsor relationships
-3. **Political Ads ZIP** — Download all years, analyze spend/targeting patterns
+### Final Scorecard
 
-### Short-term (requires application/setup)
 
-1. **DSA Researcher Access** — Apply for deep engagement data
-2. **Public Profile API** — Request allowlisting for creator discovery
+| #   | Source                    | Status               | Detail                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| --- | ------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Ads Gallery API**       | **ACTIVE — ongoing** | Working but rate-limit constrained. ~1 data-returning request per IP, then soft block (200 OK, 0 results). Subnet-level and possibly ASN-level throttling observed. Scaling requires large proxy pools (Apify, Cloudflare Workers, multi-cloud). Fashion brands partially fetched via rotating proxy.                                                                                                                                                             |
+| 2   | **Sponsored Content API** | **COMPLETE**         | 735+ pages fully paginated. ~147,000+ items downloaded. All creator ↔ sponsor relationships captured. ~92% have empty sponsor_name (Snap's own monetization). ~8% are real brand partnerships — high-signal data. Loaded in DuckDB.                                                                                                                                                                                                                               |
+| 3   | **Political Ads Library** | **COMPLETE**         | All 9 years (2018–2026) downloaded as bulk CSVs. 74,609 ads, $117.5M spend (mixed currencies), 19.6B impressions, 2,773 unique advertisers across 54 countries. Loaded in DuckDB as `political_ads` view. Re-download script for future updates.                                                                                                                                                                                                                  |
+| 4   | **Marketing API**         | **DEAD END**         | Requires active advertiser account with ad spend. Only exposes your own campaign data, not competitors'. No path without becoming a Snap advertiser.                                                                                                                                                                                                                                                                                                              |
+| 5   | **Public Profile API**    | **DEAD END**         | Tested endpoints directly — `businessapi.snapchat.com` returns `"unauthorized"`. Even "public" endpoints require an allowlisted OAuth app. Allowlisting requires an existing Snap partnership contact ("send your client ID to your Snap contact"). No self-serve access, no application form.                                                                                                                                                                    |
+| 6   | **Conversions API**       | **DEAD END**         | Write-only pipe. Advertisers send conversion events TO Snap, not the other way around. Requires Pixel ID + auth token tied to an ad account. No readable data surface whatsoever.                                                                                                                                                                                                                                                                                 |
+| 7   | **DSA Researcher Access** | **DEAD END**         | Two paths exist: Article 40(4) via EU Data Access Portal, or Article 40(12) via direct email to Snap. Both require non-commercial research purpose — Ravineo is commercial, so disqualified at the front door. Even academic researchers are getting rejected: a March 2026 post by Dutch university professors documents rejection on 5/7 criteria after 80 days. Process requires institutional legal machinery (DPOs, security officers, lawyers). Not viable. |
 
-### Reference Only
 
-1. **Marketing API** — Targeting taxonomy, ad format documentation
-2. **Conversions API** — Architecture reference only
+### What We Have
 
----
+**3 active data sources, all free and unauthenticated:**
 
-## Open Questions
+1. **Ads Gallery API** (`src/fetch.ts`, `src/download_ads.ts`)
+  - EU paid ads with impressions, targeting, creative assets, landing page URLs
+  - Rate limit is the bottleneck — needs proxy infrastructure to scale
+  - Fashion brands partially fetched; ongoing
+2. **Sponsored Content API** (`src/fetch.ts` → `sponsored` command)
+  - Complete snapshot of all live organic branded content on Snap
+  - Creator ↔ sponsor mapping, content types, direct content links
+  - In DuckDB as `sponsored_content` view
+3. **Political Ads Library** (`src/fetch_political.ts`)
+  - Only Snap source with actual spend data (not just impressions)
+  - Full targeting breakdown, committee/org transparency chain
+  - 2018–2026 historical coverage
+  - In DuckDB as `political_ads` view
 
-1. **Brand name enumeration**: How to build exhaustive list of `paying_advertiser_name` values for Ads Gallery search? No wildcard endpoint exists.
-2. **Rate limit bypass**: Current limits are tight (~1 req/2min observed). Proxy rotation? Multiple IPs? What's the actual documented limit?
-3. **Sponsored content historical data**: Only "currently live" — is there an archive? Can we build one by polling?
-4. **Political ads CSV granularity**: Need to download and inspect actual 2026 ZIP — do we get exact spend or ranges?
-5. **Ads Gallery completeness**: Does it truly cover ALL EU ads, or just a sample? DSA mandate suggests all.
-6. **Creative asset persistence**: How long do `top_snap_media_download_link` CDN URLs remain valid?
+### What We Don't Have (and Can't Get)
+
+- **Engagement metrics** (views, swipes, completions) — locked behind Marketing API (source 4) or DSA researcher access (source 7)
+- **Creator profile data** (subscriber counts, categories, content analytics) — locked behind Public Profile API (source 5)
+- **Non-EU commercial ads** — Ads Gallery is EU-only by DSA mandate
+- **Historical commercial ads** — 12-month rolling window, older ads disappear
+- **Spend data for commercial ads** — only political ads have spend; commercial ads only have impressions
+
+### Remaining Open Questions
+
+1. **Ads Gallery scaling**: Best option is likely Apify (~$2/1000 ads) or Cloudflare Workers (free 100k req/day, each from different IP). Our own proxy testing confirmed per-IP + subnet-level throttling.
+2. **Sponsored content staleness**: The API only shows "currently live" content. No archive exists. Periodic re-scraping would capture new content but miss deletions. Our current dump is a point-in-time snapshot.
+3. **Political ads refresh cadence**: The 2026 ZIP was last modified 2026-04-08 (today). Snap appears to update the current year's file regularly. Re-running `fetch_political.ts` periodically will capture updates.
+4. **Creative asset persistence**: CDN URLs (`top_snap_media_download_link` in ads, `CreativeUrl` in political ads) have unknown TTL. Should download media assets if archival matters.
 

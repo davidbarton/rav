@@ -8,7 +8,9 @@
     "fetch": "tsc && node dist/fetch.js",
     "fetch:ads": "tsc && node dist/fetch.js ads",
     "fetch:sponsored": "tsc && node dist/fetch.js sponsored",
-    "fetch:ad": "tsc && node dist/fetch.js ad"
+    "fetch:ad": "tsc && node dist/fetch.js ad",
+    "fetch:political": "npx tsx src/fetch_political.ts",
+    "fetch:political:summary": "npx tsx src/fetch_political.ts --summary"
   },
   "devDependencies": {
     "@types/node": "^25.5.2",
