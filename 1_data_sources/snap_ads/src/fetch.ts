@@ -123,7 +123,42 @@
  *   (accounting for backoff cycles), NOT the 3s we hoped for.
  *
  * - Pagination cursors may become invalid if you wait too long between pages.
- *   _ASSUMPTION_: cursors are valid for at least 1 hour.
+ *   (See SPONSORED CURSOR HELL below — the old "1 hour" guess was WRONG!!!!!)
+ *
+ * ============================================================================
+ * SPONSORED_CONTENT PAGINATION: CURSOR EXPIRY — READ THIS OR WASTE DAYS!!!!!!
+ * ============================================================================
+ *
+ * EMERGENCY BULLETIN (verified 2026-04-08)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ *
+ * If you STOP the /sponsored_content crawl and come back later, EVERY
+ * saved `paging.next_link` on disk can be DEAD!!!!!!!!!!!!!!!! Snap returns
+ * E1008 ("validation error") for those URLs — NOT just the last page — we
+ * tested a cursor from the MIDDLE of the run (hundreds of pages in) with
+ * curl and it STILL failed!!!!!!!!!!!!!!!! So you CANNOT "resume" by
+ * re-reading page files after a long gap — the entire chain rots!!!!!!!!!!
+ *
+ * Fresh request with NO cursor: SUCCESS!!!!!!!!!!!!!!!! Stale cursor from
+ * JSON you saved last week: E1008 E1008 E1008 forever until you give up!!!!!!
+ *
+ * IMPLICATIONS (SCREAMING)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ * - Deleting only `page_0882.json` does NOT fix it if 881's next_link is
+ *   expired too — you are NOT walking back to a magic good cursor!!!!!!!!!!
+ * - More retries / --no-proxy / praying does NOT resurrect dead cursors!!!!!!
+ * - Rotating proxy E1008 on resume is REAL but secondary — even direct IP
+ *   gets E1008 on stale cursors — do not confuse the two problems!!!!!!!!!!!
+ *
+ * WHAT TO DO INSTEAD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ * - Archive the old `sponsored_*` run dir (keep the JSON as a snapshot!!!!).
+ * - Start a NEW crawl in a fresh `sponsored_<timestamp>/` directory — move
+ *   the partial run OUT of `data/` so `getOrCreateRunDir("sponsored")` does
+ *   not pick it up (e.g. `data/partial_snapshots/...`)!!!!!!!!!!!!!!!!!!!!!!!
+ * - Expect to RE-FETCH from page 0 — there is NO API to skip to offset N!!!!
+ * - If you must finish in human time: use a STICKY proxy session (same egress
+ *   IP for the whole chain) so you can paginate fast WITHOUT cursor/IP mismatch
+ *   — rotating IP + cursor = pain — stale cursor + anything = MORE pain!!!!!!
+ *
+ * THIS IS WHY THE COMMENTS ARE LONG — IF WE DO NOT SHOUT, FUTURE-US FORGETS!!!!
  *
  * - /ads/search HAS AN EXTREMELY AGGRESSIVE RATE LIMIT (2026-04-08):
  *   Budget appears to be ~1-3 successful requests per IP, then locked for
@@ -870,6 +905,12 @@ async function fetchAdById(
  * - Same rate limits as paid ads — shared per-IP quota.
  * - Content is "currently live" only — no historical archive.
  * - Items are sponsored_content_preview (not ad_preview).
+ *
+ * RESUME AFTER DAYS OFF — CATASTROPHE WARNING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ * The on-disk resume path replays `next_link` URLs from saved JSON. If those
+ * cursors EXPIRED while you were away, EVERY request fails with E1008 — not
+ * fixable by deleting the last page file — see file header SPONSORED CURSOR
+ * HELL — you need a FRESH run directory, not optimism!!!!!!!!!!!!!!!!!!!!!!!
  */
 async function fetchAllSponsoredContent(
   runDir: string,
@@ -902,6 +943,7 @@ async function fetchAllSponsoredContent(
     const resp = await apiRequest<AdPreviewWrapper>(url, {
       label: `sponsored_content p${page}`,
       saveTo: pageFile(dir, page),
+      maxRetries: 30,
     });
 
     if (!resp || resp.request_status !== "SUCCESS") break;
