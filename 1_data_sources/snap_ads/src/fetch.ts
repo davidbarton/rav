@@ -328,7 +328,7 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
 import { fileURLToPath } from "node:url";
-import { Impit } from "impit";
+import { gotScraping } from "got-scraping";
 
 // Auto-load .env from repo root (walk up from this file to find it)
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -500,23 +500,12 @@ const DATA_DIR = path.resolve(import.meta.dirname ?? ".", "..", "data");
  */
 let activeProxyUrl: string | undefined;
 let usingProxy = false;
-let impit: Impit | null = null;
-
 function initProxy(proxyUrl: string): void {
   activeProxyUrl = proxyUrl;
   usingProxy = true;
   log("INFO", `Proxy enabled: ${proxyUrl.replace(/:[^:@]+@/, ":***@")}`);
 }
 
-function getImpit(): Impit {
-  if (!impit) {
-    impit = new Impit({
-      browser: "chrome",
-      proxyUrl: activeProxyUrl,
-    });
-  }
-  return impit;
-}
 
 /**
  * Interval overrides when using a rotating proxy.
@@ -526,20 +515,15 @@ function getImpit(): Impit {
  * vs 400-700ms for real responses). No rate-limit headers are returned
  * (no X-RateLimit-*, no Retry-After).
  *
- * Optimal strategy: burst-then-wait. Blast BUDGET requests with minimal
- * gap, then sleep until the window resets. Zero wasted retries.
+ * E1009 triggers progressive penalties — each hit makes subsequent
+ * windows more restrictive. The best strategy is a constant delay
+ * that never triggers E1009 in the first place.
  *
- * E1008 (cursor/IP mismatch) retries also count against the budget.
+ * Tuning: start conservative, lower the interval as long as zero
+ * E1009s are observed over 20+ consecutive pages.
  */
 const PROXY_RATE = {
-  MIN_INTERVAL_MS: 3_000,
-  MAX_INTERVAL_MS: 60_000,
-};
-
-const BURST = {
-  BUDGET: 6,
-  WINDOW_MS: 65_000,
-  GAP_MS: 2_000,
+  INTERVAL_MS: 30_000,  // 30s — testing: 21s hit E1009 every 3rd request
 };
 
 // ---------------------------------------------------------------------------
@@ -553,9 +537,6 @@ let totalRequests = 0;
 let totalSuccesses = 0;
 let totalRateLimits = 0;
 let lastRequestTime = 0;
-
-let burstStart = 0;
-let burstCount = 0;
 
 // ---------------------------------------------------------------------------
 // Logging
@@ -571,47 +552,17 @@ function log(level: "INFO" | "WARN" | "ERR " | "DATA", msg: string): void {
 // ---------------------------------------------------------------------------
 
 async function throttle(): Promise<void> {
-  if (usingProxy) {
-    return burstThrottle();
-  }
+  const interval = usingProxy ? PROXY_RATE.INTERVAL_MS : currentIntervalMs;
   const elapsed = Date.now() - lastRequestTime;
-  const wait = currentIntervalMs - elapsed;
+  const wait = interval - elapsed;
   if (wait > 0) {
-    log("INFO", `Throttle: waiting ${(wait / 1000).toFixed(0)}s (interval=${(currentIntervalMs / 1000).toFixed(0)}s)`);
+    log("INFO", `Throttle: waiting ${(wait / 1000).toFixed(0)}s (interval=${(interval / 1000).toFixed(0)}s)`);
     await sleep(wait);
-  }
-}
-
-async function burstThrottle(): Promise<void> {
-  const now = Date.now();
-
-  if (burstCount >= BURST.BUDGET) {
-    const windowEnd = burstStart + BURST.WINDOW_MS;
-    const wait = windowEnd - now;
-    if (wait > 0) {
-      log("INFO", `Burst: ${burstCount}/${BURST.BUDGET} used, waiting ${(wait / 1000).toFixed(0)}s for window reset`);
-      await sleep(wait);
-    }
-    burstStart = 0;
-    burstCount = 0;
-    log("INFO", `Burst: window reset, starting new burst`);
-  }
-
-  if (lastRequestTime > 0) {
-    const elapsed = Date.now() - lastRequestTime;
-    const gap = BURST.GAP_MS - elapsed;
-    if (gap > 0) {
-      await sleep(gap);
-    }
   }
 }
 
 function sleep(ms: number): Promise<void> {
   return new Promise((r) => setTimeout(r, ms));
-}
-
-function effectiveRate() {
-  return usingProxy ? PROXY_RATE : RATE;
 }
 
 function onSuccess(): void {
@@ -620,11 +571,10 @@ function onSuccess(): void {
   totalSuccesses++;
 
   if (!usingProxy) {
-    const r = effectiveRate();
     if (consecutiveSuccesses >= RATE.COOLDOWN_THRESHOLD) {
       const prev = currentIntervalMs;
       currentIntervalMs = Math.max(
-        r.MIN_INTERVAL_MS,
+        RATE.MIN_INTERVAL_MS,
         Math.floor(currentIntervalMs * RATE.COOLDOWN_FACTOR),
       );
       if (currentIntervalMs < prev) {
@@ -641,13 +591,11 @@ function onRateLimit(): void {
   totalRateLimits++;
 
   if (usingProxy) {
-    burstCount = BURST.BUDGET;
-    log("WARN", `Rate limit hit (#${totalRateLimits}). Burst exhausted, will wait for window reset.`);
+    log("WARN", `E1009 rate limit hit (#${totalRateLimits})! Interval ${PROXY_RATE.INTERVAL_MS / 1000}s is TOO SHORT — increase it.`);
   } else {
-    const r = effectiveRate();
     const prev = currentIntervalMs;
     currentIntervalMs = Math.min(
-      r.MAX_INTERVAL_MS,
+      RATE.MAX_INTERVAL_MS,
       Math.floor(currentIntervalMs * RATE.BACKOFF_FACTOR),
     );
     log("WARN", `Rate limit hit (#${totalRateLimits}). Backoff: ${(prev / 1000).toFixed(0)}s → ${(currentIntervalMs / 1000).toFixed(0)}s`);
@@ -683,10 +631,6 @@ async function apiRequest<T>(
 
     totalRequests++;
     lastRequestTime = Date.now();
-    if (usingProxy) {
-      if (burstCount === 0) burstStart = lastRequestTime;
-      burstCount++;
-    }
 
     const method = options.method ?? "GET";
     const bodyStr = options.body ? JSON.stringify(options.body) : undefined;
@@ -696,15 +640,19 @@ async function apiRequest<T>(
     let statusCode: number;
     let text: string;
     try {
-      const client = getImpit();
-      const resp = await client.fetch(url, {
+      const resp = await gotScraping({
+        url,
         method,
         body: bodyStr,
         headers: { "content-type": "application/json" },
-        signal: AbortSignal.timeout(30_000),
+        proxyUrl: activeProxyUrl,
+        headerGeneratorOptions: { browsers: ["chrome"], operatingSystems: ["macos"] },
+        responseType: "text",
+        throwHttpErrors: false,
+        timeout: { request: 30_000 },
       });
-      statusCode = resp.status;
-      text = await resp.text();
+      statusCode = resp.statusCode;
+      text = resp.body as string;
     } catch (err) {
       log("ERR ", `Network error: ${err}`);
       if (attempt < maxRetries) {
@@ -1070,8 +1018,7 @@ function getOrCreateRunDir(prefix: string): string {
 }
 
 function printStats(): void {
-  const burst = usingProxy ? `, burst=${burstCount}/${BURST.BUDGET}` : "";
-  log("INFO", `--- Stats: ${totalRequests} req, ${totalSuccesses} ok, ${totalRateLimits} rate-limited${burst} ---`);
+  log("INFO", `--- Stats: ${totalRequests} req, ${totalSuccesses} ok, ${totalRateLimits} rate-limited ---`);
 }
 
 // ---------------------------------------------------------------------------
@@ -1118,12 +1065,12 @@ async function main(): Promise<void> {
 
   if (proxyUrl) {
     initProxy(proxyUrl);
-    currentIntervalMs = PROXY_RATE.MIN_INTERVAL_MS;
   }
 
+  const effectiveInterval = usingProxy ? PROXY_RATE.INTERVAL_MS : currentIntervalMs;
   log("INFO", `Snap Ads Gallery Fetcher starting. Command: ${command}`);
   log("INFO", `Data directory: ${DATA_DIR}`);
-  log("INFO", `Initial request interval: ${(currentIntervalMs / 1000).toFixed(0)}s${usingProxy ? " (proxy mode)" : ""}`);
+  log("INFO", `Request interval: ${(effectiveInterval / 1000).toFixed(0)}s${usingProxy ? " (proxy, constant)" : ""}`);
 
   switch (command) {
     /**

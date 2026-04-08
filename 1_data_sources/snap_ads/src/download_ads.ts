@@ -29,7 +29,7 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
 import { fileURLToPath } from "node:url";
-import { Impit } from "impit";
+import { gotScraping } from "got-scraping";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 for (let dir = __dirname; dir !== path.dirname(dir); dir = path.dirname(dir)) {
@@ -278,11 +278,6 @@ function pickProxy(): string | undefined {
 
 const proxyUrl = pickProxy();
 
-const impit = new Impit({
-  browser: "chrome",
-  proxyUrl,
-});
-
 async function fetchAds(
   brand: string,
   country: string,
@@ -293,14 +288,19 @@ async function fetchAds(
   let statusCode: number;
   let text: string;
   try {
-    const resp = await impit.fetch(url, {
+    const resp = await gotScraping({
+      url,
       method: "POST",
       body,
       headers: { "content-type": "application/json" },
-      signal: AbortSignal.timeout(REQUEST_TIMEOUT),
+      proxyUrl,
+      headerGeneratorOptions: { browsers: ["chrome"], operatingSystems: ["macos"] },
+      responseType: "text",
+      throwHttpErrors: false,
+      timeout: { request: REQUEST_TIMEOUT },
     });
-    statusCode = resp.status;
-    text = await resp.text();
+    statusCode = resp.statusCode;
+    text = resp.body as string;
   } catch (err) {
     return { status: "error", ads: [], errorCode: `NETWORK: ${err}` };
   }
@@ -340,16 +340,19 @@ async function fetchRemainingPages(
 
     let resp;
     try {
-      resp = await impit.fetch(cursor, {
-        method: "POST",
+      resp = await gotScraping({
+        url: cursor, method: "POST",
         body: JSON.stringify({ paying_advertiser_name: brand, countries: [country] }),
         headers: { "content-type": "application/json" },
-        signal: AbortSignal.timeout(REQUEST_TIMEOUT),
+        proxyUrl,
+        headerGeneratorOptions: { browsers: ["chrome"], operatingSystems: ["macos"] },
+        responseType: "text", throwHttpErrors: false,
+        timeout: { request: REQUEST_TIMEOUT },
       });
     } catch { return { ads: allAds, pages: page, complete: false, lastCursor: cursor }; }
 
     let data: Record<string, unknown>;
-    try { data = JSON.parse(await resp.text()); } catch { return { ads: allAds, pages: page, complete: false, lastCursor: cursor }; }
+    try { data = JSON.parse(resp.body as string); } catch { return { ads: allAds, pages: page, complete: false, lastCursor: cursor }; }
 
     if (data.request_status !== "SUCCESS") {
       log("WARN", `  Pagination interrupted on page ${page + 1}: ${data.error_code ?? data.request_status}`);
