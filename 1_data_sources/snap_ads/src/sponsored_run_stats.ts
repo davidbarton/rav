@@ -47,6 +47,7 @@ function findLatestSponsoredRunDir(): string | null {
   const dirs = fs
     .readdirSync(DATA_DIR)
     .filter((d) => d.startsWith("sponsored_"))
+    .filter((d) => fs.statSync(path.join(DATA_DIR, d)).isDirectory())
     .sort()
     .reverse();
   return dirs.length > 0 ? path.join(DATA_DIR, dirs[0]!) : null;
@@ -102,16 +103,27 @@ function formatBytes(n: number): string {
 
 type RunStatus = "RUNNING" | "PAUSED" | "FINISHED";
 
-/** True if a `fetch.ts sponsored` process appears to be active (best-effort; uses ps). */
+/** Command line looks like our sponsored crawl (npm script or node/tsx). */
+function isSponsoredFetchCommandLine(cmd: string): boolean {
+  const s = cmd.trim();
+  if (!s.includes("sponsored")) return false;
+  // npm run fetch:sponsored (parent may stay alive on some setups)
+  if (/\bfetch:sponsored\b/.test(s)) return true;
+  // tsc && node dist/fetch.js sponsored → running worker
+  if (/\bfetch\.(js|mjs|cjs)\b/.test(s) && /\bnode\b/.test(s)) return true;
+  // npx tsx src/fetch.ts sponsored
+  if (/\bfetch\.ts\b/.test(s) && /\b(tsx|node)\b/.test(s)) return true;
+  return false;
+}
+
+/** True if a sponsored fetch process appears active (best-effort; uses ps). */
 function isSponsoredFetchRunning(): boolean {
   try {
-    const out = execSync(
-      'ps aux 2>/dev/null | grep -E "[t]sx src/fetch\\.ts sponsored|[n]ode.*fetch\\.ts sponsored" || true',
-      { encoding: "utf-8", maxBuffer: 256 * 1024 },
-    );
-    return out
-      .split("\n")
-      .some((l) => l.includes("fetch.ts sponsored"));
+    const out = execSync("ps ax -o args=", {
+      encoding: "utf-8",
+      maxBuffer: 512 * 1024,
+    });
+    return out.split("\n").some((l) => isSponsoredFetchCommandLine(l));
   } catch {
     return false;
   }
@@ -125,15 +137,12 @@ function deriveStatus(running: boolean, lastPageHasNextLink: boolean): RunStatus
 
 function tryFetchProcessHint(): string {
   try {
-    const out = execSync(
-      'ps aux 2>/dev/null | grep -E "[t]sx src/fetch\\.ts sponsored|[n]ode.*fetch\\.ts sponsored" || true',
-      { encoding: "utf-8", maxBuffer: 256 * 1024 },
-    );
-    const lines = out
-      .trim()
-      .split("\n")
-      .filter((l) => l.includes("fetch.ts sponsored"));
-    if (lines.length === 0) return "no matching process found (grep ps)";
+    const out = execSync("ps ax -o args=", {
+      encoding: "utf-8",
+      maxBuffer: 512 * 1024,
+    });
+    const lines = out.split("\n").filter((l) => isSponsoredFetchCommandLine(l));
+    if (lines.length === 0) return "no matching process found (ps)";
     return lines.slice(0, 3).join("\n");
   } catch {
     return "could not run ps (optional)";
@@ -225,7 +234,7 @@ function main(): void {
       ? "(fetch process seen in ps)"
       : payload.status === "FINISHED"
         ? "(no next_link on last page — crawl reached end)"
-        : "(fetch not running; last page still has next_link — interrupted or between throttle waits)";
+        : "(no fetch process in ps; last page still has next_link — crawler stopped or not detected)";
 
   console.log(`Status: ${payload.status}  ${statusNote}\n`);
   console.log(`Run directory:\n  ${payload.run_dir}\n`);

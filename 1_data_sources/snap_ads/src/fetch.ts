@@ -454,12 +454,9 @@ const EU_COUNTRIES = [
 ] as const;
 
 /**
- * Rate limiter config.
- * We start very conservatively because the API has no documented rate limits
- * and our empirical testing shows aggressive throttling (~5-10 req/hour).
- *
- * Strategy: start with MIN_INTERVAL, increase on E1009, decrease (slowly)
- * on sustained success streaks.
+ * Rate limiter config for bare-IP mode (no proxy).
+ * Without a proxy the rate limit is extremely harsh (~0.2 pages/min).
+ * Uses exponential backoff on E1009 with slow cooldown on success streaks.
  */
 const RATE = {
   /** Minimum ms between requests. Starting at 5 min based on observed limits. */
@@ -483,20 +480,42 @@ const DATA_DIR = path.resolve(import.meta.dirname ?? ".", "..", "data");
 /**
  * PROXY STRATEGY
  *
- * The API rate limit is per-IP. A rotating proxy gives a different exit IP
- * per request, effectively giving each request its own rate-limit window.
+ * Proxy is required for high-volume commands (sponsored, ads) — without it,
+ * bare-IP mode hits the rate limit every ~5 min (~0.2 pages/min).
  *
- * With a rotating proxy, we can drop the interval dramatically — the main
- * constraint becomes the proxy provider's throughput, not Snap's rate limit.
- *
- * We support:
+ * Config:
  *   --proxy <url>        Rotating proxy URL (e.g., http://user:pass@host:port)
  *   SNAP_PROXY env var   Same, via environment
+ *   --force-no-proxy     Explicitly opt in to bare-IP mode (very slow)
  *
- * When a proxy is active:
- *   - MIN_INTERVAL drops to 3s (just being polite, not dodging rate limits)
- *   - Backoff still applies if we somehow get E1009 (proxy reusing IPs)
- *   - All requests go through undici's ProxyAgent
+ * RATE LIMIT OBSERVATIONS (Snapchat Ads Library API):
+ *
+ *   Enforcement: Envoy/API Gateway level. Rejected requests return HTTP 429
+ *   in ~9ms (never reaches backend). Successful requests take 400-700ms.
+ *
+ *   Headers: No rate-limit headers (no X-RateLimit-*, no Retry-After).
+ *
+ *   /sponsored_content: Rate limit is cursor/session-scoped, NOT per-IP.
+ *   A rotating proxy does NOT bypass it — the cursor encodes session context.
+ *   However, proxy helps avoid the much harsher bare-IP rate limit.
+ *
+ *   /ads/search: Rate limit appears per-IP. Rotating proxy is effective here.
+ *
+ *   E1009 ("Too many requests"): Progressive penalty — each hit makes the
+ *   next window more restrictive. Avoiding E1009 entirely is critical.
+ *
+ *   E1008 ("validation error"): Transient cursor/IP mismatch from rotating
+ *   proxy. Harmless, resolves on retry. Retries must respect throttle
+ *   interval — instant retries trigger E1009.
+ *
+ * OPTIMAL INTERVAL: 30s constant delay with proxy.
+ *   Tested intervals:  21s → E1009 every 3rd req
+ *                      25s → E1009 ~3 per 10 pages
+ *                      28s → E1009 ~6 per 10 pages
+ *                      30s → zero errors (2 pages/min sustained)
+ *
+ *   Burst strategies (blast N then wait) degrade rapidly due to E1009
+ *   progressive penalties. Constant pacing is strictly better.
  */
 let activeProxyUrl: string | undefined;
 let usingProxy = false;
@@ -507,23 +526,8 @@ function initProxy(proxyUrl: string): void {
 }
 
 
-/**
- * Interval overrides when using a rotating proxy.
- *
- * The /sponsored_content rate limit is cursor/session-scoped, NOT per-IP.
- * Rate limit is enforced at the Envoy/API Gateway level (9ms rejection
- * vs 400-700ms for real responses). No rate-limit headers are returned
- * (no X-RateLimit-*, no Retry-After).
- *
- * E1009 triggers progressive penalties — each hit makes subsequent
- * windows more restrictive. The best strategy is a constant delay
- * that never triggers E1009 in the first place.
- *
- * Tuning: start conservative, lower the interval as long as zero
- * E1009s are observed over 20+ consecutive pages.
- */
 const PROXY_RATE = {
-  INTERVAL_MS: 30_000,  // 30s — testing: 21s hit E1009 every 3rd request
+  INTERVAL_MS: 30_000,  // 30s — empirically determined. See PROXY STRATEGY above.
 };
 
 // ---------------------------------------------------------------------------

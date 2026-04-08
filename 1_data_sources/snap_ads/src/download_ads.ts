@@ -97,6 +97,7 @@ const STATE_FILE = path.join(OUT_DIR, "state.json");
 const PRIORITY_COUNTRIES = ["de", "fr", "nl", "se", "es"];
 const BASE = "https://adsapi.snapchat.com/v1/ads_library";
 const DELAY_MS = 2500;
+const DELAY_AFTER_E1009_MS = 300;
 const REQUEST_TIMEOUT = 30_000;
 const PAGE_LIMIT = 50;
 
@@ -273,14 +274,26 @@ function pickProxy(): string | undefined {
     if (choice === "datacenter" || choice === "dc") return process.env.SNAP_PROXY;
     return choice; // treat as raw URL
   }
-  return process.env.SNAP_PROXY;
+  return process.env.RESIDENTAL_PROXY ?? process.env.SNAP_PROXY;
 }
 
-const proxyUrl = pickProxy();
+const baseProxyUrl = pickProxy();
+
+function stickyProxy(sessionTag: string): string | undefined {
+  if (!baseProxyUrl) return undefined;
+  const url = new URL(baseProxyUrl);
+  if (url.hostname.includes("evomi")) {
+    url.password += `_session-${sessionTag.slice(0, 8)}`;
+  } else if (url.username.includes("-rotate")) {
+    url.username = url.username.replace("-rotate", `-session-${sessionTag}`);
+  }
+  return url.toString();
+}
 
 async function fetchAds(
   brand: string,
   country: string,
+  proxy: string | undefined,
 ): Promise<{ status: CellStatus; ads: unknown[]; nextLink?: string; errorCode?: string }> {
   const url = `${BASE}/ads/search?limit=${PAGE_LIMIT}`;
   const body = JSON.stringify({ paying_advertiser_name: brand, countries: [country] });
@@ -293,7 +306,7 @@ async function fetchAds(
       method: "POST",
       body,
       headers: { "content-type": "application/json" },
-      proxyUrl,
+      proxyUrl: proxy,
       headerGeneratorOptions: { browsers: ["chrome"], operatingSystems: ["macos"] },
       responseType: "text",
       throwHttpErrors: false,
@@ -330,6 +343,7 @@ async function fetchRemainingPages(
   brand: string,
   country: string,
   startCursor: string,
+  proxy: string | undefined,
 ): Promise<{ ads: unknown[]; pages: number; complete: boolean; lastCursor?: string }> {
   const allAds: unknown[] = [];
   let cursor: string | undefined = startCursor;
@@ -344,7 +358,7 @@ async function fetchRemainingPages(
         url: cursor, method: "POST",
         body: JSON.stringify({ paying_advertiser_name: brand, countries: [country] }),
         headers: { "content-type": "application/json" },
-        proxyUrl,
+        proxyUrl: proxy,
         headerGeneratorOptions: { browsers: ["chrome"], operatingSystems: ["macos"] },
         responseType: "text", throwHttpErrors: false,
         timeout: { request: REQUEST_TIMEOUT },
@@ -401,7 +415,7 @@ async function main(): Promise<void> {
     return;
   }
 
-  if (!proxyUrl) {
+  if (!baseProxyUrl) {
     log("ERR", "SNAP_PROXY not set in .env");
     process.exit(1);
   }
@@ -412,9 +426,11 @@ async function main(): Promise<void> {
   const cooldownSec = cooldownIdx >= 0 ? parseInt(args[cooldownIdx + 1], 10) : 30;
 
   log("INFO", `Brands: ${brands.length} | Countries: ${countries.join(",")} | Retry: ${retryOnly || loopMode} | Loop: ${loopMode} | Forever: ${foreverMode} | Limit: ${limit}`);
-  log("INFO", `Proxy: ${proxyUrl.replace(/:[^:@]+@/, ":***@")}`);
+  log("INFO", `Proxy: ${baseProxyUrl!.replace(/:[^:@]+@/, ":***@")} (sticky sessions per brand)`);
 
   let passNum = 0;
+
+  let nextCooldown = cooldownSec;
 
   // eslint-disable-next-line no-constant-condition
   while (true) {
@@ -424,12 +440,17 @@ async function main(): Promise<void> {
 
     if (passNum > 1) {
       log("INFO", "");
-      log("INFO", `=== PASS ${passNum} — cooling down ${cooldownSec}s for IP rotation ===`);
-      await sleep(cooldownSec * 1000);
+      log("INFO", `=== PASS ${passNum} — cooling down ${nextCooldown}s ===`);
+      await sleep(nextCooldown * 1000);
     }
 
-    for (const { brand } of brands) {
+    const shuffled = [...brands].sort(() => Math.random() - 0.5);
+
+    for (const { brand } of shuffled) {
       if (processed >= limit) break;
+
+      const sessionId = `${brand.replace(/\W/g, "")}-${Date.now()}`;
+      const brandProxy = stickyProxy(sessionId);
 
       for (const country of countries) {
         if (processed >= limit) break;
@@ -457,7 +478,7 @@ async function main(): Promise<void> {
             } catch { /* will re-fetch from scratch */ }
           }
 
-          const rest = await fetchRemainingPages(brand, country, savedCursor);
+          const rest = await fetchRemainingPages(brand, country, savedCursor, brandProxy);
           state.total_requests++;
           const elapsed = Date.now() - start;
           appendLog({
@@ -500,7 +521,7 @@ async function main(): Promise<void> {
         // --- FRESH FETCH PATH ---
         log("INFO", `[${processed}] ${brand} / ${country.toUpperCase()}...`);
 
-        const result = await fetchAds(brand, country);
+        const result = await fetchAds(brand, country, brandProxy);
         const elapsed = Date.now() - start;
         state.total_requests++;
 
@@ -520,7 +541,7 @@ async function main(): Promise<void> {
 
           if (result.nextLink) {
             log("INFO", `  Pagination detected — fetching remaining pages...`);
-            const rest = await fetchRemainingPages(brand, country, result.nextLink);
+            const rest = await fetchRemainingPages(brand, country, result.nextLink, brandProxy);
             ads = [...result.ads, ...rest.ads];
             pages = 1 + rest.pages;
             paginationComplete = rest.complete;
@@ -568,6 +589,9 @@ async function main(): Promise<void> {
           state.cells[key] = { status: "rate_limited", ads_count: previousCount, error: result.errorCode };
           passStats.rate_limited++;
           log("WARN", `  E1009 (${elapsed}ms)`);
+          saveState(state);
+          await sleep(DELAY_AFTER_E1009_MS);
+          continue;
         } else {
           state.cells[key] = { status: "error", ads_count: previousCount, error: result.errorCode };
           passStats.error++;
@@ -600,15 +624,20 @@ async function main(): Promise<void> {
       break;
     }
 
-    if (!foreverMode && passStats.fetched === 0 && passStats.no_ads === 0) {
+    const zeroProgress = passStats.fetched === 0 && passStats.no_ads === 0;
+
+    if (!foreverMode && zeroProgress) {
       log("WARN", `Pass ${passNum} made ZERO progress (${remaining} still blocked). IPs may be exhausted — stopping. Use --forever to keep retrying.`);
       break;
     }
-    if (foreverMode && passStats.fetched === 0 && passStats.no_ads === 0) {
-      log("WARN", `Pass ${passNum} made ZERO progress (${remaining} still blocked) — --forever: cooling down and will retry...`);
+    if (zeroProgress) {
+      nextCooldown = cooldownSec * 3;
+      log("WARN", `Pass ${passNum} made ZERO progress — tripling cooldown to ${nextCooldown}s`);
+    } else {
+      nextCooldown = cooldownSec;
     }
 
-    log("INFO", `${remaining} brands still rate-limited — looping...`);
+    log("INFO", `${remaining} brands still rate-limited — looping (${nextCooldown}s cooldown)...`);
   }
 }
 
