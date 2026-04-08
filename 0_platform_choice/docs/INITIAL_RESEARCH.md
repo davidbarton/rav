@@ -122,7 +122,7 @@ Minimal credible dashboard:
 | [`docs/pinterest-phase-a.md`](pinterest-phase-a.md) | Pinterest tracks + FAIL rationale |
 | [`data/samples/2026-04-07-snap-sponsored-content/README.md`](../data/samples/2026-04-07-snap-sponsored-content/README.md) | Inventory of JSON samples |
 | Key JSON | `ads_search_spotify_de_retry.json`, `sponsored_content_pages_1_2.json`, `ad_detail_by_id.json`, `sponsored_content_search_creator.json`, `ads_search_spotify_de_page2.json` (E1009) |
-| [`scripts/`](../scripts/) | `fetch_snap_*`, `paginate_snap_*`, `snap_ads_search_page2.sh` |
+| [`scripts/`](../scripts/) | `fetch_snap_*`, `snap_ads_search_page2.sh` |
 
 ---
 

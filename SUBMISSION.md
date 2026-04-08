@@ -20,13 +20,12 @@ This file is the evaluator path for verifying fulfillment of the original Czech 
 From repo root:
 
 ```bash
-python3 prototype_min/build_dataset.py
-python3 -m http.server 8000
+cd prototype_min && npm run build && npm start
 ```
 
 Open:
 
-- `http://localhost:8000/prototype_min/`
+- `http://127.0.0.1:8000/prototype_min/`
 
 Core generated artifact:
 

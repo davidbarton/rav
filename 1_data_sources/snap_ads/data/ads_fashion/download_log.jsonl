@@ -2825,3 +2825,18 @@
 {"ts":"2026-04-08T19:01:21.471Z","brand":"Only","country":"de","status":"fetched","ads_count":10,"has_more":true,"elapsed_ms":1762}
 {"ts":"2026-04-08T19:01:27.892Z","brand":"Patagonia","country":"de","status":"rate_limited","ads_count":0,"has_more":false,"error_code":"E1009","elapsed_ms":834}
 {"ts":"2026-04-08T19:02:01.237Z","brand":"Jordan","country":"de","status":"rate_limited","ads_count":0,"has_more":false,"error_code":"E1009","elapsed_ms":840}
+{"ts":"2026-04-08T19:02:49.642Z","brand":"COS","country":"de","status":"error","ads_count":0,"has_more":false,"error_code":"NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms","elapsed_ms":45902}
+{"ts":"2026-04-08T19:02:55.510Z","brand":"Arket","country":"de","status":"rate_limited","ads_count":0,"has_more":true,"error_code":"RESUME_INTERRUPTED","elapsed_ms":3366}
+{"ts":"2026-04-08T19:02:58.522Z","brand":"Dior","country":"de","status":"rate_limited","ads_count":0,"has_more":false,"error_code":"E1009","elapsed_ms":510}
+{"ts":"2026-04-08T19:03:01.672Z","brand":"Celine","country":"de","status":"rate_limited","ads_count":0,"has_more":false,"error_code":"E1009","elapsed_ms":648}
+{"ts":"2026-04-08T19:03:04.780Z","brand":"Hugo Boss","country":"de","status":"rate_limited","ads_count":0,"has_more":false,"error_code":"E1009","elapsed_ms":607}
+{"ts":"2026-04-08T19:03:09.237Z","brand":"Essence","country":"de","status":"fetched","ads_count":10,"has_more":true,"elapsed_ms":1956}
+{"ts":"2026-04-08T19:03:15.963Z","brand":"Birkenstock","country":"de","status":"rate_limited","ads_count":0,"has_more":false,"error_code":"E1009","elapsed_ms":864}
+{"ts":"2026-04-08T19:03:19.066Z","brand":"Superdry","country":"de","status":"rate_limited","ads_count":0,"has_more":false,"error_code":"E1009","elapsed_ms":601}
+{"ts":"2026-04-08T19:03:25.925Z","brand":"Jack & Jones","country":"de","status":"rate_limited","ads_count":0,"has_more":true,"error_code":"RESUME_INTERRUPTED","elapsed_ms":4357}
+{"ts":"2026-04-08T19:03:32.093Z","brand":"Only","country":"de","status":"rate_limited","ads_count":0,"has_more":true,"error_code":"RESUME_INTERRUPTED","elapsed_ms":3667}
+{"ts":"2026-04-08T19:03:35.252Z","brand":"Patagonia","country":"de","status":"rate_limited","ads_count":0,"has_more":false,"error_code":"E1009","elapsed_ms":657}
+{"ts":"2026-04-08T19:04:08.397Z","brand":"Jordan","country":"de","status":"rate_limited","ads_count":0,"has_more":false,"error_code":"E1009","elapsed_ms":640}
+{"ts":"2026-04-08T19:04:11.678Z","brand":"Arket","country":"de","status":"rate_limited","ads_count":0,"has_more":false,"error_code":"E1009","elapsed_ms":779}
+{"ts":"2026-04-08T19:04:14.991Z","brand":"Dior","country":"de","status":"rate_limited","ads_count":0,"has_more":false,"error_code":"E1009","elapsed_ms":811}
+{"ts":"2026-04-08T19:04:18.333Z","brand":"Celine","country":"de","status":"rate_limited","ads_count":0,"has_more":false,"error_code":"E1009","elapsed_ms":839}

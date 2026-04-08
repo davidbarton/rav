@@ -154,7 +154,7 @@ Fill this during/after the run.
 | End time (local)   | same session                                                                                                                                                                                                                                                     |
 | PASS / FAIL        | **Strong partial** — **EU paid ads proven:** `POST .../ads/search` returned **10** DE Spotify ads (`impressions_map.de`, targeting, creatives) → [`ads_search_spotify_de_retry.json`](../data/samples/2026-04-07-snap-sponsored-content/ads_search_spotify_de_retry.json). **§4 “50+” paid EU rows:** add pagination / more brands with **long gaps** — bursts hit **429 / E1009**. **Commercial:** **400+** rows → [`sponsored_content_pages_1_2.json`](../data/samples/2026-04-07-snap-sponsored-content/sponsored_content_pages_1_2.json). |
 | Sample path(s)     | Paid EU: `ads_search_spotify_de_retry.json`. Commercial: `sponsored_content_page1.json`, `sponsored_content_pages_1_2.json` |
-| Data path type     | **Official API**, no OAuth — `POST .../ads/search`, `GET .../sponsored_content`, [`scripts/paginate_snap_sponsored_content.py`](../scripts/paginate_snap_sponsored_content.py) |
+| Data path type     | **Official API**, no OAuth — `POST .../ads/search`, `GET .../sponsored_content` (cursor via `paging.next_link`) |
 | If FAIL: reason    | Heavy bursts → **429 / E1009**; space calls; proxies optional; [`notes/limits.md`](../notes/limits.md) |
 
 
@@ -183,7 +183,7 @@ Fill this during/after the run.
 
 - Commit SHA(s):
 - PR / branch:
-- Repro: [`scripts/fetch_snap_ads_library_sample.sh`](../scripts/fetch_snap_ads_library_sample.sh), [`scripts/paginate_snap_sponsored_content.py`](../scripts/paginate_snap_sponsored_content.py), [`scripts/snap_ads_search_page2.sh`](../scripts/snap_ads_search_page2.sh) (+ [`ads_search_spotify_de_body.json`](../data/samples/2026-04-07-snap-sponsored-content/ads_search_spotify_de_body.json))
+- Repro: [`scripts/fetch_snap_ads_library_sample.sh`](../scripts/fetch_snap_ads_library_sample.sh), [`scripts/snap_ads_search_page2.sh`](../scripts/snap_ads_search_page2.sh) (+ [`ads_search_spotify_de_body.json`](../data/samples/2026-04-07-snap-sponsored-content/ads_search_spotify_de_body.json)); sponsored pages merged manually from repeated `GET .../sponsored_content` using `next_link`
 - Limits: [`notes/limits.md`](../notes/limits.md)
 - Pinterest Phase A: [`docs/pinterest-phase-a.md`](pinterest-phase-a.md)
 

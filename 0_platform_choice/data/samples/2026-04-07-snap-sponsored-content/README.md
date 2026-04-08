@@ -43,7 +43,7 @@ curl -sS -X POST 'https://adsapi.snapchat.com/v1/ads_library/ads/search' \
 | File | Description |
 |------|-------------|
 | `sponsored_content_page1.json` | First page of sponsored commercial content (~200 items) |
-| `sponsored_content_pages_1_2.json` | Two pages via [`scripts/paginate_snap_sponsored_content.py`](../../scripts/paginate_snap_sponsored_content.py) (~400 items) |
+| `sponsored_content_pages_1_2.json` | Two pages of `GET .../ads_library/sponsored_content`, second request used `paging.next_link` from the first (~400 items) |
 | `ads_search_spotify_de_retry.json` | **SUCCESS** — EU (DE) paid ads from Ads Library search |
 | `ads_search_spotify_de_body.json` | Request body for Spotify DE (reuse for pagination) |
 | `ads_search_spotify_de_page2.json` | **`E1009`** — page-2 `POST` after 120s (rate limit sample) |

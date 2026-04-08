@@ -24,7 +24,7 @@ Single starting point for this repository.
 - UI + local run instructions: `prototype_min/README.md`
 - Main UI: `prototype_min/index.html`
 - Frontend behavior: `prototype_min/script.js`
-- Dataset builder: `prototype_min/build_dataset.py`
+- Dataset builder: `prototype_min/build_dataset.mjs` (`npm run build` from `prototype_min/`)
 - Generated dataset: `prototype_min/data/normalized.json`
 
 ## How to evaluate quickly
@@ -35,8 +35,8 @@ Single starting point for this repository.
 
 ## Reproducibility quick path
 
-- Rebuild dataset: `python3 prototype_min/build_dataset.py`
-- Start local server: `python3 -m http.server 8000`
+- Rebuild dataset: `cd prototype_min && npm run build`
+- Start local server: `cd prototype_min && npm start`
 - Open UI: `http://localhost:8000/prototype_min/`
 - Check limits and acquisition caveats: `0_platform_choice/notes/limits.md`
 

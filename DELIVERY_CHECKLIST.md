@@ -10,10 +10,10 @@ Final release checklist for the current Czech-scope-complete state.
 
 ## B) Reproducibility checks
 
-- [ ] Run: `python3 prototype_min/build_dataset.py`
+- [ ] Run: `cd prototype_min && npm run build`
 - [ ] Confirm output file updated: `prototype_min/data/normalized.json`
-- [ ] Run: `python3 -m http.server 8000`
-- [ ] Open: `http://localhost:8000/prototype_min/`
+- [ ] Run: `cd prototype_min && npm start`
+- [ ] Open: `http://127.0.0.1:8000/prototype_min/`
 
 ## C) UI smoke checks
 

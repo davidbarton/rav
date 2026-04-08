@@ -10,10 +10,13 @@
 node_modules/
 dist/
 
-# Python
+# Python (no project scripts — ignore local cache/venvs if you run Python here)
 __pycache__/
 *.pyc
 *.pyo
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
 .venv/
 venv/
 

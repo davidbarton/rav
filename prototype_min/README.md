@@ -15,8 +15,10 @@ Ultra-minimal rough prototype for early validation.
 
 ## Build dataset
 
+Requires [Node.js](https://nodejs.org/) 18+ (no extra npm dependencies).
+
 ```bash
-python3 prototype_min/build_dataset.py
+cd prototype_min && npm run build
 ```
 
 This writes:
@@ -32,18 +34,18 @@ This writes:
    - `sponsored_content`
    - `sponsored_kpis`
 4. Serve locally and verify UI loads the generated file:
-   - `python3 -m http.server 8000`
-   - open `http://localhost:8000/prototype_min/`
+   - `npm start` (from `prototype_min/`)
+   - open `http://127.0.0.1:8000/prototype_min/`
 
 ## Run locally
 
 ```bash
-python3 -m http.server 8000
+npm start
 ```
 
 Open:
 
-- `http://localhost:8000/prototype_min/`
+- `http://127.0.0.1:8000/prototype_min/`
 
 ## Notes
 
