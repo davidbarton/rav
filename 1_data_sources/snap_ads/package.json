@@ -1,0 +1,21 @@
+{
+  "name": "snap_ads",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "fetch": "tsc && node dist/fetch.js",
+    "fetch:ads": "tsc && node dist/fetch.js ads",
+    "fetch:sponsored": "tsc && node dist/fetch.js sponsored",
+    "fetch:ad": "tsc && node dist/fetch.js ad"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "got-scraping": "^4.2.1",
+    "undici": "^8.0.2"
+  }
+}

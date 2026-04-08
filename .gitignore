@@ -1,0 +1,35 @@
+# DuckDB
+*.duckdb
+*.duckdb.wal
+
+# SQLite (transient files only; rav.db is tracked as seed database)
+*.db-journal
+*.db-wal
+
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Data (raw fetched data is large, keep in .gitignore)
+# Uncomment if you want to exclude raw API pages from git:
+# 1_data_sources/snap_ads/data/
