@@ -1,9 +1,98 @@
 {
   "brand": "Under Armour",
   "country": "es",
-  "fetched_at": "2026-04-09T01:43:30.292Z",
+  "fetched_at": "2026-04-09T14:32:05.851Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e0cc75c1-36c4-41b6-b2a9-bfd056ea07a1",
+        "name": "FY26_SPT_SST_FOOE_ST_SN_SPA_Standard_Challenger Pro Winter_SOC_Story_Ad2_Q3",
+        "ad_account_name": "Under Armour EU - Brand",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "es"
+        ],
+        "headline": "Rompe en cualquier dirección.",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-09-01T07:00:18.000Z",
+        "impressions_total": 24584,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 24584,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Under Armour",
+        "profile_name": "Under Armour",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMDNyYWswQkNBSjFRYTRFV01LUXNTP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Rompe en cualquier dirección.",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/acrS5gEkqVU1Ni2um6PCS.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.underarmour.es/es-es/c/hombre/deportes/futbol/?CID=SM_OMD_ES_{{campaign.id}}_{{adSet.id}}_{{ad.id}}"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -46,306 +135,6 @@
           "mt": 0,
           "it": 0,
           "es": 518814,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "34",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Under Armour",
-        "profile_name": "Under Armour",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMDNyYWswQkNBSjFRYTRFV01LUXNTP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.underarmour.es/es-es/c/hombre/deportes/futbol/?CID=SM_OMD_ES_{{campaign.id}}_{{adSet.id}}_{{ad.id}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d4a5bc6c-3ed3-426c-a3e9-cd8a68d129b6",
-        "name": "FY26_SPT_SVD_FOOE_N/A_M_SPA_Video_Challenger Pro Winter_SOC_Konate_15sFilm_",
-        "ad_account_name": "Under Armour EU - Brand",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "es"
-        ],
-        "headline": "Rompe en cualquier dirección.",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SV8id38BF4KsBYPvwYy7k.67?mo=GoUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBNwhDEi8KLQjCwCwgATDgAzjUBkABSg4KCSoZHR8YBggKIxD0A1CYdWgCdXiEIEB9AACAPyICEgCiATgIugoSLwotCJXFKiABMNAFOIAKQAJKDgoJIhInGxgJCAoZEPQDUJh1aAJ1Il8lQH0AAIA_IgISAKIBOAiSChIvCi0I8dMbIAEw4AM41AZAAkoOCgkeDQ4QDAYGBhMQ9ANQmHVoAnVcxBlAfQAAgD8iAhIAogE4CNIKEi8KLQi6ghYgATDgAzjUBkACSg4KCRoKCw0NBQUFDxD0A1CYdWgCda3pH0B9AACAPyICEgCQA5h1&uc=15",
-        "start_date": "2025-09-01T07:00:18.000Z",
-        "impressions_total": 153669,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 153669,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "34",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Under Armour",
-        "profile_name": "Under Armour",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMDNyYWswQkNBSjFRYTRFV01LUXNTP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.underarmour.es/es-es/c/hombre/deportes/futbol/?CID=SM_OMD_ES_{{campaign.id}}_{{adSet.id}}_{{ad.id}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a8cc9e6d-a87c-466f-8919-5bd9b5033ae6",
-        "name": "FY26_SPT_SSNA_FOO_N/A_LM_ESP_Video_FW25 Football_SOC_20sHeroFilm_Launch_Q2",
-        "ad_account_name": "Under Armour EU - Brand",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "es"
-        ],
-        "headline": "El fútbol ya tiene héroes de sobra",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rT9aOOlprzs50SA1aXqOS.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIluRNIAEw4AM41AZAAUoOCgkeBxMWEUkwKTIQ9ANQoJwBaAIiBgoCSAMSAKIBMwi6ChImCiQIzts7IAEw0AU4gApAAkoOCgkeBxAUFC8fHScQ9ANQoJwBaAIiBgoCSAISAKIBMgh_EiYKJAjfhy4gATDgAzjUBkACSg4KCRsICg0IKRgUHhD0A1CgnAFoAiIGCgJIAhIAogEzCJIKEiYKJAie5y8gATDgAzjUBkACSg4KCRwGDg0IKxkWHhD0A1CgnAFoAiIGCgJIAhIAogEzCMQKEiYKJAip6ycgATDgAzjWBkACSg4KCRkFCw0NHxQTHBD0A1CgnAFoAiIGCgJIAhIAogEzCNIKEiYKJAjSxCcgATDgAzjUBkACSg4KCRkFCw0MHxMUHBD0A1CgnAFoAiIGCgJIAhIAkAOgnAE%3D&uc=15",
-        "start_date": "2025-08-16T07:00:20.000Z",
-        "impressions_total": 8920427,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 8920427,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "34",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Under Armour",
-        "profile_name": "Under Armour",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMDNyYWswQkNBSjFRYTRFV01LUXNTP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.underarmour.es/es-es/t/explore/be-the-problem/?CID=SM_OMD_ES_{{campaign.id}}_{{adSet.id}}_{{ad.id}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "0624cab1-8bb2-45c6-93a6-cb30baf1572f",
-        "name": "FY26_SPT_SVD_FOOE_N/A_M_SPA_Video_Challenger Pro Winter_SOC_Konate_15sFilm_",
-        "ad_account_name": "Under Armour EU - Brand",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "es"
-        ],
-        "headline": "Rompe en cualquier dirección.",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SV8id38BF4KsBYPvwYy7k.67?mo=GoUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBNwhDEi8KLQjCwCwgATDgAzjUBkABSg4KCSoZHR8YBggKIxD0A1CYdWgCdXiEIEB9AACAPyICEgCiATgIugoSLwotCJXFKiABMNAFOIAKQAJKDgoJIhInGxgJCAoZEPQDUJh1aAJ1Il8lQH0AAIA_IgISAKIBOAiSChIvCi0I8dMbIAEw4AM41AZAAkoOCgkeDQ4QDAYGBhMQ9ANQmHVoAnVcxBlAfQAAgD8iAhIAogE4CNIKEi8KLQi6ghYgATDgAzjUBkACSg4KCRoKCw0NBQUFDxD0A1CYdWgCda3pH0B9AACAPyICEgCQA5h1&uc=15",
-        "start_date": "2025-09-01T07:00:18.000Z",
-        "impressions_total": 137765,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 137765,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "34",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Under Armour",
-        "profile_name": "Under Armour",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMDNyYWswQkNBSjFRYTRFV01LUXNTP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.underarmour.es/es-es/c/hombre/deportes/futbol/?CID=SM_OMD_ES_{{campaign.id}}_{{adSet.id}}_{{ad.id}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "fd185213-3a5e-4ae7-abd8-fcb4eaa8edf7",
-        "name": "FY26_SPT_SIM_FOOE_ST_SN_SPA_Standard_Challenger Pro Winter_SOC_Static_Ad2_Q3",
-        "ad_account_name": "Under Armour EU - Brand",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "es"
-        ],
-        "headline": "Rompe en cualquier dirección.",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/acrS5gEkqVU1Ni2um6PCS.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-09-01T07:00:18.000Z",
-        "impressions_total": 67717,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 67717,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -532,21 +321,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c4d508e0-a257-49e7-9d6b-267ee8189e8f",
-        "name": "FY26_SPT_SST_FOOE_ST_SN_SPA_Standard_Challenger Pro Winter_SOC_Story_Ad1_Q3",
+        "id": "b0334257-14a4-46dd-b7b7-cf4eb088fe0f",
+        "name": "FY26_SPT_SSNA_FOO_N/A_LM_SPA_Video_FW25 Football_SOC_Rudiger_Tease_Q2",
         "ad_account_name": "Under Armour EU - Brand",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "es"
         ],
-        "headline": "Rompe en cualquier dirección.",
+        "headline": "El fútbol ya tiene héroes de sobra",
         "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-09-01T07:00:18.000Z",
-        "impressions_total": 16282,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SXNfku3FSc6pKXkzvFc3D.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwiChg8gATDgAzjUBkABSg4KCSwXGhYaGhkgBxD0A1DwLmgCIgISAKIBLgi6ChIlCiMI-okNIAEw0AU4gApAAkoOCgknERkTGhEWFQkQ9ANQ8C5oAiICEgCiAS0IfxIlCiMIiZ4IIAEw4AM41AZAAkoOCgkaCw0LDg0MDwYQ9ANQ8C5oAiICEgCiAS4IkgoSJQojCKr_CCABMOADONQGQAJKDgoJGw0ODQ8PDRAHEPQDUPAuaAIiAhIAogEuCMQKEiUKIwjNmwkgATDgAzjWBkACSg4KCR8MEAwSDREOBhD0A1DwLmgCIgISAKIBLgjSChIlCiMIh6QHIAEw4AM41AZAAkoOCgkYCQwKDgoLDAYQ9ANQ8C5oAiICEgCQA_Au&uc=15",
+        "start_date": "2025-08-11T07:00:51.000Z",
+        "impressions_total": 1288839,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -568,7 +359,83 @@
           "el": 0,
           "mt": 0,
           "it": 0,
-          "es": 16282,
+          "es": 1288839,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "languages": [
+                "es",
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Under Armour",
+        "profile_name": "Under Armour",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMDNyYWswQkNBSjFRYTRFV01LUXNTP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.underarmour.es/es-es/?CID=SM_OMD_ES_{{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_content={{campaign.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "5c1b3e05-dc30-4c92-af08-6abea06222c1",
+        "name": "FY26_SPT_SSTA_FOOE_N/A_M_SPA_Video_Challenger Pro Winter_SOC_Konate_15sFilm_",
+        "ad_account_name": "Under Armour EU - Brand",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "es"
+        ],
+        "headline": "Rompe en cualquier dirección.",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-09-01T07:00:18.000Z",
+        "impressions_total": 37655,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 37655,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -601,9 +468,9 @@
               "type": "WEB_VIEW",
               "headline": "Rompe en cualquier dirección.",
               "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
+              "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/umPZrTjqbRxtSZ85C6bkR.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SV8id38BF4KsBYPvwYy7k.67?mo=GoUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBNwhDEi8KLQjCwCwgATDgAzjUBkABSg4KCSoZHR8YBggKIxD0A1CYdWgCdXiEIEB9AACAPyICEgCiATgIugoSLwotCJXFKiABMNAFOIAKQAJKDgoJIhInGxgJCAoZEPQDUJh1aAJ1Il8lQH0AAIA_IgISAKIBOAiSChIvCi0I8dMbIAEw4AM41AZAAkoOCgkeDQ4QDAYGBhMQ9ANQmHVoAnVcxBlAfQAAgD8iAhIAogE4CNIKEi8KLQi6ghYgATDgAzjUBkACSg4KCRoKCw0NBQUFDxD0A1CYdWgCda3pH0B9AACAPyICEgCQA5h1&uc=15",
               "brand_name": "",
               "web_view_preview": {
                 "url": "https://www.underarmour.es/es-es/c/hombre/deportes/futbol/?CID=SM_OMD_ES_{{campaign.id}}_{{adSet.id}}_{{ad.id}}"
@@ -619,23 +486,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "dccdf312-9a11-4d98-9dfa-9568e36f57b0",
-        "name": "FY26_SPT_SSTA_FOO_ST_LM_SPA_Standard_Challenger Pro_SOC_Static_Snap Ad1_Q2",
+        "id": "3a19970f-5cfc-42be-9e1f-69e583014341",
+        "name": "FY26_SPT_SSTA_FOOE_N/A_M_SPA_Video_Challenger Pro Winter_SOC_Konate_6sFilm_",
         "ad_account_name": "Under Armour EU - Brand",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [
           "es"
         ],
         "headline": "Rompe en cualquier dirección.",
         "call_to_action": "MORE",
-        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/I8B7RaUspf1oXIYuhipOT.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
         "start_date": "2025-09-01T07:00:18.000Z",
-        "impressions_total": 837909,
+        "impressions_total": 50578,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -657,7 +522,96 @@
           "el": 0,
           "mt": 0,
           "it": 0,
-          "es": 837909,
+          "es": 50578,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Under Armour",
+        "profile_name": "Under Armour",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMDNyYWswQkNBSjFRYTRFV01LUXNTP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Rompe en cualquier dirección.",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bgsLg9squxXuVJA7xpJ46.67?mo=GvsBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBMghDEioKKAiRxA4gATDgAzjUBkABSg4KCScbJigSEhQSBRD0A1DwLmgCdT1cREAiAhIAogEzCLoKEioKKAiI7g4gATDQBTiACkACSg4KCSwiIiYQEhAQCBD0A1DwLmgCdfyRTkAiAhIAogE4CJIKEi8KLQjTyQogATDgAzjUBkACSg4KCRwQFxcOEQ8QBhD0A1DwLmgCdTbqQ0B9AACAPyICEgCiATgI0goSLwotCIqCCCABMOADONQGQAJKDgoJGAsPFAoLDAsGEPQDUPAuaAJ1Lv1EQH0AAIA_IgISAJAD8C4%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.underarmour.es/es-es/c/hombre/deportes/futbol/?CID=SM_OMD_ES_{{campaign.id}}_{{adSet.id}}_{{ad.id}}"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d4a5bc6c-3ed3-426c-a3e9-cd8a68d129b6",
+        "name": "FY26_SPT_SVD_FOOE_N/A_M_SPA_Video_Challenger Pro Winter_SOC_Konate_15sFilm_",
+        "ad_account_name": "Under Armour EU - Brand",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "es"
+        ],
+        "headline": "Rompe en cualquier dirección.",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SV8id38BF4KsBYPvwYy7k.67?mo=GoUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBNwhDEi8KLQjCwCwgATDgAzjUBkABSg4KCSoZHR8YBggKIxD0A1CYdWgCdXiEIEB9AACAPyICEgCiATgIugoSLwotCJXFKiABMNAFOIAKQAJKDgoJIhInGxgJCAoZEPQDUJh1aAJ1Il8lQH0AAIA_IgISAKIBOAiSChIvCi0I8dMbIAEw4AM41AZAAkoOCgkeDQ4QDAYGBhMQ9ANQmHVoAnVcxBlAfQAAgD8iAhIAogE4CNIKEi8KLQi6ghYgATDgAzjUBkACSg4KCRoKCw0NBQUFDxD0A1CYdWgCda3pH0B9AACAPyICEgCQA5h1&uc=15",
+        "start_date": "2025-09-01T07:00:18.000Z",
+        "impressions_total": 153669,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 153669,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -694,8 +648,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "883927ff-c8b5-46d5-8c8c-a1c2ba45ec90",
-        "name": "FY26_SPT_SSNA_FOO_N/A_LM_ESP_Video_FW25 Football_SOC_AthleteMoment_Torres20sFilm_Q2",
+        "id": "7122e638-e727-47c5-afbf-87463c973a93",
+        "name": "FY26_SPT_SSNA_FOO_N/A_LM_ESP_Video_FW25 Football_SOC_30sHeroFilm_Launch_Q2",
         "ad_account_name": "Under Armour EU - Brand",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -708,9 +662,9 @@
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GUKBHjmrqDsmtzl1d6kqf.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI2sM1IAEw4AM41AZAAUoOCgkiCwsNDRMRFTAQ9ANQoJwBaAIiBgoCSAISAKIBMwi6ChImCiQInI0yIAEw0AU4gApAAkoOCgkiCgoLDhEUHScQ9ANQoJwBaAIiBgoCSAMSAKIBMgh_EiYKJAiI8iEgATDgAzjUBkACSg4KCR0ICAoKDggNHRD0A1CgnAFoAiIGCgJIAhIAogEzCJIKEiYKJAj66yMgATDgAzjUBkACSg4KCR4JCAoLDwkOHhD0A1CgnAFoAiIGCgJIAhIAogEzCMQKEiYKJAiPmCAgATDgAzjWBkACSg4KCRwHCggJCgkQGxD0A1CgnAFoAiIGCgJIAhIAogEzCNIKEiYKJAj2hh0gATDgAzjUBkACSg4KCRwIBwcKCwcLFhD0A1CgnAFoAiIGCgJIAhIAkAOgnAE%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/V3awGpdckoWGsEqiHy8TF.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI5LVwIAEw4AM41AZAAUoOCgkrGBceGCwkGhgQ9ANQsOoBaAIiBgoCSAQSAKIBMwi6ChImCiQI6dV3IAEw0AU4gApAAkoOCgktEREYFyEiGBYQ9ANQsOoBaAIiBgoCSAMSAKIBMgh_EiYKJAjcy0AgATDgAzjUBkACSg4KCSINDBANFRIODBD0A1Cw6gFoAiIGCgJIAhIAogEzCJIKEiYKJAivl0MgATDgAzjUBkACSg4KCSQNDRAPFxQODhD0A1Cw6gFoAiIGCgJIAhIAogEzCMQKEiYKJAjth04gATDgAzjWBkACSg4KCSIOCxMRHBcRDhD0A1Cw6gFoAiIGCgJIAhIAogEzCNIKEiYKJAjy4zYgATDgAzjUBkACSg4KCSAKCw0LExMNCxD0A1Cw6gFoAiIGCgJIAhIAkAOw6gE%3D&uc=15",
         "start_date": "2025-08-16T07:00:20.000Z",
-        "impressions_total": 1498425,
+        "impressions_total": 8322977,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -732,7 +686,7 @@
           "el": 0,
           "mt": 0,
           "it": 0,
-          "es": 1498425,
+          "es": 8322977,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -759,7 +713,82 @@
         "profile_name": "Under Armour",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMDNyYWswQkNBSjFRYTRFV01LUXNTP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
         "web_view_properties": {
-          "url": "https://www.underarmour.es/es-es/t/explore/ferran-torres/?CID=SM_OMD_ES_{{campaign.id}}_{{adSet.id}}_{{ad.id}}"
+          "url": "https://www.underarmour.es/es-es/t/explore/be-the-problem/?CID=SM_OMD_ES_{{campaign.id}}_{{adSet.id}}_{{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "8b18ab8f-d2b4-4d75-a29a-fd50f5ab2287",
+        "name": "FY26_SPT_SSNA_FOO_N/A_LM_ESP_Video_FW25 Football_SOC_AthleteMoment_Rudiger20sFilm_Q2",
+        "ad_account_name": "Under Armour EU - Brand",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "es"
+        ],
+        "headline": "El fútbol ya tiene héroes de sobra",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0mk9IejzMPdNv62PhBVZY.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI0-lFIAEw4AM41AZAAUoOCgkrBwcHFxYfFSQQ9ANQoJwBaAIiBgoCSAMSAKIBMwi6ChImCiQIt7JEIAEw0AU4gApAAkoOCgkzCREIGhEZEC8Q9ANQoJwBaAIiBgoCSAISAKIBMgh_EiYKJAi8yCYgATDgAzjUBkACSg4KCSEEBAUODA8NFBD0A1CgnAFoAiIGCgJIAhIAogEzCJIKEiYKJAjXpikgATDgAzjUBkACSg4KCR8GBAUPDRAOFRD0A1CgnAFoAiIGCgJIAhIAogEzCMQKEiYKJAiuvCwgATDgAzjWBkACSg4KCSEEBQYSDBILHRD0A1CgnAFoAiIGCgJIAhIAogEzCNIKEiYKJAj0kyIgATDgAzjUBkACSg4KCSMFBgUOCw4LERD0A1CgnAFoAiIGCgJIAhIAkAOgnAE%3D&uc=15",
+        "start_date": "2025-08-16T07:00:20.000Z",
+        "impressions_total": 1913229,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 1913229,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Under Armour",
+        "profile_name": "Under Armour",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMDNyYWswQkNBSjFRYTRFV01LUXNTP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.underarmour.es/es-es/t/explore/toni-rudiger/?CID=SM_OMD_ES_{{campaign.id}}_{{adSet.id}}_{{ad.id}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

@@ -1,261 +1,10 @@
 {
   "brand": "Chanel",
   "country": "nl",
-  "fetched_at": "2026-04-09T01:46:18.025Z",
+  "fetched_at": "2026-04-09T14:50:50.943Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "bdbc926a-677e-411d-ac51-7b736076f789",
-        "name": "nl_fb_fr_cocomademoiselle_2025_2h_snapchat_awar_view_24079-259874_ints_lux-frag-buyers-hashtags_video_booth-session-film__15_dp",
-        "ad_account_name": "OMG_CHANEL_Social_NL_FNB_FB",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "COCO MADEMOISELLE Limited edition",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oA8S8oSUoLbicmBSYuZlV.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjf5VMgATDgAzjUBkABSg4KCSArHyc3PEM8OBD0A1CYdWgCdV7HT0B9AACAPyIGCgJIAhIAogE8CLoKEi8KLQiB7j8gATDQBTiACkACSg4KCR0mGx47HTApKRD0A1CYdWgCdeRoV0B9AACAPyIGCgJIAxIAogE8CJIKEi8KLQi6uDEgATDgAzjUBkACSg4KCRweEhYjHS0eJRD0A1CYdWgCdSPsPUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiRnSwgATDgAzjUBkACSg4KCRkdEBMoEx8bGxD0A1CYdWgCdRLRTUB9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
-        "start_date": "2025-12-01T06:00:23.000Z",
-        "impressions_total": 1492219,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 1492219,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CHANEL",
-        "brand_name": "CHANEL",
-        "profile_name": "CHANEL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.chanel.com/nl/parfums/p/116400/coco-mademoiselle-navulbare-twist-and-spray-flacon-eau-de-parfum/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=video_15&utm_content=booth-session-film_"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "70c2604c-7417-4fef-a7e3-3c216174fb5a",
-        "name": "nl_fb_fr_cocomademoiselle_2025_2h_snapchat_conv_purc_23771-w1_dmgr_wom_collectionad_paparazzi-film__15_dp",
-        "ad_account_name": "OMG_CHANEL_Social_NL_FNB_FB",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "COCO MADEMOISELLE Fragrance Primer",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9pxqYXrMnXcPElc3LBZg7.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIicc4IAEw4AM41AZAAUoOCgk_KSscMwUqDzoQ9ANQrHVoAiIGCgJIBBIAogEyCLoKEiUKIwi3vS0gATDQBTiACkACSg4KCUIdHRshCygLLBD0A1CsdWgCIgYKAkgCEgCiATEIfxIlCiMIg4MhIAEw4AM41AZAAkoOCgkzGBYTGgQcCSQQ9ANQrHVoAiIGCgJIAhIAogEyCJIKEiUKIwiOwSIgATDgAzjUBkACSg4KCTMWGBcbBRsKJRD0A1CsdWgCIgYKAkgCEgCiATIIxAoSJQojCKWQHyABMOADONYGQAJKDgoJMRQUEhcHHAceEPQDUKx1aAIiBgoCSAISAKIBMgjSChIlCiMIw_EfIAEw4AM41AZAAkoOCgkyFRQTGAgcBx8Q9ANQrHVoAiIGCgJIAhIAkAOsdQ%3D%3D&uc=15",
-        "start_date": "2025-09-15T08:00:49.000Z",
-        "impressions_total": 825383,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 825383,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CHANEL",
-        "profile_name": "CHANEL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://www.chanel.com/nl/parfums/coco-mademoiselle/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=collectionad_15&utm_content=paparazzi-film_"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.chanel.com/nl/parfums/p/116690/coco-mademoiselle-fragrance-primer/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=collectionad_15&utm_content=paparazzi-film_"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/8ae65f36-c494-4c52-8888-01f095180fcf/66df34ec-8e5b-4659-a0db-9526e237519f.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.chanel.com/nl/parfums/p/116790/coco-mademoiselle-creme-corps-soyeuse/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=collectionad_15&utm_content=paparazzi-film_"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/a3fb3c3a-64c2-456e-817b-7e51cdc65f8b/f57d5e6c-2eaa-43ba-919c-aea8401069aa.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.chanel.com/nl/fragrance/p/116520/coco-mademoiselle-eau-de-parfum-spray/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=collectionad_15&utm_content=paparazzi-film_"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/5b455e2d-0971-4164-9d48-f4da8e1256b9/24f4009d-c700-4706-b1ba-a1b15a08af6b.png"
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "e5e4f1f1-34e0-4a6c-b546-1e820263df2a",
-        "name": "nl_fb_mu_rougenoir_2026__snapchat_awar_view_24895-267393_ints_beauty_video_film-packshot_collection-ad_10_dp",
-        "ad_account_name": "OMG_CHANEL_Social_NL_FNB_FB",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "ROUGE NOIR LIMITED EDITION",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LbulUZJVvmdmsHEd4N9MN.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAicrz0gATDgAzjUBkABSg4KCSAEOkgfQDEzKhD0A1CQTmgCdffGMkAiBgoCSAMSAKIBNwi6ChIqCigI97EwIAEw0AU4gApAAkoOCgkgBS05FjMdGxwQ9ANQkE5oAnWqgjlAIgYKAkgDEgCiATwIkgoSLwotCOufKSABMOADONQGQAJKDgoJGgUhIxAqHh8iEPQDUJBOaAJ1NqcnQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCJzPHSABMOADONQGQAJKDgoJGAMYGgwaFBQTEPQDUJBOaAJ19J8yQH0AAIA_IgYKAkgCEgCQA5BO&uc=15",
-        "start_date": "2026-01-07T09:00:10.000Z",
-        "impressions_total": 1795652,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 1795652,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "34",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CHANEL",
-        "profile_name": "CHANEL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.chanel.com/nl/make-up/rouge-noir/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_mu_rougenoir_2026__awar_view&utm_term=video_10&utm_content=film-packshot_collection-ad"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -351,6 +100,482 @@
               "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ab417059-7f95-42e4-9f2f-6a024515f985/2378eebb-3fa9-4a26-8362-1e151c4e2fe2.jpg"
             }
           ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c7ed2ec1-856e-4838-b385-0aa631713f33",
+        "name": "nl_fb_fr_cocomademoiselle_2025_2h_snapchat_traf_traf_24079-259875_ints_luxury-fragrance_collectionad_recording-session-film__15_dp",
+        "ad_account_name": "OMG_CHANEL_Social_NL_FNB_FB",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "COCO MADEMOISELLE",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/y3DqzPDMETzhLlAWy5uXu.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjD7TsgATDgAzjUBkABSg4KCT0mMhQXJCckHRD0A1CYdWgCdTEcO0B9AACAPyIGCgJIAhIAogE8CLoKEi8KLQiA8DQgATDQBTiACkACSg4KCUckLRETGxsYFxD0A1CYdWgCdb7jS0B9AACAPyIGCgJIAxIAogE8CJIKEi8KLQidjCMgATDgAzjUBkACSg4KCSwYHQ4PGBkUExD0A1CYdWgCdVZzL0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjPsiAgATDgAzjUBkACSg4KCTUZHwwOExQREBD0A1CYdWgCdZlFPkB9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-12-15T09:00:25.000Z",
+        "impressions_total": 322995,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 322995,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CHANEL",
+        "profile_name": "CHANEL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://www.chanel.com/nl/parfums/p/116660/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=collectionad_15&utm_content=recording-session-film_"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://www.chanel.com/nl/parfums/p/116400/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=collectionad_15&utm_content=recording-session-film_"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/327e6112-53f2-41d1-8584-54ee574e37d5/1575cc64-842a-4988-bff8-935f88e3dd21.jpg"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://www.chanel.com/nl/parfums/p/116660/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=collectionad_15&utm_content=recording-session-film_"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/7c5d2aa0-9fed-4454-8ee1-b0ba8d52e002/0f621af8-cb35-4333-9f46-949381c2ebf8.jpg"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://www.chanel.com/nl/parfum/p/116520/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=collectionad_15&utm_content=recording-session-film_"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ab417059-7f95-42e4-9f2f-6a024515f985/2378eebb-3fa9-4a26-8362-1e151c4e2fe2.jpg"
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "73bc29c0-868b-4cd3-adc0-2cdf0b721f54",
+        "name": "nl_fb_fr_cocomademoiselle_2025_2h_snapchat_awar_view_23771-w1_dmgr_wom_video_paparazzi-motion__10_dp",
+        "ad_account_name": "OMG_CHANEL_Social_NL_FNB_FB",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "COCO MADEMOISELLE Fragrance Primer",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZMFmbmsVeX8Y29BUvu8jH.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI3aAPIAEw4AM41AZAAUoOCgkjDg0MDBESEgoQ9ANQmk5oAiIGCgJIBBIAogEyCLoKEiUKIwiX6w0gATDQBTiACkACSg4KCSQKCgoMCw8SCRD0A1CaTmgCIgYKAkgCEgCiATEIfxIlCiMIgb8JIAEw4AM41AZAAkoOCgkXCAcHBwkLCwcQ9ANQmk5oAiIGCgJIAhIAogEyCJIKEiUKIwio8QkgATDgAzjUBkACSg4KCRgJCAcICAwLBhD0A1CaTmgCIgYKAkgCEgCiATIIxAoSJQojCNv2CCABMOADONYGQAJKDgoJGQcGBwcHCgwFEPQDUJpOaAIiBgoCSAISAKIBMgjSChIlCiMIwJgJIAEw4AM41AZAAkoOCgkaBgYGCAgKDAYQ9ANQmk5oAiIGCgJIAhIAkAOaTg%3D%3D&uc=15",
+        "start_date": "2025-09-02T08:00:17.000Z",
+        "impressions_total": 1178270,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 1178270,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CHANEL",
+        "profile_name": "CHANEL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.chanel.com/nl/parfums/p/116690/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=video_10&utm_content=paparazzi-motion_"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e5e4f1f1-34e0-4a6c-b546-1e820263df2a",
+        "name": "nl_fb_mu_rougenoir_2026__snapchat_awar_view_24895-267393_ints_beauty_video_film-packshot_collection-ad_10_dp",
+        "ad_account_name": "OMG_CHANEL_Social_NL_FNB_FB",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "ROUGE NOIR LIMITED EDITION",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LbulUZJVvmdmsHEd4N9MN.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAicrz0gATDgAzjUBkABSg4KCSAEOkgfQDEzKhD0A1CQTmgCdffGMkAiBgoCSAMSAKIBNwi6ChIqCigI97EwIAEw0AU4gApAAkoOCgkgBS05FjMdGxwQ9ANQkE5oAnWqgjlAIgYKAkgDEgCiATwIkgoSLwotCOufKSABMOADONQGQAJKDgoJGgUhIxAqHh8iEPQDUJBOaAJ1NqcnQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCJzPHSABMOADONQGQAJKDgoJGAMYGgwaFBQTEPQDUJBOaAJ19J8yQH0AAIA_IgYKAkgCEgCQA5BO&uc=15",
+        "start_date": "2026-01-07T09:00:10.000Z",
+        "impressions_total": 1795652,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 1795652,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CHANEL",
+        "profile_name": "CHANEL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.chanel.com/nl/make-up/rouge-noir/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_mu_rougenoir_2026__awar_view&utm_term=video_10&utm_content=film-packshot_collection-ad"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e8b4e06d-7c3f-4390-a67c-9e916dca4493",
+        "name": "nl_fb_fr_cocomademoiselle_2025_2h_snapchat_awar_view_23771-xxxx_ints_luxury_video_photoshoot-film__15_dp",
+        "ad_account_name": "OMG_CHANEL_Social_NL_FNB_FB",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "COCO MADEMOISELLE Eau de Parfum.",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vx58ieT2VA4zm9yO4GNRQ.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwiE8TkgATDgAzjUBkABSg4KCVMmDx4hFwwiHhD0A1CYdWgCIgISAKIBLgi6ChIlCiMIiI0sIAEw0AU4gApAAkoOCglGHw8WHBAQERgQ9ANQmHVoAiICEgCiAS0IfxIlCiMIjNEeIAEw4AM41AZAAkoOCgk0EggPEQwHEQ0Q9ANQmHVoAiICEgCiAS4IkgoSJQojCKSoICABMOADONQGQAJKDgoJNRMJEBIMCBIPEPQDUJh1aAIiAhIAogEuCMQKEiUKIwiluR4gATDgAzjWBkACSg4KCTEWCQ8TCwoMEBD0A1CYdWgCIgISAKIBLgjSChIlCiMIifMeIAEw4AM41AZAAkoOCgkwFQoPEwwLDBAQ9ANQmHVoAiICEgCQA5h1&uc=15",
+        "start_date": "2025-09-02T08:00:17.000Z",
+        "impressions_total": 47444,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 47444,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CHANEL",
+        "profile_name": "CHANEL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.chanel.com/nl/parfums/p/116520/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=video_15&utm_content=photoshoot-film_"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4bc52810-aefd-42ad-ad85-7689cb5debc0",
+        "name": "nl_fb_mu_rougenoir_2026__snapchat_awar_view_24895-267393_ints_beauty_video_master-main-film__15_dp",
+        "ad_account_name": "OMG_CHANEL_Social_NL_FNB_FB",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "ROUGE NOIR LIMITED EDITION",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/npQE0SvBlm4PoOKM54UqW.67?mo=Gv0BGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCO2iLSABMOADONQGQAFKDgoJKCYdHSgUGx8bEPQDUJh1aAJ1UYFqQCICEgCiATMIugoSKgooCL62KiABMNAFOIAKQAJKDgoJLRwXEysSExoVEPQDUJh1aAJ19CZzQCICEgCiATgIkgoSLwotCNeNHiABMOADONQGQAJKDgoJIhcWERcNEhQSEPQDUJh1aAJ1tI1gQH0AAIA_IgISAKIBOAjSChIvCi0I-dgeIAEw4AM41AZAAkoOCgkmFhMOHAsQEhAQ9ANQmHVoAnVOJG1AfQAAgD8iAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2026-01-07T09:00:10.000Z",
+        "impressions_total": 186844,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 186844,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CHANEL",
+        "profile_name": "CHANEL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.chanel.com/nl/make-up/rouge-noir/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_mu_rougenoir_2026__awar_view&utm_term=video_15&utm_content=master-main-film_"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "bdbc926a-677e-411d-ac51-7b736076f789",
+        "name": "nl_fb_fr_cocomademoiselle_2025_2h_snapchat_awar_view_24079-259874_ints_lux-frag-buyers-hashtags_video_booth-session-film__15_dp",
+        "ad_account_name": "OMG_CHANEL_Social_NL_FNB_FB",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "COCO MADEMOISELLE Limited edition",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oA8S8oSUoLbicmBSYuZlV.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjf5VMgATDgAzjUBkABSg4KCSArHyc3PEM8OBD0A1CYdWgCdV7HT0B9AACAPyIGCgJIAhIAogE8CLoKEi8KLQiB7j8gATDQBTiACkACSg4KCR0mGx47HTApKRD0A1CYdWgCdeRoV0B9AACAPyIGCgJIAxIAogE8CJIKEi8KLQi6uDEgATDgAzjUBkACSg4KCRweEhYjHS0eJRD0A1CYdWgCdSPsPUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiRnSwgATDgAzjUBkACSg4KCRkdEBMoEx8bGxD0A1CYdWgCdRLRTUB9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-12-01T06:00:23.000Z",
+        "impressions_total": 1492219,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 1492219,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CHANEL",
+        "brand_name": "CHANEL",
+        "profile_name": "CHANEL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.chanel.com/nl/parfums/p/116400/coco-mademoiselle-navulbare-twist-and-spray-flacon-eau-de-parfum/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=video_15&utm_content=booth-session-film_"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -526,230 +751,6 @@
               "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/3d8c384e-e0bb-473f-b249-205e2eaf181d/3fa7f7d8-0d29-4c5c-ad61-0f3df090b6b3.png"
             }
           ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "1ea73b89-1a8c-4ef1-83b4-f07e7885fc6d",
-        "name": "nl_fb_fr_cocomademoiselle_2025_2h_snapchat_awar_view_23771-w1_dmgr_wom_video_paparazzi-film__15_dp",
-        "ad_account_name": "OMG_CHANEL_Social_NL_FNB_FB",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "COCO MADEMOISELLE Fragrance Primer",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9pxqYXrMnXcPElc3LBZg7.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIicc4IAEw4AM41AZAAUoOCgk_KSscMwUqDzoQ9ANQrHVoAiIGCgJIBBIAogEyCLoKEiUKIwi3vS0gATDQBTiACkACSg4KCUIdHRshCygLLBD0A1CsdWgCIgYKAkgCEgCiATEIfxIlCiMIg4MhIAEw4AM41AZAAkoOCgkzGBYTGgQcCSQQ9ANQrHVoAiIGCgJIAhIAogEyCJIKEiUKIwiOwSIgATDgAzjUBkACSg4KCTMWGBcbBRsKJRD0A1CsdWgCIgYKAkgCEgCiATIIxAoSJQojCKWQHyABMOADONYGQAJKDgoJMRQUEhcHHAceEPQDUKx1aAIiBgoCSAISAKIBMgjSChIlCiMIw_EfIAEw4AM41AZAAkoOCgkyFRQTGAgcBx8Q9ANQrHVoAiIGCgJIAhIAkAOsdQ%3D%3D&uc=15",
-        "start_date": "2025-09-02T08:00:17.000Z",
-        "impressions_total": 290924,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 290924,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CHANEL",
-        "profile_name": "CHANEL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.chanel.com/nl/parfums/coco-mademoiselle/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=video_15&utm_content=paparazzi-film_"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "11e846d4-5fbc-4fc4-9eb1-e4260d7f3482",
-        "name": "nl_fb_fr_cocomademoiselle_2025_2h_snapchat_awar_view_24079-259874_ints_lux-frag-buyers-hashtags_video_recording-session-film__15_dp",
-        "ad_account_name": "OMG_CHANEL_Social_NL_FNB_FB",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "COCO MADEMOISELLE",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UpuieTTETUai6wYbAFyrq.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAib1jsgATDgAzjUBkABSg4KCT4hNBUXJiIlHRD0A1CYdWgCdTNzQEAiBgoCSAMSAKIBNwi6ChIqCigIlvgzIAEw0AU4gApAAkoOCglFIiwRFBoaGBcQ9ANQmHVoAnVi40xAIgYKAkgCEgCiATwIkgoSLwotCKWQIyABMOADONQGQAJKDgoJLBYdDg4ZGRUTEPQDUJh1aAJ1IhMvQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCOPHICABMOADONQGQAJKDgoJNBcfDQ0TFBEREPQDUJh1aAJ1StQ_QH0AAIA_IgYKAkgCEgCQA5h1&uc=15",
-        "start_date": "2025-12-01T06:00:23.000Z",
-        "impressions_total": 369493,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 369493,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CHANEL",
-        "profile_name": "CHANEL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.chanel.com/nl/parfums/p/116660/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_cocomademoiselle_2025_2h&utm_term=video_15&utm_content=recording-session-film_"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4bc52810-aefd-42ad-ad85-7689cb5debc0",
-        "name": "nl_fb_mu_rougenoir_2026__snapchat_awar_view_24895-267393_ints_beauty_video_master-main-film__15_dp",
-        "ad_account_name": "OMG_CHANEL_Social_NL_FNB_FB",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "ROUGE NOIR LIMITED EDITION",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/npQE0SvBlm4PoOKM54UqW.67?mo=Gv0BGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCO2iLSABMOADONQGQAFKDgoJKCYdHSgUGx8bEPQDUJh1aAJ1UYFqQCICEgCiATMIugoSKgooCL62KiABMNAFOIAKQAJKDgoJLRwXEysSExoVEPQDUJh1aAJ19CZzQCICEgCiATgIkgoSLwotCNeNHiABMOADONQGQAJKDgoJIhcWERcNEhQSEPQDUJh1aAJ1tI1gQH0AAIA_IgISAKIBOAjSChIvCi0I-dgeIAEw4AM41AZAAkoOCgkmFhMOHAsQEhAQ9ANQmHVoAnVOJG1AfQAAgD8iAhIAkAOYdQ%3D%3D&uc=15",
-        "start_date": "2026-01-07T09:00:10.000Z",
-        "impressions_total": 186844,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 186844,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "34",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CHANEL",
-        "profile_name": "CHANEL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.chanel.com/nl/make-up/rouge-noir/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_mu_rougenoir_2026__awar_view&utm_term=video_15&utm_content=master-main-film_"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

@@ -1,0 +1,520 @@
+{
+  "cells": {
+    "fashion": {
+      "status": "fetched",
+      "keyword": "fashion",
+      "query_echo": "fashion",
+      "country": "US",
+      "sections": [
+        {
+          "type": "storyCard",
+          "count": 24
+        },
+        {
+          "type": "publisher",
+          "count": 24
+        },
+        {
+          "type": "topic",
+          "count": 6
+        },
+        {
+          "type": "snapProEntity",
+          "count": 24
+        },
+        {
+          "type": "lens",
+          "count": 24
+        },
+        {
+          "type": "publisherEdition",
+          "count": 15
+        },
+        {
+          "type": "place",
+          "count": 10
+        }
+      ],
+      "creators_found": 70,
+      "topics_found": [
+        "fashion_style",
+        "fashionblogger",
+        "fashionbrand",
+        "fashionable",
+        "fashion_ksa",
+        "fashion"
+      ],
+      "fetched_at": "2026-04-09T13:09:12.516Z"
+    },
+    "style": {
+      "status": "fetched",
+      "keyword": "style",
+      "query_echo": "style",
+      "country": "IN",
+      "sections": [
+        {
+          "type": "storyCard",
+          "count": 24
+        },
+        {
+          "type": "publisher",
+          "count": 24
+        },
+        {
+          "type": "user",
+          "count": 1
+        },
+        {
+          "type": "lens",
+          "count": 24
+        },
+        {
+          "type": "topic",
+          "count": 4
+        },
+        {
+          "type": "snapProEntity",
+          "count": 24
+        },
+        {
+          "type": "publisherEdition",
+          "count": 15
+        },
+        {
+          "type": "place",
+          "count": 10
+        }
+      ],
+      "creators_found": 72,
+      "topics_found": [
+        "style",
+        "stylefashion",
+        "stylecheck",
+        "styleblogger"
+      ],
+      "fetched_at": "2026-04-09T13:09:17.143Z"
+    },
+    "outfit": {
+      "status": "fetched",
+      "keyword": "outfit",
+      "query_echo": "outfit",
+      "country": "NL",
+      "sections": [
+        {
+          "type": "lens",
+          "count": 24
+        },
+        {
+          "type": "storyCard",
+          "count": 24
+        },
+        {
+          "type": "publisher",
+          "count": 3
+        },
+        {
+          "type": "topic",
+          "count": 8
+        },
+        {
+          "type": "user",
+          "count": 1
+        },
+        {
+          "type": "snapProEntity",
+          "count": 8
+        },
+        {
+          "type": "place",
+          "count": 10
+        },
+        {
+          "type": "publisherEdition",
+          "count": 15
+        }
+      ],
+      "creators_found": 35,
+      "topics_found": [
+        "outfits",
+        "outfitinspo",
+        "outfit",
+        "outfitoftheday",
+        "outfitinspiration",
+        "outfitidea",
+        "outfitideas",
+        "outfitcheck"
+      ],
+      "fetched_at": "2026-04-09T13:09:21.791Z"
+    },
+    "outfitoftheday": {
+      "status": "fetched",
+      "keyword": "outfitoftheday",
+      "query_echo": "outfitoftheday",
+      "country": "US",
+      "sections": [
+        {
+          "type": "user",
+          "count": 1
+        },
+        {
+          "type": "place",
+          "count": 1
+        },
+        {
+          "type": "topic",
+          "count": 1
+        },
+        {
+          "type": "storyCard",
+          "count": 24
+        }
+      ],
+      "creators_found": 16,
+      "topics_found": [
+        "outfitoftheday"
+      ],
+      "fetched_at": "2026-04-09T13:21:52.703Z"
+    },
+    "ootd": {
+      "status": "fetched",
+      "keyword": "ootd",
+      "query_echo": "ootd",
+      "country": "CR",
+      "sections": [
+        {
+          "type": "storyCard",
+          "count": 24
+        },
+        {
+          "type": "lens",
+          "count": 24
+        },
+        {
+          "type": "snapProEntity",
+          "count": 4
+        },
+        {
+          "type": "topic",
+          "count": 6
+        },
+        {
+          "type": "publisherEdition",
+          "count": 15
+        },
+        {
+          "type": "user",
+          "count": 1
+        },
+        {
+          "type": "publisher",
+          "count": 1
+        },
+        {
+          "type": "place",
+          "count": 10
+        }
+      ],
+      "creators_found": 30,
+      "topics_found": [
+        "ootd",
+        "ootdtrend",
+        "ootdstyle",
+        "ootdspotlight",
+        "ootdinspo",
+        "ootdfashion"
+      ],
+      "fetched_at": "2026-04-09T13:21:57.797Z"
+    },
+    "streetwear": {
+      "status": "fetched",
+      "keyword": "streetwear",
+      "query_echo": "streetwear",
+      "country": "NL",
+      "sections": [
+        {
+          "type": "storyCard",
+          "count": 24
+        },
+        {
+          "type": "user",
+          "count": 1
+        },
+        {
+          "type": "snapProEntity",
+          "count": 5
+        },
+        {
+          "type": "publisherEdition",
+          "count": 7
+        },
+        {
+          "type": "lens",
+          "count": 24
+        },
+        {
+          "type": "place",
+          "count": 10
+        },
+        {
+          "type": "topic",
+          "count": 3
+        }
+      ],
+      "creators_found": 25,
+      "topics_found": [
+        "streetwear",
+        "streetwearstyle",
+        "streetwearfashion"
+      ],
+      "fetched_at": "2026-04-09T13:22:02.294Z"
+    },
+    "runway": {
+      "status": "fetched",
+      "keyword": "runway",
+      "query_echo": "runway",
+      "country": "IN",
+      "sections": [
+        {
+          "type": "storyCard",
+          "count": 24
+        },
+        {
+          "type": "user",
+          "count": 1
+        },
+        {
+          "type": "snapProEntity",
+          "count": 5
+        },
+        {
+          "type": "publisher",
+          "count": 5
+        },
+        {
+          "type": "publisherEdition",
+          "count": 15
+        },
+        {
+          "type": "lens",
+          "count": 24
+        },
+        {
+          "type": "place",
+          "count": 10
+        },
+        {
+          "type": "topic",
+          "count": 2
+        }
+      ],
+      "creators_found": 32,
+      "topics_found": [
+        "runway",
+        "runwaymodel"
+      ],
+      "fetched_at": "2026-04-09T13:22:06.835Z"
+    },
+    "fashion_style": {
+      "status": "fetched",
+      "keyword": "fashion_style",
+      "query_echo": "fashion_style",
+      "country": "US",
+      "sections": [
+        {
+          "type": "snapProEntity",
+          "count": 1
+        },
+        {
+          "type": "place",
+          "count": 10
+        },
+        {
+          "type": "topic",
+          "count": 1
+        },
+        {
+          "type": "storyCard",
+          "count": 24
+        }
+      ],
+      "creators_found": 22,
+      "topics_found": [
+        "fashion_style"
+      ],
+      "fetched_at": "2026-04-09T13:22:12.290Z"
+    },
+    "fashionblogger": {
+      "status": "fetched",
+      "keyword": "fashionblogger",
+      "query_echo": "fashionblogger",
+      "country": "AT",
+      "sections": [
+        {
+          "type": "user",
+          "count": 1
+        },
+        {
+          "type": "snapProEntity",
+          "count": 1
+        },
+        {
+          "type": "place",
+          "count": 1
+        },
+        {
+          "type": "topic",
+          "count": 1
+        },
+        {
+          "type": "storyCard",
+          "count": 24
+        }
+      ],
+      "creators_found": 19,
+      "topics_found": [
+        "fashionblogger"
+      ],
+      "fetched_at": "2026-04-09T13:22:16.616Z"
+    },
+    "fashion_week": {
+      "status": "fetched",
+      "keyword": "fashion_week",
+      "query_echo": "fashion_week",
+      "country": "IN",
+      "sections": [
+        {
+          "type": "user",
+          "count": 1
+        },
+        {
+          "type": "place",
+          "count": 2
+        },
+        {
+          "type": "storyCard",
+          "count": 24
+        }
+      ],
+      "creators_found": 23,
+      "topics_found": [],
+      "fetched_at": "2026-04-09T13:22:21.832Z"
+    },
+    "wardrobe": {
+      "status": "fetched",
+      "keyword": "wardrobe",
+      "query_echo": "wardrobe",
+      "country": "US",
+      "sections": [
+        {
+          "type": "storyCard",
+          "count": 24
+        },
+        {
+          "type": "snapProEntity",
+          "count": 6
+        },
+        {
+          "type": "user",
+          "count": 1
+        },
+        {
+          "type": "publisher",
+          "count": 4
+        },
+        {
+          "type": "publisherEdition",
+          "count": 15
+        },
+        {
+          "type": "lens",
+          "count": 24
+        },
+        {
+          "type": "place",
+          "count": 10
+        },
+        {
+          "type": "topic",
+          "count": 2
+        }
+      ],
+      "creators_found": 34,
+      "topics_found": [
+        "wardrobe",
+        "wardrobeessentials"
+      ],
+      "fetched_at": "2026-04-09T13:22:26.672Z"
+    },
+    "trendy": {
+      "status": "fetched",
+      "keyword": "trendy",
+      "query_echo": "trendy",
+      "country": "US",
+      "sections": [
+        {
+          "type": "storyCard",
+          "count": 24
+        },
+        {
+          "type": "user",
+          "count": 1
+        },
+        {
+          "type": "snapProEntity",
+          "count": 24
+        },
+        {
+          "type": "lens",
+          "count": 24
+        },
+        {
+          "type": "publisher",
+          "count": 13
+        },
+        {
+          "type": "publisherEdition",
+          "count": 15
+        },
+        {
+          "type": "place",
+          "count": 10
+        },
+        {
+          "type": "topic",
+          "count": 4
+        }
+      ],
+      "creators_found": 60,
+      "topics_found": [
+        "trendyspotlights",
+        "trendylook",
+        "trendycreator",
+        "trendy"
+      ],
+      "fetched_at": "2026-04-09T13:22:31.249Z"
+    },
+    "vintage_fashion": {
+      "status": "fetched",
+      "keyword": "vintage_fashion",
+      "query_echo": "vintage_fashion",
+      "country": "US",
+      "sections": [
+        {
+          "type": "place",
+          "count": 6
+        },
+        {
+          "type": "storyCard",
+          "count": 24
+        }
+      ],
+      "creators_found": 12,
+      "topics_found": [],
+      "fetched_at": "2026-04-09T13:22:35.779Z"
+    }
+  },
+  "total_requests": 13,
+  "total_fetched": 13,
+  "started_at": "2026-04-09T13:09:10.073Z",
+  "last_updated": "2026-04-09T13:22:35.779Z"
+}

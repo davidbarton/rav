@@ -1,8 +1,9 @@
 {
   "brand": "Pandora",
   "country": "fr",
-  "fetched_at": "2026-04-09T02:19:21.695Z",
+  "fetched_at": "2026-04-09T13:05:36.697Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
@@ -82,158 +83,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "eafd12f0-2211-4ac8-a333-979c7bdf49ad",
-        "name": "PAND2_AWARENESS_BBL_BELOVEHOLIDAY_REACH_BROAD_18-54_FR_VIDEOAD_COLL_PANDORAME_X_MIXED_2025Q4G;PLATFORM;HOLIDAY;GO_HOLIDAY-MODELVIDEO-TALISMAN-02-DEC-06-JAN",
-        "ad_account_name": "Pandora France",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Illuminez les fêtes avec Pandora",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/lWM9yjjL8k6rrqjHCAPi3.67?mo=GpMCGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0Iic43IAEw4AM41AZAAUoOCglBJS8qRiwYGBwQ9ANQ8GBoAnWQ0WJAfQAAgD8iBgoCSAMSAKIBPAi6ChIvCi0IyKAvIAEw0AU4gApAAkoOCglQHyEePCkQExsQ9ANQ8GBoAnVi9mtAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0IzvciIAEw4AM41AZAAkoOCgksFh0fLicXDhEQ9ANQ8GBoAnWmx1FAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IhZIfIAEw4AM41AZAAkoOCgk0FBUSIxkMDhIQ9ANQ8GBoAnXSQmFAfQAAgD8iBgoCSAISAJAD8GA%3D&uc=15",
-        "start_date": "2025-11-16T23:01:00.000Z",
-        "impressions_total": 9249716,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 9249716,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Pandora A/S",
-        "brand_name": "Pandora",
-        "profile_name": "The Official Pandora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://fr.pandora.net/fr/?cid=socp:snapchat::pandorame:upperfunnel:no_promo:::::::mixed::::"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c2e34932-80db-4a08-b7ec-0d8f37bb1af5",
-        "name": "PAND2_ACTIVE_TP_MOMENTS_COSTPERVIEWCONTENT_LALPIXELDATA_MIXED_FR_REGULARSINGLEVIDEO_COLL_MOMENTS_X_MIXED_ER;ER;ER_AON-RINGS-PRODUCTANIMATION-MOMENTS-28-AUG-30-SEP",
-        "ad_account_name": "Pandora France",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Osez le doré et l’argent",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/iGkq1GEJxvqx1V11ycHvy.67?mo=GsMCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLwhDEicKJQiSr0MgATDgAzjUBkABShAKCzVJmAGcAV9bbFVbEPQDUJgvaAIiAhIAogEuCLoKEiUKIwii5zQgATDQBTiACkACSg4KCS5BcXhKOFFDRRD0A1CYL2gCIgISAKIBLgh_EiYKJAiI8TcgATDgAzjUBkACSg8KCiszfYMBVEVVVEYQ9ANQmC9oAiICEgCiATAIkgoSJwolCIyEOSABMOADONQGQAJKEAoLKzSHAY4BUENWWUQQ9ANQmC9oAiICEgCiAS4IxAoSJQojCNCnJSABMOADONYGQAJKDgoJIitNYjMmNy0wEPQDUJgvaAIiAhIAogEuCNIKEiUKIwjFryggATDgAzjUBkACSg4KCSQvVF87KzwyNRD0A1CYL2gCIgISAJADmC8%3D&uc=15",
-        "start_date": "2025-06-30T22:01:00.000Z",
-        "impressions_total": 112542,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 112542,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Pandora A/S",
-        "brand_name": "Pandora",
-        "profile_name": "The Official Pandora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://fr.pandora.net/fr/bagues/#shopcid=socp:facebookinstagram::moments:midfunnel:no_promo:::::::mixed::::"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "5d60c42b-fb26-4b2b-a23d-25b352a8b8ae",
-        "name": "PAND2_ACTIVE_TP_PERSO_COSTPERVIEWCONTENT_LALPIXELDATA_MIXED_FR_REGULARSINGLEVIDEO_COLL_FULLJEWELRYBRAND_X_RINGS_ER;ER;ER_AON-ENGRAVING-PRODUCTANIMATION-RINGS-01-JUL-02-SEP",
+        "id": "a3b27aca-d9e8-4fde-9f57-668b7a7de4af",
+        "name": "PAND2_AWARENESS_BBL_COINS-PANDORATALISMAN_REACH_BROAD_18-54_FR_VIDEOAD_COLL_PANDORAME_X_MIXED_ER;ER;ER_TALISMAN-VIDEO-CAROLINER-01-OCT-23-OCT",
         "ad_account_name": "Pandora France",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -242,13 +93,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "Bijoux à graver Pandora",
+        "headline": "Les mantras d'une vie",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gk3C20fla3r5urgK9Cthy.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIkcZBIAEw4AM41AZAAUoOCglQPDYyMTU1MEIQ9ANQmk5oAiIGCgJIBBIAogEyCLoKEiUKIwjg2DggATDQBTiACkACSg4KCU4rLSowKSouMRD0A1CaTmgCIgYKAkgCEgCiATEIfxIlCiMI7-wyIAEw4AM41AZAAkoOCglCLykuIiIlLy4Q9ANQmk5oAiIGCgJIAhIAogEyCJIKEiUKIwjmoTMgATDgAzjUBkACSg4KCUIzKychKSYpLhD0A1CaTmgCIgYKAkgCEgCiATIIxAoSJQojCIbuJSABMOADONYGQAJKDgoJOB0dGyAbHB8gEPQDUJpOaAIiBgoCSAISAKIBMgjSChIlCiMIy-AnIAEw4AM41AZAAkoOCgk7HiAcIxweIiIQ9ANQmk5oAiIGCgJIAhIAkAOaTg%3D%3D&uc=15",
-        "start_date": "2025-06-30T22:01:00.000Z",
-        "impressions_total": 798060,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nhWBETCZVuoVWjhHPLawY.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwixukYgATDgAzjUBkABSg4KCTEkHy4aHjQvIhD0A1CYdWgCIgISAKIBLgi6ChIlCiMIlfQ5IAEw0AU4gApAAkoOCgkoFR00FxUpHR4Q9ANQmHVoAiICEgCiAS0IfxIlCiMI0P8pIAEw4AM41AZAAkoOCgkgEREaFBAdFxIQ9ANQmHVoAiICEgCiAS4IkgoSJQojCJz5KyABMOADONQGQAJKDgoJJBIRGxQTHxcWEPQDUJh1aAIiAhIAogEuCMQKEiUKIwiGoSUgATDgAzjWBkACSg4KCR8RESMPDxoSExD0A1CYdWgCIgISAKIBLgjSChIlCiMIgOwmIAEw4AM41AZAAkoOCgkfERIiEA8bEhQQ9ANQmHVoAiICEgCQA5h1&uc=15",
+        "start_date": "2025-09-30T22:01:00.000Z",
+        "impressions_total": 3155471,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -260,7 +111,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 798060,
+          "fr": 3155471,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -297,7 +148,82 @@
         "profile_name": "The Official Pandora",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://fr.pandora.net/fr/gravure-en-ligne/#shop?cid=socp:snapchat::fulljewelrybrand:midfunnel:no_promo:::::::rings::::"
+          "url": "https://fr.pandora.net/fr/bijoux/caroline-receveur/?cid=socp:snapchat::fulljewelrybrand:upperfunnel:no_promo:::::::mixed::::"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3e8de63f-f8a8-4bc6-8a4c-18b405707fce",
+        "name": "PAND3_PURCHASE_FMG_LOCALGIFTINGOCCASIONS_REGULARSINGLEVIDEO_STANDARD_FULLJEWELRYBRAND_MIXED_2026Q1A;CULTURE;INFLUENCER;LO_INFLUENCE-VALENTINES-LARAGCV-FMG-LOW_26-JAN-28-FEB",
+        "ad_account_name": "Pandora France",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Offrez-lui un bijou plein de sens",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zaxhbpM7R24euiTxpwsaS.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiX-XsgATDgAzjUBkABSg4KCXM3FCMZLTQsOhD0A1DmtQFoAnWK0FhAIgYKAkgEEgCiAT0IugoSMAouCKDRbCABMNAFOIAKQAJKDgoJaDATGxktKh42EPQDUOa1AWgCdZsCZkB9AACAPyIGCgJIAxIAogE9CJIKEjAKLgjMsFMgATDgAzjUBkACSg4KCVsjDxoUHSIZJxD0A1DmtQFoAnWWP0dAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I0Z5OIAEw4AM41AZAAkoOCglSKA4SEB4iFSYQ9ANQ5rUBaAJ1IIFVQH0AAIA_IgYKAkgCEgCQA-a1AQ%3D%3D&uc=15",
+        "start_date": "2026-01-29T23:01:00.000Z",
+        "impressions_total": 955997,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 955997,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Pandora A/S",
+        "brand_name": "Pandora",
+        "profile_name": "The Official Pandora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://fr.pandora.net/fr/cadeaux/destinataire/cadeaux-pour-ma-meilleure-amie/?cid=socp:snapchat::fulljewelrybrand:lowerfunnel:no_promo:::::::mixed::::"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -382,8 +308,83 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "3c7ca7eb-a465-4e7f-b848-5943ce3d02bc",
-        "name": "PAND2_AWARENESS_BBL_BELOVEHOLIDAY_REACH_BROAD_18-54_FR_VIDEOAD_COLL_ESSENCE_X_MIXED_2025Q4G;PLATFORM;HOLIDAY;GO_HOLIDAY-MODELVIDEO-ESSENCE-HEARTBRACELET-02-DEC-06-JAN",
+        "id": "b5b23a35-2411-4345-9c59-6e159439b45f",
+        "name": "PAND3_PURCHASE_FMG_LOCALGIFTINGOCCASIONS_REGULARSINGLEVIDEO_STANDARD_MOMENTS_MIXED_ER;ER;ER_ENGRAVING-BELOVE2025-MODELVIDEO_07-JAN-21-JAN",
+        "ad_account_name": "Pandora France",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Gravez vos souvenirs précieux",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/7b4nmpFVI4tOGlh58lT4g.67?mo=GvkCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBQwhDEi8KLQjLzTMgAUojCh5HHR4SEiMYFzMdFRQoFDEaHRstGxscFg8oExkLBAMQ9ANoAiIOCgpCBgjX7Pe9BkgDEgCiAUMIugoSLgosCNClLyABSiIKHUggHRAMKBoZLhsVESETJhYTEiQcIBgRDCQTFAwFEPQDaAIiDgoKQgYIsu33vQZIAhIAogFDCH8SLwotCIWvISABSiMKHjAUFQoKExAOHCARDhUPGhMUDhoaEQ4MCBYPDgkDBBD0A2gCIg4KCkIGCLLt970GSAISAKIBRAiSChIvCi0I15wiIAFKIwoeMRUSDAoWEQ4bHg8QFhAeExIQGhoSEAsJFw4RCAQEEPQDaAIiDgoKQgYIsu33vQZIAhIAogFDCMQKEi4KLAjxhB8gAUoiCh0zEhMLCBoQDx4RDAoWDBgODAwbExQQDQgaDA0IBBD0A2gCIg4KCkIGCLLt970GSAISAJADmHU%3D&uc=15",
+        "start_date": "2026-01-06T23:01:00.000Z",
+        "impressions_total": 481935,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 481935,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Pandora A/S",
+        "brand_name": "Pandora",
+        "profile_name": "The Official Pandora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://fr.pandora.net/fr/gravure-en-ligne/?cid=socp:snapchat::moments:lowerfunnel:no_promo:::::::mixed::::"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "eafd12f0-2211-4ac8-a333-979c7bdf49ad",
+        "name": "PAND2_AWARENESS_BBL_BELOVEHOLIDAY_REACH_BROAD_18-54_FR_VIDEOAD_COLL_PANDORAME_X_MIXED_2025Q4G;PLATFORM;HOLIDAY;GO_HOLIDAY-MODELVIDEO-TALISMAN-02-DEC-06-JAN",
         "ad_account_name": "Pandora France",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -396,9 +397,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UCT482CPZrRAUK5s5Pits.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiI8SAgATDgAzjUBkABSg4KCTMTERcPHBMeGRD0A1CQTmgCdattbkAiBgoCSAQSAKIBNwi6ChIqCigI3_saIAEw0AU4gApAAkoOCgksFA8QChEPExcQ9ANQkE5oAnUvInlAIgYKAkgDEgCiATwIkgoSLwotCJDBEiABMOADONQGQAJKDgoJIAoIDQgNCg0TEPQDUJBOaAJ1Eg1bQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCPDbEiABMOADONQGQAJKDgoJHwsJDAYLCQ0QEPQDUJBOaAJ1aABrQH0AAIA_IgYKAkgCEgCQA5BO&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/lWM9yjjL8k6rrqjHCAPi3.67?mo=GpMCGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0Iic43IAEw4AM41AZAAUoOCglBJS8qRiwYGBwQ9ANQ8GBoAnWQ0WJAfQAAgD8iBgoCSAMSAKIBPAi6ChIvCi0IyKAvIAEw0AU4gApAAkoOCglQHyEePCkQExsQ9ANQ8GBoAnVi9mtAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0IzvciIAEw4AM41AZAAkoOCgksFh0fLicXDhEQ9ANQ8GBoAnWmx1FAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IhZIfIAEw4AM41AZAAkoOCgk0FBUSIxkMDhIQ9ANQ8GBoAnXSQmFAfQAAgD8iBgoCSAISAJAD8GA%3D&uc=15",
         "start_date": "2025-11-16T23:01:00.000Z",
-        "impressions_total": 10656875,
+        "impressions_total": 9249716,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -410,7 +411,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 10656875,
+          "fr": 9249716,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -447,7 +448,7 @@
         "profile_name": "The Official Pandora",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://fr.pandora.net/fr/?cid=socp:snapchat::essence:upperfunnel:no_promo:::::::mixed::::"
+          "url": "https://fr.pandora.net/fr/?cid=socp:snapchat::pandorame:upperfunnel:no_promo:::::::mixed::::"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -457,158 +458,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "1304cfed-9ba8-4fd6-af10-2049e940c039",
-        "name": "PAND2_PASSIVE_BBL_COINS-PANDORATALISMAN_ADRECALLUPLIFT_BROAD_18-54_FR_VIDEOAD_COLL_PANDORAME_X_MIXED_2025Q3E;COLLECTION;PME;GO_TALISMAN-PRODUCTANIMATION-NECKLACEROTATION-28-AUG-30-SEP",
-        "ad_account_name": "Pandora France",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Les mantras d'une vie",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8LkSVAxjjDdYoYoZTQxvn.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI08MXIAEw4AM41AZAAUoOCgkxGCYWDAkrFxkQ9ANQujZoAiIGCgJIAhIAogEyCLoKEiUKIwjNohkgATDQBTiACkACSg4KCTQWMBQPECQcFhD0A1C6NmgCIgYKAkgDEgCiATEIfxIlCiMI7owXIAEw4AM41AZAAkoOCgkuGh4TDgomHBwQ9ANQujZoAiIGCgJIAhIAogEyCJIKEiUKIwjt9hYgATDgAzjUBkACSg4KCTEYHRMOCyUbGxD0A1C6NmgCIgYKAkgCEgCiATIIxAoSJQojCLyTEiABMOADONYGQAJKDgoJJhUkDQoPGRQOEPQDULo2aAIiBgoCSAISAKIBMgjSChIlCiMI2fUQIAEw4AM41AZAAkoOCgklDxoPCwkZFQ8Q9ANQujZoAiIGCgJIAhIAkAO6Ng%3D%3D&uc=15",
-        "start_date": "2025-06-30T22:01:00.000Z",
-        "impressions_total": 54890,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 54890,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Pandora A/S",
-        "brand_name": "Pandora",
-        "profile_name": "The Official Pandora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://fr.pandora.net/fr/collections/pandora-talisman/?cid=socp:snapchat::pandorame:midfunnel:no_promo:::::::charms::::"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "67936be8-6864-4af8-b746-9ecd1b73ed2b",
-        "name": "PAND2_AWARENESS_BBL_COINS-PANDORATALISMAN_REACH_BROAD_18-54_FR_VIDEOAD_COLL_PANDORAME_X_MIXED_ER;ER;ER_TALISMAN-VIDEO-CAROLINER-28-AUG-30-SEP",
-        "ad_account_name": "Pandora France",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Les mantras d'une vie",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nhWBETCZVuoVWjhHPLawY.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwixukYgATDgAzjUBkABSg4KCTEkHy4aHjQvIhD0A1CYdWgCIgISAKIBLgi6ChIlCiMIlfQ5IAEw0AU4gApAAkoOCgkoFR00FxUpHR4Q9ANQmHVoAiICEgCiAS0IfxIlCiMI0P8pIAEw4AM41AZAAkoOCgkgEREaFBAdFxIQ9ANQmHVoAiICEgCiAS4IkgoSJQojCJz5KyABMOADONQGQAJKDgoJJBIRGxQTHxcWEPQDUJh1aAIiAhIAogEuCMQKEiUKIwiGoSUgATDgAzjWBkACSg4KCR8RESMPDxoSExD0A1CYdWgCIgISAKIBLgjSChIlCiMIgOwmIAEw4AM41AZAAkoOCgkfERIiEA8bEhQQ9ANQmHVoAiICEgCQA5h1&uc=15",
-        "start_date": "2025-06-30T22:01:00.000Z",
-        "impressions_total": 7633997,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 7633997,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Pandora A/S",
-        "brand_name": "Pandora",
-        "profile_name": "The Official Pandora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://fr.pandora.net/fr/bijoux/caroline-receveur/?cid=socp:snapchat::pandorame:upperfunnel:no_promo:::::::mixed::::"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "814bd4e4-57b1-4fc9-addc-72d2b570e21d",
-        "name": "PAND3_PURCHASE_FMG_LOCALGIFTINGOCCASIONS_REGULARSINGLEVIDEO_STANDARD_FULLJEWELRYBRAND_MIXED_2026Q1A;CULTURE;INFLUENCER;LO_INFLUENCE-VALENTINES-ALEXANDRA-FMG-LOW_26-JAN-28-FEB",
+        "id": "bc794781-371b-4cf7-b1c8-445a1d1c884b",
+        "name": "PAND2_ACTIVE_TP_MOMENTS_COSTPERVIEWCONTENT_LALPIXELDATA_MIXED_FR_REGULARSINGLEVIDEO_COLL_MOMENTS_X_MIXED_ER;ER;ER_AO-RINGS-PRODUCTANIMATION-MOMENTS-01-OCT-23-OCT",
         "ad_account_name": "Pandora France",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -617,13 +468,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "Offrez-lui un bijou plein de sens",
+        "headline": "Osez le doré et l’argent",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VZbewjPB0UtbikUGgtfXp.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgin3lAgATDgAzjUBkABSg4KCUQWHxofFhIeExD0A1CqyQFoAnUAzGBAfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4IsaJEIAEw0AU4gApAAkoOCglEEBcXGw0TGg0Q9ANQqskBaAJ1n0h6QH0AAIA_IgYKAkgCEgCiAT0IkgoSMAouCMK9MiABMOADONQGQAJKDgoJNxARExYPDhEOEPQDUKrJAWgCdXpPTkB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiF7DEgATDgAzjUBkACSg4KCTUNEREUCg4TChD0A1CqyQFoAnWmqmpAfQAAgD8iBgoCSAISAJADqskB&uc=15",
-        "start_date": "2026-01-29T23:01:00.000Z",
-        "impressions_total": 495775,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/iGkq1GEJxvqx1V11ycHvy.67?mo=GsMCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLwhDEicKJQiSr0MgATDgAzjUBkABShAKCzVJmAGcAV9bbFVbEPQDUJgvaAIiAhIAogEuCLoKEiUKIwii5zQgATDQBTiACkACSg4KCS5BcXhKOFFDRRD0A1CYL2gCIgISAKIBLgh_EiYKJAiI8TcgATDgAzjUBkACSg8KCiszfYMBVEVVVEYQ9ANQmC9oAiICEgCiATAIkgoSJwolCIyEOSABMOADONQGQAJKEAoLKzSHAY4BUENWWUQQ9ANQmC9oAiICEgCiAS4IxAoSJQojCNCnJSABMOADONYGQAJKDgoJIitNYjMmNy0wEPQDUJgvaAIiAhIAogEuCNIKEiUKIwjFryggATDgAzjUBkACSg4KCSQvVF87KzwyNRD0A1CYL2gCIgISAJADmC8%3D&uc=15",
+        "start_date": "2025-09-30T22:01:00.000Z",
+        "impressions_total": 112231,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -635,7 +486,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 495775,
+          "fr": 112231,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -672,7 +523,7 @@
         "profile_name": "The Official Pandora",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://fr.pandora.net/fr/cadeaux/destinataire/cadeaux-pour-ma-femme/?cid=socp:snapchat::fulljewelrybrand:lowerfunnel:no_promo:::::::mixed::::"
+          "url": "https://fr.pandora.net/fr/bagues/#shop?cid=socp:snapchat::fulljewelrybrand:midfunnel:no_promo:::::::mixed::::ao"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -682,8 +533,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "26016d2b-c035-433c-a222-241a022773ee",
-        "name": "PAND3_CONSIDERATION_IC_LOCALPROMO-GIFTSETSFLEX_REGULARSINGLEVIDEO_STANDARD_MOMENTS_MIXED_2026Q2D;PROMOTION;PROMO;GOLO_FLEXGIFTSET-PRODUCTANIMATION_02-APR-29-APR",
+        "id": "c2e34932-80db-4a08-b7ec-0d8f37bb1af5",
+        "name": "PAND2_ACTIVE_TP_MOMENTS_COSTPERVIEWCONTENT_LALPIXELDATA_MIXED_FR_REGULARSINGLEVIDEO_COLL_MOMENTS_X_MIXED_ER;ER;ER_AON-RINGS-PRODUCTANIMATION-MOMENTS-28-AUG-30-SEP",
         "ad_account_name": "Pandora France",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -692,13 +543,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "Composez votre bracelet à -20%",
+        "headline": "Osez le doré et l’argent",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/PYsfvMEUtJwTHUYgInb1F.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQiqqwkgATDgAzjUBkABSg4KCScFAwQFBAgEBRD0A1DaUGgCdcKIZUB9AACAPyIGCgJIAxIAogE8CLoKEi8KLQjU7g4gATDQBTiACkACSg4KCUUFBgYIBQgLBxD0A1DaUGgCdZwVbEB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjS2QkgATDgAzjUBkACSg4KCSYEBQUGBAYHBBD0A1DaUGgCdbztY0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjP5AkgATDgAzjUBkACSg4KCTEDBQMFAwUHBRD0A1DaUGgCdfxAZkB9AACAPyIGCgJIAhIAkAPaUA%3D%3D&uc=15",
-        "start_date": "2026-04-01T22:01:00.000Z",
-        "impressions_total": 268066,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/iGkq1GEJxvqx1V11ycHvy.67?mo=GsMCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLwhDEicKJQiSr0MgATDgAzjUBkABShAKCzVJmAGcAV9bbFVbEPQDUJgvaAIiAhIAogEuCLoKEiUKIwii5zQgATDQBTiACkACSg4KCS5BcXhKOFFDRRD0A1CYL2gCIgISAKIBLgh_EiYKJAiI8TcgATDgAzjUBkACSg8KCiszfYMBVEVVVEYQ9ANQmC9oAiICEgCiATAIkgoSJwolCIyEOSABMOADONQGQAJKEAoLKzSHAY4BUENWWUQQ9ANQmC9oAiICEgCiAS4IxAoSJQojCNCnJSABMOADONYGQAJKDgoJIitNYjMmNy0wEPQDUJgvaAIiAhIAogEuCNIKEiUKIwjFryggATDgAzjUBkACSg4KCSQvVF87KzwyNRD0A1CYL2gCIgISAJADmC8%3D&uc=15",
+        "start_date": "2025-06-30T22:01:00.000Z",
+        "impressions_total": 112542,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -710,7 +561,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 268066,
+          "fr": 112542,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -747,7 +598,157 @@
         "profile_name": "The Official Pandora",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://fr.pandora.net/fr/composez-votre-coffret-cadeau/creez-votre-bracelet-moins-20/?cid=socp:snapchat::fulljewelrybrand:midfunnel:no_promo:::::::mixed::::"
+          "url": "https://fr.pandora.net/fr/bagues/#shopcid=socp:facebookinstagram::moments:midfunnel:no_promo:::::::mixed::::"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "852a431f-350f-4cff-a90b-66b6cfca0859",
+        "name": "PAND2_ACTIVE_TP_PERSO_COSTPERVIEWCONTENT_LALPIXELDATA_MIXED_FR_REGULARSINGLEVIDEO_COLL_FULLJEWELRYBRAND_X_BRACELETS_ER;ER;ER_AON-ENGRAVING-PRODUCTANIMATION-BRACELET-01-JUL-02-SEP",
+        "ad_account_name": "Pandora France",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Bijoux à graver Pandora",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bd5KiO7FqiTv7YKtE4FTd.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI0OMUIAEw4AM41AZAAUoOCgkiDwwODg4TDgoQ9ANQkE5oAiIGCgJIBBIAogEyCLoKEiUKIwjRmBEgATDQBTiACkACSg4KCR4JCgoNCw0MCRD0A1CQTmgCIgYKAkgCEgCiATEIfxIlCiMIhtwMIAEw4AM41AZAAkoOCgkXCQcICAoKCQcQ9ANQkE5oAiIGCgJIAhIAogEyCJIKEiUKIwiypw0gATDgAzjUBkACSg4KCRgJCQcKCQoJCBD0A1CQTmgCIgYKAkgCEgCiATIIxAoSJQojCLXNCyABMOADONYGQAJKDgoJGAYGBggICAgGEPQDUJBOaAIiBgoCSAISAKIBMgjSChIlCiMI_7EMIAEw4AM41AZAAkoOCgkZBgcGCQgICQYQ9ANQkE5oAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-06-30T22:01:00.000Z",
+        "impressions_total": 576127,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 576127,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Pandora A/S",
+        "brand_name": "Pandora",
+        "profile_name": "The Official Pandora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://fr.pandora.net/fr/gravure-en-ligne/#shop?cid=socp:snapchat::fulljewelrybrand:midfunnel:no_promo:::::::bracelets::::"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "9d9f6337-dbe0-4d14-ab3c-7704f91f2760",
+        "name": "PAND2_AWARENESS_BBL_COINS-PANDORATALISMAN_REACH_BROAD_18-54_FR_VIDEOAD_COLL_PANDORAME_X_MIXED_ER;ER;ER_TALISMAN-MAINVIDEO-JOCELYN-01-OCT-23-OCT",
+        "ad_account_name": "Pandora France",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Les mantras d'une vie",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9WJTScgbuO2X07SIunVJL.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI1sNTIAEw4AM41AZAAUoOCgkgIxMzJiUfSCAQ9ANQmHVoAiIGCgJIBBIAogEyCLoKEiUKIwihmEcgATDQBTiACkACSg4KCR4YIyMkGBxAGRD0A1CYdWgCIgYKAkgDEgCiATEIfxIlCiMIypU7IAEw4AM41AZAAkoOCgkYFg4nFxsYLhUQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwiipTwgATDgAzjUBkACSg4KCRkXDi4ZHRgvFhD0A1CYdWgCIgYKAkgCEgCiATIIxAoSJQojCK6eLiABMOADONYGQAJKDgoJGBAYGBkOEyYPEPQDUJh1aAIiBgoCSAISAKIBMgjSChIlCiMIor0vIAEw4AM41AZAAkoOCgkYERgYGg8TKA4Q9ANQmHVoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-09-30T22:01:00.000Z",
+        "impressions_total": 3237869,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 3237869,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Pandora A/S",
+        "brand_name": "Pandora",
+        "profile_name": "The Official Pandora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://fr.pandora.net/fr/collections/pandora-talisman/?cid=socp:snapchat::fulljewelrybrand:upperfunnel:no_promo:::::::mixed::::"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

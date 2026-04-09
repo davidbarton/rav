@@ -21,13 +21,19 @@ This **drops and rebuilds** all tables from the current files under `data_source
 
 ## What gets loaded
 
-| Section | Tables | Source |
+27 tables across 9 source groups. Full inventory with row counts and RESEARCH.md cross-references: **[DATA_SAMPLES.md](../DATA_SAMPLES.md)**.
+
+| Group | Tables | Source |
 | --- | --- | --- |
 | Sponsored Content | `sponsored_content` | `/sponsored_content` pages JSON |
 | Brand Ads (fashion) | `brand_ads_fashion` | Ads Gallery `ads_fashion/*_de.json` |
 | Political Ads | `political_ads` | Bulk CSV 2018–2026 |
+| Brand Profiles | `brand_profiles`, `brand_profile_spotlights` | Profile web scrape JSON |
+| Spotlight Pages | `spotlight_pages` | Individual spotlight page JSON |
+| Explore Discovery | `explore_keywords`, `explore_subscribe_profiles`, `explore_spotlight_creators` | `/explore/<keyword>` scrape JSON |
 | EU DSA Transparency | `eu_dsa_member_state_orders`, `eu_dsa_notices`, `eu_dsa_own_initiative_illegal`, `eu_dsa_own_initiative_tc`, `eu_dsa_appeals`, `eu_dsa_automated_means`, `eu_dsa_human_resources`, `eu_dsa_amar`, `eu_dsa_categories` | EU DSA XLSX → CSV |
 | Global Transparency | `global_enforcements_by_policy`, `global_user_reports_by_policy`, `global_proactive_detection`, `global_appeals_by_policy`, `global_regional_enforcements`, `global_ads_moderation`, `global_csea`, `eu_csea_2025` | H1 2025 report → CSV |
+| EC DSA SOR (Snapchat) | `dsa_snapchat_sor` | `dsa_transparency/data/daily/snapchat-*.csv` |
 
 ## Explore
 

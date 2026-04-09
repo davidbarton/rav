@@ -1,14 +1,15 @@
 {
   "brand": "MAC",
   "country": "es",
-  "fetched_at": "2026-04-08T23:05:05.936Z",
+  "fetched_at": "2026-04-09T13:21:17.944Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "887c4628-e706-4b26-ac2d-94a8a8a3b920",
-        "name": "BL_RN_21986_0_32605_IsraelEgyptExpansion_AlternativeGeopoliticsMapped_Video_Animation_EN_9.16.mp4_twin-harbour-german-variation-snapchat",
+        "id": "bec8f725-365f-40a9-a493-48ed12a360a0",
+        "name": "BL_RN_21986_0_32416_PaperSplitUSNATO_Supra_Video_UGC_EN_9.16.mp4_45094_RocketDefense_US_Default_BoomBit_Playable",
         "ad_account_name": "Dorado Games GmbH Self Service",
         "status": "PAUSED",
         "creative_type": "APP_INSTALL",
@@ -19,37 +20,473 @@
         "call_to_action": "INSTALL NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/wwga0UToQXqxxjCAnxJcY.67?mo=GpYCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwj8hs4BIAEw4AM41AZAAUoPCgqKAUY1VkkdPChTEPQDUPyLAmgCdXtMZUAiBgoCSAQSAKIBOgi6ChItCisIwJSuASABMNAFOIAKQAJKDwoKjAEzJkBHHTIsSBD0A1D8iwJoAnWYh4BAIgYKAkgDEgCiAT4IkgoSMQovCKKajAEgATDgAzjUBkACSg4KCW4sIDYyFCweUBD0A1D8iwJoAnUy6VNAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8I97aDASABMOADONQGQAJKDgoJcCofNTcYJSA7EPQDUPyLAmgCdVgabkB9AACAPyIGCgJIAhIAkAP8iwI%3D&uc=15",
         "start_date": "2025-06-27T15:43:20.000Z",
-        "impressions_total": 158020,
+        "impressions_total": 1079626,
         "impressions_map": {
-          "de": 2257,
-          "be": 14333,
-          "fi": 899,
-          "pt": 3387,
-          "bg": 1731,
-          "dk": 617,
-          "lt": 3025,
-          "lu": 1175,
-          "hr": 1813,
+          "de": 22773,
+          "be": 79636,
+          "fi": 9452,
+          "pt": 4379,
+          "bg": 2700,
+          "dk": 7644,
+          "lt": 5922,
+          "lu": 7038,
+          "hr": 2133,
           "lv": 0,
-          "fr": 78040,
-          "hu": 1464,
-          "se": 1612,
-          "si": 1437,
-          "sk": 2960,
-          "ie": 2722,
+          "fr": 754083,
+          "hu": 2739,
+          "se": 23382,
+          "si": 4821,
+          "sk": 5214,
+          "ie": 23121,
           "ee": 0,
-          "el": 3494,
+          "el": 4853,
           "mt": 0,
-          "it": 2718,
-          "es": 2336,
-          "at": 2743,
+          "it": 11946,
+          "es": 14840,
+          "at": 15505,
           "cy": 0,
-          "cz": 1124,
-          "pl": 823,
-          "ro": 3470,
-          "nl": 2429,
-          "tr": 21411
+          "cz": 3221,
+          "pl": 4212,
+          "ro": 6642,
+          "nl": 37770,
+          "tr": 25600
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Stillfront Supremacy GmbH",
+        "profile_name": "Supremacy: World War 3",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRzQ4d01QdFJzOGp6S0dub1c5RUkzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "app_install_preview": {
+          "app_name": "Conflict of Nations: WW3",
+          "ios_app_id": "1510997559",
+          "android_app_url": "com.doradogames.conflictnations.worldwar3",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/2GEtBnzmABfEIFhky0HON.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {
+            "playable_media_download_link": "https://cf-st.sc-cdn.net/d/vcpkQpzyLXZmANgsIwLer/index.html?go=Ig4KCjICBH1IAVAPYAEYCg%3D%3D&uc=15",
+            "playable_call_to_action": "TRY_IT_OUT"
+          }
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "503161ae-e1fe-4b78-968d-513b3912f649",
+        "name": "BL_RN_21986_0_32605_GlobeIran_Supra_Video_UGC_EN_9.16.mp4",
+        "ad_account_name": "Dorado Games GmbH Self Service",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Dominate the Battlefield",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QYoBRWstEJa7skurjmWzS.67?mo=GpMCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgio5MUBIAEw4AM41AZAAUoOCgllLDEtIScUCxwQ9ANQsp0CaAJ1MO5aQCIGCgJIAxIAogE5CLoKEiwKKgjN7akBIAEw0AU4gApAAkoOCglZKCktIygUDR0Q9ANQsp0CaAJ1CixsQCIGCgJIAxIAogE-CJIKEjEKLwjp0oIBIAEw4AM41AZAAkoOCglZICAgGB0NBxYQ9ANQsp0CaAJ1TAtIQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCJKdfiABMOADONQGQAJKDgoJUxweIRoeEAkXEPQDULKdAmgCdSgGX0B9AACAPyIGCgJIAhIAkAOynQI%3D&uc=15",
+        "start_date": "2025-06-27T15:43:22.000Z",
+        "impressions_total": 5553,
+        "impressions_map": {
+          "de": 299,
+          "be": 2149,
+          "fi": 94,
+          "pt": 97,
+          "bg": 38,
+          "dk": 92,
+          "lt": 45,
+          "lu": 175,
+          "hr": 46,
+          "lv": 0,
+          "fr": 107,
+          "hu": 33,
+          "se": 212,
+          "si": 95,
+          "sk": 5,
+          "ie": 240,
+          "ee": 0,
+          "el": 68,
+          "mt": 0,
+          "it": 161,
+          "es": 120,
+          "at": 234,
+          "cy": 0,
+          "cz": 41,
+          "pl": 41,
+          "ro": 100,
+          "nl": 519,
+          "tr": 542
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Stillfront Supremacy GmbH",
+        "profile_name": "Supremacy: World War 3",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRzQ4d01QdFJzOGp6S0dub1c5RUkzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "app_install_preview": {
+          "app_name": "Conflict of Nations: WW3",
+          "ios_app_id": "1510997559",
+          "android_app_url": "com.doradogames.conflictnations.worldwar3",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/9vEFs6Qv6E1Tm1vR9W1Gz.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4d9ef361-c7e4-47a5-a2e5-5ef38f0e5d75",
+        "name": "BL_RN_21986_0_32709_DeathLaserUSA_Supra_Video_UGC_EN_9.16.mp4",
+        "ad_account_name": "Dorado Games GmbH Self Service",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Dominate the Battlefield",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/eCyTf6qTbM5OBHMFaA1eQ.67?mo=GokCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE0CEMSLAoqCNH4twEgATDgAzjUBkABSg4KCWYsHBgdHxctJhD0A1DGmAJoAnUyrVhAIgISAKIBOgi6ChIxCi8I5YigASABMNAFOIAKQAJKDgoJUh0TFRgXEScoEPQDUMaYAmgCdSqdbEB9AACAPyICEgCiATkIkgoSMAouCJCPeSABMOADONQGQAJKDgoJWBgREREQEB8dEPQDUMaYAmgCdcxqSEB9AACAPyICEgCiATkI0goSMAouCO-IdCABMOADONQGQAJKDgoJRxcOEhIRCx4bEPQDUMaYAmgCdSZZX0B9AACAPyICEgCQA8aYAg%3D%3D&uc=15",
+        "start_date": "2025-06-27T15:43:22.000Z",
+        "impressions_total": 205052,
+        "impressions_map": {
+          "de": 11428,
+          "be": 72483,
+          "fi": 5296,
+          "pt": 3957,
+          "bg": 1099,
+          "dk": 3452,
+          "lt": 1219,
+          "lu": 6018,
+          "hr": 1399,
+          "lv": 0,
+          "fr": 5172,
+          "hu": 1639,
+          "se": 15973,
+          "si": 2161,
+          "sk": 223,
+          "ie": 11057,
+          "ee": 0,
+          "el": 2548,
+          "mt": 0,
+          "it": 6830,
+          "es": 7088,
+          "at": 7628,
+          "cy": 0,
+          "cz": 1184,
+          "pl": 1530,
+          "ro": 2895,
+          "nl": 16142,
+          "tr": 16631
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Stillfront Supremacy GmbH",
+        "profile_name": "Supremacy: World War 3",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRzQ4d01QdFJzOGp6S0dub1c5RUkzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "app_install_preview": {
+          "app_name": "Conflict of Nations: WW3",
+          "ios_app_id": "1510997559",
+          "android_app_url": "com.doradogames.conflictnations.worldwar3",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/RWeqdxyF0zNUcHGrC3zQZ.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2a636979-4352-4e2a-8550-23e9c0105e2b",
+        "name": "BL_RN_21986_0_32596_DifferentThreatLevelsHook_ArtStash_Video_Animation_EN_9.16.mp4",
+        "ad_account_name": "Dorado Games GmbH Self Service",
+        "status": "PAUSED",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Dominate the Battlefield",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/j1AhgfWmcShgDNP8u4lmY.67?mo=Go4CGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE2CEMSLgosCPXotgEgATDgAzjUBkABShAKC4MBBBiDAT8LS1YHEPQDUJbTAWgCdYx_ekAiAhIAogE8CLoKEjMKMQjipJQBIAEw0AU4gApAAkoQCgujAgUggwE0CEpECxD0A1CW0wFoAnXtZ4RAfQAAgD8iAhIAogE5CJIKEjAKLginxHUgATDgAzjUBkACSg4KCV0FFWYyB0UuBhD0A1CW0wFoAnU0KXNAfQAAgD8iAhIAogE6CNIKEjEKLwiov2ogATDgAzjUBkACSg8KCqEBAxVZKgU2NwcQ9ANQltMBaAJ1l2F1QH0AAIA_IgISAJADltMB&uc=15",
+        "start_date": "2025-06-27T15:43:22.000Z",
+        "impressions_total": 28884,
+        "impressions_map": {
+          "de": 2837,
+          "be": 5721,
+          "fi": 658,
+          "pt": 402,
+          "bg": 157,
+          "dk": 508,
+          "lt": 180,
+          "lu": 489,
+          "hr": 163,
+          "lv": 0,
+          "fr": 506,
+          "hu": 183,
+          "se": 1431,
+          "si": 281,
+          "sk": 15,
+          "ie": 1575,
+          "ee": 0,
+          "el": 311,
+          "mt": 0,
+          "it": 794,
+          "es": 621,
+          "at": 1174,
+          "cy": 0,
+          "cz": 193,
+          "pl": 335,
+          "ro": 508,
+          "nl": 2995,
+          "tr": 6847
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Stillfront Supremacy GmbH",
+        "profile_name": "Supremacy: World War 3",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRzQ4d01QdFJzOGp6S0dub1c5RUkzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "app_install_preview": {
+          "app_name": "Conflict of Nations: WW3",
+          "ios_app_id": "1510997559",
+          "android_app_url": "com.doradogames.conflictnations.worldwar3",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/hMPEegXiX08RN35pdzkao.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "0520d4c2-21e0-4208-a56c-05965d2a4b6e",
+        "name": "BL_RN_16257_0_53856_OverloadVenezuelaMonster_ArtStash_Video_Animation_EN_9.16.mp4",
+        "ad_account_name": "Call of War Self Service",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Dive into WW2 and rewrite history",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/04lWG5bnuJXFhz8fTToso.67?mo=GpsCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwj_ppgBIAEw4AM41AZAAUoOCglcGjBDUy0YGRsQ9ANQsOoBaAJ1xM1qQH0AAIA_IgYKAkgDEgCiAT0IugoSMAouCLiLaCABMNAFOIAKQAJKDgoJWBAjMz8cEhITEPQDULDqAWgCdS7ceEB9AACAPyIGCgJIAxIAogE9CJIKEjAKLgjU91sgATDgAzjUBkACSg4KCT4QHCotHQwKFRD0A1Cw6gFoAnVoql5AfQAAgD8iBgoCSAISAKIBPQjSChIwCi4It8VEIAEw4AM41AZAAkoOCgk_ChUdHxcNCw0Q9ANQsOoBaAJ1GA1mQH0AAIA_IgYKAkgCEgCQA7DqAQ%3D%3D&uc=15",
+        "start_date": "2025-12-10T10:13:02.000Z",
+        "impressions_total": 7778,
+        "impressions_map": {
+          "de": 438,
+          "be": 2033,
+          "fi": 224,
+          "pt": 168,
+          "bg": 69,
+          "dk": 280,
+          "lt": 74,
+          "lu": 232,
+          "hr": 98,
+          "lv": 0,
+          "fr": 102,
+          "hu": 70,
+          "se": 622,
+          "si": 231,
+          "sk": 7,
+          "ie": 598,
+          "ee": 0,
+          "el": 118,
+          "mt": 0,
+          "it": 166,
+          "es": 222,
+          "at": 224,
+          "cy": 0,
+          "cz": 52,
+          "pl": 86,
+          "ro": 155,
+          "nl": 1199,
+          "tr": 310
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Stillfront Supremacy GmbH",
+        "profile_name": "Call of War",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMHZBY0xxV0dOeW0zUHlxTjVDRTcxP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "app_install_preview": {
+          "app_name": "Call of War",
+          "ios_app_id": "1331030677",
+          "android_app_url": "com.bytro.callofwar1942",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/KSjybc9dzxybTMqcKHCS8.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "fcafc387-d8ef-43f7-9ece-8a870cbdf8ad",
+        "name": "BL_RN_21986_0_32605_IsraelEgyptExpansion_AlternativeGeopoliticsMapped_Video_Animation_EN_9.16.mp4_45081_FightforAmerica_SnapMap_NoIntro_BoomBit_Playable_EN_Snapchat",
+        "ad_account_name": "Dorado Games GmbH Self Service",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Dominate the Battlefield",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-06-27T15:43:20.000Z",
+        "impressions_total": 207048,
+        "impressions_map": {
+          "de": 4925,
+          "be": 12119,
+          "fi": 1944,
+          "pt": 1610,
+          "bg": 649,
+          "dk": 2347,
+          "lt": 1463,
+          "lu": 764,
+          "hr": 802,
+          "lv": 0,
+          "fr": 144845,
+          "hu": 822,
+          "se": 5695,
+          "si": 1031,
+          "sk": 2247,
+          "ie": 3356,
+          "ee": 0,
+          "el": 1219,
+          "mt": 0,
+          "it": 1226,
+          "es": 1298,
+          "at": 2816,
+          "cy": 0,
+          "cz": 637,
+          "pl": 940,
+          "ro": 1868,
+          "nl": 5554,
+          "tr": 6871
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -79,7 +516,7 @@
           "android_app_url": "com.doradogames.conflictnations.worldwar3",
           "media_download_link": "https://cf-st.sc-cdn.net/d/ZRdatCSyj8vpcFa2nmqDV.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
           "playable_media_properties": {
-            "playable_media_download_link": "https://cf-st.sc-cdn.net/d/XZ83FtH5tn8MGO22rHJjc/index.html?go=Ig4KCjICBH1IAVAPYAEYCg%3D%3D&uc=15",
+            "playable_media_download_link": "https://cf-st.sc-cdn.net/d/tzoOTwraDnapGyZSgtj9i/index.html?go=Ig4KCjICBH1IAVAPYAEYCg%3D%3D&uc=15",
             "playable_call_to_action": "TRY_IT_OUT"
           }
         },
@@ -93,50 +530,52 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "caf9e672-6f56-435e-aeb4-27d8790e837b",
-        "name": "BL_RN_18611_0_ 14000_CatPicksBolivia_Supra_Video_UGC_EN_9.16.mp4_70017_AirStrikeDefense_Germany_Fast_BoomBit_Playable_EN_Snapchat",
-        "ad_account_name": "Supremacy 1914 Self Service",
+        "id": "ec7a25b9-7909-4bc4-ac99-fcb19f6b1641",
+        "name": "BL_RN_16257_0_53836_CatPickAustria_Supra_Video_UGC_EN_9.16.mp4",
+        "ad_account_name": "Call of War Self Service",
         "status": "ACTIVE",
         "creative_type": "APP_INSTALL",
         "ad_type": "APP_INSTALL",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "World War 1: Your Military Genius",
+        "languages": [
+          "en"
+        ],
+        "headline": "Dive into WW2 and rewrite history",
         "call_to_action": "INSTALL NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dBGaN1Ct1qIiLnnk4Ym7V.67?mo=GpcCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwjPyY8CIAEw4AM41AZAAUoPCgqrAUhOPhAXFREaEPQDUJajAmgCdYKTYkAiBgoCSAISAKIBOgi6ChItCisI4JP9ASABMNAFOIAKQAJKDwoKkQEzKz0ZIA4YHRD0A1CWowJoAnWsTHVAIgYKAkgDEgCiAT8IkgoSMgowCL2AswEgATDgAzjUBkACSg8KCoQBLS0kCxUNDhYQ9ANQlqMCaAJ12VJUQH0AAIA_IgYKAkgCEgCiAT4I0goSMQovCOqesQEgATDgAzjUBkACSg4KCXcpKDcQFgoNFxD0A1CWowJoAnXuUWdAfQAAgD8iBgoCSAISAJADlqMC&uc=15",
-        "start_date": "2026-01-22T12:00:53.000Z",
-        "impressions_total": 310058,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/54HqiHsUZf1YDViajKYKQ.67?mo=GpICGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE6CEMSMgowCL2mvwEgATDgAzjUBkABSg8KCpYBRCEbHSMZEhoQ9ANQovcBaAJ1CF9oQH0AAIA_IgISAKIBOwi6ChIyCjAInZStASABMNAFOIAKQAJKDwoKlgEuIx8gIh4aHBD0A1Ci9wFoAnUGR39AfQAAgD8iAhIAogE6CJIKEjEKLwj1poIBIAEw4AM41AZAAkoOCglyJRgUFRYTDxUQ9ANQovcBaAJ1s89XQH0AAIA_IgISAKIBOgjSChIxCi8IvbaBASABMOADONQGQAJKDgoJeigZHBcXEBIREPQDUKL3AWgCdVUvcEB9AACAPyICEgCQA6L3AQ%3D%3D&uc=15",
+        "start_date": "2025-12-10T10:13:02.000Z",
+        "impressions_total": 59613,
         "impressions_map": {
-          "de": 3654,
-          "be": 33684,
-          "fi": 1093,
-          "pt": 3260,
-          "bg": 908,
-          "dk": 894,
-          "lt": 2102,
-          "lu": 3258,
-          "hr": 580,
+          "de": 3560,
+          "be": 13257,
+          "fi": 2155,
+          "pt": 1268,
+          "bg": 479,
+          "dk": 2625,
+          "lt": 546,
+          "lu": 1851,
+          "hr": 878,
           "lv": 0,
-          "fr": 211073,
-          "hu": 579,
-          "se": 4155,
-          "si": 1865,
-          "sk": 2105,
-          "ie": 7560,
+          "fr": 848,
+          "hu": 625,
+          "se": 5736,
+          "si": 1688,
+          "sk": 98,
+          "ie": 4850,
           "ee": 0,
-          "el": 2759,
+          "el": 747,
           "mt": 0,
-          "it": 4567,
-          "es": 2774,
-          "at": 2163,
+          "it": 1137,
+          "es": 1176,
+          "at": 2209,
           "cy": 0,
-          "cz": 524,
-          "pl": 707,
-          "ro": 1550,
-          "nl": 6373,
-          "tr": 11871
+          "cz": 523,
+          "pl": 832,
+          "ro": 1209,
+          "nl": 9952,
+          "tr": 1364
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -161,17 +600,14 @@
           ]
         },
         "paying_advertiser_name": "Stillfront Supremacy GmbH",
-        "profile_name": "Supremacy 1914",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYXE5V1JsdFpJanJrQWhBUFQ5NW5jP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "profile_name": "Call of War",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMHZBY0xxV0dOeW0zUHlxTjVDRTcxP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "app_install_preview": {
-          "app_name": "Supremacy 1914",
-          "ios_app_id": "1450824654",
-          "android_app_url": "com.bytro.supremacy1914",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/q1tfZScM3Q5xpCZPIXf4j.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {
-            "playable_media_download_link": "https://cf-st.sc-cdn.net/d/7gGoq4A5jrqLdBIfuPYxF/index.html?go=Ig4KCjICBH1IAVAPYAEYCg%3D%3D&uc=15",
-            "playable_call_to_action": "TRY_IT_OUT"
-          }
+          "app_name": "Call of War",
+          "ios_app_id": "1331030677",
+          "android_app_url": "com.bytro.callofwar1942",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/vwTSBdbtodrPugTYJfNyy.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -181,52 +617,139 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "8a4c226d-019f-4ca0-abc1-b4e5f40b7245",
-        "name": "BL_RN_21986_0_31338_IdahoCoupleRebranded_TikTokCouple_Rebranded_Video_UGC_EN_9.16",
-        "ad_account_name": "Dorado Games GmbH Self Service",
-        "status": "PAUSED",
+        "id": "3ccdda05-0828-4372-82d2-919d2c662ca2",
+        "name": "BL_RN_16257_0_53856_OverloadVenezuelaMonster_ArtStash_Video_Animation_EN_9.16.mp4",
+        "ad_account_name": "Call of War Self Service",
+        "status": "ACTIVE",
         "creative_type": "APP_INSTALL",
         "ad_type": "APP_INSTALL",
         "ad_render_type": "STATIC",
         "languages": [
           "en"
         ],
-        "headline": "Dominate The Battlefield",
+        "headline": "Dive into WW2 and rewrite history",
         "call_to_action": "INSTALL NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mMgx2K9gGLjyWYdJMWSA8.67?mo=Gt0CGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUIzaCeASABMOADONQGQAFKDgoJaEMmJiMYHRYdEPQDUMKyAWgCIgYKAkgEEgCiATQIugoSJwolCJDqggEgATDQBTiACkACSg4KCV04FhMcDQ0NDhD0A1DCsgFoAiIGCgJIAxIAogEyCH8SJgokCK3HZSABMOADONQGQAJKDgoJTSYSDg8LDgwMEPQDUMKyAWgCIgYKAkgCEgCiATMIkgoSJgokCNm0ZSABMOADONQGQAJKDgoJTSMRDhAKDQ4MEPQDUMKyAWgCIgYKAkgCEgCiATMIxAoSJgokCPOoWCABMOADONYGQAJKDgoJSx8OEBMKDAsNEPQDUMKyAWgCIgYKAkgCEgCiATMI0goSJgokCIqcXyABMOADONQGQAJKDgoJTyESEhkKDAsLEPQDUMKyAWgCIgYKAkgCEgCQA8KyAQ%3D%3D&uc=15",
-        "start_date": "2025-06-27T15:43:22.000Z",
-        "impressions_total": 2075761,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/04lWG5bnuJXFhz8fTToso.67?mo=GpsCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwj_ppgBIAEw4AM41AZAAUoOCglcGjBDUy0YGRsQ9ANQsOoBaAJ1xM1qQH0AAIA_IgYKAkgDEgCiAT0IugoSMAouCLiLaCABMNAFOIAKQAJKDgoJWBAjMz8cEhITEPQDULDqAWgCdS7ceEB9AACAPyIGCgJIAxIAogE9CJIKEjAKLgjU91sgATDgAzjUBkACSg4KCT4QHCotHQwKFRD0A1Cw6gFoAnVoql5AfQAAgD8iBgoCSAISAKIBPQjSChIwCi4It8VEIAEw4AM41AZAAkoOCgk_ChUdHxcNCw0Q9ANQsOoBaAJ1GA1mQH0AAIA_IgYKAkgCEgCQA7DqAQ%3D%3D&uc=15",
+        "start_date": "2025-12-10T10:13:02.000Z",
+        "impressions_total": 27545,
         "impressions_map": {
-          "de": 138469,
-          "be": 181188,
-          "fi": 110801,
-          "pt": 37073,
-          "bg": 19407,
-          "dk": 94515,
-          "lt": 14483,
-          "lu": 21928,
-          "hr": 40464,
+          "de": 1316,
+          "be": 8270,
+          "fi": 798,
+          "pt": 601,
+          "bg": 176,
+          "dk": 1065,
+          "lt": 145,
+          "lu": 1127,
+          "hr": 300,
           "lv": 0,
-          "fr": 20123,
-          "hu": 15383,
-          "se": 295736,
-          "si": 32452,
-          "sk": 3689,
-          "ie": 222121,
+          "fr": 560,
+          "hu": 181,
+          "se": 2040,
+          "si": 483,
+          "sk": 33,
+          "ie": 2063,
           "ee": 0,
-          "el": 70036,
+          "el": 311,
           "mt": 0,
-          "it": 32382,
-          "es": 52849,
-          "at": 68168,
+          "it": 616,
+          "es": 636,
+          "at": 841,
           "cy": 0,
-          "cz": 15465,
-          "pl": 53500,
-          "ro": 30285,
-          "nl": 399091,
-          "tr": 106153
+          "cz": 154,
+          "pl": 336,
+          "ro": 523,
+          "nl": 3574,
+          "tr": 1396
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Stillfront Supremacy GmbH",
+        "profile_name": "Call of War",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMHZBY0xxV0dOeW0zUHlxTjVDRTcxP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "app_install_preview": {
+          "app_name": "Call of War",
+          "ios_app_id": "1331030677",
+          "android_app_url": "com.bytro.callofwar1942",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/KSjybc9dzxybTMqcKHCS8.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "83238b59-b5ea-46a5-9669-18e63255c3a6",
+        "name": "BL_RN_21986_0_32707_Iran_Bambassador_Video_UGC_EN_9.16.mp4",
+        "ad_account_name": "Dorado Games GmbH Self Service",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Dominate the Battlefield",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gb6P5tysVpogkRMkzkYFd.67?mo=Gp0CGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwjVvLoBIAEw4AM41AZAAUoOCgliLjxaOUtPDSgQ9ANQkuUBaAJ18VlnQH0AAIA_IgYKAkgEEgCiAT4IugoSMQovCJn_pgEgATDQBTiACkACSg4KCWcjKFpHQz4TJBD0A1CS5QFoAnWMC35AfQAAgD8iBgoCSAISAKIBPgiSChIxCi8IupWCASABMOADONQGQAJKDgoJUBwlQi4_OgsdEPQDUJLlAWgCdQABWEB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgi6z3wgATDgAzjUBkACSg4KCVAaGzsyMjENHhD0A1CS5QFoAnXHyG1AfQAAgD8iBgoCSAISAJADkuUB&uc=15",
+        "start_date": "2025-06-27T15:43:22.000Z",
+        "impressions_total": 108392,
+        "impressions_map": {
+          "de": 9553,
+          "be": 34206,
+          "fi": 3050,
+          "pt": 1388,
+          "bg": 491,
+          "dk": 2031,
+          "lt": 619,
+          "lu": 2421,
+          "hr": 947,
+          "lv": 0,
+          "fr": 2319,
+          "hu": 788,
+          "se": 11012,
+          "si": 1257,
+          "sk": 121,
+          "ie": 6690,
+          "ee": 0,
+          "el": 1341,
+          "mt": 0,
+          "it": 3195,
+          "es": 3189,
+          "at": 4001,
+          "cy": 0,
+          "cz": 636,
+          "pl": 818,
+          "ro": 1293,
+          "nl": 11069,
+          "tr": 5957
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -254,10 +777,10 @@
         "profile_name": "Supremacy: World War 3",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRzQ4d01QdFJzOGp6S0dub1c5RUkzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "app_install_preview": {
-          "app_name": "Supremacy: World War 3",
+          "app_name": "Conflict of Nations: WW3",
           "ios_app_id": "1510997559",
           "android_app_url": "com.doradogames.conflictnations.worldwar3",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/DTRIs6WCq2oyBL1G7f5OK.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/RWeqdxyF0zNUcHGrC3zQZ.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -345,526 +868,6 @@
           "ios_app_id": "1510997559",
           "android_app_url": "com.doradogames.conflictnations.worldwar3",
           "media_download_link": "https://cf-st.sc-cdn.net/d/hMPEegXiX08RN35pdzkao.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "41604758-ac09-42ab-acf2-1e846f5d0ebd",
-        "name": "BL_RN_16257_0_53836_CatPickAustria_Supra_Video_UGC_EN_9.16.mp4",
-        "ad_account_name": "Call of War Self Service",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Dive into WW2 and rewrite history",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/54HqiHsUZf1YDViajKYKQ.67?mo=GpICGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE6CEMSMgowCL2mvwEgATDgAzjUBkABSg8KCpYBRCEbHSMZEhoQ9ANQovcBaAJ1CF9oQH0AAIA_IgISAKIBOwi6ChIyCjAInZStASABMNAFOIAKQAJKDwoKlgEuIx8gIh4aHBD0A1Ci9wFoAnUGR39AfQAAgD8iAhIAogE6CJIKEjEKLwj1poIBIAEw4AM41AZAAkoOCglyJRgUFRYTDxUQ9ANQovcBaAJ1s89XQH0AAIA_IgISAKIBOgjSChIxCi8IvbaBASABMOADONQGQAJKDgoJeigZHBcXEBIREPQDUKL3AWgCdVUvcEB9AACAPyICEgCQA6L3AQ%3D%3D&uc=15",
-        "start_date": "2025-12-10T10:13:02.000Z",
-        "impressions_total": 29353,
-        "impressions_map": {
-          "de": 1391,
-          "be": 6514,
-          "fi": 1114,
-          "pt": 540,
-          "bg": 241,
-          "dk": 1124,
-          "lt": 295,
-          "lu": 1068,
-          "hr": 441,
-          "lv": 0,
-          "fr": 317,
-          "hu": 298,
-          "se": 2753,
-          "si": 947,
-          "sk": 39,
-          "ie": 2607,
-          "ee": 0,
-          "el": 441,
-          "mt": 0,
-          "it": 507,
-          "es": 555,
-          "at": 1054,
-          "cy": 0,
-          "cz": 269,
-          "pl": 430,
-          "ro": 557,
-          "nl": 4941,
-          "tr": 910
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Stillfront Supremacy GmbH",
-        "profile_name": "Call of War",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMHZBY0xxV0dOeW0zUHlxTjVDRTcxP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "app_install_preview": {
-          "app_name": "Call of War",
-          "ios_app_id": "1331030677",
-          "android_app_url": "com.bytro.callofwar1942",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/vwTSBdbtodrPugTYJfNyy.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "53c221e1-308d-426d-978d-04bbca62dcb0",
-        "name": "BL_RN_21986_0_32541_IsraelExpansion_AlternativeGeopoliticsMapped_Video_Animation_EN_9.16.mp4",
-        "ad_account_name": "Dorado Games GmbH Self Service",
-        "status": "PAUSED",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Dominate the Battlefield",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9IRHpt4rs4yqhQfgijBPC.67?mo=GpgCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwjym-EBIAEw4AM41AZAAUoPCgrDAU1MMT5ES1VcEPQDUNjbAWgCdQESU0AiBgoCSAQSAKIBOgi6ChItCisI0uXsASABMNAFOIAKQAJKDwoK8QEsMi49NzVFOxD0A1DY2wFoAnWIHGJAIgYKAkgCEgCiAT8IkgoSMgowCOWjpwEgATDgAzjUBkACSg8KCpIBMS0uKjAzNTcQ9ANQ2NsBaAJ14qBIQH0AAIA_IgYKAkgCEgCiAT8I0goSMgowCKf3jwEgATDgAzjUBkACSg8KCpsBIyYdJycqOCgQ9ANQ2NsBaAJ140xRQH0AAIA_IgYKAkgCEgCQA9jbAQ%3D%3D&uc=15",
-        "start_date": "2025-06-27T15:43:22.000Z",
-        "impressions_total": 55405,
-        "impressions_map": {
-          "de": 2813,
-          "be": 12847,
-          "fi": 1310,
-          "pt": 818,
-          "bg": 363,
-          "dk": 2660,
-          "lt": 201,
-          "lu": 1032,
-          "hr": 292,
-          "lv": 0,
-          "fr": 895,
-          "hu": 291,
-          "se": 6306,
-          "si": 861,
-          "sk": 25,
-          "ie": 4487,
-          "ee": 0,
-          "el": 745,
-          "mt": 0,
-          "it": 1816,
-          "es": 1416,
-          "at": 1783,
-          "cy": 0,
-          "cz": 313,
-          "pl": 479,
-          "ro": 690,
-          "nl": 11591,
-          "tr": 1371
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Stillfront Supremacy GmbH",
-        "profile_name": "Supremacy: World War 3",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRzQ4d01QdFJzOGp6S0dub1c5RUkzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "app_install_preview": {
-          "app_name": "Conflict of Nations: WW3",
-          "ios_app_id": "1510997559",
-          "android_app_url": "com.doradogames.conflictnations.worldwar3",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/jBUYGCvpeWQU2UZTGoDmS.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "31118ac7-1ba9-441e-ace5-2d48b9465c36",
-        "name": "BL_RN_21986_0_32605_IsraelEgyptExpansion_AlternativeGeopoliticsMapped_Video_Animation_EN_9.16.mp4_45094_RocketDefense_US_Default_BoomBit_Playable_EN_Snapchat",
-        "ad_account_name": "Dorado Games GmbH Self Service",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Dominate the Battlefield",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-06-27T15:43:20.000Z",
-        "impressions_total": 218647,
-        "impressions_map": {
-          "de": 3724,
-          "be": 12914,
-          "fi": 873,
-          "pt": 1434,
-          "bg": 558,
-          "dk": 1448,
-          "lt": 1184,
-          "lu": 899,
-          "hr": 718,
-          "lv": 0,
-          "fr": 163277,
-          "hu": 487,
-          "se": 4397,
-          "si": 1138,
-          "sk": 1380,
-          "ie": 4038,
-          "ee": 0,
-          "el": 1090,
-          "mt": 0,
-          "it": 1317,
-          "es": 1689,
-          "at": 3021,
-          "cy": 0,
-          "cz": 503,
-          "pl": 579,
-          "ro": 1134,
-          "nl": 3967,
-          "tr": 6878
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "app_install_preview": {
-          "app_name": "Conflict of Nations: WW3",
-          "ios_app_id": "1510997559",
-          "android_app_url": "com.doradogames.conflictnations.worldwar3",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/ZRdatCSyj8vpcFa2nmqDV.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {
-            "playable_media_download_link": "https://cf-st.sc-cdn.net/d/vcpkQpzyLXZmANgsIwLer/index.html?go=Ig4KCjICBH1IAVAPYAEYCg%3D%3D&uc=15",
-            "playable_call_to_action": "TRY_IT_OUT"
-          }
-        },
-        "review_status": "DISAPPROVED",
-        "rejection_reasons": [
-          "We prohibit advertisements that are inappropriate or offensive. The image or video in your Top Snap features content that could be perceived as shaming, demeaning, insulting, harassing, distressing or exploiting an individual or towards a group of people - including editorial content that defames an individual or exploits minors or tragedy for monetary gain, negative or demeaning language, offensive stereotypes, hate speech or symbols, distasteful memes or quizzes, denial of tragic events or other culturally insensitive content. Please see Snap's Community Guidelines for more information. "
-        ],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "769c2752-dfa9-4622-94a2-d6bae0f5206c",
-        "name": "BL_RN_16257_0_53859_OverloadGreenland_ArtStash_Video_Animation_EN_9.16.mp4",
-        "ad_account_name": "Call of War Self Service",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Dive into WW2 and rewrite history",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qYBP166tZtL247iHY6cgu.67?mo=GpwCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwiz2IABIAEw4AM41AZAAUoOCglWBQUVMDc5EAsQ9ANQuJECaAJ1XqBwQH0AAIA_IgYKAkgCEgCiAT4IugoSMQovCLbbayABMNAFOIAKQAJKDwoKjgEGBhUoHywTCxD0A1C4kQJoAnUCLINAfQAAgD8iBgoCSAMSAKIBPQiSChIwCi4IhtBaIAEw4AM41AZAAkoOCglCBQUQHyMlCggQ9ANQuJECaAJ1ynlnQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCOKNRyABMOADONQGQAJKDgoJWAMEDRoVIA4HEPQDULiRAmgCdVJHcUB9AACAPyIGCgJIAhIAkAO4kQI%3D&uc=15",
-        "start_date": "2025-12-10T10:13:02.000Z",
-        "impressions_total": 44441,
-        "impressions_map": {
-          "de": 2546,
-          "be": 10304,
-          "fi": 1396,
-          "pt": 797,
-          "bg": 500,
-          "dk": 2035,
-          "lt": 318,
-          "lu": 1530,
-          "hr": 613,
-          "lv": 0,
-          "fr": 570,
-          "hu": 362,
-          "se": 3118,
-          "si": 1264,
-          "sk": 73,
-          "ie": 4515,
-          "ee": 0,
-          "el": 595,
-          "mt": 0,
-          "it": 1474,
-          "es": 1541,
-          "at": 2010,
-          "cy": 0,
-          "cz": 460,
-          "pl": 856,
-          "ro": 849,
-          "nl": 5184,
-          "tr": 1531
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Stillfront Supremacy GmbH",
-        "profile_name": "Call of War",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMHZBY0xxV0dOeW0zUHlxTjVDRTcxP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "app_install_preview": {
-          "app_name": "Call of War",
-          "ios_app_id": "1331030677",
-          "android_app_url": "com.bytro.callofwar1942",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/KSjybc9dzxybTMqcKHCS8.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "6bb0da9a-f0e1-4e1d-acaa-61731c92f574",
-        "name": "BL_RN_21986_0_31325_WhyIraqRebranded_Supra_Video_UGC_EN_9.16",
-        "ad_account_name": "Dorado Games GmbH Self Service",
-        "status": "PAUSED",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Dominate The Battlefield",
-        "call_to_action": "DOWNLOAD",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-06-27T15:43:22.000Z",
-        "impressions_total": 81974,
-        "impressions_map": {
-          "de": 5217,
-          "be": 10262,
-          "fi": 4138,
-          "pt": 1199,
-          "bg": 773,
-          "dk": 4708,
-          "lt": 451,
-          "lu": 652,
-          "hr": 1294,
-          "lv": 0,
-          "fr": 980,
-          "hu": 358,
-          "se": 9246,
-          "si": 958,
-          "sk": 171,
-          "ie": 10456,
-          "ee": 0,
-          "el": 3033,
-          "mt": 0,
-          "it": 1554,
-          "es": 1546,
-          "at": 1082,
-          "cy": 0,
-          "cz": 407,
-          "pl": 2009,
-          "ro": 1220,
-          "nl": 17917,
-          "tr": 2343
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "app_install_preview": {
-          "app_name": "Supremacy: World War 3",
-          "ios_app_id": "1510997559",
-          "android_app_url": "com.doradogames.conflictnations.worldwar3",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/WyvOYq9snkioN48gz0YiA.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "DISAPPROVED",
-        "rejection_reasons": [
-          "We prohibit advertisements that are inappropriate or offensive. The image or video in your Top Snap features content that could be perceived as shaming, demeaning, insulting, harassing, distressing or exploiting an individual or towards a group of people - including editorial content that defames an individual or exploits minors or tragedy for monetary gain, negative or demeaning language, offensive stereotypes, hate speech or symbols, distasteful memes or quizzes, denial of tragic events or other culturally insensitive content. Please see Snap's Community Guidelines for more information. ",
-          "Your ad generated negative sentiment from the Snapchat community and has been revoked. Please visit https://businesshelp.snapchat.com for our full Advertising Policies, Community Guidelines and more information."
-        ],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4463d41a-be2f-4b47-8078-86279c185e1d",
-        "name": "BL_RN_16257_0_53853_ColorfulTimelapse_ArtStash_Video_Animation_EN_9.16.mp4",
-        "ad_account_name": "Call of War Self Service",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Dive into WW2 and rewrite history",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GqbfwbwoDmeojHvSic42J.67?mo=GpsCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwinhZICIAEw4AM41AZAAUoPCgqiAS4wJjAjOjFDEPQDUMC4AmgCdbyIb0AiBgoCSAMSAKIBPwi6ChIyCjAI-LrOASABMNAFOIAKQAJKDwoKqAEbIyQmHCosLxD0A1DAuAJoAnUSfYBAfQAAgD8iBgoCSAISAKIBPgiSChIxCi8ImsK9ASABMOADONQGQAJKDgoJfRgmHSUeLCIxEPQDUMC4AmgCdfccZkB9AACAPyIGCgJIAhIAogE-CNIKEjEKLwjUyYoBIAEw4AM41AZAAkoOCgl_ERcXGBMbHx4Q9ANQwLgCaAJ1Jq5oQH0AAIA_IgYKAkgCEgCQA8C4Ag%3D%3D&uc=15",
-        "start_date": "2025-12-10T10:13:02.000Z",
-        "impressions_total": 145191,
-        "impressions_map": {
-          "de": 8136,
-          "be": 42364,
-          "fi": 4220,
-          "pt": 3593,
-          "bg": 900,
-          "dk": 4636,
-          "lt": 801,
-          "lu": 4772,
-          "hr": 1293,
-          "lv": 0,
-          "fr": 2975,
-          "hu": 910,
-          "se": 9781,
-          "si": 2477,
-          "sk": 180,
-          "ie": 12499,
-          "ee": 0,
-          "el": 1565,
-          "mt": 0,
-          "it": 3562,
-          "es": 4058,
-          "at": 4826,
-          "cy": 0,
-          "cz": 912,
-          "pl": 1767,
-          "ro": 2346,
-          "nl": 22373,
-          "tr": 4245
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Stillfront Supremacy GmbH",
-        "profile_name": "Call of War",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMHZBY0xxV0dOeW0zUHlxTjVDRTcxP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "app_install_preview": {
-          "app_name": "Call of War",
-          "ios_app_id": "1331030677",
-          "android_app_url": "com.bytro.callofwar1942",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/KSjybc9dzxybTMqcKHCS8.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",

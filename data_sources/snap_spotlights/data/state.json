@@ -1,0 +1,547 @@
+{
+  "cells": {
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYnZvZ2JzYnhmAZiogQaMAZiogPtlAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:14:48.261Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZWdsbWZ0eGtxAZioeqxkAZioeqCvAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:14:49.600Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYaWJwY3Vmb2thAZg8aYVWAZg8aYEaAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:14:51.074Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYmpvcWRnd3hrAZme_S6JAZme_RqHAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:24.076Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY2p5bnZobnB6AZmmSkXPAZmmSirBAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:25.818Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYmp5YWZkbXVrAZmfSVpJAZmfSUO7AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:25.881Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZ21mcmpyd2ZwAZwizIVuAZwizHCbAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:27.410Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYnBxa3Zwa3ppAZwVtO8mAZwVtMlVAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:27.492Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY3l3cWNhYWV3AZxW7SQ1AZxW7MpEAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:27.550Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYmlvcnJsd3VpAZui3ZyxAZui3Pw1AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:28.968Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY2N5emZqbGhtAZvCGJEmAZvCGBdWAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:29.089Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYXhlcnptZmxsAZvmUgEJAZvmUQ0sAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:29.173Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYnJzc3Z5bWthAZmgghBbAZmgggzWAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:30.691Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY2p3dWVueXltAZnjcaPqAZnjcYrXAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:30.787Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYm96cnpqaHd4AZxIgawnAZxIgZXWAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:30.797Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYa29naHJhdHl2AYcS31PTAYcS31LYAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:32.257Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYcWZleXlta3ZwAX9LvYImAX9LvVPnAAAAAA": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:32.344Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZmN4ZHhpam95AYd_GSYNAYd_GSQAAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:32.503Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZmNyZmpyY2x1AZSSRhoTAZSSRhPyAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:33.831Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYmNseXRhaWRxAZRJq2ltAZRJq2RZAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:34.048Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYaWRjeGhnbmp2AYY7Bf4AAYY7Bfj6AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:34.617Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYaGZlaXdudWZ1AYskE5DkAYskE3hBAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:35.998Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZXN1eXZhbnVyAZFW-jUkAZFW-iSrAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:36.115Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYbWpqYXNkc2Z3AZLpXIMEAZLpXFNAAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:36.120Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZXBraWV1YmRiAZzpL3NDAZzoE9zPAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:37.515Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZmpubGZkdXZ4AZ0bO6ORAZ0bOnDtAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:37.576Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZWl4bnB6ZGVnAZsiwu11AZsiwohlAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:37.587Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY2hlbGFzcmZlAZdLYTFSAZdLSRcDAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:39.005Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYWNkZnZic2lyAZgmL8AbAZgkUcTaAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:39.100Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY3Ftamx5am9zAZz2oPrbAZz2oHxtAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:39.108Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYW5kZ3N6Z3JlAYEVgHY8AYEVgGvYAAAAAA": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:40.545Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY3ppYm95aXFtAYKh1UNSAYKh1UIoAAAAAA": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:40.739Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZGl1ZHdiY2thAYAJi_iZAYAJi9b8AAAAAA": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:40.764Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYW50aGt0eXNjAYU6qVk5AYU6qVEbAAAAAA": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:42.203Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYWxhbGh0emhkAYcJ1HEpAYcJ09vsAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:42.230Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY25tZXJ0cHJnAYHemt1xAYHemtyBAAAAAA": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:42.235Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZWRyd3hjeWJyAZfmWeTfAZfmWeTGAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:43.616Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYbmp1eGdoZ3FmAZfXLyw_AZfXLywCAAAAAw": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:43.694Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYa3ZlZGZ5bHVsAZfcQuVoAZfcQuVUAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:43.867Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYXNvcWFudGdvAZy4LmyAAZy4LhR9AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:45.212Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY3RtaG94dHpjAZy02aP9AZy02SwxAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:45.216Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYWVvbHFwdGViAZy4Jz1TAZy4Jq6KAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:45.354Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYcWtmZGxqbHBsAZ1tZMC9AZ1tZMB8AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:46.748Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYam5mYXNlY3JuAZ1pDG0AAZ1pDGzFAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:46.793Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY21tamZmdm1tAZ1uAPlXAZ1uAPkjAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:46.944Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYbXRtcGpzcW9uAYzPYbNnAYzPYGFJAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:48.357Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYc2VwamdtbXN0AY0hNx_qAY0hNpX-AAAAAw": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:48.409Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZndvZHpuZXR3AYzUjTJ_AYzUjQgvAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:48.435Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZXVsamZieXJlAZxeNUF5AZxeNUEIAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:49.922Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZG9rZ2h1YWh3AZM7ZiGfAZM7ZiDlAAAAAw": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:49.951Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYaHlteW9qc2ZnAX5vnj6dAX5vnhXqAAAAAA": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:50.083Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYW1waGNxY3BlAZiFxgqHAZiFxgo1AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:51.465Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZnBia3Vkc2NiAZxn6_25AZxn6_1hAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:51.694Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYWdzdndocnRhAZjhzbYhAZjhzbW9AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:51.723Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYnRzaWxkdHFxAZiFw5AIAZiFw4-NAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:53.098Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY3htZWFsamtmAZ1obSpbAZ1obPQHAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:53.159Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZ2Jsa2F0YWZtAZ1r3DIeAZ1r3DHkAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:53.370Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZ3hvYmRlanVvAZ1obs_HAZ1obrvhAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:54.860Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY3Fqb2NoeHVvAZ0uYb5uAZ0uX4vNAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:55.172Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZ2pjbWllc2Z5AZyy20o2AZyy20aYAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:55.931Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYa2FqdmltbHR3AZxX8uVPAZxX8tlIAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:57.317Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZGZ4cWZoZmR0AZy9T1bvAZy9TcTcAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:57.442Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZmJtdGF0aWR4AZxAddcUAZxAdao1AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:57.486Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYa2xqcWtwbHNoAZzOfAcIAZzOYuX8AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:58.903Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZ2p2cnhybmJ5AZvf53Q5AZvf53P_AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:58.945Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZGR4cnhuZHNsAZvlGN5xAZvlGN36AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:15:59.099Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYm9yaWF0Z3VzAZk-FsJ0AZk-FsA3AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:00.402Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZGZ0YWtlcHJpAZvqE9HZAZvqE9GXAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:00.598Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYnl0Z2xlcmtzAYngH8y5AYngH6kUAAAAAw": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:00.671Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYXl4eHp1cWRwAZruy9m8AZruy9eVAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:02.053Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY2hvbXN2eWZ6AZwyw0DOAZwywxBoAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:02.205Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZG5uZWFxa2d4AZnEIB_zAZnEH9_kAAAAAw": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:02.278Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYc2Zzd3hlZmxlAYtyc4sIAYtyc4qIAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:03.673Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZ2Z5d2dqemJsAZuOfgHzAZuOffx3AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:03.738Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYaXVhY3RzdGdrAY_IhQafAY_IhQV9AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:03.771Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYenRtZGNkYXNmAY7T_UxtAY7T_Uw4AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:05.269Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYaHZzdXZxZm1rAZmPyVeeAZmPyPvRAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:05.292Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYc3prb2N0YmRoAZmAQNajAZmAQNO3AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:05.310Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYaGpmdnliemJ4AZ05qkkBAZ05qg7hAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:06.659Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYb2hpbHJyb2RvAZ0mc-bMAZ0mc-HeAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:06.897Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYdmRvbHJ6bWx3AZmLUSr2AZmLUOrfAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:06.952Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYaXh3cGt0ZmVtAZ1QaIWAAZ1QaGnSAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:08.457Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYeHFtZ2tobWhxAZ1JbpurAZ1JbpuMAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:08.465Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZHNmeGloemRiAZ1KrAkiAZ1KqojlAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:08.515Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYeWlja3NleWFzAZzSplX9AZzSpjYHAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:09.832Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYbGdzdWFpbnNzAZ1UQBEfAZ1UPxEcAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:09.972Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZGFrd2N0ZHNkAZzZsKBgAZzZrl5SAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:09.979Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZGxucnJueGJvAZ1sTX1PAZ1sTWhVAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:11.423Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYbm1zYW55Y3VtAZ0gzlE_AZ0gzkqyAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:11.528Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYa2h6cnFzb3BhAZ0qMExYAZ0qLUjvAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:11.717Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYamdueXp1dHRkAZ0HwHQzAZ0HwF8dAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:13.190Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY3hmcWxzZHRxAZ0XfwOmAZ0XfvibAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:13.234Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYcWxhZXhleHJ2AZ0MvJq7AZ0MvEhcAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:13.370Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZ2tlb2N4cHVmAZ1PB1Z3AZ1PBqXLAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:14.962Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYdnhrd2lqbnB3AZ1uq2NcAZ1uqJU7AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:15.054Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYaHljcXJkenRsAZ0Hd_vkAZ0Hd-q8AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:15.118Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYd3R1dmRiYWtpAZzSGf8MAZzSGewIAAAAAQ": {
+      "status": "not_found",
+      "has_data": false,
+      "fetched_at": "2026-04-09T13:16:16.482Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYanhiam9xaGtuAZzj2XDjAZzj2WW8AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:16.762Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYc2xubWt6Z2l4AZ1AK5u7AZ1AK5tzAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:16.952Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZG5uY21jbXN1AZzhKgMXAZzhICAkAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:18.408Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZmtub2tqaWNkAZ1Z_ITnAZ1Z-al3AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:18.512Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZHlxYW5lZ3diAZ0W-dPOAZ0W-aVoAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:18.595Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYeWh3cndpbmdzAZzZehHVAZzZeggiAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:20.063Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYendyaWJreGllAZ0HhTfbAZ0HhP0XAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:20.116Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYcmJvdWhna2NqAZzeudn-AZzeuBo_AAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:20.183Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYeW1wd2pzdXVzAZ1pR7yiAZ1pR4IRAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:21.614Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYY2FnenlvYWJqAZ0LXHQgAZ0LXGoPAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:21.740Z"
+    },
+    "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYanZtbWNqZWhlAZ1Nx-RRAZ1Nx9fYAAAAAQ": {
+      "status": "fetched",
+      "has_data": true,
+      "fetched_at": "2026-04-09T13:16:21.978Z"
+    }
+  },
+  "total_requests": 108,
+  "total_fetched": 107,
+  "last_updated": "2026-04-09T13:16:21.978Z"
+}

@@ -1,29 +1,28 @@
 {
   "brand": "COS",
   "country": "fr",
-  "fetched_at": "2026-04-09T00:17:47.119Z",
+  "fetched_at": "2026-04-09T11:34:16.859Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "cac7beea-c33e-493c-9c79-36c343765263",
-        "name": "enjoyday",
-        "ad_account_name": "ET PERPIGNAN",
+        "id": "f61116b8-611e-4bd6-93f6-99f93c53fc46",
+        "name": "12/11/2025-OTACOS-LTO_TARTIFLEMME-REACH-FR-SNAP-NOVEMBRE-IMAGE4",
+        "ad_account_name": "O'Tacos France",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Mercredi 17 décembre !",
+        "languages": [],
+        "headline": "O’Tacos x Tartiflemme",
         "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/i66dUA7dPkg1mclwVnXte.67?mo=GowCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiVvR0gATDgAzjUBkABSg4KCXoxGxcWEhgWFxD0A1DAPmgCdRwTc0AiBgoCSAQSAKIBOAi6ChIrCikIw9AfIAEw0AU4gApAAkoPCgqFAS8cGhcXFRgZEPQDUMA-aAJ1rtZ7QCIGCgJIAxIAogE8CJIKEi8KLQiW_hYgATDgAzjUBkACSg4KCWIgFRASDhMSDxD0A1DAPmgCdQzHZ0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiqgBYgATDgAzjUBkACSg4KCVYjFBMREA8TEhD0A1DAPmgCde5acUB9AACAPyIGCgJIAhIAkAPAPg%3D%3D&uc=15",
-        "start_date": "2025-12-15T14:00:30.000Z",
-        "impressions_total": 218261,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/v7vIwaTRehygAAgXmqi1D.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-11-11T23:00:26.000Z",
+        "impressions_total": 167668,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -35,7 +34,157 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 218261,
+          "fr": 167668,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "max_age": "25",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "O'TACOS CORPORATION",
+        "profile_name": "Otacos Officiel ® 🤤",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVkdCZW55ZmZPNkQ3dWpOeTN3RGtyP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://linktr.ee/otacosinternational"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c5dc9d7a-bea8-4cc0-ad6e-2420644f1457",
+        "name": "Parfum Dubaï chez Jadyce Cosmetics - Publicité",
+        "ad_account_name": "Jadyce Cosmetics  ",
+        "status": "PAUSED",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Parfum Dubaï chez Jadyce Cosmetics",
+        "call_to_action": "VIEW PROFILE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/n5JcK4GAzfPQS9hTB34aP.67?mo=GukBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIvdJHIAFKDgoJVCAiIxU2Kh4jEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIsPVBIAFKDgoJXR4ZHw9CHRogEPQDaAIiBgoCSAISAKIBJgh_EhoKGAiGgTAgAUoOCgk9FBcXIAweFRkQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjFzDAgAUoOCgk9FRgZIA0eFRoQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjE2iogAUoOCglCFBAVCi0TEhUQ9ANoAiIGCgJIAhIAkAP0gAE%3D&uc=15",
+        "start_date": "2025-05-18T16:00:28.000Z",
+        "impressions_total": 4121,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 4121,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Jadyce Cosmetics ",
+        "brand_name": "Jadyce Cosmetics",
+        "profile_name": "Jadyce Cosmetics",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZFhINzBlWlEyMXBRNGtPMVNqeDFpP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/jadycecosmetics",
+          "icon_media_url": "https://cf-st.sc-cdn.net/d/KkAwYYj0fvNA15Qm5G8sm.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "f287b25a-ed11-4d0c-91d9-48d1439f1511",
+        "name": "vidéo",
+        "ad_account_name": "ET SAINTES",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "vidéo",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WrWwCqaN6WvR2TiMDBDe5.67?mo=Go4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigI78s8IAEw4AM41AZAAUoOCglUMSYiGUA7IhkQ9ANQpl5oAnVhmkVAIgYKAkgCEgCiATwIugoSLwotCOq5MCABMNAFOIAKQAJKDgoJUx4aGxNDLiEUEPQDUKZeaAJ19p9OQH0AAIA_IgYKAkgDEgCiATwIkgoSLwotCITjJCABMOADONQGQAJKDgoJNh4VEw4sJxcREPQDUKZeaAJ1pqo9QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCMbDISABMOADONQGQAJKDgoJMiMSEQ4tHRYPEPQDUKZeaAJ1UjdDQH0AAIA_IgYKAkgCEgCQA6Ze&uc=15",
+        "start_date": "2025-11-03T14:46:50.000Z",
+        "impressions_total": 90286,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 90286,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -68,7 +217,6 @@
           "devices": []
         },
         "paying_advertiser_name": "Enjoy Tacos",
-        "brand_name": "ENJOY TACOS Perpignan",
         "profile_name": "Enjoy Tacos Officiel ©",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOHF0Vm1GdmdLYjdvVXhqaE1DQngzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
@@ -82,171 +230,9 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "7e4c6b34-4e07-402a-9f67-b126c6a864ad",
-        "name": "UGC SANDRINE 4",
-        "ad_account_name": "DISLE COSMETIQUES Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "25€ de réduction aujourd'hui !",
-        "call_to_action": "ORDER_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-09-03T10:23:03.000Z",
-        "impressions_total": 1162,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1162,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "DISLE COSMETIQUES",
-        "profile_name": "DISLE COSMETIQUES",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcGRRVkFYS3A1MklpNVdLWVVleDN5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "25€ de réduction aujourd'hui !",
-              "call_to_action": "ORDER_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NKMJRmAOEBhs7tHR4Hxof.67?mo=GuUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATQIQxIoCiYI6sTDAyABMOADONQGQAFKDwoKqAFOQS0-N0Q-QRD0A1CktgNoAiIGCgJIBBIAogE1CLoKEigKJgji3f0DIAEw0AU4gApAAkoPCgqyAUlCQkVHO0pJEPQDUKS2A2gCIgYKAkgCEgCiATMIfxInCiUI8eyZAiABMOADONQGQAJKDgoJfi8tHygkKSYrEPQDUKS2A2gCIgYKAkgCEgCiATUIkgoSKAomCJWPnAIgATDgAzjUBkACSg8KCoIBKzAdKCIrJigQ9ANQpLYDaAIiBgoCSAISAKIBNAjEChInCiUI4qeiAiABMOADONYGQAJKDgoJfSkiHyYlIiooEPQDUKS2A2gCIgYKAkgCEgCiATUI0goSKAomCOaMsQIgATDgAzjUBkACSg8KCoEBKSQiJykkLSoQ9ANQpLYDaAIiBgoCSAISAJADpLYD&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://dislecosmetiques.fr/products/serum-cible-anti-age-roll-on"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "aa99e84e-218d-4666-96e2-e85bc8d510cf",
-        "name": "27/02/26 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qiSMfPlDyFLC8SYJVXEy9.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-        "start_date": "2026-02-28T23:00:00.000Z",
-        "impressions_total": 1485,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1485,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "OA Cosmetiques",
-        "profile_name": "OA Cosmetiques",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRndGREZDdjMzTVVDNld4a3BJamRGP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/oacosmetiques",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRndGREZDdjMzTVVDNld4a3BJamRGP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c68a7cd2-9ce7-42f7-9ba7-3622f5d6b615",
-        "name": "14/01/26 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
+        "id": "e247cf67-d480-4543-97a7-34fa2281f847",
+        "name": "02/12/2025-OTACOS-LTO_OCROUSTY-REACH-FR-SNAP-NOVEMBRE-CALL_14s",
+        "ad_account_name": "O'Tacos France",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
@@ -254,15 +240,168 @@
         "languages": [
           "fr"
         ],
+        "headline": "O’Tacos x O'CROUSTY",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nf2AyZV1P2qbngvFimxKT.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjLvTcgATDgAzjUBkABSg4KCTUTGBwjHxsgHhD0A1CYdWgCdYpgRUB9AACAPyIGCgJIAxIAogE8CLoKEi8KLQj0wSsgATDQBTiACkACSg4KCTMNExcaFhYYFxD0A1CYdWgCdcgiY0B9AACAPyIGCgJIAxIAogE8CJIKEi8KLQj29x8gATDgAzjUBkACSg4KCSgLEBAUEhATERD0A1CYdWgCdWFxNEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQj6hx4gATDgAzjUBkACSg4KCSoIDQ8SDw8QDxD0A1CYdWgCdbqUUUB9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-12-22T23:00:30.000Z",
+        "impressions_total": 13351474,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 13351474,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "O'TACOS CORPORATION",
+        "profile_name": "Otacos Officiel ® 🤤",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVkdCZW55ZmZPNkQ3dWpOeTN3RGtyP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://linktr.ee/otacosinternational"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "153ab97b-610d-4d8f-91bb-5df6c6b0c455",
+        "name": "Non mais a quelle heure ",
+        "ad_account_name": "Leaf Cosmetics Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "SÉRUMS & EYE PATCHS OFFERTS 🎁",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/flRG1wJpgGLh3lAmr96U7.67?mo=GuMCGggyAgR9UA9gAVoIQWRzTWVkaWGiATQIQxIoCiYIyLqlAiABMOADONQGQAFKDwoKiQErJyofHBwoJBD0A1Ci5ARoAiIGCgJIBBIAogE1CLoKEigKJgjau78CIAEw0AU4gApAAkoPCgqGASwgLSMkGC8kEPQDUKLkBGgCIgYKAkgDEgCiATMIfxInCiUI0uW0ASABMOADONQGQAJKDgoJeRoYHBMQERgYEPQDUKLkBGgCIgYKAkgCEgCiATQIkgoSJwolCJmovAEgATDgAzjUBkACSg4KCXobGR4TEREZGRD0A1Ci5ARoAiIGCgJIAhIAogE0CMQKEicKJQiy8soBIAEw4AM41gZAAkoOCgluHhYfFxcQHRgQ9ANQouQEaAIiBgoCSAISAKIBNAjSChInCiUInJXZASABMOADONQGQAJKDgoJcB4XHxcYDx4aEPQDUKLkBGgCIgYKAkgCEgCQA6LkBA%3D%3D&uc=15",
+        "start_date": "2025-06-18T08:49:55.000Z",
+        "impressions_total": 77319,
+        "impressions_map": {
+          "de": 0,
+          "be": 23074,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 4672,
+          "hr": 0,
+          "lv": 0,
+          "fr": 49573,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Leaf Cosmetics",
+        "profile_name": "Leaf Cosmetics",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaUswYTQyRDU3c3l4MXV3VVBRUWNxP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://leaf-cosmetics.com/products/masques-au-bio-collagene"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "9ac6bbb3-616e-4f0b-9cdb-23198a7feee9",
+        "name": "Copy of Princess Anti Theft Bag",
+        "ad_account_name": "happyskincosmetics Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Princess Anti Theft Bag",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dNcW6HxVs1mIwS6YhGbNS.67?mo=Gq4CGgoyAQQ6AX1QD2ABUIsCWghBZHNNZWRpYaIBPghDEioKKAi2mi8gATDgAzjUBkABSg4KCTkXHhshHxkdFhD0A1CQTmgCdQ9wXEAiDgoKQgYI7YmbywZIBBIAogE_CLoKEioKKAjt-CUgATDABDiACEACSg4KCTQTERYVFxAVDhD0A1CQTmgCdc7AbEAiDgoKQgYI_4mbywZIAxIAogFECJIKEi8KLQij9yEgATDgAzjUBkACSg4KCSsQExMWFxIVEBD0A1CQTmgCdY6OV0B9AACAPyIOCgpCBgj_iZvLBkgCEgCiAUQI0goSLwotCJPWHiABMOADONQGQAJKDgoJLBEOEhMUDxIMEPQDUJBOaAJ1nKFnQH0AAIA_Ig4KCkIGCP-Jm8sGSAISAJADkE4%3D&uc=15",
-        "start_date": "2026-01-14T23:00:00.000Z",
-        "impressions_total": 8448,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/lFfWqScOt28rS66NdH99e.67?mo=Gu8BGggyAgR9UA9gAVoIQWRzTWVkaWGiASgIQxIcChoIztaqAiABSg8KCoQBKGcVNTMxMyIQ9ANoAiIGCgJIBBIAogEoCLoKEhsKGQjxuZ0CIAFKDgoJbyZ2HiU2MC8aEPQDaAIiBgoCSAISAKIBJwh_EhsKGQjk7tQBIAFKDgoJcxlSER8hIR4TEPQDaAIiBgoCSAISAKIBKAiSChIbChkIr8vaASABSg4KCXQbUBUgISMeFhD0A2gCIgYKAkgCEgCiASgIxAoSGwoZCIGIxgEgAUoOCglkGVcVGSUgIRAQ9ANoAiIGCgJIAhIAkAOwtwM%3D&uc=15",
+        "start_date": "2025-05-16T13:30:59.000Z",
+        "impressions_total": 102,
         "impressions_map": {
           "de": 0,
-          "be": 8433,
+          "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -271,7 +410,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 15,
+          "fr": 102,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -294,82 +433,7 @@
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "AYLINE COSMETICS",
-        "profile_name": "AYLINE COSMETICS",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNW5XQ3prN2ZHeGdUZUtnOFNqOE1DP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://aylinecosmetics.fr/"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4e0e4bf3-4877-47a7-a2d5-0dfacfa42deb",
-        "name": "PUB1",
-        "ad_account_name": "salycosmetics Self Service",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "-40% de réduction AUJOURD'HUI!🔥",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vsemHJrUL5mJYSdcfaRFi.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-10-22T16:58:07.000Z",
-        "impressions_total": 1159,
-        "impressions_map": {
-          "de": 0,
-          "be": 282,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 877,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
+              "min_age": "20",
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [],
@@ -379,174 +443,11 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "salycosmetics",
-        "profile_name": "Mayrin",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSjg5dmlFMVU2UDBIUW5Sbm9TZkRoP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.mayrin.co/products/gant-exfoliant-en-soie-mayrin?utm_source=snap1"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "129d942f-5494-4045-acc2-cf6aee37b19a",
-        "name": "22/06/25 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/25uwXZdFOAHKvQ2ifCuyc.67?mo=GosDGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogE6CEMSKAomCKHepQMgATDgAzjUBkABSg8KCpEBHhoWNzAkKygQ9ANQ8J8FaAIiDAoIQgYI4-_hwgYSAKIBOwi6ChIoCiYIp_vvAiABMNAFOIAKQAJKDwoKgwEbFhE0KxsoIhD0A1DwnwVoAiIMCghCBgii9OHCBhIAogE5CH8SJwolCOSCjgIgATDgAzjUBkACSg4KCXwUDhgWIRcdGhD0A1DwnwVoAiIMCghCBgii9OHCBhIAogE6CJIKEicKJQiKu5sCIAEw4AM41AZAAkoOCgl_FA8WGiEXHhoQ9ANQ8J8FaAIiDAoIQgYIovThwgYSAKIBOgjEChInCiUIs5DwASABMOADONYGQAJKDgoJbxEPCyQdEhkWEPQDUPCfBWgCIgwKCEIGCKL04cIGEgCiAToI0goSJwolCP3sgwIgATDgAzjUBkACSg4KCXMTDwwnHxMbFxD0A1DwnwVoAiIMCghCBgii9OHCBhIAkAPwnwU%3D&uc=15",
-        "start_date": "2025-06-22T22:59:43.000Z",
-        "impressions_total": 3212,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 3212,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Glob's Tacos Gêneve",
-        "profile_name": "Glob's Tacos Gêneve",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSkN1M05abnVFWHpldTFHaWNBOHZHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/antalyakebab13",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSkN1M05abnVFWHpldTFHaWNBOHZHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c9917862-8d4d-4e8a-bf03-9a17bc7ca733",
-        "name": "vidio5.3",
-        "ad_account_name": "BelaFaceCosméticos Self Service",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Local Store Deals Online",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/P9OZNxmKr92gMZH68X5LP.67?mo=GocCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEzCEMSKwopCNKQXyABMOADONQGQAFKDgoJOxUbFyUmExkUEPQDULSrAWgCdV0rJ0AiAhIAogE5CLoKEjAKLgjqilAgATDQBTiACkACSg4KCToVGBUgGRESERD0A1C0qwFoAnXkbChAfQAAgD8iAhIAogE5CJIKEjAKLgic1j8gATDgAzjUBkACSg4KCS8OExMaGg8PDhD0A1C0qwFoAnXEdCFAfQAAgD8iAhIAogE5CNIKEjAKLgjY4DogATDgAzjUBkACSg4KCTAPERAYFA4ODRD0A1C0qwFoAnU4qCVAfQAAgD8iAhIAkAO0qwE%3D&uc=15",
-        "start_date": "2026-03-12T12:25:19.000Z",
-        "impressions_total": 5368,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 5368,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "49",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "BelaFaceCosm&eacute;ticos",
-        "brand_name": "BelaFaceCosméticos",
-        "profile_name": "BelaFaceCosméticos",
+        "paying_advertiser_name": "happyskincosmetics",
+        "profile_name": "happyskincosmetics",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
-        "app_install_preview": {
-          "app_name": "Shootory",
-          "ios_app_id": "6759283606",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/S1WMpKmS1ZzdACz86UrYX.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {}
+        "web_view_properties": {
+          "url": "https://happyskincosmetics.shop/products/flyhugz-princess-anti-theft-bag"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -556,9 +457,9 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "37694817-58f3-452e-bdcc-5bef4a6a179d",
-        "name": "CREA 2",
-        "ad_account_name": "GLAM BY MAHJA COSMETICS",
+        "id": "04c368a0-07cc-46cd-bf2c-b2ef4b7d87d6",
+        "name": "23/08/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
@@ -566,16 +467,165 @@
         "languages": [
           "fr"
         ],
-        "headline": "-50% PENDANT 24H",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/S3gHiRgdDyVTuqVpAXV0J.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2025-08-23T22:00:00.000Z",
+        "impressions_total": 10575,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 10575,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Jalia Cosmetics",
+        "profile_name": "Jalia Cosmetics",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvcmwxbk8wVVBlcHVsRGdqbDNzWjFrP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "web_view_properties": {
+          "url": "https://jaliacosmetics.com/products/serum-cheveux-jojoba"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "caaa0c08-97c3-409b-98ff-c2bfe1837489",
+        "name": "photo",
+        "ad_account_name": "ET Libourne",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Nouveautés ! Nos Riz Crousty !",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LaM72W6XOl1RcSW4gZHTX.67?mo=GpACGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigI4tIIIAEw4AM41AZAAUoOCgltAwQDAwQDBAMQ9ANQiCdoAnWX_IJAIgYKAkgEEgCiAT0IugoSMAouCOylEiABMNAFOIAKQAJKDwoK-AEFBQUGBQUFBRD0A1CIJ2gCdVA2ikB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQio_gYgATDgAzjUBkACSg4KCUwEBAQEBAQFBBD0A1CIJ2gCdUaOeEB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgjPoAwgATDgAzjUBkACSg8KCqkBAwMDBAIEAwMQ9ANQiCdoAnU5c4NAfQAAgD8iBgoCSAISAJADiCc%3D&uc=15",
+        "start_date": "2025-11-03T15:02:48.000Z",
+        "impressions_total": 118946,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 118946,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "max_age": "40",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Enjoy Tacos",
+        "brand_name": "Enjoy Tacos Libourne",
+        "profile_name": "Enjoy Tacos Officiel ©",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOHF0Vm1GdmdLYjdvVXhqaE1DQngzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://enjoytacos.belorder.com/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1a4c0ef4-eb69-4173-98a4-531d11567190",
+        "name": "20312_AIRDROP-AP_FR_ANTIP-ROLL_EBW-BEE-C_TESTIMO_EDIT_EFFE_LIFE_ALWAYS-ON_NA_UGCPOD_LEWIS_VID_UGC_VO_TXT-SUBT",
+        "ad_account_name": "Wild Cosmetics Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "72H de protection ! 💪",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dF0bnDAL58sjJElJrupw2.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjbyEIgATDgAzjUBkABSg4KCTkZKCcRGR0aJxD0A1DGeGgCdU4sUkAiBgoCSAMSAKIBNwi6ChIqCigIpJk1IAEw0AU4gApAAkoOCgk7GBohEBcVFSAQ9ANQxnhoAnVaCVFAIgYKAkgCEgCiATwIkgoSLwotCN7NLCABMOADONQGQAJKDgoJLBIcGgsSFBEeEPQDUMZ4aAJ1pr88QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCOG0JSABMOADONQGQAJKDgoJLxEUFQwQDw8WEPQDUMZ4aAJ1oORJQH0AAIA_IgYKAkgCEgCQA8Z4&uc=15",
-        "start_date": "2026-03-07T21:58:43.000Z",
-        "impressions_total": 3419,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8NxCWEqXI3ImYzRO6xI3b.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiNxFcgATDgAzjUBkABSg4KCTcODyEmGxcvGBD0A1CalAFoAnUAcV1AIgYKAkgDEgCiATgIugoSKwopCKjVVSABMNAFOIAKQAJKDgoJNhINLycZEC8bEPQDUJqUAWgCdfg3cEAiBgoCSAMSAKIBPQiSChIwCi4IyfE5IAEw4AM41AZAAkoOCgk4DQ4fHg4NGxcQ9ANQmpQBaAJ1mllSQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCPqqMyABMOADONQGQAJKDgoJLA0JGhkRCyETEPQDUJqUAWgCdT5ZYEB9AACAPyIGCgJIAhIAkAOalAE%3D&uc=15",
+        "start_date": "2025-08-04T16:55:30.000Z",
+        "impressions_total": 3128,
         "impressions_map": {
           "de": 0,
-          "be": 1387,
+          "be": 194,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -584,7 +634,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 2032,
+          "fr": 2934,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -609,18 +659,21 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
-        "paying_advertiser_name": "GLAM BY MAHJA COSMETICS",
-        "profile_name": "GLAM BY MAHJA COSMETICS",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvT1ZVNVl1UTVuSE9nb1A0ckhNQ3RpP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "paying_advertiser_name": "Wild Cosmetics",
+        "brand_name": "Wild",
+        "profile_name": "Wild",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUjBxUTFPZkp6NmdpS0VKdzlKT2hVP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://glam-by-mahja.com/"
+          "url": "https://wearewild.com/fr/products/roll-on-antiperspirant?&utm_source=snapchat&utm_medium=paid_social&utm_campaign={{campaign.name}}&utm_content={{creative.name}}&utm_term={{adSet.name}}&klar_source=snapchat&klar_adid={{ad.id}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -630,97 +683,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "8cbf423c-aba9-4a14-bbb9-b6e67a6d4608",
-        "name": "VideoAd_9x16_N/A_WaysToStickTogether_LearnMore",
-        "ad_account_name": "Essence ",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "TOUS EN STICK 🥰",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Fzc3jZvX0KUoOLX3msHy4.67?mo=GusBGggyAgR9UA9gAVoIQWRzTWVkaWGiASgIQxIcChoIn5lhIAFKEAoLjAFTkAFwKllJeD8Q9ANoAiIGCgJIAxIAogEoCLoKEhsKGQjs2lYgAUoPCgp5Q4QBZR85VnFOEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjy8D0gAUoOCglZOGRKGzk0UCcQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAj2pD8gAUoOCglbPGdJFzc5TyoQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjhizUgAUoOCglRKVY-EyM2QycQ9ANoAiIGCgJIAhIAkAPoSA%3D%3D&uc=15",
-        "start_date": "2025-04-14T14:20:25.000Z",
-        "impressions_total": 497436,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 497436,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "cosnova GmbH",
-        "profile_name": "essence cosmetics official",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSHVmZUxnSWN1eFl4cVdmbGsyTEJNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.essence.eu/fr-fr/lp/lets-stick-together?utm_medium=paid_social&utm_source=snapchat&utm_campaign=P22936_FR_ESS_SticksFoundation_PSOC_Prospecting_Reach_CPM_Snap&utm_content=FR_SC_Int_N/A_18+_Female_N/A_SnapAd&utm_term=VideoAd_9x16_N/A_WaysToStickTogether_LearnMore"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "b0c84dca-df6c-4c9e-a23e-73b36584297e",
-        "name": "MULTI CARTES - WITH A SMILE",
+        "id": "b282a0ac-bb90-4e85-856e-c59c1b0c0907",
+        "name": "V2 FC26",
         "ad_account_name": "COSEKA Self Service",
-        "status": "ACTIVE",
+        "status": "PAUSED",
         "creative_type": "APP_INSTALL",
         "ad_type": "APP_INSTALL",
         "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "GAGNE DES CARTES CADEAUX EN JOUANT",
-        "call_to_action": "PLAY GAME",
+        "languages": [],
+        "headline": "GAGNE DES CARTES PSN EN JOUANT !",
+        "call_to_action": "DOWNLOAD",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/2lcZNrmj523YJl9Qy5PHV.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI17M7IAEw4AM41AZAAUoOCglUCwQEBAQrBQQQ9ANQorsBaAIiBgoCSAUSAKIBMwi6ChImCiQI9N80IAEw0AU4gApAAkoOCglKCgUGBgYRDAYQ9ANQorsBaAIiBgoCSAMSAKIBMgh_EiYKJAjz3DIgATDgAzjUBkACSg4KCUcJBQUFBBEFBRD0A1CiuwFoAiIGCgJIAhIAogEzCJIKEiYKJAiIzDIgATDgAzjUBkACSg4KCUcKBQYFBRIFBhD0A1CiuwFoAiIGCgJIAhIAogEzCMQKEiYKJAjU6iggATDgAzjWBkACSg4KCTkJBAMEAy8EBBD0A1CiuwFoAiIGCgJIAhIAogEzCNIKEiYKJAizjSwgATDgAzjUBkACSg4KCT4HBAMDBDIEBBD0A1CiuwFoAiIGCgJIAhIAkAOiuwE%3D&uc=15",
-        "start_date": "2024-11-24T18:00:00.000Z",
-        "impressions_total": 34,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/jRlaPSuywwGJar0II45lH.67?mo=GtwCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIl4AxIAEw4AM41AZAAUoOCglVBAUEBAQkBAUQ9ANQxJoBaAIiBgoCSAMSAKIBNAi6ChInCiUIx5Y3IAEw0AU4gApAAkoPCgqVAQUFBgUGOwwGEPQDUMSaAWgCIgYKAkgDEgCiATIIfxImCiQIgq8pIAEw4AM41AZAAkoOCglHBQYFBQUrBQUQ9ANQxJoBaAIiBgoCSAISAKIBMwiSChImCiQI5bsqIAEw4AM41AZAAkoOCglHBgYFBgYrBgUQ9ANQxJoBaAIiBgoCSAISAKIBMwjEChImCiQIlb8mIAEw4AM41gZAAkoOCglsBAMDBAMsCAQQ9ANQxJoBaAIiBgoCSAISAKIBMwjSChImCiQIoOUoIAEw4AM41AZAAkoOCglvBAMDBAQvCAQQ9ANQxJoBaAIiBgoCSAISAJADxJoB&uc=15",
+        "start_date": "2025-06-17T15:38:00.000Z",
+        "impressions_total": 181969,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -732,7 +709,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 34,
+          "fr": 181969,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -755,7 +732,7 @@
           "regulated_content": false,
           "demographics": [
             {
-              "max_age": "17",
+              "max_age": "16",
               "age_groups": [],
               "languages": [
                 "fr"

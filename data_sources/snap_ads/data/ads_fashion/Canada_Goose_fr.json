@@ -1,27 +1,31 @@
 {
   "brand": "Canada Goose",
   "country": "fr",
-  "fetched_at": "2026-04-08T23:07:15.832Z",
+  "fetched_at": "2026-04-09T11:41:18.581Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "2af34f15-730f-4f32-a64c-fae79dcf6b05",
-        "name": "FW25|Snow-Goose_Female_Static_0s_Launch_On-Figure_FW25|Snow-Goose|Asset-23_V01|Snap-Ad",
+        "id": "81bce9d8-89d4-4fec-b484-f9664045a51d",
+        "name": "FW25|Snow-Goose_Male_Video_15s_Launch_On-Figure_FW25|Snow-Goose|Asset-08_V01|Snap-Ad",
         "ad_account_name": "CG EMEA (EUR)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "FW25 Snow Goose",
+        "languages": [
+          "en",
+          "fr"
+        ],
+        "headline": "Snow Goose FW25",
         "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WYQI7XsfRU5A9r1w40eIJ.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OV1q70SYTa1Qn2O43j0bS.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQickkEgATDgAzjUBkABSg4KCVMrISYgHiIZJhD0A1CYdWgCdWLXNUB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQib3iggATDQBTiACkACSg4KCTYWFBMWEhMPFxD0A1CYdWgCdZaQNkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQiniB0gATDgAzjUBkACSg4KCSkTDg8NDg8JExD0A1CYdWgCdZWyKEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiBiBsgATDgAzjUBkACSg4KCScPDQwODA0JEBD0A1CYdWgCdaCAMkB9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
         "start_date": "2025-11-03T15:00:55.000Z",
-        "impressions_total": 1343127,
+        "impressions_total": 3965464,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -33,7 +37,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 1343127,
+          "fr": 3965464,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -80,23 +84,19 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "53f85bd1-d059-4001-a7a7-a64ee7a02aba",
-        "name": "FW25|Holiday-Gift-Guide_Female_Static_0s_Launch_On-Figure_FW25|Holiday-Gift-Guide|Asset-09_V01|Snap-Ad",
+        "id": "1d952212-60ce-43d0-a2ce-f38bf0363c60",
+        "name": "FW25|Snow-Goose_Female_Static_0s_Launch_On-Figure_FW25|Snow-Goose|Asset-17_V01|Story-Ad",
         "ad_account_name": "CG EMEA (EUR)",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
         "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Cad",
+        "languages": [],
+        "headline": "FW25 Snow Goose",
         "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rxGrSoI2cMqdrsFSxne7C.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
         "start_date": "2025-11-03T15:00:55.000Z",
-        "impressions_total": 37763,
+        "impressions_total": 197949,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -108,7 +108,263 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 37763,
+          "fr": 197949,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Canada Goose",
+        "profile_name": "Canada Goose",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "FW25 Snow Goose",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "FW25 Snow Goose",
+              "call_to_action": "VIEW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ow8O811CKR8qKsMURspbm.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.canadagoose.com/fr/fr/stories/campaign/snow-goose-fw25.html?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "35af9fc5-f294-4760-8545-acd728a28bf3",
+        "name": "FW25|Snow-Goose_Female_Static_0s_Launch_On-Figure_FW25|Snow-Goose|Asset-23_V01|Story-Ad",
+        "ad_account_name": "CG EMEA (EUR)",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "FW25 Snow Goose",
+        "call_to_action": "VIEW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-11-03T15:00:55.000Z",
+        "impressions_total": 490614,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 490614,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Canada Goose",
+        "profile_name": "Canada Goose",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "FW25 Snow Goose",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "FW25 Snow Goose",
+              "call_to_action": "VIEW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WYQI7XsfRU5A9r1w40eIJ.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.canadagoose.com/fr/fr/stories/campaign/snow-goose-fw25.html?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "209bac24-3c27-4366-af63-db2c8a4f42b8",
+        "name": "FW25 Mainline_Unisex_AR Lens_NA_Launch_NA_CH 2 - Fleece",
+        "ad_account_name": "CG EMEA (EUR)",
+        "status": "ACTIVE",
+        "creative_type": "LENS_WEB_VIEW",
+        "ad_type": "LENS_REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Canada Goose",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "LENS_PACKAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/aa35ed3c-c20d-4ef0-aa8d-4a5f454eea6c.lens",
+        "start_date": "2025-09-17T16:00:00.000Z",
+        "impressions_total": 20148585,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 20148585,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Canada Goose",
+        "profile_name": "Canada Goose",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.canadagoose.com/fr/fr/shop/fall-winter-collection/shop-fall-winter-collection?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+        },
+        "lens_preview": {
+          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/1FjJaeKcrf4GIyrpW8ltr?bo=EhQyAX06AQRCBgirvfTGBkgCUBJgAQ%3D%3D&uc=18",
+          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/061938aa-5cc2-4d52-98f8-56121851a0e4.mp4",
+          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/061938aa-5cc2-4d52-98f8-56121851a0e4.webp"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e0757130-3804-4dee-b47e-893fb4b104d9",
+        "name": "FW25|Holiday-Gift-Guide_Female_Static_0s_Launch_On-Figure_FW25|Holiday-Gift-GuideIAsset-02_V01|Snap-Ad",
+        "ad_account_name": "CG EMEA (EUR)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Cadeaux pour les fêtes",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MealOScY2iB8c0Pfe1PLX.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-11-03T15:00:55.000Z",
+        "impressions_total": 95642,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 95642,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -146,6 +402,244 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://www.canadagoose.com/fr/fr/gift-guide/gifts-for-her.html?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "38c8b2b8-8feb-4864-9564-01d05735d612",
+        "name": "FW25|Snow-Goose_Male_Static_0s_Launch_On-Figure_FW25|Snow-Goose|Asset-03_V01|Snap-Ad",
+        "ad_account_name": "CG EMEA (EUR)",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Snow Goose FW25",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ztTPFxuyKPRfRr6RavrYX.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-11-03T15:00:55.000Z",
+        "impressions_total": 21810,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 21810,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Canada Goose",
+        "profile_name": "Canada Goose",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.canadagoose.com/fr/fr/stories/campaign/snow-goose-fw25.html?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3e2ddd80-77f0-40e5-ad1f-13c604db6409",
+        "name": "FW25|Snow-Goose_Male_Static_0s_Launch_On-Figure_FW25|Snow-Goose|Asset-02_V01|Snap-Ad",
+        "ad_account_name": "CG EMEA (EUR)",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Snow Goose FW25",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BLfKoX3ynvaRNL4wOCRw0.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-11-03T15:00:55.000Z",
+        "impressions_total": 138522,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 138522,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Canada Goose",
+        "profile_name": "Canada Goose",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.canadagoose.com/fr/fr/stories/campaign/snow-goose-fw25.html?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3e016231-e57d-49ec-a8f0-5e78749d49fb",
+        "name": "FW25|Snow-Goose_Male_Static_0s_Launch_On-Figure_FW25|Snow-Goose|Asset-02_V01|Story-Ad",
+        "ad_account_name": "CG EMEA (EUR)",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Snow Goose FW25",
+        "call_to_action": "VIEW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-11-03T15:00:55.000Z",
+        "impressions_total": 204600,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 204600,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Canada Goose",
+        "profile_name": "Canada Goose",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Snow Goose FW25  ",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Snow Goose FW25",
+              "call_to_action": "VIEW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BLfKoX3ynvaRNL4wOCRw0.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.canadagoose.com/fr/fr/stories/campaign/snow-goose-fw25.html?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+              }
+            }
+          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -243,23 +737,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c9a5f6b8-7a29-4312-b8b1-c823d5d041aa",
-        "name": "FW25|Snow-Goose_Male_Static_0s_Launch_On-Figure_FW25|Snow-Goose|Asset-18_V01|Snap-Ad",
+        "id": "66edddce-efab-44f2-a2f7-c9f9c1143b58",
+        "name": "FW25|Snow-Goose_Female_Static_0s_Launch_On-Figure_FW25|Snow-Goose|Asset-17_V01|Snap-Ad",
         "ad_account_name": "CG EMEA (EUR)",
-        "status": "PAUSED",
+        "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
+        "languages": [],
         "headline": "Snow Goose FW25",
         "call_to_action": "VIEW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CQ5mm7AyMXleoYU236Lyp.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ow8O811CKR8qKsMURspbm.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
         "start_date": "2025-11-03T15:00:55.000Z",
-        "impressions_total": 261281,
+        "impressions_total": 33557,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -271,7 +763,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 261281,
+          "fr": 33557,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -309,483 +801,6 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://www.canadagoose.com/fr/fr/stories/campaign/snow-goose-fw25.html?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8d63f199-6096-473b-bae7-f26289717838",
-        "name": "24/12/25 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/d2RRkMSIeNIjsvrYC53lT.380.IRZXSOY?mo=Gj0aCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2026-01-12T23:00:00.000Z",
-        "impressions_total": 2525,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 2525,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Canada Goose ❄️🇨🇦",
-        "profile_name": "Canada Goose",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY2lYWTNTMmpSNDlHY1k4S1lEY2F3P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/canadagoose59",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY2lYWTNTMmpSNDlHY1k4S1lEY2F3P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "88422e2c-6799-470c-bc41-42adc2cd01d2",
-        "name": "FW25|Holiday-Gift-Guide_Female_Static_0s_Launch_On-Figure_FW25|Holiday-Gift-Guide|Asset-02_V01|Story-Ad",
-        "ad_account_name": "CG EMEA (EUR)",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Cadeaux pour les fêtes",
-        "call_to_action": "VIEW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-11-03T15:00:55.000Z",
-        "impressions_total": 75641,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 75641,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Canada Goose",
-        "profile_name": "Canada Goose",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Cadeaux pour les fêtes",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Ca",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MealOScY2iB8c0Pfe1PLX.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.canadagoose.com/fr/fr/gift-guide/gifts-for-her.html?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "6cb19304-0fe0-4d42-9a0a-57ff970f196f",
-        "name": "FW25|Holiday-Gift-Guide_Female_Static_0s_Launch_On-Figure_FW25|Holiday-Gift-Guide|Asset-21_V01|Snap-Ad",
-        "ad_account_name": "CG EMEA (EUR)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Cadeaux pour les fêtes",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1FreyRWvrBipgRWVAPCBo.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-11-03T15:00:55.000Z",
-        "impressions_total": 1227845,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1227845,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Canada Goose",
-        "profile_name": "Canada Goose",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.canadagoose.com/fr/fr/gift-guide/gifts-for-her.html?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "3e2ddd80-77f0-40e5-ad1f-13c604db6409",
-        "name": "FW25|Snow-Goose_Male_Static_0s_Launch_On-Figure_FW25|Snow-Goose|Asset-02_V01|Snap-Ad",
-        "ad_account_name": "CG EMEA (EUR)",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Snow Goose FW25",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BLfKoX3ynvaRNL4wOCRw0.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-11-03T15:00:55.000Z",
-        "impressions_total": 138522,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 138522,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Canada Goose",
-        "profile_name": "Canada Goose",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.canadagoose.com/fr/fr/stories/campaign/snow-goose-fw25.html?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "e0757130-3804-4dee-b47e-893fb4b104d9",
-        "name": "FW25|Holiday-Gift-Guide_Female_Static_0s_Launch_On-Figure_FW25|Holiday-Gift-GuideIAsset-02_V01|Snap-Ad",
-        "ad_account_name": "CG EMEA (EUR)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Cadeaux pour les fêtes",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MealOScY2iB8c0Pfe1PLX.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-11-03T15:00:55.000Z",
-        "impressions_total": 95642,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 95642,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Canada Goose",
-        "profile_name": "Canada Goose",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.canadagoose.com/fr/fr/gift-guide/gifts-for-her.html?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "6df2f751-8259-4bf3-b7f4-eacd4754ed82",
-        "name": "FW25|Holiday-Gift-Guide_Male_Static_0s_Launch_On-Figure_FW25|Holiday-Gift-Guide|Asset-22_V01|Story-Ad",
-        "ad_account_name": "CG EMEA (EUR)",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Cadeaux pour les fêtes",
-        "call_to_action": "VIEW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-11-03T15:00:55.000Z",
-        "impressions_total": 1254116,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1254116,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Canada Goose",
-        "profile_name": "Canada Goose",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva0wybTFQbW5mbUc3VEdQeXNhajFUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Cadeaux pour les fêtes",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Cadeaux pour les fêtes",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rgjMbNMzZ3KvskUJDvSs0.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.canadagoose.com/fr/fr/gift-guide/gifts-for-her.html?utm_term={{creative.name}}&utm_medium=paid_social&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-              }
-            }
-          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

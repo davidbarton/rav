@@ -1,367 +1,15 @@
 {
   "brand": "House",
   "country": "nl",
-  "fetched_at": "2026-04-09T00:34:07.577Z",
+  "fetched_at": "2026-04-09T14:43:57.908Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "31819cec-007e-433d-8d7c-cdc4be91a1df",
-        "name": "Game-V-250418-1-AR",
-        "ad_account_name": "AppHiParty-qire-/-MH-ZT-social-03",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "ar"
-        ],
-        "headline": "إنها فرصة عابرة جرب حظك",
-        "call_to_action": "PLAY GAME",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-05-01T12:09:53.000Z",
-        "impressions_total": 2187,
-        "impressions_map": {
-          "de": 312,
-          "be": 44,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 6,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 141,
-          "hu": 0,
-          "se": 31,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 101,
-          "es": 23,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 150,
-          "tr": 1379
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [
-                "ar"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "11",
-              "carrier_id": []
-            }
-          ]
-        },
-        "app_install_preview": {
-          "app_name": "HiParty",
-          "ios_app_id": "6478166949",
-          "android_app_url": "com.baori.hiparty",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/9nL7ZMyvm0OmmD3mPEGk7.438?mo=GjEaFDIBBDoBfUIGCI70u70GSAJQD2ABWg9BZHNJbWFnZUFwcEljb26iAQcItgMiAhIA&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "DISAPPROVED",
-        "rejection_reasons": [
-          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
-        ],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "2d93f2ad-a5a9-4bdc-a723-d16081374a58",
-        "name": "9YH2009C8-Xena-GCC-250318-Sean.mp4",
-        "ad_account_name": "APPXenaLive-MICO-MECA-Snapchat-Mad-ZT-1",
-        "status": "PAUSED",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "ar"
-        ],
-        "headline": "استمتع بلقاء أشخاص جدد.",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/7Obh0wat6Vh0F3eU7td1W.67?mo=Gu4BGggyAgR9UA9gAVoIQWRzTWVkaWGiAScIQxIbChkIncmBAiABSg4KCVgqHSMpJy0fLhD0A2gCIgYKAkgCEgCiASgIugoSGwoZCIXP8AEgAUoOCglWJhcgJSchHiYQ9ANoAiIGCgJIAxIAogEnCH8SGwoZCLacvQEgAUoOCglHHRAaGhgeExsQ9ANoAiIGCgJIAhIAogEoCJIKEhsKGQiutsQBIAFKDgoJSB4SGR4ZIBQbEPQDaAIiBgoCSAISAKIBKAjEChIbChkI7MaoASABSg4KCUUaDxcZGhcVGhD0A2gCIgYKAkgCEgCQA8qBAg%3D%3D&uc=15",
-        "start_date": "2025-06-20T09:05:17.000Z",
-        "impressions_total": 502,
-        "impressions_map": {
-          "de": 63,
-          "be": 14,
-          "fi": 3,
-          "pt": 1,
-          "bg": 81,
-          "dk": 0,
-          "lt": 2,
-          "lu": 4,
-          "hr": 1,
-          "lv": 0,
-          "fr": 0,
-          "hu": 1,
-          "se": 30,
-          "si": 0,
-          "sk": 0,
-          "ie": 5,
-          "ee": 0,
-          "el": 9,
-          "mt": 0,
-          "it": 39,
-          "es": 4,
-          "at": 13,
-          "cy": 0,
-          "cz": 3,
-          "pl": 6,
-          "ro": 2,
-          "nl": 36,
-          "tr": 185
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "ar"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "4.0.3",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "profile_name": "Xena live",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMjFETXJlUnVMVHhLZTlnczFoTTlhP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "app_install_preview": {
-          "app_name": "Xena Live",
-          "ios_app_id": "6478953714",
-          "android_app_url": "com.xparty.androidapp",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/3XhhIqrHMn8LGVgF2xLIo.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjjnPaxBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "enable_skoverlay": false,
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "5082f2af-d6a6-4b6b-8997-76480d31ae39",
-        "name": "240129_TH双字母提示+瀑布bg+throughoutCX_en(英语)_zw_9x16",
-        "ad_account_name": "AppZenword-lexinshengwen-/-MH-ZT-gaming-02",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Genius? Prove it😏",
-        "call_to_action": "PLAY GAME",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qK5AdTHKzfpPWXY67i0oX.67?mo=Gt4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI8NI7IAEw4AM41AZAAUoOCglpBgUEBwUFCAQQ9ANQsOoBaAIiBgoCSAMSAKIBNAi6ChInCiUIkYU6IAEw0AU4gApAAkoPCgquAQQGBQcGBgsHEPQDULDqAWgCIgYKAkgDEgCiATIIfxImCiQI6dEkIAEw4AM41AZAAkoOCglUBAUDBwUECQUQ9ANQsOoBaAIiBgoCSAISAKIBMwiSChImCiQI-aQlIAEw4AM41AZAAkoOCglSBAQFBgUFCQUQ9ANQsOoBaAIiBgoCSAISAKIBNAjEChInCiUIsK8oIAEw4AM41gZAAkoPCgqDAQMDAwUEBAgFEPQDULDqAWgCIgYKAkgCEgCiATQI0goSJwolCJWaKiABMOADONQGQAJKDwoKjgEDBAMFBAQIBBD0A1Cw6gFoAiIGCgJIAhIAkAOw6gE%3D&uc=15",
-        "start_date": "2025-07-11T06:31:33.000Z",
-        "impressions_total": 346,
-        "impressions_map": {
-          "de": 2,
-          "be": 3,
-          "fi": 1,
-          "pt": 9,
-          "bg": 7,
-          "dk": 1,
-          "lt": 4,
-          "lu": 2,
-          "hr": 12,
-          "lv": 0,
-          "fr": 0,
-          "hu": 15,
-          "se": 3,
-          "si": 7,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 56,
-          "mt": 0,
-          "it": 30,
-          "es": 23,
-          "at": 0,
-          "cy": 0,
-          "cz": 11,
-          "pl": 7,
-          "ro": 23,
-          "nl": 4,
-          "tr": 126
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "11.3",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "Zen Word-Your Brain Needs This",
-        "app_install_preview": {
-          "app_name": "Zen Word-Your Brain Needs This",
-          "ios_app_id": "1660171117",
-          "android_app_url": "kidultlovin.word.zen",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/qeEra3EupLc5If0OFfdgF.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "335a35fc-af97-4648-a9ea-f05f345e46b3",
-        "name": "20250722-Live-SC-lrtennis1-Video-WF.mp4",
-        "ad_account_name": "AppPerk-ESSENTIALS-xu-/-MH-ZT-social-01",
-        "status": "PAUSED",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Video chat",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Iio1bw6oziqVoXcuHXEWO.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI57ZnIAEw4AM41AZAAUoOCglkPyEuLi4mOysQ9ANQhHVoAiIGCgJIAhIAogEyCLoKEiUKIwjp-VIgATDQBTiACkACSg4KCVkvHCcnJxkxJhD0A1CEdWgCIgYKAkgDEgCiATEIfxIlCiMI9p9AIAEw4AM41AZAAkoOCglEKBUdGxkVJh4Q9ANQhHVoAiIGCgJIAhIAogEyCJIKEiUKIwiaykMgATDgAzjUBkACSg4KCUYqFR8dGxYpHhD0A1CEdWgCIgYKAkgCEgCiATIIxAoSJQojCIv-NyABMOADONYGQAJKDgoJQyESGxoaESIaEPQDUIR1aAIiBgoCSAISAKIBMgjSChIlCiMIr4s6IAEw4AM41AZAAkoOCglFIhQbHBoSJBsQ9ANQhHVoAiIGCgJIAhIAkAOEdQ%3D%3D&uc=15",
-        "start_date": "2025-07-25T02:26:46.000Z",
-        "impressions_total": 15583,
-        "impressions_map": {
-          "de": 1505,
-          "be": 0,
-          "fi": 672,
-          "pt": 0,
-          "bg": 0,
-          "dk": 250,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 893,
-          "hu": 0,
-          "se": 968,
-          "si": 0,
-          "sk": 0,
-          "ie": 5860,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 3058,
-          "es": 0,
-          "at": 555,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 1822,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "14.0",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "Perk",
-        "profile_name": "Live Girl",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NiZXJ2Y1RsbVFZQTM2Q01nOG4zP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "app_install_preview": {
-          "app_name": "Perk",
-          "ios_app_id": "6742431145",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/nGyajd0pPdBwYP84DfTHs.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
-          "enable_skoverlay": true,
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "1f871ad7-ba71-4dbd-bcc0-15ea45811bf3",
-        "name": "iGame_V_EN_UA-KOL_brandonline游戏介绍_CB_184_1080x1920_36s_250314_NR_872200",
+        "id": "ab5d9167-8440-48df-9f2c-5f3bee1b052b",
+        "name": "iGame_V_EN_JJ_场景等级解锁天堂版_CB_184_1080x1920_13s_250407_NR_885175",
         "ad_account_name": "AppAFK Journey-lilisiCOD-/-MH-ZT-gaming-01",
         "status": "ACTIVE",
         "creative_type": "APP_INSTALL",
@@ -370,42 +18,42 @@
         "languages": [
           "en"
         ],
-        "headline": "iPhone Game of the Year 2024",
+        "headline": "The vast world idle RPG",
         "call_to_action": "INSTALL NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BMlxouDPlIqQcOEgzhctU.67?mo=GpoCGgcyAQRQD2ABWghBZHNNZWRpYaIBMghDEhsKGQiNu7wBIAFKDgoJYSEpFiYYEzU6EPQDaAIiEQoNOgF9QgYItcy0vwZIBRIAogEzCLoKEhsKGQickagBIAFKDgoJVhYoHB8VGig0EPQDaAIiEQoNOgF9QgYIzs60vwZIAhIAogEpCH8SGgoYCLeEeiABSg4KCUoXGQ8aEAwiJxD0A2gCIgkKBTIBfUgCEgCiATMIkgoSGwoZCPrZgAEgAUoOCglMGBsPGxUMJSkQ9ANoAiIRCg06AX1CBgjOzrS_BkgCEgCiATIIxAoSGgoYCJbPciABSg4KCUQOGxMVDhEbIxD0A2gCIhEKDToBfUIGCM7OtL8GSAISAJADhJoC&uc=15",
-        "start_date": "2025-04-02T12:01:55.000Z",
-        "impressions_total": 5896,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6Q8Pwk9lD5rEkot2FDWYi.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIzrBDIAFKDgoJWxsZHhwzLTAoEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgI8fg7IAFKDgoJehIXGRVoJicgEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjF4iggAUoOCglCERISEB8cHRgQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAin0ykgAUoOCgk_EBIREiEgGBoQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjBqCQgAUoOCglMCw4ODj8VFhMQ9ANoAiIGCgJIAhIAkAOSbQ%3D%3D&uc=15",
+        "start_date": "2025-04-10T11:00:07.000Z",
+        "impressions_total": 11767,
         "impressions_map": {
-          "de": 85,
-          "be": 165,
-          "fi": 44,
-          "pt": 397,
-          "bg": 257,
-          "dk": 9,
-          "lt": 80,
-          "lu": 139,
-          "hr": 48,
+          "de": 1095,
+          "be": 3105,
+          "fi": 668,
+          "pt": 188,
+          "bg": 73,
+          "dk": 405,
+          "lt": 126,
+          "lu": 286,
+          "hr": 115,
           "lv": 0,
-          "fr": 178,
-          "hu": 85,
-          "se": 38,
-          "si": 178,
-          "sk": 25,
-          "ie": 99,
+          "fr": 685,
+          "hu": 114,
+          "se": 1181,
+          "si": 219,
+          "sk": 26,
+          "ie": 481,
           "ee": 0,
-          "el": 499,
+          "el": 148,
           "mt": 0,
-          "it": 720,
-          "es": 332,
-          "at": 28,
+          "it": 170,
+          "es": 125,
+          "at": 463,
           "cy": 0,
-          "cz": 123,
-          "pl": 320,
-          "ro": 311,
-          "nl": 69,
-          "tr": 1667
+          "cz": 74,
+          "pl": 192,
+          "ro": 126,
+          "nl": 1315,
+          "tr": 387
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -414,9 +62,7 @@
               "min_age": "18",
               "age_groups": [],
               "gender": "MALE",
-              "languages": [
-                "en"
-              ],
+              "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
             }
@@ -448,9 +94,93 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "a4b58e0e-f226-4377-9c28-cca761d5e638",
-        "name": "V-250522-1-AR.mp4",
-        "ad_account_name": "AppHiParty-qire-/-MH-ZT-social-07",
+        "id": "956819c4-4083-4c62-b263-683f670f865f",
+        "name": "WM_01139A04_916_EN_GRQ_20250530_AI_AI^RTS^红警像素风.mp4",
+        "ad_account_name": "MH_Funplus-Stormshot iOS-MH-ZT-Gaming-01",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Sci-Fi Strategy Game of the Year",
+        "call_to_action": "PLAY GAME",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NhTDxzhUzEphV20jxRzeq.67?mo=GuQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATQIQxIoCiYImojFAiABMOADONQGQAFKDwoKqAFkbC8rLi0saxD0A1De7QFoAiIGCgJIBRIAogE0CLoKEicKJQiWrvABIAEw0AU4gApAAkoOCgl_MkM1LysqIkoQ9ANQ3u0BaAIiBgoCSAISAKIBNAh_EigKJgjLmvABIAEw4AM41AZAAkoPCgqSAU1SKCsmKCZIEPQDUN7tAWgCIgYKAkgCEgCiATUIkgoSKAomCN2O6gEgATDgAzjUBkACSg8KCpEBS08nJigpI0wQ9ANQ3u0BaAIiBgoCSAISAKIBNAjEChInCiUIg8eBASABMOADONYGQAJKDgoJVBclGxkWFhMoEPQDUN7tAWgCIgYKAkgCEgCiATQI0goSJwolCML2jwEgATDgAzjUBkACSg4KCVcaKSgkHBkTLxD0A1De7QFoAiIGCgJIAhIAkAPe7QE%3D&uc=15",
+        "start_date": "2025-06-03T03:54:18.000Z",
+        "impressions_total": 293336,
+        "impressions_map": {
+          "de": 25363,
+          "be": 26817,
+          "fi": 15589,
+          "pt": 5724,
+          "bg": 2009,
+          "dk": 18214,
+          "lt": 2919,
+          "lu": 3253,
+          "hr": 4199,
+          "lv": 0,
+          "fr": 2107,
+          "hu": 1971,
+          "se": 38915,
+          "si": 2739,
+          "sk": 319,
+          "ie": 22400,
+          "ee": 0,
+          "el": 6171,
+          "mt": 0,
+          "it": 4147,
+          "es": 3927,
+          "at": 12115,
+          "cy": 0,
+          "cz": 2175,
+          "pl": 16471,
+          "ro": 8290,
+          "nl": 44555,
+          "tr": 22947
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": []
+            }
+          ]
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "profile_name": "Project Entropy",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZU9iQmxyc2RkMVpmVXlISjZPNUd3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "app_install_preview": {
+          "app_name": "Project Entropy",
+          "android_app_url": "com.entropy.global",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/JtXQGyWBLAvboso5TzwQ8.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "48cffb6b-073d-4562-a574-5b794af4b4b1",
+        "name": "Game-V-250424-3-AR",
+        "ad_account_name": "AppHiParty-qire-/-MH-ZT-social-02",
         "status": "ACTIVE",
         "creative_type": "APP_INSTALL",
         "ad_type": "APP_INSTALL",
@@ -458,42 +188,41 @@
         "languages": [
           "ar"
         ],
-        "headline": "إنها فرصة عابرة جرب حظك💰",
+        "headline": "هل سيكون الفائز القادم أنت؟",
         "call_to_action": "PLAY GAME",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8AMebEWZWWdVwABKjflQu.67?mo=GowCGggyAgR9UA9gAVoIQWRzTWVkaWGiATcIQxIrCikIm69kIAEw4AM41AZAAUoPCgpDFDIjugFCJSMfEPQDUIJvaAJ1qFxzQCIGCgJIAxIAogE4CLoKEisKKQiA_WggATDQBTiACkACSg8KClljDCazAS8gGywQ9ANQgm9oAnXFG4JAIgYKAkgDEgCiAT0IkgoSMAouCLLMSyABMOADONQGQAJKDwoKMg0jGIABJRwbFBD0A1CCb2gCdQhgb0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiyxkIgATDgAzjUBkACSg4KCTw4Bxp0HxUWHBD0A1CCb2gCdWx9dkB9AACAPyIGCgJIAhIAkAOCbw%3D%3D&uc=15",
-        "start_date": "2025-10-24T07:35:31.000Z",
-        "impressions_total": 7626,
+        "start_date": "2025-04-03T09:57:29.000Z",
+        "impressions_total": 2171,
         "impressions_map": {
-          "de": 1232,
-          "be": 311,
+          "de": 196,
+          "be": 127,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 0,
+          "dk": 14,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 589,
+          "fr": 183,
           "hu": 0,
-          "se": 205,
+          "se": 202,
           "si": 0,
           "sk": 0,
           "ie": 0,
           "ee": 0,
-          "el": 126,
+          "el": 0,
           "mt": 0,
-          "it": 4571,
-          "es": 0,
-          "at": 143,
+          "it": 550,
+          "es": 51,
+          "at": 0,
           "cy": 0,
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 449,
-          "tr": 0
+          "nl": 162,
+          "tr": 686
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -502,10 +231,10 @@
               "min_age": "18",
               "max_age": "45",
               "age_groups": [],
-              "gender": "MALE",
               "languages": [
                 "ar"
               ],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -514,295 +243,32 @@
               "marketing_name": [],
               "model": [],
               "os_type": "iOS",
-              "carrier_id": []
+              "os_version_min": "14.5",
+              "carrier_id": [],
+              "operation": "INCLUDE"
             }
           ]
         },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "profile_name": "HiParty",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdEZqNm0xbE5xaDVGSXRPNEhydk5pP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
         "app_install_preview": {
-          "app_name": "HiParty - Voice Chat Room",
+          "app_name": "HiParty",
           "ios_app_id": "6478166949",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/jhQhePyzqVkfblBYjjFVd.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "android_app_url": "com.baori.hiparty",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/UmFyp4QI8wLtu1lTDojQr.438?mo=GjEaFDIBBDoBfUIGCKTJg7wGSAJQD2ABWg9BZHNJbWFnZUFwcEljb26iAQcItgMiAhIA&uc=15",
           "playable_media_properties": {}
         },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f093c527-2d67-4cd6-bddd-dad7fdc2c8af",
-        "name": "251117_gmp-剥茄子-gln11106+le60s_en_TT_1080x1920",
-        "ad_account_name": "appTile Explorer-lexinshengwen-/-MH-ZT-gaming-01",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
         ],
-        "headline": "Free to play",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/pUXLBlOYrBeaYVN9wnqhN.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgio5FEgATDgAzjUBkABSg4KCUAFBwcIBgkKCRD0A1DqlgJoAnXFkoBAfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4IwvJNIAEw0AU4gApAAkoOCglGBgkJCQcLDAkQ9ANQ6pYCaAJ1gvyEQH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCPyNPyABMOADONQGQAJKDgoJOgcGCAcHCAoIEPQDUOqWAmgCddqGfkB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiRlzcgATDgAzjUBkACSg4KCT4EBgYGBQcIBhD0A1DqlgJoAnV-Z4BAfQAAgD8iBgoCSAISAJAD6pYC&uc=15",
-        "start_date": "2025-11-04T10:17:52.000Z",
-        "impressions_total": 101901,
-        "impressions_map": {
-          "de": 2129,
-          "be": 8477,
-          "fi": 435,
-          "pt": 3420,
-          "bg": 16564,
-          "dk": 151,
-          "lt": 426,
-          "lu": 1493,
-          "hr": 0,
-          "lv": 0,
-          "fr": 3576,
-          "hu": 3034,
-          "se": 493,
-          "si": 4584,
-          "sk": 255,
-          "ie": 1364,
-          "ee": 0,
-          "el": 12198,
-          "mt": 0,
-          "it": 13853,
-          "es": 21120,
-          "at": 1031,
-          "cy": 0,
-          "cz": 0,
-          "pl": 4604,
-          "ro": 0,
-          "nl": 2694,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "profile_name": "Tile Explorer - Triple Match",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
-        "app_install_preview": {
-          "app_name": "Tile Trip - Match Puzzle Game",
-          "ios_app_id": "6498883328",
-          "android_app_url": "com.oakever.tiletrip",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/0982VS9Dbh6qWup3Rzyxo.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
         "stickers": []
       }
     },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c5a24cf2-e9ad-4e8e-b905-9cde1d62401d",
-        "name": "KW002-EU-WLX136_YJB",
-        "ad_account_name": "HS-EU-IOS-NEOMAN-MH-ZT-gaming",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Free gift code:deerhunter",
-        "call_to_action": "DOWNLOAD",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KhLWVq01U61EGLBYgfUwz.67?mo=GpkCGggyAgR9UA9gAVoIQWRzTWVkaWGiATkIQxItCisIz7-OAiABMOADONQGQAFKDwoK2QFORUwqNDw9NBD0A1CqugFoAnUKRE1AIgYKAkgCEgCiAT0IugoSMAouCNeC4QIgATDQBTiACkACShIKDeYDowGHAYMBJjE6NT0Q9ANQqroBaAJ1JqBaQCIGCgJIAxIAogE_CJIKEjIKMAitr7cBIAEw4AM41AZAAkoPCgqvATpEOhwjKCcjEPQDUKq6AWgCdZGsPEB9AACAPyIGCgJIAhIAogE_CNIKEjIKMAiho5gBIAEw4AM41AZAAkoPCgrNATUqNhcaHx4iEPQDUKq6AWgCdQDqS0B9AACAPyIGCgJIAhIAkAOqugE%3D&uc=15",
-        "start_date": "2025-12-08T10:00:24.000Z",
-        "impressions_total": 95518,
-        "impressions_map": {
-          "de": 521,
-          "be": 8800,
-          "fi": 342,
-          "pt": 282,
-          "bg": 281,
-          "dk": 157,
-          "lt": 900,
-          "lu": 0,
-          "hr": 417,
-          "lv": 0,
-          "fr": 69891,
-          "hu": 336,
-          "se": 1278,
-          "si": 742,
-          "sk": 2091,
-          "ie": 5259,
-          "ee": 0,
-          "el": 412,
-          "mt": 0,
-          "it": 409,
-          "es": 324,
-          "at": 861,
-          "cy": 0,
-          "cz": 322,
-          "pl": 341,
-          "ro": 881,
-          "nl": 671,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "14.0",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "Hunting Sniper",
-        "profile_name": "Huntingsniper",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ21HcHV1N01Cd1ZJOHQwaXliMFRmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "app_install_preview": {
-          "app_name": "Hunting Sniper",
-          "ios_app_id": "6472705058",
-          "android_app_url": "com.europe.huntingsniper",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/gP9r8R3sxjnJQjGPWpZdn.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjJnZuvBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {
-            "playable_media_download_link": "https://cf-st.sc-cdn.net/d/Tzb5jlhn5WUc5KBAa3NzG/index.html?go=Ig4KCjICBH1IAVAPYAEYCg%3D%3D&uc=15",
-            "playable_call_to_action": "TRY_IT_OUT"
-          }
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d69e8a7d-b93c-4642-94d0-664f98be6ed3",
-        "name": "V58-EN-SX-NPC对话-女弓-A-MLD-XQY-竖",
-        "ad_account_name": "appMU Immortal-kaiying-/-MH-ZT-gaming-01",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "epic battles, mobile adventure",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GeDAKtU3uI1cUYI7wOumN.67?mo=GuwBGggyAgR9UA9gAVoIQWRzTWVkaWGiAScIQxIbChkI192tASABSg4KCW0YGh0aIx4cIBD0A2gCIgYKAkgDEgCiASgIugoSGwoZCKXEpgEgAUoOCgl4GB0dHx4fIh0Q9ANoAiIGCgJIAxIAogEmCH8SGgoYCMiUfiABSg4KCVoVFxoVHRUdFxD0A2gCIgYKAkgCEgCiASgIkgoSGwoZCMvghQEgAUoOCglfFxQdGB4ZHBgQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAi3nWsgAUoOCglfEBMTFBQUFxMQ9ANoAiIGCgJIAhIAkAOEpAI%3D&uc=15",
-        "start_date": "2025-05-20T09:10:59.000Z",
-        "impressions_total": 34,
-        "impressions_map": {
-          "de": 3,
-          "be": 0,
-          "fi": 4,
-          "pt": 0,
-          "bg": 0,
-          "dk": 1,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 4,
-          "hu": 0,
-          "se": 9,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 2,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 11,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "7.0.0",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "MU Immortal",
-        "app_install_preview": {
-          "app_name": "MU Immortal",
-          "ios_app_id": "6743115148",
-          "android_app_url": "com.tszz.gpen",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/SWFVp6naPuOkIqHn5BQuE.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "66a38058-f7f8-4137-96b6-94991a6d2e59",
-        "name": "2888_WUYA_EC_EN_LA002_260328_FF_NU",
-        "ad_account_name": "SC-MAD-NS-M14-UTC+0-YH-01",
+        "id": "873a0b72-b63c-4fc8-945d-26c040b24b3c",
+        "name": "1-3-4_4",
+        "ad_account_name": "新阅自投_snap_MH_huangcw_GS_英语_XY_双端_21_西五",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
@@ -810,42 +276,42 @@
         "languages": [
           "en"
         ],
-        "headline": "Free & complete.",
+        "headline": "🔥Trending Hit! Click to Watch🔥",
         "call_to_action": "WATCH",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nDx0pz104yBHRnwzRGgsc.67?mo=GqACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPghDEjIKMAjO3r4CIAEw4AM41AZAAUoPCgqXATcvMjI2IiAxEPQDUKajA2gCdUtMN0B9AACAPyIGCgJIBBIAogE_CLoKEjIKMAjW65ICIAEw0AU4gApAAkoPCgqIAS0iLSImEhMvEPQDUKajA2gCdWT7PkB9AACAPyIGCgJIAxIAogE-CJIKEjEKLwiQwLsBIAEw4AM41AZAAkoOCgl3ICAaGSAODRUQ9ANQpqMDaAJ1xw4oQH0AAIA_IgYKAkgCEgCiAT4I0goSMQovCKy7tAEgATDgAzjUBkACSg4KCWUeFxoVGQoMHRD0A1CmowNoAnUvgjRAfQAAgD8iBgoCSAISAJADpqMD&uc=15",
-        "start_date": "2026-04-04T00:00:00.000Z",
-        "impressions_total": 18,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4tjgFgYNrpV9Q2NTF7p5I.67?mo=GvoBGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNAhDEigKJgiw_eouIAEw4AM41AZAAUoPCgqyChgpGSQUHRMeEPQDULahSWgCIgYKAkgCEgCiATUIugoSKAomCJD4vDUgATDQBTiACkACSg8KCpsIGjMdKB4WFyAQ9ANQtqFJaAIiBgoCSAMSAKIBNQiSChIoCiYI69ScISABMOADONQGQAJKDwoK1QoPHRcUFBIOFhD0A1C2oUloAiIGCgJIAhIAogE1CNIKEigKJgiVpsAgIAEw4AM41AZAAkoPCgr_BxEfExkSDQ8SEPQDULahSWgCIgYKAkgCEgCQA7ahSQ%3D%3D&uc=15",
+        "start_date": "2026-04-04T04:00:00.000Z",
+        "impressions_total": 25,
         "impressions_map": {
-          "de": 0,
-          "be": 4,
+          "de": 5,
+          "be": 0,
           "fi": 0,
-          "pt": 1,
+          "pt": 0,
           "bg": 0,
           "dk": 0,
-          "lt": 1,
+          "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
           "fr": 2,
           "hu": 0,
-          "se": 1,
+          "se": 0,
           "si": 0,
           "sk": 0,
-          "ie": 2,
+          "ie": 12,
           "ee": 0,
           "el": 0,
           "mt": 0,
-          "it": 0,
+          "it": 1,
           "es": 0,
           "at": 0,
           "cy": 0,
           "cz": 0,
           "pl": 0,
-          "ro": 1,
-          "nl": 2,
-          "tr": 4
+          "ro": 0,
+          "nl": 5,
+          "tr": 0
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -872,18 +338,495 @@
               "model": [],
               "os_type": "ANDROID",
               "carrier_id": []
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "WEB",
+              "carrier_id": []
             }
           ]
         },
         "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "NetShort-Popular Dramas & TV",
-        "profile_name": "NetShort-Popular Dramas & TV",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR0M0YUMzdXpmejZLZ2s2ZFdBM01yP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "brand_name": "GoodShort",
+        "profile_name": "GoodShort",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR2U2Qll0S05lcWU0NEtkdHNhVDJFP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://sc.h5short.com/snapchat/w9zH8BsJOP2.html?pid=snapchat_web&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset_id={{adSet.id}}&af_ad_id={{ad.id}}&af_adset={{adSet.name}}&af_force_deeplink=true&type=1&link_id=2039956161490321409&af_sub2=0"
+          "url": "https://www.fixfs.com/market/goodreels/t18-33-11/18?lpid=43728&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&adset_name={{adSet.name}}&adset_id={{adSet.id}}&ad_id={{ad.id}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "bf9efd01-1852-42c7-a3d3-e7b7cf5914c3",
+        "name": "151343_en_FB_tina_0205_gown_ec_1-AIqt-new",
+        "ad_account_name": "FF-PD-3-1124-01",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Continue watching👉👀",
+        "call_to_action": "WATCH",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/G2Y6Ct9arwbfmLlwm2NUM.67?mo=GpgCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwjHhqUhIAEw4AM41AZAAUoPCgqqB0BVQjkuLTYlEPQDUISuSGgCdQyLU0AiBgoCSAISAKIBOgi6ChItCisI8OHiHyABMNAFOIAKQAJKDwoKxgY2QzQ8JB08JxD0A1CErkhoAnXCnlpAIgYKAkgDEgCiAT8IkgoSMgowCK_AwBYgATDgAzjUBkACSg8KCr0HMTsxKSIdJBkQ9ANQhK5IaAJ1Dq5JQH0AAIA_IgYKAkgCEgCiAT8I0goSMgowCIPvjhcgATDgAzjUBkACSg8KCq4GJS4kLB0VKxsQ9ANQhK5IaAJ1wrxTQH0AAIA_IgYKAkgCEgCQA4SuSA%3D%3D&uc=15",
+        "start_date": "2026-03-28T16:00:00.000Z",
+        "impressions_total": 126,
+        "impressions_map": {
+          "de": 7,
+          "be": 20,
+          "fi": 6,
+          "pt": 2,
+          "bg": 1,
+          "dk": 6,
+          "lt": 0,
+          "lu": 2,
+          "hr": 1,
+          "lv": 0,
+          "fr": 1,
+          "hu": 0,
+          "se": 10,
+          "si": 1,
+          "sk": 0,
+          "ie": 7,
+          "ee": 0,
+          "el": 2,
+          "mt": 0,
+          "it": 3,
+          "es": 4,
+          "at": 10,
+          "cy": 0,
+          "cz": 0,
+          "pl": 1,
+          "ro": 0,
+          "nl": 36,
+          "tr": 6
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "brand_name": "FlareFlow",
+        "profile_name": "FlareFlow",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZk92WHZjaVBScU9XOWVnRnBzdnZNP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://w2a.flareflow.tv/snap02.html?ff_adid=79491&utm_id=flareflowsnappixel&language=en&timestamp=1770807915850&utm_source=snapchat&campaign_id={{campaign.id}}&campaign_name={{campaign.name}}&ad_set_id={{adSet.id}}&ad_id={{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "85bdce26-06dd-40ce-b356-911b6266423f",
+        "name": "1-2-5",
+        "ad_account_name": "新阅自投_snap_MH_huangcw_GS_英语_XY_双端_18_西五",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "🔥Trending Hit! Click to Watch🔥",
+        "call_to_action": "WATCH",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SpRhBkNZodyGnlz9sCyCE.67?mo=GvoBGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNAhDEigKJgjyh4QXIAEw4AM41AZAAUoPCgrEDQsKCQoWHBMTEPQDUPzFZWgCIgYKAkgCEgCiATUIugoSKAomCJio2xsgATDQBTiACkACSg8KCtkKDwsLCycXIxcQ9ANQ_MVlaAIiBgoCSAMSAKIBNQiSChIoCiYImtHzEiABMOADONQGQAJKDwoKlg4IBwcIERMQDBD0A1D8xWVoAiIGCgJIAhIAogE1CNIKEigKJgjzgd4RIAEw4AM41AZAAkoPCgrQCggGCAgRDw8NEPQDUPzFZWgCIgYKAkgCEgCQA_zFZQ%3D%3D&uc=15",
+        "start_date": "2026-02-26T05:00:12.000Z",
+        "impressions_total": 43,
+        "impressions_map": {
+          "de": 1,
+          "be": 3,
+          "fi": 2,
+          "pt": 4,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 1,
+          "hr": 0,
+          "lv": 0,
+          "fr": 8,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 1,
+          "ie": 11,
+          "ee": 0,
+          "el": 1,
+          "mt": 0,
+          "it": 2,
+          "es": 1,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 1,
+          "ro": 0,
+          "nl": 4,
+          "tr": 3
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "brand_name": "goodshort",
+        "profile_name": "GoodShort",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR2U2Qll0S05lcWU0NEtkdHNhVDJFP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.fixfs.com/market/goodreels/t18-33-11/18?lpid=43173&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&adset_name={{adSet.name}}&adset_id={{adSet.id}}&ad_id={{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3c8da724-9fbe-47c9-b698-b424d458b87a",
+        "name": "1209282",
+        "ad_account_name": "md_AppLandsofJail-aileyou_SG骏游_ios_Lands of Jail_Social_snap_abing03-01",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "It will keep you awake 24/7",
+        "call_to_action": "PLAY GAME",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-11-06T08:24:02.000Z",
+        "impressions_total": 51833,
+        "impressions_map": {
+          "de": 2275,
+          "be": 9644,
+          "fi": 3142,
+          "pt": 1144,
+          "bg": 317,
+          "dk": 3044,
+          "lt": 314,
+          "lu": 913,
+          "hr": 306,
+          "lv": 0,
+          "fr": 325,
+          "hu": 568,
+          "se": 5700,
+          "si": 648,
+          "sk": 84,
+          "ie": 3818,
+          "ee": 0,
+          "el": 1279,
+          "mt": 0,
+          "it": 2210,
+          "es": 1436,
+          "at": 1212,
+          "cy": 0,
+          "cz": 383,
+          "pl": 986,
+          "ro": 1225,
+          "nl": 7093,
+          "tr": 3767
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "22",
+              "max_age": "50",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "os_version_min": "15.0.1",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "app_install_preview": {
+          "app_name": "Lands of Jail",
+          "ios_app_id": "6738469826",
+          "android_app_url": "com.justgame.jails",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/iR7sOPOBt7MiZJ1zphrSA.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad contains content that could be considered inappropriate, including nudity, sexual content, body objectification, sexually provocative behavior or sexually suggestive imagery. This may include obscuring heads or faces, or focus on particular parts of the body unrelated to the advertised product or service. We prohibit ads that depict nudity and sexual content and all forms of body objectification."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "eb8aa094-33a2-408f-840b-2a33bb6c23c2",
+        "name": "MC_VID_954067_DECO_NORM_3D_P2_EN_60s_@ID2905267",
+        "ad_account_name": "appMerge Cooking-tiantianwanjia-/-MH-ZT-gaming-01",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "OMG, Her husband abandoned her😱",
+        "call_to_action": "PLAY GAME",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/g27ZVH3YrWP5h0Hd5aJJx.67?mo=Gp8CGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwiYpJMDIAEw4AM41AZAAUoOCgl0KB5UGicZYRwQ9ANQ4NQDaAJ1MsNnQH0AAIA_IgYKAkgEEgCiAT8IugoSMgowCP7CwQIgATDQBTiACkACSg8KCoQBJiFCGRkeSyEQ9ANQ4NQDaAJ1HvZ4QH0AAIA_IgYKAkgCEgCiAT4IkgoSMQovCNWEhQIgATDgAzjUBkACSg4KCWYgFzcQHxRBFxD0A1Dg1ANoAnWal1xAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8I5JfbASABMOADONQGQAJKDgoJZhoYLxERETYYEPQDUODUA2gCdeDCaEB9AACAPyIGCgJIAhIAkAPg1AM%3D&uc=15",
+        "start_date": "2026-02-09T11:21:56.000Z",
+        "impressions_total": 72921,
+        "impressions_map": {
+          "de": 3765,
+          "be": 13174,
+          "fi": 1809,
+          "pt": 1500,
+          "bg": 981,
+          "dk": 1631,
+          "lt": 614,
+          "lu": 776,
+          "hr": 2143,
+          "lv": 0,
+          "fr": 581,
+          "hu": 1266,
+          "se": 3604,
+          "si": 2495,
+          "sk": 117,
+          "ie": 7215,
+          "ee": 0,
+          "el": 2181,
+          "mt": 0,
+          "it": 1781,
+          "es": 1929,
+          "at": 1984,
+          "cy": 0,
+          "cz": 785,
+          "pl": 3234,
+          "ro": 4966,
+          "nl": 5983,
+          "tr": 8407
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "brand_name": "Merge Cooking",
+        "profile_name": "Liv Lvv",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbEIzbEt5akNvdXdIMXVXT1dNZE1yP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "app_install_preview": {
+          "app_name": "Merge Cooking:Theme Restaurant by Happibits Game",
+          "ios_app_id": "1643509748",
+          "android_app_url": "com.merge.cooking.theme.restaurant.food",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/idf463QCWPKanbNsRnQhN.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1a6a3d79-4efa-4dc3-b9d4-1efe0a91000a",
+        "name": "1115676",
+        "ad_account_name": "AppDramabox-dianzhong-2组-wyq-MH-ZT-app-01",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "ar"
+        ],
+        "headline": "الإمبراطور بين شعبه (نسخة الصوت)",
+        "call_to_action": "WATCH",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-08-26T03:27:20.000Z",
+        "impressions_total": 4818,
+        "impressions_map": {
+          "de": 376,
+          "be": 149,
+          "fi": 44,
+          "pt": 8,
+          "bg": 306,
+          "dk": 17,
+          "lt": 4,
+          "lu": 20,
+          "hr": 12,
+          "lv": 0,
+          "fr": 322,
+          "hu": 17,
+          "se": 204,
+          "si": 4,
+          "sk": 21,
+          "ie": 24,
+          "ee": 0,
+          "el": 120,
+          "mt": 0,
+          "it": 948,
+          "es": 231,
+          "at": 164,
+          "cy": 0,
+          "cz": 58,
+          "pl": 113,
+          "ro": 52,
+          "nl": 201,
+          "tr": 1403
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "ar"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "web_view_properties": {
+          "url": "https://sn.dramabox.com/db_land_page/DLLPS1050927.html?language=ar&timestamp=1756180749411&channelCode=DLLPS1050927&bid=41000120032&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&ad_group_name={{adSet.name}}&ad_group_id={{adSet.id}}&ad_id={{ad.id}}&ad_name={{creative.name}}"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad contains content that could be considered inappropriate, including nudity, sexual content, body objectification, sexually provocative behavior or sexually suggestive imagery. This may include obscuring heads or faces, or focus on particular parts of the body unrelated to the advertised product or service. We prohibit ads that depict nudity and sexual content and all forms of body objectification."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "5b0d83bc-4c1e-4137-bf06-7b1abd0714f6",
+        "name": "1169397-DX-xxy-jcx-ghl-短剧-EN-Pucked by My Brother’s Rival-新剧-all-视频-原剧情-1007-4\t",
+        "ad_account_name": "AppDramabox-dianzhong-2组-zxh-MH-ZT-app-01",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Pucked by My Brother’s Rival",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-10-10T07:01:50.000Z",
+        "impressions_total": 10400,
+        "impressions_map": {
+          "de": 725,
+          "be": 833,
+          "fi": 482,
+          "pt": 217,
+          "bg": 155,
+          "dk": 562,
+          "lt": 60,
+          "lu": 96,
+          "hr": 370,
+          "lv": 0,
+          "fr": 106,
+          "hu": 123,
+          "se": 1507,
+          "si": 235,
+          "sk": 20,
+          "ie": 970,
+          "ee": 0,
+          "el": 289,
+          "mt": 0,
+          "it": 319,
+          "es": 338,
+          "at": 183,
+          "cy": 0,
+          "cz": 76,
+          "pl": 171,
+          "ro": 457,
+          "nl": 1373,
+          "tr": 733
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "web_view_properties": {
+          "url": "https://sn.dramabox.com/db_land_page/DLLPS1051438.html?language=en&timestamp=1760079019209&channelCode=DLLPS1051438&bid=41000121351&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&ad_group_name={{adSet.name}}&ad_group_id={{adSet.id}}&ad_id={{ad.id}}&ad_name={{creative.name}}"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad contains content that could be considered inappropriate, including nudity, sexual content, body objectification, sexually provocative behavior or sexually suggestive imagery. This may include obscuring heads or faces, or focus on particular parts of the body unrelated to the advertised product or service. We prohibit ads that depict nudity and sexual content and all forms of body objectification."
+        ],
         "stickers": []
       }
     }

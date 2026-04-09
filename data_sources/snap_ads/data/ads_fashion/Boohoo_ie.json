@@ -1,27 +1,30 @@
 {
   "brand": "Boohoo",
   "country": "ie",
-  "fetched_at": "2026-04-09T00:36:26.931Z",
+  "fetched_at": "2026-04-09T12:17:56.692Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "cb610f4f-1331-4be0-8be8-061225e5a6c1",
-        "name": "Party Dec Video",
+        "id": "891e654a-826b-4846-a67b-3a523346f87d",
+        "name": "Jessessah",
         "ad_account_name": "IE boohooMAN",
         "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "en"
         ],
-        "headline": "Your Party Season Essentials",
-        "call_to_action": "SHOP_NOW",
+        "headline": "Shop New Season",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2023-08-07T14:38:25.000Z",
-        "impressions_total": 549427,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ifWRRfM3EK8q5XGpc9VAf.67?mo=GooCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBOAhDEjAKLgj4rkcgATDgAzjUBkABSg4KCUEOEBIXMSEcKBD0A1CwhgFoAnUmnmRAfQAAgD8iAhIAogE5CLoKEjAKLgiAxUogATDQBTiACkACSg4KCWcPDxQZKh8ZIRD0A1CwhgFoAnVmk3dAfQAAgD8iAhIAogE5CJIKEjAKLgiSvTEgATDgAzjUBkACSg4KCTEMDQ8UHRQUFxD0A1CwhgFoAnU3Y1RAfQAAgD8iAhIAogE5CNIKEjAKLgjhkS8gATDgAzjUBkACSg4KCT4KCg0RHhQQFxD0A1CwhgFoAnUw6GBAfQAAgD8iAhIAkAOwhgE%3D&uc=15",
+        "start_date": "2025-03-20T11:05:32.000Z",
+        "impressions_total": 31875,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -38,7 +41,81 @@
           "se": 0,
           "si": 0,
           "sk": 0,
-          "ie": 549427,
+          "ie": 31875,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "30",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "boohooMAN",
+        "profile_name": "boohooMAN",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.boohooman.com/ie/mens/promo?utm_medium=paidsocial&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a3324b9d-ee35-48d9-bb39-e4828746d9ab",
+        "name": "performance video",
+        "ad_account_name": "IE boohooMAN",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Active Core. Workout Ready",
+        "call_to_action": "VIEW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2023-08-07T14:38:25.000Z",
+        "impressions_total": 2580295,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 2580295,
           "ee": 0,
           "el": 0,
           "mt": 0,
@@ -81,21 +158,197 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "composite_preview": {
           "should_loop": true,
-          "title_headline": "Your Party Season Essentials",
+          "title_headline": "Active Core. Workout Ready",
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "Your Party Season Essentials",
-              "call_to_action": "SHOP_NOW",
+              "render_type": "STATIC",
+              "headline": "Active Core. Workout Ready",
+              "call_to_action": "VIEW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qcv77338bo14ltM3Szcoa.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjjyyEgATDgAzjUBkABSg4KCTwcHCkPEBoWFxD0A1CKUGgCdfz9MEAiBgoCSAMSAKIBPAi6ChIvCi0I-MsYIAEw0AU4gApAAkoOCgkxFxUhCwwQEA4Q9ANQilBoAnUIAz5AfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0Io_sTIAEw4AM41AZAAkoOCgkqFQ4UCgkNDA4Q9ANQilBoAnXTPSRAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IhIcTIAEw4AM41AZAAkoOCgkoEQ8ZCggNDQsQ9ANQilBoAnWyiTpAfQAAgD8iBgoCSAISAJADilA%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9yIFie8HDLaKDHla91Oiq.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQik9DkgATDgAzjUBkABSg4KCTEfHRslGD42KRD0A1DweWgCdU73GkB9AACAPyIGCgJIAhIAogE8CLoKEi8KLQiX8iUgATDQBTiACkACSg4KCSsWFBIcDhscHBD0A1DweWgCdQY7JkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQj40B8gATDgAzjUBkACSg4KCSQSDxMXDBwcGBD0A1DweWgCdczWHUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQidyxkgATDgAzjUBkACSg4KCSIPDQwUCRETExD0A1DweWgCdVhQJ0B9AACAPyIGCgJIAhIAkAPweQ%3D%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.boohooman.com/ie/mens/partywear?utm_medium=paidsocial&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+                "url": "https://www.boohooman.com/nl/categories/heren-sportkleding?utm_medium=paidsocial&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}"
               }
             }
           ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "787958ba-a30b-49df-8b1c-4856868c985d",
+        "name": "Trans Outfit Video",
+        "ad_account_name": "IE boohooMAN",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "New Season Just Landed",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2023-08-07T14:38:25.000Z",
+        "impressions_total": 3760201,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 3760201,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "os_version_min": "11.3",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "boohooMAN",
+        "profile_name": "boohooMAN",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "New Season Just Landed",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "New Season Just Landed",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vx2ifVQbkEWYDaSJiuxRD.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiJ1SAgATDgAzjUBkABSg4KCVM1M0U6Qx4hHxD0A1DCK2gCdWpWPEAiBgoCSAISAKIBNwi6ChIqCigIh_cTIAEwkAQ4qgdAAkoOCgkvFh4tJDMUFxAQ9ANQwitoAnVgUDFAIgYKAkgDEgCiATwIkgoSLwotCMrLFSABMOADONQGQAJKDgoJNhshNCkoFRkVEPQDUMIraAJ1DjAtQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCLP1EiABMOADONQGQAJKDgoJLhMcKyIxFBcNEPQDUMIraAJ1yQwzQH0AAIA_IgYKAkgCEgCQA8Ir&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.boohooman.com/nl/categories/boohooman-nieuw-binnen?utm_medium=paidsocial&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.headline}}"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "65315793-ea4b-4654-bcaf-75785092b199",
+        "name": " IE_UGC Tracksuits vid",
+        "ad_account_name": "IE boohooMAN",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Shop 50% Off Everything",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sTvRpixmoqCRzmuVysJAG.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIufxBIAFKDgoJRiItKCAeGh4bEPQDaAIiBgoCSAUSAKIBJwi6ChIaChgIuLE5IAFKDgoJRiAeIBsaFBkXEPQDaAIiBgoCSAISAKIBJgh_EhoKGAi8rCwgAUoOCgkyFh4aFxIUFBIQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAis-C0gAUoOCgkzFiAcFxMVFBMQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAj2hicgAUoOCgk2FRUXExEOEQ8Q9ANoAiIGCgJIAhIAkAOsdQ%3D%3D&uc=15",
+        "start_date": "2025-03-20T11:05:32.000Z",
+        "impressions_total": 972910,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 972910,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "30",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "boohooMAN",
+        "profile_name": "boohooMAN",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://boohooman.app.link/0p1SR4AdTRb?utm_id={{ad.id}}&utm_source=Snap&utm_campaign={{campaign.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -216,21 +469,19 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c508b26d-af3b-410b-8ba5-59d11fc8fe19",
-        "name": "Summer Nights Campaign Imagery",
+        "id": "52b7af7b-9f34-40db-b9c6-8f962355ba1c",
+        "name": "Yacht Club Flatlays",
         "ad_account_name": "IE boohooMAN",
         "status": "PAUSED",
         "creative_type": "COMPOSITE",
         "ad_type": "STORY",
         "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Summer Nights",
+        "languages": [],
+        "headline": "YACHT CLUB",
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2023-08-07T14:38:25.000Z",
-        "impressions_total": 528932,
+        "impressions_total": 33086,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -247,7 +498,7 @@
           "se": 0,
           "si": 0,
           "sk": 0,
-          "ie": 528932,
+          "ie": 33086,
           "ee": 0,
           "el": 0,
           "mt": 0,
@@ -291,43 +542,162 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "composite_preview": {
           "should_loop": true,
-          "title_headline": "Summer Nights",
+          "title_headline": "YACHT CLUB",
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Summer Nights",
+              "headline": "YACHT CLUB",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Yz7cWj3Z6FmU2KZ5vF5SE.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YbA46PVQhxJe89mdSDHkg.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
               "brand_name": "boohooMAN",
+              "web_view_preview": {
+                "url": "https://boohooman.app.link/rkRNS7oQbPb"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "YACHT CLUB",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vW8YYDLJH2q9rAJj6PrCh.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+              "brand_name": "boohooMAN",
+              "web_view_preview": {
+                "url": "https://boohooman.app.link/rkRNS7oQbPb"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "YACHT CLUB",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/jOKkvwqBXCOHFPrK9L8sY.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+              "brand_name": "boohooMAN",
+              "web_view_preview": {
+                "url": "https://boohooman.app.link/rkRNS7oQbPb"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "f7adee24-c430-4f37-9188-25c8f7a512c5",
+        "name": "Summer Streetwear Campaign Imagery",
+        "ad_account_name": "IE boohooMAN",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "SUMMER STREETWEAR ☀️",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2023-08-07T14:38:25.000Z",
+        "impressions_total": 143134,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 143134,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "os_version_min": "11.3",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "boohooMAN",
+        "profile_name": "boohooMAN",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "SUMMER STREETWEAR ☀️",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "SUMMER STREETWEAR ☀️",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/h2b1syv14i5u5MiU1dRyu.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+              "brand_name": "",
               "web_view_preview": {
                 "url": "https://boohooman.app.link/rkRNS7oQbPb?utm_id={{ad.id}}&utm_source=Snap&utm_campaign={{campaign.name}}"
               }
             },
             {
               "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Summer Nights",
+              "headline": "SUMMER STREETWEAR ☀️",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/z4LrsbqrzL05EV1eDOnHy.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-              "brand_name": "boohooMAN",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TL5HtLl3VjimwdlsXgjd5.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+              "brand_name": "",
               "web_view_preview": {
                 "url": "https://boohooman.app.link/rkRNS7oQbPb?utm_id={{ad.id}}&utm_source=Snap&utm_campaign={{campaign.name}}"
               }
             },
             {
               "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Summer Nights",
+              "headline": "SUMMER STREETWEAR ☀️",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KRoRA95bWKERzI3w8ohPZ.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-              "brand_name": "boohooMAN",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Coq7zgAPiGdUGF0f8SFLB.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+              "brand_name": "",
               "web_view_preview": {
                 "url": "https://boohooman.app.link/rkRNS7oQbPb?utm_id={{ad.id}}&utm_source=Snap&utm_campaign={{campaign.name}}"
               }
@@ -342,8 +712,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "420c1efa-c215-4a59-bfc0-ff0d01ce3868",
-        "name": "Paris",
+        "id": "ba2edd14-15c8-440e-98f9-f6d98923568f",
+        "name": "IE_UGC PICS",
         "ad_account_name": "IE boohooMAN",
         "status": "PAUSED",
         "creative_type": "COMPOSITE",
@@ -352,11 +722,11 @@
         "languages": [
           "en"
         ],
-        "headline": "End Of Season Sale",
+        "headline": "Shop 50% Off Everything",
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2023-08-07T14:38:25.000Z",
-        "impressions_total": 1397337,
+        "start_date": "2025-03-20T11:05:32.000Z",
+        "impressions_total": 147530,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -373,7 +743,7 @@
           "se": 0,
           "si": 0,
           "sk": 0,
-          "ie": 1397337,
+          "ie": 147530,
           "ee": 0,
           "el": 0,
           "mt": 0,
@@ -392,7 +762,7 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "35",
+              "max_age": "30",
               "age_groups": [],
               "gender": "MALE",
               "languages": [],
@@ -400,526 +770,49 @@
               "advanced_demographics": []
             }
           ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "11.3",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
+          "devices": []
         },
         "paying_advertiser_name": "boohooMAN",
+        "brand_name": "boohooMAN",
         "profile_name": "boohooMAN",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "composite_preview": {
           "should_loop": true,
-          "title_headline": "End Of Season Sale",
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "End Of Season Sale",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tQEyqxiQABYMx2cgW69xu.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi_6isgATDgAzjUBkABSg4KCWBBIU4iQxE7FhD0A1D8Q2gCdcmdi0AiBgoCSAMSAKIBNwi6ChIqCigI1tkxIAEw0AU4gApAAkoOCgl4RCZWJ04WPhoQ9ANQ_ENoAnWEN5FAIgYKAkgDEgCiATwIkgoSLwotCPG5HSABMOADONQGQAJKDgoJSikXLxMsDCAREPQDUPxDaAJ1NkB_QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCKLiISABMOADONQGQAJKDgoJUi8bOBYwEisSEPQDUPxDaAJ1SsWJQH0AAIA_IgYKAkgCEgCQA_xD&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.boohooman.com/ie/categories/boohooman-new-season?utm_medium=paidsocial&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a3324b9d-ee35-48d9-bb39-e4828746d9ab",
-        "name": "performance video",
-        "ad_account_name": "IE boohooMAN",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Active Core. Workout Ready",
-        "call_to_action": "VIEW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2023-08-07T14:38:25.000Z",
-        "impressions_total": 2580295,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 2580295,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "11.3",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "boohooMAN",
-        "profile_name": "boohooMAN",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Active Core. Workout Ready",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Active Core. Workout Ready",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9yIFie8HDLaKDHla91Oiq.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQik9DkgATDgAzjUBkABSg4KCTEfHRslGD42KRD0A1DweWgCdU73GkB9AACAPyIGCgJIAhIAogE8CLoKEi8KLQiX8iUgATDQBTiACkACSg4KCSsWFBIcDhscHBD0A1DweWgCdQY7JkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQj40B8gATDgAzjUBkACSg4KCSQSDxMXDBwcGBD0A1DweWgCdczWHUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQidyxkgATDgAzjUBkACSg4KCSIPDQwUCRETExD0A1DweWgCdVhQJ0B9AACAPyIGCgJIAhIAkAPweQ%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.boohooman.com/nl/categories/heren-sportkleding?utm_medium=paidsocial&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "17f3b22e-1c22-4e43-82d9-0572a82bc327",
-        "name": "BF New Design",
-        "ad_account_name": "IE boohooMAN",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Black Friday Sale",
-        "call_to_action": "VIEW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2023-08-07T14:38:25.000Z",
-        "impressions_total": 1847758,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 1847758,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "11.3",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "boohooMAN",
-        "profile_name": "boohooMAN",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Black Friday Sale",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Black Friday Sale",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nRIYg1uIQHKJId5EJAnPv.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.boohooman.com/ie/mens/new-in?utm_medium=paidsocial&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "bdcb4a0f-e750-4233-bcd8-31cc8210e994",
-        "name": "Cyber Static",
-        "ad_account_name": "IE boohooMAN",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Cyber Sale",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2023-08-07T14:38:25.000Z",
-        "impressions_total": 654278,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 654278,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "11.3",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "boohooMAN",
-        "profile_name": "boohooMAN",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Cyber Sale",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Cyber Sale",
+              "headline": "Shop 50% Off Everything",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZgaJQSruiq5JoudSL8Ncl.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oQH3MYyJDYhBCbrX1JeXw.385?mo=GjsaFDIBBDoBfUIGCJuD8L4GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCIEDIgISAA%3D%3D&uc=15",
+              "brand_name": "boohooMAN",
               "web_view_preview": {
-                "url": "https://www.boohooman.com/ie/mens/new-in?utm_medium=paidsocial&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+                "url": "https://boohooman.app.link/0p1SR4AdTRb?utm_id={{ad.id}}&utm_source=Snap&utm_campaign={{campaign.name}}"
               }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d94ed07c-b39a-42e8-983a-2becb6a34923",
-        "name": "Denim",
-        "ad_account_name": "IE boohooMAN",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en",
-          "fr"
-        ],
-        "headline": "Trending: Denim",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2023-08-07T14:38:25.000Z",
-        "impressions_total": 975472,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 975472,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "11.3",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "boohooMAN",
-        "profile_name": "boohooMAN",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Trending: Denim",
-          "ad_snaps": [
+            },
             {
               "type": "WEB_VIEW",
-              "headline": "Trending: Denim",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MrQezYuldNgHR2pJ8nSDe.67?mo=GpQCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwiRoUogATDgAzjUBkABShEKDJUBfVuGAV5oPIQBVhD0A1CuOmgCdU21WEAiBgoCSAISAKIBPQi6ChIwCi4IoI05IAEw0AU4gApAAkoPCgqKAUdTXUxsSX4mEPQDUK46aAJ1YUNqQH0AAIA_IgYKAkgDEgCiATwIkgoSLwotCO3ANCABMOADONQGQAJKDgoJeWJXcDJGNz89EPQDUK46aAJ1RFhMQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCMzWJCABMOADONQGQAJKDgoJWTEyOCg9LGMZEPQDUK46aAJ11iRcQH0AAIA_IgYKAkgCEgCQA646&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.boohooman.com/ie/categories/mens-jeans?utm_medium=paidsocial&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c5c53d94-6244-4aec-8aa5-899d5c9adf64",
-        "name": "Party Dec Image",
-        "ad_account_name": "IE boohooMAN",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Your Party Season Essentials",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2023-08-07T14:38:25.000Z",
-        "impressions_total": 5975146,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 5975146,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "11.3",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "boohooMAN",
-        "profile_name": "boohooMAN",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Your Party Season Essentials",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Your Party Season Essentials",
+              "headline": "Shop 50% Off Everything",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fqnTsMoAvmgE7XFOM5GwC.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/2gTtUvR0xGhmsddA1IkHe.385?mo=GjsaFDIBBDoBfUIGCKuD8L4GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCIEDIgISAA%3D%3D&uc=15",
+              "brand_name": "boohooMAN",
               "web_view_preview": {
-                "url": "https://www.boohooman.com/ie/mens/partywear?utm_medium=paidsocial&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+                "url": "https://boohooman.app.link/0p1SR4AdTRb?utm_id={{ad.id}}&utm_source=Snap&utm_campaign={{campaign.name}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "Shop 50% Off Everything",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/c43QprSWPkjk1fKg5wjg6.385?mo=GjsaFDIBBDoBfUIGCPyC8L4GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCIEDIgISAA%3D%3D&uc=15",
+              "brand_name": "boohooMAN",
+              "web_view_preview": {
+                "url": "https://boohooman.app.link/0p1SR4AdTRb?utm_id={{ad.id}}&utm_source=Snap&utm_campaign={{campaign.name}}"
               }
             }
           ]
@@ -932,8 +825,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "787958ba-a30b-49df-8b1c-4856868c985d",
-        "name": "Trans Outfit Video",
+        "id": "d7abe28e-739f-4e4e-9d43-c9173aa8075d",
+        "name": "BF Tape",
         "ad_account_name": "IE boohooMAN",
         "status": "PAUSED",
         "creative_type": "COMPOSITE",
@@ -942,11 +835,11 @@
         "languages": [
           "en"
         ],
-        "headline": "New Season Just Landed",
+        "headline": "Black Friday Starts Now",
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2023-08-07T14:38:25.000Z",
-        "impressions_total": 3760201,
+        "impressions_total": 83684,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -963,7 +856,7 @@
           "se": 0,
           "si": 0,
           "sk": 0,
-          "ie": 3760201,
+          "ie": 83684,
           "ee": 0,
           "el": 0,
           "mt": 0,
@@ -1006,22 +899,489 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "composite_preview": {
           "should_loop": true,
-          "title_headline": "New Season Just Landed",
+          "title_headline": "Black Friday Starts Now",
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "New Season Just Landed",
+              "headline": "Black Friday Starts Now",
               "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
+              "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vx2ifVQbkEWYDaSJiuxRD.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiJ1SAgATDgAzjUBkABSg4KCVM1M0U6Qx4hHxD0A1DCK2gCdWpWPEAiBgoCSAISAKIBNwi6ChIqCigIh_cTIAEwkAQ4qgdAAkoOCgkvFh4tJDMUFxAQ9ANQwitoAnVgUDFAIgYKAkgDEgCiATwIkgoSLwotCMrLFSABMOADONQGQAJKDgoJNhshNCkoFRkVEPQDUMIraAJ1DjAtQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCLP1EiABMOADONQGQAJKDgoJLhMcKyIxFBcNEPQDUMIraAJ1yQwzQH0AAIA_IgYKAkgCEgCQA8Ir&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LPO2hrJWuZukF4H10L8Mt.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.boohooman.com/nl/categories/boohooman-nieuw-binnen?utm_medium=paidsocial&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.headline}}"
+                "url": "https://www.boohooman.com/ie/mens/promo?utm_medium=paidsocial&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}"
               }
             }
           ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b13a5fa8-a1a6-493b-ba8f-e1c5f887e872",
+        "name": "IE_RTG_Collection",
+        "ad_account_name": "IE boohooMAN",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "New Season, Up to 50% off!",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2024-03-01T11:07:53.000Z",
+        "impressions_total": 397488,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 397488,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "boohooMAN",
+        "brand_name": "boohooMAN",
+        "profile_name": "boohooMAN",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTNNZ1VUeHBCa2o0ZmN0SGQzMklaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "collection_preview": {
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/Lk0Y136d0hJVHBqDiOa5n.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ud0TQlEj71OqOhKhaEAWV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6e9f74e0-c082-4699-852d-41dcb2cbe7c3"
+                  ]
+                }
+              ],
+              "description": "Straight leg design offers a relaxed silhouette that balances comfort with contemporary style Soft brushback fabric provides warmth and comfort for everyday wear Ribbed cuffs create a defined finish that keeps the shape structured Classic jogger waistband ensures a secure fit throughout the day Versatile straight cut makes these joggers suitable for both lounging and casual outings These boohooMAN straight leg joggers deliver the perfect balance of comfort and urban style for your casual wardrobe. The relaxed straight leg silhouette offers a contemporary alternative to tapered styles, creating a clean-lined look that works brilliantly with trainers and a simple tee for everyday wear. Layer with an oversized hoodie or sweatshirt during cooler months, or pair with a fitted t-shirt and bomber jacket for an effortless street-ready ensemble. These joggers transition seamlessly from morning coffee runs to casual meet-ups with mates, making them an essential for your off-duty rotation. For a coordinated look, team with other boohooMAN basics in complementary tones. The straight leg design offers a modern aesthetic while maintaining the comfort you expect from your favourite joggers. | Basic Straight Leg Jogger | Grey Marl | Size Small",
+              "brand": "BOOHOOMAN",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Grey Marl"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Clothing > Joggers > Basic Joggers"
+              ],
+              "size": "S",
+              "title": "Basic Straight Leg Jogger | Grey Marl | Size Small",
+              "link": "https://www.boohooman.com/ie/product/boohooman-basic-straight-leg-jogger_cmm23346?colour=grey%20marl&size=S"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/M2RUzm3dDokvfeAFL9Ljr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/XEpE0wOzqJHrcVjJJ3f81.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6e9f74e0-c082-4699-852d-41dcb2cbe7c3"
+                  ]
+                }
+              ],
+              "description": "Have you 'checked' out our tartan suits? Nothing says 'check me out' like a checked suit, so bring out your daring side by rocking a matching tartan blazer and trouser combo at your next big function. If it's in the office, tone it down with a crisp white shirt and matching neutral tie; on the other hand, if it's a seriously swanky affair, throw in a matching waistcoat for good measure. Colour wise light greys, camel and baby blue shades are great for summer while traditional tartan shades like dark greens, blues and reds make fun end-of-year-party themes. Just make sure you've got a neutral shirt or two to complement it, and your statement suit of the season is good to go. Style: Suit Jacket Design: Check Fabric: Polyester Detail: Plain Length: Regular Neckline: Notch Lapel Sleeve Length: Long Sleeve | Single Breasted Slim Check Suit Jacket | Black | Size 36",
+              "brand": "BOOHOOMAN",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Black"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Clothing > Jackets & Coats > Suit Jackets"
+              ],
+              "size": "36",
+              "title": "Single Breasted Slim Check Suit Jacket | Black | Size 36",
+              "link": "https://www.boohooman.com/ie/product/boohooman-single-breasted-slim-check-suit-jacket_cmm12830?colour=black&size=36"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/tweGs9IT4uNlfWC0Ool59.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/4W8Ug4VCr3UVAwXRlv68p.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6e9f74e0-c082-4699-852d-41dcb2cbe7c3"
+                  ]
+                }
+              ],
+              "description": "Tall t-shirts for every style and occasion. A good t-shirt is the ultimate wardrobe all-rounder, and we're here to tell you that tall guys shouldn't have to miss out. We've got a giant (pun intended) collection of plain and printed tall t-shirts and vests for the more statuesque among us, so you'll find one or two for every situation. Choose a few bold prints you can pair with our tall jeans or tracksuits for casual day wear, or match block colours with a tailored blazer and tall suit trousers if you're going for modern professional. Customise your look with zips, pockets, hoodies and collars and you're good to go, rocking your unique style. Style: Printed T-Shirt Design: Western Fabric: Bci Cotton Detail: Front & Back Placement Length: Regular Neckline: Extended Neck Sleeve Length: Short Sleeve | Tall Oversized Extended Neck Western Print T-Shirt | White | Size XL",
+              "brand": "BOOHOOMAN",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "White"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Clothing > T-Shirts > Printed T-Shirts"
+              ],
+              "size": "XL",
+              "title": "Tall Oversized Extended Neck Western Print T-Shirt | White | Size XL",
+              "link": "https://www.boohooman.com/ie/product/boohooman-tall-oversized-extended-neck-western-print-t-shirt_cmm15270?colour=white&size=XL"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/PKAV7HnbdkbrZoteULEuW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/lRyvkBWManliRd4BPJVTk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6e9f74e0-c082-4699-852d-41dcb2cbe7c3"
+                  ]
+                }
+              ],
+              "description": "Heavyweight jersey construction for durability and structure Oversized boxy silhouette creates a contemporary streetwear aesthetic Embossed BM logo detail adds subtle branded flair Relaxed dropped shoulders enhance the casual, laid-back look Ribbed crew neckline maintains shape wear after wear Make a statement with this oversized boxy t-shirt from boohooMAN, designed with urban style at its core. The heavyweight jersey fabric offers substantial feel and excellent drape, while the embossed BM detailing provides understated brand recognition. Perfect for creating effortless street-ready looks, pair with cargo trousers and chunky trainers for daytime casual wear, or layer under an open shirt with slim jeans for evening socials. The relaxed fit works brilliantly with both baggy and fitted bottoms, making it a versatile wardrobe essential. For cooler days, layer under a bomber jacket or oversized hoodie to maintain the contemporary silhouette. This t-shirt transitions seamlessly from casual hangouts to Valentine's date nights when styled thoughtfully - a true cornerstone of modern menswear. | Oversized Boxy Heavyweight BM Embossed T-Shirt | White | Size Medium",
+              "brand": "BOOHOOMAN",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "White"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Clothing > T-Shirts > Plain T-Shirts"
+              ],
+              "size": "M",
+              "title": "Oversized Boxy Heavyweight BM Embossed T-Shirt | White | Size Medium",
+              "link": "https://www.boohooman.com/ie/product/boohooman-oversized-boxy-heavyweight-bm-embossed-t-shirt_cmm22436?colour=white&size=M"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/tn5LO6VpExgLyssp24wqp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/67f5P8s9aakonqnW42IoG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6e9f74e0-c082-4699-852d-41dcb2cbe7c3"
+                  ]
+                }
+              ],
+              "description": "Regular fit overshirt crafted from textured marl scuba fabric for added dimension Revere collar design creates a relaxed, open neckline perfect for layering Versatile piece that works as both a lightweight jacket or statement shirt Part of the distinctive MAN Branded collection for contemporary urban style Subtle stretch content ensures comfort and ease of movement throughout the day This regular fit scuba marl overshirt bridges the gap between casual shirt and lightweight jacket, making it an essential transitional piece for your wardrobe. The textured marl fabric adds visual interest while the revere collar creates a laid-back vibe that's perfect for everyday wear. Style it unbuttoned over a plain t-shirt with slim jeans and trainers for an effortless weekend look, or button it up and pair with chinos for casual gatherings. The versatile design works equally well layered under a bomber jacket when temperatures drop. For a contemporary urban aesthetic, team with cargo trousers and chunky boots. The regular fit provides a comfortable silhouette that's relaxed without appearing oversized, making this overshirt a go-to piece for casual occasions from pub lunches to family gatherings. | Regular Fit Scuba Marl Overshirt | Grey Marl | Size Small",
+              "brand": "BOOHOOMAN",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Grey Marl"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Clothing > Shirts > Long Sleeve Shirts"
+              ],
+              "size": "S",
+              "title": "Regular Fit Scuba Marl Overshirt | Grey Marl | Size Small",
+              "link": "https://www.boohooman.com/ie/product/boohooman-regular-fit-scuba-marl-overshirt_cmm22737?colour=grey%20marl&size=S"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/1OmzvBNzdBBjjAoa1fJME.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/f1bmHJZpG0HXEZhPtFSuA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6e9f74e0-c082-4699-852d-41dcb2cbe7c3"
+                  ]
+                }
+              ],
+              "description": "Designed specifically for taller frames with an oversized, boxy silhouette that creates a relaxed, contemporary look Half-sleeve design perfect for warmer days, featuring distinctive French Riviera embroidery that adds character Classic revere collar that can be worn open or buttoned for versatile styling options Made from breathable cotton poplin fabric that offers comfort and durability for all-day wear Part of the exclusive MAN Branded collection, designed with current urban trends in mind Channel effortless holiday vibes with this Tall Oversized Boxy French Riviera Embroidered Shirt. The relaxed fit creates a laid-back silhouette that works brilliantly for casual occasions whilst the distinctive embroidery adds a touch of continental flair. Style with chino shorts and trainers for family barbecues or weekend brunches. For cooler evenings, layer over a plain t-shirt and pair with relaxed fit jeans and canvas trainers. The cotton poplin fabric ensures breathability during warmer weather, making it ideal for summer gatherings or city breaks. This versatile piece transitions seamlessly from daytime casual to evening drinks - simply add tailored trousers and loafers for a more refined approach. The half-sleeve design strikes the perfect balance between casual and considered, making this shirt a standout addition to your warm-weather wardrobe. | Tall Oversized Boxy French Riviera Embroidered Half Sleeve Shirt | White | Size 2XL",
+              "brand": "BOOHOOMAN",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "White"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Clothing > Shirts > Printed Shirts"
+              ],
+              "size": "2XL",
+              "title": "Tall Oversized Boxy French Riviera Embroidered Half Sleeve Shirt | White | Size 2XL",
+              "link": "https://www.boohooman.com/ie/product/boohooman-tall-oversized-boxy-french-riviera-embroidered-half-sleeve-shirt_cmm25140?colour=white&size=2XL"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/TXQ1gjBJn48jf8WpxoZ9W.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/0b1FbnTqvchr8mh1Co3k6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6e9f74e0-c082-4699-852d-41dcb2cbe7c3"
+                  ]
+                }
+              ],
+              "description": "Wide leg design creates a contemporary silhouette with maximum comfort Decorative embellishments add distinctive character to these formal trousers Integrated belt detail defines the waist for a structured look High-rise waistband enhances the elongated leg effect Tailored construction ensures a refined drape that maintains shape throughout wear Make a bold statement at your next formal occasion with these embellished wide leg trousers from boohooMAN. The contemporary wide leg cut creates a striking silhouette that commands attention, whilst the embellished detailing adds a touch of individuality to traditional tailoring. Style with the matching suit jacket for a coordinated ensemble, or pair with a crisp button-down shirt and loafers for a more relaxed interpretation of formal dressing. These trousers transition effortlessly from daytime events to evening functions - wear to weddings, graduation ceremonies or race day with confidence. The belted waist not only provides a customised fit but also creates a focal point that enhances your overall look. For cooler weather, layer with a lightweight knit or waistcoat to maintain the sophisticated aesthetic whilst adding warmth. | Embellished Belted Wide Leg Suit Trousers | Black | Size 28",
+              "brand": "BOOHOOMAN",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Black"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Clothing > Trousers > Suit Trousers"
+              ],
+              "size": "28",
+              "title": "Embellished Belted Wide Leg Suit Trousers | Black | Size 28",
+              "link": "https://www.boohooman.com/ie/product/boohooman-embellished-belted-wide-leg-suit-trousers_cmm22632?colour=black&size=28"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/zRMBHg9qRqYPxQ1Xnt2lH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/b3DthWhjbCrShhUpB1atw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6e9f74e0-c082-4699-852d-41dcb2cbe7c3"
+                  ]
+                }
+              ],
+              "description": "If it's comfort that you're looking for in men's holiday fashion, pick a pair of shorts. You haven't been skipping leg day, have you? No, we know you wouldn't. All the better as you'll want to sport some of our stylish denim shorts, chino shorts, jersey shorts or cargo shorts. If you're looking for new outfit ideas for this summer, consider pairing a horizontal striped t-shirt with jean shorts, or opt for a printed shirt and chino shorts for a smarter combo. Round off with a pair of sliders or loafers, for extra style points. Style: Plain Shorts Design: Colour Block Fabric: Nylon Detail: Plain | Elasticated Waist Relaxed Fit Colour Block Nylon Short | Yellow | Size Medium",
+              "brand": "BOOHOOMAN",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Yellow"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Clothing > Shorts > Plain Shorts"
+              ],
+              "size": "M",
+              "title": "Elasticated Waist Relaxed Fit Colour Block Nylon Short | Yellow | Size Medium",
+              "link": "https://www.boohooman.com/ie/product/boohooman-elasticated-waist-relaxed-fit-colour-block-nylon-short_cmm04958?colour=yellow&size=M"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/z3ylUHFgNAvPypWk79Hyl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/lH9VBi5eaoGGe7Pjoqi0C.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6e9f74e0-c082-4699-852d-41dcb2cbe7c3"
+                  ]
+                }
+              ],
+              "description": "Oversized fit for maximum comfort and contemporary street style appeal Bold ' No Days Off' motivational slogan across the chest for workout inspiration Soft jersey fabric that allows unrestricted movement during training sessions Ribbed crew neckline that maintains its shape wear after wear Dropped shoulders creating that coveted relaxed silhouette Make a statement both in and out of the gym with this MAN Active oversized t-shirt. The relaxed fit offers the perfect balance of comfort and style for those high-intensity training sessions, whilst the motivational slogan serves as a constant reminder of your fitness goals. Pair with matching boohooMAN joggers and trainers for a coordinated gym look, or style with slim-fit jeans and fresh white trainers for casual weekend outings. The versatile jersey fabric ensures you stay comfortable whether you're smashing a personal best or grabbing post-workout refreshments. This t-shirt transitions effortlessly from workout essential to off-duty staple, making it a must-have addition to your activewear collection. Perfect for layering under a lightweight jacket when the temperature drops. | MAN Active No Days Off Oversized T-Shirt | Black | Size XS",
+              "brand": "BOOHOOMAN",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Black"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Clothing > T-Shirts > Printed T-Shirts"
+              ],
+              "size": "XS",
+              "title": "MAN Active No Days Off Oversized T-Shirt | Black | Size XS",
+              "link": "https://www.boohooman.com/ie/product/boohooman-man-active-no-days-off-oversized-t-shirt_cmm23271?colour=black&size=XS"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ejHKS01tlX4BOUo19q8t1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/m87W9BsAmqSlkwoJzTpIY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6e9f74e0-c082-4699-852d-41dcb2cbe7c3"
+                  ]
+                }
+              ],
+              "description": "Crafted from 100% cotton denim with a distinctive washed finish for that lived-in look Oversized boxy fit designed specifically for tall frames, offering extra length in the body and sleeves Full zip-through front with metal hardware for easy layering options Spacious hood adds urban edge and practical weather protection Part of the exclusive boohooMAN branded collection, featuring subtle brand detailing This washed denim zip-up hoodie brings together rugged texture and street-ready style in one versatile piece. The oversized boxy silhouette creates a relaxed shape that's perfect for casual layering - try it over a simple white tee with cargo trousers for an effortless weekend look. The denim construction offers more structure than traditional jersey hoodies, making it a standout alternative in your casual rotation. Ideal for transitional weather, this piece works brilliantly for laid-back social gatherings, weekend errands or casual meet-ups. For cooler evenings, layer under an unstructured overcoat with trainers to maintain the urban aesthetic. The tall fit ensures proper coverage and proportion, designed specifically to complement longer frames while delivering on contemporary streetwear style. | Tall Washed Denim Zip Up Hoodie | Mocha | Size Medium",
+              "brand": "BOOHOOMAN",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Mocha"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Clothing > Hoodies & Sweatshirts > Hoodies"
+              ],
+              "size": "M",
+              "title": "Tall Washed Denim Zip Up Hoodie | Mocha | Size Medium",
+              "link": "https://www.boohooman.com/ie/product/boohooman-tall-washed-denim-zip-up-hoodie_cmm22776?colour=mocha&size=M"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "IE_RTG_Collection_4",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "AUTOMATIC",
+            "text_fields": [
+              "title",
+              "salePrice"
+            ]
+          },
+          "vertical": "COMMERCE"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

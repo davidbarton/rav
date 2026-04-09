@@ -1,30 +1,19 @@
 # Ravineo x Snapchat Project
 
-- For developers reading this, jump to section bellow ["How to run this code"](#how-to-run-this-code)
+- For developers reading this, jump to section below ["How to run this code"](#how-to-run-this-code)
 - For AI Agents reading this, you will find lots of context inside the `./agents/` directory.
 
 ## Research we conducted
 
-- Ads data related research is available inside [research/ads_data_overview.md](./research/ads_data_overview.md)
-  - 7 distinct Snapchat data sources mapped and tested hands-on, each with auth requirements, scope, and current status
-  - Paid ads: what's available via EU Ad Library (impressions, targeting, creatives, landing pages) and the rate-limit/proxy challenges to get it
-  - Organic commercial content: creator ↔ sponsor relationships, content types, how to crawl it, pagination and expiry gotchas
-  - Political ads: bulk download with real spend data, targeting breakdowns, and advertiser transparency chains
-  - Platform moderation data: enforcement volumes by policy, EU member state breakdowns, ads moderation, plus PDF risk assessments and audits
+Hands-on map of Snapchat data sources (APIs, scraping, transparency, governance): **[RESEARCH.md](./RESEARCH.md)**.
+
+It walks through **14** surfaces we actually exercised — what works without auth, what needs a partner or proxy, and concrete request shapes and fields where it matters. Start with the TL;DR table, then drop into any numbered section for the full notes.
 
 ## Sample data available
 
-All data lives in a single DuckDB database at `db/rav.db` (rebuild: `duckdb db/rav.db < db/init.sql`). Open it with [Beekeeper Studio](https://www.beekeeperstudio.io/) for easy visual exploration. 20 tables total:
+Full inventory of every table, file, and fetcher: **[DATA_SAMPLES.md](./DATA_SAMPLES.md)**.
 
-| Source | Key tables | Rows | What |
-| --- | --- | --- | --- |
-| 1. Ads Gallery API | `brand_ads_fashion` | 917 | Paid EU ads — impressions, targeting, creatives |
-| 2. Sponsored Content API | `sponsored_content` | 234k | Creator ↔ sponsor mappings, content URLs |
-| 3. Political Ads Library | `political_ads` | 74.6k | Spend, impressions, targeting across 54 countries (2018–2026) |
-| 6. DSA Transparency — EU | `eu_dsa_*` (9 tables) | 3.3k | Member state orders, notices, enforcement, appeals, AMAR |
-| 6. DSA Transparency — Global | `global_*` (8 tables) | 72 | Enforcements, user reports, proactive detection, ads moderation |
-
-PDF reports (risk assessments, audits): [`data_sources/transparency_reports/data/pdf/`](data_sources/transparency_reports/data/pdf/)
+Quick summary: **27 DuckDB tables** (`db/rav.db`) covering paid ads, sponsored content, political ads, creator profiles, spotlight videos, explore discovery, Snap DSA transparency reports, and **EC DSA Snapchat statements of reasons** (`dsa_snapchat_sor`). Plus daily SOR CSVs on disk and 8 PDF governance reports. Open DuckDB with [Beekeeper Studio](https://www.beekeeperstudio.io/) for visual exploration.
 
 ## How to run this code
 
@@ -53,6 +42,25 @@ npm run fetch:ads          # Ads Gallery crawl (paid EU ads)
 npm run fetch:sponsored    # Sponsored content crawl (organic branded)
 npm run fetch:political    # Political ads bulk download
 npm run stats:sponsored    # Print sponsored crawl progress stats
+
+cd data_sources/snap_profiles && npm install
+npx tsx src/fetch_profiles.ts          # Brand profile scrape (all 216 brands)
+npx tsx src/fetch_profiles.ts --limit 3  # Test with 3 brands
+npx tsx src/fetch_profiles.ts --status   # Print progress matrix
+
+cd data_sources/snap_explore && npm install
+npx tsx src/fetch_explore.ts           # Explore discovery (128 fashion & beauty keywords)
+npx tsx src/fetch_explore.ts --limit 5   # Test with 5 keywords
+npx tsx src/fetch_explore.ts --status    # Print progress dashboard
+npx tsx src/fetch_explore.ts --discovered # Also crawl auto-discovered topic keywords
+
+cd data_sources/snap_spotlights && npm install
+npx tsx src/fetch_spotlights.ts          # Spotlight pages (108 sample URLs)
+npx tsx src/fetch_spotlights.ts --status # Print progress
+
+cd data_sources/dsa_transparency && npm install
+npx tsx src/fetch_sor.ts --status        # Show downloaded EC DSA SOR days
+npx tsx src/fetch_sor.ts --days 30       # Download last 30 days of Snapchat SORs
 ```
 
 ### Prototype UI
@@ -68,7 +76,7 @@ cd app && npm start        # start local server
 Raw JSON/CSV stays on disk; DuckDB loads it into native tables in a single database.
 
 ```bash
-duckdb db/rav.db < db/init.sql   # rebuild all 20 tables
+duckdb db/rav.db < db/init.sql   # rebuild all 27 tables
 duckdb db/rav.db                 # interactive queries
 ```
 

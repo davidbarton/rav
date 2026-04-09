@@ -178,6 +178,277 @@ FROM read_csv_auto(
 );
 
 -- ──────────────────────────────────────────────
+-- Brand Public Profiles (Snapchat web scrape)
+-- Source: fetch_profiles.ts → data/profiles/{Brand}.json
+-- Each file: { brand, username, fetched_at, pageProps: { userProfile, spotlightStoryMetadata, ... } }
+-- Two tables: brand_profiles (one row per brand) and brand_profile_spotlights (one row per video).
+-- ──────────────────────────────────────────────
+
+DROP TABLE IF EXISTS brand_profile_spotlights;
+DROP TABLE IF EXISTS brand_profiles;
+
+CREATE TABLE brand_profiles AS
+WITH raw AS (
+    SELECT *
+    FROM read_json_auto(
+        rav_path('data_sources/snap_profiles/data/profiles/*.json'),
+        filename = true,
+        union_by_name = true
+    )
+    WHERE brand IS NOT NULL
+)
+SELECT
+    brand,
+    username,
+    fetched_at,
+    pageProps.userProfile.publicProfileInfo.title                   AS title,
+    TRY_CAST(pageProps.userProfile.publicProfileInfo.subscriberCount AS BIGINT) AS subscriber_count,
+    pageProps.userProfile.publicProfileInfo.bio                     AS bio,
+    pageProps.userProfile.publicProfileInfo.websiteUrl              AS website_url,
+    pageProps.userProfile.publicProfileInfo.address                 AS address,
+    pageProps.userProfile.publicProfileInfo.badge                   AS badge,
+    pageProps.userProfile.publicProfileInfo.categoryStringId        AS category,
+    pageProps.userProfile.publicProfileInfo.subcategoryStringId     AS subcategory,
+    pageProps.userProfile.publicProfileInfo.businessProfileId       AS business_profile_id,
+    pageProps.userProfile.publicProfileInfo.profilePictureUrl       AS profile_picture_url,
+    pageProps.userProfile.publicProfileInfo.snapcodeImageUrl        AS snapcode_url,
+    pageProps.userProfile.publicProfileInfo.squareHeroImageUrl      AS hero_image_url,
+    pageProps.userProfile.publicProfileInfo.hasStory                AS has_story,
+    pageProps.userProfile.publicProfileInfo.hasCuratedHighlights    AS has_curated_highlights,
+    pageProps.userProfile.publicProfileInfo.hasSpotlightHighlights  AS has_spotlight_highlights,
+    CASE WHEN pageProps.userProfile.publicProfileInfo.creationTimestampMs.value IS NOT NULL
+         THEN epoch_ms(TRY_CAST(pageProps.userProfile.publicProfileInfo.creationTimestampMs.value AS BIGINT))
+    END AS profile_created_at,
+    CASE WHEN pageProps.userProfile.publicProfileInfo.lastUpdateTimestampMs.value IS NOT NULL
+         THEN epoch_ms(TRY_CAST(pageProps.userProfile.publicProfileInfo.lastUpdateTimestampMs.value AS BIGINT))
+    END AS profile_updated_at,
+    len(pageProps.spotlightStoryMetadata)                          AS spotlight_count,
+    filename                                                       AS source_file
+FROM raw;
+
+CREATE TABLE brand_profile_spotlights AS
+WITH raw AS (
+    SELECT *
+    FROM read_json_auto(
+        rav_path('data_sources/snap_profiles/data/profiles/*.json'),
+        filename = true,
+        union_by_name = true
+    )
+    WHERE brand IS NOT NULL
+      AND len(pageProps.spotlightStoryMetadata) > 0
+)
+SELECT
+    brand,
+    username,
+    s.videoMetadata.thumbnailUrl                                   AS thumbnail_url,
+    s.videoMetadata.contentUrl                                     AS content_url,
+    CASE WHEN s.videoMetadata.uploadDateMs IS NOT NULL
+         THEN epoch_ms(TRY_CAST(s.videoMetadata.uploadDateMs AS BIGINT))
+    END                                                            AS uploaded_at,
+    TRY_CAST(s.videoMetadata.durationMs AS INT)                    AS duration_ms,
+    s.videoMetadata.width                                          AS width,
+    s.videoMetadata.height                                         AS height,
+    TRY_CAST(s.engagementStats.viewCount AS BIGINT)                AS view_count,
+    TRY_CAST(s.engagementStats.shareCount AS BIGINT)               AS share_count,
+    TRY_CAST(s.engagementStats.commentCount AS BIGINT)             AS comment_count,
+    TRY_CAST(s.engagementStats.boostCount AS BIGINT)               AS boost_count,
+    TRY_CAST(s.engagementStats.recommendCount AS BIGINT)           AS recommend_count,
+    s.llmTitle                                                     AS llm_title,
+    s.llmDescription                                               AS llm_description,
+    s.llmKeywords                                                  AS llm_keywords,
+    s.hashtags                                                     AS hashtags,
+    s.description                                                  AS description,
+    s.deeplink                                                     AS deeplink,
+    fetched_at,
+    filename                                                       AS source_file
+FROM raw, LATERAL unnest(raw.pageProps.spotlightStoryMetadata) AS t(s);
+
+-- ──────────────────────────────────────────────
+-- Spotlight Pages (individual video scrape)
+-- Source: fetch_spotlights.ts → data/spotlights/{id}.json
+-- Each file: { url, source_brand, source, fetched_at, pageProps }
+-- videoMetadata has engagement, transcriptMap has captions.
+-- ──────────────────────────────────────────────
+
+DROP TABLE IF EXISTS spotlight_pages;
+CREATE TABLE spotlight_pages AS
+SELECT
+    url,
+    source_brand,
+    source,
+    fetched_at,
+    pageProps.videoMetadata.creator.personCreator.username        AS creator_username,
+    pageProps.videoMetadata.creator.personCreator.name            AS creator_name,
+    TRY_CAST(pageProps.videoMetadata.viewCount AS BIGINT)         AS view_count,
+    TRY_CAST(pageProps.videoMetadata.shareCount AS BIGINT)        AS share_count,
+    TRY_CAST(pageProps.videoMetadata.durationMs AS INT)           AS duration_ms,
+    pageProps.videoMetadata.width                                 AS width,
+    pageProps.videoMetadata.height                                AS height,
+    CASE WHEN pageProps.videoMetadata.uploadDateMs IS NOT NULL
+         THEN epoch_ms(TRY_CAST(pageProps.videoMetadata.uploadDateMs AS BIGINT))
+    END                                                          AS uploaded_at,
+    pageProps.videoMetadata.thumbnailUrl                          AS thumbnail_url,
+    pageProps.videoMetadata.contentUrl                            AS content_url,
+    pageProps.videoMetadata.embeddedTextCaption                   AS text_caption,
+    pageProps.isAttributed                                        AS is_attributed,
+    map_keys(pageProps.transcriptMap) IS NOT NULL
+        AND len(map_keys(pageProps.transcriptMap)) > 0           AS has_transcript,
+    filename                                                     AS source_file
+FROM read_json_auto(
+    rav_path('data_sources/snap_spotlights/data/spotlights/*.json'),
+    filename = true,
+    union_by_name = true
+);
+
+-- ──────────────────────────────────────────────
+-- Explore Discovery (/explore/<keyword>) — fashion & beauty
+-- Source: fetch_explore.ts → data/explore/<keyword>.json
+-- Each file: { keyword, fetched_at, pageProps: { encodedSearchResponse (JSON str), encodedSpotlightCardMap (JSON str), query, country } }
+-- Three tables: explore_keywords (summary), explore_subscribe_profiles (business profiles), explore_spotlight_creators (from spotlight cards).
+-- ──────────────────────────────────────────────
+
+DROP TABLE IF EXISTS explore_spotlight_creators;
+DROP TABLE IF EXISTS explore_subscribe_profiles;
+DROP TABLE IF EXISTS explore_keywords;
+
+-- 1. Keywords summary: one row per fetched keyword
+CREATE TABLE explore_keywords AS
+WITH raw AS (
+    SELECT keyword, fetched_at,
+        pageProps::JSON->>'query'   AS query_echo,
+        pageProps::JSON->>'country' AS country,
+        pageProps::JSON->>'encodedSearchResponse'  AS sr_str,
+        pageProps::JSON->>'encodedSpotlightCardMap' AS scm_str,
+        filename AS source_file
+    FROM read_json(
+        rav_path('data_sources/snap_explore/data/explore/*.json'),
+        columns = {keyword: 'VARCHAR', fetched_at: 'VARCHAR', pageProps: 'JSON'},
+        format = 'auto', filename = true, maximum_object_size = 10485760,
+        ignore_errors = true
+    )
+    WHERE keyword IS NOT NULL
+)
+SELECT
+    keyword,
+    query_echo,
+    country,
+    fetched_at,
+    CAST(json_array_length(sr_str::JSON->'sections') AS INT) AS section_count,
+    CASE WHEN scm_str IS NOT NULL AND json_type(scm_str::JSON) = 'OBJECT'
+         THEN CAST(len(json_keys(scm_str::JSON)) AS INT)
+    ELSE 0 END AS spotlight_card_count,
+    source_file
+FROM raw;
+
+-- 2. Subscribe profiles: business profiles from snapProEntity sections
+CREATE TABLE explore_subscribe_profiles AS
+WITH raw AS (
+    SELECT keyword, fetched_at,
+        pageProps::JSON->>'encodedSearchResponse' AS sr_str
+    FROM read_json(
+        rav_path('data_sources/snap_explore/data/explore/*.json'),
+        columns = {keyword: 'VARCHAR', fetched_at: 'VARCHAR', pageProps: 'JSON'},
+        format = 'auto', maximum_object_size = 10485760,
+        ignore_errors = true
+    )
+    WHERE keyword IS NOT NULL
+),
+sr_parsed AS (
+    SELECT keyword, fetched_at, sr_str::JSON AS sr,
+        CAST(json_array_length(sr_str::JSON->'sections') AS BIGINT) AS num_secs
+    FROM raw
+),
+sec_exploded AS (
+    SELECT keyword, fetched_at, sr,
+        unnest(generate_series(0::BIGINT, num_secs - 1::BIGINT)) AS si
+    FROM sr_parsed
+),
+sub_sections AS (
+    SELECT keyword, fetched_at,
+        sr->'sections'->si->'results' AS results,
+        CAST(json_array_length(sr->'sections'->si->'results') AS BIGINT) AS rc
+    FROM sec_exploded
+    WHERE json_extract_string(sr->'sections'->si->'results'->0->'result', '$."$case"') = 'snapProEntity'
+),
+items AS (
+    SELECT keyword, fetched_at, results,
+        unnest(generate_series(0::BIGINT, rc - 1::BIGINT)) AS ri
+    FROM sub_sections
+)
+SELECT
+    keyword,
+    json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.title') AS title,
+    TRY_CAST(json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.subscriberCount') AS BIGINT) AS subscriber_count,
+    json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.hostAccountUsername') AS username,
+    json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.hostAccountMutableUsername') AS mutable_username,
+    TRY_CAST(json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.tier') AS INT) AS tier,
+    json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.isBrandProfile') = 'true' AS is_brand,
+    json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.isPartnerProfile') = 'true' AS is_partner,
+    json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.id') AS business_profile_id,
+    json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.accountId') AS account_id,
+    json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.websiteUrl') AS website_url,
+    json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.businessLogo') AS logo_url,
+    json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.heroImageUrl') AS hero_image_url,
+    json_extract_string(results->ri->'result'->'snapProEntity'->'profile'->'businessProfile', '$.category') AS category,
+    fetched_at
+FROM items;
+
+-- 3. Spotlight creators: creator usernames + engagement from spotlight cards
+CREATE TABLE explore_spotlight_creators AS
+WITH raw AS (
+    SELECT keyword, fetched_at,
+        pageProps::JSON->>'encodedSpotlightCardMap' AS scm_str
+    FROM read_json(
+        rav_path('data_sources/snap_explore/data/explore/*.json'),
+        columns = {keyword: 'VARCHAR', fetched_at: 'VARCHAR', pageProps: 'JSON'},
+        format = 'auto', maximum_object_size = 10485760,
+        ignore_errors = true
+    )
+    WHERE keyword IS NOT NULL
+),
+card_keys AS (
+    SELECT keyword, fetched_at, scm_str::JSON AS scm,
+        unnest(json_keys(scm_str::JSON)) AS card_key
+    FROM raw
+    WHERE scm_str IS NOT NULL AND json_type(scm_str::JSON) = 'OBJECT'
+)
+SELECT
+    keyword,
+    json_extract_string(scm->card_key->'snaps'->0->'creatorInfo', '$.userName') AS creator_username,
+    json_extract_string(scm->card_key->'snaps'->0->'creatorInfo', '$.displayName') AS creator_display_name,
+    TRY_CAST(json_extract_string(scm->card_key->'snaps'->0->'creatorInfo', '$.snapproTier') AS INT) AS creator_tier,
+    json_extract_string(scm->card_key->'snaps'->0->'creatorInfo', '$.userId') AS creator_user_id,
+    TRY_CAST(json_extract_string(scm->card_key, '$.engagementStats.viewCount') AS BIGINT) AS view_count,
+    TRY_CAST(json_extract_string(scm->card_key, '$.engagementStats.shareCount') AS BIGINT) AS share_count,
+    json_extract_string(scm->card_key->'singleSnapStoryMetadata', '$.llmTitle') AS llm_title,
+    json_extract_string(scm->card_key->'singleSnapStoryMetadata', '$.llmDescription') AS llm_description,
+    json_extract_string(scm->card_key->'singleSnapStoryMetadata', '$.llmKeywords') AS llm_keywords,
+    card_key AS story_id,
+    fetched_at
+FROM card_keys
+WHERE json_extract_string(scm->card_key->'snaps'->0->'creatorInfo', '$.userName') IS NOT NULL;
+
+-- ──────────────────────────────────────────────
+-- EC DSA Transparency Database — Snapchat statements of reasons
+-- Source: data_sources/dsa_transparency/src/fetch_sor.ts → data/daily/snapchat-<date>-{light,full}.csv
+-- Glob loads every merged per-day file. light + full share one table (union_by_name; extra cols NULL where absent).
+-- If the directory is empty, this step errors — run: cd data_sources/dsa_transparency && npx tsx src/fetch_sor.ts ...
+-- ──────────────────────────────────────────────
+
+DROP TABLE IF EXISTS dsa_snapchat_sor;
+CREATE TABLE dsa_snapchat_sor AS
+SELECT
+    CAST(regexp_extract(f.filename, 'snapchat-([0-9]{4}-[0-9]{2}-[0-9]{2})', 1) AS DATE) AS dump_date,
+    regexp_extract(f.filename, '(light|full)\\.csv$', 1) AS csv_variant,
+    f.filename AS source_file,
+    f.* EXCLUDE (filename)
+FROM read_csv_auto(
+    rav_path('data_sources/dsa_transparency/data/daily/snapchat-*.csv'),
+    filename = true,
+    union_by_name = true
+) f;
+
+-- ──────────────────────────────────────────────
 -- Transparency Reports — EU DSA (H2 2025 V2)
 -- Source: XLSX converted to CSV via xlsx_to_csv.py
 -- ──────────────────────────────────────────────

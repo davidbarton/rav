@@ -1,8 +1,9 @@
 {
   "brand": "Zalando",
   "country": "it",
-  "fetched_at": "2026-04-08T23:12:53.735Z",
+  "fetched_at": "2026-04-09T13:26:54.066Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
@@ -758,6 +759,754 @@
             "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "layout": "AUTOMATIC",
+            "text_fields": [
+              "title",
+              "price"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e6109cc9-f185-44c0-8197-49eed0c4a922",
+        "name": "CA_01",
+        "ad_account_name": "ZMS_New Brand Activation_Value Add_2023",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Style By: Atene",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Ga3H5xZSpPRIavbUJVNxA.67?mo=GpICGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIl509IAFKDgoJOh4fGxgfHDgjEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIjfktIAFKDgoJMhMUEhUVFCsXEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAj51SIgAUoOCgkjEQ8PDg0PHBYQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAicmyMgAUoOCgklDw8PDhAQHhMQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiw1x8gAUoOCgkmDQ4MDg4NHw8Q9ANoAiIGCgJIAhIAogEnCNIKEhoKGAjWmCEgAUoOCgknDg8MDw4OIBAQ9ANoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-05-05T22:00:00.000Z",
+        "impressions_total": 1164628,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 1164628,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando Marketing Services GmbH",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://www.zalando.it/campaigns/nike-style-by/?wmc=zms390_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}.&opc=2211"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/LBz0gy4wDeYQtWqw30792.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Nike Sportswear SHOX R4 - Sneakers basse - college grey/flat pewter",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/e89a592b17594b2eb13c6117258027e9/a7a2b54608af4a80821fa1…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "OUT OF STOCK",
+              "color": [
+                "grigio"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Sneakers > Low-top sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear SHOX R4 - Sneakers basse - college grey/flat pewter",
+              "link": "https://www.zalando.it/nike-sportswear-shox-r4-sneakers-basse-college-greyflat-pewter-ni111a1lr-c11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/gQfTFGCFjDTgZRSKPbaQz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Nike Sportswear LD 1000 - Sneakers basse - lt armory blue/baroque brown/coconut milk/black/cosmic clay",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/1838604553ca438989313878982fca3e/3adb80f4063c456c8e13cb…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "OUT OF STOCK",
+              "color": [
+                "blu"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Sneakers > Low-top sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear LD 1000 - Sneakers basse - lt armory blue/baroque brown/coconut milk/black/cosmic clay",
+              "link": "https://www.zalando.it/nike-sportswear-ld-1000-sneakers-basse-lt-armory-bluebaroque-browncoconut-milkblackcosmic-clay-ni111a1ji-k11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/v2z1lJGei7xejIbzMCOpj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Nike Sportswear LD 1000 - Sneakers basse - black/sail/safety orange/brown",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/0518197a07364d0ebda67831ac19ef8d/f9426874f0ae4104b95c4c…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "nero"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Sneakers > Low-top sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear LD 1000 - Sneakers basse - black/sail/safety orange/brown",
+              "link": "https://www.zalando.it/nike-sportswear-sneakers-basse-blacksailsafety-orangebrown-ni111a1ji-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/D1NlpuvJ26OgVnveuLCiJ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Nike Sportswear LD 1000 - Sneakers basse - pinksicle/picante red/summit white/gum lt brown/cosmic clay",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/c6b3228ad63c4a298459226554978a14/5b8d2d0ebafa40ca95331f…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "OUT OF STOCK",
+              "color": [
+                "fuxia"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Sneakers > Low-top sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear LD 1000 - Sneakers basse - pinksicle/picante red/summit white/gum lt brown/cosmic clay",
+              "link": "https://www.zalando.it/nike-sportswear-ld-1000-sneakers-basse-pinksiclepicante-redsummit-whitegum-lt-browncosmic-clay-ni111a1ji-j11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/GI9HrX8EYt57e6Y6Cy1NR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Nike Sportswear SPORTSWEAR - Felpa - phantom",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/f0c482f1ceca4412b5d4b2ed1a9666bb/6798efd0661c4d58856f9c…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "OUT OF STOCK",
+              "color": [
+                "grigio chiaro"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Sweatshirts & Hoodies > Sweatshirts"
+              ],
+              "size": "",
+              "title": "Nike Sportswear SPORTSWEAR - Felpa - phantom",
+              "link": "https://www.zalando.it/nike-sportswear-felpa-phantom-ni121j0rq-c12.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/hBG433fYl44XWY83aA1pk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Nike Sportswear LD-1000 SE - Sneakers basse - royal tint/soft yellow/summit white/light brown/safety orange/black",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/51f1786c65124d24a7633944683ae638/c89f0b25d62449f9b62550…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "celeste"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Sneakers > Low-top sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear LD-1000 SE - Sneakers basse - royal tint/soft yellow/summit white/light brown/safety orange/black",
+              "link": "https://www.zalando.it/nike-sportswear-ld-1000-sneakers-basse-royal-tintsoft-yellowsummit-whitelight-brownsafety-orangeblack-ni111a1lh-k11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/IfSPqtKdZ1ypSRs6pYRgF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Nike Sportswear LD-1000 SE - Sneakers basse - dark green/salmon",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/e944dfb5987f47068a9d25dfc1eed020/15a8e77544ae4d3cbf1abd…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "verde scuro"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Sneakers > Low-top sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear LD-1000 SE - Sneakers basse - dark green/salmon",
+              "link": "https://www.zalando.it/nike-sportswear-sneakers-basse-dark-greensalmon-ni111a1lh-m11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SNkyZgmmsdYIqvqVX2hgp.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Nike Sportswear LD-1000 - Sneakers basse - sail/black/fossil",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/904c4ebbebf741d08284e6da1cc8325e/d98295514eaf41d9986f4e…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "OUT OF STOCK",
+              "color": [
+                "blu"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Sneakers > Low-top sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear LD-1000 - Sneakers basse - sail/black/fossil",
+              "link": "https://www.zalando.it/nike-sportswear-ld-1000-sneakers-basse-sailblackfossil-ni111a1jo-k11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/oNX07NrRMwktLo00iFMv9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Nike Sportswear LD-1000 OPP1 UNISEX - Sneakers basse - dusty amethyst/light lemon twist/purple dawn/coconut milk/black/white",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/4683611975114fce97a93a0e5ffa6c8b/889f9c5f1b1345faa46e67…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "lilla"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear LD-1000 OPP1 UNISEX - Sneakers basse - dusty amethyst/light lemon twist/purple dawn/coconut milk/black/white",
+              "link": "https://www.zalando.it/nike-sportswear-ld-1000-opp1-unisex-sneakers-basse-dusty-amethystlight-lemon-twistpurple-dawncoconut-milkblackwhite-ni115p003-i11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/OWaIu0Xhn4IgFD2E9f9mI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Nike Sportswear STREET - T-shirt con stampa - light smoke grey/barely volt",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/169e43afe01047e78c87d9adf8deded7/922626279df44cb9a6ead8…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "OUT OF STOCK",
+              "color": [
+                "grigio"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > T-shirts & tops > T-shirts"
+              ],
+              "size": "",
+              "title": "Nike Sportswear STREET - T-shirt con stampa - light smoke grey/barely volt",
+              "link": "https://www.zalando.it/nike-sportswear-street-t-shirt-con-stampa-light-smoke-greybarely-volt-ni121d0xi-c11.html?otid=default"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "CA_01",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "text_fields": [
+              "title",
+              "price"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c6ffcd81-f6a7-43e7-8057-a46fa1dc6508",
+        "name": "CA_01",
+        "ad_account_name": "ZMS_New Brand Activation_Value Add_2023",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "È tempo di piumini",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bxULg3DjymLslOvxDyRd1.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-10-17T10:15:59.000Z",
+        "impressions_total": 29040,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 29040,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Zalando Marketing Services GmbH",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://www.zalando.it/collections/R_P0-0TWQm-/?wmc=zms999_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}.&opc=2211"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/h4u0pR4wEakXkZ0Vm2py4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Calvin Klein Jeans ESSENTIAL MIDWEIGHT PUFFER - Piumino - black",
+              "brand": "Calvin Klein Jeans",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/5476d9fbbe474577bba70f393874c7a9/ceb9f7a115ea4bc680fa1e…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "nero"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Jackets & Blazers > Down Jackets"
+              ],
+              "size": "",
+              "title": "Calvin Klein Jeans ESSENTIAL MIDWEIGHT PUFFER - Piumino - black",
+              "link": "https://www.zalando.it/calvin-klein-jeans-essential-midweight-puffer-piumino-black-c1821u094-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/LWo6Ba6tqu4TKBNiq3PD1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Calvin Klein Jeans MID RAINBOOT - Stivali di gomma - black",
+              "brand": "Calvin Klein Jeans",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/05cb43b527d14b768c2637de490cb188/860d9eceff8648278f6c0b…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "nero"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Boots > Wellies"
+              ],
+              "size": "",
+              "title": "Calvin Klein Jeans MID RAINBOOT - Stivali di gomma - black",
+              "link": "https://www.zalando.it/calvin-klein-jeans-stivali-di-gomma-black-c1811n041-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ZSFwVOdhdtHOiurGsXoZ5.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Calvin Klein Jeans MONOLOGO LONG PUFFER - Cappotto invernale - black",
+              "brand": "Calvin Klein Jeans",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/7ce8654f1c2342c6b44942a42267b0fa/494e2f02bc6b4eb6953038…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "OUT OF STOCK",
+              "color": [
+                "nero"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Coats > Winter coats"
+              ],
+              "size": "",
+              "title": "Calvin Klein Jeans MONOLOGO LONG PUFFER - Cappotto invernale - black",
+              "link": "https://www.zalando.it/calvin-klein-jeans-monologo-long-puffer-cappotto-invernale-black-c1821u080-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/HhrNsQAs5BpoDCFMbVKDC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Calvin Klein FACE SCARF COAT - Cappotto classico - charcoal heather",
+              "brand": "Calvin Klein",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/1da4ce52ff07469ca29d157110b7cdb6/6f616843aed7480a87d5a9…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "grigio"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Coats > Classic Coats"
+              ],
+              "size": "",
+              "title": "Calvin Klein FACE SCARF COAT - Cappotto classico - charcoal heather",
+              "link": "https://www.zalando.it/calvin-klein-cappotto-classico-charcoal-heather-6ca21u08h-c11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ZFauUxGFy91Oqecb6AzOk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Calvin Klein FACE SCARF COAT - Cappotto classico - amphora",
+              "brand": "Calvin Klein",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/c05e6d9848574423824004f16282688d/d93f678f2cc644238f2806…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "OUT OF STOCK",
+              "color": [
+                "beige"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Coats > Classic Coats"
+              ],
+              "size": "",
+              "title": "Calvin Klein FACE SCARF COAT - Cappotto classico - amphora",
+              "link": "https://www.zalando.it/calvin-klein-cappotto-classico-amphora-6ca21u08k-b11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3BHHjJ5y4x1NGok4d7I24.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Calvin Klein Jeans BELTED LONG PUFFER - Cappotto invernale - black",
+              "brand": "Calvin Klein Jeans",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/c3389b6542504410849a8a061642df56/c1a5d945ee3b47e19d64bf…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "OUT OF STOCK",
+              "color": [
+                "nero"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Coats > Winter coats"
+              ],
+              "size": "",
+              "title": "Calvin Klein Jeans BELTED LONG PUFFER - Cappotto invernale - black",
+              "link": "https://www.zalando.it/calvin-klein-jeans-belted-midweight-long-puffer-cappotto-invernale-black-c1821u095-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/5I6NzEOANXc8QXdCoFtYD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Calvin Klein Jeans Jeans baggy - soft black",
+              "brand": "Calvin Klein Jeans",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/31e9df078019429e88060d7379fc01d1/84f54b966fb24480983496…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "nero"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Jeans > Baggy & Loose"
+              ],
+              "size": "",
+              "title": "Calvin Klein Jeans Jeans baggy - soft black",
+              "link": "https://www.zalando.it/calvin-klein-jeans-low-rise-jeans-baggy-black-c1821n0x8-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/u7JWywOzPCCezldOcACgs.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Calvin Klein Jeans BELTED MIDWEIGHT PUFFER - Cappotto invernale - lacey lilac",
+              "brand": "Calvin Klein Jeans",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/afebbba356ae4d17a0eaf6e9f2f645bf/d613674f0a5545efbeb8b7…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "lilla"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Coats > Winter coats"
+              ],
+              "size": "",
+              "title": "Calvin Klein Jeans BELTED MIDWEIGHT PUFFER - Cappotto invernale - lacey lilac",
+              "link": "https://www.zalando.it/calvin-klein-jeans-belted-cappotto-invernale-lacey-lilac-c1821u091-i11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/CfbiqVMZONYEuoVJzeXKY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Calvin Klein HERO FACE - Trench - amphora",
+              "brand": "Calvin Klein",
+              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/a030486c4a86489a9708004c01a5111e/0fb77439538d453e81e0de…",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "beige"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Coats > Trench coats"
+              ],
+              "size": "",
+              "title": "Calvin Klein HERO FACE - Trench - amphora",
+              "link": "https://www.zalando.it/calvin-klein-hero-face-cappotto-classico-amphora-6ca21u08i-b11.html?otid=default"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "CA_01",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "text_fields": [
               "title",
               "price"
@@ -1529,390 +2278,6 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "e6109cc9-f185-44c0-8197-49eed0c4a922",
-        "name": "CA_01",
-        "ad_account_name": "ZMS_New Brand Activation_Value Add_2023",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Style By: Atene",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Ga3H5xZSpPRIavbUJVNxA.67?mo=GpICGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIl509IAFKDgoJOh4fGxgfHDgjEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIjfktIAFKDgoJMhMUEhUVFCsXEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAj51SIgAUoOCgkjEQ8PDg0PHBYQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAicmyMgAUoOCgklDw8PDhAQHhMQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiw1x8gAUoOCgkmDQ4MDg4NHw8Q9ANoAiIGCgJIAhIAogEnCNIKEhoKGAjWmCEgAUoOCgknDg8MDw4OIBAQ9ANoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
-        "start_date": "2025-05-05T22:00:00.000Z",
-        "impressions_total": 1164628,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 1164628,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando Marketing Services GmbH",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://www.zalando.it/campaigns/nike-style-by/?wmc=zms390_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}.&opc=2211"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            }
-          ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/LBz0gy4wDeYQtWqw30792.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear SHOX R4 - Sneakers basse - college grey/flat pewter",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/e89a592b17594b2eb13c6117258027e9/a7a2b54608af4a80821fa1…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "grigio"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Sneakers > Low-top sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear SHOX R4 - Sneakers basse - college grey/flat pewter",
-              "link": "https://www.zalando.it/nike-sportswear-shox-r4-sneakers-basse-college-greyflat-pewter-ni111a1lr-c11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/gQfTFGCFjDTgZRSKPbaQz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear LD 1000 - Sneakers basse - lt armory blue/baroque brown/coconut milk/black/cosmic clay",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/1838604553ca438989313878982fca3e/3adb80f4063c456c8e13cb…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "blu"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Sneakers > Low-top sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear LD 1000 - Sneakers basse - lt armory blue/baroque brown/coconut milk/black/cosmic clay",
-              "link": "https://www.zalando.it/nike-sportswear-ld-1000-sneakers-basse-lt-armory-bluebaroque-browncoconut-milkblackcosmic-clay-ni111a1ji-k11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/v2z1lJGei7xejIbzMCOpj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear LD 1000 - Sneakers basse - black/sail/safety orange/brown",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/0518197a07364d0ebda67831ac19ef8d/f9426874f0ae4104b95c4c…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "nero"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Sneakers > Low-top sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear LD 1000 - Sneakers basse - black/sail/safety orange/brown",
-              "link": "https://www.zalando.it/nike-sportswear-sneakers-basse-blacksailsafety-orangebrown-ni111a1ji-q11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/D1NlpuvJ26OgVnveuLCiJ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear LD 1000 - Sneakers basse - pinksicle/picante red/summit white/gum lt brown/cosmic clay",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/c6b3228ad63c4a298459226554978a14/5b8d2d0ebafa40ca95331f…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "fuxia"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Sneakers > Low-top sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear LD 1000 - Sneakers basse - pinksicle/picante red/summit white/gum lt brown/cosmic clay",
-              "link": "https://www.zalando.it/nike-sportswear-ld-1000-sneakers-basse-pinksiclepicante-redsummit-whitegum-lt-browncosmic-clay-ni111a1ji-j11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/GI9HrX8EYt57e6Y6Cy1NR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear SPORTSWEAR - Felpa - phantom",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/f0c482f1ceca4412b5d4b2ed1a9666bb/6798efd0661c4d58856f9c…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "grigio chiaro"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Sweatshirts & Hoodies > Sweatshirts"
-              ],
-              "size": "",
-              "title": "Nike Sportswear SPORTSWEAR - Felpa - phantom",
-              "link": "https://www.zalando.it/nike-sportswear-felpa-phantom-ni121j0rq-c12.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/hBG433fYl44XWY83aA1pk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear LD-1000 SE - Sneakers basse - royal tint/soft yellow/summit white/light brown/safety orange/black",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/51f1786c65124d24a7633944683ae638/c89f0b25d62449f9b62550…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "celeste"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Sneakers > Low-top sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear LD-1000 SE - Sneakers basse - royal tint/soft yellow/summit white/light brown/safety orange/black",
-              "link": "https://www.zalando.it/nike-sportswear-ld-1000-sneakers-basse-royal-tintsoft-yellowsummit-whitelight-brownsafety-orangeblack-ni111a1lh-k11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/IfSPqtKdZ1ypSRs6pYRgF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear LD-1000 SE - Sneakers basse - dark green/salmon",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/e944dfb5987f47068a9d25dfc1eed020/15a8e77544ae4d3cbf1abd…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "verde scuro"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Sneakers > Low-top sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear LD-1000 SE - Sneakers basse - dark green/salmon",
-              "link": "https://www.zalando.it/nike-sportswear-sneakers-basse-dark-greensalmon-ni111a1lh-m11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/SNkyZgmmsdYIqvqVX2hgp.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear LD-1000 - Sneakers basse - sail/black/fossil",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/904c4ebbebf741d08284e6da1cc8325e/d98295514eaf41d9986f4e…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "blu"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Sneakers > Low-top sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear LD-1000 - Sneakers basse - sail/black/fossil",
-              "link": "https://www.zalando.it/nike-sportswear-ld-1000-sneakers-basse-sailblackfossil-ni111a1jo-k11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/oNX07NrRMwktLo00iFMv9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear LD-1000 OPP1 UNISEX - Sneakers basse - dusty amethyst/light lemon twist/purple dawn/coconut milk/black/white",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/4683611975114fce97a93a0e5ffa6c8b/889f9c5f1b1345faa46e67…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "lilla"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "Men > Shoes > Sneakers > Low-Top Sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear LD-1000 OPP1 UNISEX - Sneakers basse - dusty amethyst/light lemon twist/purple dawn/coconut milk/black/white",
-              "link": "https://www.zalando.it/nike-sportswear-ld-1000-opp1-unisex-sneakers-basse-dusty-amethystlight-lemon-twistpurple-dawncoconut-milkblackwhite-ni115p003-i11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/OWaIu0Xhn4IgFD2E9f9mI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear STREET - T-shirt con stampa - light smoke grey/barely volt",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/169e43afe01047e78c87d9adf8deded7/922626279df44cb9a6ead8…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "grigio"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > T-shirts & tops > T-shirts"
-              ],
-              "size": "",
-              "title": "Nike Sportswear STREET - T-shirt con stampa - light smoke grey/barely volt",
-              "link": "https://www.zalando.it/nike-sportswear-street-t-shirt-con-stampa-light-smoke-greybarely-volt-ni121d0xi-c11.html?otid=default"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "CA_01",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "text_fields": [
-              "title",
-              "price"
-            ]
-          },
-          "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
         "id": "8bfd84ef-f580-464b-8f7d-40b27bbd0248",
         "name": "CA_01",
         "ad_account_name": "ZMS_New Brand Activation_Value Add_2023",
@@ -2199,370 +2564,6 @@
               "size": "",
               "title": "Calvin Klein BONDED CHANNEL - Piumino - bungee cord",
               "link": "https://www.zalando.it/calvin-klein-bonded-channel-piumino-bungee-cord-6ca22t0bq-b11.html?otid=default"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "CA_01",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "text_fields": [
-              "title",
-              "price"
-            ]
-          },
-          "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c6ffcd81-f6a7-43e7-8057-a46fa1dc6508",
-        "name": "CA_01",
-        "ad_account_name": "ZMS_New Brand Activation_Value Add_2023",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "È tempo di piumini",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bxULg3DjymLslOvxDyRd1.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-10-17T10:15:59.000Z",
-        "impressions_total": 29040,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 29040,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Zalando Marketing Services GmbH",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://www.zalando.it/collections/R_P0-0TWQm-/?wmc=zms999_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}.&opc=2211"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            }
-          ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/h4u0pR4wEakXkZ0Vm2py4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Calvin Klein Jeans ESSENTIAL MIDWEIGHT PUFFER - Piumino - black",
-              "brand": "Calvin Klein Jeans",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/5476d9fbbe474577bba70f393874c7a9/ceb9f7a115ea4bc680fa1e…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "nero"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Jackets & Blazers > Down Jackets"
-              ],
-              "size": "",
-              "title": "Calvin Klein Jeans ESSENTIAL MIDWEIGHT PUFFER - Piumino - black",
-              "link": "https://www.zalando.it/calvin-klein-jeans-essential-midweight-puffer-piumino-black-c1821u094-q11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/LWo6Ba6tqu4TKBNiq3PD1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Calvin Klein Jeans MID RAINBOOT - Stivali di gomma - black",
-              "brand": "Calvin Klein Jeans",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/05cb43b527d14b768c2637de490cb188/860d9eceff8648278f6c0b…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "nero"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Boots > Wellies"
-              ],
-              "size": "",
-              "title": "Calvin Klein Jeans MID RAINBOOT - Stivali di gomma - black",
-              "link": "https://www.zalando.it/calvin-klein-jeans-stivali-di-gomma-black-c1811n041-q11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/ZSFwVOdhdtHOiurGsXoZ5.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Calvin Klein Jeans MONOLOGO LONG PUFFER - Cappotto invernale - black",
-              "brand": "Calvin Klein Jeans",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/7ce8654f1c2342c6b44942a42267b0fa/494e2f02bc6b4eb6953038…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "nero"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Coats > Winter coats"
-              ],
-              "size": "",
-              "title": "Calvin Klein Jeans MONOLOGO LONG PUFFER - Cappotto invernale - black",
-              "link": "https://www.zalando.it/calvin-klein-jeans-monologo-long-puffer-cappotto-invernale-black-c1821u080-q11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/HhrNsQAs5BpoDCFMbVKDC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Calvin Klein FACE SCARF COAT - Cappotto classico - charcoal heather",
-              "brand": "Calvin Klein",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/1da4ce52ff07469ca29d157110b7cdb6/6f616843aed7480a87d5a9…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "grigio"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Coats > Classic Coats"
-              ],
-              "size": "",
-              "title": "Calvin Klein FACE SCARF COAT - Cappotto classico - charcoal heather",
-              "link": "https://www.zalando.it/calvin-klein-cappotto-classico-charcoal-heather-6ca21u08h-c11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/ZFauUxGFy91Oqecb6AzOk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Calvin Klein FACE SCARF COAT - Cappotto classico - amphora",
-              "brand": "Calvin Klein",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/c05e6d9848574423824004f16282688d/d93f678f2cc644238f2806…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "beige"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Coats > Classic Coats"
-              ],
-              "size": "",
-              "title": "Calvin Klein FACE SCARF COAT - Cappotto classico - amphora",
-              "link": "https://www.zalando.it/calvin-klein-cappotto-classico-amphora-6ca21u08k-b11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/3BHHjJ5y4x1NGok4d7I24.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Calvin Klein Jeans BELTED LONG PUFFER - Cappotto invernale - black",
-              "brand": "Calvin Klein Jeans",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/c3389b6542504410849a8a061642df56/c1a5d945ee3b47e19d64bf…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "nero"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Coats > Winter coats"
-              ],
-              "size": "",
-              "title": "Calvin Klein Jeans BELTED LONG PUFFER - Cappotto invernale - black",
-              "link": "https://www.zalando.it/calvin-klein-jeans-belted-midweight-long-puffer-cappotto-invernale-black-c1821u095-q11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/5I6NzEOANXc8QXdCoFtYD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Calvin Klein Jeans Jeans baggy - soft black",
-              "brand": "Calvin Klein Jeans",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/31e9df078019429e88060d7379fc01d1/84f54b966fb24480983496…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "nero"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Jeans > Baggy & Loose"
-              ],
-              "size": "",
-              "title": "Calvin Klein Jeans Jeans baggy - soft black",
-              "link": "https://www.zalando.it/calvin-klein-jeans-low-rise-jeans-baggy-black-c1821n0x8-q11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/u7JWywOzPCCezldOcACgs.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Calvin Klein Jeans BELTED MIDWEIGHT PUFFER - Cappotto invernale - lacey lilac",
-              "brand": "Calvin Klein Jeans",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/afebbba356ae4d17a0eaf6e9f2f645bf/d613674f0a5545efbeb8b7…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "lilla"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Coats > Winter coats"
-              ],
-              "size": "",
-              "title": "Calvin Klein Jeans BELTED MIDWEIGHT PUFFER - Cappotto invernale - lacey lilac",
-              "link": "https://www.zalando.it/calvin-klein-jeans-belted-cappotto-invernale-lacey-lilac-c1821u091-i11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/CfbiqVMZONYEuoVJzeXKY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Calvin Klein HERO FACE - Trench - amphora",
-              "brand": "Calvin Klein",
-              "custom_label_0": "https://img01.ztat.net/article/spp-media-p1/a030486c4a86489a9708004c01a5111e/0fb77439538d453e81e0de…",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "beige"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Coats > Trench coats"
-              ],
-              "size": "",
-              "title": "Calvin Klein HERO FACE - Trench - amphora",
-              "link": "https://www.zalando.it/calvin-klein-hero-face-cappotto-classico-amphora-6ca21u08i-b11.html?otid=default"
             }
           ],
           "template": {},

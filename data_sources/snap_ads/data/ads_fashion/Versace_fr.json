@@ -1,84 +1,10 @@
 {
   "brand": "Versace",
   "country": "fr",
-  "fetched_at": "2026-04-09T03:59:56.172Z",
+  "fetched_at": "2026-04-09T13:58:32.193Z",
   "ads_count": 2,
+  "pagination_complete": true,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a00acf90-24e4-4c24-bda3-48a33733bb07",
-        "name": "17/04/25 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RJUbd7gQH7eKpRRs2DOd2.67.IRZXSOY?mo=Gr8CGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNwhDEhoKGAjBlS0gAUoOCgk5GicwIiUjJywQ9ANoAiIXCgpCBgjP-YTABkgEEgAqB0lSWlhTT1miATgIugoSGgoYCNvSICABSg4KCTkUGBgcGRgVHxD0A2gCIhcKCkIGCJ76hMAGSAISACoHSVJaWFNPWaIBNwh_EhoKGAj3vxkgAUoOCgknDRMYExUUEhoQ9ANoAiIXCgpCBgie-oTABkgCEgAqB0lSWlhTT1miATgIkgoSGgoYCI2bGyABSg4KCSYOFxcXFhYSHhD0A2gCIhcKCkIGCJ76hMAGSAISACoHSVJaWFNPWaIBOAjEChIaChgI_Z0VIAFKDgoJJw0QDxEPEA4UEPQDaAIiFwoKQgYInvqEwAZIAhIAKgdJUlpYU09ZkAPgTg%3D%3D&uc=15",
-        "start_date": "2025-04-17T22:00:00.000Z",
-        "impressions_total": 3886,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 3886,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "34",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Maria Cucci Versace",
-        "profile_name": "Maria Cucci Versace",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/mariacucciversa",
-          "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/37401951-104154975434_17-s5-v1.webp?scale=2&ua=2",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -148,6 +74,81 @@
         "deep_link_properties": {
           "deep_link_uri": "snapchat://add/vvversaceeee",
           "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/30060626-99213614714_35-s5-v1.webp?scale=0&trim=circle&ua=2",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a00acf90-24e4-4c24-bda3-48a33733bb07",
+        "name": "17/04/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RJUbd7gQH7eKpRRs2DOd2.67.IRZXSOY?mo=Gr8CGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNwhDEhoKGAjBlS0gAUoOCgk5GicwIiUjJywQ9ANoAiIXCgpCBgjP-YTABkgEEgAqB0lSWlhTT1miATgIugoSGgoYCNvSICABSg4KCTkUGBgcGRgVHxD0A2gCIhcKCkIGCJ76hMAGSAISACoHSVJaWFNPWaIBNwh_EhoKGAj3vxkgAUoOCgknDRMYExUUEhoQ9ANoAiIXCgpCBgie-oTABkgCEgAqB0lSWlhTT1miATgIkgoSGgoYCI2bGyABSg4KCSYOFxcXFhYSHhD0A2gCIhcKCkIGCJ76hMAGSAISACoHSVJaWFNPWaIBOAjEChIaChgI_Z0VIAFKDgoJJw0QDxEPEA4UEPQDaAIiFwoKQgYInvqEwAZIAhIAKgdJUlpYU09ZkAPgTg%3D%3D&uc=15",
+        "start_date": "2025-04-17T22:00:00.000Z",
+        "impressions_total": 3886,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 3886,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "34",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Maria Cucci Versace",
+        "profile_name": "Maria Cucci Versace",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/mariacucciversa",
+          "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/37401951-104154975434_17-s5-v1.webp?scale=2&ua=2",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",

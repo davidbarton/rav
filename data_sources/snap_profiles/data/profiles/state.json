@@ -1,0 +1,1729 @@
+{
+  "cells": {
+    "Nike": {
+      "status": "fetched",
+      "username": "nike",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 9,
+      "fetched_at": "2026-04-09T12:48:39.122Z"
+    },
+    "adidas": {
+      "status": "fetched",
+      "username": "adidas",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:48:42.605Z"
+    },
+    "Puma": {
+      "status": "no_public",
+      "username": "puma",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:48:52.711Z"
+    },
+    "New Balance": {
+      "status": "fetched",
+      "username": "newbalance",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:50:38.172Z"
+    },
+    "Reebok": {
+      "status": "fetched",
+      "username": "reebok",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:50:41.727Z"
+    },
+    "Under Armour": {
+      "status": "fetched",
+      "username": "underarmour",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:50:45.281Z"
+    },
+    "ASICS": {
+      "status": "no_public",
+      "username": "asicsofficial",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:50:55.265Z"
+    },
+    "Fila": {
+      "status": "no_public",
+      "username": "fila",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:51:05.361Z"
+    },
+    "Converse": {
+      "status": "fetched",
+      "username": "converse",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:51:08.971Z"
+    },
+    "Vans": {
+      "status": "fetched",
+      "username": "vans",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:51:12.554Z"
+    },
+    "The North Face": {
+      "status": "fetched",
+      "username": "thenorthface",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:51:16.129Z"
+    },
+    "Columbia": {
+      "status": "no_public",
+      "username": "columbia",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:51:26.146Z"
+    },
+    "Lululemon": {
+      "status": "fetched",
+      "username": "lululemon",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:51:29.641Z"
+    },
+    "Gymshark": {
+      "status": "fetched",
+      "username": "gymshark",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 17,
+      "fetched_at": "2026-04-09T12:51:35.275Z"
+    },
+    "On Running": {
+      "status": "fetched",
+      "username": "on_running",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:51:42.326Z"
+    },
+    "Hoka": {
+      "status": "no_public",
+      "username": "hokaofficial",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:51:52.349Z"
+    },
+    "Salomon": {
+      "status": "fetched",
+      "username": "salomonofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:51:59.510Z"
+    },
+    "Jordan": {
+      "status": "fetched",
+      "username": "jordan",
+      "has_public_profile": true,
+      "subscriber_count": 204400,
+      "spotlight_count": 2,
+      "fetched_at": "2026-04-09T12:52:03.720Z"
+    },
+    "Ellesse": {
+      "status": "no_public",
+      "username": "ellesse",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:52:13.722Z"
+    },
+    "Champion": {
+      "status": "no_public",
+      "username": "champion",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:52:23.683Z"
+    },
+    "Zara": {
+      "status": "fetched",
+      "username": "zaraofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 12,
+      "fetched_at": "2026-04-09T12:52:34.244Z"
+    },
+    "H&M": {
+      "status": "fetched",
+      "username": "h_m",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 10,
+      "fetched_at": "2026-04-09T12:52:41.965Z"
+    },
+    "Primark": {
+      "status": "fetched",
+      "username": "primark",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:52:45.507Z"
+    },
+    "Pull&Bear": {
+      "status": "no_public",
+      "username": "pullbear",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:53:02.162Z"
+    },
+    "Bershka": {
+      "status": "fetched",
+      "username": "bershkaofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:53:09.052Z"
+    },
+    "Stradivarius": {
+      "status": "fetched",
+      "username": "stradivarius",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:53:12.608Z"
+    },
+    "Massimo Dutti": {
+      "status": "fetched",
+      "username": "massimo-dutti",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:53:22.791Z"
+    },
+    "Oysho": {
+      "status": "no_public",
+      "username": "oysho",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:53:32.769Z"
+    },
+    "COS": {
+      "status": "no_public",
+      "username": "cos",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:53:42.746Z"
+    },
+    "& Other Stories": {
+      "status": "fetched",
+      "username": "other_stories",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 7,
+      "fetched_at": "2026-04-09T12:53:50.809Z"
+    },
+    "Arket": {
+      "status": "no_public",
+      "username": "arket",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:54:00.749Z"
+    },
+    "Weekday": {
+      "status": "fetched",
+      "username": "weekdayofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:54:07.701Z"
+    },
+    "Monki": {
+      "status": "fetched",
+      "username": "monki",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:54:11.233Z"
+    },
+    "Uniqlo": {
+      "status": "no_public",
+      "username": "uniqlo",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:54:21.401Z"
+    },
+    "Mango": {
+      "status": "fetched",
+      "username": "mango",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:54:25.061Z"
+    },
+    "C&A": {
+      "status": "no_public",
+      "username": "ca_official",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:54:41.624Z"
+    },
+    "New Yorker": {
+      "status": "no_public",
+      "username": "new_yorker",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:54:58.200Z"
+    },
+    "Shein": {
+      "status": "fetched",
+      "username": "sheinofficial",
+      "has_public_profile": true,
+      "subscriber_count": 491500,
+      "spotlight_count": 16,
+      "fetched_at": "2026-04-09T12:55:05.832Z"
+    },
+    "Temu": {
+      "status": "fetched",
+      "username": "temuofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:55:12.734Z"
+    },
+    "Boohoo": {
+      "status": "fetched",
+      "username": "boohooofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:55:19.655Z"
+    },
+    "ASOS": {
+      "status": "no_public",
+      "username": "asos",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:55:29.763Z"
+    },
+    "Missguided": {
+      "status": "no_public",
+      "username": "missguided",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:55:39.788Z"
+    },
+    "PrettyLittleThing": {
+      "status": "not_found",
+      "username": "prettylittlething",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:03:36.171Z"
+    },
+    "NA-KD": {
+      "status": "no_public",
+      "username": "na_kd",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:56:06.307Z"
+    },
+    "About You": {
+      "status": "no_public",
+      "username": "aboutyou",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:56:22.987Z"
+    },
+    "Esprit": {
+      "status": "no_public",
+      "username": "esprit",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:56:33.110Z"
+    },
+    "Kiabi": {
+      "status": "not_found",
+      "username": "kiabi",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:03:39.490Z"
+    },
+    "Tally Weijl": {
+      "status": "fetched",
+      "username": "tally_weijl",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:56:49.981Z"
+    },
+    "Orsay": {
+      "status": "not_found",
+      "username": "orsay",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:03:42.918Z"
+    },
+    "Reserved": {
+      "status": "no_public",
+      "username": "reserved",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:57:09.811Z"
+    },
+    "Sinsay": {
+      "status": "no_public",
+      "username": "sinsay",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:57:19.789Z"
+    },
+    "House": {
+      "status": "no_public",
+      "username": "house",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:57:29.835Z"
+    },
+    "Cropp": {
+      "status": "no_public",
+      "username": "cropp",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:57:39.783Z"
+    },
+    "Mohito": {
+      "status": "fetched",
+      "username": "mohito",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:57:43.328Z"
+    },
+    "Louis Vuitton": {
+      "status": "fetched",
+      "username": "louisvuitton",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 16,
+      "fetched_at": "2026-04-09T12:57:48.379Z"
+    },
+    "Dior": {
+      "status": "fetched",
+      "username": "dior",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 16,
+      "fetched_at": "2026-04-09T12:57:52.728Z"
+    },
+    "Givenchy": {
+      "status": "no_public",
+      "username": "givenchy",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:58:02.619Z"
+    },
+    "Fendi": {
+      "status": "fetched",
+      "username": "fendi",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 3,
+      "fetched_at": "2026-04-09T12:58:05.935Z"
+    },
+    "Celine": {
+      "status": "fetched",
+      "username": "celine",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:58:09.255Z"
+    },
+    "Loewe": {
+      "status": "no_public",
+      "username": "loewe",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:58:19.201Z"
+    },
+    "Kenzo": {
+      "status": "fetched",
+      "username": "kenzo",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:58:22.513Z"
+    },
+    "Marc Jacobs": {
+      "status": "fetched",
+      "username": "marcjacobs",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:58:25.857Z"
+    },
+    "Gucci": {
+      "status": "fetched",
+      "username": "gucci",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 15,
+      "fetched_at": "2026-04-09T12:58:29.239Z"
+    },
+    "Saint Laurent": {
+      "status": "fetched",
+      "username": "saint_laurent",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:58:36.083Z"
+    },
+    "Balenciaga": {
+      "status": "fetched",
+      "username": "balenciaga",
+      "has_public_profile": true,
+      "subscriber_count": 52800,
+      "spotlight_count": 16,
+      "fetched_at": "2026-04-09T12:58:39.515Z"
+    },
+    "Bottega Veneta": {
+      "status": "fetched",
+      "username": "bottega-veneta",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:03:46.253Z"
+    },
+    "Chanel": {
+      "status": "fetched",
+      "username": "chanel",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:59:32.766Z"
+    },
+    "Hermes": {
+      "status": "fetched",
+      "username": "hermes",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:59:32.786Z"
+    },
+    "Alexander McQueen": {
+      "status": "not_found",
+      "username": "alexandermcqueen",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:03:51.722Z"
+    },
+    "Prada": {
+      "status": "fetched",
+      "username": "prada",
+      "has_public_profile": true,
+      "subscriber_count": 52500,
+      "spotlight_count": 16,
+      "fetched_at": "2026-04-09T12:59:38.568Z"
+    },
+    "Versace": {
+      "status": "no_public",
+      "username": "versaceofficial",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:59:40.544Z"
+    },
+    "Miu Miu": {
+      "status": "fetched",
+      "username": "miumiu_official",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 7,
+      "fetched_at": "2026-04-09T12:59:42.798Z"
+    },
+    "Burberry": {
+      "status": "fetched",
+      "username": "burberry",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:59:43.958Z"
+    },
+    "Jimmy Choo": {
+      "status": "fetched",
+      "username": "jimmychoo",
+      "has_public_profile": true,
+      "subscriber_count": 11700,
+      "spotlight_count": 16,
+      "fetched_at": "2026-04-09T12:59:43.990Z"
+    },
+    "Michael Kors": {
+      "status": "fetched",
+      "username": "michaelkors",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 16,
+      "fetched_at": "2026-04-09T12:59:44.010Z"
+    },
+    "Calvin Klein": {
+      "status": "fetched",
+      "username": "calvinklein",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:59:45.138Z"
+    },
+    "Tommy Hilfiger": {
+      "status": "fetched",
+      "username": "tommyhilfiger",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:59:45.142Z"
+    },
+    "Ralph Lauren": {
+      "status": "fetched",
+      "username": "ralphlauren",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 1,
+      "fetched_at": "2026-04-09T12:59:45.180Z"
+    },
+    "Valentino": {
+      "status": "not_found",
+      "username": "valentino",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:03:54.969Z"
+    },
+    "Armani": {
+      "status": "no_public",
+      "username": "armani",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:59:48.443Z"
+    },
+    "Hugo Boss": {
+      "status": "no_public",
+      "username": "hugoboss",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:59:50.599Z"
+    },
+    "Dolce & Gabbana": {
+      "status": "fetched",
+      "username": "dolcegabbana",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:59:51.863Z"
+    },
+    "Tiffany": {
+      "status": "fetched",
+      "username": "tiffanyofficial",
+      "has_public_profile": true,
+      "subscriber_count": 58900,
+      "spotlight_count": 6,
+      "fetched_at": "2026-04-09T12:59:52.822Z"
+    },
+    "Cartier": {
+      "status": "fetched",
+      "username": "cartierofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 16,
+      "fetched_at": "2026-04-09T12:59:52.904Z"
+    },
+    "Rolex": {
+      "status": "fetched",
+      "username": "rolex",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:59:54.011Z"
+    },
+    "Tag Heuer": {
+      "status": "fetched",
+      "username": "tagheuer",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:59:54.024Z"
+    },
+    "Omega": {
+      "status": "fetched",
+      "username": "omegaofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 16,
+      "fetched_at": "2026-04-09T12:59:55.188Z"
+    },
+    "Moncler": {
+      "status": "fetched",
+      "username": "moncler",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 16,
+      "fetched_at": "2026-04-09T12:59:56.326Z"
+    },
+    "Coach": {
+      "status": "no_public",
+      "username": "coach",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T12:59:58.558Z"
+    },
+    "Kate Spade": {
+      "status": "no_public",
+      "username": "katespade",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:00.692Z"
+    },
+    "Canada Goose": {
+      "status": "fetched",
+      "username": "canadagoose",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:01.876Z"
+    },
+    "Stone Island": {
+      "status": "no_public",
+      "username": "stone_island",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:06.189Z"
+    },
+    "L'Oreal": {
+      "status": "no_public",
+      "username": "loreal",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:06.441Z"
+    },
+    "Maybelline": {
+      "status": "fetched",
+      "username": "maybelline",
+      "has_public_profile": true,
+      "subscriber_count": 125400,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:07.543Z"
+    },
+    "Lancome": {
+      "status": "no_public",
+      "username": "lancome",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:09.710Z"
+    },
+    "NYX": {
+      "status": "no_public",
+      "username": "nyxofficial",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:09.714Z"
+    },
+    "Garnier": {
+      "status": "no_public",
+      "username": "garnier",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:12.992Z"
+    },
+    "Urban Decay": {
+      "status": "fetched",
+      "username": "urban-decay",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:12.995Z"
+    },
+    "Kiehls": {
+      "status": "no_public",
+      "username": "kiehls",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:12.996Z"
+    },
+    "YSL Beauty": {
+      "status": "fetched",
+      "username": "yslbeauty",
+      "has_public_profile": true,
+      "subscriber_count": 31100,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:14.107Z"
+    },
+    "Nivea": {
+      "status": "not_found",
+      "username": "nivea",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:03.892Z"
+    },
+    "Giorgio Armani Beauty": {
+      "status": "not_found",
+      "username": "giorgioarmanibeauty",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:00.589Z"
+    },
+    "Eucerin": {
+      "status": "no_public",
+      "username": "eucerin",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:21.698Z"
+    },
+    "Olay": {
+      "status": "no_public",
+      "username": "olay",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:21.733Z"
+    },
+    "La Prairie": {
+      "status": "no_public",
+      "username": "laprairie",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:24.265Z"
+    },
+    "Gillette": {
+      "status": "no_public",
+      "username": "gillette",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:27.579Z"
+    },
+    "Pantene": {
+      "status": "no_public",
+      "username": "pantene",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:27.585Z"
+    },
+    "Head & Shoulders": {
+      "status": "no_public",
+      "username": "headshoulders",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:29.839Z"
+    },
+    "Clinique": {
+      "status": "fetched",
+      "username": "clinique",
+      "has_public_profile": true,
+      "subscriber_count": 20800,
+      "spotlight_count": 2,
+      "fetched_at": "2026-04-09T13:00:32.040Z"
+    },
+    "MAC": {
+      "status": "fetched",
+      "username": "mac",
+      "has_public_profile": true,
+      "subscriber_count": 65800,
+      "spotlight_count": 6,
+      "fetched_at": "2026-04-09T13:00:32.373Z"
+    },
+    "Old Spice": {
+      "status": "no_public",
+      "username": "oldspice",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:35.402Z"
+    },
+    "Estee Lauder": {
+      "status": "no_public",
+      "username": "esteelauder",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:41.057Z"
+    },
+    "Tom Ford Beauty": {
+      "status": "no_public",
+      "username": "tomfordbeauty",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:41.095Z"
+    },
+    "Bobbi Brown": {
+      "status": "no_public",
+      "username": "bobbi_brown",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:41.132Z"
+    },
+    "Too Faced": {
+      "status": "fetched",
+      "username": "toofaced",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:42.602Z"
+    },
+    "CeraVe": {
+      "status": "fetched",
+      "username": "ceraveofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:43.780Z"
+    },
+    "The Ordinary": {
+      "status": "fetched",
+      "username": "the-ordinary",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:44.710Z"
+    },
+    "Dove": {
+      "status": "fetched",
+      "username": "dove",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:46.128Z"
+    },
+    "Vichy": {
+      "status": "no_public",
+      "username": "vichy",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:48.292Z"
+    },
+    "La Roche-Posay": {
+      "status": "not_found",
+      "username": "larocheposay",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:09.576Z"
+    },
+    "Rexona": {
+      "status": "fetched",
+      "username": "rexona",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:52.222Z"
+    },
+    "TRESemme": {
+      "status": "no_public",
+      "username": "tresemme",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:53.867Z"
+    },
+    "Axe": {
+      "status": "no_public",
+      "username": "axeofficial",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:53.896Z"
+    },
+    "Sephora": {
+      "status": "fetched",
+      "username": "sephora",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:55.281Z"
+    },
+    "Schwarzkopf": {
+      "status": "no_public",
+      "username": "schwarzkopf",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:57.293Z"
+    },
+    "Douglas": {
+      "status": "no_public",
+      "username": "douglas",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:00:57.417Z"
+    },
+    "Bath & Body Works": {
+      "status": "fetched",
+      "username": "bathbodyworks",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 2,
+      "fetched_at": "2026-04-09T13:00:59.427Z"
+    },
+    "Rituals": {
+      "status": "not_found",
+      "username": "rituals",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:12.878Z"
+    },
+    "Charlotte Tilbury": {
+      "status": "not_found",
+      "username": "charlottetilbury",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:18.356Z"
+    },
+    "Rare Beauty": {
+      "status": "fetched",
+      "username": "rare_beauty",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:05.885Z"
+    },
+    "Glossier": {
+      "status": "no_public",
+      "username": "glossier",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:06.448Z"
+    },
+    "Fenty Beauty": {
+      "status": "no_public",
+      "username": "fentybeauty",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:08.886Z"
+    },
+    "Kylie Cosmetics": {
+      "status": "fetched",
+      "username": "kyliecosmetics",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:10.212Z"
+    },
+    "NARS": {
+      "status": "no_public",
+      "username": "nars",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:12.255Z"
+    },
+    "Benefit": {
+      "status": "no_public",
+      "username": "benefit",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:12.308Z"
+    },
+    "Caudalie": {
+      "status": "fetched",
+      "username": "caudalie",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:13.719Z"
+    },
+    "Shiseido": {
+      "status": "no_public",
+      "username": "shiseido",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:15.613Z"
+    },
+    "Clarins": {
+      "status": "fetched",
+      "username": "clarinsofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 18,
+      "fetched_at": "2026-04-09T13:01:16.362Z"
+    },
+    "Avene": {
+      "status": "not_found",
+      "username": "avene",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:21.588Z"
+    },
+    "Weleda": {
+      "status": "no_public",
+      "username": "weleda",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:19.705Z"
+    },
+    "Bioderma": {
+      "status": "no_public",
+      "username": "bioderma",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:19.910Z"
+    },
+    "Coty": {
+      "status": "no_public",
+      "username": "coty",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:23.219Z"
+    },
+    "Revlon": {
+      "status": "no_public",
+      "username": "revlon",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:23.418Z"
+    },
+    "Kiehl's": {
+      "status": "no_public",
+      "username": "kiehls",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:25.475Z"
+    },
+    "Sally Hansen": {
+      "status": "fetched",
+      "username": "sallyhansen",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:26.873Z"
+    },
+    "Rimmel": {
+      "status": "no_public",
+      "username": "rimmel",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:28.779Z"
+    },
+    "Max Factor": {
+      "status": "no_public",
+      "username": "maxfactor",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:31.019Z"
+    },
+    "Catrice": {
+      "status": "fetched",
+      "username": "catriceofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:33.483Z"
+    },
+    "Essence": {
+      "status": "no_public",
+      "username": "essence",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:34.371Z"
+    },
+    "Zalando": {
+      "status": "no_public",
+      "username": "zalando",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:34.401Z"
+    },
+    "Foot Locker": {
+      "status": "fetched",
+      "username": "footlocker",
+      "has_public_profile": true,
+      "subscriber_count": 130700,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:36.146Z"
+    },
+    "Deichmann": {
+      "status": "no_public",
+      "username": "deichmann",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:37.885Z"
+    },
+    "JD Sports": {
+      "status": "no_public",
+      "username": "jdsports",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:40.304Z"
+    },
+    "Snipes": {
+      "status": "fetched",
+      "username": "snipes",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:41.736Z"
+    },
+    "Peek & Cloppenburg": {
+      "status": "fetched",
+      "username": "peekcloppenburg",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:41.886Z"
+    },
+    "Galeries Lafayette": {
+      "status": "not_found",
+      "username": "galerieslafayette",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:27.132Z"
+    },
+    "Breuninger": {
+      "status": "no_public",
+      "username": "breuninger",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:49.745Z"
+    },
+    "TK Maxx": {
+      "status": "fetched",
+      "username": "tk-maxx",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:49.943Z"
+    },
+    "El Corte Ingles": {
+      "status": "no_public",
+      "username": "elcorteingles",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:52.195Z"
+    },
+    "Tezenis": {
+      "status": "fetched",
+      "username": "tezenisofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:54.991Z"
+    },
+    "Calzedonia": {
+      "status": "no_public",
+      "username": "calzedonia",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:55.706Z"
+    },
+    "Intimissimi": {
+      "status": "no_public",
+      "username": "intimissimi",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:55.872Z"
+    },
+    "Swarovski": {
+      "status": "fetched",
+      "username": "swarovski",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:57.319Z"
+    },
+    "Pandora": {
+      "status": "fetched",
+      "username": "pandoraofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:01:58.415Z"
+    },
+    "Bijou Brigitte": {
+      "status": "no_public",
+      "username": "bijoubrigitte",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:01.999Z"
+    },
+    "Fielmann": {
+      "status": "not_found",
+      "username": "fielmann",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:30.434Z"
+    },
+    "Specsavers": {
+      "status": "no_public",
+      "username": "specsavers",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:05.631Z"
+    },
+    "Ray-Ban": {
+      "status": "fetched",
+      "username": "ray-ban",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:05.868Z"
+    },
+    "Dr. Martens": {
+      "status": "fetched",
+      "username": "drmartens",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:07.163Z"
+    },
+    "Oakley": {
+      "status": "fetched",
+      "username": "oakleyofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:08.368Z"
+    },
+    "Birkenstock": {
+      "status": "not_found",
+      "username": "birkenstock",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:33.786Z"
+    },
+    "Crocs": {
+      "status": "fetched",
+      "username": "crocs",
+      "has_public_profile": true,
+      "subscriber_count": 11200,
+      "spotlight_count": 21,
+      "fetched_at": "2026-04-09T13:02:11.930Z"
+    },
+    "Timberland": {
+      "status": "fetched",
+      "username": "timberland",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 16,
+      "fetched_at": "2026-04-09T13:02:12.041Z"
+    },
+    "Superdry": {
+      "status": "no_public",
+      "username": "superdry",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:12.530Z"
+    },
+    "Vero Moda": {
+      "status": "fetched",
+      "username": "veromoda",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:14.019Z"
+    },
+    "Only": {
+      "status": "no_public",
+      "username": "onlyofficial",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:15.907Z"
+    },
+    "Jack & Jones": {
+      "status": "no_public",
+      "username": "jackjones",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:18.081Z"
+    },
+    "Selected": {
+      "status": "no_public",
+      "username": "selected",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:21.370Z"
+    },
+    "Scotch & Soda": {
+      "status": "no_public",
+      "username": "scotch_soda",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:23.614Z"
+    },
+    "G-Star": {
+      "status": "no_public",
+      "username": "gstar",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:23.680Z"
+    },
+    "Levi's": {
+      "status": "fetched",
+      "username": "levis",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:25.013Z"
+    },
+    "Guess": {
+      "status": "fetched",
+      "username": "guess_official",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:27.181Z"
+    },
+    "Diesel": {
+      "status": "fetched",
+      "username": "diesel_official",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:27.370Z"
+    },
+    "Lacoste": {
+      "status": "fetched",
+      "username": "lacoste",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:28.728Z"
+    },
+    "Carhartt": {
+      "status": "not_found",
+      "username": "carhartt",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:37.115Z"
+    },
+    "Fred Perry": {
+      "status": "no_public",
+      "username": "fred_perry",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:33.115Z"
+    },
+    "Dickies": {
+      "status": "no_public",
+      "username": "dickies",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:36.452Z"
+    },
+    "Patagonia": {
+      "status": "no_public",
+      "username": "patagonia",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:36.464Z"
+    },
+    "Arc'teryx": {
+      "status": "no_public",
+      "username": "arc-teryx",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:38.685Z"
+    },
+    "Victoria's Secret": {
+      "status": "fetched",
+      "username": "victoriassecret",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:39.993Z"
+    },
+    "Jack Wolfskin": {
+      "status": "fetched",
+      "username": "jackwolfskin",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:40.067Z"
+    },
+    "Mammut": {
+      "status": "no_public",
+      "username": "mammut",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:41.998Z"
+    },
+    "Wolford": {
+      "status": "fetched",
+      "username": "wolford",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:43.450Z"
+    },
+    "Triumph": {
+      "status": "fetched",
+      "username": "triumphofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:44.559Z"
+    },
+    "Hunkemoller": {
+      "status": "not_found",
+      "username": "hunkemoller",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:40.344Z"
+    },
+    "Notino": {
+      "status": "fetched",
+      "username": "notino",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:46.909Z"
+    },
+    "Flaconi": {
+      "status": "fetched",
+      "username": "flaconiofficial",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:47.916Z"
+    },
+    "Falke": {
+      "status": "no_public",
+      "username": "falke",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:49.023Z"
+    },
+    "Cult Beauty": {
+      "status": "fetched",
+      "username": "cult_beauty",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:51.742Z"
+    },
+    "Lookfantastic": {
+      "status": "not_found",
+      "username": "lookfantastic",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:43.655Z"
+    },
+    "Parfumdreams": {
+      "status": "not_found",
+      "username": "parfumdreams",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:47.170Z"
+    },
+    "GHD": {
+      "status": "not_found",
+      "username": "ghd",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:50.415Z"
+    },
+    "Dyson": {
+      "status": "no_public",
+      "username": "dyson",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:55.704Z"
+    },
+    "Philips": {
+      "status": "no_public",
+      "username": "philips",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:55.704Z"
+    },
+    "Braun": {
+      "status": "no_public",
+      "username": "braun",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:02:59.067Z"
+    },
+    "Chanel Parfums": {
+      "status": "not_found",
+      "username": "chanelparfums",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:05:01.615Z"
+    },
+    "Dior Parfums": {
+      "status": "not_found",
+      "username": "diorparfums",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:04:56.145Z"
+    },
+    "Paco Rabanne": {
+      "status": "fetched",
+      "username": "pacorabanne",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 1,
+      "fetched_at": "2026-04-09T13:03:03.043Z"
+    },
+    "Carolina Herrera": {
+      "status": "fetched",
+      "username": "carolinaherrera",
+      "has_public_profile": true,
+      "subscriber_count": 0,
+      "spotlight_count": 16,
+      "fetched_at": "2026-04-09T13:03:03.833Z"
+    },
+    "Jean Paul Gaultier": {
+      "status": "not_found",
+      "username": "jeanpaulgaultier",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:05:07.062Z"
+    },
+    "Versace Parfums": {
+      "status": "no_public",
+      "username": "versaceparfums",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:03:12.210Z"
+    },
+    "Hugo Boss Parfums": {
+      "status": "not_found",
+      "username": "hugobossparfums",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:05:12.491Z"
+    },
+    "Dolce Gabbana Parfums": {
+      "status": "not_found",
+      "username": "dolcegabbanaparfums",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:05:17.914Z"
+    },
+    "Lancome Parfums": {
+      "status": "not_found",
+      "username": "lancomeparfums",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:05:28.894Z"
+    },
+    "Yves Saint Laurent Parfums": {
+      "status": "not_found",
+      "username": "yvessaintlaurentparfums",
+      "has_public_profile": false,
+      "subscriber_count": 0,
+      "spotlight_count": 0,
+      "fetched_at": "2026-04-09T13:05:23.369Z"
+    }
+  },
+  "total_requests": 673,
+  "total_fetched": 100,
+  "total_no_public": 89,
+  "started_at": "2026-04-09T12:48:38.614Z",
+  "last_updated": "2026-04-09T13:05:28.894Z"
+}

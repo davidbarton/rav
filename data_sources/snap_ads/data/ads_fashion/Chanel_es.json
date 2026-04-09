@@ -1,8 +1,9 @@
 {
   "brand": "Chanel",
   "country": "es",
-  "fetched_at": "2026-04-08T23:00:00.965Z",
+  "fetched_at": "2026-04-09T14:50:38.172Z",
   "ads_count": 4,
+  "pagination_complete": true,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
@@ -46,81 +47,6 @@
           "mt": 0,
           "it": 0,
           "es": 811,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CHANEL",
-        "profile_name": "CHANEL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.chanel.com/ww/fragrance/chance/eau-splendide/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_chance_2025_1h&utm_term=snapad_15&utm_content=story_olfactory-making-of-film_"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "925282a4-e7ae-4a74-86e0-a9362544b0e3",
-        "name": "MADRID_fb_fr_chance_2025__snapchat_awar_reach_snapad_ints_beauty_video_olfactory-making-of-film__15_dp",
-        "ad_account_name": "OMG_CHANEL_Social_GBL_FNB_FB_Export",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "NEW. CHANCE EAU SPLENDIDE.",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/J8BPGfaUsXFfSizfR91UP.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAj8zkIgAUoOCglTLS45LTQZHjEQ9ANoAiICEgCiASMIugoSGgoYCPfpMCABSg4KCTMVGCMSEBEUJRD0A2gCIgISAKIBIgh_EhoKGAjR1h8gAUoOCgknERMSCw8NDxgQ9ANoAiICEgCiASMIkgoSGgoYCLHtISABSg4KCSYSFRQMEA8QFxD0A2gCIgISAKIBIwjEChIaChgI_rcfIAFKDgoJJAwPFQoOCwwYEPQDaAIiAhIAkAOYdQ%3D%3D&uc=15",
-        "start_date": "2025-05-05T07:00:21.000Z",
-        "impressions_total": 1066,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 1066,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -221,6 +147,81 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://www.chanel.com/ww/fragrance/chance/eau-splendide/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_chance_2025_1h&utm_term=snapad_15&utm_content=story_main-film_"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "925282a4-e7ae-4a74-86e0-a9362544b0e3",
+        "name": "MADRID_fb_fr_chance_2025__snapchat_awar_reach_snapad_ints_beauty_video_olfactory-making-of-film__15_dp",
+        "ad_account_name": "OMG_CHANEL_Social_GBL_FNB_FB_Export",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "NEW. CHANCE EAU SPLENDIDE.",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/J8BPGfaUsXFfSizfR91UP.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAj8zkIgAUoOCglTLS45LTQZHjEQ9ANoAiICEgCiASMIugoSGgoYCPfpMCABSg4KCTMVGCMSEBEUJRD0A2gCIgISAKIBIgh_EhoKGAjR1h8gAUoOCgknERMSCw8NDxgQ9ANoAiICEgCiASMIkgoSGgoYCLHtISABSg4KCSYSFRQMEA8QFxD0A2gCIgISAKIBIwjEChIaChgI_rcfIAFKDgoJJAwPFQoOCwwYEPQDaAIiAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-05-05T07:00:21.000Z",
+        "impressions_total": 1066,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 1066,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CHANEL",
+        "profile_name": "CHANEL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.chanel.com/ww/fragrance/chance/eau-splendide/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_chance_2025_1h&utm_term=snapad_15&utm_content=story_olfactory-making-of-film_"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

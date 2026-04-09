@@ -1,90 +1,14 @@
 {
   "brand": "New Balance",
   "country": "fr",
-  "fetched_at": "2026-04-09T00:01:10.796Z",
+  "fetched_at": "2026-04-09T12:45:46.877Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "f05042a8-c206-4c96-9157-2cd14be1cfd8",
-        "name": "vidéo 1",
-        "ad_account_name": "NB officiel last",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "30% + LIVRAISON GRATUITE",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dyODI7yWL8LmP5sdQ4XSR.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI3bwcIAEw4AM41AZAAUoOCgk-IjMlDRcfFxEQ9ANQskFoAiIGCgJIAxIAogEyCLoKEiUKIwjy1hcgATDQBTiACkACSg4KCTUaIiAMFRYVExD0A1CyQWgCIgYKAkgDEgCiATEIfxIlCiMIq-ATIAEw4AM41AZAAkoOCgkuFSAXCREVEhEQ9ANQskFoAiIGCgJIAhIAogEyCJIKEiUKIwj0iBUgATDgAzjUBkACSg4KCS8XIhgKEhcSDhD0A1CyQWgCIgYKAkgCEgCiATIIxAoSJQojCIysECABMOADONYGQAJKDgoJKBIXFggPDw4NEPQDULJBaAIiBgoCSAISAKIBMgjSChIlCiMIjtERIAEw4AM41AZAAkoOCgkrExkXCQ8REQ0Q9ANQskFoAiIGCgJIAhIAkAOyQQ%3D%3D&uc=15",
-        "start_date": "2025-09-07T11:40:43.000Z",
-        "impressions_total": 75125,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 75125,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "30",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "fr"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "New Balance Officiel",
-        "profile_name": "Gymsharkoff",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQXNiNU1TaG1lSUVqTkR6SUZPd3JvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.gymsharkofficiel.com/collections/best-sellers"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "7f096131-7588-4267-aca5-aa66e6e4fb3a",
+        "id": "8ded372b-384b-4617-a13d-1673a92e68a9",
         "name": "vidéo 2",
         "ad_account_name": "NB officiel last",
         "status": "PAUSED",
@@ -94,13 +18,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "30% + Livraison GRATUITE",
+        "headline": "SOLDES D'ÉTÉ",
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/noUTU6QU1Oq120FumxwIq.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwi64C4gATDgAzjUBkABSg4KCUYqYztCPiw7OhD0A1CoLWgCIgISAKIBLgi6ChIlCiMI7qQnIAEw0AU4gApAAkoOCgk6IFYxRTMiKi8Q9ANQqC1oAiICEgCiAS0IfxIlCiMIm8sfIAEw4AM41AZAAkoOCgkqGT4tLCkdJiYQ9ANQqC1oAiICEgCiAS4IkgoSJQojCMPXICABMOADONQGQAJKDgoJKxtDLjErHiYmEPQDUKgtaAIiAhIAogEuCMQKEiUKIwjd1BggATDgAzjWBkACSg4KCSgUNx8kIhQgHRD0A1CoLWgCIgISAKIBLgjSChIlCiMI5dcZIAEw4AM41AZAAkoOCgkqFTkhJSMVIh4Q9ANQqC1oAiICEgCQA6gt&uc=15",
-        "start_date": "2025-07-30T14:15:00.000Z",
-        "impressions_total": 2240,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/g0cBFf5LgOvJDbxdhmQbY.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIhLQ2IAEw4AM41AZAAUoOCgkrDxkpFzQxJSAQ9ANQqF9oAiIGCgJIBBIAogEyCLoKEiUKIwjV0jsgATDQBTiACkACSg4KCTAWFC8eOD4_HxD0A1CoX2gCIgYKAkgDEgCiATEIfxIlCiMIprsoIAEw4AM41AZAAkoOCgknDBQgERwnHhUQ9ANQqF9oAiIGCgJIAhIAogEyCJIKEiUKIwjb8iogATDgAzjUBkACSg4KCSgOFyISHhsrFxD0A1CoX2gCIgYKAkgCEgCiATIIxAoSJQojCJqZIiABMOADONYGQAJKDgoJJBUOGw4YFRkUEPQDUKhfaAIiBgoCSAISAKIBMgjSChIlCiMI0IMgIAEw4AM41AZAAkoOCgkhBg4bDxYUFhQQ9ANQqF9oAiIGCgJIAhIAkAOoXw%3D%3D&uc=15",
+        "start_date": "2025-08-09T14:45:00.000Z",
+        "impressions_total": 28068,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -112,7 +36,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 2240,
+          "fr": 28068,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -142,17 +66,16 @@
               "languages": [
                 "fr"
               ],
-              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
         "paying_advertiser_name": "New Balance Officiel",
-        "profile_name": "New Balance Officiel",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTJNVUMxcjdyRFJZOHZ5dTVsYnI2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "profile_name": "Kicks Lab",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbmhpYVJ3OXF3bzBTeTZ2SHRCMEVqP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
         "web_view_properties": {
-          "url": "https://newbalanceofficiel.fr/collections/best-seller"
+          "url": "https://kicks-lab.fr/collections/best-sellers"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -162,23 +85,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "e1e88f73-abd5-46b2-81a3-f16dcafa0339",
-        "name": "lancement",
-        "ad_account_name": "NB officiel last",
-        "status": "PAUSED",
+        "id": "9fb4801c-db9c-46ba-b967-0e27e9be8450",
+        "name": "TX3_FR_Audience_1PD_NCA Lifestyle A Better Legacy 740_Static_1:1_NA_Online Catalogue_Off Model_Lifestyle_LAL_Feb 26 Headline",
+        "ad_account_name": "New Balance - France ",
+        "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "fr"
         ],
-        "headline": "OFFRE DE NOËL",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
+        "headline": "La 740, dans de nouveaux tons ocre",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OHovfPb8MhFgGXXt6mnFd.67?mo=GvABGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBMghDEiYKJAjm0lggATDgAzjUBkABSg8KCqkBTDY0YkI8UC0Q9ANQiktoAiIGCgJIBBIAogE0CLoKEicKJQiD0WwgATDQBTiACkACShAKC5gCdkFUiQE3Qmw7EPQDUIpLaAIiBgoCSAMSAKIBMgiSChIlCiMI5848IAEw4AM41AZAAkoOCglwPiErRyksPx0Q9ANQiktoAiIGCgJIAhIAogEyCNIKEiUKIwiO2TEgATDgAzjUBkACSg4KCXg4IiUsGxwvHBD0A1CKS2gCIgYKAkgCEgCQA4pL&uc=15",
-        "start_date": "2025-12-12T11:10:28.000Z",
-        "impressions_total": 102204,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zIDKY8ZTtTItEkCtZCD4W.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-02-18T16:16:38.000Z",
+        "impressions_total": 752124,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -190,7 +113,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 102204,
+          "fr": 752124,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -214,9 +137,385 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "45",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "GLOBAL New Balance",
+        "brand_name": "New Balance",
+        "favorite_display_mode": "HIDE",
+        "web_view_properties": {
+          "url": "https://www.newbalance.fr/fr/acheter-par-modele/740/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4011eaf4-c3e0-4fc2-8959-44012eb60c5a",
+        "name": "video twoj",
+        "ad_account_name": "NB officiel last",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "OFFRE DE PRINTEMPS",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-09-28T13:10:57.000Z",
+        "impressions_total": 48459,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 48459,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
               "age_groups": [],
               "gender": "FEMALE",
+              "languages": [
+                "fr"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "web_view_properties": {
+          "url": "https://ugg-official.com/collections/tendance-du-moment"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad contains content that could be perceived as misleading or confusing to a Snapchatter. Ads including deceptive claims/offers/business practices, bait-and-switch techniques, unverified government regulations/programs/laws, guaranteed financial incentives, or other results that may not be achievable by most individuals are prohibited.",
+          "Your ad generated negative sentiment from the Snapchat community and has been revoked. Please visit https://businesshelp.snapchat.com for our full Advertising Policies, Community Guidelines and more information."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "6e3b51e7-239a-49a6-859e-da69ca54c5a6",
+        "name": "vidéo 1",
+        "ad_account_name": "NB officiel last",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "SOLDES ÉTÉ",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UZ7b7Uv6kMNuJ7t0SDQww.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIn8Y-IAEw4AM41AZAAUoOCgl1PFsyQjs7MkIQ9ANQzEloAiIGCgJIBBIAogEyCLoKEiUKIwiO_zIgATDQBTiACkACSg4KCWkrQi4xLzAsMBD0A1DMSWgCIgYKAkgCEgCiATEIfxIlCiMIvIUnIAEw4AM41AZAAkoOCglSJD0jHyUlICkQ9ANQzEloAiIGCgJIAhIAogEyCJIKEiUKIwjLwSggATDgAzjUBkACSg4KCVIpPiQhJyYjJhD0A1DMSWgCIgYKAkgCEgCiATIIxAoSJQojCNKuICABMOADONYGQAJKDgoJRhooHh4gHxwdEPQDUMxJaAIiBgoCSAISAKIBMgjSChIlCiMItLciIAEw4AM41AZAAkoOCglJHCoeHyIhHB4Q9ANQzEloAiIGCgJIAhIAkAPMSQ%3D%3D&uc=15",
+        "start_date": "2025-08-15T17:50:19.000Z",
+        "impressions_total": 101118,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 101118,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "40",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [
+                "fr"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "New Balance Officiel",
+        "profile_name": "Birkenstock",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvd09rY2hRV1ZLd0NVTGJ3blVEY1BoP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://birkenstock-off.com/collections/best-sellers"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b3ef2b4f-f108-488f-8bbb-2341c5ffd0c0",
+        "name": " vidéo 1",
+        "ad_account_name": "NB officiel last",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "30% + LIVRAISON GRATUITE",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-08-13T12:30:25.000Z",
+        "impressions_total": 5904,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 5904,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "fr"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "web_view_properties": {
+          "url": "https://birkenstock-off.com/collections/best-sellers"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "56eceb81-e5a5-49ae-8142-0ab9580e64a1",
+        "name": "TX3_FR_Audience_1PD_NCA Lifestyle A Better Legacy 740_Static_1:1_NA_Online Catalogue_Off Model_Lifestyle_CDP_Feb 26 Tagdline",
+        "ad_account_name": "New Balance - France ",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "La 740, dans de nouveaux tons ocre",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cSUyUqk7UZsPwAfKrokJI.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-02-18T16:16:38.000Z",
+        "impressions_total": 226083,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 226083,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "GLOBAL New Balance",
+        "brand_name": "New Balance",
+        "favorite_display_mode": "HIDE",
+        "web_view_properties": {
+          "url": "https://www.newbalance.fr/fr/acheter-par-modele/740/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "757baf51-6130-4179-bb4e-3e2cc8bc73c0",
+        "name": "vidéo 1",
+        "ad_account_name": "NB officiel last",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "SOLDES D'ÉTÉ",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/pP8ferCpqwNaTT7FtJHrb.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIw5hXIAEw4AM41AZAAUoOCgleLDcyKUA2PkAQ9ANQqF9oAiIGCgJIAhIAogEyCLoKEiUKIwj8lEMgATDQBTiACkACSg4KCVglJSceNCMuLxD0A1CoX2gCIgYKAkgDEgCiATEIfxIlCiMI6qI4IAEw4AM41AZAAkoOCglEHiQiHiQmLikQ9ANQqF9oAiIGCgJIAhIAogEyCJIKEiUKIwj_jjogATDgAzjUBkACSg4KCUUdJiMdKyUsKxD0A1CoX2gCIgYKAkgCEgCiATIIxAoSJQojCKylLCABMOADONYGQAJKDgoJQBkZGhQjFh8fEPQDUKhfaAIiBgoCSAISAKIBMgjSChIlCiMI1KMvIAEw4AM41AZAAkoOCglFHBscFyUYIiAQ9ANQqF9oAiIGCgJIAhIAkAOoXw%3D%3D&uc=15",
+        "start_date": "2025-08-26T12:20:45.000Z",
+        "impressions_total": 58192,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 58192,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "40",
+              "age_groups": [],
+              "gender": "MALE",
               "languages": [],
               "advanced_demographics": []
             }
@@ -224,10 +523,87 @@
           "devices": []
         },
         "paying_advertiser_name": "New Balance Officiel",
-        "profile_name": "UGG Official",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ3VUalEySzlxRjhMSzlkRllBdDZ1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "profile_name": "Asics",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdmN6WU1EVlhHdnVka24xZTVVQUttP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://uggofficiel.com/collections/tendance-du-moment"
+          "url": "https://asicsofficial.fr/collections/best-sellers"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "f4b55ded-440f-4a8e-986a-66aa182cea90",
+        "name": "firstt1",
+        "ad_account_name": "NB officiel last",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "SOLDES D'ÉTÉ",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vKVyM6KpN72E24e3LJPuC.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIto81IAEw4AM41AZAAUoOCgkxDxYnFyciPR8Q9ANQqF9oAiIGCgJIAxIAogEyCLoKEiUKIwjKiT0gATDQBTiACkACSg4KCTQVEi8pMSw1IBD0A1CoX2gCIgYKAkgCEgCiATEIfxIlCiMIsb0oIAEw4AM41AZAAkoOCgkrDBIdEhwlHhcQ9ANQqF9oAiIGCgJIAhIAogEyCJIKEiUKIwiGwCogATDgAzjUBkACSg4KCSwOEiERHigfFxD0A1CoX2gCIgYKAkgCEgCiATIIxAoSJQojCNb0ISABMOADONYGQAJKDgoJKQ4LGQ4tEhYUEPQDUKhfaAIiBgoCSAISAKIBMgjSChIlCiMIgKkfIAEw4AM41AZAAkoOCgknBgwZDhYVFxQQ9ANQqF9oAiIGCgJIAhIAkAOoXw%3D%3D&uc=15",
+        "start_date": "2025-08-20T14:32:02.000Z",
+        "impressions_total": 6306,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 6306,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "30",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [
+                "fr"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "New Balance Officiel",
+        "profile_name": "New Balance Officiel",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTJNVUMxcjdyRFJZOHZ5dTVsYnI2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://newbalanceofficial.fr/collections/best-seller"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -314,8 +690,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "d5ba6ac5-7cb8-4142-92cb-27c343989cb7",
-        "name": "video111111",
+        "id": "d7513d05-037a-456e-ae7e-9220f2b57850",
+        "name": "vidéo 2",
         "ad_account_name": "NB officiel last",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -324,13 +700,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "OFFRE D'AUTOMNE",
+        "headline": "30% + LIVRAISON GRATUITE",
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zzNHmIafZIbvxbpLUIb8Z.67?mo=GokCGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigIsao0IAEw4AM41AZAAUoOCglPGicXFxQUIRcQ9ANQgH1oAnX4O2xAIgYKAkgEEgCiATcIugoSKgooCLnlMiABMNAFOIAKQAJKDgoJYhkVIxkUERwZEPQDUIB9aAJ1ZYOCQCIGCgJIAhIAogE8CJIKEi8KLQjSwiMgATDgAzjUBkACSg4KCT0UGg8PDw8WEBD0A1CAfWgCdWLoYkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjsuB8gATDgAzjUBkACSg4KCTgODBcPDQoTDhD0A1CAfWgCdXFSb0B9AACAPyIGCgJIAhIAkAOAfQ%3D%3D&uc=15",
-        "start_date": "2025-10-09T13:00:29.000Z",
-        "impressions_total": 101536,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/jNtwuuViRSIl6yvUCg7Se.67?mo=GsMCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLghDEiYKJAiG_UEgATDgAzjUBkABSg8KCpYBM00sfzFMEDkQ9ANQ9jtoAiICEgCiATAIugoSJwolCMjLQCABMNAFOIAKQAJKEAoLuAEyRiKMASpCKR8Q9ANQ9jtoAiICEgCiAS0IfxIlCiMI1JcqIAEw4AM41AZAAkoOCglrJjE9MyM2CCgQ9ANQ9jtoAiICEgCiAS4IkgoSJQojCLjHKyABMOADONQGQAJKDgoJbCQyOzQmMyEUEPQDUPY7aAIiAhIAogEvCMQKEiYKJAiX9isgATDgAzjWBkACSg8KCoQBITEaTyEpHRkQ9ANQ9jtoAiICEgCiAS8I0goSJgokCML9KyABMOADONQGQAJKDwoKhAEdMxpQICkeGhD0A1D2O2gCIgISAJAD9js%3D&uc=15",
+        "start_date": "2025-08-13T12:30:25.000Z",
+        "impressions_total": 64333,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -342,7 +718,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 101536,
+          "fr": 64333,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -367,388 +743,6 @@
             {
               "min_age": "18",
               "max_age": "35",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "fr"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "New Balance Officiel",
-        "profile_name": "UGG Official",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ3VUalEySzlxRjhMSzlkRllBdDZ1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://ugg-official.com/collections/tendance-du-moment"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "9fb4801c-db9c-46ba-b967-0e27e9be8450",
-        "name": "TX3_FR_Audience_1PD_NCA Lifestyle A Better Legacy 740_Static_1:1_NA_Online Catalogue_Off Model_Lifestyle_LAL_Feb 26 Headline",
-        "ad_account_name": "New Balance - France ",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "La 740, dans de nouveaux tons ocre",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zIDKY8ZTtTItEkCtZCD4W.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-02-18T16:16:38.000Z",
-        "impressions_total": 752124,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 752124,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "GLOBAL New Balance",
-        "brand_name": "New Balance",
-        "favorite_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://www.newbalance.fr/fr/acheter-par-modele/740/"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8cb55436-fb2d-4b7c-bc74-8c8062c58a27",
-        "name": "Copie de vidéo 1",
-        "ad_account_name": "NB officiel last",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "SOLDES ÉTÉ",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/htj8PUt4FftdBuK2pD17h.67?mo=GtgCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIzoZAIAEw4AM41AZAAUoPCgqWATNQJ3sxShA5EPQDUPY7aAIiBgoCSAQSAKIBNAi6ChInCiUI-a8_IAEw0AU4gApAAkoQCgu2ATJFIIgBKkAqHRD0A1D2O2gCIgYKAkgDEgCiATEIfxIlCiMIlbEqIAEw4AM41AZAAkoOCgltJTE8MCI1CCgQ9ANQ9jtoAiIGCgJIAhIAogEyCJIKEiUKIwiOtSsgATDgAzjUBkACSg4KCXUjMzkzJDIOKBD0A1D2O2gCIgYKAkgCEgCiATMIxAoSJgokCK6lKyABMOADONYGQAJKDwoKgQEgMRpOISgdGRD0A1D2O2gCIgYKAkgCEgCiATII0goSJQojCMCoKyABMOADONQGQAJKDgoJfx8yGk4gKB4aEPQDUPY7aAIiBgoCSAISAJAD9js%3D&uc=15",
-        "start_date": "2025-08-15T17:50:19.000Z",
-        "impressions_total": 23775,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 23775,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "40",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "fr"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "New Balance Officiel",
-        "profile_name": "Birkenstock",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvd09rY2hRV1ZLd0NVTGJ3blVEY1BoP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://birkenstock-off.com/collections/best-sellers"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "35764c37-f706-4bac-8358-fc95b63e1072",
-        "name": "vidéo 2",
-        "ad_account_name": "NB officiel last",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "30% + Livraison GRATUITE",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/noUTU6QU1Oq120FumxwIq.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwi64C4gATDgAzjUBkABSg4KCUYqYztCPiw7OhD0A1CoLWgCIgISAKIBLgi6ChIlCiMI7qQnIAEw0AU4gApAAkoOCgk6IFYxRTMiKi8Q9ANQqC1oAiICEgCiAS0IfxIlCiMIm8sfIAEw4AM41AZAAkoOCgkqGT4tLCkdJiYQ9ANQqC1oAiICEgCiAS4IkgoSJQojCMPXICABMOADONQGQAJKDgoJKxtDLjErHiYmEPQDUKgtaAIiAhIAogEuCMQKEiUKIwjd1BggATDgAzjWBkACSg4KCSgUNx8kIhQgHRD0A1CoLWgCIgISAKIBLgjSChIlCiMI5dcZIAEw4AM41AZAAkoOCgkqFTkhJSMVIh4Q9ANQqC1oAiICEgCQA6gt&uc=15",
-        "start_date": "2025-07-28T13:30:44.000Z",
-        "impressions_total": 651,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 651,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [
-                "fr"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "New Balance Officiel",
-        "profile_name": "New Balance Officiel",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTJNVUMxcjdyRFJZOHZ5dTVsYnI2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://newbalanceofficiel.fr/collections/best-seller"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f8f8c8d5-491b-44ec-ae9b-74504a78e62b",
-        "name": "vidéo 2",
-        "ad_account_name": "NB officiel last",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "30% + LIVRAISON GRATUITE",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vdHZcg9WPnlEW9Dxb3wpG.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIyMU6IAEw4AM41AZAAUoOCglMOTIoKho4LDEQ9ANQ2FRoAiIGCgJIBBIAogEyCLoKEiUKIwiIuSwgATDQBTiACkACSg4KCUUsJCMgFiYwIBD0A1DYVGgCIgYKAkgDEgCiATEIfxIlCiMIq54jIAEw4AM41AZAAkoOCgkyHycRHBMfGSQQ9ANQ2FRoAiIGCgJIAhIAogEyCJIKEiUKIwjhqiYgATDgAzjUBkACSg4KCTQjLBkXFCAcJBD0A1DYVGgCIgYKAkgCEgCiATIIxAoSJQojCOipHiABMOADONYGQAJKDgoJNB8YGBUQGh8VEPQDUNhUaAIiBgoCSAISAKIBMgjSChIlCiMIgs8fIAEw4AM41AZAAkoOCgk3IBoaFw8bHxUQ9ANQ2FRoAiIGCgJIAhIAkAPYVA%3D%3D&uc=15",
-        "start_date": "2025-09-07T11:40:43.000Z",
-        "impressions_total": 12061,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 12061,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "30",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "fr"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "New Balance Officiel",
-        "profile_name": "Gymsharkoff",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQXNiNU1TaG1lSUVqTkR6SUZPd3JvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.gymsharkofficiel.com/collections/best-sellers"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "6f53ba48-8cf3-42e1-9f02-36ca8790a5f4",
-        "name": "vidéo 1",
-        "ad_account_name": "NB officiel last",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "SOLDES ÉTÉ",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UZ7b7Uv6kMNuJ7t0SDQww.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIn8Y-IAEw4AM41AZAAUoOCgl1PFsyQjs7MkIQ9ANQzEloAiIGCgJIBBIAogEyCLoKEiUKIwiO_zIgATDQBTiACkACSg4KCWkrQi4xLzAsMBD0A1DMSWgCIgYKAkgCEgCiATEIfxIlCiMIvIUnIAEw4AM41AZAAkoOCglSJD0jHyUlICkQ9ANQzEloAiIGCgJIAhIAogEyCJIKEiUKIwjLwSggATDgAzjUBkACSg4KCVIpPiQhJyYjJhD0A1DMSWgCIgYKAkgCEgCiATIIxAoSJQojCNKuICABMOADONYGQAJKDgoJRhooHh4gHxwdEPQDUMxJaAIiBgoCSAISAKIBMgjSChIlCiMItLciIAEw4AM41AZAAkoOCglJHCoeHyIhHB4Q9ANQzEloAiIGCgJIAhIAkAPMSQ%3D%3D&uc=15",
-        "start_date": "2025-08-15T17:50:19.000Z",
-        "impressions_total": 116349,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 116349,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "40",
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [

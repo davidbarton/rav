@@ -1,84 +1,10 @@
 {
   "brand": "adidas",
   "country": "fr",
-  "fetched_at": "2026-04-08T22:42:22.236Z",
+  "fetched_at": "2026-04-09T12:28:51.668Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ac7569c3-7633-49e3-8e9b-6294d6340444",
-        "name": "SnapLens|Vertical|NA|French|LearnMore|NA|NA|1|SoundofSuperstar",
-        "ad_account_name": "adidas FR",
-        "status": "ACTIVE",
-        "creative_type": "LENS_WEB_VIEW",
-        "ad_type": "LENS_REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "adidas Originals",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "LENS_PACKAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/c62eb8e2-e46a-4beb-8bec-21b51787779e.lens",
-        "start_date": "2025-09-17T17:00:49.000Z",
-        "impressions_total": 1903945,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1903945,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "34",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas Originals",
-        "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/620156244;427054564;c?https://www.adidas.fr/superstar?cm_mmc=AdiPaidSocial_Snapchat-_-Originals-_-Feed-_-3D-_-SnapLens-_-dv:Brand-_-cn:FW25SUPERSTAR_Engage-_-pc:Originals&cm_mmc1=FR&cm_mmc2=adidas-EMEA-Brand-PaidSocial-Originals-Prospecting-FR-FW25SUPERSTAR-2508-5437-NA-Social-SnapLensBRAND2"
-        },
-        "lens_preview": {
-          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/XKMCPFnp6dbckIQojiI3V?bo=EhQyAX06AQRCBgi82qXGBkgCUBJgAQ%3D%3D&uc=18"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -148,6 +74,81 @@
         },
         "lens_preview": {
           "icon_url": "https://bolt-gcdn.sc-cdn.net/3/UcOB4yiXukriUg0Ds7YXJ?bo=EhQyAX06AQRCBgi-r7HFBkgCUBJgAQ%3D%3D&uc=18"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ac7569c3-7633-49e3-8e9b-6294d6340444",
+        "name": "SnapLens|Vertical|NA|French|LearnMore|NA|NA|1|SoundofSuperstar",
+        "ad_account_name": "adidas FR",
+        "status": "ACTIVE",
+        "creative_type": "LENS_WEB_VIEW",
+        "ad_type": "LENS_REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "adidas Originals",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "LENS_PACKAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/c62eb8e2-e46a-4beb-8bec-21b51787779e.lens",
+        "start_date": "2025-09-17T17:00:49.000Z",
+        "impressions_total": 1903945,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1903945,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "brand_name": "adidas Originals",
+        "web_view_properties": {
+          "url": "https://ad.doubleclick.net/ddm/clk/620156244;427054564;c?https://www.adidas.fr/superstar?cm_mmc=AdiPaidSocial_Snapchat-_-Originals-_-Feed-_-3D-_-SnapLens-_-dv:Brand-_-cn:FW25SUPERSTAR_Engage-_-pc:Originals&cm_mmc1=FR&cm_mmc2=adidas-EMEA-Brand-PaidSocial-Originals-Prospecting-FR-FW25SUPERSTAR-2508-5437-NA-Social-SnapLensBRAND2"
+        },
+        "lens_preview": {
+          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/XKMCPFnp6dbckIQojiI3V?bo=EhQyAX06AQRCBgi82qXGBkgCUBJgAQ%3D%3D&uc=18"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -256,6 +257,81 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
+        "id": "45ff02a2-15de-42b6-bc4c-dc6e529ba7b7",
+        "name": "VPPLA|Square|NA|French|ShopNow|NA|NA|4|UGCEvieEarlyAccess",
+        "ad_account_name": "adidas eCom Europe (Smartly)",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "AVANT-PREMIÈRE : JUSQU'À -40 % ",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vszgti5rVD1D3oxDdVDGh.67?mo=Go8CGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQjjqnAgATDgAzjUBkABSg8KCn5WGEAKggFNQi8Q9ANQ6nFoAnWYTldAIgYKAkgDEgCiAToIugoSLQorCLzUdyABMNAFOIAKQAJKEQoMzwGFAR2PAQt5PDsrEPQDUOpxaAJ1cChlQCIGCgJIAxIAogE8CJIKEi8KLQi5xFUgATDgAzjUBkACSg4KCWhNEkALYzkvIxD0A1DqcWgCdV6cT0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQj0sk0gATDgAzjUBkACSg4KCXRSDlMHSi0sIBD0A1DqcWgCdYF4VUB9AACAPyIGCgJIAhIAkAPqcQ%3D%3D&uc=15",
+        "start_date": "2025-11-17T00:30:00.000Z",
+        "impressions_total": 421,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 421,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "brand_name": "adidas",
+        "profile_name": "adidas",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://ad.doubleclick.net/ddm/clk/625620157;432407945;h?https://www.adidas.fr/black_friday?cm_mmc=AdiPaidSocial_Snapchat-_-Commercial-_-Darkpost-_-3D-_-StoryVPPLA-_-dv:eCOM-_-cn:FW25Holiday_NA-_-pc:Commercial&cm_mmc1=FR&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-Commercial-Retargeting_NA-FR-FW25Holiday-2511-6061-CP3339X-Global-NA-NAEarlyAccessPSE9"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
         "id": "f0f2acae-6954-4f02-9af7-9014d0f1fc96",
         "name": "VPPLA|Square|NA|French|ShopNow|NA|NA|3|UGCJadeEarlyAccess",
         "ad_account_name": "adidas eCom Europe (Smartly)",
@@ -330,8 +406,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "88148dc4-e7a0-48da-8684-6777d167b369",
-        "name": "PPLA|Square|NA|French|ShopNow|NA|NA|7|UGC5LucyV4EarlyAccess",
+        "id": "18a9dfe5-2d36-41ca-83f6-de1225ccb45a",
+        "name": "VPPLA|Square|NA|French|ShopNow|NA|NA|4|UGCEvieEarlyAccess",
         "ad_account_name": "adidas eCom Europe (Smartly)",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -342,11 +418,11 @@
         ],
         "headline": "AVANT-PREMIÈRE : JUSQU'À -40 % ",
         "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ErJ5qMzejjfX47XRkF6SL.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zazgJUzJSPFAd9SW8pgfU.67?mo=GoACGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEzCEMSKwopCMb-ciABMOADONQGQAFKDwoKgwFaGUsLflJJLRD0A1DqcWgCdUe3U0AiAhIAogE1CLoKEiwKKgja8HkgATDQBTiACkACShAKC9QBiwEceAx7Pz0sEPQDUOpxaAJ1tu9iQCICEgCiATgIkgoSLwotCLzQVyABMOADONQGQAJKDgoJbUUZOxJqOTUiEPQDUOpxaAJ1FzhIQH0AAIA_IgISAKIBOAjSChIvCi0IxphQIAEw4AM41AZAAkoOCgl8VhBIB00wLyEQ9ANQ6nFoAnUOeVZAfQAAgD8iAhIAkAPqcQ%3D%3D&uc=15",
         "start_date": "2025-11-17T00:30:00.000Z",
-        "impressions_total": 3107,
+        "impressions_total": 674,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -358,7 +434,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 3107,
+          "fr": 674,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -394,7 +470,82 @@
         "profile_name": "adidas",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/625395585;432407906;s?https://www.adidas.fr/black_friday?cm_mmc=AdiPaidSocial_Snapchat-_-Commercial-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:FW25Holiday_NA-_-pc:Commercial&cm_mmc1=FR&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-Commercial-Prospecting_NA-FR-FW25Holiday-2511-6061-CP3339X-Global-NA-NAEarlyAccessPSE9"
+          "url": "https://ad.doubleclick.net/ddm/clk/625620166;432407954;h?https://www.adidas.fr/black_friday?cm_mmc=AdiPaidSocial_Snapchat-_-Commercial-_-Darkpost-_-3D-_-StoryVPPLA-_-dv:eCOM-_-cn:FW25Holiday_NA-_-pc:Commercial&cm_mmc1=FR&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-Commercial-Prospecting_NA-FR-FW25Holiday-2511-6061-CP3339X-Global-NA-NABFWeekendPSE9"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "8c2ba054-b77e-4149-88f1-f8da2d16f8c8",
+        "name": "PPLA|Square|NA|French|ShopNow|NA|NA|3|UGC1EvieV6EarlyAccess",
+        "ad_account_name": "adidas eCom Europe (Smartly)",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "AVANT-PREMIÈRE : JUSQU'À -40 % ",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RC5Ovr9YaBKozCMVLs1JM.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-11-17T00:30:00.000Z",
+        "impressions_total": 9086,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 9086,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "brand_name": "adidas",
+        "profile_name": "adidas",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://ad.doubleclick.net/ddm/clk/625395585;432407906;s?https://www.adidas.fr/black_friday?cm_mmc=AdiPaidSocial_Snapchat-_-Commercial-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:FW25Holiday_NA-_-pc:Commercial&cm_mmc1=FR&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-Commercial-Retargeting_NA-FR-FW25Holiday-2511-6061-CP3339X-Global-NA-NAEarlyAccessPSE9"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -478,8 +629,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "e71f84db-1402-4f2e-8d77-1b2a078d9113",
-        "name": "VPPLA|Square|NA|French|ShopNow|NA|NA|2|UGCLucyEarlyAccess",
+        "id": "2bae8f75-bdf5-47e9-a7d6-8cc64fdceeb5",
+        "name": "VPPLA|Square|NA|French|ShopNow|NA|NA|3|UGCJadeEarlyAccess",
         "ad_account_name": "adidas eCom Europe (Smartly)",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -492,9 +643,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SEsnGFDeRR0zDYeJefYgY.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjb3jcgATDgAzjUBkABSg4KCT0SHRkSNSQsKRD0A1D0Z2gCdbwxYEB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQjtzjEgATDQBTiACkACSg4KCTgTFRcRLBkiIBD0A1D0Z2gCdbbabkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjcmiggATDgAzjUBkACSg4KCS0QFRMQIxkgHRD0A1D0Z2gCdUS_TUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQipwyMgATDgAzjUBkACSg4KCTEODhAMIhMaGBD0A1D0Z2gCdRz1YEB9AACAPyIGCgJIAhIAkAP0Zw%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zkTngD7bZnU4toBbiSvMc.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgjB3XIgATDgAzjUBkABSg4KCWYMIx8WGDMwERD0A1D0ywFoAnUWlV1AfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4I7o9mIAEw0AU4gApAAkoOCglYER4iFB0fKxoQ9ANQ9MsBaAJ187txQH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCLiWUCABMOADONQGQAJKDgoJTwobFhETIyMNEPQDUPTLAWgCdRQgUEB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgjciUogATDgAzjUBkACSg4KCUYNFRcPFRYfEBD0A1D0ywFoAnVqPGFAfQAAgD8iBgoCSAISAJAD9MsB&uc=15",
         "start_date": "2025-11-17T00:30:00.000Z",
-        "impressions_total": 3127,
+        "impressions_total": 1865,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -506,7 +657,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 3127,
+          "fr": 1865,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -552,8 +703,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "02ba83c2-a37c-476c-9f05-f5f5930acaf5",
-        "name": "VPPLA|Square|NA|French|ShopNow|NA|NA|1|VPPLA1EarlyAccess",
+        "id": "931c574c-50ec-4c2a-a1d2-ac49b19f2002",
+        "name": "VPPLA|Square|NA|French|ShopNow|NA|NA|2|UGCLucyEarlyAccess",
         "ad_account_name": "adidas eCom Europe (Smartly)",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -566,9 +717,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nGLNzIeydMzS6zbPSTpXp.67?mo=Gv0BGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCP6FLiABMOADONQGQAFKDgoJOyUiOxUVCQ0GEPQDUIBaaAJ1ZC9eQCICEgCiATMIugoSKgooCMuIGiABMNAFOIAKQAJKDgoJJRMVFREOBgkHEPQDUIBaaAJ1YEJaQCICEgCiATgIkgoSLwotCOvPFSABMOADONQGQAJKDgoJGw0PDwwJBQcEEPQDUIBaaAJ1sNNNQH0AAIA_IgISAKIBOAjSChIvCi0Isq4RIAEw4AM41AZAAkoOCgkbDQ0MDAoEBwUQ9ANQgFpoAnXEN1NAfQAAgD8iAhIAkAOAWg%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LNuH4HUTcAJEKPXWXCFIf.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiy8DYgATDgAzjUBkABSg4KCToRHRUTNSQvKBD0A1D0Z2gCdZxHZkAiBgoCSAISAKIBNwi6ChIqCigItrcvIAEw0AU4gApAAkoOCgk0EhQWEC0bIBwQ9ANQ9GdoAnXa6XJAIgYKAkgDEgCiATwIkgoSLwotCJnKJiABMOADONQGQAJKDgoJLA4UEw4jGR4bEPQDUPRnaAJ1STdOQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCJ7lISABMOADONQGQAJKDgoJLwwODwshExgXEPQDUPRnaAJ1-xdkQH0AAIA_IgYKAkgCEgCQA_Rn&uc=15",
         "start_date": "2025-11-17T00:30:00.000Z",
-        "impressions_total": 1539,
+        "impressions_total": 1658,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -580,7 +731,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 1539,
+          "fr": 1658,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -617,156 +768,6 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://ad.doubleclick.net/ddm/clk/625620166;432407954;h?https://www.adidas.fr/black_friday?cm_mmc=AdiPaidSocial_Snapchat-_-Commercial-_-Darkpost-_-3D-_-StoryVPPLA-_-dv:eCOM-_-cn:FW25Holiday_NA-_-pc:Commercial&cm_mmc1=FR&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-Commercial-Prospecting_NA-FR-FW25Holiday-2511-6061-CP3339X-Global-NA-NAEarlyAccessPSE9"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "e66eed64-8f90-47c9-b59e-fed2230eccf2",
-        "name": "VPPLA|Square|NA|French|ShopNow|NA|NA|2|UGCLucyEarlyAccess",
-        "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "AVANT-PREMIÈRE : JUSQU'À -40 % ",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SEsnGFDeRR0zDYeJefYgY.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjb3jcgATDgAzjUBkABSg4KCT0SHRkSNSQsKRD0A1D0Z2gCdbwxYEB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQjtzjEgATDQBTiACkACSg4KCTgTFRcRLBkiIBD0A1D0Z2gCdbbabkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjcmiggATDgAzjUBkACSg4KCS0QFRMQIxkgHRD0A1D0Z2gCdUS_TUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQipwyMgATDgAzjUBkACSg4KCTEODhAMIhMaGBD0A1D0Z2gCdRz1YEB9AACAPyIGCgJIAhIAkAP0Zw%3D%3D&uc=15",
-        "start_date": "2025-11-17T00:30:00.000Z",
-        "impressions_total": 794,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 794,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
-        "profile_name": "adidas",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/625620157;432407945;h?https://www.adidas.fr/black_friday?cm_mmc=AdiPaidSocial_Snapchat-_-Commercial-_-Darkpost-_-3D-_-StoryVPPLA-_-dv:eCOM-_-cn:FW25Holiday_NA-_-pc:Commercial&cm_mmc1=FR&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-Commercial-Retargeting_NA-FR-FW25Holiday-2511-6061-CP3339X-Global-NA-NABFWeekendPSE9"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f61501ce-2b2e-47de-b130-b2756c0e0342",
-        "name": "VPPLA|Square|NA|French|ShopNow|NA|NA|3|UGCJadeEarlyAccess",
-        "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "AVANT-PREMIÈRE : JUSQU'À -40 % ",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zkTngD7bZnU4toBbiSvMc.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgjB3XIgATDgAzjUBkABSg4KCWYMIx8WGDMwERD0A1D0ywFoAnUWlV1AfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4I7o9mIAEw0AU4gApAAkoOCglYER4iFB0fKxoQ9ANQ9MsBaAJ187txQH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCLiWUCABMOADONQGQAJKDgoJTwobFhETIyMNEPQDUPTLAWgCdRQgUEB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgjciUogATDgAzjUBkACSg4KCUYNFRcPFRYfEBD0A1D0ywFoAnVqPGFAfQAAgD8iBgoCSAISAJAD9MsB&uc=15",
-        "start_date": "2025-11-17T00:30:00.000Z",
-        "impressions_total": 1824,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1824,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
-        "profile_name": "adidas",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/625620157;432407945;h?https://www.adidas.fr/black_friday?cm_mmc=AdiPaidSocial_Snapchat-_-Commercial-_-Darkpost-_-3D-_-StoryVPPLA-_-dv:eCOM-_-cn:FW25Holiday_NA-_-pc:Commercial&cm_mmc1=FR&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-Commercial-Retargeting_NA-FR-FW25Holiday-2511-6061-CP3339X-Global-NA-NABFWeekendPSE9"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

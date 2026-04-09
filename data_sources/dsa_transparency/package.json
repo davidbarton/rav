@@ -1,0 +1,18 @@
+{
+  "name": "dsa_transparency",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "npx tsx src/fetch_sor.ts",
+    "fetch:test": "npx tsx src/fetch_sor.ts --test",
+    "status": "npx tsx src/fetch_sor.ts --status"
+  },
+  "dependencies": {
+    "got-scraping": "^4.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "typescript": "^6.0.2"
+  }
+}

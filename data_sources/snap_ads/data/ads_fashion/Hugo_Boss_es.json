@@ -1,135 +1,15 @@
 {
   "brand": "Hugo Boss",
   "country": "es",
-  "fetched_at": "2026-04-08T23:50:31.938Z",
+  "fetched_at": "2026-04-09T13:14:12.651Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "ca4c825e-006d-495d-9905-f96ee82a38cb",
-        "name": "LICENSE/DARK/CRS/STATIC/9X16/DIGI/MODL/CRS1_MIXED",
-        "ad_account_name": "HUGO BOSS Licenses Branding",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "BOSS Kidswear",
-        "call_to_action": "MORE",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-27T07:00:29.000Z",
-        "impressions_total": 21012,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 21012,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "25",
-              "max_age": "50",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "HUGO BOSS AG",
-        "profile_name": "BOSS",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMmlBeTd6NmNFOVNvaWZJODYxVXpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "BOSS Kidswear",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VNf042pfcy1HMYMQhtPLy.380?mo=GjsaFDIBBDoBfUIGCKDGj78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.hugoboss.com/kids-boys?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "BOSS Kidswear",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/iayOlwQ39ZD8aesBzwpbs.385?mo=GjsaFDIBBDoBfUIGCPW8j78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCIEDIgISAA%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.hugoboss.com/kids-boys?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "BOSS Kidswear",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/K9ymPu38rt1NEJDUeF1xm.380?mo=GjsaFDIBBDoBfUIGCLzGj78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.hugoboss.com/kids-boys?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "BOSS Kidswear",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OWYE0uzxw0ue25NIi6ZGK.380?mo=GjsaFDIBBDoBfUIGCIPGj78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.hugoboss.com/kids-boys?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c2cec494-a39d-4d73-9330-6b4fe3a47388",
-        "name": "CAMEL/DARK/SSA/STATIC/9X16/HERO/CELE/SCOUPS_WAVE_1",
+        "id": "ddb8d598-0e86-4ae7-ab9c-d489337cef07",
+        "name": "BLACK/DARK/SSA/STATIC/9X16/HERO/CELE/COREY_WAVE_1_BROWN_SUIT",
         "ad_account_name": "BOSS Global Branding",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -142,9 +22,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/92toBMv798uLsbgyMCp3x.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/teO81LOBxihFghatind6L.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
         "start_date": "2026-03-09T08:00:33.000Z",
-        "impressions_total": 17001,
+        "impressions_total": 65959,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -166,7 +46,7 @@
           "el": 0,
           "mt": 0,
           "it": 0,
-          "es": 17001,
+          "es": 65959,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -204,21 +84,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "60fb4605-758d-4573-949e-8839a5d34ae3",
-        "name": "LICENSE/DARK/VSA/10_SEC/9X16/DIGI/MODL/KIDS_SR25_TODDLERS_10SEC",
-        "ad_account_name": "HUGO BOSS Licenses Branding",
+        "id": "22700d40-04c9-43f5-995b-f08b2b48b21e",
+        "name": "BLACK/DARK/CRS/STATIC/9X16/DIGI/SLPR/BECKHAM_2",
+        "ad_account_name": "BOSS Global Branding",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "BOSS Kidswear",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
+        "languages": [
+          "en"
+        ],
+        "headline": "Shop the new collection",
+        "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CEh6aRi5ZdagoXpdTgjCN.67?mo=GskCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBOQhDEiUKIwjd8zIgAUoZChQ2JhwiJjMcKy0sJiQoJCAeMjAjLhD0A2gCIg4KCkIGCJbmuL0GSAISAKIBOgi6ChIlCiMI_ecjIAFKGQoUJxkTHBodESIfGxgVHBoaFR8qIh8Q9ANoAiIOCgpCBgi95ri9BkgDEgCiATkIfxIlCiMIpsAaIAFKGQoUHxEMFRIYDBwWFRERExYVDxYcFRgQ9ANoAiIOCgpCBgi95ri9BkgCEgCiAToIkgoSJQojCND_GyABShkKFB8TCxUTGQwdGBgREhYUFhEZHhcaEPQDaAIiDgoKQgYIvea4vQZIAhIAogE6CMQKEiUKIwjJohggAUoZChQeEgwREBUMFxUSEA4UERQOFRwVFBD0A2gCIg4KCkIGCL3muL0GSAISAJADoFE%3D&uc=15",
-        "start_date": "2025-03-17T16:00:47.000Z",
-        "impressions_total": 229859,
+        "start_date": "2026-04-01T07:00:00.000Z",
+        "impressions_total": 24004,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -240,7 +120,7 @@
           "el": 0,
           "mt": 0,
           "it": 0,
-          "es": 229859,
+          "es": 24004,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -253,8 +133,8 @@
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "25",
-              "max_age": "50",
+              "min_age": "18",
+              "max_age": "54",
               "age_groups": [],
               "languages": [],
               "operation": "INCLUDE",
@@ -264,83 +144,52 @@
           "devices": []
         },
         "paying_advertiser_name": "HUGO BOSS AG",
+        "brand_name": "BOSS BY BECKHAM",
         "profile_name": "BOSS",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMmlBeTd6NmNFOVNvaWZJODYxVXpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.hugoboss.com/kids-boys?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8d05fdb4-8a88-4434-8842-891b45b6ceaf",
-        "name": "LICENSE/DARK/SSA/STATIC/1X1/DIGI/MODL/MODL_KIDS_SR25_MIXED04",
-        "ad_account_name": "HUGO BOSS Licenses Branding",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "BOSS Kidswear",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/2a2lT8uns9Jyr2WoBf66z.380?mo=GjsaFDIBBDoBfUIGCKC5j78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
-        "start_date": "2025-03-27T07:00:29.000Z",
-        "impressions_total": 31281,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 31281,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
             {
-              "min_age": "25",
-              "max_age": "50",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "A wardrobe for all occasions",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Xqhg3Vj8yAH1632xn2G6O.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "BOSS BY BECKHAM",
+              "web_view_preview": {
+                "url": "https://www.hugoboss.com/boss-by-beckham/?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "A wardrobe for all occasions",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3bhi0SoTQbYlqZjr28MMN.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "BOSS BY BECKHAM",
+              "web_view_preview": {
+                "url": "https://www.hugoboss.com/boss-by-beckham/?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "A wardrobe for all occasions",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/uV28e6KpvcdWqBV8CwGg7.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "BOSS BY BECKHAM",
+              "web_view_preview": {
+                "url": "https://www.hugoboss.com/boss-by-beckham/?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
+              }
             }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "HUGO BOSS AG",
-        "profile_name": "BOSS",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMmlBeTd6NmNFOVNvaWZJODYxVXpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.hugoboss.com/kids-boys?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
+          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -350,8 +199,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "7a411aa1-09d0-40d2-84b7-a0e741bbf515",
-        "name": "LICENSE/DARK/CRS/STATIC/9X16/DIGI/MODL/CRS2_TODDLERS",
+        "id": "ecc08472-35c1-4a15-99e1-b5dbb4c9b3e0",
+        "name": "LICENSE/DARK/CRS/STATIC/9X16/DIGI/MODL/CRS5_TODDLERS2",
         "ad_account_name": "HUGO BOSS Licenses Branding",
         "status": "ACTIVE",
         "creative_type": "COMPOSITE",
@@ -362,7 +211,7 @@
         "call_to_action": "MORE",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2025-03-27T07:00:29.000Z",
-        "impressions_total": 19182,
+        "impressions_total": 82089,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -384,7 +233,7 @@
           "el": 0,
           "mt": 0,
           "it": 0,
-          "es": 19182,
+          "es": 82089,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -419,7 +268,19 @@
               "call_to_action": "MORE",
               "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/M18wfqQGCHOkiMIw8H5Ft.380?mo=GjsaFDIBBDoBfUIGCJLBj78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ljGjhefzRuHXZBmXlln7t.380?mo=GjsaFDIBBDoBfUIGCNC8j78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.hugoboss.com/kids-boys?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "BOSS Kidswear",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gKHE20u9hB5Bj3GJHA66N.380?mo=GjsaFDIBBDoBfUIGCOC8j78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
                 "url": "https://www.hugoboss.com/kids-boys?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
@@ -436,18 +297,6 @@
               "web_view_preview": {
                 "url": "https://www.hugoboss.com/kids-boys?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
               }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "BOSS Kidswear",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/aNrknHjxgNx1gxFgvMuHC.380?mo=GjsaFDIBBDoBfUIGCM3Bj78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.hugoboss.com/kids-boys?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
             }
           ]
         },
@@ -459,236 +308,10 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "1ef7ae43-37f0-4c78-9bc2-8d9091c52f14",
-        "name": "BLACK/DARK/VSA/10_SEC/9X16/HERO/CELE/BECKHAM_2",
+        "id": "2b1d1772-30c7-45d8-852a-c99dd4151c56",
+        "name": "BLACK/DARK/SSA/STATIC/9X16/HERO/MODL/FREYA_WAVE_1_BLACK DRESS",
         "ad_account_name": "BOSS Global Branding",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "The new Spring/Summer 26 wardrobe",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bMoYfpWeWNgKlFKJtd9H9.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjC9CogATDgAzjUBkABSg4KCS0cMhRPJyMnLhD0A1CQTmgCddz7U0B9AACAPyIGCgJIBBIAogE8CLoKEi8KLQjs7R4gATDQBTiACkACSg4KCSkRIBBCGxgZHRD0A1CQTmgCdc7uV0B9AACAPyIGCgJIAxIAogE8CJIKEi8KLQir8RYgATDgAzjUBkACSg4KCRwPFQstExEWFhD0A1CQTmgCdQFBP0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjU0RQgATDgAzjUBkACSg4KCR8KFgwmDw8PFRD0A1CQTmgCdf8hSEB9AACAPyIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2026-04-01T07:00:00.000Z",
-        "impressions_total": 107629,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 107629,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "HUGO BOSS AG",
-        "brand_name": "BOSS BY BECKHAM",
-        "profile_name": "BOSS",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMmlBeTd6NmNFOVNvaWZJODYxVXpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.hugoboss.com/boss-by-beckham/?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "aa6e18f1-c413-492b-9d03-f029610065b2",
-        "name": "BLACK/DARK/SSA/STATIC/9X16/DIGI/SLPR/SHOES_02",
-        "ad_account_name": "BOSS Global Branding",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Versatile day-to-night essentials",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Xqhg3Vj8yAH1632xn2G6O.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-04-01T07:00:00.000Z",
-        "impressions_total": 42794,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 42794,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "HUGO BOSS AG",
-        "brand_name": "BOSS BY BECKHAM",
-        "profile_name": "BOSS",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMmlBeTd6NmNFOVNvaWZJODYxVXpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.hugoboss.com/boss-by-beckham/?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "6d450104-1fc3-43cf-8f82-49ca36b7bd8c",
-        "name": "LICENSE/DARK/SSA/STATIC/RS/HERO/ATHL/EYEWEAR_CATALAN",
-        "ad_account_name": "HUGO BOSS Licenses Branding",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Prepara’t per al Racing Tour",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/wEUXqbFhoIOTrj4RmivwO.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-05-22T07:00:55.000Z",
-        "impressions_total": 101928,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 101928,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "39",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "HUGO BOSS AG",
-        "brand_name": "HUGO",
-        "profile_name": "HUGO",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvd1MxTlVIbGVTRFRiWkd6MFYyZ2ltP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://hugoeyewearracingtour.com?changeBrand=hugo&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "0e2ec6fc-10f9-42f7-ba4c-4cb7ba3e8b2b",
-        "name": "BLACK/DARK/SSA/STATIC/9X16/HERO/CELE/MEGHANN_WAVE_1_CLOSE_UP",
-        "ad_account_name": "BOSS Global Branding",
-        "status": "PAUSED",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
@@ -697,9 +320,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XAIRxO7xc9LxX2HwLnT58.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Ht6inVYR8GggxxSKHEgHj.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
         "start_date": "2026-03-09T08:00:33.000Z",
-        "impressions_total": 127723,
+        "impressions_total": 75250,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -721,7 +344,7 @@
           "el": 0,
           "mt": 0,
           "it": 0,
-          "es": 127723,
+          "es": 75250,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -759,23 +382,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "420de89a-e0e5-4d17-a297-8000ffb2bd1b",
-        "name": "BLACK/DARK/SSA/STATIC/9X16/HERO/CELE/SCOUPS_WAVE_1",
+        "id": "5ac9d30a-656c-4368-ac62-a3b461aacad1",
+        "name": "BLACK/DARK/SSA/STATIC/9X16/HERO/SLPR/STEIFF_SNEAKERS_CHARM_2",
         "ad_account_name": "BOSS Global Branding",
-        "status": "ACTIVE",
+        "status": "PAUSED",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Lead the way. Be the next BOSS",
+        "languages": [],
+        "headline": "Snuggle up with the gift of style",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KAmSyBSmjJn3mluOEovA5.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-03-09T08:00:33.000Z",
-        "impressions_total": 30399,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/j7exh0WrUTaGVDXLEONch.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-11-17T08:00:35.000Z",
+        "impressions_total": 52724,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -797,7 +418,81 @@
           "el": 0,
           "mt": 0,
           "it": 0,
-          "es": 30399,
+          "es": 52724,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "HUGO BOSS AG",
+        "brand_name": "BOSS x Steiff",
+        "profile_name": "BOSS",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMmlBeTd6NmNFOVNvaWZJODYxVXpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.hugoboss.com/gifts-for-him?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "515ad5d4-ee0f-45a8-8719-72da15a979ab",
+        "name": "BLACK/DARK/SSA/STATIC/9X16/DIGI/SLPR/GARY_SNEAKERS",
+        "ad_account_name": "BOSS Global Branding",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Step into your own with the Gary",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EvdgZs8PeTyMYZNR8D6ND.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2025-09-17T15:00:03.000Z",
+        "impressions_total": 969289,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 969289,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -826,6 +521,308 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMmlBeTd6NmNFOVNvaWZJODYxVXpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
         "web_view_properties": {
           "url": "https://www.boss.com/be-your-own-boss-for-men?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e2191dc0-084f-4085-b5d6-b12e8745decb",
+        "name": "GREEN/DARK/SSA/STATIC/9X16/HERO/MODL/WAVE_1",
+        "ad_account_name": "BOSS Global Branding",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Lead the way. Be the next BOSS",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/IsLBHB5ir8uZJ6NFPZlX6.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-03-09T08:00:33.000Z",
+        "impressions_total": 8666,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 8666,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "HUGO BOSS AG",
+        "brand_name": "BOSS",
+        "profile_name": "BOSS",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMmlBeTd6NmNFOVNvaWZJODYxVXpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.boss.com/be-your-own-boss-for-men?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "f51edfab-9fc5-478b-aea7-7a2fe4499d38",
+        "name": "BLACK/DARK/VSA/15_SEC/9X16/SOCI/SLPR/COVEYOR_BELT_2​",
+        "ad_account_name": "BOSS Global Branding",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Make it a stylish BOSS holiday",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VnsKSyy9TRuSRnuxesLH2.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjS3UwgATDgAzjUBkABSg4KCUkqJDIRIVFIJBD0A1CUaWgCdQKkbEAiBgoCSAMSAKIBPAi6ChIvCi0I_cI5IAEw0AU4gApAAkoOCglJGBoqIhsvJyEQ9ANQlGloAnWg-mVAfQAAgD8iBgoCSAISAKIBPAiSChIvCi0IssU4IAEw4AM41AZAAkoOCgkzIRgjEyovNBcQ9ANQlGloAnWG31hAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0Is8kmIAEw4AM41AZAAkoOCgk2EREdDhAfGhcQ9ANQlGloAnULg1tAfQAAgD8iBgoCSAISAJADlGk%3D&uc=15",
+        "start_date": "2025-11-17T08:00:35.000Z",
+        "impressions_total": 19494,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 19494,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "HUGO BOSS AG",
+        "brand_name": "BOSS: The Gifting Edit",
+        "profile_name": "BOSS",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMmlBeTd6NmNFOVNvaWZJODYxVXpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.boss.com/gift-ideas?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "91fdada0-27af-4084-81df-cd86f3fc396e",
+        "name": "BLACK/DARK/SSA/STATIC/9X16/HERO/CELE/MEGHANN_WAVE_1",
+        "ad_account_name": "BOSS Global Branding",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Lead the way. Be the next BOSS",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4B5CAdLSafdWrU1qgoN2u.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-03-09T08:00:33.000Z",
+        "impressions_total": 62755,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 62755,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "HUGO BOSS AG",
+        "brand_name": "BOSS",
+        "profile_name": "BOSS",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMmlBeTd6NmNFOVNvaWZJODYxVXpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.boss.com/be-your-own-boss-for-women?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "fa9e69db-1f8c-4514-84ac-5b3c95855aa2",
+        "name": "BLACK/DARK/SSA/STATIC/9X16/HERO/CELE/MEGHANN_WAVE_1_BROWN_SUIT",
+        "ad_account_name": "BOSS Global Branding",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Lead the way. Be the next BOSS",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HKtWbM5IbUMulcdjyobLW.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-03-09T08:00:33.000Z",
+        "impressions_total": 145882,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 145882,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "HUGO BOSS AG",
+        "brand_name": "BOSS",
+        "profile_name": "BOSS",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMmlBeTd6NmNFOVNvaWZJODYxVXpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.boss.com/be-your-own-boss-for-women?changeBrand=boss&utm_source=snapchat&utm_medium=socialbrand&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

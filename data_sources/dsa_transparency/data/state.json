@@ -1,0 +1,3892 @@
+{
+  "cells": {
+    "2023-09-25": {
+      "status": "fetched",
+      "date": "2023-09-25",
+      "rows": 6235,
+      "file_size_bytes": 2708452,
+      "fetched_at": "2026-04-09T15:15:21.365Z"
+    },
+    "2023-09-26": {
+      "status": "fetched",
+      "date": "2023-09-26",
+      "rows": 14646,
+      "file_size_bytes": 6356232,
+      "fetched_at": "2026-04-09T15:15:22.718Z"
+    },
+    "2023-09-27": {
+      "status": "fetched",
+      "date": "2023-09-27",
+      "rows": 15403,
+      "file_size_bytes": 6687636,
+      "fetched_at": "2026-04-09T15:15:24.055Z"
+    },
+    "2023-09-28": {
+      "status": "fetched",
+      "date": "2023-09-28",
+      "rows": 14737,
+      "file_size_bytes": 6398019,
+      "fetched_at": "2026-04-09T15:15:25.397Z"
+    },
+    "2023-09-29": {
+      "status": "fetched",
+      "date": "2023-09-29",
+      "rows": 12071,
+      "file_size_bytes": 5239660,
+      "fetched_at": "2026-04-09T15:15:26.730Z"
+    },
+    "2023-09-30": {
+      "status": "fetched",
+      "date": "2023-09-30",
+      "rows": 12064,
+      "file_size_bytes": 5240263,
+      "fetched_at": "2026-04-09T15:15:28.058Z"
+    },
+    "2023-10-01": {
+      "status": "fetched",
+      "date": "2023-10-01",
+      "rows": 12249,
+      "file_size_bytes": 5319635,
+      "fetched_at": "2026-04-09T15:15:29.372Z"
+    },
+    "2023-10-02": {
+      "status": "fetched",
+      "date": "2023-10-02",
+      "rows": 15191,
+      "file_size_bytes": 6595324,
+      "fetched_at": "2026-04-09T15:15:30.716Z"
+    },
+    "2023-10-03": {
+      "status": "fetched",
+      "date": "2023-10-03",
+      "rows": 14935,
+      "file_size_bytes": 6484778,
+      "fetched_at": "2026-04-09T15:15:32.038Z"
+    },
+    "2023-10-04": {
+      "status": "fetched",
+      "date": "2023-10-04",
+      "rows": 11192,
+      "file_size_bytes": 4876943,
+      "fetched_at": "2026-04-09T15:15:33.318Z"
+    },
+    "2023-10-05": {
+      "status": "fetched",
+      "date": "2023-10-05",
+      "rows": 11096,
+      "file_size_bytes": 4835607,
+      "fetched_at": "2026-04-09T15:15:34.633Z"
+    },
+    "2023-10-06": {
+      "status": "fetched",
+      "date": "2023-10-06",
+      "rows": 10749,
+      "file_size_bytes": 4697231,
+      "fetched_at": "2026-04-09T15:15:35.953Z"
+    },
+    "2023-10-07": {
+      "status": "fetched",
+      "date": "2023-10-07",
+      "rows": 10094,
+      "file_size_bytes": 4406911,
+      "fetched_at": "2026-04-09T15:15:37.266Z"
+    },
+    "2023-10-08": {
+      "status": "fetched",
+      "date": "2023-10-08",
+      "rows": 10145,
+      "file_size_bytes": 4418020,
+      "fetched_at": "2026-04-09T15:15:38.559Z"
+    },
+    "2023-10-09": {
+      "status": "fetched",
+      "date": "2023-10-09",
+      "rows": 11388,
+      "file_size_bytes": 4978186,
+      "fetched_at": "2026-04-09T15:15:39.948Z"
+    },
+    "2023-10-10": {
+      "status": "fetched",
+      "date": "2023-10-10",
+      "rows": 10845,
+      "file_size_bytes": 4738892,
+      "fetched_at": "2026-04-09T15:15:41.280Z"
+    },
+    "2023-10-11": {
+      "status": "fetched",
+      "date": "2023-10-11",
+      "rows": 10852,
+      "file_size_bytes": 4740132,
+      "fetched_at": "2026-04-09T15:15:42.578Z"
+    },
+    "2023-10-12": {
+      "status": "fetched",
+      "date": "2023-10-12",
+      "rows": 10241,
+      "file_size_bytes": 4466941,
+      "fetched_at": "2026-04-09T15:15:43.884Z"
+    },
+    "2023-10-13": {
+      "status": "fetched",
+      "date": "2023-10-13",
+      "rows": 9875,
+      "file_size_bytes": 4319334,
+      "fetched_at": "2026-04-09T15:15:45.251Z"
+    },
+    "2023-10-14": {
+      "status": "fetched",
+      "date": "2023-10-14",
+      "rows": 10542,
+      "file_size_bytes": 4615186,
+      "fetched_at": "2026-04-09T15:15:46.789Z"
+    },
+    "2023-10-15": {
+      "status": "fetched",
+      "date": "2023-10-15",
+      "rows": 11547,
+      "file_size_bytes": 5060403,
+      "fetched_at": "2026-04-09T15:15:48.117Z"
+    },
+    "2023-10-16": {
+      "status": "fetched",
+      "date": "2023-10-16",
+      "rows": 11479,
+      "file_size_bytes": 5034909,
+      "fetched_at": "2026-04-09T15:15:49.416Z"
+    },
+    "2023-10-17": {
+      "status": "fetched",
+      "date": "2023-10-17",
+      "rows": 11080,
+      "file_size_bytes": 4849118,
+      "fetched_at": "2026-04-09T15:15:51.041Z"
+    },
+    "2023-10-18": {
+      "status": "fetched",
+      "date": "2023-10-18",
+      "rows": 11383,
+      "file_size_bytes": 4982359,
+      "fetched_at": "2026-04-09T15:15:53.173Z"
+    },
+    "2023-10-19": {
+      "status": "fetched",
+      "date": "2023-10-19",
+      "rows": 11764,
+      "file_size_bytes": 5145203,
+      "fetched_at": "2026-04-09T15:15:54.964Z"
+    },
+    "2023-10-20": {
+      "status": "fetched",
+      "date": "2023-10-20",
+      "rows": 10698,
+      "file_size_bytes": 4678151,
+      "fetched_at": "2026-04-09T15:15:56.433Z"
+    },
+    "2023-10-21": {
+      "status": "fetched",
+      "date": "2023-10-21",
+      "rows": 10973,
+      "file_size_bytes": 4801174,
+      "fetched_at": "2026-04-09T15:15:57.778Z"
+    },
+    "2023-10-22": {
+      "status": "fetched",
+      "date": "2023-10-22",
+      "rows": 10869,
+      "file_size_bytes": 4755053,
+      "fetched_at": "2026-04-09T15:15:59.321Z"
+    },
+    "2023-10-23": {
+      "status": "fetched",
+      "date": "2023-10-23",
+      "rows": 12129,
+      "file_size_bytes": 5307054,
+      "fetched_at": "2026-04-09T15:16:00.700Z"
+    },
+    "2023-10-24": {
+      "status": "fetched",
+      "date": "2023-10-24",
+      "rows": 11227,
+      "file_size_bytes": 4904852,
+      "fetched_at": "2026-04-09T15:16:02.074Z"
+    },
+    "2023-10-25": {
+      "status": "fetched",
+      "date": "2023-10-25",
+      "rows": 11198,
+      "file_size_bytes": 4880290,
+      "fetched_at": "2026-04-09T15:16:03.423Z"
+    },
+    "2023-10-26": {
+      "status": "fetched",
+      "date": "2023-10-26",
+      "rows": 11912,
+      "file_size_bytes": 5203442,
+      "fetched_at": "2026-04-09T15:16:05.017Z"
+    },
+    "2023-10-27": {
+      "status": "fetched",
+      "date": "2023-10-27",
+      "rows": 12623,
+      "file_size_bytes": 5514161,
+      "fetched_at": "2026-04-09T15:16:06.407Z"
+    },
+    "2023-10-28": {
+      "status": "fetched",
+      "date": "2023-10-28",
+      "rows": 11854,
+      "file_size_bytes": 5187843,
+      "fetched_at": "2026-04-09T15:16:07.885Z"
+    },
+    "2023-10-29": {
+      "status": "fetched",
+      "date": "2023-10-29",
+      "rows": 11972,
+      "file_size_bytes": 5236149,
+      "fetched_at": "2026-04-09T15:16:09.327Z"
+    },
+    "2023-10-30": {
+      "status": "fetched",
+      "date": "2023-10-30",
+      "rows": 14246,
+      "file_size_bytes": 6237594,
+      "fetched_at": "2026-04-09T15:16:10.879Z"
+    },
+    "2023-10-31": {
+      "status": "fetched",
+      "date": "2023-10-31",
+      "rows": 12646,
+      "file_size_bytes": 5541044,
+      "fetched_at": "2026-04-09T15:16:12.378Z"
+    },
+    "2023-11-01": {
+      "status": "fetched",
+      "date": "2023-11-01",
+      "rows": 12660,
+      "file_size_bytes": 5541992,
+      "fetched_at": "2026-04-09T15:16:13.829Z"
+    },
+    "2023-11-02": {
+      "status": "fetched",
+      "date": "2023-11-02",
+      "rows": 13782,
+      "file_size_bytes": 6029133,
+      "fetched_at": "2026-04-09T15:16:15.353Z"
+    },
+    "2023-11-03": {
+      "status": "fetched",
+      "date": "2023-11-03",
+      "rows": 12273,
+      "file_size_bytes": 5367856,
+      "fetched_at": "2026-04-09T15:16:16.764Z"
+    },
+    "2023-11-04": {
+      "status": "fetched",
+      "date": "2023-11-04",
+      "rows": 12110,
+      "file_size_bytes": 5300585,
+      "fetched_at": "2026-04-09T15:16:18.184Z"
+    },
+    "2023-11-05": {
+      "status": "fetched",
+      "date": "2023-11-05",
+      "rows": 11505,
+      "file_size_bytes": 5024808,
+      "fetched_at": "2026-04-09T15:16:19.573Z"
+    },
+    "2023-11-06": {
+      "status": "fetched",
+      "date": "2023-11-06",
+      "rows": 10057,
+      "file_size_bytes": 4392126,
+      "fetched_at": "2026-04-09T15:16:20.942Z"
+    },
+    "2023-11-07": {
+      "status": "fetched",
+      "date": "2023-11-07",
+      "rows": 11244,
+      "file_size_bytes": 4918472,
+      "fetched_at": "2026-04-09T15:16:22.367Z"
+    },
+    "2023-11-08": {
+      "status": "fetched",
+      "date": "2023-11-08",
+      "rows": 11456,
+      "file_size_bytes": 5008412,
+      "fetched_at": "2026-04-09T15:16:23.846Z"
+    },
+    "2023-11-09": {
+      "status": "fetched",
+      "date": "2023-11-09",
+      "rows": 11114,
+      "file_size_bytes": 4855243,
+      "fetched_at": "2026-04-09T15:16:25.309Z"
+    },
+    "2023-11-10": {
+      "status": "fetched",
+      "date": "2023-11-10",
+      "rows": 9756,
+      "file_size_bytes": 4260057,
+      "fetched_at": "2026-04-09T15:16:26.756Z"
+    },
+    "2023-11-11": {
+      "status": "fetched",
+      "date": "2023-11-11",
+      "rows": 11491,
+      "file_size_bytes": 5032559,
+      "fetched_at": "2026-04-09T15:16:28.246Z"
+    },
+    "2023-11-12": {
+      "status": "fetched",
+      "date": "2023-11-12",
+      "rows": 10887,
+      "file_size_bytes": 4761002,
+      "fetched_at": "2026-04-09T15:16:29.706Z"
+    },
+    "2023-11-13": {
+      "status": "fetched",
+      "date": "2023-11-13",
+      "rows": 10508,
+      "file_size_bytes": 4592118,
+      "fetched_at": "2026-04-09T15:16:31.150Z"
+    },
+    "2023-11-14": {
+      "status": "fetched",
+      "date": "2023-11-14",
+      "rows": 10312,
+      "file_size_bytes": 4497392,
+      "fetched_at": "2026-04-09T15:16:32.623Z"
+    },
+    "2023-11-15": {
+      "status": "fetched",
+      "date": "2023-11-15",
+      "rows": 10835,
+      "file_size_bytes": 4733537,
+      "fetched_at": "2026-04-09T15:16:34.126Z"
+    },
+    "2023-11-16": {
+      "status": "fetched",
+      "date": "2023-11-16",
+      "rows": 10442,
+      "file_size_bytes": 4554907,
+      "fetched_at": "2026-04-09T15:16:35.638Z"
+    },
+    "2023-11-17": {
+      "status": "fetched",
+      "date": "2023-11-17",
+      "rows": 10725,
+      "file_size_bytes": 4696929,
+      "fetched_at": "2026-04-09T15:16:37.127Z"
+    },
+    "2023-11-18": {
+      "status": "fetched",
+      "date": "2023-11-18",
+      "rows": 11399,
+      "file_size_bytes": 4986082,
+      "fetched_at": "2026-04-09T15:16:38.600Z"
+    },
+    "2023-11-19": {
+      "status": "fetched",
+      "date": "2023-11-19",
+      "rows": 11754,
+      "file_size_bytes": 5133109,
+      "fetched_at": "2026-04-09T15:16:40.126Z"
+    },
+    "2023-11-20": {
+      "status": "fetched",
+      "date": "2023-11-20",
+      "rows": 10401,
+      "file_size_bytes": 4541376,
+      "fetched_at": "2026-04-09T15:16:41.608Z"
+    },
+    "2023-11-21": {
+      "status": "fetched",
+      "date": "2023-11-21",
+      "rows": 10244,
+      "file_size_bytes": 4474173,
+      "fetched_at": "2026-04-09T15:16:43.198Z"
+    },
+    "2023-11-22": {
+      "status": "fetched",
+      "date": "2023-11-22",
+      "rows": 10775,
+      "file_size_bytes": 4709507,
+      "fetched_at": "2026-04-09T15:16:44.815Z"
+    },
+    "2023-11-23": {
+      "status": "fetched",
+      "date": "2023-11-23",
+      "rows": 10452,
+      "file_size_bytes": 4556479,
+      "fetched_at": "2026-04-09T15:16:46.541Z"
+    },
+    "2023-11-24": {
+      "status": "fetched",
+      "date": "2023-11-24",
+      "rows": 10514,
+      "file_size_bytes": 4586155,
+      "fetched_at": "2026-04-09T15:16:48.063Z"
+    },
+    "2023-11-25": {
+      "status": "fetched",
+      "date": "2023-11-25",
+      "rows": 12026,
+      "file_size_bytes": 5266827,
+      "fetched_at": "2026-04-09T15:16:49.596Z"
+    },
+    "2023-11-26": {
+      "status": "fetched",
+      "date": "2023-11-26",
+      "rows": 11258,
+      "file_size_bytes": 4924888,
+      "fetched_at": "2026-04-09T15:16:51.141Z"
+    },
+    "2023-11-27": {
+      "status": "fetched",
+      "date": "2023-11-27",
+      "rows": 11509,
+      "file_size_bytes": 5024965,
+      "fetched_at": "2026-04-09T15:16:53.161Z"
+    },
+    "2023-11-28": {
+      "status": "fetched",
+      "date": "2023-11-28",
+      "rows": 10662,
+      "file_size_bytes": 4656225,
+      "fetched_at": "2026-04-09T15:16:54.684Z"
+    },
+    "2023-11-29": {
+      "status": "fetched",
+      "date": "2023-11-29",
+      "rows": 11682,
+      "file_size_bytes": 5113378,
+      "fetched_at": "2026-04-09T15:16:56.264Z"
+    },
+    "2023-11-30": {
+      "status": "fetched",
+      "date": "2023-11-30",
+      "rows": 11092,
+      "file_size_bytes": 4843098,
+      "fetched_at": "2026-04-09T15:16:57.892Z"
+    },
+    "2023-12-01": {
+      "status": "fetched",
+      "date": "2023-12-01",
+      "rows": 9296,
+      "file_size_bytes": 4058967,
+      "fetched_at": "2026-04-09T15:16:59.381Z"
+    },
+    "2023-12-02": {
+      "status": "fetched",
+      "date": "2023-12-02",
+      "rows": 9432,
+      "file_size_bytes": 4117632,
+      "fetched_at": "2026-04-09T15:17:00.824Z"
+    },
+    "2023-12-03": {
+      "status": "fetched",
+      "date": "2023-12-03",
+      "rows": 10033,
+      "file_size_bytes": 4367890,
+      "fetched_at": "2026-04-09T15:17:02.329Z"
+    },
+    "2023-12-04": {
+      "status": "fetched",
+      "date": "2023-12-04",
+      "rows": 10077,
+      "file_size_bytes": 4389844,
+      "fetched_at": "2026-04-09T15:17:03.826Z"
+    },
+    "2023-12-05": {
+      "status": "fetched",
+      "date": "2023-12-05",
+      "rows": 10782,
+      "file_size_bytes": 4705901,
+      "fetched_at": "2026-04-09T15:17:05.391Z"
+    },
+    "2023-12-06": {
+      "status": "fetched",
+      "date": "2023-12-06",
+      "rows": 9814,
+      "file_size_bytes": 4282526,
+      "fetched_at": "2026-04-09T15:17:07.006Z"
+    },
+    "2023-12-07": {
+      "status": "fetched",
+      "date": "2023-12-07",
+      "rows": 10151,
+      "file_size_bytes": 4423918,
+      "fetched_at": "2026-04-09T15:17:08.601Z"
+    },
+    "2023-12-08": {
+      "status": "fetched",
+      "date": "2023-12-08",
+      "rows": 10007,
+      "file_size_bytes": 4361823,
+      "fetched_at": "2026-04-09T15:17:10.201Z"
+    },
+    "2023-12-09": {
+      "status": "fetched",
+      "date": "2023-12-09",
+      "rows": 10780,
+      "file_size_bytes": 4711330,
+      "fetched_at": "2026-04-09T15:17:12.020Z"
+    },
+    "2023-12-10": {
+      "status": "fetched",
+      "date": "2023-12-10",
+      "rows": 11876,
+      "file_size_bytes": 5181025,
+      "fetched_at": "2026-04-09T15:17:13.645Z"
+    },
+    "2023-12-11": {
+      "status": "fetched",
+      "date": "2023-12-11",
+      "rows": 10550,
+      "file_size_bytes": 4590961,
+      "fetched_at": "2026-04-09T15:17:15.314Z"
+    },
+    "2023-12-12": {
+      "status": "fetched",
+      "date": "2023-12-12",
+      "rows": 9757,
+      "file_size_bytes": 4256874,
+      "fetched_at": "2026-04-09T15:17:16.858Z"
+    },
+    "2023-12-13": {
+      "status": "fetched",
+      "date": "2023-12-13",
+      "rows": 9640,
+      "file_size_bytes": 4194733,
+      "fetched_at": "2026-04-09T15:17:18.408Z"
+    },
+    "2023-12-14": {
+      "status": "fetched",
+      "date": "2023-12-14",
+      "rows": 9586,
+      "file_size_bytes": 4174570,
+      "fetched_at": "2026-04-09T15:17:19.933Z"
+    },
+    "2023-12-15": {
+      "status": "fetched",
+      "date": "2023-12-15",
+      "rows": 9634,
+      "file_size_bytes": 4197691,
+      "fetched_at": "2026-04-09T15:17:21.469Z"
+    },
+    "2023-12-16": {
+      "status": "fetched",
+      "date": "2023-12-16",
+      "rows": 11255,
+      "file_size_bytes": 4916936,
+      "fetched_at": "2026-04-09T15:17:23.059Z"
+    },
+    "2023-12-17": {
+      "status": "fetched",
+      "date": "2023-12-17",
+      "rows": 11851,
+      "file_size_bytes": 5177426,
+      "fetched_at": "2026-04-09T15:17:24.647Z"
+    },
+    "2023-12-18": {
+      "status": "fetched",
+      "date": "2023-12-18",
+      "rows": 10410,
+      "file_size_bytes": 4544705,
+      "fetched_at": "2026-04-09T15:17:26.364Z"
+    },
+    "2023-12-19": {
+      "status": "fetched",
+      "date": "2023-12-19",
+      "rows": 9748,
+      "file_size_bytes": 4256451,
+      "fetched_at": "2026-04-09T15:17:28.404Z"
+    },
+    "2023-12-20": {
+      "status": "fetched",
+      "date": "2023-12-20",
+      "rows": 10366,
+      "file_size_bytes": 4528132,
+      "fetched_at": "2026-04-09T15:17:30.416Z"
+    },
+    "2023-12-21": {
+      "status": "fetched",
+      "date": "2023-12-21",
+      "rows": 11994,
+      "file_size_bytes": 5242167,
+      "fetched_at": "2026-04-09T15:17:32.409Z"
+    },
+    "2023-12-22": {
+      "status": "fetched",
+      "date": "2023-12-22",
+      "rows": 11324,
+      "file_size_bytes": 4946072,
+      "fetched_at": "2026-04-09T15:17:34.356Z"
+    },
+    "2023-12-23": {
+      "status": "fetched",
+      "date": "2023-12-23",
+      "rows": 10740,
+      "file_size_bytes": 4695378,
+      "fetched_at": "2026-04-09T15:17:36.347Z"
+    },
+    "2023-12-24": {
+      "status": "fetched",
+      "date": "2023-12-24",
+      "rows": 10330,
+      "file_size_bytes": 4525114,
+      "fetched_at": "2026-04-09T15:17:38.275Z"
+    },
+    "2023-12-25": {
+      "status": "fetched",
+      "date": "2023-12-25",
+      "rows": 10957,
+      "file_size_bytes": 4794152,
+      "fetched_at": "2026-04-09T15:17:40.235Z"
+    },
+    "2023-12-26": {
+      "status": "fetched",
+      "date": "2023-12-26",
+      "rows": 11860,
+      "file_size_bytes": 5182725,
+      "fetched_at": "2026-04-09T15:17:42.354Z"
+    },
+    "2023-12-27": {
+      "status": "fetched",
+      "date": "2023-12-27",
+      "rows": 11091,
+      "file_size_bytes": 4837612,
+      "fetched_at": "2026-04-09T15:17:44.544Z"
+    },
+    "2023-12-28": {
+      "status": "fetched",
+      "date": "2023-12-28",
+      "rows": 11242,
+      "file_size_bytes": 4902608,
+      "fetched_at": "2026-04-09T15:17:46.759Z"
+    },
+    "2023-12-29": {
+      "status": "fetched",
+      "date": "2023-12-29",
+      "rows": 11925,
+      "file_size_bytes": 5208569,
+      "fetched_at": "2026-04-09T15:17:48.980Z"
+    },
+    "2023-12-30": {
+      "status": "fetched",
+      "date": "2023-12-30",
+      "rows": 11558,
+      "file_size_bytes": 5051193,
+      "fetched_at": "2026-04-09T15:17:51.128Z"
+    },
+    "2023-12-31": {
+      "status": "fetched",
+      "date": "2023-12-31",
+      "rows": 11172,
+      "file_size_bytes": 4887660,
+      "fetched_at": "2026-04-09T15:17:53.260Z"
+    },
+    "2024-01-01": {
+      "status": "fetched",
+      "date": "2024-01-01",
+      "rows": 9774,
+      "file_size_bytes": 4264259,
+      "fetched_at": "2026-04-09T15:17:55.353Z"
+    },
+    "2024-01-02": {
+      "status": "fetched",
+      "date": "2024-01-02",
+      "rows": 10870,
+      "file_size_bytes": 4748446,
+      "fetched_at": "2026-04-09T15:17:57.542Z"
+    },
+    "2024-01-03": {
+      "status": "fetched",
+      "date": "2024-01-03",
+      "rows": 11625,
+      "file_size_bytes": 5077717,
+      "fetched_at": "2026-04-09T15:17:59.652Z"
+    },
+    "2024-01-04": {
+      "status": "fetched",
+      "date": "2024-01-04",
+      "rows": 12033,
+      "file_size_bytes": 5254794,
+      "fetched_at": "2026-04-09T15:18:01.534Z"
+    },
+    "2024-01-05": {
+      "status": "fetched",
+      "date": "2024-01-05",
+      "rows": 11954,
+      "file_size_bytes": 5214499,
+      "fetched_at": "2026-04-09T15:18:03.388Z"
+    },
+    "2024-01-06": {
+      "status": "fetched",
+      "date": "2024-01-06",
+      "rows": 13448,
+      "file_size_bytes": 5885586,
+      "fetched_at": "2026-04-09T15:18:05.256Z"
+    },
+    "2024-01-07": {
+      "status": "fetched",
+      "date": "2024-01-07",
+      "rows": 13216,
+      "file_size_bytes": 5762721,
+      "fetched_at": "2026-04-09T15:18:07.170Z"
+    },
+    "2024-01-08": {
+      "status": "fetched",
+      "date": "2024-01-08",
+      "rows": 12434,
+      "file_size_bytes": 5427009,
+      "fetched_at": "2026-04-09T15:18:09.048Z"
+    },
+    "2024-01-09": {
+      "status": "fetched",
+      "date": "2024-01-09",
+      "rows": 11763,
+      "file_size_bytes": 5132837,
+      "fetched_at": "2026-04-09T15:18:10.997Z"
+    },
+    "2024-01-10": {
+      "status": "fetched",
+      "date": "2024-01-10",
+      "rows": 12322,
+      "file_size_bytes": 5378014,
+      "fetched_at": "2026-04-09T15:18:13.287Z"
+    },
+    "2024-01-11": {
+      "status": "fetched",
+      "date": "2024-01-11",
+      "rows": 11935,
+      "file_size_bytes": 5208083,
+      "fetched_at": "2026-04-09T15:18:17.278Z"
+    },
+    "2024-01-12": {
+      "status": "fetched",
+      "date": "2024-01-12",
+      "rows": 11912,
+      "file_size_bytes": 5195542,
+      "fetched_at": "2026-04-09T15:18:20.285Z"
+    },
+    "2024-01-13": {
+      "status": "fetched",
+      "date": "2024-01-13",
+      "rows": 12329,
+      "file_size_bytes": 5392935,
+      "fetched_at": "2026-04-09T15:18:23.600Z"
+    },
+    "2024-01-14": {
+      "status": "fetched",
+      "date": "2024-01-14",
+      "rows": 12326,
+      "file_size_bytes": 5388279,
+      "fetched_at": "2026-04-09T15:18:26.426Z"
+    },
+    "2024-01-15": {
+      "status": "fetched",
+      "date": "2024-01-15",
+      "rows": 10677,
+      "file_size_bytes": 4656966,
+      "fetched_at": "2026-04-09T15:18:28.405Z"
+    },
+    "2024-01-16": {
+      "status": "fetched",
+      "date": "2024-01-16",
+      "rows": 11471,
+      "file_size_bytes": 5013779,
+      "fetched_at": "2026-04-09T15:18:30.530Z"
+    },
+    "2024-01-17": {
+      "status": "fetched",
+      "date": "2024-01-17",
+      "rows": 12987,
+      "file_size_bytes": 5677131,
+      "fetched_at": "2026-04-09T15:18:32.742Z"
+    },
+    "2024-01-18": {
+      "status": "fetched",
+      "date": "2024-01-18",
+      "rows": 12219,
+      "file_size_bytes": 5337561,
+      "fetched_at": "2026-04-09T15:18:36.837Z"
+    },
+    "2024-01-19": {
+      "status": "fetched",
+      "date": "2024-01-19",
+      "rows": 12150,
+      "file_size_bytes": 5308987,
+      "fetched_at": "2026-04-09T15:18:39.459Z"
+    },
+    "2024-01-20": {
+      "status": "fetched",
+      "date": "2024-01-20",
+      "rows": 12780,
+      "file_size_bytes": 5583036,
+      "fetched_at": "2026-04-09T15:18:41.666Z"
+    },
+    "2024-01-21": {
+      "status": "fetched",
+      "date": "2024-01-21",
+      "rows": 12235,
+      "file_size_bytes": 5341557,
+      "fetched_at": "2026-04-09T15:18:44.001Z"
+    },
+    "2024-01-22": {
+      "status": "fetched",
+      "date": "2024-01-22",
+      "rows": 11561,
+      "file_size_bytes": 5049002,
+      "fetched_at": "2026-04-09T15:18:46.292Z"
+    },
+    "2024-01-23": {
+      "status": "fetched",
+      "date": "2024-01-23",
+      "rows": 11579,
+      "file_size_bytes": 5054814,
+      "fetched_at": "2026-04-09T15:18:48.531Z"
+    },
+    "2024-01-24": {
+      "status": "fetched",
+      "date": "2024-01-24",
+      "rows": 12405,
+      "file_size_bytes": 5418664,
+      "fetched_at": "2026-04-09T15:18:50.969Z"
+    },
+    "2024-01-25": {
+      "status": "fetched",
+      "date": "2024-01-25",
+      "rows": 12189,
+      "file_size_bytes": 5329875,
+      "fetched_at": "2026-04-09T15:18:52.982Z"
+    },
+    "2024-01-26": {
+      "status": "fetched",
+      "date": "2024-01-26",
+      "rows": 11653,
+      "file_size_bytes": 5087619,
+      "fetched_at": "2026-04-09T15:18:55.081Z"
+    },
+    "2024-01-27": {
+      "status": "fetched",
+      "date": "2024-01-27",
+      "rows": 12122,
+      "file_size_bytes": 5300172,
+      "fetched_at": "2026-04-09T15:18:57.284Z"
+    },
+    "2024-01-28": {
+      "status": "fetched",
+      "date": "2024-01-28",
+      "rows": 12587,
+      "file_size_bytes": 5486563,
+      "fetched_at": "2026-04-09T15:18:59.742Z"
+    },
+    "2024-01-29": {
+      "status": "fetched",
+      "date": "2024-01-29",
+      "rows": 12145,
+      "file_size_bytes": 5300770,
+      "fetched_at": "2026-04-09T15:19:02.030Z"
+    },
+    "2024-01-30": {
+      "status": "fetched",
+      "date": "2024-01-30",
+      "rows": 12772,
+      "file_size_bytes": 5582985,
+      "fetched_at": "2026-04-09T15:19:04.582Z"
+    },
+    "2024-01-31": {
+      "status": "fetched",
+      "date": "2024-01-31",
+      "rows": 12809,
+      "file_size_bytes": 5596472,
+      "fetched_at": "2026-04-09T15:19:06.957Z"
+    },
+    "2024-02-01": {
+      "status": "fetched",
+      "date": "2024-02-01",
+      "rows": 12611,
+      "file_size_bytes": 5506182,
+      "fetched_at": "2026-04-09T15:19:10.021Z"
+    },
+    "2024-02-02": {
+      "status": "fetched",
+      "date": "2024-02-02",
+      "rows": 12561,
+      "file_size_bytes": 5484728,
+      "fetched_at": "2026-04-09T15:19:12.309Z"
+    },
+    "2024-02-03": {
+      "status": "fetched",
+      "date": "2024-02-03",
+      "rows": 12568,
+      "file_size_bytes": 5495613,
+      "fetched_at": "2026-04-09T15:19:14.939Z"
+    },
+    "2024-02-04": {
+      "status": "fetched",
+      "date": "2024-02-04",
+      "rows": 12014,
+      "file_size_bytes": 5245505,
+      "fetched_at": "2026-04-09T15:19:17.245Z"
+    },
+    "2024-02-05": {
+      "status": "fetched",
+      "date": "2024-02-05",
+      "rows": 11744,
+      "file_size_bytes": 5123265,
+      "fetched_at": "2026-04-09T15:19:19.771Z"
+    },
+    "2024-02-06": {
+      "status": "fetched",
+      "date": "2024-02-06",
+      "rows": 12058,
+      "file_size_bytes": 5262794,
+      "fetched_at": "2026-04-09T15:19:22.144Z"
+    },
+    "2024-02-07": {
+      "status": "fetched",
+      "date": "2024-02-07",
+      "rows": 12281,
+      "file_size_bytes": 5352862,
+      "fetched_at": "2026-04-09T15:19:24.538Z"
+    },
+    "2024-02-08": {
+      "status": "fetched",
+      "date": "2024-02-08",
+      "rows": 12712,
+      "file_size_bytes": 5540223,
+      "fetched_at": "2026-04-09T15:19:26.935Z"
+    },
+    "2024-02-09": {
+      "status": "fetched",
+      "date": "2024-02-09",
+      "rows": 11952,
+      "file_size_bytes": 5220127,
+      "fetched_at": "2026-04-09T15:19:29.818Z"
+    },
+    "2024-02-10": {
+      "status": "fetched",
+      "date": "2024-02-10",
+      "rows": 11645,
+      "file_size_bytes": 5079988,
+      "fetched_at": "2026-04-09T15:19:33.343Z"
+    },
+    "2024-02-11": {
+      "status": "fetched",
+      "date": "2024-02-11",
+      "rows": 13052,
+      "file_size_bytes": 5707130,
+      "fetched_at": "2026-04-09T15:19:37.155Z"
+    },
+    "2024-02-12": {
+      "status": "fetched",
+      "date": "2024-02-12",
+      "rows": 12760,
+      "file_size_bytes": 5578249,
+      "fetched_at": "2026-04-09T15:19:40.834Z"
+    },
+    "2024-02-13": {
+      "status": "fetched",
+      "date": "2024-02-13",
+      "rows": 12924,
+      "file_size_bytes": 5650011,
+      "fetched_at": "2026-04-09T15:19:44.489Z"
+    },
+    "2024-02-14": {
+      "status": "fetched",
+      "date": "2024-02-14",
+      "rows": 12624,
+      "file_size_bytes": 5528899,
+      "fetched_at": "2026-04-09T15:19:48.995Z"
+    },
+    "2024-02-15": {
+      "status": "fetched",
+      "date": "2024-02-15",
+      "rows": 12154,
+      "file_size_bytes": 5315263,
+      "fetched_at": "2026-04-09T15:19:52.254Z"
+    },
+    "2024-02-16": {
+      "status": "fetched",
+      "date": "2024-02-16",
+      "rows": 13457,
+      "file_size_bytes": 5897232,
+      "fetched_at": "2026-04-09T15:19:55.977Z"
+    },
+    "2024-02-17": {
+      "status": "fetched",
+      "date": "2024-02-17",
+      "rows": 13591,
+      "file_size_bytes": 5958549,
+      "fetched_at": "2026-04-09T15:19:59.928Z"
+    },
+    "2024-02-18": {
+      "status": "fetched",
+      "date": "2024-02-18",
+      "rows": 14312,
+      "file_size_bytes": 6275922,
+      "fetched_at": "2026-04-09T15:20:03.944Z"
+    },
+    "2024-02-19": {
+      "status": "fetched",
+      "date": "2024-02-19",
+      "rows": 13408,
+      "file_size_bytes": 5876102,
+      "fetched_at": "2026-04-09T15:20:07.600Z"
+    },
+    "2024-02-20": {
+      "status": "fetched",
+      "date": "2024-02-20",
+      "rows": 12764,
+      "file_size_bytes": 5593304,
+      "fetched_at": "2026-04-09T15:20:11.278Z"
+    },
+    "2024-02-21": {
+      "status": "fetched",
+      "date": "2024-02-21",
+      "rows": 13579,
+      "file_size_bytes": 5953209,
+      "fetched_at": "2026-04-09T15:20:15.523Z"
+    },
+    "2024-02-22": {
+      "status": "fetched",
+      "date": "2024-02-22",
+      "rows": 12664,
+      "file_size_bytes": 5555933,
+      "fetched_at": "2026-04-09T15:20:21.788Z"
+    },
+    "2024-02-23": {
+      "status": "fetched",
+      "date": "2024-02-23",
+      "rows": 12928,
+      "file_size_bytes": 5675284,
+      "fetched_at": "2026-04-09T15:20:40.546Z"
+    },
+    "2024-02-24": {
+      "status": "fetched",
+      "date": "2024-02-24",
+      "rows": 12391,
+      "file_size_bytes": 5432096,
+      "fetched_at": "2026-04-09T15:21:09.636Z"
+    },
+    "2024-02-25": {
+      "status": "fetched",
+      "date": "2024-02-25",
+      "rows": 11859,
+      "file_size_bytes": 5195831,
+      "fetched_at": "2026-04-09T15:21:40.273Z"
+    },
+    "2024-02-26": {
+      "status": "fetched",
+      "date": "2024-02-26",
+      "rows": 12227,
+      "file_size_bytes": 5362512,
+      "fetched_at": "2026-04-09T15:22:05.958Z"
+    },
+    "2024-02-27": {
+      "status": "fetched",
+      "date": "2024-02-27",
+      "rows": 12690,
+      "file_size_bytes": 5563931,
+      "fetched_at": "2026-04-09T15:22:35.273Z"
+    },
+    "2024-02-28": {
+      "status": "fetched",
+      "date": "2024-02-28",
+      "rows": 16978,
+      "file_size_bytes": 7477189,
+      "fetched_at": "2026-04-09T15:22:38.180Z"
+    },
+    "2024-02-29": {
+      "status": "fetched",
+      "date": "2024-02-29",
+      "rows": 15525,
+      "file_size_bytes": 6834543,
+      "fetched_at": "2026-04-09T15:22:41.039Z"
+    },
+    "2024-03-01": {
+      "status": "fetched",
+      "date": "2024-03-01",
+      "rows": 14384,
+      "file_size_bytes": 6332288,
+      "fetched_at": "2026-04-09T15:22:43.428Z"
+    },
+    "2024-03-02": {
+      "status": "fetched",
+      "date": "2024-03-02",
+      "rows": 15836,
+      "file_size_bytes": 6976726,
+      "fetched_at": "2026-04-09T15:22:46.118Z"
+    },
+    "2024-03-03": {
+      "status": "fetched",
+      "date": "2024-03-03",
+      "rows": 16311,
+      "file_size_bytes": 7171838,
+      "fetched_at": "2026-04-09T15:22:48.501Z"
+    },
+    "2024-03-04": {
+      "status": "fetched",
+      "date": "2024-03-04",
+      "rows": 16236,
+      "file_size_bytes": 7150414,
+      "fetched_at": "2026-04-09T15:22:50.862Z"
+    },
+    "2024-03-05": {
+      "status": "fetched",
+      "date": "2024-03-05",
+      "rows": 15390,
+      "file_size_bytes": 6777453,
+      "fetched_at": "2026-04-09T15:22:53.151Z"
+    },
+    "2024-03-06": {
+      "status": "fetched",
+      "date": "2024-03-06",
+      "rows": 14454,
+      "file_size_bytes": 6359298,
+      "fetched_at": "2026-04-09T15:22:55.460Z"
+    },
+    "2024-03-07": {
+      "status": "fetched",
+      "date": "2024-03-07",
+      "rows": 11629,
+      "file_size_bytes": 5110213,
+      "fetched_at": "2026-04-09T15:22:58.059Z"
+    },
+    "2024-03-08": {
+      "status": "fetched",
+      "date": "2024-03-08",
+      "rows": 11161,
+      "file_size_bytes": 4892686,
+      "fetched_at": "2026-04-09T15:23:00.230Z"
+    },
+    "2024-03-09": {
+      "status": "fetched",
+      "date": "2024-03-09",
+      "rows": 12545,
+      "file_size_bytes": 5498731,
+      "fetched_at": "2026-04-09T15:23:02.399Z"
+    },
+    "2024-03-10": {
+      "status": "fetched",
+      "date": "2024-03-10",
+      "rows": 12915,
+      "file_size_bytes": 5666963,
+      "fetched_at": "2026-04-09T15:23:04.584Z"
+    },
+    "2024-03-11": {
+      "status": "fetched",
+      "date": "2024-03-11",
+      "rows": 11270,
+      "file_size_bytes": 4930974,
+      "fetched_at": "2026-04-09T15:23:06.821Z"
+    },
+    "2024-03-12": {
+      "status": "fetched",
+      "date": "2024-03-12",
+      "rows": 8848,
+      "file_size_bytes": 3858958,
+      "fetched_at": "2026-04-09T15:23:09.106Z"
+    },
+    "2024-03-13": {
+      "status": "fetched",
+      "date": "2024-03-13",
+      "rows": 9314,
+      "file_size_bytes": 4056713,
+      "fetched_at": "2026-04-09T15:23:11.145Z"
+    },
+    "2024-03-14": {
+      "status": "fetched",
+      "date": "2024-03-14",
+      "rows": 8331,
+      "file_size_bytes": 3635050,
+      "fetched_at": "2026-04-09T15:23:12.976Z"
+    },
+    "2024-03-15": {
+      "status": "fetched",
+      "date": "2024-03-15",
+      "rows": 9043,
+      "file_size_bytes": 3939895,
+      "fetched_at": "2026-04-09T15:23:15.139Z"
+    },
+    "2024-03-16": {
+      "status": "fetched",
+      "date": "2024-03-16",
+      "rows": 10388,
+      "file_size_bytes": 4520599,
+      "fetched_at": "2026-04-09T15:23:16.848Z"
+    },
+    "2024-03-17": {
+      "status": "fetched",
+      "date": "2024-03-17",
+      "rows": 10349,
+      "file_size_bytes": 4499673,
+      "fetched_at": "2026-04-09T15:23:18.608Z"
+    },
+    "2024-03-18": {
+      "status": "fetched",
+      "date": "2024-03-18",
+      "rows": 8674,
+      "file_size_bytes": 3760596,
+      "fetched_at": "2026-04-09T15:23:20.436Z"
+    },
+    "2024-03-19": {
+      "status": "fetched",
+      "date": "2024-03-19",
+      "rows": 8687,
+      "file_size_bytes": 3766717,
+      "fetched_at": "2026-04-09T15:23:22.302Z"
+    },
+    "2024-03-20": {
+      "status": "fetched",
+      "date": "2024-03-20",
+      "rows": 9080,
+      "file_size_bytes": 3935348,
+      "fetched_at": "2026-04-09T15:23:24.049Z"
+    },
+    "2024-03-21": {
+      "status": "fetched",
+      "date": "2024-03-21",
+      "rows": 9626,
+      "file_size_bytes": 4175987,
+      "fetched_at": "2026-04-09T15:23:25.814Z"
+    },
+    "2024-03-22": {
+      "status": "fetched",
+      "date": "2024-03-22",
+      "rows": 9730,
+      "file_size_bytes": 4233474,
+      "fetched_at": "2026-04-09T15:23:28.061Z"
+    },
+    "2024-03-23": {
+      "status": "fetched",
+      "date": "2024-03-23",
+      "rows": 10975,
+      "file_size_bytes": 4776982,
+      "fetched_at": "2026-04-09T15:23:30.031Z"
+    },
+    "2024-03-24": {
+      "status": "fetched",
+      "date": "2024-03-24",
+      "rows": 10268,
+      "file_size_bytes": 4447597,
+      "fetched_at": "2026-04-09T15:23:31.901Z"
+    },
+    "2024-03-25": {
+      "status": "fetched",
+      "date": "2024-03-25",
+      "rows": 9266,
+      "file_size_bytes": 4007407,
+      "fetched_at": "2026-04-09T15:23:33.977Z"
+    },
+    "2024-03-26": {
+      "status": "fetched",
+      "date": "2024-03-26",
+      "rows": 8872,
+      "file_size_bytes": 3836112,
+      "fetched_at": "2026-04-09T15:23:35.832Z"
+    },
+    "2024-03-27": {
+      "status": "fetched",
+      "date": "2024-03-27",
+      "rows": 9707,
+      "file_size_bytes": 4195207,
+      "fetched_at": "2026-04-09T15:23:37.683Z"
+    },
+    "2024-03-28": {
+      "status": "fetched",
+      "date": "2024-03-28",
+      "rows": 9305,
+      "file_size_bytes": 4022205,
+      "fetched_at": "2026-04-09T15:23:39.572Z"
+    },
+    "2024-03-29": {
+      "status": "fetched",
+      "date": "2024-03-29",
+      "rows": 9836,
+      "file_size_bytes": 4250461,
+      "fetched_at": "2026-04-09T15:23:41.655Z"
+    },
+    "2024-03-30": {
+      "status": "fetched",
+      "date": "2024-03-30",
+      "rows": 9552,
+      "file_size_bytes": 4129101,
+      "fetched_at": "2026-04-09T15:23:44.028Z"
+    },
+    "2024-03-31": {
+      "status": "fetched",
+      "date": "2024-03-31",
+      "rows": 9319,
+      "file_size_bytes": 4027960,
+      "fetched_at": "2026-04-09T15:23:46.208Z"
+    },
+    "2024-04-01": {
+      "status": "fetched",
+      "date": "2024-04-01",
+      "rows": 9446,
+      "file_size_bytes": 4077891,
+      "fetched_at": "2026-04-09T15:23:48.098Z"
+    },
+    "2024-04-02": {
+      "status": "fetched",
+      "date": "2024-04-02",
+      "rows": 10911,
+      "file_size_bytes": 4704826,
+      "fetched_at": "2026-04-09T15:23:50.380Z"
+    },
+    "2024-04-03": {
+      "status": "fetched",
+      "date": "2024-04-03",
+      "rows": 10424,
+      "file_size_bytes": 4505952,
+      "fetched_at": "2026-04-09T15:23:52.289Z"
+    },
+    "2024-04-04": {
+      "status": "fetched",
+      "date": "2024-04-04",
+      "rows": 11743,
+      "file_size_bytes": 5072079,
+      "fetched_at": "2026-04-09T15:23:54.234Z"
+    },
+    "2024-04-05": {
+      "status": "fetched",
+      "date": "2024-04-05",
+      "rows": 10583,
+      "file_size_bytes": 4569388,
+      "fetched_at": "2026-04-09T15:23:56.275Z"
+    },
+    "2024-04-06": {
+      "status": "fetched",
+      "date": "2024-04-06",
+      "rows": 10003,
+      "file_size_bytes": 4319542,
+      "fetched_at": "2026-04-09T15:23:58.192Z"
+    },
+    "2024-04-07": {
+      "status": "fetched",
+      "date": "2024-04-07",
+      "rows": 10342,
+      "file_size_bytes": 4461107,
+      "fetched_at": "2026-04-09T15:24:00.098Z"
+    },
+    "2024-04-08": {
+      "status": "fetched",
+      "date": "2024-04-08",
+      "rows": 10213,
+      "file_size_bytes": 4405601,
+      "fetched_at": "2026-04-09T15:24:02.221Z"
+    },
+    "2024-04-09": {
+      "status": "fetched",
+      "date": "2024-04-09",
+      "rows": 10599,
+      "file_size_bytes": 4572649,
+      "fetched_at": "2026-04-09T15:24:04.323Z"
+    },
+    "2024-04-10": {
+      "status": "fetched",
+      "date": "2024-04-10",
+      "rows": 9427,
+      "file_size_bytes": 4069393,
+      "fetched_at": "2026-04-09T15:24:06.293Z"
+    },
+    "2024-04-11": {
+      "status": "fetched",
+      "date": "2024-04-11",
+      "rows": 8950,
+      "file_size_bytes": 3866569,
+      "fetched_at": "2026-04-09T15:24:08.311Z"
+    },
+    "2024-04-12": {
+      "status": "fetched",
+      "date": "2024-04-12",
+      "rows": 8838,
+      "file_size_bytes": 3817954,
+      "fetched_at": "2026-04-09T15:24:10.398Z"
+    },
+    "2024-04-13": {
+      "status": "fetched",
+      "date": "2024-04-13",
+      "rows": 8932,
+      "file_size_bytes": 3862852,
+      "fetched_at": "2026-04-09T15:24:12.833Z"
+    },
+    "2024-04-14": {
+      "status": "fetched",
+      "date": "2024-04-14",
+      "rows": 8805,
+      "file_size_bytes": 3803866,
+      "fetched_at": "2026-04-09T15:24:15.026Z"
+    },
+    "2024-04-15": {
+      "status": "fetched",
+      "date": "2024-04-15",
+      "rows": 10477,
+      "file_size_bytes": 4523910,
+      "fetched_at": "2026-04-09T15:24:17.068Z"
+    },
+    "2024-04-16": {
+      "status": "fetched",
+      "date": "2024-04-16",
+      "rows": 11295,
+      "file_size_bytes": 4864892,
+      "fetched_at": "2026-04-09T15:24:19.135Z"
+    },
+    "2024-04-17": {
+      "status": "fetched",
+      "date": "2024-04-17",
+      "rows": 12387,
+      "file_size_bytes": 5348360,
+      "fetched_at": "2026-04-09T15:24:21.871Z"
+    },
+    "2024-04-18": {
+      "status": "fetched",
+      "date": "2024-04-18",
+      "rows": 11521,
+      "file_size_bytes": 4970015,
+      "fetched_at": "2026-04-09T15:24:24.410Z"
+    },
+    "2024-04-19": {
+      "status": "fetched",
+      "date": "2024-04-19",
+      "rows": 7284,
+      "file_size_bytes": 3148203,
+      "fetched_at": "2026-04-09T15:24:27.081Z"
+    },
+    "2024-04-20": {
+      "status": "fetched",
+      "date": "2024-04-20",
+      "rows": 6718,
+      "file_size_bytes": 2903034,
+      "fetched_at": "2026-04-09T15:24:30.081Z"
+    },
+    "2024-04-21": {
+      "status": "fetched",
+      "date": "2024-04-21",
+      "rows": 6872,
+      "file_size_bytes": 2966093,
+      "fetched_at": "2026-04-09T15:24:32.498Z"
+    },
+    "2024-04-22": {
+      "status": "fetched",
+      "date": "2024-04-22",
+      "rows": 7369,
+      "file_size_bytes": 3178802,
+      "fetched_at": "2026-04-09T15:24:35.034Z"
+    },
+    "2024-04-23": {
+      "status": "fetched",
+      "date": "2024-04-23",
+      "rows": 7945,
+      "file_size_bytes": 3438031,
+      "fetched_at": "2026-04-09T15:24:37.110Z"
+    },
+    "2024-04-24": {
+      "status": "fetched",
+      "date": "2024-04-24",
+      "rows": 11743,
+      "file_size_bytes": 5066996,
+      "fetched_at": "2026-04-09T15:24:39.096Z"
+    },
+    "2024-04-25": {
+      "status": "fetched",
+      "date": "2024-04-25",
+      "rows": 12212,
+      "file_size_bytes": 5266765,
+      "fetched_at": "2026-04-09T15:24:41.073Z"
+    },
+    "2024-04-26": {
+      "status": "fetched",
+      "date": "2024-04-26",
+      "rows": 10775,
+      "file_size_bytes": 4656637,
+      "fetched_at": "2026-04-09T15:24:43.124Z"
+    },
+    "2024-04-27": {
+      "status": "fetched",
+      "date": "2024-04-27",
+      "rows": 10394,
+      "file_size_bytes": 4489370,
+      "fetched_at": "2026-04-09T15:24:45.384Z"
+    },
+    "2024-04-28": {
+      "status": "fetched",
+      "date": "2024-04-28",
+      "rows": 10425,
+      "file_size_bytes": 4493504,
+      "fetched_at": "2026-04-09T15:24:47.355Z"
+    },
+    "2024-04-29": {
+      "status": "fetched",
+      "date": "2024-04-29",
+      "rows": 11955,
+      "file_size_bytes": 5161985,
+      "fetched_at": "2026-04-09T15:24:49.300Z"
+    },
+    "2024-04-30": {
+      "status": "fetched",
+      "date": "2024-04-30",
+      "rows": 10544,
+      "file_size_bytes": 4555440,
+      "fetched_at": "2026-04-09T15:24:51.161Z"
+    },
+    "2024-05-01": {
+      "status": "fetched",
+      "date": "2024-05-01",
+      "rows": 9481,
+      "file_size_bytes": 4094125,
+      "fetched_at": "2026-04-09T15:24:53.015Z"
+    },
+    "2024-05-02": {
+      "status": "fetched",
+      "date": "2024-05-02",
+      "rows": 10386,
+      "file_size_bytes": 4473530,
+      "fetched_at": "2026-04-09T15:24:55.126Z"
+    },
+    "2024-05-03": {
+      "status": "fetched",
+      "date": "2024-05-03",
+      "rows": 9963,
+      "file_size_bytes": 4303913,
+      "fetched_at": "2026-04-09T15:24:56.958Z"
+    },
+    "2024-05-04": {
+      "status": "fetched",
+      "date": "2024-05-04",
+      "rows": 9536,
+      "file_size_bytes": 4127843,
+      "fetched_at": "2026-04-09T15:24:58.912Z"
+    },
+    "2024-05-05": {
+      "status": "fetched",
+      "date": "2024-05-05",
+      "rows": 10332,
+      "file_size_bytes": 4461906,
+      "fetched_at": "2026-04-09T15:25:01.219Z"
+    },
+    "2024-05-06": {
+      "status": "fetched",
+      "date": "2024-05-06",
+      "rows": 10599,
+      "file_size_bytes": 4591297,
+      "fetched_at": "2026-04-09T15:25:04.548Z"
+    },
+    "2024-05-07": {
+      "status": "fetched",
+      "date": "2024-05-07",
+      "rows": 10728,
+      "file_size_bytes": 4640035,
+      "fetched_at": "2026-04-09T15:25:07.327Z"
+    },
+    "2024-05-08": {
+      "status": "fetched",
+      "date": "2024-05-08",
+      "rows": 10611,
+      "file_size_bytes": 4580024,
+      "fetched_at": "2026-04-09T15:25:09.949Z"
+    },
+    "2024-05-09": {
+      "status": "fetched",
+      "date": "2024-05-09",
+      "rows": 10407,
+      "file_size_bytes": 4502613,
+      "fetched_at": "2026-04-09T15:25:12.843Z"
+    },
+    "2024-05-10": {
+      "status": "fetched",
+      "date": "2024-05-10",
+      "rows": 9080,
+      "file_size_bytes": 3928278,
+      "fetched_at": "2026-04-09T15:25:16.407Z"
+    },
+    "2024-05-11": {
+      "status": "fetched",
+      "date": "2024-05-11",
+      "rows": 8670,
+      "file_size_bytes": 3749419,
+      "fetched_at": "2026-04-09T15:25:18.612Z"
+    },
+    "2024-05-12": {
+      "status": "fetched",
+      "date": "2024-05-12",
+      "rows": 8721,
+      "file_size_bytes": 3780882,
+      "fetched_at": "2026-04-09T15:25:22.088Z"
+    },
+    "2024-05-13": {
+      "status": "fetched",
+      "date": "2024-05-13",
+      "rows": 9628,
+      "file_size_bytes": 4170204,
+      "fetched_at": "2026-04-09T15:25:25.244Z"
+    },
+    "2024-05-14": {
+      "status": "fetched",
+      "date": "2024-05-14",
+      "rows": 10790,
+      "file_size_bytes": 4656699,
+      "fetched_at": "2026-04-09T15:25:28.445Z"
+    },
+    "2024-05-15": {
+      "status": "fetched",
+      "date": "2024-05-15",
+      "rows": 11224,
+      "file_size_bytes": 4841628,
+      "fetched_at": "2026-04-09T15:25:32.787Z"
+    },
+    "2024-05-16": {
+      "status": "fetched",
+      "date": "2024-05-16",
+      "rows": 10868,
+      "file_size_bytes": 4688165,
+      "fetched_at": "2026-04-09T15:25:36.411Z"
+    },
+    "2024-05-17": {
+      "status": "fetched",
+      "date": "2024-05-17",
+      "rows": 10215,
+      "file_size_bytes": 4408268,
+      "fetched_at": "2026-04-09T15:25:39.009Z"
+    },
+    "2024-05-18": {
+      "status": "fetched",
+      "date": "2024-05-18",
+      "rows": 9583,
+      "file_size_bytes": 4132496,
+      "fetched_at": "2026-04-09T15:25:41.325Z"
+    },
+    "2024-05-19": {
+      "status": "fetched",
+      "date": "2024-05-19",
+      "rows": 10624,
+      "file_size_bytes": 4584514,
+      "fetched_at": "2026-04-09T15:25:44.236Z"
+    },
+    "2024-05-20": {
+      "status": "fetched",
+      "date": "2024-05-20",
+      "rows": 11333,
+      "file_size_bytes": 4895323,
+      "fetched_at": "2026-04-09T15:25:47.626Z"
+    },
+    "2024-05-21": {
+      "status": "fetched",
+      "date": "2024-05-21",
+      "rows": 10461,
+      "file_size_bytes": 4515972,
+      "fetched_at": "2026-04-09T15:25:50.399Z"
+    },
+    "2024-05-22": {
+      "status": "fetched",
+      "date": "2024-05-22",
+      "rows": 11152,
+      "file_size_bytes": 4812817,
+      "fetched_at": "2026-04-09T15:25:52.337Z"
+    },
+    "2024-05-23": {
+      "status": "fetched",
+      "date": "2024-05-23",
+      "rows": 10578,
+      "file_size_bytes": 4565081,
+      "fetched_at": "2026-04-09T15:25:54.323Z"
+    },
+    "2024-05-24": {
+      "status": "fetched",
+      "date": "2024-05-24",
+      "rows": 10360,
+      "file_size_bytes": 4481221,
+      "fetched_at": "2026-04-09T15:25:56.520Z"
+    },
+    "2024-05-25": {
+      "status": "fetched",
+      "date": "2024-05-25",
+      "rows": 10284,
+      "file_size_bytes": 4442972,
+      "fetched_at": "2026-04-09T15:25:58.636Z"
+    },
+    "2024-05-26": {
+      "status": "fetched",
+      "date": "2024-05-26",
+      "rows": 10955,
+      "file_size_bytes": 4730964,
+      "fetched_at": "2026-04-09T15:26:01.084Z"
+    },
+    "2024-05-27": {
+      "status": "fetched",
+      "date": "2024-05-27",
+      "rows": 10577,
+      "file_size_bytes": 4555144,
+      "fetched_at": "2026-04-09T15:26:03.034Z"
+    },
+    "2024-05-28": {
+      "status": "fetched",
+      "date": "2024-05-28",
+      "rows": 10421,
+      "file_size_bytes": 4493962,
+      "fetched_at": "2026-04-09T15:26:05.284Z"
+    },
+    "2024-05-29": {
+      "status": "fetched",
+      "date": "2024-05-29",
+      "rows": 11006,
+      "file_size_bytes": 4749317,
+      "fetched_at": "2026-04-09T15:26:07.508Z"
+    },
+    "2024-05-30": {
+      "status": "fetched",
+      "date": "2024-05-30",
+      "rows": 11121,
+      "file_size_bytes": 4800453,
+      "fetched_at": "2026-04-09T15:26:09.672Z"
+    },
+    "2024-05-31": {
+      "status": "fetched",
+      "date": "2024-05-31",
+      "rows": 10564,
+      "file_size_bytes": 4557696,
+      "fetched_at": "2026-04-09T15:26:11.727Z"
+    },
+    "2024-06-01": {
+      "status": "fetched",
+      "date": "2024-06-01",
+      "rows": 10160,
+      "file_size_bytes": 4391654,
+      "fetched_at": "2026-04-09T15:26:13.712Z"
+    },
+    "2024-06-02": {
+      "status": "fetched",
+      "date": "2024-06-02",
+      "rows": 10458,
+      "file_size_bytes": 4513660,
+      "fetched_at": "2026-04-09T15:26:16.014Z"
+    },
+    "2024-06-03": {
+      "status": "fetched",
+      "date": "2024-06-03",
+      "rows": 10382,
+      "file_size_bytes": 4485125,
+      "fetched_at": "2026-04-09T15:26:19.015Z"
+    },
+    "2024-06-04": {
+      "status": "fetched",
+      "date": "2024-06-04",
+      "rows": 9862,
+      "file_size_bytes": 4257377,
+      "fetched_at": "2026-04-09T15:26:22.307Z"
+    },
+    "2024-06-05": {
+      "status": "fetched",
+      "date": "2024-06-05",
+      "rows": 10432,
+      "file_size_bytes": 4500340,
+      "fetched_at": "2026-04-09T15:26:25.271Z"
+    },
+    "2024-06-06": {
+      "status": "fetched",
+      "date": "2024-06-06",
+      "rows": 9670,
+      "file_size_bytes": 4174092,
+      "fetched_at": "2026-04-09T15:26:28.565Z"
+    },
+    "2024-06-07": {
+      "status": "fetched",
+      "date": "2024-06-07",
+      "rows": 9328,
+      "file_size_bytes": 4038674,
+      "fetched_at": "2026-04-09T15:26:32.090Z"
+    },
+    "2024-06-08": {
+      "status": "fetched",
+      "date": "2024-06-08",
+      "rows": 10211,
+      "file_size_bytes": 4418228,
+      "fetched_at": "2026-04-09T15:26:34.270Z"
+    },
+    "2024-06-09": {
+      "status": "fetched",
+      "date": "2024-06-09",
+      "rows": 10716,
+      "file_size_bytes": 4629565,
+      "fetched_at": "2026-04-09T15:26:36.762Z"
+    },
+    "2024-06-10": {
+      "status": "fetched",
+      "date": "2024-06-10",
+      "rows": 10393,
+      "file_size_bytes": 4492039,
+      "fetched_at": "2026-04-09T15:26:39.466Z"
+    },
+    "2024-06-11": {
+      "status": "fetched",
+      "date": "2024-06-11",
+      "rows": 10062,
+      "file_size_bytes": 4345419,
+      "fetched_at": "2026-04-09T15:26:42.003Z"
+    },
+    "2024-06-12": {
+      "status": "fetched",
+      "date": "2024-06-12",
+      "rows": 10862,
+      "file_size_bytes": 4693739,
+      "fetched_at": "2026-04-09T15:26:44.987Z"
+    },
+    "2024-06-13": {
+      "status": "fetched",
+      "date": "2024-06-13",
+      "rows": 10833,
+      "file_size_bytes": 4691818,
+      "fetched_at": "2026-04-09T15:26:47.876Z"
+    },
+    "2024-06-14": {
+      "status": "fetched",
+      "date": "2024-06-14",
+      "rows": 10464,
+      "file_size_bytes": 4520189,
+      "fetched_at": "2026-04-09T15:26:50.504Z"
+    },
+    "2024-06-15": {
+      "status": "fetched",
+      "date": "2024-06-15",
+      "rows": 9657,
+      "file_size_bytes": 4184324,
+      "fetched_at": "2026-04-09T15:26:52.531Z"
+    },
+    "2024-06-16": {
+      "status": "fetched",
+      "date": "2024-06-16",
+      "rows": 9652,
+      "file_size_bytes": 4172833,
+      "fetched_at": "2026-04-09T15:26:55.929Z"
+    },
+    "2024-06-17": {
+      "status": "fetched",
+      "date": "2024-06-17",
+      "rows": 6673,
+      "file_size_bytes": 2892324,
+      "fetched_at": "2026-04-09T15:26:58.920Z"
+    },
+    "2024-06-18": {
+      "status": "fetched",
+      "date": "2024-06-18",
+      "rows": 11997,
+      "file_size_bytes": 5184418,
+      "fetched_at": "2026-04-09T15:27:02.707Z"
+    },
+    "2024-06-19": {
+      "status": "fetched",
+      "date": "2024-06-19",
+      "rows": 9839,
+      "file_size_bytes": 4253887,
+      "fetched_at": "2026-04-09T15:27:06.279Z"
+    },
+    "2024-06-20": {
+      "status": "fetched",
+      "date": "2024-06-20",
+      "rows": 10195,
+      "file_size_bytes": 4407410,
+      "fetched_at": "2026-04-09T15:27:09.465Z"
+    },
+    "2024-06-21": {
+      "status": "fetched",
+      "date": "2024-06-21",
+      "rows": 9952,
+      "file_size_bytes": 4299433,
+      "fetched_at": "2026-04-09T15:27:12.703Z"
+    },
+    "2024-06-22": {
+      "status": "fetched",
+      "date": "2024-06-22",
+      "rows": 9228,
+      "file_size_bytes": 3991891,
+      "fetched_at": "2026-04-09T15:27:15.652Z"
+    },
+    "2024-06-23": {
+      "status": "fetched",
+      "date": "2024-06-23",
+      "rows": 9506,
+      "file_size_bytes": 4097324,
+      "fetched_at": "2026-04-09T15:27:17.795Z"
+    },
+    "2024-06-24": {
+      "status": "fetched",
+      "date": "2024-06-24",
+      "rows": 11296,
+      "file_size_bytes": 4885286,
+      "fetched_at": "2026-04-09T15:27:20.397Z"
+    },
+    "2024-06-25": {
+      "status": "fetched",
+      "date": "2024-06-25",
+      "rows": 9821,
+      "file_size_bytes": 4239131,
+      "fetched_at": "2026-04-09T15:27:24.126Z"
+    },
+    "2024-06-26": {
+      "status": "fetched",
+      "date": "2024-06-26",
+      "rows": 10241,
+      "file_size_bytes": 4430989,
+      "fetched_at": "2026-04-09T15:27:28.349Z"
+    },
+    "2024-06-27": {
+      "status": "fetched",
+      "date": "2024-06-27",
+      "rows": 11022,
+      "file_size_bytes": 4760176,
+      "fetched_at": "2026-04-09T15:27:32.722Z"
+    },
+    "2024-06-28": {
+      "status": "fetched",
+      "date": "2024-06-28",
+      "rows": 10692,
+      "file_size_bytes": 4621752,
+      "fetched_at": "2026-04-09T15:27:36.503Z"
+    },
+    "2024-06-29": {
+      "status": "fetched",
+      "date": "2024-06-29",
+      "rows": 9805,
+      "file_size_bytes": 4244082,
+      "fetched_at": "2026-04-09T15:27:40.157Z"
+    },
+    "2024-06-30": {
+      "status": "fetched",
+      "date": "2024-06-30",
+      "rows": 10117,
+      "file_size_bytes": 4372461,
+      "fetched_at": "2026-04-09T15:27:44.482Z"
+    },
+    "2024-07-01": {
+      "status": "fetched",
+      "date": "2024-07-01",
+      "rows": 11058,
+      "file_size_bytes": 4777427,
+      "fetched_at": "2026-04-09T15:27:47.124Z"
+    },
+    "2024-07-02": {
+      "status": "fetched",
+      "date": "2024-07-02",
+      "rows": 11555,
+      "file_size_bytes": 4988573,
+      "fetched_at": "2026-04-09T15:27:49.260Z"
+    },
+    "2024-07-03": {
+      "status": "fetched",
+      "date": "2024-07-03",
+      "rows": 11705,
+      "file_size_bytes": 5065795,
+      "fetched_at": "2026-04-09T15:27:51.323Z"
+    },
+    "2024-07-04": {
+      "status": "fetched",
+      "date": "2024-07-04",
+      "rows": 11482,
+      "file_size_bytes": 4965061,
+      "fetched_at": "2026-04-09T15:27:53.661Z"
+    },
+    "2024-07-05": {
+      "status": "fetched",
+      "date": "2024-07-05",
+      "rows": 11867,
+      "file_size_bytes": 5131165,
+      "fetched_at": "2026-04-09T15:27:55.709Z"
+    },
+    "2024-07-06": {
+      "status": "fetched",
+      "date": "2024-07-06",
+      "rows": 9691,
+      "file_size_bytes": 4192446,
+      "fetched_at": "2026-04-09T15:27:58.085Z"
+    },
+    "2024-07-07": {
+      "status": "fetched",
+      "date": "2024-07-07",
+      "rows": 10259,
+      "file_size_bytes": 4438928,
+      "fetched_at": "2026-04-09T15:28:00.094Z"
+    },
+    "2024-07-08": {
+      "status": "fetched",
+      "date": "2024-07-08",
+      "rows": 11633,
+      "file_size_bytes": 5030903,
+      "fetched_at": "2026-04-09T15:28:02.063Z"
+    },
+    "2024-07-09": {
+      "status": "fetched",
+      "date": "2024-07-09",
+      "rows": 11703,
+      "file_size_bytes": 5061998,
+      "fetched_at": "2026-04-09T15:28:04.112Z"
+    },
+    "2024-07-10": {
+      "status": "fetched",
+      "date": "2024-07-10",
+      "rows": 11701,
+      "file_size_bytes": 5065654,
+      "fetched_at": "2026-04-09T15:28:06.120Z"
+    },
+    "2024-07-11": {
+      "status": "fetched",
+      "date": "2024-07-11",
+      "rows": 11432,
+      "file_size_bytes": 4962976,
+      "fetched_at": "2026-04-09T15:28:08.425Z"
+    },
+    "2024-07-12": {
+      "status": "fetched",
+      "date": "2024-07-12",
+      "rows": 10469,
+      "file_size_bytes": 4529308,
+      "fetched_at": "2026-04-09T15:28:10.435Z"
+    },
+    "2024-07-13": {
+      "status": "fetched",
+      "date": "2024-07-13",
+      "rows": 8916,
+      "file_size_bytes": 3856062,
+      "fetched_at": "2026-04-09T15:28:12.924Z"
+    },
+    "2024-07-14": {
+      "status": "fetched",
+      "date": "2024-07-14",
+      "rows": 9179,
+      "file_size_bytes": 3966822,
+      "fetched_at": "2026-04-09T15:28:15.652Z"
+    },
+    "2024-07-15": {
+      "status": "fetched",
+      "date": "2024-07-15",
+      "rows": 10001,
+      "file_size_bytes": 4322039,
+      "fetched_at": "2026-04-09T15:28:18.265Z"
+    },
+    "2024-07-16": {
+      "status": "fetched",
+      "date": "2024-07-16",
+      "rows": 11370,
+      "file_size_bytes": 4905943,
+      "fetched_at": "2026-04-09T15:28:20.870Z"
+    },
+    "2024-07-17": {
+      "status": "fetched",
+      "date": "2024-07-17",
+      "rows": 12377,
+      "file_size_bytes": 5347193,
+      "fetched_at": "2026-04-09T15:28:23.564Z"
+    },
+    "2024-07-18": {
+      "status": "fetched",
+      "date": "2024-07-18",
+      "rows": 10351,
+      "file_size_bytes": 4472070,
+      "fetched_at": "2026-04-09T15:28:26.003Z"
+    },
+    "2024-07-19": {
+      "status": "fetched",
+      "date": "2024-07-19",
+      "rows": 10027,
+      "file_size_bytes": 4331149,
+      "fetched_at": "2026-04-09T15:28:27.874Z"
+    },
+    "2024-07-20": {
+      "status": "fetched",
+      "date": "2024-07-20",
+      "rows": 8924,
+      "file_size_bytes": 3851857,
+      "fetched_at": "2026-04-09T15:28:30.170Z"
+    },
+    "2024-07-21": {
+      "status": "fetched",
+      "date": "2024-07-21",
+      "rows": 9713,
+      "file_size_bytes": 4196589,
+      "fetched_at": "2026-04-09T15:28:32.352Z"
+    },
+    "2024-07-22": {
+      "status": "fetched",
+      "date": "2024-07-22",
+      "rows": 10601,
+      "file_size_bytes": 4573673,
+      "fetched_at": "2026-04-09T15:28:35.288Z"
+    },
+    "2024-07-23": {
+      "status": "fetched",
+      "date": "2024-07-23",
+      "rows": 10585,
+      "file_size_bytes": 4567672,
+      "fetched_at": "2026-04-09T15:28:37.684Z"
+    },
+    "2024-07-24": {
+      "status": "fetched",
+      "date": "2024-07-24",
+      "rows": 10540,
+      "file_size_bytes": 4541371,
+      "fetched_at": "2026-04-09T15:28:40.399Z"
+    },
+    "2024-07-25": {
+      "status": "fetched",
+      "date": "2024-07-25",
+      "rows": 11388,
+      "file_size_bytes": 4902437,
+      "fetched_at": "2026-04-09T15:28:43.662Z"
+    },
+    "2024-07-26": {
+      "status": "fetched",
+      "date": "2024-07-26",
+      "rows": 9185,
+      "file_size_bytes": 3952597,
+      "fetched_at": "2026-04-09T15:28:46.467Z"
+    },
+    "2024-07-27": {
+      "status": "fetched",
+      "date": "2024-07-27",
+      "rows": 10105,
+      "file_size_bytes": 4361145,
+      "fetched_at": "2026-04-09T15:28:49.453Z"
+    },
+    "2024-07-28": {
+      "status": "fetched",
+      "date": "2024-07-28",
+      "rows": 9113,
+      "file_size_bytes": 3925370,
+      "fetched_at": "2026-04-09T15:28:52.911Z"
+    },
+    "2024-07-29": {
+      "status": "fetched",
+      "date": "2024-07-29",
+      "rows": 9734,
+      "file_size_bytes": 4191092,
+      "fetched_at": "2026-04-09T15:28:56.665Z"
+    },
+    "2024-07-30": {
+      "status": "fetched",
+      "date": "2024-07-30",
+      "rows": 11076,
+      "file_size_bytes": 4767718,
+      "fetched_at": "2026-04-09T15:29:00.085Z"
+    },
+    "2024-07-31": {
+      "status": "fetched",
+      "date": "2024-07-31",
+      "rows": 12408,
+      "file_size_bytes": 5356898,
+      "fetched_at": "2026-04-09T15:29:04.542Z"
+    },
+    "2024-08-01": {
+      "status": "fetched",
+      "date": "2024-08-01",
+      "rows": 12717,
+      "file_size_bytes": 5471904,
+      "fetched_at": "2026-04-09T15:29:08.712Z"
+    },
+    "2024-08-02": {
+      "status": "fetched",
+      "date": "2024-08-02",
+      "rows": 11022,
+      "file_size_bytes": 4745722,
+      "fetched_at": "2026-04-09T15:29:12.184Z"
+    },
+    "2024-08-03": {
+      "status": "fetched",
+      "date": "2024-08-03",
+      "rows": 9270,
+      "file_size_bytes": 3994018,
+      "fetched_at": "2026-04-09T15:29:14.122Z"
+    },
+    "2024-08-04": {
+      "status": "fetched",
+      "date": "2024-08-04",
+      "rows": 9799,
+      "file_size_bytes": 4224186,
+      "fetched_at": "2026-04-09T15:29:16.193Z"
+    },
+    "2024-08-05": {
+      "status": "fetched",
+      "date": "2024-08-05",
+      "rows": 10955,
+      "file_size_bytes": 4721938,
+      "fetched_at": "2026-04-09T15:29:18.123Z"
+    },
+    "2024-08-06": {
+      "status": "fetched",
+      "date": "2024-08-06",
+      "rows": 11430,
+      "file_size_bytes": 4934164,
+      "fetched_at": "2026-04-09T15:29:19.746Z"
+    },
+    "2024-08-07": {
+      "status": "fetched",
+      "date": "2024-08-07",
+      "rows": 11327,
+      "file_size_bytes": 4897639,
+      "fetched_at": "2026-04-09T15:29:21.773Z"
+    },
+    "2024-08-08": {
+      "status": "fetched",
+      "date": "2024-08-08",
+      "rows": 11806,
+      "file_size_bytes": 5109162,
+      "fetched_at": "2026-04-09T15:29:23.751Z"
+    },
+    "2024-08-09": {
+      "status": "fetched",
+      "date": "2024-08-09",
+      "rows": 11537,
+      "file_size_bytes": 4991545,
+      "fetched_at": "2026-04-09T15:29:25.854Z"
+    },
+    "2024-08-10": {
+      "status": "fetched",
+      "date": "2024-08-10",
+      "rows": 9940,
+      "file_size_bytes": 4287936,
+      "fetched_at": "2026-04-09T15:29:28.610Z"
+    },
+    "2024-08-11": {
+      "status": "fetched",
+      "date": "2024-08-11",
+      "rows": 10528,
+      "file_size_bytes": 4547925,
+      "fetched_at": "2026-04-09T15:29:31.366Z"
+    },
+    "2024-08-12": {
+      "status": "fetched",
+      "date": "2024-08-12",
+      "rows": 11770,
+      "file_size_bytes": 5081811,
+      "fetched_at": "2026-04-09T15:29:33.920Z"
+    },
+    "2024-08-13": {
+      "status": "fetched",
+      "date": "2024-08-13",
+      "rows": 11569,
+      "file_size_bytes": 4994195,
+      "fetched_at": "2026-04-09T15:29:36.348Z"
+    },
+    "2024-08-14": {
+      "status": "fetched",
+      "date": "2024-08-14",
+      "rows": 11539,
+      "file_size_bytes": 4975460,
+      "fetched_at": "2026-04-09T15:29:39.025Z"
+    },
+    "2024-08-15": {
+      "status": "fetched",
+      "date": "2024-08-15",
+      "rows": 10845,
+      "file_size_bytes": 4673303,
+      "fetched_at": "2026-04-09T15:29:42.288Z"
+    },
+    "2024-08-16": {
+      "status": "fetched",
+      "date": "2024-08-16",
+      "rows": 11456,
+      "file_size_bytes": 4954167,
+      "fetched_at": "2026-04-09T15:29:44.374Z"
+    },
+    "2024-08-17": {
+      "status": "fetched",
+      "date": "2024-08-17",
+      "rows": 9498,
+      "file_size_bytes": 4097188,
+      "fetched_at": "2026-04-09T15:29:46.150Z"
+    },
+    "2024-08-18": {
+      "status": "fetched",
+      "date": "2024-08-18",
+      "rows": 9602,
+      "file_size_bytes": 4145604,
+      "fetched_at": "2026-04-09T15:29:47.968Z"
+    },
+    "2024-08-19": {
+      "status": "fetched",
+      "date": "2024-08-19",
+      "rows": 10174,
+      "file_size_bytes": 4391715,
+      "fetched_at": "2026-04-09T15:29:49.912Z"
+    },
+    "2024-08-20": {
+      "status": "fetched",
+      "date": "2024-08-20",
+      "rows": 10167,
+      "file_size_bytes": 4379193,
+      "fetched_at": "2026-04-09T15:29:51.712Z"
+    },
+    "2024-08-21": {
+      "status": "fetched",
+      "date": "2024-08-21",
+      "rows": 10754,
+      "file_size_bytes": 4635047,
+      "fetched_at": "2026-04-09T15:29:53.553Z"
+    },
+    "2024-08-22": {
+      "status": "fetched",
+      "date": "2024-08-22",
+      "rows": 11050,
+      "file_size_bytes": 4761813,
+      "fetched_at": "2026-04-09T15:29:55.401Z"
+    },
+    "2024-08-23": {
+      "status": "fetched",
+      "date": "2024-08-23",
+      "rows": 10546,
+      "file_size_bytes": 4545326,
+      "fetched_at": "2026-04-09T15:29:57.963Z"
+    },
+    "2024-08-24": {
+      "status": "fetched",
+      "date": "2024-08-24",
+      "rows": 9598,
+      "file_size_bytes": 4140347,
+      "fetched_at": "2026-04-09T15:30:00.315Z"
+    },
+    "2024-08-25": {
+      "status": "fetched",
+      "date": "2024-08-25",
+      "rows": 8907,
+      "file_size_bytes": 3826533,
+      "fetched_at": "2026-04-09T15:30:02.916Z"
+    },
+    "2024-08-26": {
+      "status": "fetched",
+      "date": "2024-08-26",
+      "rows": 10079,
+      "file_size_bytes": 4335100,
+      "fetched_at": "2026-04-09T15:30:05.385Z"
+    },
+    "2024-08-27": {
+      "status": "fetched",
+      "date": "2024-08-27",
+      "rows": 10495,
+      "file_size_bytes": 4519390,
+      "fetched_at": "2026-04-09T15:30:08.401Z"
+    },
+    "2024-08-28": {
+      "status": "fetched",
+      "date": "2024-08-28",
+      "rows": 11728,
+      "file_size_bytes": 5052686,
+      "fetched_at": "2026-04-09T15:30:10.922Z"
+    },
+    "2024-08-29": {
+      "status": "fetched",
+      "date": "2024-08-29",
+      "rows": 11165,
+      "file_size_bytes": 4802944,
+      "fetched_at": "2026-04-09T15:30:13.455Z"
+    },
+    "2024-08-30": {
+      "status": "fetched",
+      "date": "2024-08-30",
+      "rows": 10466,
+      "file_size_bytes": 4505305,
+      "fetched_at": "2026-04-09T15:30:15.323Z"
+    },
+    "2024-08-31": {
+      "status": "fetched",
+      "date": "2024-08-31",
+      "rows": 9603,
+      "file_size_bytes": 4134039,
+      "fetched_at": "2026-04-09T15:30:17.339Z"
+    },
+    "2024-09-01": {
+      "status": "fetched",
+      "date": "2024-09-01",
+      "rows": 8605,
+      "file_size_bytes": 3697736,
+      "fetched_at": "2026-04-09T15:30:19.540Z"
+    },
+    "2024-09-02": {
+      "status": "fetched",
+      "date": "2024-09-02",
+      "rows": 10077,
+      "file_size_bytes": 4335919,
+      "fetched_at": "2026-04-09T15:30:21.421Z"
+    },
+    "2024-09-03": {
+      "status": "fetched",
+      "date": "2024-09-03",
+      "rows": 10007,
+      "file_size_bytes": 4309567,
+      "fetched_at": "2026-04-09T15:30:23.495Z"
+    },
+    "2024-09-04": {
+      "status": "fetched",
+      "date": "2024-09-04",
+      "rows": 10051,
+      "file_size_bytes": 4325572,
+      "fetched_at": "2026-04-09T15:30:25.352Z"
+    },
+    "2024-09-05": {
+      "status": "fetched",
+      "date": "2024-09-05",
+      "rows": 10265,
+      "file_size_bytes": 4420678,
+      "fetched_at": "2026-04-09T15:30:27.497Z"
+    },
+    "2024-09-06": {
+      "status": "fetched",
+      "date": "2024-09-06",
+      "rows": 10151,
+      "file_size_bytes": 4378074,
+      "fetched_at": "2026-04-09T15:30:29.393Z"
+    },
+    "2024-09-07": {
+      "status": "fetched",
+      "date": "2024-09-07",
+      "rows": 9951,
+      "file_size_bytes": 4293219,
+      "fetched_at": "2026-04-09T15:30:31.742Z"
+    },
+    "2024-09-08": {
+      "status": "fetched",
+      "date": "2024-09-08",
+      "rows": 10170,
+      "file_size_bytes": 4378896,
+      "fetched_at": "2026-04-09T15:30:33.811Z"
+    },
+    "2024-09-09": {
+      "status": "fetched",
+      "date": "2024-09-09",
+      "rows": 10010,
+      "file_size_bytes": 4307013,
+      "fetched_at": "2026-04-09T15:30:35.758Z"
+    },
+    "2024-09-10": {
+      "status": "fetched",
+      "date": "2024-09-10",
+      "rows": 10995,
+      "file_size_bytes": 4737633,
+      "fetched_at": "2026-04-09T15:30:38.128Z"
+    },
+    "2024-09-11": {
+      "status": "fetched",
+      "date": "2024-09-11",
+      "rows": 10692,
+      "file_size_bytes": 4603161,
+      "fetched_at": "2026-04-09T15:30:40.000Z"
+    },
+    "2024-09-12": {
+      "status": "fetched",
+      "date": "2024-09-12",
+      "rows": 9689,
+      "file_size_bytes": 4176718,
+      "fetched_at": "2026-04-09T15:30:41.570Z"
+    },
+    "2024-09-13": {
+      "status": "fetched",
+      "date": "2024-09-13",
+      "rows": 10945,
+      "file_size_bytes": 4715387,
+      "fetched_at": "2026-04-09T15:30:43.499Z"
+    },
+    "2024-09-14": {
+      "status": "fetched",
+      "date": "2024-09-14",
+      "rows": 9926,
+      "file_size_bytes": 4275412,
+      "fetched_at": "2026-04-09T15:30:46.366Z"
+    },
+    "2024-09-15": {
+      "status": "fetched",
+      "date": "2024-09-15",
+      "rows": 9944,
+      "file_size_bytes": 4269400,
+      "fetched_at": "2026-04-09T15:30:48.427Z"
+    },
+    "2024-09-16": {
+      "status": "fetched",
+      "date": "2024-09-16",
+      "rows": 10099,
+      "file_size_bytes": 4353263,
+      "fetched_at": "2026-04-09T15:30:50.418Z"
+    },
+    "2024-09-17": {
+      "status": "fetched",
+      "date": "2024-09-17",
+      "rows": 10379,
+      "file_size_bytes": 4478893,
+      "fetched_at": "2026-04-09T15:30:52.601Z"
+    },
+    "2024-09-18": {
+      "status": "fetched",
+      "date": "2024-09-18",
+      "rows": 11179,
+      "file_size_bytes": 4826773,
+      "fetched_at": "2026-04-09T15:30:54.728Z"
+    },
+    "2024-09-19": {
+      "status": "fetched",
+      "date": "2024-09-19",
+      "rows": 10191,
+      "file_size_bytes": 4397225,
+      "fetched_at": "2026-04-09T15:30:57.070Z"
+    },
+    "2024-09-20": {
+      "status": "fetched",
+      "date": "2024-09-20",
+      "rows": 10081,
+      "file_size_bytes": 4348465,
+      "fetched_at": "2026-04-09T15:30:59.200Z"
+    },
+    "2024-09-21": {
+      "status": "fetched",
+      "date": "2024-09-21",
+      "rows": 9937,
+      "file_size_bytes": 4281159,
+      "fetched_at": "2026-04-09T15:31:01.148Z"
+    },
+    "2024-09-22": {
+      "status": "fetched",
+      "date": "2024-09-22",
+      "rows": 10224,
+      "file_size_bytes": 4398845,
+      "fetched_at": "2026-04-09T15:31:03.008Z"
+    },
+    "2024-09-23": {
+      "status": "fetched",
+      "date": "2024-09-23",
+      "rows": 10684,
+      "file_size_bytes": 4602925,
+      "fetched_at": "2026-04-09T15:31:06.119Z"
+    },
+    "2024-09-24": {
+      "status": "fetched",
+      "date": "2024-09-24",
+      "rows": 11450,
+      "file_size_bytes": 4935052,
+      "fetched_at": "2026-04-09T15:31:09.139Z"
+    },
+    "2024-09-25": {
+      "status": "fetched",
+      "date": "2024-09-25",
+      "rows": 11593,
+      "file_size_bytes": 4990825,
+      "fetched_at": "2026-04-09T15:31:13.059Z"
+    },
+    "2024-09-26": {
+      "status": "fetched",
+      "date": "2024-09-26",
+      "rows": 9635,
+      "file_size_bytes": 4146468,
+      "fetched_at": "2026-04-09T15:31:17.474Z"
+    },
+    "2024-09-27": {
+      "status": "fetched",
+      "date": "2024-09-27",
+      "rows": 10352,
+      "file_size_bytes": 4454026,
+      "fetched_at": "2026-04-09T15:31:22.445Z"
+    },
+    "2024-09-28": {
+      "status": "fetched",
+      "date": "2024-09-28",
+      "rows": 9336,
+      "file_size_bytes": 4022346,
+      "fetched_at": "2026-04-09T15:31:26.050Z"
+    },
+    "2024-09-29": {
+      "status": "fetched",
+      "date": "2024-09-29",
+      "rows": 9536,
+      "file_size_bytes": 4096981,
+      "fetched_at": "2026-04-09T15:31:30.171Z"
+    },
+    "2024-09-30": {
+      "status": "fetched",
+      "date": "2024-09-30",
+      "rows": 10834,
+      "file_size_bytes": 4661063,
+      "fetched_at": "2026-04-09T15:31:33.276Z"
+    },
+    "2024-10-01": {
+      "status": "fetched",
+      "date": "2024-10-01",
+      "rows": 12405,
+      "file_size_bytes": 5367889,
+      "fetched_at": "2026-04-09T15:31:35.737Z"
+    },
+    "2024-10-02": {
+      "status": "fetched",
+      "date": "2024-10-02",
+      "rows": 11883,
+      "file_size_bytes": 5126341,
+      "fetched_at": "2026-04-09T15:31:37.828Z"
+    },
+    "2024-10-03": {
+      "status": "fetched",
+      "date": "2024-10-03",
+      "rows": 10812,
+      "file_size_bytes": 4661176,
+      "fetched_at": "2026-04-09T15:31:39.811Z"
+    },
+    "2024-10-04": {
+      "status": "fetched",
+      "date": "2024-10-04",
+      "rows": 10602,
+      "file_size_bytes": 4567727,
+      "fetched_at": "2026-04-09T15:31:41.183Z"
+    },
+    "2024-10-05": {
+      "status": "fetched",
+      "date": "2024-10-05",
+      "rows": 10399,
+      "file_size_bytes": 4475779,
+      "fetched_at": "2026-04-09T15:31:42.725Z"
+    },
+    "2024-10-06": {
+      "status": "fetched",
+      "date": "2024-10-06",
+      "rows": 11090,
+      "file_size_bytes": 4780292,
+      "fetched_at": "2026-04-09T15:31:44.611Z"
+    },
+    "2024-10-07": {
+      "status": "fetched",
+      "date": "2024-10-07",
+      "rows": 10524,
+      "file_size_bytes": 4535970,
+      "fetched_at": "2026-04-09T15:31:46.177Z"
+    },
+    "2024-10-08": {
+      "status": "fetched",
+      "date": "2024-10-08",
+      "rows": 10361,
+      "file_size_bytes": 4460632,
+      "fetched_at": "2026-04-09T15:31:47.759Z"
+    },
+    "2024-10-09": {
+      "status": "fetched",
+      "date": "2024-10-09",
+      "rows": 11104,
+      "file_size_bytes": 4785643,
+      "fetched_at": "2026-04-09T15:31:49.265Z"
+    },
+    "2024-10-10": {
+      "status": "fetched",
+      "date": "2024-10-10",
+      "rows": 11514,
+      "file_size_bytes": 4966150,
+      "fetched_at": "2026-04-09T15:31:50.803Z"
+    },
+    "2024-10-11": {
+      "status": "fetched",
+      "date": "2024-10-11",
+      "rows": 10867,
+      "file_size_bytes": 4690170,
+      "fetched_at": "2026-04-09T15:31:52.505Z"
+    },
+    "2024-10-12": {
+      "status": "fetched",
+      "date": "2024-10-12",
+      "rows": 9614,
+      "file_size_bytes": 4140579,
+      "fetched_at": "2026-04-09T15:31:54.570Z"
+    },
+    "2024-10-13": {
+      "status": "fetched",
+      "date": "2024-10-13",
+      "rows": 10839,
+      "file_size_bytes": 4666223,
+      "fetched_at": "2026-04-09T15:31:56.562Z"
+    },
+    "2024-10-14": {
+      "status": "fetched",
+      "date": "2024-10-14",
+      "rows": 11924,
+      "file_size_bytes": 5141087,
+      "fetched_at": "2026-04-09T15:31:58.705Z"
+    },
+    "2024-10-15": {
+      "status": "fetched",
+      "date": "2024-10-15",
+      "rows": 9876,
+      "file_size_bytes": 4257751,
+      "fetched_at": "2026-04-09T15:32:00.705Z"
+    },
+    "2024-10-16": {
+      "status": "fetched",
+      "date": "2024-10-16",
+      "rows": 12020,
+      "file_size_bytes": 5185790,
+      "fetched_at": "2026-04-09T15:32:02.680Z"
+    },
+    "2024-10-17": {
+      "status": "fetched",
+      "date": "2024-10-17",
+      "rows": 11131,
+      "file_size_bytes": 4805645,
+      "fetched_at": "2026-04-09T15:32:04.904Z"
+    },
+    "2024-10-18": {
+      "status": "fetched",
+      "date": "2024-10-18",
+      "rows": 11475,
+      "file_size_bytes": 4948453,
+      "fetched_at": "2026-04-09T15:32:07.733Z"
+    },
+    "2024-10-19": {
+      "status": "fetched",
+      "date": "2024-10-19",
+      "rows": 10427,
+      "file_size_bytes": 4494577,
+      "fetched_at": "2026-04-09T15:32:09.814Z"
+    },
+    "2024-10-20": {
+      "status": "fetched",
+      "date": "2024-10-20",
+      "rows": 10616,
+      "file_size_bytes": 4570104,
+      "fetched_at": "2026-04-09T15:32:11.832Z"
+    },
+    "2024-10-21": {
+      "status": "fetched",
+      "date": "2024-10-21",
+      "rows": 13155,
+      "file_size_bytes": 5673604,
+      "fetched_at": "2026-04-09T15:32:13.975Z"
+    },
+    "2024-10-22": {
+      "status": "fetched",
+      "date": "2024-10-22",
+      "rows": 12768,
+      "file_size_bytes": 5501626,
+      "fetched_at": "2026-04-09T15:32:16.310Z"
+    },
+    "2024-10-23": {
+      "status": "fetched",
+      "date": "2024-10-23",
+      "rows": 12147,
+      "file_size_bytes": 5222320,
+      "fetched_at": "2026-04-09T15:32:18.654Z"
+    },
+    "2024-10-24": {
+      "status": "fetched",
+      "date": "2024-10-24",
+      "rows": 11648,
+      "file_size_bytes": 5004948,
+      "fetched_at": "2026-04-09T15:32:22.264Z"
+    },
+    "2024-10-25": {
+      "status": "fetched",
+      "date": "2024-10-25",
+      "rows": 11192,
+      "file_size_bytes": 4823212,
+      "fetched_at": "2026-04-09T15:32:26.106Z"
+    },
+    "2024-10-26": {
+      "status": "fetched",
+      "date": "2024-10-26",
+      "rows": 10323,
+      "file_size_bytes": 4459102,
+      "fetched_at": "2026-04-09T15:32:29.180Z"
+    },
+    "2024-10-27": {
+      "status": "fetched",
+      "date": "2024-10-27",
+      "rows": 10575,
+      "file_size_bytes": 4554699,
+      "fetched_at": "2026-04-09T15:32:32.371Z"
+    },
+    "2024-10-28": {
+      "status": "fetched",
+      "date": "2024-10-28",
+      "rows": 12378,
+      "file_size_bytes": 5352644,
+      "fetched_at": "2026-04-09T15:32:35.383Z"
+    },
+    "2024-10-29": {
+      "status": "fetched",
+      "date": "2024-10-29",
+      "rows": 12180,
+      "file_size_bytes": 5260156,
+      "fetched_at": "2026-04-09T15:32:38.251Z"
+    },
+    "2024-10-30": {
+      "status": "fetched",
+      "date": "2024-10-30",
+      "rows": 12125,
+      "file_size_bytes": 5242189,
+      "fetched_at": "2026-04-09T15:32:41.105Z"
+    },
+    "2024-10-31": {
+      "status": "fetched",
+      "date": "2024-10-31",
+      "rows": 11224,
+      "file_size_bytes": 4848313,
+      "fetched_at": "2026-04-09T15:32:44.099Z"
+    },
+    "2024-11-01": {
+      "status": "fetched",
+      "date": "2024-11-01",
+      "rows": 11030,
+      "file_size_bytes": 4752467,
+      "fetched_at": "2026-04-09T15:32:48.302Z"
+    },
+    "2024-11-02": {
+      "status": "fetched",
+      "date": "2024-11-02",
+      "rows": 10171,
+      "file_size_bytes": 4385535,
+      "fetched_at": "2026-04-09T15:32:53.002Z"
+    },
+    "2024-11-03": {
+      "status": "fetched",
+      "date": "2024-11-03",
+      "rows": 11312,
+      "file_size_bytes": 4876362,
+      "fetched_at": "2026-04-09T15:32:56.874Z"
+    },
+    "2024-11-04": {
+      "status": "fetched",
+      "date": "2024-11-04",
+      "rows": 11051,
+      "file_size_bytes": 4769013,
+      "fetched_at": "2026-04-09T15:33:00.964Z"
+    },
+    "2024-11-05": {
+      "status": "fetched",
+      "date": "2024-11-05",
+      "rows": 11545,
+      "file_size_bytes": 4968253,
+      "fetched_at": "2026-04-09T15:33:04.469Z"
+    },
+    "2024-11-06": {
+      "status": "fetched",
+      "date": "2024-11-06",
+      "rows": 12705,
+      "file_size_bytes": 5486991,
+      "fetched_at": "2026-04-09T15:33:07.547Z"
+    },
+    "2024-11-07": {
+      "status": "fetched",
+      "date": "2024-11-07",
+      "rows": 12452,
+      "file_size_bytes": 5401857,
+      "fetched_at": "2026-04-09T15:33:11.049Z"
+    },
+    "2024-11-08": {
+      "status": "fetched",
+      "date": "2024-11-08",
+      "rows": 12676,
+      "file_size_bytes": 5490784,
+      "fetched_at": "2026-04-09T15:33:13.679Z"
+    },
+    "2024-11-09": {
+      "status": "fetched",
+      "date": "2024-11-09",
+      "rows": 13131,
+      "file_size_bytes": 5692476,
+      "fetched_at": "2026-04-09T15:33:16.265Z"
+    },
+    "2024-11-10": {
+      "status": "fetched",
+      "date": "2024-11-10",
+      "rows": 13402,
+      "file_size_bytes": 5812391,
+      "fetched_at": "2026-04-09T15:33:18.595Z"
+    },
+    "2024-11-11": {
+      "status": "fetched",
+      "date": "2024-11-11",
+      "rows": 13308,
+      "file_size_bytes": 5765702,
+      "fetched_at": "2026-04-09T15:33:22.637Z"
+    },
+    "2024-11-12": {
+      "status": "fetched",
+      "date": "2024-11-12",
+      "rows": 12719,
+      "file_size_bytes": 5508797,
+      "fetched_at": "2026-04-09T15:33:26.200Z"
+    },
+    "2024-11-13": {
+      "status": "fetched",
+      "date": "2024-11-13",
+      "rows": 14005,
+      "file_size_bytes": 6070492,
+      "fetched_at": "2026-04-09T15:33:29.691Z"
+    },
+    "2024-11-14": {
+      "status": "fetched",
+      "date": "2024-11-14",
+      "rows": 12333,
+      "file_size_bytes": 5346325,
+      "fetched_at": "2026-04-09T15:33:33.758Z"
+    },
+    "2024-11-15": {
+      "status": "fetched",
+      "date": "2024-11-15",
+      "rows": 12587,
+      "file_size_bytes": 5467802,
+      "fetched_at": "2026-04-09T15:33:37.769Z"
+    },
+    "2024-11-16": {
+      "status": "fetched",
+      "date": "2024-11-16",
+      "rows": 10837,
+      "file_size_bytes": 4696727,
+      "fetched_at": "2026-04-09T15:33:41.170Z"
+    },
+    "2024-11-17": {
+      "status": "fetched",
+      "date": "2024-11-17",
+      "rows": 12349,
+      "file_size_bytes": 5351417,
+      "fetched_at": "2026-04-09T15:33:45.140Z"
+    },
+    "2024-11-18": {
+      "status": "fetched",
+      "date": "2024-11-18",
+      "rows": 13093,
+      "file_size_bytes": 5688440,
+      "fetched_at": "2026-04-09T15:33:49.043Z"
+    },
+    "2024-11-19": {
+      "status": "fetched",
+      "date": "2024-11-19",
+      "rows": 12391,
+      "file_size_bytes": 5378257,
+      "fetched_at": "2026-04-09T15:33:53.513Z"
+    },
+    "2024-11-20": {
+      "status": "fetched",
+      "date": "2024-11-20",
+      "rows": 11524,
+      "file_size_bytes": 5004711,
+      "fetched_at": "2026-04-09T15:33:57.283Z"
+    },
+    "2024-11-21": {
+      "status": "fetched",
+      "date": "2024-11-21",
+      "rows": 11523,
+      "file_size_bytes": 5002864,
+      "fetched_at": "2026-04-09T15:34:01.525Z"
+    },
+    "2024-11-22": {
+      "status": "fetched",
+      "date": "2024-11-22",
+      "rows": 12462,
+      "file_size_bytes": 5422552,
+      "fetched_at": "2026-04-09T15:34:05.596Z"
+    },
+    "2024-11-23": {
+      "status": "fetched",
+      "date": "2024-11-23",
+      "rows": 12109,
+      "file_size_bytes": 5259774,
+      "fetched_at": "2026-04-09T15:34:09.411Z"
+    },
+    "2024-11-24": {
+      "status": "fetched",
+      "date": "2024-11-24",
+      "rows": 12727,
+      "file_size_bytes": 5526371,
+      "fetched_at": "2026-04-09T15:34:13.493Z"
+    },
+    "2024-11-25": {
+      "status": "fetched",
+      "date": "2024-11-25",
+      "rows": 12712,
+      "file_size_bytes": 5522918,
+      "fetched_at": "2026-04-09T15:34:16.999Z"
+    },
+    "2024-11-26": {
+      "status": "fetched",
+      "date": "2024-11-26",
+      "rows": 11625,
+      "file_size_bytes": 5054670,
+      "fetched_at": "2026-04-09T15:34:21.438Z"
+    },
+    "2024-11-27": {
+      "status": "fetched",
+      "date": "2024-11-27",
+      "rows": 13236,
+      "file_size_bytes": 5767163,
+      "fetched_at": "2026-04-09T15:34:25.359Z"
+    },
+    "2024-11-28": {
+      "status": "fetched",
+      "date": "2024-11-28",
+      "rows": 12285,
+      "file_size_bytes": 5338827,
+      "fetched_at": "2026-04-09T15:34:29.113Z"
+    },
+    "2024-11-29": {
+      "status": "fetched",
+      "date": "2024-11-29",
+      "rows": 13072,
+      "file_size_bytes": 5681832,
+      "fetched_at": "2026-04-09T15:34:32.864Z"
+    },
+    "2024-11-30": {
+      "status": "fetched",
+      "date": "2024-11-30",
+      "rows": 12401,
+      "file_size_bytes": 5387417,
+      "fetched_at": "2026-04-09T15:34:37.948Z"
+    },
+    "2024-12-01": {
+      "status": "fetched",
+      "date": "2024-12-01",
+      "rows": 12350,
+      "file_size_bytes": 5354701,
+      "fetched_at": "2026-04-09T15:34:41.344Z"
+    },
+    "2024-12-02": {
+      "status": "fetched",
+      "date": "2024-12-02",
+      "rows": 12167,
+      "file_size_bytes": 5278917,
+      "fetched_at": "2026-04-09T15:34:44.084Z"
+    },
+    "2024-12-03": {
+      "status": "fetched",
+      "date": "2024-12-03",
+      "rows": 11114,
+      "file_size_bytes": 4829767,
+      "fetched_at": "2026-04-09T15:34:47.599Z"
+    },
+    "2024-12-04": {
+      "status": "fetched",
+      "date": "2024-12-04",
+      "rows": 15381,
+      "file_size_bytes": 6704390,
+      "fetched_at": "2026-04-09T15:34:50.652Z"
+    },
+    "2024-12-05": {
+      "status": "fetched",
+      "date": "2024-12-05",
+      "rows": 13773,
+      "file_size_bytes": 6001014,
+      "fetched_at": "2026-04-09T15:34:53.791Z"
+    },
+    "2024-12-06": {
+      "status": "fetched",
+      "date": "2024-12-06",
+      "rows": 12038,
+      "file_size_bytes": 5244974,
+      "fetched_at": "2026-04-09T15:34:58.857Z"
+    },
+    "2024-12-07": {
+      "status": "fetched",
+      "date": "2024-12-07",
+      "rows": 11309,
+      "file_size_bytes": 4915472,
+      "fetched_at": "2026-04-09T15:35:02.448Z"
+    },
+    "2024-12-08": {
+      "status": "fetched",
+      "date": "2024-12-08",
+      "rows": 11976,
+      "file_size_bytes": 5199683,
+      "fetched_at": "2026-04-09T15:35:05.595Z"
+    },
+    "2024-12-09": {
+      "status": "fetched",
+      "date": "2024-12-09",
+      "rows": 11725,
+      "file_size_bytes": 5098383,
+      "fetched_at": "2026-04-09T15:35:08.365Z"
+    },
+    "2024-12-10": {
+      "status": "fetched",
+      "date": "2024-12-10",
+      "rows": 10598,
+      "file_size_bytes": 4611157,
+      "fetched_at": "2026-04-09T15:35:10.504Z"
+    },
+    "2024-12-11": {
+      "status": "fetched",
+      "date": "2024-12-11",
+      "rows": 10113,
+      "file_size_bytes": 4404819,
+      "fetched_at": "2026-04-09T15:35:12.497Z"
+    },
+    "2024-12-12": {
+      "status": "fetched",
+      "date": "2024-12-12",
+      "rows": 10884,
+      "file_size_bytes": 4730683,
+      "fetched_at": "2026-04-09T15:35:14.612Z"
+    },
+    "2024-12-13": {
+      "status": "fetched",
+      "date": "2024-12-13",
+      "rows": 10548,
+      "file_size_bytes": 4587897,
+      "fetched_at": "2026-04-09T15:35:16.694Z"
+    },
+    "2024-12-14": {
+      "status": "fetched",
+      "date": "2024-12-14",
+      "rows": 11112,
+      "file_size_bytes": 4827181,
+      "fetched_at": "2026-04-09T15:35:18.678Z"
+    },
+    "2024-12-15": {
+      "status": "fetched",
+      "date": "2024-12-15",
+      "rows": 11936,
+      "file_size_bytes": 5177798,
+      "fetched_at": "2026-04-09T15:35:20.625Z"
+    },
+    "2024-12-16": {
+      "status": "fetched",
+      "date": "2024-12-16",
+      "rows": 10754,
+      "file_size_bytes": 4676224,
+      "fetched_at": "2026-04-09T15:35:22.690Z"
+    },
+    "2024-12-17": {
+      "status": "fetched",
+      "date": "2024-12-17",
+      "rows": 11574,
+      "file_size_bytes": 5032140,
+      "fetched_at": "2026-04-09T15:35:24.956Z"
+    },
+    "2024-12-18": {
+      "status": "fetched",
+      "date": "2024-12-18",
+      "rows": 11308,
+      "file_size_bytes": 4910600,
+      "fetched_at": "2026-04-09T15:35:27.028Z"
+    },
+    "2024-12-19": {
+      "status": "fetched",
+      "date": "2024-12-19",
+      "rows": 12397,
+      "file_size_bytes": 5381357,
+      "fetched_at": "2026-04-09T15:35:29.306Z"
+    },
+    "2024-12-20": {
+      "status": "fetched",
+      "date": "2024-12-20",
+      "rows": 10848,
+      "file_size_bytes": 4714846,
+      "fetched_at": "2026-04-09T15:35:31.315Z"
+    },
+    "2024-12-21": {
+      "status": "fetched",
+      "date": "2024-12-21",
+      "rows": 11428,
+      "file_size_bytes": 4951208,
+      "fetched_at": "2026-04-09T15:35:33.721Z"
+    },
+    "2024-12-22": {
+      "status": "fetched",
+      "date": "2024-12-22",
+      "rows": 12507,
+      "file_size_bytes": 5437408,
+      "fetched_at": "2026-04-09T15:35:35.780Z"
+    },
+    "2024-12-23": {
+      "status": "fetched",
+      "date": "2024-12-23",
+      "rows": 13172,
+      "file_size_bytes": 5726507,
+      "fetched_at": "2026-04-09T15:35:37.831Z"
+    },
+    "2024-12-24": {
+      "status": "fetched",
+      "date": "2024-12-24",
+      "rows": 12268,
+      "file_size_bytes": 5333058,
+      "fetched_at": "2026-04-09T15:35:39.947Z"
+    },
+    "2024-12-25": {
+      "status": "fetched",
+      "date": "2024-12-25",
+      "rows": 11724,
+      "file_size_bytes": 5094152,
+      "fetched_at": "2026-04-09T15:35:42.179Z"
+    },
+    "2024-12-26": {
+      "status": "fetched",
+      "date": "2024-12-26",
+      "rows": 13019,
+      "file_size_bytes": 5651232,
+      "fetched_at": "2026-04-09T15:35:44.233Z"
+    },
+    "2024-12-27": {
+      "status": "fetched",
+      "date": "2024-12-27",
+      "rows": 12402,
+      "file_size_bytes": 5389057,
+      "fetched_at": "2026-04-09T15:35:46.397Z"
+    },
+    "2024-12-28": {
+      "status": "fetched",
+      "date": "2024-12-28",
+      "rows": 12582,
+      "file_size_bytes": 5459993,
+      "fetched_at": "2026-04-09T15:35:48.339Z"
+    },
+    "2024-12-29": {
+      "status": "fetched",
+      "date": "2024-12-29",
+      "rows": 12642,
+      "file_size_bytes": 5486283,
+      "fetched_at": "2026-04-09T15:35:50.190Z"
+    },
+    "2024-12-30": {
+      "status": "fetched",
+      "date": "2024-12-30",
+      "rows": 12351,
+      "file_size_bytes": 5369233,
+      "fetched_at": "2026-04-09T15:35:52.227Z"
+    },
+    "2024-12-31": {
+      "status": "fetched",
+      "date": "2024-12-31",
+      "rows": 11605,
+      "file_size_bytes": 5046974,
+      "fetched_at": "2026-04-09T15:35:54.092Z"
+    },
+    "2025-01-01": {
+      "status": "fetched",
+      "date": "2025-01-01",
+      "rows": 11485,
+      "file_size_bytes": 4982193,
+      "fetched_at": "2026-04-09T15:35:56.005Z"
+    },
+    "2025-01-02": {
+      "status": "fetched",
+      "date": "2025-01-02",
+      "rows": 11979,
+      "file_size_bytes": 5198406,
+      "fetched_at": "2026-04-09T15:35:58.514Z"
+    },
+    "2025-01-03": {
+      "status": "fetched",
+      "date": "2025-01-03",
+      "rows": 13115,
+      "file_size_bytes": 5695740,
+      "fetched_at": "2026-04-09T15:36:00.661Z"
+    },
+    "2025-01-04": {
+      "status": "fetched",
+      "date": "2025-01-04",
+      "rows": 11910,
+      "file_size_bytes": 5168415,
+      "fetched_at": "2026-04-09T15:36:02.996Z"
+    },
+    "2025-01-05": {
+      "status": "fetched",
+      "date": "2025-01-05",
+      "rows": 12639,
+      "file_size_bytes": 5479246,
+      "fetched_at": "2026-04-09T15:36:05.268Z"
+    },
+    "2025-01-06": {
+      "status": "fetched",
+      "date": "2025-01-06",
+      "rows": 12441,
+      "file_size_bytes": 5401183,
+      "fetched_at": "2026-04-09T15:36:07.359Z"
+    },
+    "2025-01-07": {
+      "status": "fetched",
+      "date": "2025-01-07",
+      "rows": 12060,
+      "file_size_bytes": 5240147,
+      "fetched_at": "2026-04-09T15:36:09.425Z"
+    },
+    "2025-01-08": {
+      "status": "fetched",
+      "date": "2025-01-08",
+      "rows": 12927,
+      "file_size_bytes": 5625066,
+      "fetched_at": "2026-04-09T15:36:11.607Z"
+    },
+    "2025-01-09": {
+      "status": "fetched",
+      "date": "2025-01-09",
+      "rows": 12286,
+      "file_size_bytes": 5345426,
+      "fetched_at": "2026-04-09T15:36:14.264Z"
+    },
+    "2025-01-10": {
+      "status": "fetched",
+      "date": "2025-01-10",
+      "rows": 11399,
+      "file_size_bytes": 4952385,
+      "fetched_at": "2026-04-09T15:36:16.953Z"
+    },
+    "2025-01-11": {
+      "status": "fetched",
+      "date": "2025-01-11",
+      "rows": 11851,
+      "file_size_bytes": 5148784,
+      "fetched_at": "2026-04-09T15:36:20.254Z"
+    },
+    "2025-01-12": {
+      "status": "fetched",
+      "date": "2025-01-12",
+      "rows": 12330,
+      "file_size_bytes": 5349587,
+      "fetched_at": "2026-04-09T15:36:22.655Z"
+    },
+    "2025-01-13": {
+      "status": "fetched",
+      "date": "2025-01-13",
+      "rows": 10555,
+      "file_size_bytes": 4578753,
+      "fetched_at": "2026-04-09T15:36:24.568Z"
+    },
+    "2025-01-14": {
+      "status": "fetched",
+      "date": "2025-01-14",
+      "rows": 10939,
+      "file_size_bytes": 4763404,
+      "fetched_at": "2026-04-09T15:36:26.529Z"
+    },
+    "2025-01-15": {
+      "status": "fetched",
+      "date": "2025-01-15",
+      "rows": 12116,
+      "file_size_bytes": 5269125,
+      "fetched_at": "2026-04-09T15:36:28.675Z"
+    },
+    "2025-01-16": {
+      "status": "fetched",
+      "date": "2025-01-16",
+      "rows": 11206,
+      "file_size_bytes": 4873355,
+      "fetched_at": "2026-04-09T15:36:30.888Z"
+    },
+    "2025-01-17": {
+      "status": "fetched",
+      "date": "2025-01-17",
+      "rows": 11904,
+      "file_size_bytes": 5181093,
+      "fetched_at": "2026-04-09T15:36:33.453Z"
+    },
+    "2025-01-18": {
+      "status": "fetched",
+      "date": "2025-01-18",
+      "rows": 11083,
+      "file_size_bytes": 4810597,
+      "fetched_at": "2026-04-09T15:36:35.371Z"
+    },
+    "2025-01-19": {
+      "status": "fetched",
+      "date": "2025-01-19",
+      "rows": 11571,
+      "file_size_bytes": 5015019,
+      "fetched_at": "2026-04-09T15:36:37.826Z"
+    },
+    "2025-01-20": {
+      "status": "fetched",
+      "date": "2025-01-20",
+      "rows": 10964,
+      "file_size_bytes": 4763113,
+      "fetched_at": "2026-04-09T15:36:39.878Z"
+    },
+    "2025-01-21": {
+      "status": "fetched",
+      "date": "2025-01-21",
+      "rows": 10141,
+      "file_size_bytes": 4408505,
+      "fetched_at": "2026-04-09T15:36:41.970Z"
+    },
+    "2025-01-22": {
+      "status": "fetched",
+      "date": "2025-01-22",
+      "rows": 12257,
+      "file_size_bytes": 5329326,
+      "fetched_at": "2026-04-09T15:36:44.054Z"
+    },
+    "2025-01-23": {
+      "status": "fetched",
+      "date": "2025-01-23",
+      "rows": 11589,
+      "file_size_bytes": 5035227,
+      "fetched_at": "2026-04-09T15:36:48.335Z"
+    },
+    "2025-01-24": {
+      "status": "fetched",
+      "date": "2025-01-24",
+      "rows": 11471,
+      "file_size_bytes": 4976036,
+      "fetched_at": "2026-04-09T15:36:51.518Z"
+    },
+    "2025-01-25": {
+      "status": "fetched",
+      "date": "2025-01-25",
+      "rows": 11879,
+      "file_size_bytes": 5159984,
+      "fetched_at": "2026-04-09T15:36:54.789Z"
+    },
+    "2025-01-26": {
+      "status": "fetched",
+      "date": "2025-01-26",
+      "rows": 11795,
+      "file_size_bytes": 5112878,
+      "fetched_at": "2026-04-09T15:36:58.427Z"
+    },
+    "2025-01-27": {
+      "status": "fetched",
+      "date": "2025-01-27",
+      "rows": 12548,
+      "file_size_bytes": 5450364,
+      "fetched_at": "2026-04-09T15:37:02.036Z"
+    },
+    "2025-01-28": {
+      "status": "fetched",
+      "date": "2025-01-28",
+      "rows": 12175,
+      "file_size_bytes": 5288787,
+      "fetched_at": "2026-04-09T15:37:05.379Z"
+    },
+    "2025-01-29": {
+      "status": "fetched",
+      "date": "2025-01-29",
+      "rows": 12403,
+      "file_size_bytes": 5385191,
+      "fetched_at": "2026-04-09T15:37:09.078Z"
+    },
+    "2025-01-30": {
+      "status": "fetched",
+      "date": "2025-01-30",
+      "rows": 11822,
+      "file_size_bytes": 5143744,
+      "fetched_at": "2026-04-09T15:37:12.021Z"
+    },
+    "2025-01-31": {
+      "status": "fetched",
+      "date": "2025-01-31",
+      "rows": 11753,
+      "file_size_bytes": 5113817,
+      "fetched_at": "2026-04-09T15:37:15.645Z"
+    },
+    "2025-02-01": {
+      "status": "fetched",
+      "date": "2025-02-01",
+      "rows": 10645,
+      "file_size_bytes": 4615441,
+      "fetched_at": "2026-04-09T15:37:19.378Z"
+    },
+    "2025-02-02": {
+      "status": "fetched",
+      "date": "2025-02-02",
+      "rows": 11454,
+      "file_size_bytes": 4964986,
+      "fetched_at": "2026-04-09T15:37:24.057Z"
+    },
+    "2025-02-03": {
+      "status": "fetched",
+      "date": "2025-02-03",
+      "rows": 12130,
+      "file_size_bytes": 5269751,
+      "fetched_at": "2026-04-09T15:37:28.161Z"
+    },
+    "2025-02-04": {
+      "status": "fetched",
+      "date": "2025-02-04",
+      "rows": 12106,
+      "file_size_bytes": 5258709,
+      "fetched_at": "2026-04-09T15:37:33.031Z"
+    },
+    "2025-02-05": {
+      "status": "fetched",
+      "date": "2025-02-05",
+      "rows": 12872,
+      "file_size_bytes": 5592760,
+      "fetched_at": "2026-04-09T15:37:35.740Z"
+    },
+    "2025-02-06": {
+      "status": "fetched",
+      "date": "2025-02-06",
+      "rows": 11859,
+      "file_size_bytes": 5149947,
+      "fetched_at": "2026-04-09T15:37:38.856Z"
+    },
+    "2025-02-07": {
+      "status": "fetched",
+      "date": "2025-02-07",
+      "rows": 11171,
+      "file_size_bytes": 4851296,
+      "fetched_at": "2026-04-09T15:37:41.731Z"
+    },
+    "2025-02-08": {
+      "status": "fetched",
+      "date": "2025-02-08",
+      "rows": 11782,
+      "file_size_bytes": 5122622,
+      "fetched_at": "2026-04-09T15:37:43.887Z"
+    },
+    "2025-02-09": {
+      "status": "fetched",
+      "date": "2025-02-09",
+      "rows": 12094,
+      "file_size_bytes": 5237648,
+      "fetched_at": "2026-04-09T15:37:46.198Z"
+    },
+    "2025-02-10": {
+      "status": "fetched",
+      "date": "2025-02-10",
+      "rows": 12694,
+      "file_size_bytes": 5514534,
+      "fetched_at": "2026-04-09T15:37:48.455Z"
+    },
+    "2025-02-11": {
+      "status": "fetched",
+      "date": "2025-02-11",
+      "rows": 11644,
+      "file_size_bytes": 5054121,
+      "fetched_at": "2026-04-09T15:37:50.849Z"
+    },
+    "2025-02-12": {
+      "status": "fetched",
+      "date": "2025-02-12",
+      "rows": 12371,
+      "file_size_bytes": 5376209,
+      "fetched_at": "2026-04-09T15:37:53.272Z"
+    },
+    "2025-02-13": {
+      "status": "fetched",
+      "date": "2025-02-13",
+      "rows": 11482,
+      "file_size_bytes": 4984560,
+      "fetched_at": "2026-04-09T15:37:55.882Z"
+    },
+    "2025-02-14": {
+      "status": "fetched",
+      "date": "2025-02-14",
+      "rows": 11929,
+      "file_size_bytes": 5175899,
+      "fetched_at": "2026-04-09T15:37:58.235Z"
+    },
+    "2025-02-15": {
+      "status": "fetched",
+      "date": "2025-02-15",
+      "rows": 10134,
+      "file_size_bytes": 4400013,
+      "fetched_at": "2026-04-09T15:38:00.968Z"
+    },
+    "2025-02-16": {
+      "status": "fetched",
+      "date": "2025-02-16",
+      "rows": 11376,
+      "file_size_bytes": 4930932,
+      "fetched_at": "2026-04-09T15:38:03.277Z"
+    },
+    "2025-02-17": {
+      "status": "fetched",
+      "date": "2025-02-17",
+      "rows": 12065,
+      "file_size_bytes": 5232479,
+      "fetched_at": "2026-04-09T15:38:05.941Z"
+    },
+    "2025-02-18": {
+      "status": "fetched",
+      "date": "2025-02-18",
+      "rows": 11377,
+      "file_size_bytes": 4939148,
+      "fetched_at": "2026-04-09T15:38:08.285Z"
+    },
+    "2025-02-19": {
+      "status": "fetched",
+      "date": "2025-02-19",
+      "rows": 13040,
+      "file_size_bytes": 5668351,
+      "fetched_at": "2026-04-09T15:38:11.300Z"
+    },
+    "2025-02-20": {
+      "status": "fetched",
+      "date": "2025-02-20",
+      "rows": 12290,
+      "file_size_bytes": 5345990,
+      "fetched_at": "2026-04-09T15:38:14.764Z"
+    },
+    "2025-02-21": {
+      "status": "fetched",
+      "date": "2025-02-21",
+      "rows": 10898,
+      "file_size_bytes": 4731495,
+      "fetched_at": "2026-04-09T15:38:18.088Z"
+    },
+    "2025-02-22": {
+      "status": "fetched",
+      "date": "2025-02-22",
+      "rows": 11122,
+      "file_size_bytes": 4833694,
+      "fetched_at": "2026-04-09T15:38:21.239Z"
+    },
+    "2025-02-23": {
+      "status": "fetched",
+      "date": "2025-02-23",
+      "rows": 11661,
+      "file_size_bytes": 5054525,
+      "fetched_at": "2026-04-09T15:38:24.777Z"
+    },
+    "2025-02-24": {
+      "status": "fetched",
+      "date": "2025-02-24",
+      "rows": 11103,
+      "file_size_bytes": 4818955,
+      "fetched_at": "2026-04-09T15:38:27.658Z"
+    },
+    "2025-02-25": {
+      "status": "fetched",
+      "date": "2025-02-25",
+      "rows": 10638,
+      "file_size_bytes": 4608327,
+      "fetched_at": "2026-04-09T15:38:29.746Z"
+    },
+    "2025-02-26": {
+      "status": "fetched",
+      "date": "2025-02-26",
+      "rows": 9001,
+      "file_size_bytes": 3901580,
+      "fetched_at": "2026-04-09T15:38:31.824Z"
+    },
+    "2025-02-27": {
+      "status": "fetched",
+      "date": "2025-02-27",
+      "rows": 10340,
+      "file_size_bytes": 4483254,
+      "fetched_at": "2026-04-09T15:38:34.752Z"
+    },
+    "2025-02-28": {
+      "status": "fetched",
+      "date": "2025-02-28",
+      "rows": 10873,
+      "file_size_bytes": 4719257,
+      "fetched_at": "2026-04-09T15:38:36.958Z"
+    },
+    "2025-03-01": {
+      "status": "fetched",
+      "date": "2025-03-01",
+      "rows": 8412,
+      "file_size_bytes": 3641754,
+      "fetched_at": "2026-04-09T15:38:39.099Z"
+    },
+    "2025-03-02": {
+      "status": "fetched",
+      "date": "2025-03-02",
+      "rows": 9350,
+      "file_size_bytes": 4054514,
+      "fetched_at": "2026-04-09T15:38:41.578Z"
+    },
+    "2025-03-03": {
+      "status": "fetched",
+      "date": "2025-03-03",
+      "rows": 9262,
+      "file_size_bytes": 4001141,
+      "fetched_at": "2026-04-09T15:38:43.901Z"
+    },
+    "2025-03-04": {
+      "status": "fetched",
+      "date": "2025-03-04",
+      "rows": 9208,
+      "file_size_bytes": 3980173,
+      "fetched_at": "2026-04-09T15:38:45.957Z"
+    },
+    "2025-03-05": {
+      "status": "fetched",
+      "date": "2025-03-05",
+      "rows": 9387,
+      "file_size_bytes": 4073861,
+      "fetched_at": "2026-04-09T15:38:48.562Z"
+    },
+    "2025-03-06": {
+      "status": "fetched",
+      "date": "2025-03-06",
+      "rows": 8993,
+      "file_size_bytes": 3901404,
+      "fetched_at": "2026-04-09T15:38:51.023Z"
+    },
+    "2025-03-07": {
+      "status": "fetched",
+      "date": "2025-03-07",
+      "rows": 9641,
+      "file_size_bytes": 4175176,
+      "fetched_at": "2026-04-09T15:38:53.410Z"
+    },
+    "2025-03-08": {
+      "status": "fetched",
+      "date": "2025-03-08",
+      "rows": 9793,
+      "file_size_bytes": 4247367,
+      "fetched_at": "2026-04-09T15:38:55.845Z"
+    },
+    "2025-03-09": {
+      "status": "fetched",
+      "date": "2025-03-09",
+      "rows": 11164,
+      "file_size_bytes": 4815713,
+      "fetched_at": "2026-04-09T15:38:58.446Z"
+    },
+    "2025-03-10": {
+      "status": "fetched",
+      "date": "2025-03-10",
+      "rows": 10243,
+      "file_size_bytes": 4439734,
+      "fetched_at": "2026-04-09T15:39:00.683Z"
+    },
+    "2025-03-11": {
+      "status": "fetched",
+      "date": "2025-03-11",
+      "rows": 9834,
+      "file_size_bytes": 4263084,
+      "fetched_at": "2026-04-09T15:39:03.146Z"
+    },
+    "2025-03-12": {
+      "status": "fetched",
+      "date": "2025-03-12",
+      "rows": 11509,
+      "file_size_bytes": 5002518,
+      "fetched_at": "2026-04-09T15:39:05.476Z"
+    },
+    "2025-03-13": {
+      "status": "fetched",
+      "date": "2025-03-13",
+      "rows": 9518,
+      "file_size_bytes": 4123018,
+      "fetched_at": "2026-04-09T15:39:07.366Z"
+    },
+    "2025-03-14": {
+      "status": "fetched",
+      "date": "2025-03-14",
+      "rows": 10891,
+      "file_size_bytes": 4715929,
+      "fetched_at": "2026-04-09T15:39:08.894Z"
+    },
+    "2025-03-15": {
+      "status": "fetched",
+      "date": "2025-03-15",
+      "rows": 9736,
+      "file_size_bytes": 4212845,
+      "fetched_at": "2026-04-09T15:39:10.585Z"
+    },
+    "2025-03-16": {
+      "status": "fetched",
+      "date": "2025-03-16",
+      "rows": 10434,
+      "file_size_bytes": 4497435,
+      "fetched_at": "2026-04-09T15:39:12.447Z"
+    },
+    "2025-03-17": {
+      "status": "fetched",
+      "date": "2025-03-17",
+      "rows": 9563,
+      "file_size_bytes": 4130004,
+      "fetched_at": "2026-04-09T15:39:14.111Z"
+    },
+    "2025-03-18": {
+      "status": "fetched",
+      "date": "2025-03-18",
+      "rows": 9769,
+      "file_size_bytes": 4228939,
+      "fetched_at": "2026-04-09T15:39:15.734Z"
+    },
+    "2025-03-19": {
+      "status": "fetched",
+      "date": "2025-03-19",
+      "rows": 10969,
+      "file_size_bytes": 4742327,
+      "fetched_at": "2026-04-09T15:39:17.391Z"
+    },
+    "2025-03-20": {
+      "status": "fetched",
+      "date": "2025-03-20",
+      "rows": 9108,
+      "file_size_bytes": 3939696,
+      "fetched_at": "2026-04-09T15:39:19.932Z"
+    },
+    "2025-03-21": {
+      "status": "fetched",
+      "date": "2025-03-21",
+      "rows": 9722,
+      "file_size_bytes": 4209556,
+      "fetched_at": "2026-04-09T15:39:24.257Z"
+    },
+    "2025-03-22": {
+      "status": "fetched",
+      "date": "2025-03-22",
+      "rows": 9709,
+      "file_size_bytes": 4206337,
+      "fetched_at": "2026-04-09T15:39:27.265Z"
+    },
+    "2025-03-23": {
+      "status": "fetched",
+      "date": "2025-03-23",
+      "rows": 9910,
+      "file_size_bytes": 4277785,
+      "fetched_at": "2026-04-09T15:39:29.543Z"
+    },
+    "2025-03-24": {
+      "status": "fetched",
+      "date": "2025-03-24",
+      "rows": 10053,
+      "file_size_bytes": 4352400,
+      "fetched_at": "2026-04-09T15:39:32.246Z"
+    },
+    "2025-03-25": {
+      "status": "fetched",
+      "date": "2025-03-25",
+      "rows": 9679,
+      "file_size_bytes": 4191215,
+      "fetched_at": "2026-04-09T15:39:35.138Z"
+    },
+    "2025-03-26": {
+      "status": "fetched",
+      "date": "2025-03-26",
+      "rows": 10430,
+      "file_size_bytes": 4525511,
+      "fetched_at": "2026-04-09T15:39:37.513Z"
+    },
+    "2025-03-27": {
+      "status": "fetched",
+      "date": "2025-03-27",
+      "rows": 9322,
+      "file_size_bytes": 4033717,
+      "fetched_at": "2026-04-09T15:39:39.702Z"
+    },
+    "2025-03-28": {
+      "status": "fetched",
+      "date": "2025-03-28",
+      "rows": 9894,
+      "file_size_bytes": 4298895,
+      "fetched_at": "2026-04-09T15:39:41.993Z"
+    },
+    "2025-03-29": {
+      "status": "fetched",
+      "date": "2025-03-29",
+      "rows": 9621,
+      "file_size_bytes": 4170788,
+      "fetched_at": "2026-04-09T15:39:44.099Z"
+    },
+    "2025-03-30": {
+      "status": "fetched",
+      "date": "2025-03-30",
+      "rows": 10110,
+      "file_size_bytes": 4376874,
+      "fetched_at": "2026-04-09T15:39:46.385Z"
+    },
+    "2025-03-31": {
+      "status": "fetched",
+      "date": "2025-03-31",
+      "rows": 9816,
+      "file_size_bytes": 4255197,
+      "fetched_at": "2026-04-09T15:39:48.728Z"
+    },
+    "2025-04-01": {
+      "status": "fetched",
+      "date": "2025-04-01",
+      "rows": 8309,
+      "file_size_bytes": 3591549,
+      "fetched_at": "2026-04-09T15:39:50.947Z"
+    }
+  },
+  "total_rows": 6169002,
+  "started_at": "2026-04-09T15:15:20.851Z",
+  "last_updated": "2026-04-09T15:39:50.947Z"
+}
