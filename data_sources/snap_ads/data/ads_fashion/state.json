@@ -2136,15 +2136,13 @@
     "Axe::lt": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T11:37:19.698Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Axe::lu": {
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T14:04:30.001Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9wZsuqGnAn0nfalYiNLRSKStQiybD19PlMpsKMkY2jiBLnAgFZ-ObaCt8EGrFOFJXYEsUS24eyHYHjvwo-0ec0bRJ8_LgFvSkPdRO4sCDAnU9Xg3mGBEYjFMOEoIrotSak9fmN6EemphXDtVbWib4cumRYxu4CgWYFJDWYJk3ho-WbQuGD7MgKpTOzgYKKsTn_5RFHo-ZUjV1sbgrulCFrCwEgofE1eQAc2bZLUkLUkda-GhFb7aXx13EmJFDjI_c6iRnUUWRpBm7IzmMLwljlt78bXCkvCU_ZGCAt52hG6JGS6uWpa5iK8GF6vBfUAK4dlcPzrDK0n_42TCh9zLkbbuqvWqgkm-ckhyqz4hG8wX17PHIQgieVEopORdaiK9M8j6t5Rb0hGEdt-ImT6H2NsRJt-CTzHA3Nn5ffnkDn3rUA99raIkF1KYTHBsjGu14t5lPIbGWap4Q3zPWWfuLD8eN1VeTsLAKHtDUp1XdTAPRcKi9BAtGC7Fngvo7iBNJSvkrcWWHSwij0d6QMVSLJYNs39DAUUU0lf-pcx0wfQtA2c4mBu09rqTIzQyAXUX1zHJ82ONgxSzQIzOuMypWyULl7YoQN49D0h7p8NcF8lPfKrBWeBFCJK5fTn2pO1BCQX-f9_ICbAswe8_ltONQVZXn2us778Bi7wMJy6vnWly61jTPP9catPjiKroVUBfkN4u1MbRJgTh_ZWtXiFMAtFcrmx6lR9zxHatYEowxLbEZkCasJrxfOY70O0R8_x3j6j8hfyQ13VVmnqtP3b6iC5SEw5Wm1Fjh79A4Kmlzu74Qws3AeZceI8e7r_mOsvGvc9t5LmmCthiBdcm9FzloasH3TAIEu0Iut--X4F3mj-a060iIepMhX_2jGx0tCObQeTzt_4mU0jz3Gzbof9RVbiAugtaHrb6iqUPsotIOf2iKcgb4IfEoC-v2lR_KA4jNmBGnsqyqVnfMRYompWuql8UxCuL8Lz9iXVKzH9gIaogzkShP42cL6S1-_tfc8hNqQW-wvVG9gtaQ7rnqdWSyye_sG37IgW6O3Wb5ISy2zu7uwl6ORLrgjZE2-9mp6JhPzogTi94E69fHLH8iO1BQ1SkZlrztnG4vdMIxvdkdSYj-0mRpJ-ZL0my988pzbCvvSz-lA6PR6maH2c0LUZq9pCHW0AliRobORoMhY3_R89gQ9ot8ewBIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Axe::hr": {
       "status": "rate_limited",
@@ -2163,26 +2161,28 @@
     },
     "Axe::hu": {
       "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "ads_count": 10,
+      "fetched_at": "2026-04-09T16:25:01.552Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9AZztAEjf2IOW9LprwXwtiisuz_fzGKFmqdfqts-qAsuDga4rckZoIIdIdVq2Iuei7GPWuWC2Lp3ArjYTs8y22faRPDzqM65FEuT61HqvAq71WENXXLQH_btfWRAuAwanx94_iVRvNFUl6EHwuaE2sTTP65yOSl6a8SrDraI49z8zwgEijjgJLauVwGhiEWn3I3xKd2Hui6XtiASTRwR8zCgc8BFwbWHZLiaWpi9a3Lj2h7pf8Vc84ruF1FyRc-Ez9jxHoqp3Na-TXQ_PgeTIUE8D8ksfp8r8F3TuMFVcWSJS7hFUTeDw2M5lnloCVBjBbZHbSkcIbvt37S9s3YMVv2JgOMbFaj96LMxvsqesudWz4UIQTqkOP-5O_WPmHHWDzFDGg-jRX5ObxM3KXgyz6tWwhwzn28z-TysBVWhNR4yrivtxqcL01dNeddQ8L_eySuxImfs191M6yLncd37IA8EPHoC89QP9EFaOxgom4WlMQivt62a7wTEJ0MLPfUJ591n1surNKkDpbaz9VltzuohCfzn0h8qidlCVW7DH2vhNLKOMqggCa1UILNZMuhEVu0ELrcsNe2FzpFSxuxzzoXcD7z8p-cxBBWHXSGGEPkSPgyzVZZw09ZJI10cvrNoDbGP-Y1pNWO-9XXgRelgHNuvhdNamp342Q4IhZ0MiMjRh40PZVXAOtC67AIcO2dMmHXwOXyyE_bFJ-fUjuchGSNjmtl9iAFlidM5k7mYaHTVIGCb1ybkgGPy2DA0-qsFlgZuyqkfzGsIxt902P9swS5ESqelYr3RGe1rJGnGFEITvOE8VFPcgz1mnbYPlFHiRlzVFxxf5O3n8ir2HOxNs9CaCS19VQDtFVl9uTjApqc7P_tcTn3vL468r6aX8NYwTLRzrxpjmzxWqPc4bCfpedEcnW1MQrsD1mws78TQvSN8ucFS0D_PVYYuD0qfCdrNq-DaVGcu7H6IragY-Z4MI1skEg7dGsQczZqu7MGYZSF16grS6IW_B5MTSw8fKYML7NodSe406uWiqrmYg4GsSAQrcuiq7mPgN7UAlxiXBITw9Q_-1tCEKAWnEQxgRSYqjzjRdWe2R3Rb2AsTJnDu3BvTITtraM41JGQ6IvpOEdmrFtkNIlUHRb-k6wrQyCkScmmP2pVTZs0eWB2L7Tbt7Zd9sRAvHBoM-pBruwlWq2jF18EnIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
+      "error": "PARTIAL"
     },
     "Axe::se": {
       "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "ads_count": 10,
+      "fetched_at": "2026-04-09T16:25:05.579Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES6AZbXLozt-LJPUwoRqxMAvTXfu5qTLo44dPOPz4cLeO_MK4WBFaNTTtSWab_Q_CHwXcGiqotFV95TbnYvTW4Gasq-spRpQc0xaFxDpgnet01HV4JDPXI9edYHY05-Yy-6JGvgBcOJNYSyEyXSomp5BOUEjkQJFeWGilWjE0_swMGL64UuaMm7XPVma3VLXUQnoD1JSrEvsdb00mDKhCYbhBhLXu08-B5WzY5ZE6LE02y1ThnGDjiuCYZKzzVJqNYVPJoMyUsXEDGWMxWxqlc8XMxi8uvUiRFB_ZCRp67g4DQIF1t5VWgNlFbVB4gaaGaJvN6dWPej-XNC31MpATTz0GxUth5s6QXOV15q3ZIWneoOz0hHSHcfIifPpxWk5r8nQGQ2urYAbxyceHrJBwkIAfa1usAFRmGGJF6cSwYdnmzRjgaQ6NZjtcsTsU5o-BP02fNM5OxR1XFc5hTJiWzIMIycjHw2uMVHmcibhUrBiyPh3X82ZwFo0Jgw1yPVRmjXaZ7CQLnRDxrXMKN5IdljU_g7WuFTNWViEtt07-RUz-a1rNmaYjMqXdMSAS2ClJ1DJlu3uilK-PdkJ-IIg_iQTvES3Nrk-ypIfvJ1lreLiOV57QK91cuOv3UC8ab-_5GBtbZx6LFICEvN833xmOxSdERmEVUQjiDmQMonJ_WtxKGCXwB5BQXx2tdB3aJEhk9isgxFmp6RhM7PlV4cZhjmoqrqG-Qz9z_OQbPYR4tU5VriKJzeUeJOFiJMrcIY1Y1pgKItL1AQpGL3Jqwns04z2mojYy6T6TZPI8JED0uk4w0ok22_PHJJhHbA8R11Cww88pY5XDF-oB0BvqwmWvpiXXgf5V1VGFTD9s48wnlmvonhw1OjWuTaIqsSWHI8J-CaRjLeg8BlVysJnaNxOo98hC8kQMRHx6WsySLFclhyTQ5CSogQ5_anMZV4NPxWsBOR-xfBkUmR-7pGtsCkl6qQMdvRb-3u4smpHimlWhYHp7H6GLTV3ree-ktcjKAClvsbd3-baeA3_bM0WYsx21hAJvyzsvb_iXmYXucZwbaJtRZRnx0a1ZiEndRUIuMYhRVDLK87VyWqIdHkIS-MtFaxNizsE9PsNIFX3zgHQY5KTmzYqbjRi6wQgbffs95RAIiA5ko3Hchu2MGphoM-dewHcrt15kJQ_mVIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
+      "error": "PARTIAL"
     },
     "Axe::si": {
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T14:04:41.296Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES-AYLgRGLW9RDob8KTLjrKGBtS4FFC0ne-QjNeiGpEg16eikMWW1F9j519IOunAQFNydIC0bm4TfD8lfM6BTh25QcvsJdQekteJdMWKknkydAQY39jIsWusC29GbSpCoksTDx61WhefCnur13HMxBdOP-DkgWoJC2Fbzgz-qSMve1czRv5_sKhcAcXTZgBEA6RN84FSwb83FfD7EhyeyOI1zk9CekAUKNpFH6RAGEDGDuP0Ur0fa0p5YcC1PB9HZ7zsVixXHaQfIjSqxz8IyFtl4f2DZ9P3UQGJvaibNRVCN30LwS0O1k90DC5W_ETcNWOVHo7Gs0kTcEUkgAgl30Zr7Yrfp8vZM9AmxKhbCwFmdRieB4NAvtPb-hjFmCvmPpMSpiMr6wNvZoSgBDczwyzye6HVHgD7UzHn1JQWIL1GNRPLJPkUpZRIvxnJTEdma5jNAc4rgiqw1q7uqa-_PftTiOOaGZ4Gqo8ofp-ZY-XK4uKImj4xnf4NvbRGBDMtYY_dLhu3sGa1kSTDB5yomr7E9gq_CbNmRxtjVTQVZhgY0uhdevOYWUS5BdIDQJdSfbCS4pZ8Q2Sis4yhdGCu831U-2cU2uS2HBH_2YPW_Yx1alys1pqZKlWEEjZYQZkruXsfg6bobrAyyWHnAs0P277bgZWMim5yeIkit8LU6IFe9jpCD6Ny56AHVRq3P3G1e4mIImnjjbjxJdYzJx69BsuTDlXyh45RKxquguLAv04Gz3L0bUoGjFxU_3Ta-Ffa4-ws_f1djlcFnWaRQVucnFjKoWWO5Uf5XETAf4wDosMt5R_E0jb7MZZ7DklE7UkPLLCXM-V1o2dXNFOV1pMuHMSHMcdZLby6t_ItHZOuVD1XeIHLFX4rGLhc45CC0wYDXkclPebW9VGDUMBMSykEC0N1JMdzEUOEZSy-sk4OkKtcKjIBYpklm4D4WAqMpeqrL3Q6aPhJEcnvgElf_3CjlJg8V6obiYd4Zi795m2FhhdejiZWxuWhJpAKxo_TRAN9jK2Ooc-iES1ErBJ4YNh4v1-XH_uEZWdD9H9UJpkgX_ABVZvbCx2_zguf-hVymkFq3IcOhrT4KN2U74-FTr6HUy_qfWQDzTYzfeBuAUPhgI8RVsLLdszS96BTn0j945rPX6MEUzeedDZE-G78RH3PRyyG6xZin_imJMGV4aDHpCoecAmM6SrN-HKCIcYWRzYXBpc2MtYmlncXVlcnktcGFnaW5hdGlvbioNMTc3NTY5NTg0Mzg0OA%3D%3D&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Axe::sk": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T11:37:32.290Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Axe::ie": {
       "status": "rate_limited",
@@ -2197,8 +2197,7 @@
     "Axe::el": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T11:37:40.410Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Axe::mt": {
       "status": "no_ads",
@@ -2218,8 +2217,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T14:04:58.304Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES6gbNWRyAvfcZ-pPg14I4W91dDkO0fYOnVcJv9P7ddstI79-al3UV1AXzGBwrzhBGF7zQBIg0Rdw46zg-3oGHdg8X3hQ7cwfksYi2bdUxxGmHuCN3T-BPQ5NAhoOcNgx6Q3p8k38IfcX9QhQoWdt7AvitXah9w-skco0l21PtJ3dHB7rcKNs3lKzQ10Ri2BT6Kxx8_Jo6M67vx1t7ssAW2EbhhQSK9Np3vS3jvkgz-9yBcemw9fMpQnKRilEbZhHfRY8VtmYGa9mJXH034RVhQ_4SVdzVSJOiXXSPrCHYpZWeT7DjtmzfbhoQBncP9oBqZaPo-dejbKSBLJbTLKUaO9EIqlnC9d1X2lpcZ9ZeJ7Of0JCzgdMcKRAnFZkutdOLJh1PeIJaaZ9VdH3zjcWQ9XybOqhyT7OIwkDRHKraPukmZiD140ASVUntUO4WqCzN_BIVYmwfFObf7BLlK2w-UkE-Xb7epp3WpObohjdtA5ZBfLh_cYEQMxuIHc2KGWwFkDVructbq5vWPcVM6BXZfhOnzjGVntUctKWbmWFoqNclce8tDftrs8JoBlJT2MsHij4k4MddgUMPmT18Zb4UREKqBHykbmZmzmVbYu7N04Bb9JjS03VL2S5Wr_2W0HmNPu6O__57KXc0EetdtpcDYbA2UzpUTdozLBkCkt0OivKV4FvvBORQUJ3lr7btl_w0EhyP3xG7rgEkhGh4Xa9tYHBoIKEc6aJcJPspS2RW7dqpoFYa8E5M5Xni0G0OgE6pHWjcym2K_LJgbNazZedZqE0aLeWYR6JTpi4J_1ElHBoBycCOGKWUcBXLdUoBU9p-HYnbDUBwbpmbWo5oFnAXAAKOno2g8EKa5H4yq5vN3l76xrY2tmjHT49FlUKj2z0n0RQ_-H6jsNt6nU3DGfxpoSZwEJ-Nt5INGn3WI-Ri8pdoGjOkqj5SMxLAet6xGglHT5lFB-jXQYfy3jT4GPQztnlfAzwN5xEFikeFPFbZYzIrt7-sCs5otQmQJAOBX0iN8w03aDMIDcq5hheP8ix6brZN8QshluTa42LdYbUM9c17w4qUm_zTYTn6DrTo2EftOy7PEcpckb11Qk8_iteFVdDk78PaPrIhw4n40-cZavLc_ht0Ste72bWj0geOPJnMn1NiNqATmUjIUSikGgxQ-lw-oCX13QNmr-giHGFkc2FwaXNjLWJpZ3F1ZXJ5LXBhZ2luYXRpb24qDTE3NzU2OTU4NDM4NDg%3D&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Axe::cy": {
       "status": "rate_limited",
@@ -2230,8 +2228,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T14:05:06.950Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9AYAc0bhSmXBjkGlnDcbNJ8nzPVxiGwqqfagHHedBxfRQ9NKvdeIYDb5qlrV5aKSUP-dY3d858Z9RbyHcD-lGHRcveaZRSEqJLWVWpbAiECfDXhTqIMJ_XEspEwqBCwPU286G_M-8IGJUwWli-T4LNzS9ePZOzpAwrX3uixscy6uwOlxk0MTxZbhCRCYPqimYYM99-nq2LkcA8di5vmdoM5cttQYSEXeonYh9Ur-PhJjQsWN-9jc2smDS-U9qhsR0jLn4hHuBwehFhVPDwNrDMkDyh_ibxyApX35mgZwgM5JO7H204pn9uDyACdxfkqhB7JMZVnqD7uO_P1dVgegZkTrLEa8eXx1lt3DeWGxCFSH6MSfMR7hNymPLtNKbwWAZhNKg_jD51Yeh4PZlN_gNJUTDYFcuccD2SxErvF9kMjK2UdEwoKX2KgbRZO2uodKKwWsfqg-CJ4QT5xHJPoa-RP3KA_NpSwfJmF0w0dqnxhH01tVL5sWcAM8rxSwGYon4aoCFW9-y2wog79QsvAdZZiy0-pT_twYAecB3vdVxg6IY5sebNd4V8yrNXxr9k0kZm1N7yZmbuOzn6XW6DKo1_ocgjfu0lmlxZ4TZ79wTesAX6z8WKFo1sJqeWQiOWCqg_4HRD_pQ2z5Vi-U9xNgOzpdXPnm1NQDzeFTvcsXQ-wLvRtTzcLBOJCceiDCmqQM9deY4M8yL0BaqA_GvRgGyQ7-KivF2ZLgBs_n0vhPAdTyKlgNlY1HcsDtjFl0CSrJCBhI0NKDuR0IMCJdQmTdem7FUfAnLv-l1KFWtf-LZeAV9b-yb2pU3lXs_uG1kIdhMyoIsE3L1dEggjvNLdg5kk7mSBrSpKob3irpXw3naWhWGI-Ay2sca5IfAN_BebOJaemvjxBcSoZhvKOtCGHrLRt_TOzbITp5Ffj9pYBgY4Z5yJNcIxMWBH6G4N7XoqGQeXooeyT-6CmEaoBftww_uAxuheDy354TMPE04LW4rVaJQoGN9K3G14-x4jaT_y2oXOVaz4Sh46sw-2azbKKxJz4srYzI1J8A77pL5LQKToZSpFXIyqWypjeBvJptlpeMQvXBo_kERYDY124bBPT7R6H8Vi8nQfvorryt0JwGrg9jonUJQKQnlfvR4Omy643RH6iIGJUViQnr_Yq0KyOz7GVIr2kp5RoM0MLKWmqOITiyeQR8IhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Axe::pl": {
       "status": "rate_limited",
@@ -2246,8 +2243,7 @@
     "Axe::nl": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T11:37:56.414Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "PrettyLittleThing::be": {
       "status": "rate_limited",
@@ -13734,9 +13730,8 @@
       "ads_count": 0
     },
     "TK Maxx::dk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "TK Maxx::lt": {
       "status": "no_ads",
@@ -13817,9 +13812,8 @@
       "error": "E1009"
     },
     "TK Maxx::cz": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "TK Maxx::pl": {
       "status": "rate_limited",
@@ -23067,8 +23061,7 @@
     "Falke::se": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T12:17:17.464Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Falke::si": {
       "status": "no_ads",
@@ -26720,8 +26713,8 @@
       "error": "PARTIAL"
     }
   },
-  "total_requests": 24986,
-  "total_ads": 3118,
+  "total_requests": 25040,
+  "total_ads": 3138,
   "countries": [
     "de",
     "be",
@@ -26752,5 +26745,5 @@
     "nl"
   ],
   "started_at": "2026-04-08T15:06:09.283Z",
-  "last_updated": "2026-04-09T16:24:32.698Z"
+  "last_updated": "2026-04-09T16:25:23.349Z"
 }

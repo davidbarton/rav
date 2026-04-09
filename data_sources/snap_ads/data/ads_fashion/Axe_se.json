@@ -1,623 +1,15 @@
 {
   "brand": "Axe",
   "country": "se",
-  "fetched_at": "2026-04-09T03:49:00.854Z",
+  "fetched_at": "2026-04-09T16:25:05.578Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "806c871b-dce1-4bc3-baec-e9b0ae4541ac",
-        "name": "03/10/25 – Ad",
-        "ad_account_name": "iOS in-app promotions",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/B0811UJpXjlPqq2x5PGtN.67?mo=GrwCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBQQhDEi0KKwiOgY0CIAEw4AM41AZAAUoPCgqmAUJRSVlQR0NVEPQDUOr9AWgCdU_HRUAiDgoKQgYI18f9xgZIAxIAogFHCLoKEjIKMAid8u4BIAEw0AU4gApAAkoPCgqiATY_QEZFNz1FEPQDUOr9AWgCdYLyXUB9AACAPyIOCgpCBgicyP3GBkgDEgCiAUcIkgoSMgowCICSwgEgATDgAzjUBkACSg8KCoABLzwzOjYvLDcQ9ANQ6v0BaAJ15Hw2QH0AAIA_Ig4KCkIGCJzI_cYGSAISAKIBRgjSChIxCi8I0tmkASABMOADONQGQAJKDgoJdyYtLTEuICkwEPQDUOr9AWgCdYOVRUB9AACAPyIOCgpCBgicyP3GBkgCEgCQA-r9AQ%3D%3D&uc=15",
-        "start_date": "2025-10-03T09:48:43.000Z",
-        "impressions_total": 1718,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 1718,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Axelito",
-        "profile_name": "Axelito",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFduRGhETllSaW83WGJzMlNUV2VmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/axelhorimbere",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMTZVWkxBRTBOOEpmSlFHNThIV3ZKP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "e350c444-46d5-4da2-931f-a58356a08475",
-        "name": "25-04-08 – annons",
-        "ad_account_name": "Marknadsföring i appen för iOS",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rggZkFs7hoLfEFdiE94tU.67.IRZXSOY?mo=GsACGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNwhDEhoKGAiHpl0gAUoOCglKIiwjIyQZIR8Q9ANoAiIXCgpCBgjJkNW_BkgCEgAqB0lSWlhTT1miATgIugoSGgoYCKiFSiABSg4KCUgdHiAeIRIbHxD0A2gCIhcKCkIGCISS1b8GSAMSACoHSVJaWFNPWaIBNwh_EhoKGAihxDEgAUoOCgk0ERUTERQPDxIQ9ANoAiIXCgpCBgiEktW_BkgCEgAqB0lSWlhTT1miATgIkgoSGgoYCNPtMiABSg4KCTMUFBURFQ0SEhD0A2gCIhcKCkIGCISS1b8GSAISACoHSVJaWFNPWaIBOAjEChIaChgI25IvIAFKDgoJNxEUFBMVCxEUEPQDaAIiFwoKQgYIhJLVvwZIAhIAKgdJUlpYU09ZkAO2nQE%3D&uc=15",
-        "start_date": "2025-04-08T22:00:00.000Z",
-        "impressions_total": 11614,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 11614,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nathalie Axengard",
-        "profile_name": "Nathalie Axengard",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUUdHSWkwUUNxYklaRDhaTmNmc1h0P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/axengard1",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUmFyOGZkbjZndVQzdjZsZEV1RkJZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "7d3e0181-cd98-4c8c-a5e3-0f1334428a8c",
-        "name": "Catalog Sales, All products, Collection, Men",
-        "ad_account_name": "Axel Arigato Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Shop your favourites now",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "DYNAMIC",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-09-08T09:19:22.000Z",
-        "impressions_total": 840754,
-        "impressions_map": {
-          "de": 58434,
-          "be": 2133,
-          "fi": 644,
-          "pt": 0,
-          "bg": 0,
-          "dk": 19948,
-          "lt": 665,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 505029,
-          "hu": 0,
-          "se": 236720,
-          "si": 0,
-          "sk": 0,
-          "ie": 4384,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 604,
-          "es": 1554,
-          "at": 10485,
-          "cy": 0,
-          "cz": 0,
-          "pl": 154,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "21",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Axel Arigato",
-        "profile_name": "Axel Arigato",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdkMyOHMxZ3I5UVpNMHAyMm9DbWl3P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            }
-          ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/l1dc9ct7rFeZgmmn7Hcyd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Atlas sneaker is defined by its sleek, minimal profile and is handmade from leather that is paneled with suede. Stitched and glued to the uppers for durability, the rubber soles are partly recycled and have been specially molded for a textural, graphic look. Discreet gold logos accent the sides and back tabs.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "White"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "men > footwear > atlas"
-              ],
-              "size": "40",
-              "title": "Atlas Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/atlas/atlas-sneaker-f0522004"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/qXktdW0BlLTqdBPappc4L.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Dice T-Toe sneaker draws from dual sources of inspiration, nodding to ‘70s track and field runners, as well as ‘90s skate shoes. It’s handcrafted from contrasting panels of leather and recycled polyester, and set on rubber soles.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Off White",
-                "Off White"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "men > footwear > dice"
-              ],
-              "size": "40",
-              "title": "Dice T-Toe Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/dice/dice-t-toe-sneaker-f3627001"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/O6yaEuIpBD9979XuKET82.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Squish Sneaker introduces a new sculptural shape inspired by the Clean 90. Built with a suede upper, wool laces, and a 30mm rubber sole, it’s lined with a blend of recycled polyester, leather, and microfiber for comfort and durability. Handmade in Portugal, this rounded silhouette launches SS26 with a softer take on expressive minimalism.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Lilac",
-                "Gum"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "women > footwear > squish"
-              ],
-              "size": "36",
-              "title": "Squish Sneaker",
-              "link": "https://axelarigato.com/en/women/footwear/squish/squish-sneaker-f3655003"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/miyXzfz94lPqTkCFayPUV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Dice Patchwork sneaker is handcrafted from contrasting panels of premium leather and suede. Its timeless, easy-to-style silhouette is finished with fluffy laces and a gold logo.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Off Black",
-                "Off Black"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "men > footwear > dice"
-              ],
-              "size": "40",
-              "title": "Dice Patchwork Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/dice/dice-patchwork-sneaker-f3629002"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/CkC4DXVLLbpBqz1KqhBqb.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Zane Sneaker is a considered take on the classic runner, handmade in Portugal from a tactile mix of leather and suede. Designed for everyday wearability, it is finished with flat laces and gold foil branding, and set on a custom-molded sole that includes recycled rubber.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Black",
-                "Off White"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "men > footwear > zane"
-              ],
-              "size": "40",
-              "title": "Zane Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/zane/zane-sneaker-f4066003"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/bw1w04BjcKhcdJYOW7cTL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Shoe Cleaning Gel effectively removes dirt from the majority of materials, including leather, canvas, and mesh. Easy to apply, this water-based formula is fragranced with agarwood.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Yellow"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "objects"
-              ],
-              "size": "one size",
-              "title": "Shoe Cleaning Gel, 75ml",
-              "link": "https://axelarigato.com/en/objects/shoe-cleaning-gel-75ml-o2197001"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/mbW6iw9e8vLgPv0fnT9VG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Orbit Edge sneaker is inspired by retro silhouettes. It’s been handcrafted in Portugal from premium suede and leather panels, outlined by contrasting threads, and finished with gold logo stamps.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Light Beige",
-                "Light Taupe"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "men > footwear > orbit"
-              ],
-              "size": "41",
-              "title": "Orbit Edge Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/orbit/orbit-edge-sneaker-f3636001"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/NHuzlnfqHf5UEfEL1C3Bu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Saba T-shirt is crafted from a blend of 85% organic cotton and 15% hemp, offering something more lightweight and breathable. This oversized piece features a unique spray technique that creates a distinctive fading effect, ensuring each garment is one-of-a-kind with subtle variations in color. Finished with elegant 'Axel Arigato' script embroidery at the bottom hem, handcrafted in Portugal.\n\nThe model is 188 cm / 6'2 ft and wears a size M.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Grey Melange"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "men > apparel > t-shirts"
-              ],
-              "size": "L",
-              "title": "Saba Spray T-Shirt",
-              "link": "https://axelarigato.com/en/men/apparel/t-shirts/saba-t-shirt-a3860003"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/MIkTWUac1rUIsyx0A4DAf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Daze Runner is a low-top sneaker crafted from suede, designed for a clean, minimal Scandinavian-inspired silhouette, perfect for everyday wear. The sneaker is finished with flat laces, with an additional dye-to-match set in the box, and subtle debossed branding on the tongue. Grounded on a rubber sole, this style is handmade in Portugal.\n\nEach pair comes with two sets of laces, including an off white and a khaki.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Khaki",
-                "Off White"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "women > footwear > daze"
-              ],
-              "size": "36",
-              "title": "Daze Runner",
-              "link": "https://axelarigato.com/en/women/footwear/daze/daze-runner-f4280005"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/bdyTceu7VTRJrTOzKAg3s.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Ivi knitted top is crafted from an extra-fine merino wool and cotton-blend fabric to a draped slim-fit silhouette, with a fitted hem and woven label at the back. \n\nThe model is 180 cm / 5'11 ft and wears a size S.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Dark Beige",
-                "Light Blue"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "women > apparel > sweatshirts"
-              ],
-              "size": "L",
-              "title": "Ivi Draped Knitted Top",
-              "link": "https://axelarigato.com/en/women/apparel/sweatshirts/ivi-draped-knitted-top-a3707003"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "Catalog Sales, All products, Collection, Men",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "layout": "AUTOMATIC",
-            "text_fields": [
-              "title",
-              "brand"
-            ]
-          },
-          "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "1ae3bec9-fcbc-4350-b868-18283668ecd4",
-        "name": "25-08-25 – annons",
-        "ad_account_name": "Marknadsföring i appen för iOS",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1ZpBbrmO8QFxmbgLKdbkA.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-08-26T05:20:08.000Z",
-        "impressions_total": 4062,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 4062,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "viktoraxelssson",
-        "profile_name": "viktoraxelssson",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOVJMUFR2QUlibXQ2elNreG5WRmJYP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/viktoraxelssson",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU3lCMDhETEVQUVJBOXN4aGNhQ2RLP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ce6b02d9-c75f-46b7-a036-0f3359ca2eca",
-        "name": "26-02-01 – annons",
+        "id": "f2a0f23f-b52a-4653-b550-de094aba18b0",
+        "name": "26-01-16 – annons",
         "ad_account_name": "Marknadsföring i appen för iOS",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -630,8 +22,8 @@
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
         "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3SKp36gRvJwyOICXj0rxk.67?mo=GrACGgwyAQQ6AX1IAlAPYAFQiwJaCEFkc01lZGlhogE-CEMSLAoqCKDyvQEgATDgAzjWBkABSg4KCXIrKTAsJzEsNBD0A1CU-gFoAnXOujhAIgwKCEIGCLzqp8sGEgCiAT4IugoSKwopCJD0ZiABMOADONYGQAJKDgoJWhYXHBkZGBcdEPQDUJT6AWgCdayEN0AiDAoIQgYIheunywYSAKIBRAiSChIxCi8I1oWQASABMOADONYGQAJKDgoJaCAiJSIeIh0rEPQDUJT6AWgCdWcpOEB9AACAPyIMCghCBgiF66fLBhIAogFECNIKEjEKLwi33YYBIAEw4AM41gZAAkoOCgllGx4kHxweGycQ9ANQlPoBaAJ1Hnk-QH0AAIA_IgwKCEIGCIXrp8sGEgCQA5T6AQ%3D%3D&uc=15",
-        "start_date": "2026-02-01T23:00:00.000Z",
-        "impressions_total": 3986,
+        "start_date": "2026-01-16T23:00:00.000Z",
+        "impressions_total": 4075,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -645,7 +37,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 3986,
+          "se": 4075,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -689,22 +81,411 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "f2f2ea72-6134-48fc-89d9-ffec65ca9bea",
-        "name": "25-08-26 – annons",
+        "id": "98e092a5-57fe-4500-b362-07ebbdeb2c46",
+        "name": "Catalog Sales, All products, Collection, Women",
+        "ad_account_name": "Axel Arigato Self Service",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Shop your favourites now",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-09-08T09:19:22.000Z",
+        "impressions_total": 631223,
+        "impressions_map": {
+          "de": 27447,
+          "be": 3645,
+          "fi": 100,
+          "pt": 0,
+          "bg": 0,
+          "dk": 16547,
+          "lt": 339,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 369135,
+          "hu": 0,
+          "se": 199695,
+          "si": 0,
+          "sk": 0,
+          "ie": 3796,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 432,
+          "es": 956,
+          "at": 5331,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 3800,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "21",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Axel Arigato",
+        "profile_name": "Axel Arigato",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdkMyOHMxZ3I5UVpNMHAyMm9DbWl3P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "collection_preview": {
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ftqAzdNny6hQzrKn7DeC8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Grain sneaker is a tactile, outdoor-inspired silhouette grounded in texture and function. Defined by an exaggerated T-toe, the upper combines nubuck, hairy suede and gingham lining, and is finished with fluffy laces for added depth. A Vibram Snowshoe outsole delivers grip and structure, while a cushioned EVA midsole and leather footbed ensure everyday comfort.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Off White",
+                "Gum"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > footwear > grain"
+              ],
+              "size": "40",
+              "title": "Grain Sneaker",
+              "link": "https://axelarigato.com/en/men/footwear/grain/grain-sneaker-f3928001"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/kwWz5udCUoW3bQg5CLsGi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Clean 90 Cap-Toe Sneaker is a refined low-top, handmade in Portugal from smooth leather. A pair features flat laces and a cap-toe detail, while the lining combines leather and PU for comfort. Gold foil branding accents the side, and the elevated rubber sole is made with recycled content.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Black",
+                "White"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > footwear > clean-90"
+              ],
+              "size": "40",
+              "title": "Clean 90 Cap-Toe Sneaker",
+              "link": "https://axelarigato.com/en/men/footwear/clean-90/cap-toe-sneaker-f4274002"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/PQHLuFsCbCL5JZkLyGp6k.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Dice Laceless is a minimal interpretation of an Axel Arigato icon. Featuring sleek, simplified uppers, this model is handcrafted from LWG-certified suede that’s backed with a comfortable leather, microfiber and recycled polyester lining. They’re set on branded soles that incorporate recycled rubber.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Black",
+                "White"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > footwear > dice-laceless"
+              ],
+              "size": "41",
+              "title": "Dice Laceless Sneaker",
+              "link": "https://axelarigato.com/en/men/footwear/dice-laceless/dice-lo-laceless-sneaker-f2307001"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/FR59IR42NuyvfMn2fhdxv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Bubble Reverse T-Shirt is crafted from a lightweight blend of 85% organic cotton and 15% hemp, offering an oversized fit for a relaxed silhouette. This unique piece features a specialized spray technique that creates a faded color effect, making each shirt unique. An 'Axel Arigato' print adorns the back, adding something more refined.\n\nThe model is 188 cm / 6'2 ft and wears a size M.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Powder Blue"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > apparel > t-shirts"
+              ],
+              "size": "L",
+              "title": "Bubble Reverse T-Shirt",
+              "link": "https://axelarigato.com/en/men/apparel/t-shirts/bubble-reverse-t-shirt-a3861003"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/tqnoPsaGIaP4nu9CJSdtu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Verve Zip-Up Cardigan features a boiled 100% wool knit for texture and warmth. Cut in a regular fit, it’s detailed with a branded two-way zip and side pockets. Due to the boiled treatment of the garment, we recommend taking extra caution when washing.\n\nThe model is 180 cm / 5'11 ft and wears a size S.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Dark Grey"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "women > apparel > sweatshirts"
+              ],
+              "size": "L",
+              "title": "Verve Zip-Up Cardigan",
+              "link": "https://axelarigato.com/en/women/apparel/sweatshirts/verve-zip-up-cardigan-a3703002"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/AwUrF0j9PgIYHIZ4UNdZ9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Dice Lo B-Bird Sneaker draws from dual sources of inspiration, nodding to ’70s track and field runners as well as ’90s skate shoes. Handcrafted with contrasting panels of leather, suede, and recycled polyester, the design is finished with signature bee bird embroidery for a subtle branded touch.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Grey",
+                "Off White"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > footwear > dice"
+              ],
+              "size": "39",
+              "title": "Dice Lo Bee Bird Sneaker",
+              "link": "https://axelarigato.com/en/men/footwear/dice/dice-lo-bee-bird-sneaker-f3620002"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/fYbDPJXjrxCxT9KoHWqgf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Slow Shearling Runner’s layered, low-profile silhouette takes on a new dimension with an all-over suede construction and real shearling lining — a first for the style. Inspired by the Marathon Runner, the upper is built from rich suede panels with knit-inspired details that nod to our ready-to-wear collections. Handmade in Portugal, it’s finished with debossed bubble branding, a 7mm rubber sole, and European sizing. The shearling-lined interior brings added warmth and comfort to the deconstructed design.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Off White",
+                "Gum"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "women > footwear > slow"
+              ],
+              "size": "36",
+              "title": "Slow Shearling Runner",
+              "link": "https://axelarigato.com/en/women/footwear/slow/slow-shearling-runner-f3642001"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SO1Oo1Uexyq8xDXc6bxww.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Area Lo sneaker pays homage to ‘90s basketball styles. Handcrafted from premium leather and recycled polyester, it has paneled uppers finished with perforations and heel spoilers.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Grey",
+                "White"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > footwear > area"
+              ],
+              "size": "39",
+              "title": "Area Lo Fluffy Sneaker",
+              "link": "https://axelarigato.com/en/men/footwear/area/area-lo-fluffy-sneaker-f2279003"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/KnwAvA7EKDRYUsXzm3NNp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Dice T-Toe sneaker draws from dual sources of inspiration, nodding to ‘70s track and field runners, as well as ‘90s skate shoes. It has contrasting uppers that are handcrafted from leather, suede and recycled polyester.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Light Taupe",
+                "Light Blue"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "women > footwear > dice"
+              ],
+              "size": "35",
+              "title": "Dice T-Toe Sneaker",
+              "link": "https://axelarigato.com/en/women/footwear/dice/dice-t-toe-sneaker-f3626005"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/pdX0mDDEByl2TQZERyXEs.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Clay sneaker is a modern take on classic court styles from the ‘80s. Its low-profile silhouette is handcrafted from panels of leather and textile, and set on soles that are discreetly embossed with tennis net graphics.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Beige",
+                "Black"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > footwear > clay"
+              ],
+              "size": "39",
+              "title": "Clay Sneaker",
+              "link": "https://axelarigato.com/en/men/footwear/clay/clay-sneaker-f2538002"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "Catalog Sales, All products, Collection, Women",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "AUTOMATIC",
+            "text_fields": [
+              "title",
+              "brand"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "cb02b660-6360-4333-90f4-adcd4c7deeeb",
+        "name": "26-01-19 – annons",
         "ad_account_name": "Marknadsföring i appen för iOS",
         "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "sv"
         ],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "VIDEO",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/J9eoZlJ7Rx4giYDpcYnkB.67?mo=GoYDGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBOQhDEiUKIwj4iUAgATDgAzjUBkABSg4KCU81LDo8LSwfPhD0A1CQTmgCIg4KCkIGCObxqsUGSAISAKIBOgi6ChIlCiMIovE7IAEw0AU4gApAAkoOCglQLyo0OjMiKTcQ9ANQkE5oAiIOCgpCBgie8qrFBkgDEgCiATkIfxIlCiMIldMlIAEw4AM41AZAAkoOCgkyHBohJRkcFCQQ9ANQkE5oAiIOCgpCBgie8qrFBkgCEgCiAToIkgoSJQojCPf0JiABMOADONQGQAJKDgoJMx0aIygbGhglEPQDUJBOaAIiDgoKQgYInvKqxQZIAhIAogE6CMQKEiUKIwj5iSUgATDgAzjWBkACSg4KCTceGCAiHxQZJBD0A1CQTmgCIg4KCkIGCJ7yqsUGSAISAKIBOgjSChIlCiMIqYMlIAEw4AM41AZAAkoOCgk3HRkgIh4WGCQQ9ANQkE5oAiIOCgpCBgie8qrFBkgCEgCQA5BO&uc=15",
-        "start_date": "2025-08-26T22:00:00.000Z",
-        "impressions_total": 1075,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FhA3LFvVgWGUlkJoli09e.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2026-01-19T23:00:00.000Z",
+        "impressions_total": 6851,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -718,7 +499,80 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 1075,
+          "se": 6851,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Axel Nummedal",
+        "profile_name": "Axel Nummedal",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU2tIWXdjTEdIaGh5MVdKQ0RzNzU2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "web_view_properties": {
+          "url": "https://expressdekor.se"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "7727d698-0832-4476-af93-84ecf3ab1b2f",
+        "name": "25-08-26 – annons",
+        "ad_account_name": "Marknadsföring i appen för iOS",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/J9eoZlJ7Rx4giYDpcYnkB.67?mo=GoYDGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBOQhDEiUKIwj4iUAgATDgAzjUBkABSg4KCU81LDo8LSwfPhD0A1CQTmgCIg4KCkIGCObxqsUGSAISAKIBOgi6ChIlCiMIovE7IAEw0AU4gApAAkoOCglQLyo0OjMiKTcQ9ANQkE5oAiIOCgpCBgie8qrFBkgDEgCiATkIfxIlCiMIldMlIAEw4AM41AZAAkoOCgkyHBohJRkcFCQQ9ANQkE5oAiIOCgpCBgie8qrFBkgCEgCiAToIkgoSJQojCPf0JiABMOADONQGQAJKDgoJMx0aIygbGhglEPQDUJBOaAIiDgoKQgYInvKqxQZIAhIAogE6CMQKEiUKIwj5iSUgATDgAzjWBkACSg4KCTceGCAiHxQZJBD0A1CQTmgCIg4KCkIGCJ7yqsUGSAISAKIBOgjSChIlCiMIqYMlIAEw4AM41AZAAkoOCgk3HRkgIh4WGCQQ9ANQkE5oAiIOCgpCBgie8qrFBkgCEgCQA5BO&uc=15",
+        "start_date": "2026-03-23T16:58:45.000Z",
+        "impressions_total": 246,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 246,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -1536,95 +1390,20 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "cb02b660-6360-4333-90f4-adcd4c7deeeb",
-        "name": "26-01-19 – annons",
+        "id": "e350c444-46d5-4da2-931f-a58356a08475",
+        "name": "25-04-08 – annons",
         "ad_account_name": "Marknadsföring i appen för iOS",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
         "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FhA3LFvVgWGUlkJoli09e.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-        "start_date": "2026-01-19T23:00:00.000Z",
-        "impressions_total": 6851,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 6851,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Axel Nummedal",
-        "profile_name": "Axel Nummedal",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU2tIWXdjTEdIaGh5MVdKQ0RzNzU2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://expressdekor.se"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f2a0f23f-b52a-4653-b550-de094aba18b0",
-        "name": "26-01-16 – annons",
-        "ad_account_name": "Marknadsföring i appen för iOS",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "call_to_action": "SHOP NOW",
+        "languages": [],
+        "call_to_action": "FOLLOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3SKp36gRvJwyOICXj0rxk.67?mo=GrACGgwyAQQ6AX1IAlAPYAFQiwJaCEFkc01lZGlhogE-CEMSLAoqCKDyvQEgATDgAzjWBkABSg4KCXIrKTAsJzEsNBD0A1CU-gFoAnXOujhAIgwKCEIGCLzqp8sGEgCiAT4IugoSKwopCJD0ZiABMOADONYGQAJKDgoJWhYXHBkZGBcdEPQDUJT6AWgCdayEN0AiDAoIQgYIheunywYSAKIBRAiSChIxCi8I1oWQASABMOADONYGQAJKDgoJaCAiJSIeIh0rEPQDUJT6AWgCdWcpOEB9AACAPyIMCghCBgiF66fLBhIAogFECNIKEjEKLwi33YYBIAEw4AM41gZAAkoOCgllGx4kHxweGycQ9ANQlPoBaAJ1Hnk-QH0AAIA_IgwKCEIGCIXrp8sGEgCQA5T6AQ%3D%3D&uc=15",
-        "start_date": "2026-01-16T23:00:00.000Z",
-        "impressions_total": 4075,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rggZkFs7hoLfEFdiE94tU.67.IRZXSOY?mo=GsACGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNwhDEhoKGAiHpl0gAUoOCglKIiwjIyQZIR8Q9ANoAiIXCgpCBgjJkNW_BkgCEgAqB0lSWlhTT1miATgIugoSGgoYCKiFSiABSg4KCUgdHiAeIRIbHxD0A2gCIhcKCkIGCISS1b8GSAMSACoHSVJaWFNPWaIBNwh_EhoKGAihxDEgAUoOCgk0ERUTERQPDxIQ9ANoAiIXCgpCBgiEktW_BkgCEgAqB0lSWlhTT1miATgIkgoSGgoYCNPtMiABSg4KCTMUFBURFQ0SEhD0A2gCIhcKCkIGCISS1b8GSAISACoHSVJaWFNPWaIBOAjEChIaChgI25IvIAFKDgoJNxEUFBMVCxEUEPQDaAIiFwoKQgYIhJLVvwZIAhIAKgdJUlpYU09ZkAO2nQE%3D&uc=15",
+        "start_date": "2025-04-08T22:00:00.000Z",
+        "impressions_total": 11614,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -1638,7 +1417,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 4075,
+          "se": 11614,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -1667,12 +1446,14 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Axel Nummedal",
-        "profile_name": "Axel Nummedal",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU2tIWXdjTEdIaGh5MVdKQ0RzNzU2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "paying_advertiser_name": "Nathalie Axengard",
+        "profile_name": "Nathalie Axengard",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUUdHSWkwUUNxYklaRDhaTmNmc1h0P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "sticker_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://expressdekor.se"
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/axengard1",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUmFyOGZkbjZndVQzdjZsZEV1RkJZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+          "playable_media_properties": {}
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -1682,34 +1463,34 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b8fe2add-c795-4bc2-866a-d74cf90560c2",
-        "name": "Catalog #1",
+        "id": "c928fbdf-204b-4e2f-b497-d4573fdf3d82",
+        "name": "Bild Annons #1 - Collection",
         "ad_account_name": "AYVA",
         "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "DYNAMIC",
         "languages": [],
-        "headline": "Fits life. Still slays.",
-        "call_to_action": "SHOP_NOW",
+        "headline": "The Bag Everyone's Talking About",
+        "call_to_action": "SHOP NOW",
         "top_snap_media_type": "DYNAMIC",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-07-08T19:01:53.000Z",
-        "impressions_total": 11940,
+        "start_date": "2025-07-05T22:01:46.000Z",
+        "impressions_total": 440,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 2974,
+          "dk": 0,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 8966,
+          "se": 440,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -1734,90 +1515,74 @@
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
         "paying_advertiser_name": "AxelssonPeak Invest AB",
-        "brand_name": "AYVA",
         "profile_name": "AYVA",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvam9YaDd5ekdzUnY5RGh2UU9YeVF2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "collection_preview": {
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            }
-          ]
-        },
         "dpa_preview": {
           "items": [
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/u58RDzoxspc26J6ecsXdf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/6s7rNTSnaMH8qBvEHZuj7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/u58RDzoxspc26J6ecsXdf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/6s7rNTSnaMH8qBvEHZuj7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RwRavQmSBjzluoRBZQz0r.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/PJdgE1RrltDcATjBozGC6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mMlmQHtrkCRM2E5FIapfa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/e6j2nHFHXuL9NhrcuAYXH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/I0piMwcNehMS45AvvbTpc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/ezYG7gLGkkYgJduRtxz4h.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/1RxdbYsWQ5zzNOKgn4TqE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/aVYp94TJtfSFw6tWgBANq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ewvd2EniLWsZGa8vTF70p.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/5PrQEbkJsyONfQRsYFKoU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/TcQNrVqbH0yCb3HyPj5Ny.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/pbOtnTQasMCKgKiAX7sZX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UaZkPjTjIlOdZbgaghhQm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/Q3TwuTjr0pLKzYWFuRJ6g.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 }
               ],
-              "description": "A refined everyday silhouette designed for effortless elegance.The Louvre blends soft structure with a fluid shoulder fit, creating a bag that feels timeless yet modern. Crafted with a smooth, supple finish and clean architectural lines, it elevates daily looks without trying too hard. Designed to sit naturally on the shoulder, the curved opening and streamlined profile make it easy to carry from morning errands to evening plans. Finished with subtle gold detailing and a minimalist logo placement for a quietly confident statement.",
+              "description": "For the days when polish is non-negotiable.The Mercer is a structured everyday tote designed with clean lines and a timeless silhouette. Compact yet functional, it carries your essentials without feeling oversized — perfect for coffee runs, office hours, and nights out that come after. Crafted from smooth vegan leather, it’s soft to the touch but strong enough to keep its shape. Dual top handles make it easy to carry by hand or on the shoulder, while the minimal interior keeps things simple and light. Designed with AYVA’s signature balance of style and function, it’s the bag you’ll reach for every day. Details: Smooth vegan leather with structured shape Dual top handles for versatile carry Spacious interior for daily essentials Lightweight and durable Designed in Stockholm Size: 31 cm (W), 16 cm (H), 12 cm (D) Minimal, sleek, and made to last.That’s The Mercer.",
               "brand": "AYVA",
               "custom_label_0": "",
               "custom_label_1": "",
@@ -1826,71 +1591,53 @@
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "Blue"
+                "Dark Green"
               ],
               "condition": "NEW",
               "product_type": [],
               "size": "",
-              "title": "Louvre Soft Shoulder Bag",
-              "link": "https://3a6mct-s9.myshopify.com/products/louvre-soft-shoulder-bag?variant=56538047250809"
+              "title": "The Mercer",
+              "link": "https://3a6mct-s9.myshopify.com/products/the-mercer?variant=55893863956857"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/1RxdbYsWQ5zzNOKgn4TqE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/MKygfG64LkdmfvH1ote6z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/u58RDzoxspc26J6ecsXdf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/tABf4SwlmJQWSrHjCn2b1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RwRavQmSBjzluoRBZQz0r.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/e3jI0ZSQxtXkOcgg5upyi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mMlmQHtrkCRM2E5FIapfa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/Z83MZIDIlQJEaOf8uzisZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/I0piMwcNehMS45AvvbTpc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/NLJqJTACHnm395hTJBQgy.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/1RxdbYsWQ5zzNOKgn4TqE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ewvd2EniLWsZGa8vTF70p.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/TcQNrVqbH0yCb3HyPj5Ny.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UaZkPjTjIlOdZbgaghhQm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/MKygfG64LkdmfvH1ote6z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 }
               ],
-              "description": "A refined everyday silhouette designed for effortless elegance.The Louvre blends soft structure with a fluid shoulder fit, creating a bag that feels timeless yet modern. Crafted with a smooth, supple finish and clean architectural lines, it elevates daily looks without trying too hard. Designed to sit naturally on the shoulder, the curved opening and streamlined profile make it easy to carry from morning errands to evening plans. Finished with subtle gold detailing and a minimalist logo placement for a quietly confident statement.",
+              "description": "Nova Edge Bag is unapologetically bold with a Y2K-inspired attitude. Designed in glossy black vegan leather, it features angular front pockets, chunky hardware, and a versatile double-strap design. Spacious enough for everyday essentials but made to stand out — Nova Edge is your statement piece for nights out, concerts, and city adventures. Dimensions:Width: 32 cmHeight: 22 cmDepth: 11 cmStrap drop: 26 cm (top handles) / 50 cm (detachable crossbody)",
               "brand": "AYVA",
               "custom_label_0": "",
               "custom_label_1": "",
@@ -1899,71 +1646,65 @@
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "Kennedy Blue"
+                "Denim Blue"
               ],
               "condition": "NEW",
               "product_type": [],
               "size": "",
-              "title": "Louvre Soft Shoulder Bag",
-              "link": "https://3a6mct-s9.myshopify.com/products/louvre-soft-shoulder-bag?variant=56538047316345"
+              "title": "Nova Edge Bag",
+              "link": "https://3a6mct-s9.myshopify.com/products/nova-edge-bag?variant=55856663822713"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/TcQNrVqbH0yCb3HyPj5Ny.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/GvbRguAOMImJQM2pZon2L.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/u58RDzoxspc26J6ecsXdf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/cc6ChTbTvYdCSq2cCKHyh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RwRavQmSBjzluoRBZQz0r.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/HXewiYVjmH3vczmfWjwgL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mMlmQHtrkCRM2E5FIapfa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/LdxCv2P9JbSLKjQxCJfqA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/I0piMwcNehMS45AvvbTpc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/g6J8cmi61FlyOfK7oFr2I.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/1RxdbYsWQ5zzNOKgn4TqE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/wcAPZEiExj1iuIPkwYF3L.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ewvd2EniLWsZGa8vTF70p.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/fzbZTqkKSkeavAnG6uphw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/TcQNrVqbH0yCb3HyPj5Ny.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UaZkPjTjIlOdZbgaghhQm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/GvbRguAOMImJQM2pZon2L.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 }
               ],
-              "description": "A refined everyday silhouette designed for effortless elegance.The Louvre blends soft structure with a fluid shoulder fit, creating a bag that feels timeless yet modern. Crafted with a smooth, supple finish and clean architectural lines, it elevates daily looks without trying too hard. Designed to sit naturally on the shoulder, the curved opening and streamlined profile make it easy to carry from morning errands to evening plans. Finished with subtle gold detailing and a minimalist logo placement for a quietly confident statement.",
+              "description": "The Dakota Bag brings a bold western-inspired touch to everyday style. Designed in soft vegan leather with a cowhide pattern, gold-tone hardware, and stud detailing, it’s the perfect mix of playful and chic. Compact yet practical, Dakota makes a statement whether you’re at brunch, out in the city, or heading for a night out. Dimensions:Width: 27 cmHeight: 16 cmDepth: 7 cmStrap drop: 25 cm (adjustable)",
               "brand": "AYVA",
               "custom_label_0": "",
               "custom_label_1": "",
@@ -1972,71 +1713,47 @@
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "Light grey"
+                "Chocolate brown"
               ],
               "condition": "NEW",
               "product_type": [],
               "size": "",
-              "title": "Louvre Soft Shoulder Bag",
-              "link": "https://3a6mct-s9.myshopify.com/products/louvre-soft-shoulder-bag?variant=56538047349113"
+              "title": "The Dakota Bag",
+              "link": "https://3a6mct-s9.myshopify.com/products/the-dakota-bag?variant=55855982018937"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/RwRavQmSBjzluoRBZQz0r.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/3vm0gIURUWxywELk1BnSd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/u58RDzoxspc26J6ecsXdf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/ByMQGcaE0LPksNyltJavw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RwRavQmSBjzluoRBZQz0r.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/wjCorxNoYl4A7orqFAQ8k.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mMlmQHtrkCRM2E5FIapfa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/3vm0gIURUWxywELk1BnSd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/I0piMwcNehMS45AvvbTpc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/1RxdbYsWQ5zzNOKgn4TqE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ewvd2EniLWsZGa8vTF70p.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/TcQNrVqbH0yCb3HyPj5Ny.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UaZkPjTjIlOdZbgaghhQm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/xY3QYtBpzBW5d5SpcZ30o.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 }
               ],
-              "description": "A refined everyday silhouette designed for effortless elegance.The Louvre blends soft structure with a fluid shoulder fit, creating a bag that feels timeless yet modern. Crafted with a smooth, supple finish and clean architectural lines, it elevates daily looks without trying too hard. Designed to sit naturally on the shoulder, the curved opening and streamlined profile make it easy to carry from morning errands to evening plans. Finished with subtle gold detailing and a minimalist logo placement for a quietly confident statement.",
+              "description": "The Milano Shoulder Bag blends softness with structure in the perfect everyday silhouette. Finished with elegant silver details and reinforced seams, it keeps its shape while staying comfortable to wear. The wide strap sits securely on the shoulder, and the spacious interior holds all your daily essentials with ease. W36cm × H15cm × D10cm",
               "brand": "AYVA",
               "custom_label_0": "",
               "custom_label_1": "",
@@ -2045,71 +1762,47 @@
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "Brown"
+                "Midnight"
               ],
               "condition": "NEW",
               "product_type": [],
               "size": "",
-              "title": "Louvre Soft Shoulder Bag",
-              "link": "https://3a6mct-s9.myshopify.com/products/louvre-soft-shoulder-bag?variant=56538047185273"
+              "title": "The Milano Shoulder Bag",
+              "link": "https://3a6mct-s9.myshopify.com/products/the-milano-shoulder-bag?variant=56200881144185"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/UaZkPjTjIlOdZbgaghhQm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/xY3QYtBpzBW5d5SpcZ30o.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/u58RDzoxspc26J6ecsXdf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/ByMQGcaE0LPksNyltJavw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RwRavQmSBjzluoRBZQz0r.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/wjCorxNoYl4A7orqFAQ8k.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mMlmQHtrkCRM2E5FIapfa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/3vm0gIURUWxywELk1BnSd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/I0piMwcNehMS45AvvbTpc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/1RxdbYsWQ5zzNOKgn4TqE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ewvd2EniLWsZGa8vTF70p.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/TcQNrVqbH0yCb3HyPj5Ny.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UaZkPjTjIlOdZbgaghhQm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/xY3QYtBpzBW5d5SpcZ30o.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 }
               ],
-              "description": "A refined everyday silhouette designed for effortless elegance.The Louvre blends soft structure with a fluid shoulder fit, creating a bag that feels timeless yet modern. Crafted with a smooth, supple finish and clean architectural lines, it elevates daily looks without trying too hard. Designed to sit naturally on the shoulder, the curved opening and streamlined profile make it easy to carry from morning errands to evening plans. Finished with subtle gold detailing and a minimalist logo placement for a quietly confident statement.",
+              "description": "The Milano Shoulder Bag blends softness with structure in the perfect everyday silhouette. Finished with elegant silver details and reinforced seams, it keeps its shape while staying comfortable to wear. The wide strap sits securely on the shoulder, and the spacious interior holds all your daily essentials with ease. W36cm × H15cm × D10cm",
               "brand": "AYVA",
               "custom_label_0": "",
               "custom_label_1": "",
@@ -2118,71 +1811,143 @@
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "Peacock Blue"
+                "Coffee"
               ],
               "condition": "NEW",
               "product_type": [],
               "size": "",
-              "title": "Louvre Soft Shoulder Bag",
-              "link": "https://3a6mct-s9.myshopify.com/products/louvre-soft-shoulder-bag?variant=56538047283577"
+              "title": "The Milano Shoulder Bag",
+              "link": "https://3a6mct-s9.myshopify.com/products/the-milano-shoulder-bag?variant=56200881176953"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/I0piMwcNehMS45AvvbTpc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/9TCDYO5XgWkPIDB2VCPMk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/u58RDzoxspc26J6ecsXdf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/3SnLTrilHG1YUUl1IU67X.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RwRavQmSBjzluoRBZQz0r.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/hRUNvB0XvnNtPSEaaxs0O.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mMlmQHtrkCRM2E5FIapfa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/QkXHfBmV0gvEithvpWsBS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/I0piMwcNehMS45AvvbTpc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/5jRbpHRUhWxCISDLuAtux.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/1RxdbYsWQ5zzNOKgn4TqE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/9TCDYO5XgWkPIDB2VCPMk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ewvd2EniLWsZGa8vTF70p.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/tiVrEejqK8HoQnpoBML7x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/TcQNrVqbH0yCb3HyPj5Ny.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/hLZEpgfcwoXbrHoHuyXo2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UaZkPjTjIlOdZbgaghhQm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/MUO9KlX2SsQM0YzNVXMTv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/UBz9SpEevOKbQmmbUYkVM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/lMUJ1ArwrucTrYHkcDBEl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/K6CUwqm4V7r05NdhPiZ2q.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ySmz7nJjIZ4dvjETVnaes.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/nuiLTfDVBejJ7y5qxA5Md.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8rQKgxa88k35c9QCo3V6n.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/M07TKHSILanbQ5gH1IpCW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Olu5imOZFpd4aVrwC67de.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/cgBFQ8mznn5LxGNTQdF0g.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/20IFIKokfFbu2Gdn8gDbR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Nm4HI3nVR1cZZqIhDYCSr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qMgEe1YU79SrV41Nzayi7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": []
                 }
               ],
-              "description": "A refined everyday silhouette designed for effortless elegance.The Louvre blends soft structure with a fluid shoulder fit, creating a bag that feels timeless yet modern. Crafted with a smooth, supple finish and clean architectural lines, it elevates daily looks without trying too hard. Designed to sit naturally on the shoulder, the curved opening and streamlined profile make it easy to carry from morning errands to evening plans. Finished with subtle gold detailing and a minimalist logo placement for a quietly confident statement.",
+              "description": "Your go-to everyday crossbody - lightweight, sleek, and made to move with you. With its soft structure, roomy interior, and practical pockets, it keeps all your essentials close while staying effortlessly chic. Size: 26 × 13 × 21 cmFeatures: Adjustable strap, zip closure, multiple compartments",
               "brand": "AYVA",
               "custom_label_0": "",
               "custom_label_1": "",
@@ -2191,24 +1956,775 @@
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "Navy"
+                "Black"
               ],
               "condition": "NEW",
               "product_type": [],
               "size": "",
-              "title": "Louvre Soft Shoulder Bag",
-              "link": "https://3a6mct-s9.myshopify.com/products/louvre-soft-shoulder-bag?variant=56538047218041"
+              "title": "The Aria Mini",
+              "link": "https://3a6mct-s9.myshopify.com/products/the-aria-mini?variant=56028223439225"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/7wSqtAdPQRCWdiCdq3GhO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/7wSqtAdPQRCWdiCdq3GhO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                }
+              ],
+              "description": "A little charm, a lot of personality.The Artsy Bag Charm is a curated trio of aesthetic icons: a painter’s palette, a classical bust, and a vintage-style frame. Made for the creative soul, this charm brings artsy energy to every bag, wristlet, or key loop. It’s giving:🎨 Painter girl meets museum date🗝️ Mini sculpture vibes✨ Clips on in seconds. Adds forever flair. Because why carry a bag… when you can carry a whole vibe?",
+              "brand": "AYVA",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [],
+              "size": "",
+              "title": "Artsy Bag Charm",
+              "link": "https://3a6mct-s9.myshopify.com/products/artsy-bag-charm?variant=55434611327353"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/NLJqJTACHnm395hTJBQgy.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/tABf4SwlmJQWSrHjCn2b1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/e3jI0ZSQxtXkOcgg5upyi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Z83MZIDIlQJEaOf8uzisZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/NLJqJTACHnm395hTJBQgy.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/MKygfG64LkdmfvH1ote6z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                }
+              ],
+              "description": "Nova Edge Bag is unapologetically bold with a Y2K-inspired attitude. Designed in glossy black vegan leather, it features angular front pockets, chunky hardware, and a versatile double-strap design. Spacious enough for everyday essentials but made to stand out — Nova Edge is your statement piece for nights out, concerts, and city adventures. Dimensions:Width: 32 cmHeight: 22 cmDepth: 11 cmStrap drop: 26 cm (top handles) / 50 cm (detachable crossbody)",
+              "brand": "AYVA",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [
+                "Midnight"
+              ],
+              "condition": "NEW",
+              "product_type": [],
+              "size": "",
+              "title": "Nova Edge Bag",
+              "link": "https://3a6mct-s9.myshopify.com/products/nova-edge-bag?variant=55856663789945"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/pyF5pRCVMuqdxjoXEvzRM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/pyF5pRCVMuqdxjoXEvzRM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/1RH5WEMRjYmebBJy7KWp3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/kqPuBAdk1tSFotMT5IyGz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Y5gcz7ISqiMWJTSOpvtgS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/kA58IDc9oxV0vJ6NAR60z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                }
+              ],
+              "description": "For when less really is more.Maya is a compact shoulder bag designed to carry just what you need — and do it in style. With its softly structured silhouette and minimalist hardware, it’s the kind of bag that feels effortless whether you’re dressed up or keeping it casual. Lightweight and easy to wear, it slips comfortably under your arm and adds just the right amount of polish to any outfit. Inside, you’ll find enough space for your everyday essentials without the bulk, making it your go-to for coffee runs, date nights, and everything in between. Details: Smooth vegan leather with soft structure Adjustable shoulder strap for a perfect fit Zipper closure for security Spacious interior with simple organization Designed in Stockholm Size: 29 cm (W), 15 cm (H), 10 cm (D) Minimal, sleek, and made for every moment.That’s The Maya.",
+              "brand": "AYVA",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [
+                "Glossy Deep Red"
+              ],
+              "condition": "NEW",
+              "product_type": [],
+              "size": "",
+              "title": "Maya Bag",
+              "link": "https://3a6mct-s9.myshopify.com/products/the-noelle?variant=55893891285369"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/kCiP7NlbS3mF255tbSIaO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/7VwXxXA3IKk87EFdn8BVb.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/IgE1yZrJSaQyBpPkTxw6M.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hWGlMeafnaEvQ55vDkkX7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/laPDkrm9SZm8csHCZ5Ulq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/54VLOwKtEvgd7GE3eOM8W.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/1CdIpsmbPzbbVgLQ0TYBz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/kCiP7NlbS3mF255tbSIaO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/eRRWLaWFT6mivhS566atA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/nbNrd4Md8fhNwWffoBnlo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LuZjf7WiwqkSfdhmoNTkG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": []
+                }
+              ],
+              "description": "For the days that don’t slow down.The Brooklyn is made to move, through city streets, train stations, meetings that run over, and plans that run late. With its sculpted silhouette and smooth vegan leather, it balances function with quiet confidence. Spacious, structured, and surprisingly lightweight, it fits everything you need without ever feeling bulky. Carry it by the soft shoulder straps or clip on the adjustable crossbody when you're on the go. From Monday commutes to weekend escapes, The Brooklyn doesn’t just keep up, it keeps you ahead. Crafted with the same materials and attention to detail as big-brand bags, but without the inflated markups. No logos, no shortcuts, no hype, just premium quality at an honest price. Details: Smooth-grain vegan leather with structured shape Top zipper closure and outer zip pockets Adjustable, removable crossbody strap Soft inner lining with compartments for easy organization Designed in Stockholm Size: 40 cm (L), 25 cm (H), 15 cm (W) Smart, polished, and built to last.That’s The Brooklyn.",
+              "brand": "AYVA",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [
+                "Coffee"
+              ],
+              "condition": "NEW",
+              "product_type": [],
+              "size": "",
+              "title": "The Brooklyn Bag",
+              "link": "https://3a6mct-s9.myshopify.com/products/the-brooklyn-bag?variant=55398948766073"
             }
           ],
           "template": {},
           "dynamic_template": {
-            "name": "Catalog #1",
+            "name": "Bild Annons #1 - Collection",
             "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "layout": "AUTOMATIC",
             "text_fields": [
               "title",
               "price"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "069bc740-5a98-4a57-a5cc-fd282368bc67",
+        "name": "30/11/25 – Ad",
+        "ad_account_name": "iOS in-app promotions",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "VIEW PROFILE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KF1E4fpnfd95yt3rEH3y4.380.IRZXSOY?mo=Gj0aCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2025-12-01T23:00:00.000Z",
+        "impressions_total": 11418,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 11418,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "maxerling",
+        "profile_name": "maxerling",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/maxerling",
+          "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/10226428-164314421_31-s5-v1.webp?scale=0&trim=circle&ua=2",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ab175a9c-29b9-44ef-95c8-1d2a102bd03e",
+        "name": "04/09/2025 - Publicité",
+        "ad_account_name": "CamAxe 🍒🍒 libre-service",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "VIEW PROFILE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3B62AW800vk2DkpXRF7rk.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2025-09-04T22:00:00.000Z",
+        "impressions_total": 11879,
+        "impressions_map": {
+          "de": 145,
+          "be": 1563,
+          "fi": 60,
+          "pt": 192,
+          "bg": 1921,
+          "dk": 3,
+          "lt": 35,
+          "lu": 713,
+          "hr": 200,
+          "lv": 0,
+          "fr": 3781,
+          "hu": 8,
+          "se": 21,
+          "si": 39,
+          "sk": 42,
+          "ie": 1273,
+          "ee": 0,
+          "el": 432,
+          "mt": 0,
+          "it": 383,
+          "es": 534,
+          "at": 16,
+          "cy": 0,
+          "cz": 23,
+          "pl": 27,
+          "ro": 163,
+          "nl": 33,
+          "tr": 272
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "13",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CamAxe 🍒🍒",
+        "profile_name": "CamAxe 🍒🍒",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvajFraHJERDhKMXlMc0tPVGJsVFRCP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/camaxe13",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvajFraHJERDhKMXlMc0tPVGJsVFRCP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "175496bd-4d8e-424a-9702-181930405a54",
+        "name": "Catalog Sales, All products, Singleimage, Men",
+        "ad_account_name": "Axel Arigato Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Shop your favourites now",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-09-08T09:19:22.000Z",
+        "impressions_total": 881735,
+        "impressions_map": {
+          "de": 41006,
+          "be": 6266,
+          "fi": 471,
+          "pt": 0,
+          "bg": 0,
+          "dk": 15908,
+          "lt": 458,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 578400,
+          "hu": 0,
+          "se": 220406,
+          "si": 0,
+          "sk": 0,
+          "ie": 7826,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 861,
+          "es": 2318,
+          "at": 7754,
+          "cy": 0,
+          "cz": 0,
+          "pl": 61,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "21",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Axel Arigato",
+        "profile_name": "Axel Arigato",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdkMyOHMxZ3I5UVpNMHAyMm9DbWl3P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ftqAzdNny6hQzrKn7DeC8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Grain sneaker is a tactile, outdoor-inspired silhouette grounded in texture and function. Defined by an exaggerated T-toe, the upper combines nubuck, hairy suede and gingham lining, and is finished with fluffy laces for added depth. A Vibram Snowshoe outsole delivers grip and structure, while a cushioned EVA midsole and leather footbed ensure everyday comfort.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Off White",
+                "Gum"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > footwear > grain"
+              ],
+              "size": "40",
+              "title": "Grain Sneaker",
+              "link": "https://axelarigato.com/en/men/footwear/grain/grain-sneaker-f3928001"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/kwWz5udCUoW3bQg5CLsGi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Clean 90 Cap-Toe Sneaker is a refined low-top, handmade in Portugal from smooth leather. A pair features flat laces and a cap-toe detail, while the lining combines leather and PU for comfort. Gold foil branding accents the side, and the elevated rubber sole is made with recycled content.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Black",
+                "White"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > footwear > clean-90"
+              ],
+              "size": "40",
+              "title": "Clean 90 Cap-Toe Sneaker",
+              "link": "https://axelarigato.com/en/men/footwear/clean-90/cap-toe-sneaker-f4274002"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/PQHLuFsCbCL5JZkLyGp6k.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Dice Laceless is a minimal interpretation of an Axel Arigato icon. Featuring sleek, simplified uppers, this model is handcrafted from LWG-certified suede that’s backed with a comfortable leather, microfiber and recycled polyester lining. They’re set on branded soles that incorporate recycled rubber.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Black",
+                "White"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > footwear > dice-laceless"
+              ],
+              "size": "41",
+              "title": "Dice Laceless Sneaker",
+              "link": "https://axelarigato.com/en/men/footwear/dice-laceless/dice-lo-laceless-sneaker-f2307001"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/FR59IR42NuyvfMn2fhdxv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Bubble Reverse T-Shirt is crafted from a lightweight blend of 85% organic cotton and 15% hemp, offering an oversized fit for a relaxed silhouette. This unique piece features a specialized spray technique that creates a faded color effect, making each shirt unique. An 'Axel Arigato' print adorns the back, adding something more refined.\n\nThe model is 188 cm / 6'2 ft and wears a size M.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Powder Blue"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > apparel > t-shirts"
+              ],
+              "size": "L",
+              "title": "Bubble Reverse T-Shirt",
+              "link": "https://axelarigato.com/en/men/apparel/t-shirts/bubble-reverse-t-shirt-a3861003"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/tqnoPsaGIaP4nu9CJSdtu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Verve Zip-Up Cardigan features a boiled 100% wool knit for texture and warmth. Cut in a regular fit, it’s detailed with a branded two-way zip and side pockets. Due to the boiled treatment of the garment, we recommend taking extra caution when washing.\n\nThe model is 180 cm / 5'11 ft and wears a size S.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Dark Grey"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "women > apparel > sweatshirts"
+              ],
+              "size": "L",
+              "title": "Verve Zip-Up Cardigan",
+              "link": "https://axelarigato.com/en/women/apparel/sweatshirts/verve-zip-up-cardigan-a3703002"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/AwUrF0j9PgIYHIZ4UNdZ9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Dice Lo B-Bird Sneaker draws from dual sources of inspiration, nodding to ’70s track and field runners as well as ’90s skate shoes. Handcrafted with contrasting panels of leather, suede, and recycled polyester, the design is finished with signature bee bird embroidery for a subtle branded touch.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Grey",
+                "Off White"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > footwear > dice"
+              ],
+              "size": "39",
+              "title": "Dice Lo Bee Bird Sneaker",
+              "link": "https://axelarigato.com/en/men/footwear/dice/dice-lo-bee-bird-sneaker-f3620002"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/fYbDPJXjrxCxT9KoHWqgf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Slow Shearling Runner’s layered, low-profile silhouette takes on a new dimension with an all-over suede construction and real shearling lining — a first for the style. Inspired by the Marathon Runner, the upper is built from rich suede panels with knit-inspired details that nod to our ready-to-wear collections. Handmade in Portugal, it’s finished with debossed bubble branding, a 7mm rubber sole, and European sizing. The shearling-lined interior brings added warmth and comfort to the deconstructed design.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Off White",
+                "Gum"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "women > footwear > slow"
+              ],
+              "size": "36",
+              "title": "Slow Shearling Runner",
+              "link": "https://axelarigato.com/en/women/footwear/slow/slow-shearling-runner-f3642001"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SO1Oo1Uexyq8xDXc6bxww.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Area Lo sneaker pays homage to ‘90s basketball styles. Handcrafted from premium leather and recycled polyester, it has paneled uppers finished with perforations and heel spoilers.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Grey",
+                "White"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > footwear > area"
+              ],
+              "size": "39",
+              "title": "Area Lo Fluffy Sneaker",
+              "link": "https://axelarigato.com/en/men/footwear/area/area-lo-fluffy-sneaker-f2279003"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/KnwAvA7EKDRYUsXzm3NNp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Dice T-Toe sneaker draws from dual sources of inspiration, nodding to ‘70s track and field runners, as well as ‘90s skate shoes. It has contrasting uppers that are handcrafted from leather, suede and recycled polyester.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Light Taupe",
+                "Light Blue"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "women > footwear > dice"
+              ],
+              "size": "35",
+              "title": "Dice T-Toe Sneaker",
+              "link": "https://axelarigato.com/en/women/footwear/dice/dice-t-toe-sneaker-f3626005"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/pdX0mDDEByl2TQZERyXEs.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The Clay sneaker is a modern take on classic court styles from the ‘80s. Its low-profile silhouette is handcrafted from panels of leather and textile, and set on soles that are discreetly embossed with tennis net graphics.",
+              "brand": "Axel Arigato",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Beige",
+                "Black"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "men > footwear > clay"
+              ],
+              "size": "39",
+              "title": "Clay Sneaker",
+              "link": "https://axelarigato.com/en/men/footwear/clay/clay-sneaker-f2538002"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "Catalog Sales, All products, Singleimage, Men",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "AUTOMATIC",
+            "text_fields": [
+              "title",
+              "brand"
             ]
           },
           "vertical": "COMMERCE"
