@@ -17,41 +17,27 @@ CREATE OR REPLACE MACRO rav_path(rel) AS (
 -- Source: Snapchat Ads Gallery /sponsored_content endpoint
 -- Each JSON page has ad_previews[] → sponsored_content_preview
 --
--- Two glob roots:
---   data/sponsored_*              — active / in-progress crawls
---   data/partial_snapshots/sponsored_* — archived runs (e.g. cursor expired)
--- Rows from overlapping handle ranges may DUPLICATE across runs; filter by run_id.
+-- Loads only the latest (largest) crawl run. Earlier partial runs are
+-- archived in data/partial_snapshots/ but excluded to avoid duplicates.
 -- ──────────────────────────────────────────────
 
 DROP TABLE IF EXISTS sponsored_content;
 CREATE TABLE sponsored_content AS
 WITH raw AS (
     SELECT
-        unnest(ad_previews) AS item,
-        filename AS source_file
+        unnest(ad_previews) AS item
     FROM read_json_auto(
-        rav_path('data_sources/snap_ads/data/sponsored_*/sponsored_content/page_*.json'),
-        filename = true
-    )
-    UNION ALL
-    SELECT
-        unnest(ad_previews) AS item,
-        filename AS source_file
-    FROM read_json_auto(
-        rav_path('data_sources/snap_ads/data/partial_snapshots/sponsored_*/sponsored_content/page_*.json'),
-        filename = true
+        rav_path('data_sources/snap_ads/data/sponsored_2026-04-09T07-51-44/sponsored_content/page_*.json')
     )
 )
-SELECT
+SELECT DISTINCT
     item.sponsored_content_preview.sponsor_name  AS sponsor_name,
     item.sponsored_content_preview.sponsor_url   AS sponsor_url,
     item.sponsored_content_preview.creator_name  AS creator_name,
     item.sponsored_content_preview.creator_url   AS creator_url,
     item.sponsored_content_preview.content_type  AS content_type,
     item.sponsored_content_preview.content_url   AS content_url,
-    item.sponsored_content_preview.thumbnail_url AS thumbnail_url,
-    regexp_extract(source_file, '.*/(sponsored_[^/]+)/sponsored_content/', 1) AS run_id,
-    source_file
+    item.sponsored_content_preview.thumbnail_url AS thumbnail_url
 FROM raw
 WHERE item.sub_request_status = 'SUCCESS';
 
@@ -67,10 +53,11 @@ CREATE TABLE brand_ads_fashion AS
 WITH files AS (
     SELECT *
     FROM read_json_auto(
-        rav_path('data_sources/snap_ads/data/ads_fashion/*_de.json'),
+        rav_path('data_sources/snap_ads/data/ads_fashion/*.json'),
         filename = true,
         union_by_name = true
     )
+    WHERE brand IS NOT NULL
 ),
 rows AS (
     SELECT
@@ -82,11 +69,12 @@ rows AS (
         filename AS source_file,
         unnest(ads) AS ad_row
     FROM files
+    WHERE ads_count > 0
 )
 SELECT
     brand,
     country,
-    fetched_at,
+    TRY_CAST(fetched_at AS TIMESTAMP)               AS fetched_at,
     ads_count,
     pagination_complete,
     ad_row.sub_request_status AS sub_request_status,
@@ -102,7 +90,7 @@ SELECT
     ad_row.ad_preview.top_snap_media_type AS top_snap_media_type,
     ad_row.ad_preview.top_snap_crop_position AS top_snap_crop_position,
     ad_row.ad_preview.top_snap_media_download_link AS top_snap_media_download_link,
-    ad_row.ad_preview.start_date AS start_date,
+    TRY_CAST(ad_row.ad_preview.start_date AS TIMESTAMP) AS start_date,
     ad_row.ad_preview.impressions_total AS impressions_total,
     ad_row.ad_preview.impressions_map AS impressions_map,
     ad_row.ad_preview.targeting_v2 AS targeting_v2,
@@ -432,11 +420,12 @@ WHERE json_extract_string(scm->card_key->'snaps'->0->'creatorInfo', '$.userName'
 -- EC DSA Transparency Database — Snapchat statements of reasons
 -- Source: data_sources/dsa_transparency/src/fetch_sor.ts → data/daily/snapchat-<date>-{light,full}.csv
 -- Glob loads every merged per-day file. light + full share one table (union_by_name; extra cols NULL where absent).
+-- NOTE: this is an EU-wide multi-provider database; we download Snapchat-only ZIPs.
 -- If the directory is empty, this step errors — run: cd data_sources/dsa_transparency && npx tsx src/fetch_sor.ts ...
 -- ──────────────────────────────────────────────
 
-DROP TABLE IF EXISTS dsa_snapchat_sor;
-CREATE TABLE dsa_snapchat_sor AS
+DROP TABLE IF EXISTS ec_dsa_sor;
+CREATE TABLE ec_dsa_sor AS
 SELECT
     CAST(regexp_extract(f.filename, 'snapchat-([0-9]{4}-[0-9]{2}-[0-9]{2})', 1) AS DATE) AS dump_date,
     regexp_extract(f.filename, '(light|full)\\.csv$', 1) AS csv_variant,
@@ -451,60 +440,134 @@ FROM read_csv_auto(
 -- ──────────────────────────────────────────────
 -- Transparency Reports — EU DSA (H2 2025 V2)
 -- Source: XLSX converted to CSV via xlsx_to_csv.py
+-- Wide-form tables keep original XLSX column names (quote with "..." in queries).
+-- Normalized tables (appeals, automated_means, human_resources, AMAR) get short aliases.
+-- read_csv with auto_detect fixes parsing issues from embedded commas in quoted values.
 -- ──────────────────────────────────────────────
 
-CREATE OR REPLACE TABLE eu_dsa_member_state_orders AS
-SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/3_member_states_orders.csv'), header=true, all_varchar=true);
+DROP TABLE IF EXISTS eu_dsa_member_state_orders;
+CREATE TABLE eu_dsa_member_state_orders AS
+SELECT * EXCLUDE (column20, column21, column22)
+FROM read_csv(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/3_member_states_orders.csv'),
+    auto_detect=true, all_varchar=true, ignore_errors=true);
 
-CREATE OR REPLACE TABLE eu_dsa_notices AS
-SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/4_notices.csv'), header=true, all_varchar=true);
+DROP TABLE IF EXISTS eu_dsa_notices;
+CREATE TABLE eu_dsa_notices AS
+SELECT * EXCLUDE (column25, column26, column27)
+FROM read_csv(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/4_notices.csv'),
+    auto_detect=true, all_varchar=true, ignore_errors=true);
 
-CREATE OR REPLACE TABLE eu_dsa_own_initiative_illegal AS
-SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/5_own_initiative_illegal.csv'), header=true, all_varchar=true);
+DROP TABLE IF EXISTS eu_dsa_own_initiative_illegal;
+CREATE TABLE eu_dsa_own_initiative_illegal AS
+SELECT * FROM read_csv(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/5_own_initiative_illegal.csv'),
+    auto_detect=true, all_varchar=true, ignore_errors=true);
 
-CREATE OR REPLACE TABLE eu_dsa_own_initiative_tc AS
-SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/6_own_initiative_TC.csv'), header=true, all_varchar=true);
+DROP TABLE IF EXISTS eu_dsa_own_initiative_tc;
+CREATE TABLE eu_dsa_own_initiative_tc AS
+SELECT * FROM read_csv(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/6_own_initiative_TC.csv'),
+    auto_detect=true, all_varchar=true, ignore_errors=true);
 
-CREATE OR REPLACE TABLE eu_dsa_appeals AS
-SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/7_appeals_and_recidivism.csv'), header=true, all_varchar=true);
+DROP TABLE IF EXISTS eu_dsa_appeals;
+CREATE TABLE eu_dsa_appeals AS
+SELECT
+    "Applicability"          AS applicability,
+    "Service"                AS service,
+    "Reporting period"       AS reporting_period,
+    "Section"                AS section,
+    "Indicator"              AS indicator,
+    "Scope"                  AS scope,
+    TRY_CAST("Value" AS DOUBLE) AS value,
+    "Contextual Information" AS context
+FROM read_csv(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/7_appeals_and_recidivism.csv'),
+    auto_detect=true, all_varchar=true, ignore_errors=true);
 
-CREATE OR REPLACE TABLE eu_dsa_automated_means AS
-SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/8_automated_means.csv'), header=true, all_varchar=true);
+DROP TABLE IF EXISTS eu_dsa_automated_means;
+CREATE TABLE eu_dsa_automated_means AS
+SELECT
+    "Applicability"          AS applicability,
+    "Service"                AS service,
+    "Reporting period"       AS reporting_period,
+    "Section"                AS section,
+    "Indicator"              AS indicator,
+    "Scope"                  AS scope,
+    TRY_CAST("Value" AS DOUBLE) AS value,
+    "Contextual Information" AS context
+FROM read_csv(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/8_automated_means.csv'),
+    auto_detect=true, all_varchar=true, ignore_errors=true)
+WHERE "Applicability" IS NOT NULL;
 
-CREATE OR REPLACE TABLE eu_dsa_human_resources AS
-SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/9_human_resources.csv'), header=true, all_varchar=true);
+DROP TABLE IF EXISTS eu_dsa_human_resources;
+CREATE TABLE eu_dsa_human_resources AS
+SELECT
+    "Applicability"          AS applicability,
+    "Service"                AS service,
+    "Reporting period"       AS reporting_period,
+    "Section"                AS section,
+    "Indicator"              AS indicator,
+    "Scope"                  AS scope,
+    TRY_CAST("Value" AS DOUBLE) AS value,
+    "Contextual information" AS context
+FROM read_csv(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/9_human_resources.csv'),
+    auto_detect=true, all_varchar=true, ignore_errors=true)
+WHERE "Applicability" IS NOT NULL;
 
-CREATE OR REPLACE TABLE eu_dsa_amar AS
-SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/10_AMAR.csv'), header=true, all_varchar=true);
+DROP TABLE IF EXISTS eu_dsa_amar;
+CREATE TABLE eu_dsa_amar AS
+SELECT
+    "Applicability"          AS applicability,
+    "Service"                AS service,
+    "Reporting period"       AS reporting_period,
+    "Section"                AS section,
+    "Indicator"              AS indicator,
+    "Scope"                  AS scope,
+    TRY_CAST("Value" AS DOUBLE) AS value
+FROM read_csv(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/10_AMAR.csv'),
+    auto_detect=true, all_varchar=true, ignore_errors=true);
 
-CREATE OR REPLACE TABLE eu_dsa_categories AS
-SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/2_categories_names.csv'), header=true, all_varchar=true);
+DROP TABLE IF EXISTS eu_dsa_categories;
+CREATE TABLE eu_dsa_categories AS
+SELECT
+    "Category label"       AS label,
+    "Category description" AS description,
+    "Category of illegal content / incompatible with the terms and conditions" AS category_type,
+    "Contextual information" AS context
+FROM read_csv(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/2_categories_names.csv'),
+    header=true, all_varchar=true, ignore_errors=true)
+WHERE "Category label" IS NOT NULL;
 
 -- ──────────────────────────────────────────────
 -- Transparency Reports — Global (H1 2025)
 -- Source: manually extracted JSON → flattened CSV
 -- ──────────────────────────────────────────────
 
-CREATE OR REPLACE TABLE global_enforcements_by_policy AS
+DROP TABLE IF EXISTS global_enforcements_by_policy;
+CREATE TABLE global_enforcements_by_policy AS
 SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/global_csv/enforcements_by_policy.csv'), header=true);
 
-CREATE OR REPLACE TABLE global_user_reports_by_policy AS
+DROP TABLE IF EXISTS global_user_reports_by_policy;
+CREATE TABLE global_user_reports_by_policy AS
 SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/global_csv/user_reports_by_policy.csv'), header=true);
 
-CREATE OR REPLACE TABLE global_proactive_detection AS
+DROP TABLE IF EXISTS global_proactive_detection;
+CREATE TABLE global_proactive_detection AS
 SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/global_csv/proactive_detection_by_policy.csv'), header=true);
 
-CREATE OR REPLACE TABLE global_appeals_by_policy AS
+DROP TABLE IF EXISTS global_appeals_by_policy;
+CREATE TABLE global_appeals_by_policy AS
 SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/global_csv/appeals_by_policy.csv'), header=true);
 
-CREATE OR REPLACE TABLE global_regional_enforcements AS
+DROP TABLE IF EXISTS global_regional_enforcements;
+CREATE TABLE global_regional_enforcements AS
 SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/global_csv/regional_enforcements.csv'), header=true);
 
-CREATE OR REPLACE TABLE global_ads_moderation AS
+DROP TABLE IF EXISTS global_ads_moderation;
+CREATE TABLE global_ads_moderation AS
 SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/global_csv/ads_moderation.csv'), header=true);
 
-CREATE OR REPLACE TABLE global_csea AS
+DROP TABLE IF EXISTS global_csea;
+CREATE TABLE global_csea AS
 SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/global_csv/csea.csv'), header=true);
 
-CREATE OR REPLACE TABLE eu_csea_2025 AS
+DROP TABLE IF EXISTS eu_csea_2025;
+CREATE TABLE eu_csea_2025 AS
 SELECT * FROM read_csv_auto(rav_path('data_sources/transparency_reports/data/global_csv/eu_csea_2025.csv'), header=true);

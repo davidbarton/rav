@@ -15,24 +15,23 @@ Ultra-minimal rough prototype for early validation.
 
 ## Build dataset
 
-Requires [Node.js](https://nodejs.org/) 18+ (no extra npm dependencies).
+Requires [Node.js](https://nodejs.org/) 18+ and [DuckDB CLI](https://duckdb.org/docs/installation/) (`brew install duckdb`).
 
 ```bash
 cd app && npm run build
 ```
 
-This writes:
+This queries `db/rav.db` (`brand_ads_fashion` + `sponsored_content` tables) and writes:
 
 - `app/data/normalized.json`
 
+If the DB doesn't exist yet, build it first: `duckdb db/rav.db < db/init.sql` (from repo root).
+
 ### Reproducibility checklist (canonical)
 
-1. Keep source samples in `platform_choice/data/samples/2026-04-07-snap-sponsored-content/`.
-2. Run the builder command above from repo root.
-3. Confirm output includes:
-   - `ads`
-   - `sponsored_content`
-   - `sponsored_kpis`
+1. Populate DuckDB: `duckdb db/rav.db < db/init.sql` (loads raw crawl JSON/CSV from `data_sources/`).
+2. Run builder: `cd app && npm run build`.
+3. Confirm output includes `ads` (4.5k+), `sponsored_kpis` (230k+ rows summarized), and `leaderboard`.
 4. Serve locally and verify UI loads the generated file:
    - `npm start` (from `app/`)
    - open `http://127.0.0.1:8000/app/`
@@ -54,14 +53,14 @@ Open:
 
 ## What Is Real vs Inferred
 
-- **Real (from local Snap sample files):**
-  - ad rows and metadata (headline, advertiser/brand, media type, impressions, dates, review status)
-  - sponsored commercial content rows (creator/sponsor/content URLs)
+- **Real (from DuckDB / Snap API crawls):**
+  - 4,500+ ad rows across 98 brands and 23 EU countries (headline, advertiser/brand, media type, impressions, dates, review status)
+  - 230,000+ sponsored commercial content rows (creator/sponsor/content URLs), 61k+ creators, 3k+ named sponsors
 - **Inferred (prototype heuristics):**
   - spend range (`est_spend_low_eur` / `est_spend_high_eur`) from fixed CPM assumption
   - performance-per-spend proxy
-  - category/sub-category classification from simple keyword rules
+  - category/sub-category classification from brand/keyword rules
   - risk flags/score from keyword matching
 - **Known dataset limitation:**
-  - paid ad sample currently contains one successful advertiser pull (`Spotify`) in this local dataset; other ad files in sample folder are rate-limit errors (`E1009`).
-  - organic coverage here is represented by Snap sponsored/commercial content endpoints, not a full platform-wide organic feed.
+  - ad coverage is rate-limit constrained (10 ads per brand×country query); sample, not exhaustive.
+  - organic coverage is represented by Snap sponsored/commercial content endpoints, not a full platform-wide organic feed.

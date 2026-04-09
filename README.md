@@ -5,7 +5,7 @@
 
 ## Research we conducted
 
-Hands-on map of Snapchat data sources (APIs, scraping, transparency, governance): **[RESEARCH.md](./RESEARCH.md)**.
+Map of Snapchat data sources (APIs, scraping, transparency, governance): **[RESEARCH.md](./RESEARCH.md)**.
 
 It walks through **14** surfaces we actually exercised — what works without auth, what needs a partner or proxy, and concrete request shapes and fields where it matters. Start with the TL;DR table, then drop into any numbered section for the full notes.
 
@@ -13,7 +13,7 @@ It walks through **14** surfaces we actually exercised — what works without au
 
 Full inventory of every table, file, and fetcher: **[DATA_SAMPLES.md](./DATA_SAMPLES.md)**.
 
-Quick summary: **27 DuckDB tables** (`db/rav.db`) covering paid ads, sponsored content, political ads, creator profiles, spotlight videos, explore discovery, Snap DSA transparency reports, and **EC DSA Snapchat statements of reasons** (`dsa_snapchat_sor`). Plus daily SOR CSVs on disk and 8 PDF governance reports. Open DuckDB with [Beekeeper Studio](https://www.beekeeperstudio.io/) for visual exploration.
+Quick summary: **27 DuckDB tables** (`db/rav.db`) covering paid ads (4.6k across 23 EU countries), sponsored content (230k deduplicated), political ads (74.6k, complete), creator profiles, spotlight videos, explore discovery, DSA transparency reports, and 11M+ EC moderation action records (`ec_dsa_sor`). Plus 8 PDF governance reports on disk. Open DuckDB with [Beekeeper Studio](https://www.beekeeperstudio.io/) for visual exploration.
 
 ## How to run this code
 

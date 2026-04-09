@@ -19,7 +19,7 @@ The platform choice is Snapchat because it offers a documented public Ads Librar
   - creator and sponsored commercial activity
   - organic commercial visibility
   - fraud / abuse-relevant signal candidates
-- Reproducible real-data sample set in repository (`data/samples/...`), not mockups.
+- Reproducible real-data artifacts in repository (`data_sources/snap_ads/data/`, DuckDB `db/rav.db` per `DATA_SAMPLES.md`), not mockups.
 - Explicit limitations report (rate limits, coverage, granularity, reproducibility constraints).
 - Insight proposal layer for Ravineo customer value:
   - competitor advertising pressure proxies

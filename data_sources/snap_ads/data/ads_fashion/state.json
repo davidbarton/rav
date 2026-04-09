@@ -1178,9 +1178,9 @@
       "fetched_at": "2026-04-09T08:02:32.682Z"
     },
     "GHD::dk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-09T15:47:57.803Z"
     },
     "GHD::lt": {
       "status": "rate_limited",
@@ -1222,9 +1222,9 @@
       "error": "E1009"
     },
     "GHD::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-09T15:48:05.466Z"
     },
     "GHD::ie": {
       "status": "rate_limited",
@@ -1275,9 +1275,9 @@
       "fetched_at": "2026-04-09T13:27:54.326Z"
     },
     "GHD::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-09T15:48:11.866Z"
     },
     "GHD::nl": {
       "status": "rate_limited",
@@ -1405,9 +1405,8 @@
       "error": "E1009"
     },
     "Primark::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Primark::fi": {
       "status": "rate_limited",
@@ -1419,9 +1418,8 @@
       "ads_count": 0
     },
     "Primark::bg": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Primark::dk": {
       "status": "no_ads",
@@ -2009,9 +2007,8 @@
       "ads_count": 0
     },
     "Dove::bg": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Dove::dk": {
       "status": "no_ads",
@@ -2027,9 +2024,8 @@
       "error": "E1009"
     },
     "Dove::hr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Dove::lv": {
       "status": "rate_limited",
@@ -2068,9 +2064,8 @@
       "ads_count": 0
     },
     "Dove::el": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Dove::mt": {
       "status": "rate_limited",
@@ -2264,18 +2259,16 @@
       "ads_count": 0
     },
     "PrettyLittleThing::pt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "PrettyLittleThing::bg": {
       "status": "no_ads",
       "ads_count": 0
     },
     "PrettyLittleThing::dk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "PrettyLittleThing::lt": {
       "status": "rate_limited",
@@ -2337,9 +2330,8 @@
       "ads_count": 0
     },
     "PrettyLittleThing::mt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "PrettyLittleThing::it": {
       "status": "rate_limited",
@@ -2709,14 +2701,12 @@
       "fetched_at": "2026-04-09T08:08:01.143Z"
     },
     "Versace::at": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Versace::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Versace::cz": {
       "status": "rate_limited",
@@ -2734,9 +2724,9 @@
       "fetched_at": "2026-04-09T08:08:06.393Z"
     },
     "Versace::nl": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 0,
-      "error": "E1009"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Converse::be": {
       "status": "rate_limited",
@@ -2749,9 +2739,8 @@
       "error": "E1009"
     },
     "Converse::pt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Converse::bg": {
       "status": "rate_limited",
@@ -2799,9 +2788,8 @@
       "ads_count": 0
     },
     "Converse::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Converse::ie": {
       "status": "rate_limited",
@@ -2817,9 +2805,8 @@
       "ads_count": 0
     },
     "Converse::mt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Converse::it": {
       "status": "rate_limited",
@@ -2837,9 +2824,8 @@
       "error": "E1009"
     },
     "Converse::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Converse::cz": {
       "status": "no_ads",
@@ -3320,9 +3306,8 @@
       "error": "E1009"
     },
     "Carhartt::cz": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Carhartt::pl": {
       "status": "rate_limited",
@@ -3469,9 +3454,8 @@
       "ads_count": 0
     },
     "Tom Ford Beauty::fi": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Tom Ford Beauty::pt": {
       "status": "rate_limited",
@@ -3488,9 +3472,8 @@
       "ads_count": 0
     },
     "Tom Ford Beauty::lt": {
-      "status": "error",
-      "ads_count": 0,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Tom Ford Beauty::lu": {
       "status": "rate_limited",
@@ -3498,9 +3481,8 @@
       "error": "E1009"
     },
     "Tom Ford Beauty::hr": {
-      "status": "error",
-      "ads_count": 0,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Tom Ford Beauty::lv": {
       "status": "rate_limited",
@@ -3566,9 +3548,8 @@
       "ads_count": 0
     },
     "Tom Ford Beauty::cz": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Tom Ford Beauty::pl": {
       "status": "no_ads",
@@ -3759,14 +3740,12 @@
       "error": "E1009"
     },
     "Gucci::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Gucci::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Gucci::ie": {
       "status": "no_ads",
@@ -4305,14 +4284,12 @@
       "error": "E1009"
     },
     "Lacoste::bg": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Lacoste::dk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Lacoste::lt": {
       "status": "no_ads",
@@ -4361,9 +4338,8 @@
       "error": "E1009"
     },
     "Lacoste::ee": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Lacoste::el": {
       "status": "no_ads",
@@ -4402,9 +4378,8 @@
       "error": "E1009"
     },
     "Lacoste::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Lacoste::nl": {
       "status": "rate_limited",
@@ -4466,9 +4441,8 @@
       "error": "E1009"
     },
     "Fila::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Fila::sk": {
       "status": "no_ads",
@@ -4516,14 +4490,12 @@
       "error": "E1009"
     },
     "Fila::pl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Fila::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Fila::nl": {
       "status": "no_ads",
@@ -4585,9 +4557,8 @@
       "error": "E1009"
     },
     "Rexona::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Rexona::sk": {
       "status": "rate_limited",
@@ -4595,9 +4566,8 @@
       "error": "E1009"
     },
     "Rexona::ie": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Rexona::ee": {
       "status": "rate_limited",
@@ -4807,9 +4777,8 @@
       "ads_count": 0
     },
     "Uniqlo::fr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Uniqlo::hu": {
       "status": "no_ads",
@@ -4820,9 +4789,8 @@
       "ads_count": 0
     },
     "Uniqlo::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Uniqlo::sk": {
       "status": "no_ads",
@@ -4839,14 +4807,13 @@
       "error": "E1009"
     },
     "Uniqlo::el": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 0,
-      "error": "E1009"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Uniqlo::mt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Uniqlo::it": {
       "status": "no_ads",
@@ -5138,9 +5105,8 @@
       "error": "E1009"
     },
     "Levi's::lt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Levi's::lu": {
       "status": "rate_limited",
@@ -5182,9 +5148,8 @@
       "error": "E1009"
     },
     "Levi's::ie": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Levi's::ee": {
       "status": "no_ads",
@@ -5388,9 +5353,8 @@
       "ads_count": 0
     },
     "Breuninger::lv": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Breuninger::fr": {
       "status": "no_ads",
@@ -5428,9 +5392,8 @@
       "ads_count": 0
     },
     "Breuninger::mt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Breuninger::it": {
       "status": "rate_limited",
@@ -5473,13 +5436,11 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T14:50:22.670Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9wYq_72JtqiWdyqJWtXbmK_tlsX9vCJ4NCo0o_5dSjSNZE-zMrL_-Q5AZy_f0y3lRv29blxj11QtEulC0_Rnm7qSPxv8CZsJw8I9PCIBZMZTCk4u5St7WZ1h1yD3uijAAk7bnUy8YYIa5txnApVnBkWvxwFaLyGEtIkOMiLCFGPI3xfplg_DARHMp6J3I-BuLLaSlMy8NluQGECZeDgT03VxrI_-3MpjcgBf1We8o4FMAJ_cKINXMf7zcassgz0NXbhEYQCDyiN3PSkrHskc7fFpepJYhu60WMji1r18pJAB1L4RZoMb5ZhrjdYhGz9y7W1HBq9MEF3rR3xA1GcGzHIf_IvEQ1asf-3Xl6M0F6xZiBFrycp-NfC45kWnL-enLZIqiui0f0YmisOcxpEO7Zwo9iWI0dfRH9G1u1iLs2QmWdBLxLked-tcr9fvnMeoWhcvDQagsTN-L9jPd_C9X7b20U4Li9ozYYHv3WBbFS1bxrfBYPx4X7E5KE5383TPkUtE6dtTCpRnIUKMXG__N8SzFw-Vj8kY7n8XBP6TbVGROOs1R044uf9r_BR-to-2laptvD49ng6gZp04oX7V4ASYlxRL4xgoV-zmnrFVR9CAh4YqQ-DzsQVUrCnoIHZaO8F9LkG90pbVWQfvPTd4mf13j6eg5HAFirGX3vvRJC5mZph4oGRls68m7rO2bQ5y6tkWNFu3b0e9gmajPA8wilL7b6QMAltdIhSJNmvL4lX92TQN6tgJXEaxvOFGCX06cBAmK2GEIhe54Z34YXsokfN3VwyCs4OZIeyHlwwqqgMzmEiR0CC_Ja5TkiuaTBTy_Y-WwsO0yLzbQSM9fZc9Ph-77jvNNJXzsK0nd4P2c-XvwPWwaNXWktqMCN-6xGqGrfa3_f0laaLTb-P0r3xtiGJ04Bz4xzeVoliXc9nKb-qyzWE84520-ErjnOkX_2IPrMlDM6bUdW7bRH1pB0g5AjNf2MQVoTeRMUf0Utp3JzlwttkopmigJeWOwYhXbr1rgFs29JrWLCScwC8kJ1SXUIomIfHoNmT_GvBNZ0rfwHMUsq-OnoFZp-yC64Hbb9u8calsJw89XriMzpTRNk4DIn72QIStYg5pIkGoLDakkscTVJJJ-oN592LZABchwbXzIayW2r65uXdokDq6DLlJaftb_lEkqAeTrxoMOSEgMCQhOiFnPIu6IhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Chanel::fi": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Chanel::pt": {
       "status": "no_ads",
@@ -5492,8 +5453,10 @@
     },
     "Chanel::dk": {
       "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "ads_count": 10,
+      "fetched_at": "2026-04-09T15:42:54.339Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9AatGvZoAhCk7OADr1nPvrOg1wdqZeXPd_akZUu5NaJlRvztuyD3AGtsuwLr5ZyzPjtI76SLoNperE5mdpVAT9u37ei684D8ynBU1DS6VdiWNP3JJzar0RZ44mUCn7QxyLxPMLx0-6LVL76-_9XjnCAVSHFXDPMj9RewiP_0uvmqVFwe8SK4pTUgVgzcKB0FImv8AnAkKM9EGzrevhek2UKOcKng5bDMSgTVy6v1Zjg6zhmIxCkLwSo5TywfcLLRxcbKbFzZUvTtf2Vyu8AHKRJs8XA1L9dtk3PmnhwC8MBBr3mw6cb5amhdb6uZCzfaqVUBwhKbRPU3L68-V2HDD-nZnbmHuwJDtsiO2k-wlu-zzFPpxPOVLDgEhfbnLWNWNwxUpLE3EmXBNtu_NIv5U58v_TDFiOce7vTjsJZr1Hhqsf-5xvk_5YE2h-eyJFRP29o4Yu9W3Nfy-ZlXBB1V26A8wQfe4zvynNsM8GatSsyIQRF6C0LwyWxG5gGZPkEA7IWjnoK_CPqg_nxqTAC0kmZMtA1t7OHQWL5Ry3K-5pl1YjiHIWfJ5hkS_s5QGr1TeliWfXA2fiZy4WOyZUg4LupRhldAyqjdhEaEcEdQZTMB-B4DUh6lBc7NckfzPjNcQFda-octz9XpEj6t5DVezreZRbUvAjvSnmtQAKy6y8Nois-oN5s8Sm46n2caFv_Zozp9PRznKTRvYHdw3Pp-0Wa0DNFl1zczKLPVdvhGlhe4Cpf3xnKi-vupA48PQRHIt6mwJWeoMiFFLVrjA4sksRPtzae8aN33dxTfiSCMPCF1Zk_XdDjuAcuOvSXX4l-L1jfOhMrtQ26o-yaUca7b16YCo984iIcXzeuMyCVqYO4_7GRG8gs6l8W1d-6k4JWdSmoNhihUArjz7zHMy5kM27McSQ-cqLr_GgXL9UKRleAu9p83DPSZn5F3OQMgQ_J6WnyF5cA9ZKEIqKG93_qWA1mqy_KKYIBXg5Fj_ZODsxRoopx9xtrNm0e1T2mIVhvnZg4DzrNvft_0iPinepRn1Dx_7Uw9Bq1HKL0-UYUFwvxUflN1mURWBHKlV8zWo6fDubkRiXljj8eALlxbLcDU4OGPOp8w-vgF59n_b2CnOgwjKIjD7b9xxy8pM08qb6SKrrJGq43cEzDPQGFU-Z5F1BVp8jir3BoMDAxVJrNsIbXEHqTwIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
+      "error": "PARTIAL"
     },
     "Chanel::lt": {
       "status": "rate_limited",
@@ -5564,14 +5527,13 @@
       "fetched_at": "2026-04-09T14:50:38.172Z"
     },
     "Chanel::at": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 10,
+      "fetched_at": "2026-04-09T15:43:01.381Z"
     },
     "Chanel::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Chanel::cz": {
       "status": "fetched",
@@ -5584,25 +5546,22 @@
       "fetched_at": "2026-04-09T14:50:43.010Z"
     },
     "Chanel::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Chanel::nl": {
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T14:50:50.944Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES-AakJIRlH9qBttxTkXsF6baqFKeq9otP3pbQxr6RWgI78GJwLN6SqY3Z1tN3VlBW1NH4MxMe0rT57va2Jgp82d-mPVBzMVVgPcmNBjkPY8zJUbTT-u_Plq1hrTp3OC9efDyY8yh4uY55ssFcFbIpPvgLbvVfEaOdJrxt2sagCoTUbklhqowACXhgcPNNtGyjqG4mceyJzgl1ZNjX-KJ3O2IGfYZCRLXdhmyJTKq9l11sDFMFZbZ0I4lWnUdiFDw5yk_79DIWkHdmdwUfODIoR0D5VWXpBXUsGGwvst18SbWbKJ7jjCcXZU7iPp47uELYfPF2uj4-mzlBF2U6_QUAD470i4IWF23p6mHBjDWPr-6-VN-B9KBhVsuVbgTu9F0nlORuzaSpHbIcVzwnMqtFR4bWwjjpZFaO-tXwChcWf3qvnGO18Pnjak2594WRwoqSxLv6LiLOsuph-EPKrJGeAhUVoY1afgv7WTQh7TheNvqI96qC-uQNnF0QGwtYBHvqPMyEf9agaL2ZGfsmj_yr_W91rKmQ6CgSQROieJO226ccJ3OT0y8OLkIn8v2ERW4Q6xnKYpErOv21eA3kqs182qClmfx31cmev4jZMx2tzHxf19q1C7xhaxnFf_fnBoqyPdO0zHfbWJDk_LPpI9sQg1-RvHMOqWSZ-V7KGv2Dv8hA_PPruxNgHf3uvBFoiFLG1ucvHEvpwhNSlxphkkvSLshL4nNERE0faINWAOtMz9nrFK8yhgvtOlq4umgSjGHiztzj4ZbCC6G67cUbEJHaXfnURGg82U-8JrYqDelO_gQccRyaGG1TMY2Qvon0grTKavmvaskUq2vwAdF0PuOWhQnZGo13FKJactXtIwy0M59pevux47rjQIqCSQkGDG3TkBiVY60oDNXFJb36itwvsdgaNOD1Nh4w-B97BNjb1rsoo04f4AmNgJKzGITwsXPOqhl0pkb3k9CuIdhLsin4l6R5AYal6FcD9lgRQy4F40gWNPSyvNEHZUFkEqH-l7egUIAhBKmTBCad4sM4ZCs44jMPxkDmig8R4JggXZ9UmCwQWuLGgXOopsRYxE5Wwst1-e78_Dz6-HB4kpY0ANFmosVG0yq1eIZ7U7TVQMHPKpzs5jy9Xv1lAHcBIXFvOjU26WIbatN5JW_emNrcRnzEIAUj3moyCIAYaL4aDBgRAtwaQMhckDJEcCIcYWRzYXBpc2MtYmlncXVlcnktcGFnaW5hdGlvbioNMTc3NTY5NTg0Mzg0OA%3D%3D&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Gillette::be": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Gillette::fi": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Gillette::pt": {
       "status": "rate_limited",
@@ -5610,9 +5569,8 @@
       "error": "E1009"
     },
     "Gillette::bg": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Gillette::dk": {
       "status": "rate_limited",
@@ -5620,14 +5578,12 @@
       "error": "E1009"
     },
     "Gillette::lt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Gillette::lu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Gillette::hr": {
       "status": "no_ads",
@@ -5680,9 +5636,8 @@
       "ads_count": 0
     },
     "Gillette::it": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Gillette::es": {
       "status": "rate_limited",
@@ -5690,9 +5645,8 @@
       "error": "E1009"
     },
     "Gillette::at": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Gillette::cy": {
       "status": "rate_limited",
@@ -5776,23 +5730,20 @@
       "error": "E1009"
     },
     "Balenciaga::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Balenciaga::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Balenciaga::ie": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Balenciaga::ee": {
-      "status": "error",
-      "ads_count": 0,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Balenciaga::el": {
       "status": "no_ads",
@@ -5835,9 +5786,8 @@
       "ads_count": 0
     },
     "Balenciaga::nl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Arket::be": {
       "status": "rate_limited",
@@ -6144,9 +6094,9 @@
       "ads_count": 0
     },
     "Mango::hr": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 0,
-      "error": "E1009"
+      "error": "NETWORK: RequestError: Session closed without receiving a SETTINGS frame"
     },
     "Mango::lv": {
       "status": "rate_limited",
@@ -6254,9 +6204,8 @@
       "error": "E1009"
     },
     "Coty::lt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Coty::lu": {
       "status": "rate_limited",
@@ -6278,15 +6227,13 @@
       "error": "E1009"
     },
     "Coty::hu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Coty::se": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T12:50:54.974Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Coty::si": {
       "status": "rate_limited",
@@ -6317,9 +6264,8 @@
       "error": "E1009"
     },
     "Coty::it": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Coty::es": {
       "status": "rate_limited",
@@ -6486,9 +6432,8 @@
       "error": "E1009"
     },
     "Bioderma::pt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Bioderma::bg": {
       "status": "no_ads",
@@ -6519,14 +6464,12 @@
       "error": "E1009"
     },
     "Bioderma::fr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Bioderma::hu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Bioderma::se": {
       "status": "rate_limited",
@@ -6544,9 +6487,8 @@
       "error": "E1009"
     },
     "Bioderma::ie": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Bioderma::ee": {
       "status": "rate_limited",
@@ -6594,9 +6536,8 @@
       "error": "E1009"
     },
     "Bioderma::nl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Notino::be": {
       "status": "rate_limited",
@@ -6753,9 +6694,8 @@
       "error": "E1009"
     },
     "La Roche-Posay::hr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "La Roche-Posay::lv": {
       "status": "rate_limited",
@@ -6782,9 +6722,8 @@
       "ads_count": 0
     },
     "La Roche-Posay::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "La Roche-Posay::ie": {
       "status": "rate_limited",
@@ -6792,9 +6731,8 @@
       "error": "E1009"
     },
     "La Roche-Posay::ee": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "La Roche-Posay::el": {
       "status": "rate_limited",
@@ -6820,9 +6758,8 @@
       "error": "E1009"
     },
     "La Roche-Posay::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "La Roche-Posay::cz": {
       "status": "rate_limited",
@@ -6830,14 +6767,12 @@
       "error": "E1009"
     },
     "La Roche-Posay::pl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "La Roche-Posay::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "La Roche-Posay::nl": {
       "status": "rate_limited",
@@ -7111,9 +7046,8 @@
       "error": "E1009"
     },
     "Kate Spade::lt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kate Spade::lu": {
       "status": "rate_limited",
@@ -7165,9 +7099,8 @@
       "error": "E1009"
     },
     "Kate Spade::mt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kate Spade::it": {
       "status": "no_ads",
@@ -7184,9 +7117,8 @@
       "error": "E1009"
     },
     "Kate Spade::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kate Spade::cz": {
       "status": "no_ads",
@@ -7197,9 +7129,9 @@
       "ads_count": 0
     },
     "Kate Spade::ro": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 0,
-      "error": "E1009"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Kate Spade::nl": {
       "status": "no_ads",
@@ -7336,9 +7268,8 @@
       "ads_count": 0
     },
     "Bershka::bg": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Bershka::dk": {
       "status": "no_ads",
@@ -7373,19 +7304,16 @@
       "ads_count": 0
     },
     "Bershka::se": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Bershka::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Bershka::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Bershka::ie": {
       "status": "no_ads",
@@ -7431,9 +7359,8 @@
       "ads_count": 0
     },
     "Bershka::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Bershka::nl": {
       "status": "rate_limited",
@@ -7833,9 +7760,8 @@
       "error": "E1009"
     },
     "Rimmel::se": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Rimmel::si": {
       "status": "rate_limited",
@@ -7843,9 +7769,8 @@
       "error": "E1009"
     },
     "Rimmel::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Rimmel::ie": {
       "status": "rate_limited",
@@ -7861,9 +7786,8 @@
       "ads_count": 0
     },
     "Rimmel::mt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Rimmel::it": {
       "status": "rate_limited",
@@ -7880,9 +7804,8 @@
       "ads_count": 0
     },
     "Rimmel::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Rimmel::cz": {
       "status": "rate_limited",
@@ -8025,9 +7948,8 @@
       "error": "PARTIAL"
     },
     "Loewe::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Loewe::fi": {
       "status": "no_ads",
@@ -8084,9 +8006,8 @@
       "ads_count": 0
     },
     "Loewe::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Loewe::ie": {
       "status": "rate_limited",
@@ -8257,9 +8178,9 @@
       "ads_count": 0
     },
     "Crocs::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 3,
+      "fetched_at": "2026-04-09T15:53:50.408Z"
     },
     "Crocs::fi": {
       "status": "rate_limited",
@@ -8300,8 +8221,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T13:26:03.291Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9AZMx9FiGfjdUQOl3psBxq6gHTV-_nWdi-YtRIsWsHnPwuPrz4ZW_U-WMbwsHVNf7k_TypevSewe3ftLPMP7Eq8RYTl6pE3jbR9-KTA_2iZTuF8Vf94ICRbrGzLcUKa9F-x4nUWTsHcOXB4eHGMlTDv-zmj6LkU6Y5i3f68Uh-Hkxt2K8_IyfxWyJnYLI_77UvEleY5lISVebfSS1BRa8R_fu_Y4_B4PiTHwjDWYpnODovGNOPUQxJHOCx0keo5EER3nyXbxWdtV_ClYZwdfjCOAp57iWzAidf74fh3hFbyrtM-jftlJmu4esAPpCfLr6aLtCnlkhgJ0kMOW7qOmJ9yWfySWrws6C1j3pFL8i2Kg1q-t9nxTfefhZhBkKIjPwFigpoImeK5Hm1O1evdKCzebet8KWcfYTi6tD5yf9j9w625GPkCxnRTUiDIjeHcZBiusfdvzmSPe6N4L47sxCKdbb_mBO0LNWl564wBa2DRGo1SUXubhrgbYQ9DsW7k74pJeNhwisHh8GklVj1f8BfeeGWjqX--YqzdGKTcbXNniTLMPgohHCaubBsIYwgr5-MKdaxYHg8MhP51Lh7vOJ5I-FZNyEO-fXdwAXl1kIXTm8UGxEJjnRqDxMwWwcR6EL9IOnnGTyLgrcNDUq7lBW2VUtra0aDo29Vyy7vK__CHEwERK-D-nIUyCJHaDyXUY0E9ZqWBEMG-BFlnrk7DW5hyXteiiLnE9oS1pqzVFp98WPOl2M1Xn1MR49L4dIQxRU5mc2XCi0kSfBklUoIwbe_wBZE8A_Llc24a905ddALCI_G3IN20i_ceXeNPyeBNb1qkNmWfIvLsM5wTDW-R3E3TMoO_4tSUDrUV_L3Pcv1qkxDzHpzgvI20ZXEfF5VYNu-dKBu87uRisg27sgWM8dYZ4Maw48doUV28kBT1zy29ny0TtanXN39k42DIzn7FryEpLN2ucc-_zdHMgSqHiFuoSnrVrMO-Kfm27RoZPdX5UQ9kay-gV_sHOsNlGY_0f1SpLHMXeStOnxzTvXbgEoNUWc_4mUTfubpWXpLgfv5ErPSp1vZHsrcHdaqi7tOwKNDPUZ5MtJhkc6d36qq0dOnDZYJS4XVpagflCqG96V2hQi186Sr9bVwT-vZsw3Oj70KbCxv6jhJJTvTy3Zxr-N46-WpmjwhoMWCiM_A5AyokjmsouIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Crocs::hu": {
       "status": "rate_limited",
@@ -8367,14 +8287,12 @@
       "ads_count": 0
     },
     "Crocs::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Crocs::nl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Weleda::be": {
       "status": "rate_limited",
@@ -8502,21 +8420,18 @@
     "Sephora::fi": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T10:51:52.952Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Sephora::pt": {
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T13:30:40.866Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES6gZVee7jtwk6itKN2pgp9aMsGfGn3_hsMcjCApt4Ors4JQYYetufS05sa7Wh0-TcALWxMKZ4deCXgJZe8cPRCpc_RmNBffsdJLiYuUWkn6gO2fmzbGEKfQYVBeQPXci5W6lBk7yAqlZ0BKy5UvJ-AjwMLR3VZ2gLVF7QCoTVYYTwUe9rA7J8e0I96zaSv9o3Wjt13a3GFH9xhXnqOsphlJg7frkU1vPuIsrEAs1prEWPjTtubU8mvYQYtXutR56mC1CLfIdzBgFkTR7xAwl0d_4HHoEOQsVsgnpX4HBwOlkUFMpfr1P4Gv030lw60fkEuyUisSNiPIjU8psmZo6DDGDLDAqqm6-xUoXChnaNMWgAho9lHJTbuvCn2MDmpDIqmG_Oq5uXT3mZZt7oSyGVsdPWJ3YtL6iIkyYQUWnT9kFCgKhIfOIjE70DatYGTjDjjyocaYqeilH0ShJCff6sELOzIYk0ACGEiPmOp2Xc4bWqQOiRSjVPMpEmWru5t9L3kCrzpO5S6jyyTLX2HjFwe5IfYVaLBagXVMB8LwYmNAhf89SNbf21C4tmYsHwxrU2MoYrlSsgi9055765wCSUJmeIYtEdddXDPpKymFr5rAhG3xpdv1IviS2FrZa8RGkMrEnWuAK6Vs6N24_1ZdCdjYpAJc0lz6wTDDopkRd576EEfjXuIbreODHSS4hEzAPOVv8W9GewI0O6BVnJfDsXeNSuBXxoRQ-HrpaLuc1TWYAWJgiJGqGErB6Q6bP_eOd1HDEjlKCmABh91Cddh9xTVxpAmpcNfIq2N8H4OviV0hcU_1icQen-O_r05BUpM78ygNMhw-84MpUKKBlP8ZZAhMmA9pARXD4nFlcjpB7OZ1Kw89WfOJGJWhR7hmk_WAk3bwfk45ni3u9LjPUzv9WzIsQBEV-W0L2O-Q5ZB-GAvQvAR_OgvL4lxEZmjhLPM7mAVy50nWyBcn_zKCEaMn-7jSnz0M2XgIPadL1aGLD2R0gcAZv5KBsENXl18NDU0Fi_-4soTGXfvO4grz1n-DXk1ry7dOBeARhLIVL1uspplYQu-pshLQlXs5f614K66tqil5kVHRAeuTgrGDMvF12p5RvQoOAaUKYJWaUqAi-mCKUXHyxlNL6XzLsg_syJ2LE5cEsGChjLzeA3H-QAGgwSS3YhFfbwobp1eiYiHGFkc2FwaXNjLWJpZ3F1ZXJ5LXBhZ2luYXRpb24qDTE3NzU2OTU4NDM4NDg%3D&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Sephora::bg": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T10:51:57.132Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Sephora::dk": {
       "status": "rate_limited",
@@ -8531,15 +8446,13 @@
     "Sephora::lu": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T10:52:05.448Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Sephora::hr": {
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T13:30:52.927Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES-AYqOKTQNOucb6282N75cnnbxhhVR_DfdrNO-z-QiUlXyqrshS1kbabfJZEYsO994Ellp5hTNT8X0XjF8Pi7ShFCc1xEhdcUc6AINR_fMml1xfs8aa631pQJGiPfi8ZzJXYrWxd44DJ3IiOxdrFfiFfioHb6Cv4Kov2hZELZl6qYmkuzF29MPVgxrJ7600-Sc0YO8YZ1Bzbt8I3InqZK__dqxSC4bfaR_m3xaQ6A5ZpDFQwMoE1exdDj-YCx7zgg67tQHLpItK_tnqMYvedEyMcWaXbnxaCr79tmNsD4NTaQi3ASM2baHIJNGi2QwcgR9hpazSxKy3cPQ3-sD0HOXx04TddCmKT2VyD3ZzhO95P6psVW0wfvJQ5hMjyPKe2w2yd-gsY3sIFpzxc0fHsUuB1WpCLWNP1qI43gdTWB9vGNeNDdSiF8G49xsuI3mZnUsD9zTOVh_U8ojeRtPZzLt2wkyouG4k7fNAF160ssubch0o6PIKlAkPEv8ue-tWnWXP1cJCRkS48tehi-HKGuYx_fw5KYrZN2nO4IvRuEgOppl4JCuX2O70DA-a0WmdD4twWBC_-dlgJYUTAQwMYMUWhl4NuL0fPP-wOH-H8RWc0ir5HlqqiPXZc4OCn-TK7F1K-r5kbawARgyYCxOMRQOgsX2cY2kPtDrIAsK1CzClWEszEO7BMMC9zPgfA7fYg5pviOAoaSL2zg2_nwQPMCmXxIc4uoXfBYAMIRI0orrvuitHPb6Si2myD3TYK2BetdPRc4ZLLcIwFV4VE6Hf9MYoA5L7zDm-K1_cYn33BpGDrr6NEFi2toDGj9jXTLfgMlnm4GlVgby2FPGUeNnaZaeTJ0YBAFRNV7HF9FxFWnHIOu8OTkyfhAAlQ5xhkzJvwq8tcsMC2I0_BMnXLn0PCTSPDC8PhN2yYCTX_ta-i8JhlmZNRfUDrXCB9uow-9ZWa5fxtA6qUG3ho5gPGMopQDuSbbN_0Xa9FK2Aze7pHdrJGWXG1FTBlK0jtOcMCA3dDZ9dD887_LSB5yy0No7X6bSBxujer05dU-qRE75BlFi45xTyCTOqxwqnBiSEaJM0QEd8Ns8XiMcCt5k1a-Kivg0CezP2xXKiDObtn15CkgBQ1D3cIV3NPdyQEZI3GTfHWmYaAjGHME1MWxEih2nDQKcOO2gai-Iq75SaQaDJnah-bYoSlYPCkbnSIcYWRzYXBpc2MtYmlncXVlcnktcGFnaW5hdGlvbioNMTc3NTY5NTg0Mzg0OA%3D%3D&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Sephora::lv": {
       "status": "no_ads",
@@ -8603,8 +8516,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T13:31:03.289Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES7gamnLL9vmSY5poDA3N42-Cd-pdei86-Oy2-Nfg07cJH5DMEu_Xnc4jbTR83f5ji_qt865V2OCPMsy0ltRevwrXRBGOm0lB4Bmsxk8-tHfm1_pZgfzDbsHu6JtuJiz2xpCI3OUIzDEnyxi7q0B585Sw8z3ybbdhelF6G_RqzFP-aShKeiljY0M-QNPWsvNRZWd1Ihu6hZVks70jxqt7PR5MXfKQg6Y8u18IWpzxp3e8uf6pbPAlW3pxh3JBgmfani51DL24MdhtqjED1tQP2OyZ9STeA2HFbVKGPKmKMwzldwxR0bNL4NzxLQzSr9mrBf8c2P-WHWRGMdi1YLoC-lTl_xN8T4N_Mnh_V-MesNCbjE5J6BGMI0XJOkBblHvRdigKRXHKv0XcVlbiEvK3zAcE3-wzsfW8OI2kN0mXZmf3Nw8u0EHE7sL4_qCI2JdhlJShProHvlT9ZYSldnHrTTWAU402aHq5pa8V0f5BkvKrQ-Ze4spg9WUewbTQw2aGScyxXn6PrZZAcUNyUaJF4MpdRdBhH-Ejy3amdsan8jjFCW0rHRt6JfQ45gWXpEuxDO02CtQ_zPDtmQSDnct03elOmH_aFMn-jXM9uhg5lb_R6KincMEi0NVI_IBh0KH49yx1dy0gCLlOPRE6aqje17INZseV97PSwKyHuEe2LPyPcCpFERMJPHiCmwcugLOcl4xjrb7uwUDZH-NYQGsmpqkWy-1G2nEXW5cYGbsng5tRAoDLSjZhsYAyfIAMyPmzbLdESUlG6oGfxjfEY1G6Tr3t1tCiZy8yUyfd0xubT4Ht091XoVo_uUYLIGpWlIiMscjQ610Ivl4ajptG4NY9GWZ-yviOxbEx5dKSvBi8p9KroNeLyPDJ0Zp-JwrEkY5iLWRtB_1cS7d2y6C0QTz-wZc3r17T-byyLtgDKdhdQKhDbum22SpuzbZE4zmdV9NmkDAA81sJbpdpT_lgoOHLe3nS5TWq0yb06gaScg8K35XiKuZoSz5NC9cTCTQFOuc02PxieWZHbC6YKZrNc9SvoUbIubgU-vQozoMfszUlWyG_hY-L-bI1AmMRDDQfqFORLw7lJ2vrtHVz823iZHwjT7VKoO1-EnoZgVHvANuFJnwVGMpBvZrMcIF6ykMizaeHZ2_L2NuDa31Xa7xD51l-LXxoMBzZWeVH_YGYQMDYcIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Sephora::cy": {
       "status": "rate_limited",
@@ -8625,8 +8537,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T13:31:13.231Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES8waeqYVlJ22xbg1juhgiYuKJj79KekJUmroLs2OO4eBdPtlNzQ0VHZku9s06Ctz_wZlaz1x-QSOlvJq7sfTjNzc6nYBDJROuBLzN3oHIXnmm5815Ozqqn5I7_qJgGxrTl1akFcXaWVQ4L5SOkN5gaGO2QhMHpO_KlBqW2GoVXB5ke7PK1q-WY9Lz0W2IpXluPr-2xtkxarrWlAaQXTkaVjW9TX01BGrXz749r_BavDTxe6yswoIEjAIadtJQbPUronA31XuVJaWV3Yf_1C4qhD8ft24qT3FCRm_ADEOriSUkzZOd3Vj_NHqdUPM-e4iKdfCLeyOJiH0Vu7yhe1mZLH_j8eGEa1VHDtsjQHyfUso8HSEJvvXThbOlbCFHRF595-UPEvXYh1oSPoItN1ACDiXSWpwszU-ShZ3aVpeVJ3ObCf92rUYIGEKm_EwnuEGIkmORGlbGpQAq0IAr5sZStfC-3vrhJhY9o2NddNOIwid5BgeteMSHNtLhWD8OK-n26A-3_LPdcyd9QEOwngWhyBrSbuQkgqEEY2g80Q0tJc3CLpWYu8aj8keGw7esANV50Dz28GvY84k3Xz2BS7mtTdN_7gijHoksm1Ty45hmyWoHB7ieZYPXw_CFLPZ0nUvS8D97sBIyWq5g6mnj6koAir2vLKdrxPO2HajyOS0-QWW76wQcozimdmmv5QLsSJScuAr9GI1U18Hu_upDSuzCUKC-UO8AKnLZsYiWCI3rV7vy4DSOsn-crCCH5iypMxrZ6YK7KvQ7lFWaIJO_mLe7SGeJeM53bsu8RS8rC-xNIy-v-M1TG6xw8wLahIF-lOXpRDP9Cy67weetjHHOtRIXUlpaEHjH0PY_F6z44OydY8UFoURlMylao6BdC0xcai9PshD6SwCCmA5PM4mNbwB47luLzsfF3hgw0Lik6Ubz6KTf3-bGOLZP14NPfvtOL0Ojost0IN3AzHVISoBLxp1NjpXRhWZse-sbd-baCr8yN8tArYyEUIA1y0Gn44s6rgLDz5TV9DcyhUOEUS6cglK4PmmKGUsXf4WcroZB12h4RmKBeRQ7GTQSfTKEGQ69dbGrf53vmVniCIliiXo9zTXvtpn2pFNxVMwqRk-4UjZ4JAFu8H9RZ6mgf1oPnO0Oj7c3WGKPqCXuCHNbU7No-DFr06qP7IC4GgwgAJZbDnHM-l7n9yMiHGFkc2FwaXNjLWJpZ3F1ZXJ5LXBhZ2luYXRpb24qDTE3NzU2OTU4NDM4NDg%3D&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Sephora::nl": {
       "status": "rate_limited",
@@ -9170,9 +9081,8 @@
       "error": "E1009"
     },
     "Esprit::se": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Esprit::si": {
       "status": "no_ads",
@@ -9474,9 +9384,8 @@
       "ads_count": 0
     },
     "Alexander McQueen::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Alexander McQueen::fi": {
       "status": "rate_limited",
@@ -9528,9 +9437,8 @@
       "ads_count": 0
     },
     "Alexander McQueen::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Alexander McQueen::sk": {
       "status": "rate_limited",
@@ -9747,9 +9655,8 @@
       "ads_count": 0
     },
     "Kiehl's::bg": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kiehl's::dk": {
       "status": "no_ads",
@@ -9764,9 +9671,8 @@
       "ads_count": 0
     },
     "Kiehl's::hr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kiehl's::lv": {
       "status": "rate_limited",
@@ -10495,9 +10401,8 @@
       "ads_count": 0
     },
     "Rare Beauty::ee": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Rare Beauty::el": {
       "status": "rate_limited",
@@ -10529,9 +10434,8 @@
       "ads_count": 0
     },
     "Rare Beauty::pl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Rare Beauty::ro": {
       "status": "rate_limited",
@@ -10901,9 +10805,8 @@
       "ads_count": 0
     },
     "Hoka::bg": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Hoka::dk": {
       "status": "rate_limited",
@@ -10916,9 +10819,8 @@
       "error": "E1009"
     },
     "Hoka::lu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Hoka::hr": {
       "status": "rate_limited",
@@ -11397,9 +11299,9 @@
       "error": "E1009"
     },
     "Lookfantastic::be": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 0,
-      "error": "E1009"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Lookfantastic::fi": {
       "status": "no_ads",
@@ -11415,9 +11317,8 @@
       "ads_count": 0
     },
     "Lookfantastic::dk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Lookfantastic::lt": {
       "status": "no_ads",
@@ -11492,9 +11393,8 @@
       "ads_count": 0
     },
     "Lookfantastic::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Lookfantastic::cz": {
       "status": "no_ads",
@@ -11506,9 +11406,8 @@
       "error": "E1009"
     },
     "Lookfantastic::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Lookfantastic::nl": {
       "status": "no_ads",
@@ -11527,9 +11426,8 @@
       "ads_count": 0
     },
     "Under Armour::bg": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Under Armour::dk": {
       "status": "no_ads",
@@ -11545,9 +11443,8 @@
       "ads_count": 0
     },
     "Under Armour::hr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Under Armour::lv": {
       "status": "no_ads",
@@ -11588,14 +11485,12 @@
       "ads_count": 0
     },
     "Under Armour::el": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Under Armour::mt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Under Armour::it": {
       "status": "no_ads",
@@ -11605,8 +11500,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T14:32:05.852Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9wYWU_1DnU0KbcbOysnaOg_Jc2wHM03F88tHdHNQHsJ9iDscaqmD4ePc487hjfku1a-L2sJnR9PbL2p6T9LUasRuKLcGBKCKv4f7ADeFabAy-a6Xa6_Msg2pyo3d3LFJP8BQY0c1cYDPCo7lt-rS-d-q-ye2rffpzl7qV9_iQrcHTwOhyTojg6BRJvlZPIo9Wgemo7HAhpSj87Tn_7e2SsRWxZCzNmUsQFePyn4XDz2avNpN8SP52m2hXcRdRttjDI59_A5Bqgc-jTZ2d5LULMQoa59rea3CDfl85shHMSy1m4etpUG16b6yd4GMjIxyeOa_gktB9GD6cvFV2xH_SI_msUOEFxaDNFLa1jeDUiCZyO5psCvnJw3Oo3Mcf2gVHIXt5OkcFMioUAbOIJ1mg6jjJ5Ww45GXnolLU-oLc5kXsJR-85khE7MQ8j3psA_fjZKOE8hHjEYoZYGSimqWtDVOpC7hxKdRfm8R-ZKa7-rdbI6SHXJYaALOTs3scRdTwETd3f5MD13vI0jhgARI1GDYY5NDgBNr9X87dkXDkM2KvC7yOgh-TXo1r3BR4jsMkeTWpyv-eEo5bDvqIaAIec2x0ZVutVwqeBvhdc2YgfjKTKTKOEt0RrT5vJ7HF8pw4DQpCfLcodALkCUqlAV_sqbEq-t8Dfg4Wf6f3UBJe34-um37Se-AiTnNS2hNW8zSMNECIl53XK3TVoRFN0u54b5nDWdwoYx3ceFlbLe4ZmgDlesc-ehTqnatqfioVeWTkeMazEkKLMLLR_FOja4I3lGXqeYthHa5GSh8_cHngnfQIzFB3_4sTZL5ZCNWNmi8e4fSQlF0T6RGAlpSnGv8Ts1qpvfmJ3aSq6juURZlcHz66StmJkCydfe6G2-k9wzMIKaUuvKvynO_g7ANKg9aCrWiq_YR_lcMGmFpveWxyI5BiDiz8Jtz1AVLigFrr2RfSldfp5dQBsDgAWbpwmJAVZTbaSQCLVjYm2LXE2Ra0DGrkJUmLeaf9nF0KQbbPH0LvdSuxvpiOU12y49LS1hdCVntXtPOU03KQgkeQXdjXZYXPLicOpySywhw7R5zd9WuLZ_pE8nInuRYpQRehNHawaANo6GBSkWznhDB2jyDGJCsg2pQOr5euBlx_TYAsY26zYm0cHZ1D5iTHL4Y5yDKhfasDM8oIxe-ORoMhFKD44xQjCiqcJo7IhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Under Armour::at": {
       "status": "no_ads",
@@ -11635,8 +11529,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T14:32:15.827Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES7AYs7qyyyuXTK9ew0DSD-k8tIJTouu1xICBnDMNX532PLRBG44VyMTUUyJ5ZuFrBrtOrzcS1kfaV9YKdaM_LkHbzVaW7ZZPjARLxU2T8Tfy2_lIc3TQtzeJZp0luBxY-r_xM3uq7l2g3OBX1-YuOGyRi3fnVT7H4brTW3LxbsPl0ZG4gDtfvGjgy6K7CwfiExridJTn0EqStHqJxBdjbp3J5-9WbKeui3_GmvaZnaKhfIjzvLeua97KC_QLZaNorA7JsQhlC8-QzFOZGQmnV7ciWc0f8CAqa-xDwIkftEDOrPhPHoPLiGPdWrhanGsLmUljg9pjHAD9LyHdRCbIF3oaBeawSLDoBrz9EMblYHvj_JXact_hu9GAiLAUy5ZB2_5jeK4lWCsa_Zfutj8sFha1PRi9bB3jCni0cZ-AZMEt0vz154UoHN81mrDjAAm030CI9R-8MvzA_WJfH-nVqSd-GaN-dKQsFes2JGTmhRSjC_n97DV4P2gFasSqHcFM4Y-Yit98wrEWVOwgfU8ta9gSTD469B4gZ2uNjbploRjJfSxgTXcr3tDsDJa-CkkSWpXgEeqN2BkJFwqY441IRRMTqAb3IxlKTKsYXifnPkV0wx9itqLqorvlCXPftKJ-gj1SeRbTbqZl7fbcXHXKCPjcR1Shq3kSUm_5ZHvTeisgB1E-LbeYKemx39d7pbZJrNGyZ_wgblNJfi6iZCIShgci05b46aYfB6jpjQ6L6y8xN8jYAlzMxL_HD5bmH3FcfFiYUWn4JLIOaIDYPLUxMj0nmjMuIBZ1jGC0ZEbM5RT5hA3ekbYFZnfetQ9BUtQ0bkBhVDiF07NsRXJHV6Jf5hbCkEH3ExG76R4TMn-dSumsB-6P5J84DCiBfgoz7YFTkCrffbCiuTKezMmJNrS_M6_9tBeIF9DXfhoP__Dcna_yecomXCgXD22lVgcoP31ZFgndQ6Da1qazlTYWb-GIsFcgHBJQs_V7og_Oz8CoF9Q-itnfhGYWhDao3AOVUgmhgMf-KVz75POkR54ALrWqZAoz-fDWsBXzthvFbul6Bq-GwfdDtNQrjbAGlWc4sUkaGUnUsWo6CiZlO9Q3fdkwiH8hXQRHTv-k6-pv-GJH5BD-D4ujFz4jgemQBdnG2aMRcnklSn3bKVZAzeWvtEusaDP8movTYF_MruevijiIcYWRzYXBpc2MtYmlncXVlcnktcGFnaW5hdGlvbioNMTc3NTY5NTg0Mzg0OA%3D%3D&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Salomon::be": {
       "status": "rate_limited",
@@ -12465,9 +12358,8 @@
       "error": "E1009"
     },
     "Rolex::at": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Rolex::cy": {
       "status": "no_ads",
@@ -12577,9 +12469,8 @@
       "error": "E1009"
     },
     "Moncler::it": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Moncler::es": {
       "status": "rate_limited",
@@ -12734,9 +12625,8 @@
       "error": "E1009"
     },
     "Calzedonia::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Calzedonia::fi": {
       "status": "rate_limited",
@@ -12776,9 +12666,8 @@
       "ads_count": 0
     },
     "Calzedonia::fr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Calzedonia::hu": {
       "status": "rate_limited",
@@ -12789,8 +12678,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T14:01:41.454Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9wYp-PvITWeA8EOefqVLvBa7t5JAPx7SX3k8vovxGbkSDLVECZ-RUaxBqdQ7QtkBtVZgugLaZSzwrU7T4jkeOgh9LcqaWbuiq2TwzkPZTsYdqdds20FPdol0v0j4wK5zlDmqFyw7E4xEOZiSpbo6ofrWmh8aWMVPVqTyUbdUgt1fZ3v1Ca-RvCJ1cchw8I1X6gVg_3h4FVnJ7nJ4Z8evGSkdDWTrMpubKJ5MJbPDdS4akfJ8RuRP3WN2NdwKCjJBE_1_17EBxdbh8USU3kZ--5Db6OezCLUC9U4NI9S9yLCc8mri-AF9NhGszwV_nNIRem1JRkh2BvNo6FlcbyIzJ-HpbNX-EdS2FHeP4MD0be6bnqvxloYYRNESM_vvjfZR0SLq72VPMINrmLylWRQMZhMj-km1eyr3EUQZxl1sVHuDsRaeWvKWilC2hR1ygKgYs1V_gEJn5V9QPk-cJqWByrnNi-W0py94lbXb6SYctd05Is9yR1qhqsQ5gBFiA1MWifmuyyUN_m5zAO2UbDTlvrFdpju1h38wq-heXPrVNOU1wDbL_qUSAVOWAA7g0FKVHnjTPy4OtBJX3VI4Bixq88IngR2FvYlmFSZWe6OlXG_zKCEmFk-2VCTvdUZfmIpIr7heavmbFNaqTN8KxZrpM0-hO2x_AjZQBfVWsHwUiSsAcnOHuC0ZYGK_0W_8F7Q0HJIRuH7ZAuS_sJZ9NdsyFrfqrDbaATESoI7xjT8jJUvLLkx4fTUWoKViKerq_wPTEmpDQsZrkekNo0HyqiBa_V4AnP3EV2lRO0GD6Y5r9gmI12TGTR6ySgCYXp1nK8hZVjnMEOIGOlk-btu_FEld2VjB2cENG5vjr1IjQ8B2gc-xKJKwaOAAcQb1om3M2kq80tIU98HsO88rZvC-pnL97ZxpIPGSNDO_OpG8kQUhRAEOUdA34V3nUKiWdxoMe18EWEQUhygY6WK_EmkriYHhq_WDJc-nTAE0Hd5xjgSyoWW0uhcvSE10oiLINRezYkteYOM8VMTgbSwFVnSqc4dH1Y6DgzdsquHpaevCwOmNHxIaGFq2IuMEIorUTD8V_i73LLun3F2q3AFZy14mzIU_0HORU11IarXYJJSVNpH_Pm_pXb7cAHLm_kkI30nLxXyB34jeIFTaAZ9Jw_pJY9kLE3CehJUQsuemkhoMLTonqQJy4NhnomEtIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Calzedonia::si": {
       "status": "no_ads",
@@ -12988,9 +12876,8 @@
       "error": "E1009"
     },
     "Galeries Lafayette::bg": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Galeries Lafayette::dk": {
       "status": "rate_limited",
@@ -13049,14 +12936,12 @@
       "error": "E1009"
     },
     "Galeries Lafayette::el": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Galeries Lafayette::mt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Galeries Lafayette::it": {
       "status": "rate_limited",
@@ -13445,9 +13330,8 @@
       "ads_count": 0
     },
     "Reserved::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Reserved::nl": {
       "status": "rate_limited",
@@ -14114,9 +13998,8 @@
       "error": "E1009"
     },
     "La Prairie::hr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "La Prairie::lv": {
       "status": "rate_limited",
@@ -14187,9 +14070,8 @@
       "error": "E1009"
     },
     "La Prairie::cz": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "La Prairie::pl": {
       "status": "rate_limited",
@@ -14201,9 +14083,8 @@
       "ads_count": 0
     },
     "La Prairie::nl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Braun::be": {
       "status": "no_ads",
@@ -14798,9 +14679,8 @@
       "error": "E1009"
     },
     "Tiffany::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Tiffany::fi": {
       "status": "no_ads",
@@ -14817,9 +14697,8 @@
       "error": "E1009"
     },
     "Tiffany::dk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Tiffany::lt": {
       "status": "rate_limited",
@@ -14842,8 +14721,7 @@
     "Tiffany::fr": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T11:12:52.241Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Tiffany::hu": {
       "status": "rate_limited",
@@ -14855,9 +14733,8 @@
       "ads_count": 0
     },
     "Tiffany::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Tiffany::sk": {
       "status": "rate_limited",
@@ -14865,9 +14742,8 @@
       "error": "E1009"
     },
     "Tiffany::ie": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Tiffany::ee": {
       "status": "rate_limited",
@@ -14890,9 +14766,9 @@
       "fetched_at": "2026-04-09T11:13:02.023Z"
     },
     "Tiffany::es": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-09T16:05:15.519Z"
     },
     "Tiffany::at": {
       "status": "no_ads",
@@ -14909,9 +14785,8 @@
       "error": "E1009"
     },
     "Tiffany::pl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Tiffany::ro": {
       "status": "rate_limited",
@@ -14927,9 +14802,9 @@
       "ads_count": 0
     },
     "Arc'teryx::fi": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 0,
-      "error": "E1009"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Arc'teryx::pt": {
       "status": "rate_limited",
@@ -14961,9 +14836,9 @@
       "error": "E1009"
     },
     "Arc'teryx::lv": {
-      "status": "error",
+      "status": "rate_limited",
       "ads_count": 0,
-      "error": "NETWORK: RequestError: Session closed without receiving a SETTINGS frame"
+      "error": "E1009"
     },
     "Arc'teryx::fr": {
       "status": "rate_limited",
@@ -14971,9 +14846,8 @@
       "error": "E1009"
     },
     "Arc'teryx::hu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Arc'teryx::se": {
       "status": "rate_limited",
@@ -14991,9 +14865,8 @@
       "error": "E1009"
     },
     "Arc'teryx::ie": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Arc'teryx::ee": {
       "status": "rate_limited",
@@ -15006,9 +14879,8 @@
       "error": "E1009"
     },
     "Arc'teryx::mt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Arc'teryx::it": {
       "status": "rate_limited",
@@ -15211,8 +15083,10 @@
     },
     "Dyson::fr": {
       "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "ads_count": 10,
+      "fetched_at": "2026-04-09T16:13:02.827Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9Abg8_OdR8oVreGeKug4k_ZQZ-5mrNGfBIM35FiVkZWzufExhODJFBJMKh_T68tFf7TzjBDH1kQgeIDn_RPH3Dd8lXODBXHibvHhSUZEGpeYvmhsswqRzr2Yi8d8PbQSBda3lwCbWbW2aoF4rP6YGljf7zaufY3dKCCljMYIUhAyFy_SPcbaxl5WJPyUFvaDE8UgrBhPuLJTP-vvowoTeeh3mM1R00_8pTfD3qr9y1a6P41am9VJsLZUXWRvtdpc1u1_QQUoT_edvQytEAVWQ4J5mDHRkNTpsHnX5OCa0-qB5dQoEm1KSrzcNxBp5wtGyWFRWfI-Faccci4e_guPkJsZm0VNtPv6uJSxjzF0Q8OYc6i8CFhD4xffhtkFiEsUAInm00vommQhB4mKXKT86paVFSSkwTZ8UfdjDZUx5rzaeoR3Tqp_Bq02usnVPtME8gnI3ihCFVnPoRjx2ZEvErqOG46hfKZGI4V6ysqHMfKYhktyeQjHhLVd2BFuT5usTxL1sEifAkLCOXDPmSHybVNNeiCrJusf9SmMHpvOoajqhrPsvys87BELmiMB0HIuVPNH0Nl9caS9BtmrLkMvSrfIdM9OUv3zsXQpJfGi8vbiGfP3xvMDDFBjqVp3Ob2apTBfJqDmRAp8NSq36oUqqkuub7cUkoRlWK9cy8wlAGHfe_nG0jj5IBGSqw6exAScWJtt2SsCK2aIjK_Z9nugjHcpQacCYMo7g78P5GhdN76wZZZcdOvYDSZsMuxZrvHUqDKUIeofhNWmBHsKxsfmxc95T8mRDJlLOpt4BoI3hibvlW64fMJWiznKMQfix53MbMdqlkzQAWHCwCNJLAsLoMbb5bMfHTmvsh-wfh8j5v1uMi1BTRTQIKJLKUc5kgYpdVc4NzjY9YHqJlSrUjGJn1oi1mdbmgT0JbyAxj9Apl7p3PCoChptY3z3z1juQn5iFyl4toXh58tYSNL8WnUE7VECpj5iEpWm-WULswi0Fe4H_mKllE-Mn1nSfd-up6hnen3MxIKQmceBD7Xee7ku3V8eTkD_cXrauuqlbsn79DLKtQxrwDDys0CQLzIA3-FXz0vb2tnaYIMXbgFuNiPyDo_3Xx6x4Wm0jEgzrMHTxEA763MW-ktRYFzAnjt9XFz2NEyq5P3bf14WDiT6Lggm0TCysyzEvhoMnxJbcicXJMAKWHUiIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
+      "error": "PARTIAL"
     },
     "Dyson::hu": {
       "status": "no_ads",
@@ -15251,9 +15125,8 @@
       "ads_count": 0
     },
     "Dyson::it": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Dyson::es": {
       "status": "rate_limited",
@@ -15266,9 +15139,8 @@
       "error": "E1009"
     },
     "Dyson::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Dyson::cz": {
       "status": "rate_limited",
@@ -15465,9 +15337,8 @@
       "error": "E1009"
     },
     "Avene::hu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Avene::se": {
       "status": "no_ads",
@@ -15478,9 +15349,8 @@
       "ads_count": 0
     },
     "Avene::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Avene::ie": {
       "status": "no_ads",
@@ -15501,9 +15371,8 @@
       "error": "E1009"
     },
     "Avene::it": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Avene::es": {
       "status": "rate_limited",
@@ -15528,14 +15397,12 @@
       "error": "E1009"
     },
     "Avene::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Avene::nl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Ray-Ban::be": {
       "status": "rate_limited",
@@ -15629,9 +15496,8 @@
       "error": "E1009"
     },
     "Ray-Ban::es": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Ray-Ban::at": {
       "status": "rate_limited",
@@ -15996,9 +15862,8 @@
       "error": "E1009"
     },
     "Hugo Boss Parfums::es": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Hugo Boss Parfums::at": {
       "status": "rate_limited",
@@ -16019,9 +15884,9 @@
       "ads_count": 0
     },
     "Hugo Boss Parfums::ro": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 0,
-      "error": "E1009"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Hugo Boss Parfums::nl": {
       "status": "rate_limited",
@@ -16330,14 +16195,12 @@
       "error": "E1009"
     },
     "Fred Perry::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Fred Perry::ie": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Fred Perry::ee": {
       "status": "rate_limited",
@@ -16392,9 +16255,9 @@
       "ads_count": 0
     },
     "Valentino::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-09T16:19:15.064Z"
     },
     "Valentino::fi": {
       "status": "rate_limited",
@@ -16416,14 +16279,12 @@
       "error": "E1009"
     },
     "Valentino::lt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Valentino::lu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Valentino::hr": {
       "status": "rate_limited",
@@ -16435,14 +16296,13 @@
       "ads_count": 0
     },
     "Valentino::fr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 9,
+      "fetched_at": "2026-04-09T16:19:42.143Z"
     },
     "Valentino::hu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Valentino::se": {
       "status": "no_ads",
@@ -16463,9 +16323,8 @@
       "error": "E1009"
     },
     "Valentino::ee": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Valentino::el": {
       "status": "rate_limited",
@@ -17610,9 +17469,8 @@
       "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Dolce & Gabbana::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Dolce & Gabbana::fi": {
       "status": "no_ads",
@@ -17623,19 +17481,16 @@
       "ads_count": 0
     },
     "Dolce & Gabbana::bg": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Dolce & Gabbana::dk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Dolce & Gabbana::lt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Dolce & Gabbana::lu": {
       "status": "rate_limited",
@@ -17704,9 +17559,8 @@
       "ads_count": 0
     },
     "Dolce & Gabbana::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Dolce & Gabbana::cz": {
       "status": "rate_limited",
@@ -17981,9 +17835,8 @@
       "ads_count": 0
     },
     "Guess::dk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Guess::lt": {
       "status": "rate_limited",
@@ -17995,9 +17848,8 @@
       "ads_count": 0
     },
     "Guess::hr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Guess::lv": {
       "status": "no_ads",
@@ -18031,9 +17883,8 @@
       "ads_count": 0
     },
     "Guess::ee": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Guess::el": {
       "status": "rate_limited",
@@ -18086,9 +17937,8 @@
       "error": "E1009"
     },
     "Louis Vuitton::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Louis Vuitton::fi": {
       "status": "rate_limited",
@@ -18130,8 +17980,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T13:17:37.252Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9Aa-jqCgWWvH_LOLUU5dH0lNTYh42JJ4UQWHCLXJrtWSUJbZc8mr4mFho-KplL8WqsRiPAt7R8Un-4G8uRtKPwEovNAZQpCujKCzp2dZMYSqlxggZkhCVdNYSYSzdC-N0fZW2tNgusKE-_VYOnNR1WvRH_RB1JfrpWUXDumPHESncogx3GNmy3ytv79dzFSrlnxOVI9X2Qr2vYpL97pj13Tj_LrgYVUmWgxuQTLpDVNa4WbcMseC8GjPkHp61e41sC__-KAGLmTRVNInX5p8doC20thWIyNJnThceetVhMLZ7_8n8Nx8VsAv1DJ717CFxeZWsVHayEcfYc1aE-44JH1_I1zMaRt2V7iuz-u48stcXcHUqyfbH4q72acBxby3xSJTp5NvCWp46CzyINZMzJ95piE66iNacHyoqjxiQw54WjA7ZE-SFgIo_Y3bKFv1We4Bq_2M2DEIm_rki7RXprinjWyAnieojDvvjTMj39JmvHnwrOho41QdTPZOM_VOshX75ipYrv3liGQ6N3Izz1uIC3MpPLr4g4ludjvjc2TTEj74RuiZQNNseOrfJyFpk0dmKl0trKTPP6jXRgG2d8IGCHGDxl6SHMg0qoEw330a1j9IpaFOxj7dz08OF80mA-bmTd67Yaa4Nr-IZ_9i_Jj7W2A9V3YKaCKBDOn4ILEEoXRXOVH2Dt3VGtfANKtTUifJWGVG3v0D8nuwoxVLvjWuuVYytdvOX2eO7LOOjh95keOPLXlMbaRyBmds2h10S8e4vhbsLqAJjoBWcym5fpnZ7v-Y1MjwzEgJNWS-DZBURvJ56MCd8xzSEviEFjS2JHVi4ntUe-CKlV1sjEsex_3uonHHNNNaYs9B47D6fm65Mvv4fNSxc8n04jwAspyEHbQWLpdsXTVpr-kjLdJXFovUV96h0UxL4I7ZqtCnzwjiDD3KGktx3W9gJCNcZFx3hb9j06j2bkuUUGI8ewIWU8ukhfrktrVDPWiVP8Z-ud6iO9Ff0Fpwx3kUKXCfqtE8QOZjt3fGlKBRFPJSv6KdZv2W3Cwu09gTrAQwx1hr3MEAOat_naWnef6DAaOB6-Zy8g4CB6i9EYbRPyuuuJ4AiRqoZicw6kRW0r-haFn7eBNJGXYBgKufQbaonyLkPGR5EtYr06HcPl8Wi6aogX6Fm6nGWpaKpRoMeIaz2OL4TkdBGmh3IhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Louis Vuitton::hu": {
       "status": "rate_limited",
@@ -18603,9 +18452,8 @@
       "ads_count": 0
     },
     "Kiehls::fr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kiehls::hu": {
       "status": "rate_limited",
@@ -18618,9 +18466,8 @@
       "error": "E1009"
     },
     "Kiehls::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kiehls::sk": {
       "status": "rate_limited",
@@ -18672,9 +18519,8 @@
       "ads_count": 0
     },
     "Kiehls::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kiehls::nl": {
       "status": "rate_limited",
@@ -18682,9 +18528,8 @@
       "error": "E1009"
     },
     "Temu::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Temu::fi": {
       "status": "rate_limited",
@@ -18716,18 +18561,17 @@
       "error": "E1009"
     },
     "Temu::hr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Temu::lv": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Temu::fr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-09T15:54:45.450Z"
     },
     "Temu::hu": {
       "status": "no_ads",
@@ -19007,9 +18851,8 @@
       "error": "E1009"
     },
     "Columbia::el": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Columbia::mt": {
       "status": "rate_limited",
@@ -19031,9 +18874,8 @@
       "error": "E1009"
     },
     "Columbia::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Columbia::cz": {
       "status": "rate_limited",
@@ -19147,8 +18989,9 @@
     "Tommy Hilfiger::es": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T11:50:03.844Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "fetched_at": "2026-04-09T15:57:48.069Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9gZWPHSSSAW1YbSK89IlCjHEAImiHUvBCIWDcO32M8dh4xZigq6COtVq1xOK1EUtHWTnS2CMJjNhyfK2gwYJJs5fULLHI40HP48S8Jb-UYctUevbUw8pPBM_3cmOSJvQU41Daq7paTTDYq9AA6ZZP2ehPxFo_2y6KSnJw-wO-Pl0fgTp1LZ3l0sXbBaKhRvEb4ggIheQP7EsQcfMld_gsjtfs4o-0l7yWQufpBL4UXAK1eb-kZGLwzA6ykdKB_jTojuTBwSX8nXSzc3uzdmt5MPpLNj-09msEUn6wN_SWsMmw9gGfgRbCeISlHMsvmxaX1bQ8fVkJYuWgrJW6nsRFzpg7yl-mh9-CAS7SZKeVOXJo0G6u2SHdei30Xr5VZStzWfcveNMg1tLKtfXLi782zfmbJGgNKJoB1P50WgPX8AvyeVw4vyDTz9zBwI7aNpo-Qp3GzayZbo_nlFT1QU-JcGBJS_0dcagGZc3mPAiUcrOEkfTLmon0u3Jtk8Hs6p7EXIf8-zAlE-0TSNGCfIJmsf0oEs22ifCc_U3uFhcDW4qRm1ak1tYUTtEu2P-aUhQsyfSLLqoxDEwSFP9Qg4ZMPzvHAqcfOlI8Zl0yC6Fw0CxLSyKyomUVzj_KCARwZgJpVSc30ZpFzRBfuRgah08vHLD59HbK9K-u60oI8M3cZgguvF2jjz6pqQUTOS5Sk14yEegkSzgliieHV1VbOrFHhJzSLJ4yCukSsXj8nH5RbxfBrVX5D-QsE2yJ_ghXZtROJUDbDyeAzLHX9E5ijK_4CAKQ-o0TrTR-ozhrRuckbPw_sK1wGtlXhFydZRjDgzsh8CFscI8aeVjNk7EVuv3zOIT1KemM_Uy1hcdpYVGWY9RtAqEx_hmEUBTg9lv_LEGRoijlBxyRvhQQVbYVNI6PzqWWAeDs3PpdKG44WLi_FqWaf7nVC4-nlf9JDq17XhZSlRiPH9hyOGZ7fOOAWSPaq-MjtJeSCyoocRrr2GrEsNPSRYioG7PPq3YEBpYCNRS7AS_Ecwz2NWVm7nkPytSTaulrhq1yz2VMVp3_OBN1a5yy_g3sfpN6dIF4e7vpEE3rKC8Wv1ckdPHligc6z2ysbzbclamG5OmW7iTQmEnxOQd84em59vD2fGWez-fBv2b2rYyPVPcQFT3PKmYrI9K8LHWcM3V7_oqGgx7gxOeKMLUVm4eH1wiHGFkc2FwaXNjLWJpZ3F1ZXJ5LXBhZ2luYXRpb24qDTE3NzU2OTU4NDM4NDg%3D&limit=50",
+      "error": "PARTIAL"
     },
     "Tommy Hilfiger::at": {
       "status": "rate_limited",
@@ -19176,9 +19019,8 @@
       "error": "E1009"
     },
     "Tommy Hilfiger::nl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Jack Wolfskin::be": {
       "status": "rate_limited",
@@ -19540,9 +19382,9 @@
       "ads_count": 0
     },
     "Prada::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-09T16:11:14.665Z"
     },
     "Prada::fi": {
       "status": "rate_limited",
@@ -19585,8 +19427,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-09T13:39:45.279Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9wZhJBVeeNw_veSX5Efh6V4PoBGAEgsEm_1F5VZAm0DtxliuViIUL5TUGay2_ggKtWPcHcT-2SPQMzyYnSQ8CFcrNCWnLRo7TBvdfjBkB5j42u4Zx_uLxoCOcVCj3BWkUpCwS0xFzMYkG1kPWfBsH2E8lSAJp-uiA5YJNVx2LtUUAKnnmZeg1f_a9A3N6273eMto_soAziatj8F2OAh0IxA2vX7ouOhVV_IInAgQLjd7FeLg47S01kzhQYRjrZfY6uSik9zWgD48BXFj8FsWGJjnNZ7n7cA6g7w-Gq7oMSm8Y_Ya0GNNGqJwryQmQs7Q974UDdKHTrHk8QegIogLhz1vga39YulxBqq0udf3ouf5OTi2mwslXga0TmEHPTjPWE_3kzA8f6pYVd6peHh0zHk9C8QH4XFhLKF6W-OctS97Yj1_2MYYPtoYWfEkFAKpq5Y3zg4sYMSDRHorWYf1xH3WCqMUqMF9M4h9OryHJL58oJlSa65ilAMDQUqdbJ0HrgoK_bI53w8Gtr9QwzhNh1pJV5QUDLfe5wcKQMPVKXdZxLsfFjNIaIxQDT-ZwZdnNHS2Dsl8ZZnTqbPLlnrbAra0MmD5ZQbNI_dwTQF6k4plVyfQ3iX4s0vayxw2tV_fdVZk0LvpHMaeryppCKk8KSxAohB9dy94f3CUefYGEQiFH6Z_AI161K1-lWKVqzrsO165GxdBUmDcs5QaOEM3nnCbtMoL5yXDMTQz4VHTMNDZxkzye-dKnNsN3fNmBOkAboXkPD6_qYS18nHQDSX8tjhUXgMTfz2MTGjcZ9PMjpjnt5GSrIZq0kk7REcV2N1cMj4WdXT0AI2ECPaksA67LsbZ7kZymJ50RTtCojF5kyE3xT8d6JyYPp6bbrwVJGpBr56Ddd3RrA3fL8qan7xJalVY2VUqB5CnczexwM6JBjRLbdNNROeF9ecc_K_dJeY7-7Js4iFQ1yQzqTY4qpb4VNjB40ke1wZO5R4uo-0hU2nsJyFOQlWIpYzKAXOkofDaPCwVfvICmvRxbwNrR_wV1XDHb0HLndqJwSANkQHZnxE2AIOcywvZbW0bm8VnDa9iPWKoBBvUi25hiRvWxLiRy1zUKcssNWl4-18Wxn7LI9ki9V-LEJli7iQA41YF5H9CwJza_1D7tvlQyhW0AJuduNxyjNH2iBD8AhoM_aDHsIiC5Ktl-Y-_IhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1Njk1ODQzODQ4&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Prada::hu": {
       "status": "rate_limited",
@@ -19645,9 +19486,8 @@
       "ads_count": 0
     },
     "Prada::cz": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Prada::pl": {
       "status": "no_ads",
@@ -19958,9 +19798,8 @@
       "error": "E1009"
     },
     "Calvin Klein::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Calvin Klein::sk": {
       "status": "no_ads",
@@ -19971,9 +19810,8 @@
       "ads_count": 0
     },
     "Calvin Klein::ee": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Calvin Klein::el": {
       "status": "rate_limited",
@@ -19986,9 +19824,8 @@
       "error": "E1009"
     },
     "Calvin Klein::it": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Calvin Klein::es": {
       "status": "rate_limited",
@@ -20164,28 +20001,24 @@
       "error": "E1009"
     },
     "Massimo Dutti::lt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Massimo Dutti::lu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Massimo Dutti::hr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Massimo Dutti::lv": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Massimo Dutti::fr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Massimo Dutti::hu": {
       "status": "no_ads",
@@ -20226,9 +20059,8 @@
       "error": "E1009"
     },
     "Massimo Dutti::it": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Massimo Dutti::es": {
       "status": "rate_limited",
@@ -20236,9 +20068,8 @@
       "error": "E1009"
     },
     "Massimo Dutti::at": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Massimo Dutti::cy": {
       "status": "rate_limited",
@@ -20251,9 +20082,8 @@
       "error": "E1009"
     },
     "Massimo Dutti::pl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Massimo Dutti::ro": {
       "status": "rate_limited",
@@ -20854,9 +20684,8 @@
       "error": "E1009"
     },
     "Schwarzkopf::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Schwarzkopf::fi": {
       "status": "rate_limited",
@@ -20912,9 +20741,8 @@
       "ads_count": 0
     },
     "Schwarzkopf::sk": {
-      "status": "error",
-      "ads_count": 0,
-      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Schwarzkopf::ie": {
       "status": "rate_limited",
@@ -20972,9 +20800,9 @@
       "error": "E1009"
     },
     "Givenchy::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 1,
+      "fetched_at": "2026-04-09T16:12:38.906Z"
     },
     "Givenchy::fi": {
       "status": "rate_limited",
@@ -20992,9 +20820,8 @@
       "error": "E1009"
     },
     "Givenchy::dk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Givenchy::lt": {
       "status": "rate_limited",
@@ -21046,9 +20873,8 @@
       "fetched_at": "2026-04-09T12:02:33.664Z"
     },
     "Givenchy::ee": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Givenchy::el": {
       "status": "rate_limited",
@@ -21110,9 +20936,8 @@
       "error": "E1009"
     },
     "Nivea::pt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Nivea::bg": {
       "status": "rate_limited",
@@ -21134,14 +20959,12 @@
       "error": "E1009"
     },
     "Nivea::hr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Nivea::lv": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Nivea::fr": {
       "status": "rate_limited",
@@ -21154,9 +20977,8 @@
       "error": "E1009"
     },
     "Nivea::se": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Nivea::si": {
       "status": "rate_limited",
@@ -21164,9 +20986,8 @@
       "error": "E1009"
     },
     "Nivea::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Nivea::ie": {
       "status": "rate_limited",
@@ -21321,9 +21142,8 @@
       "ads_count": 0
     },
     "Yves Saint Laurent Parfums::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Yves Saint Laurent Parfums::cz": {
       "status": "rate_limited",
@@ -21452,19 +21272,16 @@
       "error": "E1009"
     },
     "Burberry::pl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Burberry::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Burberry::nl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Glossier::be": {
       "status": "no_ads",
@@ -21612,14 +21429,12 @@
       "error": "E1009"
     },
     "Hoka::pl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Hoka::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Hoka::nl": {
       "status": "no_ads",
@@ -22010,13 +21825,11 @@
     "Kiabi::be": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T12:08:02.424Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Kiabi::fi": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kiabi::pt": {
       "status": "no_ads",
@@ -22109,9 +21922,8 @@
       "error": "E1009"
     },
     "Kiabi::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kiabi::cz": {
       "status": "rate_limited",
@@ -22124,9 +21936,8 @@
       "error": "E1009"
     },
     "Kiabi::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Kiabi::nl": {
       "status": "rate_limited",
@@ -22167,9 +21978,8 @@
       "error": "E1009"
     },
     "Stone Island::hr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Stone Island::lv": {
       "status": "rate_limited",
@@ -22194,9 +22004,8 @@
       "ads_count": 0
     },
     "Stone Island::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Stone Island::ie": {
       "status": "rate_limited",
@@ -22209,14 +22018,12 @@
       "error": "E1009"
     },
     "Stone Island::el": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Stone Island::mt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Stone Island::it": {
       "status": "no_ads",
@@ -22233,9 +22040,8 @@
       "error": "E1009"
     },
     "Stone Island::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Stone Island::cz": {
       "status": "rate_limited",
@@ -22492,9 +22298,8 @@
       "ads_count": 0
     },
     "Orsay::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Orsay::fi": {
       "status": "no_ads",
@@ -22515,9 +22320,8 @@
       "ads_count": 0
     },
     "Orsay::lt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Orsay::lu": {
       "status": "no_ads",
@@ -22566,9 +22370,8 @@
       "error": "E1009"
     },
     "Orsay::el": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Orsay::mt": {
       "status": "no_ads",
@@ -22580,9 +22383,8 @@
       "error": "E1009"
     },
     "Orsay::es": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Orsay::at": {
       "status": "rate_limited",
@@ -22590,24 +22392,22 @@
       "error": "E1009"
     },
     "Orsay::cy": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 0,
-      "error": "E1009"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Orsay::cz": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 0,
-      "error": "E1009"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Orsay::pl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Orsay::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Orsay::nl": {
       "status": "rate_limited",
@@ -22751,9 +22551,8 @@
       "error": "E1009"
     },
     "Cropp::dk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Cropp::lt": {
       "status": "rate_limited",
@@ -22761,9 +22560,8 @@
       "error": "E1009"
     },
     "Cropp::lu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Cropp::hr": {
       "status": "rate_limited",
@@ -22808,9 +22606,8 @@
       "error": "E1009"
     },
     "Cropp::el": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Cropp::mt": {
       "status": "rate_limited",
@@ -22889,9 +22686,8 @@
       "error": "E1009"
     },
     "New Yorker::hr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "New Yorker::lv": {
       "status": "no_ads",
@@ -22936,9 +22732,8 @@
       "error": "E1009"
     },
     "New Yorker::mt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "New Yorker::it": {
       "status": "rate_limited",
@@ -22959,9 +22754,8 @@
       "ads_count": 0
     },
     "New Yorker::cz": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "New Yorker::pl": {
       "status": "no_ads",
@@ -22977,14 +22771,12 @@
       "error": "E1009"
     },
     "Missguided::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Missguided::fi": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Missguided::pt": {
       "status": "no_ads",
@@ -23058,9 +22850,8 @@
       "ads_count": 0
     },
     "Missguided::mt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Missguided::it": {
       "status": "no_ads",
@@ -23096,14 +22887,12 @@
       "error": "E1009"
     },
     "Missguided::nl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Sinsay::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Sinsay::fi": {
       "status": "no_ads",
@@ -23115,14 +22904,12 @@
       "error": "E1009"
     },
     "Sinsay::bg": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Sinsay::dk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Sinsay::lt": {
       "status": "rate_limited",
@@ -23629,9 +23416,9 @@
       "error": "E1009"
     },
     "Pantene::dk": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 0,
-      "error": "E1009"
+      "error": "NETWORK: RequestError: Session closed without receiving a SETTINGS frame"
     },
     "Pantene::lt": {
       "status": "no_ads",
@@ -23691,9 +23478,8 @@
       "error": "E1009"
     },
     "Pantene::it": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Pantene::es": {
       "status": "rate_limited",
@@ -23883,9 +23669,8 @@
       "ads_count": 0
     },
     "El Corte Ingles::it": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "El Corte Ingles::es": {
       "status": "rate_limited",
@@ -23907,14 +23692,12 @@
       "ads_count": 0
     },
     "El Corte Ingles::pl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "El Corte Ingles::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "El Corte Ingles::nl": {
       "status": "no_ads",
@@ -24212,9 +23995,8 @@
       "error": "E1009"
     },
     "Ralph Lauren::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Ralph Lauren::sk": {
       "status": "rate_limited",
@@ -24231,9 +24013,8 @@
       "ads_count": 0
     },
     "Ralph Lauren::el": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Ralph Lauren::mt": {
       "status": "rate_limited",
@@ -24241,9 +24022,8 @@
       "error": "E1009"
     },
     "Ralph Lauren::it": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Ralph Lauren::es": {
       "status": "rate_limited",
@@ -24260,9 +24040,9 @@
       "error": "E1009"
     },
     "Ralph Lauren::cz": {
-      "status": "rate_limited",
+      "status": "error",
       "ads_count": 0,
-      "error": "E1009"
+      "error": "NETWORK: TimeoutError: Timeout awaiting 'request' for 30000ms"
     },
     "Ralph Lauren::pl": {
       "status": "rate_limited",
@@ -24275,9 +24055,8 @@
       "error": "E1009"
     },
     "Ralph Lauren::nl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "adidas::be": {
       "status": "rate_limited",
@@ -24429,9 +24208,8 @@
       "ads_count": 0
     },
     "Cult Beauty::lt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Cult Beauty::lu": {
       "status": "rate_limited",
@@ -24449,9 +24227,8 @@
       "error": "E1009"
     },
     "Cult Beauty::fr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Cult Beauty::hu": {
       "status": "rate_limited",
@@ -24776,9 +24553,8 @@
       "ads_count": 0
     },
     "Fielmann::pt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Fielmann::bg": {
       "status": "rate_limited",
@@ -24849,9 +24625,8 @@
       "ads_count": 0
     },
     "Fielmann::it": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Fielmann::es": {
       "status": "rate_limited",
@@ -24859,14 +24634,12 @@
       "error": "E1009"
     },
     "Fielmann::at": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Fielmann::cy": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Fielmann::cz": {
       "status": "rate_limited",
@@ -25013,9 +24786,8 @@
       "ads_count": 0
     },
     "Vero Moda::pt": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Vero Moda::bg": {
       "status": "rate_limited",
@@ -25052,9 +24824,8 @@
       "error": "E1009"
     },
     "Vero Moda::hu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Vero Moda::se": {
       "status": "no_ads",
@@ -25071,9 +24842,8 @@
       "error": "E1009"
     },
     "Vero Moda::ie": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Vero Moda::ee": {
       "status": "no_ads",
@@ -25121,9 +24891,8 @@
       "ads_count": 0
     },
     "Vero Moda::nl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Lancome Parfums::be": {
       "status": "rate_limited",
@@ -25288,14 +25057,12 @@
       "error": "E1009"
     },
     "Carolina Herrera::fr": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Carolina Herrera::hu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Carolina Herrera::se": {
       "status": "rate_limited",
@@ -25303,9 +25070,8 @@
       "error": "E1009"
     },
     "Carolina Herrera::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Carolina Herrera::sk": {
       "status": "rate_limited",
@@ -25360,9 +25126,8 @@
       "error": "E1009"
     },
     "Carolina Herrera::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Carolina Herrera::nl": {
       "status": "rate_limited",
@@ -25482,18 +25247,16 @@
       "error": "E1009"
     },
     "The North Face::ro": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "The North Face::nl": {
       "status": "no_ads",
       "ads_count": 0
     },
     "Versace Parfums::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Versace Parfums::fi": {
       "status": "rate_limited",
@@ -25520,9 +25283,8 @@
       "error": "E1009"
     },
     "Versace Parfums::lu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Versace Parfums::hr": {
       "status": "rate_limited",
@@ -25553,9 +25315,8 @@
       "ads_count": 0
     },
     "Versace Parfums::sk": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Versace Parfums::ie": {
       "status": "rate_limited",
@@ -25875,9 +25636,8 @@
       "ads_count": 0
     },
     "New Balance::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "New Balance::fi": {
       "status": "no_ads",
@@ -25903,9 +25663,8 @@
       "ads_count": 0
     },
     "New Balance::lu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "New Balance::hr": {
       "status": "rate_limited",
@@ -25920,13 +25679,11 @@
     "New Balance::fr": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-09T12:45:46.880Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "New Balance::hu": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "New Balance::se": {
       "status": "rate_limited",
@@ -25934,9 +25691,8 @@
       "error": "E1009"
     },
     "New Balance::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "New Balance::sk": {
       "status": "no_ads",
@@ -25966,9 +25722,8 @@
       "ads_count": 0
     },
     "New Balance::es": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "New Balance::at": {
       "status": "rate_limited",
@@ -26036,9 +25791,8 @@
       "ads_count": 0
     },
     "Zara::lv": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Zara::fr": {
       "status": "rate_limited",
@@ -26105,9 +25859,9 @@
       "error": "E1009"
     },
     "Zara::cz": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "fetched",
+      "ads_count": 2,
+      "fetched_at": "2026-04-09T16:11:55.812Z"
     },
     "Zara::pl": {
       "status": "no_ads",
@@ -26295,9 +26049,8 @@
       "ads_count": 0
     },
     "Bobbi Brown::si": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "Bobbi Brown::sk": {
       "status": "rate_limited",
@@ -26356,19 +26109,16 @@
       "error": "E1009"
     },
     "Bobbi Brown::nl": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "About You::be": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "About You::fi": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "About You::pt": {
       "status": "rate_limited",
@@ -26449,9 +26199,8 @@
       "ads_count": 0
     },
     "About You::es": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "About You::at": {
       "status": "no_ads",
@@ -26463,9 +26212,8 @@
       "error": "E1009"
     },
     "About You::cz": {
-      "status": "rate_limited",
-      "ads_count": 0,
-      "error": "E1009"
+      "status": "no_ads",
+      "ads_count": 0
     },
     "About You::pl": {
       "status": "rate_limited",
@@ -26972,8 +26720,8 @@
       "error": "PARTIAL"
     }
   },
-  "total_requests": 23516,
-  "total_ads": 3066,
+  "total_requests": 24986,
+  "total_ads": 3118,
   "countries": [
     "de",
     "be",
@@ -27004,5 +26752,5 @@
     "nl"
   ],
   "started_at": "2026-04-08T15:06:09.283Z",
-  "last_updated": "2026-04-09T15:38:56.935Z"
+  "last_updated": "2026-04-09T16:24:32.698Z"
 }

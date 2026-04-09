@@ -1,6 +1,6 @@
 # Snapchat — Complete Map of Available Data Sources
 
-> **14 data sources** for Snapchat advertising and creator intelligence — all tested hands-on. Snap Star / Collab Studio evaluated and dismissed (agency-gated, zero public data). Verified 2026-04-08/09.
+> **14 data sources** for Snapchat advertising and creator intelligence — all tested hands-on. Snap Star / Collab Studio evaluated and dismissed (agency-gated, zero public data). Verified 2026-04-09.
 
 ---
 
@@ -1411,7 +1411,7 @@ data_sources/dsa_transparency/
 
 **DuckDB tables** (in `db/init.sql`):
 
-- `dsa_snapchat_sor` — all rows from `data/daily/snapchat-*.csv` with `dump_date`, `csv_variant` (`light` / `full`), `source_file`, then every CSV column (`union_by_name` if both variants exist). Rebuild with `duckdb db/rav.db < db/init.sql` from repo root (or `RAV_ROOT`).
+- `ec_dsa_sor` — all rows from `data/daily/snapchat-*.csv` with `dump_date`, `csv_variant` (`light` / `full`), `source_file`, then every CSV column (`union_by_name` if both variants exist). Rebuild with `duckdb db/rav.db < db/init.sql` from repo root (or `RAV_ROOT`).
 
 **CLI:**
 

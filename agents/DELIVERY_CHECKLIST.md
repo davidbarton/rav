@@ -24,8 +24,7 @@ Final release checklist for the current Czech-scope-complete state.
 
 ## D) Evidence integrity checks
 
-- [ ] Real sample inventory exists: `platform_choice/data/samples/2026-04-07-snap-sponsored-content/README.md`
-- [ ] Limits document exists and is consistent: `platform_choice/notes/limits.md`
+- [ ] Platform choice doc + raw data on disk: `PLATFORM_CHOICE.md`, `DATA_SAMPLES.md`, and `data_sources/snap_ads/data/` (paths used by `app/build_dataset.mjs` must exist)
 - [ ] Real vs inferred boundary is explicit: `app/README.md`
 
 ## E) Submission handoff sequence

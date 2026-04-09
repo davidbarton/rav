@@ -50,7 +50,7 @@ Use this as the single canonical queue for near-term execution.
 
 ## Gate audit snapshot
 
-- **Last gate check date:** 2026-04-08
+- **Last gate check date:** 2026-04-09
 - **Gate source state:** `agents/COVERAGE_MATRIX.md` shows `done: 14`, `partial: 0`, `missing: 0`
 - **Operational mode:** Czech scope complete; non-Czech-scope work remains blocked until explicit user unlock.
 

@@ -65,10 +65,10 @@ function renderReadmeContext(data, ads) {
   const sourceFilesEl = document.getElementById("readme-source-files");
   if (!generatedAtEl || !adsCountEl || !sourceFilesEl) return;
 
-  const sourceFiles = (data.notes && data.notes.ads_source_files_used) || [];
   generatedAtEl.textContent = formatDateIso(data.generated_at_utc);
   adsCountEl.textContent = fmtNum(ads.length);
-  sourceFilesEl.textContent = sourceFiles.length ? sourceFiles.join(", ") : "Not specified in dataset notes";
+  sourceFilesEl.textContent =
+    (data.notes && data.notes.data_source) || "Not specified in dataset notes";
 }
 
 function renderLeaderboard(rows) {

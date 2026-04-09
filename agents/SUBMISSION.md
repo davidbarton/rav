@@ -38,15 +38,15 @@ Pre-flight checks:
 
 ## 4) Where to verify real data and limits
 
-- Real sample inventory:
-  - `platform_choice/data/samples/2026-04-07-snap-sponsored-content/README.md`
-- Key sample files:
-  - `ads_search_spotify_de_retry.json`
-  - `ad_detail_by_id.json`
-  - `sponsored_content_pages_1_2.json`
-  - `sponsored_content_search_creator.json`
-- Limits and acquisition caveats:
-  - `platform_choice/notes/limits.md`
+- Platform choice (why Snapchat vs Pinterest):
+  - `PLATFORM_CHOICE.md`
+- Acquisition limits and caveats (rate limits, what is real vs inferred):
+  - `app/README.md`, `RESEARCH.md` as applicable
+- Raw API/crawl JSON (see also `DATA_SAMPLES.md` for the full inventory):
+  - `data_sources/snap_ads/data/ads_fashion/*.json` — per-brand EU ad-library pulls
+  - `data_sources/snap_ads/data/sponsored_2026-04-09T07-51-44/sponsored_content/page_*.json` — sponsored/commercial browse pages (timestamps in folder names change per crawl)
+  - `data_sources/snap_ads/data/creators_2026-04-08T09-21-35/sponsored_by_creator/*/page_*.json` — creator-scoped sponsored content
+  - `data_sources/snap_ads/data/ad_detail_2026-04-08T08-44-29/ads_by_id/*.json` — single-ad detail fetches
 
 ## 5) Real vs inferred boundary
 
@@ -63,14 +63,12 @@ Pre-flight checks:
 ## 6) Evidence path by evaluator question
 
 - Why Snapchat and why this choice:
-  - `agents/PROJECT_BRIEF.md`
-  - `platform_choice/docs/INITIAL_RESEARCH.md`
-- Data source mapping:
-  - `platform_choice/docs/INITIAL_RESEARCH.md`
-  - `platform_choice/docs/platform-data-experiment.md`
-- Real sample retrieval + limitations:
-  - `platform_choice/data/samples/...`
-  - `platform_choice/notes/limits.md`
+  - `PLATFORM_CHOICE.md`
+  - `agents/PROJECT_BRIEF.md` (task framing)
+- Data source mapping (endpoints, fields, limits in depth):
+  - `RESEARCH.md`
+- Real sample retrieval:
+  - `data_sources/snap_ads/data/**` (raw pulls; `app/build_dataset.mjs` pins specific inputs), `DATA_SAMPLES.md`
 - Insights for B2C usage:
   - `agents/INSIGHT_LOG.md`
   - `agents/RAVINEO_INTEL.md`
@@ -88,8 +86,9 @@ Pre-flight checks:
    - Dashboard KPIs + leaderboard,
    - Creator/Sponsored snapshot,
    - Ad Campaigns table/gallery with risk column.
-5. Verify limits and caveats:
-   - `platform_choice/notes/limits.md`
+5. Verify rationale, API detail, and caveats:
+   - `PLATFORM_CHOICE.md` (why Snap vs Pinterest)
+   - `RESEARCH.md` (endpoints, limits, coverage)
    - `app/README.md` (`What Is Real vs Inferred`)
 
 ## 7) Known residual risks (explicit)

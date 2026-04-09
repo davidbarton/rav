@@ -1,0 +1,80 @@
+{
+  "brand": "Valentino",
+  "country": "be",
+  "fetched_at": "2026-04-09T16:19:15.064Z",
+  "ads_count": 1,
+  "pagination_complete": true,
+  "ads": [
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "883789ab-0672-45bc-bd66-037a1b3f5cca",
+        "name": "19/5/25: anuncio",
+        "ad_account_name": "Promociones dentro de la app para iOS",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-05-19T22:00:00.000Z",
+        "impressions_total": 2801,
+        "impressions_map": {
+          "de": 0,
+          "be": 2801,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/ferrari0258",
+          "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/10226021-104323171997_2-s5-v1.webp?scale=2&ua=2",
+          "playable_media_properties": {}
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad contains content that could be considered inappropriate, including nudity, sexual content, body objectification, sexually provocative behavior or sexually suggestive imagery. This may include obscuring heads or faces, or focus on particular parts of the body unrelated to the advertised product or service. Ads for lingerie and other intimate clothing must not be overly sexual or depict nudity."
+        ],
+        "stickers": []
+      }
+    }
+  ]
+}
