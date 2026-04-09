@@ -83,7 +83,7 @@ thumbnail_url  — CDN image URL
 
 ### Status
 
-**Complete.** 735+ pages scraped, loaded in DuckDB. This is our primary creator data source. See `1_data_sources/snap_ads/` for scripts and data.
+**Complete.** 735+ pages scraped, loaded in DuckDB. This is our primary creator data source. See `data_sources/snap_ads/` for scripts and data.
 
 ---
 

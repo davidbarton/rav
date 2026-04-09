@@ -17,4 +17,4 @@ Sponsored / commercial creator signals, creator search, and brand–creator link
 ## Repo touchpoints (examples)
 
 - Snap sponsored content samples: `platform_choice/data/samples/2026-04-07-snap-sponsored-content/`
-- Broader notes: `1_data_sources/snap_creators/SNAP_CREATORS_DATA_COMPLETE.md` (landscape / methods)
+- Broader notes: `data_sources/snap_creators/SNAP_CREATORS_DATA_COMPLETE.md` (landscape / methods)

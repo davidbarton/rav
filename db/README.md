@@ -17,7 +17,7 @@ From the project root:
 duckdb db/rav.db < db/init.sql
 ```
 
-This **drops and rebuilds** all tables from the current files under `1_data_sources/...`. Run again any time new data is fetched.
+This **drops and rebuilds** all tables from the current files under `data_sources/...`. Run again any time new data is fetched.
 
 ## What gets loaded
 
@@ -62,7 +62,7 @@ Close other apps that have `db/rav.db` open (e.g. Beekeeper Studio) before runni
 
 ## Adding new data sources
 
-1. Fetch raw data into `1_data_sources/<source>/data/`
+1. Fetch raw data into `data_sources/<source>/data/`
 2. Add a new `CREATE TABLE` block in `db/init.sql` (or extend an existing load)
 3. Add exploration queries in `db/queries/`
 4. Re-run `duckdb db/rav.db < db/init.sql`

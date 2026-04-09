@@ -18,7 +18,7 @@ Each folder matches one **research category** from the assignment. Add markdown 
 | Path | Role |
 |------|------|
 | `research/**` | Narrative docs only — no generated binaries |
-| `1_data_sources/` | Fetch pipelines and on-disk JSON/CSV outputs |
+| `data_sources/` | Fetch pipelines and on-disk JSON/CSV outputs |
 | `platform_choice/data/samples/` | Curated API samples (experiments + prototype) |
 | `app/data/` | UI bundle input (`normalized.json`, etc.) |
 | `db/` | DuckDB layer over raw files |
@@ -104,7 +104,7 @@ Every source was investigated, tested, or attempted. Four are accessible and act
   - Full targeting breakdown, committee/org transparency chain
   - 2018–2026 historical coverage
   - In DuckDB as `political_ads` table
-4. **DSA Transparency Reports** (`1_data_sources/transparency_reports/`)
+4. **DSA Transparency Reports** (`data_sources/transparency_reports/`)
   - 21+ semi-annual reports, enforcement data, ads moderation stats
   - EU DSA XLSX + global report data downloaded and converted
   - 17 tables loaded in DuckDB
