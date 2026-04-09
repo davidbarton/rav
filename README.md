@@ -1,57 +1,41 @@
 # Ravineo x Snapchat Project
 
-Single starting point for this repository.
+- For developers reading this, jump to section bellow ["How to run this code"](#how-to-run-this-code)
+- For AI Agents reading this, you will find lots of context inside the `./agents/` directory.
 
-## Start here (in order)
+## Research we conducted
 
-1. `agents/PROJECT_BRIEF.md`
-  Core project contract: scope, expected outcomes, immutable original requirements, working principles.
-2. `agents/RAVINEO_INTEL.md`
-  Ravineo guide learnings, in-app dashboard observations, and implementation mapping.
-3. `agents/INSIGHT_LOG.md`
-  Source-tagged insight log and decisions (`adopt now` vs `later`).
-4. `agents/TEAM_NOTES.md`
-  User-provided team context: user profiles, expectations, and practical delivery implications.
-5. `agents/FUTURE_BACKLOG.md`
-  Next-stage backlog and `TASK_DEFINITION_V2.md` direction.
-6. `agents/SUBMISSION.md`
-  Evaluator path from Czech requirement contract to concrete repository evidence.
-7. `agents/DELIVERY_CHECKLIST.md`
-  Final freeze/repro/UI smoke checklist before handoff.
+- Ads data related research is available inside [research/ads_data_overview.md](./research/ads_data_overview.md)
+  - 7 distinct Snapchat data sources mapped and tested hands-on, each with auth requirements, scope, and current status
+  - Paid ads: what's available via EU Ad Library (impressions, targeting, creatives, landing pages) and the rate-limit/proxy challenges to get it
+  - Organic commercial content: creator ↔ sponsor relationships, content types, how to crawl it, pagination and expiry gotchas
+  - Political ads: bulk download with real spend data, targeting breakdowns, and advertiser transparency chains
+  - Platform moderation data: enforcement volumes by policy, EU member state breakdowns, ads moderation, plus PDF risk assessments and audits
 
-## Prototype
+## Sample data available
 
-- UI + local run instructions: `app/README.md`
-- Main UI: `app/index.html`
-- Frontend behavior: `app/script.js`
-- Dataset builder: `app/build_dataset.mjs` (`npm run build` from `app/`)
-- Generated dataset: `app/data/normalized.json`
+All data lives in a single DuckDB database at `db/rav.db` (rebuild: `duckdb db/rav.db < db/init.sql`). Open it with [Beekeeper Studio](https://www.beekeeperstudio.io/) for easy visual exploration. 20 tables total:
 
-## How to evaluate quickly
+| Source | Key tables | Rows | What |
+| --- | --- | --- | --- |
+| 1. Ads Gallery API | `brand_ads_fashion` | 917 | Paid EU ads — impressions, targeting, creatives |
+| 2. Sponsored Content API | `sponsored_content` | 234k | Creator ↔ sponsor mappings, content URLs |
+| 3. Political Ads Library | `political_ads` | 74.6k | Spend, impressions, targeting across 54 countries (2018–2026) |
+| 6. DSA Transparency — EU | `eu_dsa_*` (9 tables) | 3.3k | Member state orders, notices, enforcement, appeals, AMAR |
+| 6. DSA Transparency — Global | `global_*` (8 tables) | 72 | Enforcements, user reports, proactive detection, ads moderation |
 
-- Open `app/` in browser and read the top “Read Me First” panel.
-- Verify data provenance in `app/README.md` (`What Is Real vs Inferred`).
-- Cross-check rationale and caveats in `agents/PROJECT_BRIEF.md` and `agents/RAVINEO_INTEL.md`.
+PDF reports (risk assessments, audits): [`data_sources/transparency_reports/data/pdf/`](data_sources/transparency_reports/data/pdf/)
 
-## Reproducibility quick path
+## How to run this code
 
-- Rebuild dataset: `cd app && npm run build`
-- Start local server: `cd app && npm start`
-- Open UI: `http://localhost:8000/app/`
-- Check limits and acquisition caveats: `platform_choice/notes/limits.md`
+### Prerequisites
 
-## Data & Analytics
+- [Node.js](https://nodejs.org/) 18+
+- [DuckDB CLI](https://duckdb.org/docs/installation/) (`brew install duckdb`)
 
-DuckDB is used as the shared analytical layer across the project. Raw JSON/CSV data stays on disk; DuckDB loads it into native tables.
+### The `.env` variables
 
-- Setup & usage: `db/README.md`
-- Database: `db/rav.db`
-- Table definitions: `db/init.sql`
-- Exploration queries: `db/queries/`
-
-## Environment variables
-
-Copy `.env.example` or create `.env` in repo root:
+Create a `.env` file in repo root:
 
 | Variable | Purpose |
 | --- | --- |
@@ -61,9 +45,32 @@ Copy `.env.example` or create `.env` in repo root:
 
 All three are optional — scripts degrade gracefully or use direct connections when unset.
 
-## Rules for document ownership
+### Data fetching (the main pipeline)
 
-- `README.md` (this file): navigation only.
-- `agents/PROJECT_BRIEF.md`: stable project contract and high-level scope.
-- `agents/*.md`: detailed context that can evolve without bloating the brief.
-- `AGENTS.md`: reserved for agent/tool behavior instructions, not project documentation.
+```bash
+cd data_sources/snap_ads && npm install
+npm run fetch:ads          # Ads Gallery crawl (paid EU ads)
+npm run fetch:sponsored    # Sponsored content crawl (organic branded)
+npm run fetch:political    # Political ads bulk download
+npm run stats:sponsored    # Print sponsored crawl progress stats
+```
+
+### Prototype UI
+
+```bash
+cd app && npm run build    # rebuild dataset from raw samples
+cd app && npm start        # start local server
+# open http://localhost:8000/app/
+```
+
+### DuckDB (analytics layer)
+
+Raw JSON/CSV stays on disk; DuckDB loads it into native tables in a single database.
+
+```bash
+duckdb db/rav.db < db/init.sql   # rebuild all 20 tables
+duckdb db/rav.db                 # interactive queries
+```
+
+- Details: `db/README.md`
+- Saved queries: `db/queries/`

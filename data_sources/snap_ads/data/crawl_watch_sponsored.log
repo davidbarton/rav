@@ -106,3 +106,5 @@
 2026-04-09T08:39:31.133Z status=RUNNING pages=70 items=35000 next_link=true process=true
 2026-04-09T08:49:32.905Z status=RUNNING pages=85 items=42500 next_link=true process=true
 2026-04-09T08:59:34.640Z status=RUNNING pages=96 items=48000 next_link=true process=true
+2026-04-09T09:09:35.751Z status=PAUSED pages=106 items=53000 next_link=true process=false
+2026-04-09T09:09:35.751Z WARN crawl PAUSED but next_link exists — fetch may have stopped. Restart: npm run fetch:sponsored (from snap_ads)

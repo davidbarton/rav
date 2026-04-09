@@ -23,7 +23,6 @@ CREATE OR REPLACE MACRO rav_path(rel) AS (
 -- Rows from overlapping handle ranges may DUPLICATE across runs; filter by run_id.
 -- ──────────────────────────────────────────────
 
-DROP VIEW IF EXISTS sponsored_content;
 DROP TABLE IF EXISTS sponsored_content;
 CREATE TABLE sponsored_content AS
 WITH raw AS (
@@ -63,7 +62,6 @@ WHERE item.sub_request_status = 'SUCCESS';
 -- Each ads[] element: sub_request_status, ad_preview { ... }
 -- ──────────────────────────────────────────────
 
-DROP VIEW IF EXISTS brand_ads_fashion;
 DROP TABLE IF EXISTS brand_ads_fashion;
 CREATE TABLE brand_ads_fashion AS
 WITH files AS (
@@ -129,7 +127,6 @@ WHERE ad_row.sub_request_status = 'SUCCESS';
 -- The glob reads all years in one shot; filename gives us the year.
 -- ──────────────────────────────────────────────
 
-DROP VIEW IF EXISTS political_ads;
 DROP TABLE IF EXISTS political_ads;
 CREATE TABLE political_ads AS
 SELECT
