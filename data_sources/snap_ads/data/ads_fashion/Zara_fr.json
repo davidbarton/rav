@@ -1,87 +1,15 @@
 {
   "brand": "Zara",
   "country": "fr",
-  "fetched_at": "2026-04-08T23:41:13.640Z",
+  "fetched_at": "2026-04-09T18:45:43.418Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "e29d4687-cf56-4712-bc5a-adf51dc2ce65",
-        "name": "01/11/25 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "VIEW PROFILE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UkRT3myYLT2U29OrBcj1L.67.IRZXSOY?mo=GssCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBRghDEikKJwjR-yMgATDgAzjUBkABSg0KCEc1MUBHQEFHEPQDULwjaAJ1Gsw7QCIXCgpCBgjWr5nIBkgEEgAqB0lSWlhTT1miAUcIugoSKQonCLrUHCABMNAFOIAKQAJKDQoIVSMvJDU0NSsQ9ANQvCNoAnVjalRAIhcKCkIGCOyvmcgGSAISACoHSVJaWFNPWaIBTAiSChIuCiwI064aIAEw4AM41AZAAkoNCgg1JSouLy80NRD0A1C8I2gCddCqMUB9AACAPyIXCgpCBgjsr5nIBkgCEgAqB0lSWlhTT1miAUwI0goSLgosCPaMEiABMOADONQGQAJKDQoIORYdFSAgIhwQ9ANQvCNoAnWGLjxAfQAAgD8iFwoKQgYI7K-ZyAZIAhIAKgdJUlpYU09ZkAO8Iw%3D%3D&uc=15",
-        "start_date": "2025-11-01T23:00:00.000Z",
-        "impressions_total": 16211,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 16211,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zara",
-        "profile_name": "Zara 🇲🇦🇩🇿",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNGFCenJhSlVMRnNRc3dVaDZndWJ3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/fatima.zarrra",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0tNNjVrQllHUlBYTmRDQjYzRGVhP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "9ac93972-7705-4ba0-87f0-402c4415f93b",
-        "name": "amora",
+        "id": "ed1b3bda-c812-41c9-be16-201892021fce",
+        "name": "nono",
         "ad_account_name": "Zaranoya GmbH Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -90,92 +18,16 @@
         "languages": [
           "fr"
         ],
-        "headline": "-10€ avec le code \"SNAP10\"",
-        "call_to_action": "ORDER NOW",
+        "headline": "-10€ avec le code \"NONO10\"",
+        "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JzgCLSvGHIxcdmSvHwseG.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgj9oFcgATDgAzjUBkABSg4KCU8iJiNROj81MBD0A1DOhgFoAnVJZmNAfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4It9RLIAEw0AU4gApAAkoOCglGHB0bUzg0PzsQ9ANQzoYBaAJ1KKZ6QH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCMz0MCABMOADONQGQAJKDgoJNQ8XFC4oJyYfEPQDUM6GAWgCdbgfXkB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgjerSwgATDgAzjUBkACSg4KCTQREhAwIBwkIRD0A1DOhgFoAnUaJWpAfQAAgD8iBgoCSAISAJADzoYB&uc=15",
-        "start_date": "2026-03-23T19:50:09.000Z",
-        "impressions_total": 51534,
-        "impressions_map": {
-          "de": 0,
-          "be": 12400,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 39134,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zaranoya GmbH",
-        "profile_name": "NB ADDICT",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQmhweGhQejRCMUo0cjV1OGUxSmtjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://nbaddict.fr/products/asics-gel-nyc-cream-pink?_pos=3&_psq=asics&_ss=e&_v=1.0"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a99140cc-a523-4f5f-b993-25203a4b0e73",
-        "name": "Noémie",
-        "ad_account_name": "Zaranoya GmbH Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "-10€ avec le code \"NOEMIE10\"",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/eE4hOXH21c18Ekm5VB8iJ.67?mo=Gp8CGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPghDEjIKMAicyLQDIAEw4AM41AZAAUoPCgqCASYpKighGikjEPQDUIDbA2gCdVnvUkB9AACAPyIGCgJIAxIAogE-CLoKEjEKLwi8veMCIAEw0AU4gApAAkoOCgltHyAiIBwSJRsQ9ANQgNsDaAJ1-JVZQH0AAIA_IgYKAkgDEgCiAT4IkgoSMQovCMaDoAIgATDgAzjUBkACSg4KCW4aHR0ZFBEbFRD0A1CA2wNoAnUwOkBAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8Ix7D1ASABMOADONQGQAJKDgoJXhUXGBUUDBgTEPQDUIDbA2gCdRQ2T0B9AACAPyIGCgJIAhIAkAOA2wM%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ogSQr0vlNBR3RDs1eTeTa.67?mo=Go0CGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE5CEMSMQovCI7NgAEgATDgAzjUBkABSg8KCtwBcHhlem5eaVUQ9ANQzE5oAnW4aWJAfQAAgD8iAhIAogE6CLoKEjEKLwiYsnwgATDQBTiACkACShAKC-8BdmWAAXJuTWxbEPQDUMxOaAJ1b-Z8QH0AAIA_IgISAKIBOQiSChIwCi4IlqFdIAEw4AM41AZAAkoPCgqFATxPPVdMRlBIEPQDUMxOaAJ18KxOQH0AAIA_IgISAKIBOQjSChIwCi4ImeVNIAEw4AM41AZAAkoPCgqbAUo9Q0dBNkg_EPQDUMxOaAJ11DtoQH0AAIA_IgISAJADzE4%3D&uc=15",
         "start_date": "2026-03-25T23:02:49.000Z",
-        "impressions_total": 9451,
+        "impressions_total": 11027,
         "impressions_map": {
           "de": 0,
-          "be": 8586,
+          "be": 8433,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -184,7 +36,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 865,
+          "fr": 2594,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -221,234 +73,7 @@
         "profile_name": "NB ADDICT",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQmhweGhQejRCMUo0cjV1OGUxSmtjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://nbaddict.fr/products/asics-gel-kayano-14-white-fjord-grey-copie"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "7834efb3-011e-4685-b8ad-0983f6d92b31",
-        "name": "Maissa",
-        "ad_account_name": "Zaranoya GmbH Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "-10€ avec le code \"MAI10\"",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tLUC5Dpbur6CFPNTb5Knm.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQiCkEcgATDgAzjUBkABSg4KCUomMR4pHyQeLxD0A1CKaWgCdV1aZUB9AACAPyIGCgJIAxIAogE8CLoKEi8KLQiZtjogATDQBTiACkACSg4KCUQeHhknGhkaKRD0A1CKaWgCdaMceEB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQi4_C0gATDgAzjUBkACSg4KCTUUIRMZFRoQGhD0A1CKaWgCdVNYWEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjf3SkgATDgAzjUBkACSg4KCTMTFhMbEhIRFxD0A1CKaWgCdRzvbUB9AACAPyIGCgJIAhIAkAOKaQ%3D%3D&uc=15",
-        "start_date": "2026-03-23T19:50:09.000Z",
-        "impressions_total": 6846,
-        "impressions_map": {
-          "de": 0,
-          "be": 1835,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 5011,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zaranoya GmbH",
-        "profile_name": "NB ADDICT",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQmhweGhQejRCMUo0cjV1OGUxSmtjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://nbaddict.fr/products/curb-sneakers-in-denim-fm-skrk11-frde-e24254?_pos=3&_psq=Lanvin+blue&_ss=e&_v=1.0"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "801caf5f-5b89-429f-916a-d53e2fdcc204",
-        "name": "NTH",
-        "ad_account_name": "Zaranoya GmbH Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "-10€ avec le code \"NTH10\"",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Rke6fCpwCex0VNVMdBU2G.67?mo=GpkCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiL0JUCIAEw4AM41AZAAUoOCgl5IxkfGhEaGRYQ9ANQzrcDaAJ1IhpFQCIGCgJIAxIAogE-CLoKEjEKLwjynfcBIAEw0AU4gApAAkoOCgloHhUcHBMXFxoQ9ANQzrcDaAJ1FGdPQH0AAIA_IgYKAkgDEgCiAT4IkgoSMQovCJKJsQEgATDgAzjUBkACSg4KCWMVDhIRDBAPEBD0A1DOtwNoAnU-iDdAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8IsNKqASABMOADONQGQAJKDgoJVxUOFBMODxAQEPQDUM63A2gCdU1mRkB9AACAPyIGCgJIAhIAkAPOtwM%3D&uc=15",
-        "start_date": "2026-03-23T19:50:09.000Z",
-        "impressions_total": 41253,
-        "impressions_map": {
-          "de": 0,
-          "be": 9785,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 31468,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zaranoya GmbH",
-        "profile_name": "NB ADDICT",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQmhweGhQejRCMUo0cjV1OGUxSmtjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://nbaddict.fr/products/louis-vuitton-lv-skate-grained-leather-trainer-black-sneaker?_pos=2&_psq=skate&_ss=e&_v=1.0"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "14dd1a24-b3bc-4010-bff2-7effe8099290",
-        "name": "NTH",
-        "ad_account_name": "Zaranoya GmbH Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "-10€ avec le code \"NTH10\"",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Rke6fCpwCex0VNVMdBU2G.67?mo=GpkCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiL0JUCIAEw4AM41AZAAUoOCgl5IxkfGhEaGRYQ9ANQzrcDaAJ1IhpFQCIGCgJIAxIAogE-CLoKEjEKLwjynfcBIAEw0AU4gApAAkoOCgloHhUcHBMXFxoQ9ANQzrcDaAJ1FGdPQH0AAIA_IgYKAkgDEgCiAT4IkgoSMQovCJKJsQEgATDgAzjUBkACSg4KCWMVDhIRDBAPEBD0A1DOtwNoAnU-iDdAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8IsNKqASABMOADONQGQAJKDgoJVxUOFBMODxAQEPQDUM63A2gCdU1mRkB9AACAPyIGCgJIAhIAkAPOtwM%3D&uc=15",
-        "start_date": "2026-03-25T23:02:49.000Z",
-        "impressions_total": 11007,
-        "impressions_map": {
-          "de": 0,
-          "be": 8141,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 2866,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zaranoya GmbH",
-        "profile_name": "NB ADDICT",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQmhweGhQejRCMUo0cjV1OGUxSmtjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://nbaddict.fr/products/louis-vuitton-lv-skate-grained-leather-trainer-black-sneaker?_pos=2&_psq=skate&_ss=e&_v=1.0"
+          "url": "https://nbaddict.fr/products/louis-vuitton-lv-skate-monogram-trainer-light-grey-sneaker?_pos=3&_psq=skate&_ss=e&_v=1.0"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -534,8 +159,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b1feb42c-4a1c-44bb-9148-c8bbf8b2fb2f",
-        "name": "amora",
+        "id": "fae0be7b-a791-47e7-bff1-b88ec9823911",
+        "name": "Jeanny",
         "ad_account_name": "Zaranoya GmbH Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -544,16 +169,16 @@
         "languages": [
           "fr"
         ],
-        "headline": "-10€ avec le code \"SNAP10\"",
+        "headline": "-10€ avec le code \"JEANNY10\"",
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JzgCLSvGHIxcdmSvHwseG.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgj9oFcgATDgAzjUBkABSg4KCU8iJiNROj81MBD0A1DOhgFoAnVJZmNAfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4It9RLIAEw0AU4gApAAkoOCglGHB0bUzg0PzsQ9ANQzoYBaAJ1KKZ6QH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCMz0MCABMOADONQGQAJKDgoJNQ8XFC4oJyYfEPQDUM6GAWgCdbgfXkB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgjerSwgATDgAzjUBkACSg4KCTQREhAwIBwkIRD0A1DOhgFoAnUaJWpAfQAAgD8iBgoCSAISAJADzoYB&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Og2c5zhaTcAx3fkWAKeZQ.67?mo=GpQCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiZn58CIAEw4AM41AZAAUoOCglvKScqNygfIysQ9ANQov4CaAJ14fxLQCIGCgJIAxIAogE5CLoKEiwKKgjOmpECIAEw0AU4gApAAkoOCgl0LCAuMi4dJyIQ9ANQov4CaAJ1gcJfQCIGCgJIAxIAogE-CJIKEjEKLwjgpcEBIAEw4AM41AZAAkoOCglaGhgfIBkWGBwQ9ANQov4CaAJ1lo88QH0AAIA_IgYKAkgCEgCiAT4I0goSMQovCLS_rAEgATDgAzjUBkACSg4KCVkcFB4fHBEYFxD0A1Ci_gJoAnW4CVFAfQAAgD8iBgoCSAISAJADov4C&uc=15",
         "start_date": "2026-03-25T23:02:49.000Z",
-        "impressions_total": 14564,
+        "impressions_total": 36992,
         "impressions_map": {
           "de": 0,
-          "be": 8289,
+          "be": 23249,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -562,7 +187,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 6275,
+          "fr": 13743,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -599,7 +224,7 @@
         "profile_name": "NB ADDICT",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQmhweGhQejRCMUo0cjV1OGUxSmtjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://nbaddict.fr/products/asics-gel-nyc-cream-pink?_pos=3&_psq=asics&_ss=e&_v=1.0"
+          "url": "https://nbaddict.fr/products/balenciaga-track-pink-copie?_pos=4&_psq=balenciaga+&_ss=e&_v=1.0"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -609,8 +234,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "467b5477-dc4c-402a-97a9-d9164146fd88",
-        "name": "siena",
+        "id": "6ba074a8-e967-4117-8ee4-9b35dc0e8db4",
+        "name": "Liu",
         "ad_account_name": "Zaranoya GmbH Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -619,16 +244,16 @@
         "languages": [
           "fr"
         ],
-        "headline": "-10€ avec le code \"SIENA0\"",
+        "headline": "-10€ avec le code \"LIU10\"",
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/5LiwvuXBd3nD3wge6lNJp.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAip9D0gATDgAzjUBkABSg4KCUclMSwnJi8oJxD0A1D0WGgCdTxOKkAiBgoCSAISAKIBNwi6ChIqCigI9LMxIAEw0AU4gApAAkoOCglAHSEnICEhIyAQ9ANQ9FhoAnXs0StAIgYKAkgDEgCiATwIkgoSLwotCOWhJCABMOADONQGQAJKDgoJMBMeGhgXGRkXEPQDUPRYaAJ1jPohQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCM7aISABMOADONQGQAJKDgoJMRQWGxYWFhcWEPQDUPRYaAJ1ap8oQH0AAIA_IgYKAkgCEgCQA_RY&uc=15",
-        "start_date": "2026-03-25T23:02:49.000Z",
-        "impressions_total": 5767,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KDeGU5h1M3l26NZFdS7ml.67?mo=Gp8CGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPghDEjIKMAjxlesDIAEw4AM41AZAAUoPCgqVAR8nMjMlJS8rEPQDUKjdBGgCdYMgRkB9AACAPyIGCgJIAxIAogE-CLoKEjEKLwiyw6UDIAEw0AU4gApAAkoOCgl_Hh8uJiEdKCYQ9ANQqN0EaAJ11LZNQH0AAIA_IgYKAkgCEgCiAT4IkgoSMQovCIzbvAIgATDgAzjUBkACSg4KCX4UFSEdGRkdGBD0A1Co3QRoAnV7TytAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8ImM6VAiABMOADONQGQAJKDgoJaRMUHRgXEhsZEPQDUKjdBGgCdf3LPkB9AACAPyIGCgJIAhIAkAOo3QQ%3D&uc=15",
+        "start_date": "2026-03-23T19:50:09.000Z",
+        "impressions_total": 10152,
         "impressions_map": {
           "de": 0,
-          "be": 4617,
+          "be": 2921,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -637,7 +262,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 1150,
+          "fr": 7231,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -665,6 +290,83 @@
               "languages": [
                 "fr"
               ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zaranoya GmbH",
+        "profile_name": "NB ADDICT",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQmhweGhQejRCMUo0cjV1OGUxSmtjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://nbaddict.fr/products/asics-gel-kayano-14-white-fjord-grey-copie?_pos=4&_psq=asics+kayano+14&_ss=e&_v=1.0"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "904e233e-479d-41bb-b481-e59303949d3a",
+        "name": "Lyah10",
+        "ad_account_name": "Zaranoya GmbH Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "-10€ avec le code \"LYAH10\"",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/p8zjKk5WqVT4O24xSfXFy.67?mo=Gp8CGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPghDEjIKMAi39r4CIAEw4AM41AZAAUoPCgqFASohNCglGionEPQDUKjgA2gCdWo3PEB9AACAPyIGCgJIAxIAogE-CLoKEjEKLwjq2oICIAEw0AU4gApAAkoOCgltJxktIR0YHiEQ9ANQqOADaAJ14xlEQH0AAIA_IgYKAkgCEgCiAT4IkgoSMQovCNXgvgEgATDgAzjUBkACSg4KCWsaEx8WEhEXExD0A1Co4ANoAnU4vTRAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8IwO24ASABMOADONQGQAJKDgoJXBoSHxYVEBQXEPQDUKjgA2gCdRarP0B9AACAPyIGCgJIAhIAkAOo4AM%3D&uc=15",
+        "start_date": "2026-03-23T19:50:09.000Z",
+        "impressions_total": 1931,
+        "impressions_map": {
+          "de": 0,
+          "be": 480,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1451,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -684,23 +386,26 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "daee89ba-6350-4e36-864d-9566aa284989",
-        "name": "14/12/25 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
+        "id": "801caf5f-5b89-429f-916a-d53e2fdcc204",
+        "name": "NTH",
+        "ad_account_name": "Zaranoya GmbH Self Service",
         "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "VIEW PROFILE",
+        "languages": [
+          "fr"
+        ],
+        "headline": "-10€ avec le code \"NTH10\"",
+        "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3gMI5asPFe1FemqKSb2Db.67.IRZXSOY?mo=GuECGgoyAQQ6AX1QD2ABUIsCWghBZHNNZWRpYaIBTQhDEjAKLgjN-D4gATDgAzjWBkABSg4KCUgYHBsiIyEbIRD0A1DahwFoAnV7p0BAfQAAgD8iFwoKQgYImbb6yQZIAhIAKgdJUlpYU09ZogFOCLoKEjAKLgjCxiUgATDgAzjWBkACSg4KCTYNDBATFRIQEhD0A1DahwFoAnWK8T9AfQAAgD8iFwoKQgYIzbb6yQZIAxIAKgdJUlpYU09ZogFOCJIKEjAKLgiV6CUgATDgAzjWBkACSg4KCTYNEA8TFRUPExD0A1DahwFoAnVHrzNAfQAAgD8iFwoKQgYIzbb6yQZIAhIAKgdJUlpYU09ZogFOCNIKEjAKLgjd7ykgATDgAzjWBkACSg4KCToODxEWGBMTFRD0A1DahwFoAnWob0RAfQAAgD8iFwoKQgYIzbb6yQZIAhIAKgdJUlpYU09ZkAPahwE%3D&uc=15",
-        "start_date": "2025-12-14T23:00:00.000Z",
-        "impressions_total": 8162,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Rke6fCpwCex0VNVMdBU2G.67?mo=GpkCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiL0JUCIAEw4AM41AZAAUoOCgl5IxkfGhEaGRYQ9ANQzrcDaAJ1IhpFQCIGCgJIAxIAogE-CLoKEjEKLwjynfcBIAEw0AU4gApAAkoOCgloHhUcHBMXFxoQ9ANQzrcDaAJ1FGdPQH0AAIA_IgYKAkgDEgCiAT4IkgoSMQovCJKJsQEgATDgAzjUBkACSg4KCWMVDhIRDBAPEBD0A1DOtwNoAnU-iDdAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8IsNKqASABMOADONQGQAJKDgoJVxUOFBMODxAQEPQDUM63A2gCdU1mRkB9AACAPyIGCgJIAhIAkAPOtwM%3D&uc=15",
+        "start_date": "2026-03-23T19:50:09.000Z",
+        "impressions_total": 41253,
         "impressions_map": {
           "de": 0,
-          "be": 0,
+          "be": 9785,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -709,7 +414,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 8162,
+          "fr": 31468,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -734,20 +439,323 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "languages": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Xzara Make Up 💄",
-        "profile_name": "Xzara Make Up 💄",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNkhXV2x5ZWVXa3lIcjBPVVB6ZUlvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/iam.xn",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNkhXV2x5ZWVXa3lIcjBPVVB6ZUlvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
+        "paying_advertiser_name": "Zaranoya GmbH",
+        "profile_name": "NB ADDICT",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQmhweGhQejRCMUo0cjV1OGUxSmtjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://nbaddict.fr/products/louis-vuitton-lv-skate-grained-leather-trainer-black-sneaker?_pos=2&_psq=skate&_ss=e&_v=1.0"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "bb89f64a-6d17-47f2-8989-99dbba823bd5",
+        "name": "Louane",
+        "ad_account_name": "Zaranoya GmbH Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "-10€ avec le code \"LOUANE10\"",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Nn6fQz5uJsN0A7wb9mWYP.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjc8i0gATDgAzjUBkABSg4KCT4XFRcXKCkmIhD0A1CCTGgCdVIBYkB9AACAPyIGCgJIAhIAogE8CLoKEi8KLQjxsScgATDQBTiACkACSg4KCU0XFBcXIhwfGxD0A1CCTGgCdeJSe0B9AACAPyIGCgJIAxIAogE8CJIKEi8KLQixth4gATDgAzjUBkACSg4KCSoPDQ8QGBsYFhD0A1CCTGgCddfVWkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiumRkgATDgAzjUBkACSg4KCTYODg8PFRIUEhD0A1CCTGgCdWLVbEB9AACAPyIGCgJIAhIAkAOCTA%3D%3D&uc=15",
+        "start_date": "2026-03-23T19:50:09.000Z",
+        "impressions_total": 1561,
+        "impressions_map": {
+          "de": 0,
+          "be": 259,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1302,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zaranoya GmbH",
+        "profile_name": "NB ADDICT",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQmhweGhQejRCMUo0cjV1OGUxSmtjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://nbaddict.fr/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3ba895c7-ca33-4ed0-9ad4-01193e177b73",
+        "name": "sienna",
+        "ad_account_name": "Zaranoya GmbH Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "-10€ avec le code \"SIENA10\"",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/raR35aNOBSAzVhoYxB42J.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiTvm4gATDgAzjUBkABSg4KCVIZGCAkICAkLBD0A1CatwFoAnVwjUhAIgYKAkgDEgCiATgIugoSKwopCLabXiABMNAFOIAKQAJKDgoJWxoVHRsdGR4eEPQDUJq3AWgCddY4UkAiBgoCSAISAKIBPQiSChIwCi4Iy9ZCIAEw4AM41AZAAkoOCgk8ERAUFBMTFhoQ9ANQmrcBaAJ1Wn84QH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCJjjPCABMOADONQGQAJKDgoJQhAMExITERQUEPQDUJq3AWgCdZC6RkB9AACAPyIGCgJIAhIAkAOatwE%3D&uc=15",
+        "start_date": "2026-03-23T19:50:09.000Z",
+        "impressions_total": 1458,
+        "impressions_map": {
+          "de": 0,
+          "be": 269,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1189,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zaranoya GmbH",
+        "profile_name": "NB ADDICT",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQmhweGhQejRCMUo0cjV1OGUxSmtjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://nbaddict.fr/products/asics-gel-nyc-cream-pink"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "14dd1a24-b3bc-4010-bff2-7effe8099290",
+        "name": "NTH",
+        "ad_account_name": "Zaranoya GmbH Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "-10€ avec le code \"NTH10\"",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Rke6fCpwCex0VNVMdBU2G.67?mo=GpkCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiL0JUCIAEw4AM41AZAAUoOCgl5IxkfGhEaGRYQ9ANQzrcDaAJ1IhpFQCIGCgJIAxIAogE-CLoKEjEKLwjynfcBIAEw0AU4gApAAkoOCgloHhUcHBMXFxoQ9ANQzrcDaAJ1FGdPQH0AAIA_IgYKAkgDEgCiAT4IkgoSMQovCJKJsQEgATDgAzjUBkACSg4KCWMVDhIRDBAPEBD0A1DOtwNoAnU-iDdAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8IsNKqASABMOADONQGQAJKDgoJVxUOFBMODxAQEPQDUM63A2gCdU1mRkB9AACAPyIGCgJIAhIAkAPOtwM%3D&uc=15",
+        "start_date": "2026-03-25T23:02:49.000Z",
+        "impressions_total": 11007,
+        "impressions_map": {
+          "de": 0,
+          "be": 8141,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 2866,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zaranoya GmbH",
+        "profile_name": "NB ADDICT",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQmhweGhQejRCMUo0cjV1OGUxSmtjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://nbaddict.fr/products/louis-vuitton-lv-skate-grained-leather-trainer-black-sneaker?_pos=2&_psq=skate&_ss=e&_v=1.0"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "7834efb3-011e-4685-b8ad-0983f6d92b31",
+        "name": "Maissa",
+        "ad_account_name": "Zaranoya GmbH Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "-10€ avec le code \"MAI10\"",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tLUC5Dpbur6CFPNTb5Knm.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQiCkEcgATDgAzjUBkABSg4KCUomMR4pHyQeLxD0A1CKaWgCdV1aZUB9AACAPyIGCgJIAxIAogE8CLoKEi8KLQiZtjogATDQBTiACkACSg4KCUQeHhknGhkaKRD0A1CKaWgCdaMceEB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQi4_C0gATDgAzjUBkACSg4KCTUUIRMZFRoQGhD0A1CKaWgCdVNYWEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjf3SkgATDgAzjUBkACSg4KCTMTFhMbEhIRFxD0A1CKaWgCdRzvbUB9AACAPyIGCgJIAhIAkAOKaQ%3D%3D&uc=15",
+        "start_date": "2026-03-23T19:50:09.000Z",
+        "impressions_total": 6846,
+        "impressions_map": {
+          "de": 0,
+          "be": 1835,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 5011,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zaranoya GmbH",
+        "profile_name": "NB ADDICT",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQmhweGhQejRCMUo0cjV1OGUxSmtjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://nbaddict.fr/products/curb-sneakers-in-denim-fm-skrk11-frde-e24254?_pos=3&_psq=Lanvin+blue&_ss=e&_v=1.0"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

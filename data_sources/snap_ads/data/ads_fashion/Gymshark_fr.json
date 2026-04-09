@@ -1,392 +1,10 @@
 {
   "brand": "Gymshark",
   "country": "fr",
-  "fetched_at": "2026-04-08T23:04:23.729Z",
+  "fetched_at": "2026-04-09T20:29:43.722Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a36b9aec-3fd6-4905-9fff-dcf070076781",
-        "name": "BR_FR_MidSeasonSale_BuildUp_DualGender_Video_TypeText",
-        "ad_account_name": "FRA_Gymshark",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Le 17 avril. Jusqu’à -50%*",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/odJ4jibu31qMRS3lox2Fz.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIvOgGIAFKDgoJIggHBgcGBAUIEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIu8wGIAFKDgoJIggFBwYGBQYHEPQDaAIiBgoCSAISAKIBJgh_EhoKGAjAhQUgAUoOCgkcBgQEBQQDBAYQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjYsAUgAUoOCgkdBgUEBQUDBAcQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAj9xwQgAUoOCgkcBQQEBAMEAwQQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-04-14T08:00:00.000Z",
-        "impressions_total": 591949,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 591949,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Gymshark ",
-        "profile_name": "Gymshark",
-        "web_view_properties": {
-          "url": "https://fr.gymshark.com/blog/article/seasonal-sales?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "1e2eb051-37e4-4664-967f-37e8b9f354aa",
-        "name": "BR_FR_MidSeasonSale_BuildUp_DualGender_Image_ECOM_FullBleed_V3",
-        "ad_account_name": "FRA_Gymshark",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Le 17 avril. Jusqu’à -50%*",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ssertUXwhRcFm4JqbxW1d.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-04-14T08:00:00.000Z",
-        "impressions_total": 600745,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 600745,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Gymshark ",
-        "profile_name": "Gymshark",
-        "web_view_properties": {
-          "url": "https://fr.gymshark.com/blog/article/seasonal-sales?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4631432c-8186-49fe-bca2-5cd537b62249",
-        "name": "DR_FR_Launch_WhitneyxAdaptFleck_EcomImagery_V1",
-        "ad_account_name": "FRA_Gymshark",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "NEW Adapt Fleck",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UB5do93dZZN0dBpVpi1IX.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-07-07T21:00:00.000Z",
-        "impressions_total": 58514,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 58514,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Gymshark ",
-        "profile_name": "Gymshark",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZXVtMUJwd256MUhwZEVFa2Fmb2pHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://fr.gymshark.com/collections/adapt/womens?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "3607e88a-8643-45fe-b06c-c31f9d2c6140",
-        "name": "DR_FR_NPD_WhitneyAdapt_Launch_Image_Female_CampaignImagery_V1",
-        "ad_account_name": "FRA_Gymshark",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Le come-back Adapt Animal ",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oj8QitLTvwm3NZtkpwQFX.380?mo=GjsaFDIBBDoBfUIGCOf9gb4GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
-        "start_date": "2024-12-07T07:00:00.000Z",
-        "impressions_total": 58396,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 58396,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Gymshark ",
-        "profile_name": "Gymshark",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://fr.gymshark.com/collections/adapt/womens?utm_medium=paid_social&utm_source=snapchat&utm_campaign=DR_FR_CSD_Traffic_BAU_DualGender_Prospects_Jan25&utm_content=DR_FR_Female_Broad&utm_term=DR_FR_Female_WhitneyxAdapt_Image_Launch_CampaignImagery_V1"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "2558a3cf-99c5-4a38-a5be-597e8a58df75",
-        "name": "BR_FR_BAU_Male_Image_Collage",
-        "ad_account_name": "FRA_Gymshark",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Les Meilleurs Looks De Saison",
-        "call_to_action": "VIEW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-09T15:52:12.000Z",
-        "impressions_total": 673019,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 673019,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Gymshark ",
-        "profile_name": "Gymshark",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZXVtMUJwd256MUhwZEVFa2Fmb2pHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Les Meilleurs Looks De Saison",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MaT5H3NpwpwyDhVj6NE00.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://fr.gymshark.com/collections/must-have/mens?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -466,232 +84,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "dfae2a6d-d530-409a-8b26-36a7773dcdf0",
-        "name": "DR_FR_NPD_WhitneyAdapt_Launch_Video_Female_Whitney&Friends_V1",
-        "ad_account_name": "FRA_Gymshark",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Le come-back Adapt Animal ",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3dW2t2bZ65G999S5DFkzz.67?mo=GpUDGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBSAhDEjQKMgjm6E0gAUooCiNFIh5OIiE4JCk0HhUbFT0qJiooHSszJhoiIUI1LRQHAwQDAxD0A2gCIg4KCkIGCIT-gb4GSAQSAKIBSQi6ChI0CjIIgaI9IAFKKAojRhkYRhwVJiEhLhEQEQ4gJBogHxYfKB0WFxY7JScQCAYFBQUQ9ANoAiIOCgpCBgig_4G-BkgCEgCiAUgIfxI0CjIIzZQsIAFKKAojMRMRKhEUHhgbHAsLCgkZExMYFRgXHRMMEQ4pJiALBwQEBAQQ9ANoAiIOCgpCBgig_4G-BkgCEgCiAUkIkgoSNAoyCLLLLSABSigKIzITEikSER4cGR0MCwoKGBkUGBUaFh4UDhAPMSUgCwcEBAQEEPQDaAIiDgoKQgYIoP-BvgZIAhIAogFJCMQKEjQKMgj39ycgAUooCiMyEA8qEQ4aFRYfCgsKCSESEBUTDRUZEg8ODCcZGgsFAwQDAxD0A2gCIg4KCkIGCKD_gb4GSAISAJADposB&uc=15",
-        "start_date": "2024-12-07T07:00:00.000Z",
-        "impressions_total": 12038,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 12038,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "fr"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Gymshark ",
-        "profile_name": "Gymshark",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://fr.gymshark.com/collections/adapt/womens?utm_medium=paid_social&utm_source=snapchat&utm_campaign=DR_FR_CSD_Traffic_BAU_DualGender_Prospects_Jan25&utm_content=DR_FR_Female_EngagedProspects_Social/AppEngagers/WindowShoppers&utm_term=DR_DE_Female_WhitneyxAdapt_Launch_Video_Whitney&Friends_V1"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "11e91212-a3d6-4770-afd1-870ae881bd89",
-        "name": "BR_FR_MidSeasonSale_BuildUp_DualGender_Image_ECOM_FullBleed_V2",
-        "ad_account_name": "FRA_Gymshark",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Le 17 avril. Jusqu’à -50%*",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MtHPRdcIOZHNXAq1bD1Gy.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-04-14T08:00:00.000Z",
-        "impressions_total": 704900,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 704900,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Gymshark ",
-        "profile_name": "Gymshark",
-        "web_view_properties": {
-          "url": "https://fr.gymshark.com/blog/article/seasonal-sales?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "7a79b1fd-695c-4a0b-846c-96ec0a61d7ea",
-        "name": "BR_FR_MidSeasonSale_BuildUp_Female_Video_ECOM_Overlay",
-        "ad_account_name": "FRA_Gymshark",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Le 17 avril. Jusqu’à -50%*",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LwZXeAq0WZRfAEzS9DhTZ.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIjdwgIAFKDgoJQCkeIRkdGRYeEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIm4IbIAFKDgoJNBwVHhgaEhEaEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjJmRMgAUoOCgkqFhESDxAPDBEQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjv1BQgAUoOCgksGBIUEREQDRIQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAisvRIgAUoOCgkoEg4VDxIMCxMQ9ANoAiIGCgJIAhIAkAPOVA%3D%3D&uc=15",
-        "start_date": "2025-04-14T08:00:00.000Z",
-        "impressions_total": 690053,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 690053,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Gymshark ",
-        "profile_name": "Gymshark",
-        "web_view_properties": {
-          "url": "https://fr.gymshark.com/blog/article/seasonal-sales?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c4a47a9c-0282-4442-b7be-dc1b21d8735d",
-        "name": "DR_FR_BAU_Female_Video_EM_Marissa",
+        "id": "f3c80f1d-476c-4270-91b5-c7ad1beac74b",
+        "name": "BR_FR_BAU_Female_Image_Seasonal_Jan26_V1",
         "ad_account_name": "FRA_Gymshark",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -701,12 +95,12 @@
           "fr"
         ],
         "headline": "Les Meilleurs Looks De Saison",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/INs1zuuDQIkWuQdm0nMiI.67?mo=GoICGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEzCEMSKwopCOjXQCABMOADONQGQAFKDgoJRA4RExMYEBMbEPQDUMq7AWgCdVaxRUAiAhIAogE0CLoKEisKKQi64TcgATDABDiACEACSg4KCTgPCRMRFQ4QFBD0A1DKuwFoAnUC6E9AIgISAKIBOQiSChIwCi4I7YsuIAEw4AM41AZAAkoOCgk3Cg0NDw0MDBIQ9ANQyrsBaAJ1C_Q3QH0AAIA_IgISAKIBOQjSChIwCi4I2fUsIAEw4AM41AZAAkoOCgkxDAcPDhALDBQQ9ANQyrsBaAJ14mNIQH0AAIA_IgISAJADyrsB&uc=15",
-        "start_date": "2026-01-09T16:03:12.000Z",
-        "impressions_total": 500199,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/im52U7mNSXC7LS3jKOYGD.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-09T14:09:13.000Z",
+        "impressions_total": 545,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -718,7 +112,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 500199,
+          "fr": 545,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -756,6 +150,607 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZXVtMUJwd256MUhwZEVFa2Fmb2pHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://fr.gymshark.com/collections/must-have/womens?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "92440429-a0f8-4696-af2e-415228a94e13",
+        "name": "BR_FR_BAU_Male_Image_Seasonal_V1",
+        "ad_account_name": "FRA_Gymshark",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Les Meilleurs Looks De Saison",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/glskcdEYL489RdmSjFJgG.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-09T16:03:12.000Z",
+        "impressions_total": 42257,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 42257,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Gymshark ",
+        "profile_name": "Gymshark",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZXVtMUJwd256MUhwZEVFa2Fmb2pHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://fr.gymshark.com/collections/must-have/mens?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "451e4a2b-78d2-4121-9563-04b5f31d6ef4",
+        "name": "DR_FR_BAU_Male_Video_Top30_Jan26",
+        "ad_account_name": "FRA_Gymshark",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Les Meilleurs Looks De Saison",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3emN5e37lap4ntFYZtNRQ.67?mo=GocCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEzCEMSKwopCLbkQCABMOADONQGQAFKDgoJOCAXGhcfJRsdEPQDUIiQAWgCdWLmXEAiAhIAogE5CLoKEjAKLgijoDUgATDQBTiACkACSg4KCTwUFREXGhkbGRD0A1CIkAFoAnVvsmdAfQAAgD8iAhIAogE5CJIKEjAKLgiWsywgATDgAzjUBkACSg4KCSkUERIRFhYRFxD0A1CIkAFoAnUXFUtAfQAAgD8iAhIAogE5CNIKEjAKLgjb0yUgATDgAzjUBkACSg4KCS0PDgwQExETERD0A1CIkAFoAnUjb1xAfQAAgD8iAhIAkAOIkAE%3D&uc=15",
+        "start_date": "2026-01-09T16:03:12.000Z",
+        "impressions_total": 106072,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 106072,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Gymshark ",
+        "profile_name": "Gymshark",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZXVtMUJwd256MUhwZEVFa2Fmb2pHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://fr.gymshark.com/collections/must-have/mens?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2ed263cd-9242-4c6c-b20d-c1b22192d985",
+        "name": "DR_FR_Image_Launch_ConditioningClub_CampaignImagery_​Male_v4",
+        "ad_account_name": "FRA_Gymshark",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Gymshark Conditioning Club",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/DuJjpkdpe43yrrafPRZx1.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-07-07T21:00:00.000Z",
+        "impressions_total": 14142,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 14142,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Gymshark ",
+        "profile_name": "Gymshark",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZXVtMUJwd256MUhwZEVFa2Fmb2pHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://fr.gymshark.com/collections/new-releases/mens?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "980c470e-3d35-4e5f-92ec-c8a0360daf0e",
+        "name": "BR_FR_Trading_BlackFriday_BuildUp_FullBleed_Video_Female",
+        "ad_account_name": "FRA_Gymshark",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Black Friday 16 nov. 17h",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/u8qZejMdJ899iTP6z3WXz.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAja5RQgATDgAzjUBkABSg4KCS4HBAgPBQQEBBD0A1CYdWgCdSjzYUAiBgoCSAMSAKIBNwi6ChIqCigI7aEaIAEw0AU4gApAAkoOCgkoCgUIJQcGBgUQ9ANQmHVoAnWXoWNAIgYKAkgDEgCiATwIkgoSLwotCI_cDyABMOADONQGQAJKDgoJKgUEBw8EBAUEEPQDUJh1aAJ1HzpRQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCLPXESABMOADONQGQAJKDgoJLwUDBRkFAwQDEPQDUJh1aAJ1rYxbQH0AAIA_IgYKAkgCEgCQA5h1&uc=15",
+        "start_date": "2025-11-09T19:00:00.000Z",
+        "impressions_total": 754036,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 754036,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Gymshark ",
+        "profile_name": "Gymshark",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZXVtMUJwd256MUhwZEVFa2Fmb2pHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://fr.gymshark.com/pages/black-friday"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "341e6bd0-a646-4e3c-9d26-57b8e8353c56",
+        "name": "BR_FR_BAU_Male_Image_Collage_V1",
+        "ad_account_name": "FRA_Gymshark",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Les Meilleurs Looks De Saison",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MaT5H3NpwpwyDhVj6NE00.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-09T16:03:12.000Z",
+        "impressions_total": 155495,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 155495,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Gymshark ",
+        "profile_name": "Gymshark",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZXVtMUJwd256MUhwZEVFa2Fmb2pHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://fr.gymshark.com/collections/must-have/mens?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3dd01110-3375-45a8-9ff0-6b87e05143a7",
+        "name": "DR_FR_Trading_BlackFriday_Extra25_Launch_EM_Analis",
+        "ad_account_name": "FRA_Gymshark",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Black Friday avec extra -25%",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dxp56WtIrq7AGZaUU5AvH.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAj_lDsgATDgAzjUBkABSg4KCVQpDS4oIRkiDxD0A1DOcmgCdXr7U0AiBgoCSAMSAKIBPAi6ChIvCi0Il707IAEw0AU4gApAAkoOCglWJxAqKx4VGxEQ9ANQznJoAnUNR1xAfQAAgD8iBgoCSAISAKIBPAiSChIvCi0ImuYrIAEw4AM41AZAAkoOCglAHgwiHxIbGAwQ9ANQznJoAnX0wEVAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0Iq7UqIAEw4AM41AZAAkoOCglDHAwdIRUPFA0Q9ANQznJoAnV58lNAfQAAgD8iBgoCSAISAJADznI%3D&uc=15",
+        "start_date": "2025-11-09T19:00:00.000Z",
+        "impressions_total": 321397,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 321397,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Gymshark ",
+        "profile_name": "Gymshark",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZXVtMUJwd256MUhwZEVFa2Fmb2pHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://fr.gymshark.com/collections/outlet/womens?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2314385f-4cbb-49fa-be1a-56ebe62a78a0",
+        "name": "DR_FR_Launch_WhitneyxAdaptFleck_Video_EM_INT_WhatEmWore",
+        "ad_account_name": "FRA_Gymshark",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "NEW Adapt Fleck",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HreMY1hY40BqbwJJ2y7KB.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIybVPIAEw4AM41AZAAUoOCglLEBYMCyIiFBYQ9ANQsOoBaAIiBgoCSAUSAKIBMwi6ChImCiQI5KdGIAEw0AU4gApAAkoOCglRDxUPCx8XFBQQ9ANQsOoBaAIiBgoCSAISAKIBMgh_EiYKJAju6DUgATDgAzjUBkACSg4KCTwLCBEJFxUOEBD0A1Cw6gFoAiIGCgJIAhIAogEzCJIKEiYKJAiBrzcgATDgAzjUBkACSg4KCTwMCBEKGBYPEBD0A1Cw6gFoAiIGCgJIAhIAogEzCMQKEiYKJAiTgC8gATDgAzjWBkACSg4KCTwJDgsHFQ8NDhD0A1Cw6gFoAiIGCgJIAhIAogEzCNIKEiYKJAjX-jEgATDgAzjUBkACSg4KCT8KDgwHFxAODxD0A1Cw6gFoAiIGCgJIAhIAkAOw6gE%3D&uc=15",
+        "start_date": "2025-07-07T21:00:00.000Z",
+        "impressions_total": 23573,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 23573,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Gymshark ",
+        "profile_name": "Gymshark",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZXVtMUJwd256MUhwZEVFa2Fmb2pHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://fr.gymshark.com/collections/adapt/womens?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "89ff8e10-3264-4fbb-a31d-9e1c988be289",
+        "name": "BR_FR_BAU_Male_Video_Top30",
+        "ad_account_name": "FRA_Gymshark",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Les Meilleurs Looks De Saison",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3emN5e37lap4ntFYZtNRQ.67?mo=GocCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEzCEMSKwopCLbkQCABMOADONQGQAFKDgoJOCAXGhcfJRsdEPQDUIiQAWgCdWLmXEAiAhIAogE5CLoKEjAKLgijoDUgATDQBTiACkACSg4KCTwUFREXGhkbGRD0A1CIkAFoAnVvsmdAfQAAgD8iAhIAogE5CJIKEjAKLgiWsywgATDgAzjUBkACSg4KCSkUERIRFhYRFxD0A1CIkAFoAnUXFUtAfQAAgD8iAhIAogE5CNIKEjAKLgjb0yUgATDgAzjUBkACSg4KCS0PDgwQExETERD0A1CIkAFoAnUjb1xAfQAAgD8iAhIAkAOIkAE%3D&uc=15",
+        "start_date": "2026-01-09T14:09:13.000Z",
+        "impressions_total": 6899,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 6899,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Gymshark ",
+        "profile_name": "Gymshark",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZXVtMUJwd256MUhwZEVFa2Fmb2pHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://fr.gymshark.com/collections/must-have/mens?utm_medium=paid_social&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}&utm_term={{ad.id}}&utm_ID={{adSet.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

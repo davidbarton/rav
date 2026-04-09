@@ -1,725 +1,16 @@
 {
   "brand": "House",
   "country": "se",
-  "fetched_at": "2026-04-09T04:05:22.266Z",
+  "fetched_at": "2026-04-09T22:25:04.147Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "69b397cb-ad44-401e-abce-9f0ba068527f",
-        "name": "9YH2132C5-250423-MECA#热舞美女+语聊房#YD-916-5.mp4",
-        "ad_account_name": "APPXenaLive-MICO-MECA-Snapchat-Mad-ZT-1",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "ar"
-        ],
-        "headline": "استمتع بلقاء أشخاص جدد.",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/z1z94bfoQ3dNe4J3Z7qW0.67?mo=GtcCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIg-NpIAEw4AM41AZAAUoPCgqHAUA9JjcyPEE3EPQDUKZeaAIiBgoCSAQSAKIBMwi6ChImCiQIqMtkIAEw0AU4gApAAkoPCgqzATlGOzsySEc-EPQDUKZeaAIiBgoCSAMSAKIBMQh_EiUKIwjuvUogATDgAzjUBkACSg4KCWo1MSAxKTM0LRD0A1CmXmgCIgYKAkgCEgCiATIIkgoSJQojCK_xTCABMOADONQGQAJKDgoJaTQsKykpNTYuEPQDUKZeaAIiBgoCSAISAKIBMgjEChIlCiMIirFCIAEw4AM41gZAAkoOCgl8Ji4mJyEuLioQ9ANQpl5oAiIGCgJIAhIAogEzCNIKEiYKJAiQiEQgATDgAzjUBkACSg8KCoABKzIpKCExLSkQ9ANQpl5oAiIGCgJIAhIAkAOmXg%3D%3D&uc=15",
-        "start_date": "2025-06-11T06:35:50.000Z",
-        "impressions_total": 7141,
-        "impressions_map": {
-          "de": 1765,
-          "be": 213,
-          "fi": 99,
-          "pt": 2,
-          "bg": 212,
-          "dk": 32,
-          "lt": 11,
-          "lu": 16,
-          "hr": 12,
-          "lv": 0,
-          "fr": 0,
-          "hu": 6,
-          "se": 328,
-          "si": 2,
-          "sk": 17,
-          "ie": 29,
-          "ee": 0,
-          "el": 131,
-          "mt": 0,
-          "it": 411,
-          "es": 67,
-          "at": 387,
-          "cy": 0,
-          "cz": 26,
-          "pl": 91,
-          "ro": 28,
-          "nl": 1091,
-          "tr": 2165
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "ar"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "7.0",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "profile_name": "Xena live",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMjFETXJlUnVMVHhLZTlnczFoTTlhP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "app_install_preview": {
-          "app_name": "Xena Live",
-          "ios_app_id": "6478953714",
-          "android_app_url": "com.xparty.androidapp",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/4wBaKGkfIABowWRc3Oy8G.438?mo=GjUaGBoAGgAyAQQ6AX1CBgiBysa1BkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "enable_skoverlay": false,
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "2f6a2181-e682-4747-9d08-1eff3f28d226",
-        "name": "DPA-collection ad",
-        "ad_account_name": "alibaba-aliexpress-MH-DT-EC-GLB-RMKT",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "🛒 Why Pay More? Save BIG Now!",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "DYNAMIC",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-27T10:30:22.000Z",
-        "impressions_total": 1703759,
-        "impressions_map": {
-          "de": 15453,
-          "be": 390807,
-          "fi": 2666,
-          "pt": 52276,
-          "bg": 5970,
-          "dk": 1103,
-          "lt": 13311,
-          "lu": 24129,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1015789,
-          "hu": 6394,
-          "se": 3555,
-          "si": 4125,
-          "sk": 9470,
-          "ie": 15666,
-          "ee": 0,
-          "el": 7413,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 6295,
-          "cy": 0,
-          "cz": 3890,
-          "pl": 23342,
-          "ro": 13986,
-          "nl": 75355,
-          "tr": 12764
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "AliExpress",
-        "profile_name": "AliExpress",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbVFKb3dwQVlNZmR3cVNON2JJOFFVP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            }
-          ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/bEc6iMsxw0xt12yz1uRzL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/vXTX2Iw4tJZXckJamUOBq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RaMk7c4rt0Cy1pKNPMtqq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/htARadm4THtqTrwSMQa24.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/5i6zKfsRmIvUEosO2vGub.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "sale_price_effective_start_date": 1773469080000,
-              "sale_price_effective_end_date": 1774678680000,
-              "description": "Mini Pet Shop Shorthair Cat #410 Can Be Collected and Given As Gifts to Both Boys and Girls For",
-              "brand": "AliExpress",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "prc11",
-              "custom_label_3": "",
-              "custom_label_4": "hylt_wjall_0901",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "NEW",
-              "product_type": [
-                "Toys & Hobbies > Action & Toy Figures > Action Figures"
-              ],
-              "size": "",
-              "title": "Mini Pet Shop Shorthair Cat #410 Can Be Collected and Given As Gifts to Both Boys and Girls For",
-              "link": "https://www.aliexpress.com/p/tesla-landing/index.html?_immersiveMode=true&scenario=c_ppc_item_bridge_gmv&productId=1005010351698772&src=snapchat&aff_short_key=_2a8noy6&aff_platform=true&isdl=y"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/qUq4Q0Hpq5t5dVBjTOEV1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/U2AkB7TUueNXX5oM1XUGZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UVsK9foaNad0kpGQuIqhx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/bmKzrCPXiqoAOwhJSdQmf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/eOaK4auTgIum9zGrVXvFQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "sale_price_effective_start_date": 1773469080000,
-              "sale_price_effective_end_date": 1774678680000,
-              "description": "Persona 4 The Midnight Channel Men T Shirt Hot Japanese Anime Game TV Funny Tee Short Sleeve Crew",
-              "brand": "AliExpress",
-              "custom_label_0": "",
-              "custom_label_1": "0",
-              "custom_label_2": "prc11",
-              "custom_label_3": "",
-              "custom_label_4": "hylt_fashion&hylt_fashion_ss",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "NEW",
-              "product_type": [
-                "Men's Clothing > Tops & Tees > T-Shirts"
-              ],
-              "size": "",
-              "title": "Persona 4 The Midnight Channel Men T Shirt Hot Japanese Anime Game TV Funny Tee Short Sleeve Crew",
-              "link": "https://www.aliexpress.com/p/tesla-landing/index.html?_immersiveMode=true&scenario=c_ppc_item_bridge_gmv&productId=1005010544875936&src=snapchat&aff_short_key=_2a8noy6&aff_platform=true&isdl=y"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/C0lhQkAoO3QQAi1mqt6P2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Mp0UMIlr51GqZffTnXFwO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/eTORB1ymwuLvQNIGraqW5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/33Q3oKpaorcs63ARVUMRl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "sale_price_effective_start_date": 1773469080000,
-              "sale_price_effective_end_date": 1774678680000,
-              "description": "Hot Sale 925 Silver Miniso Disney Fit Original Bracelet Winnie Bear Tigger Dangle Charm Beads",
-              "brand": "MINISO",
-              "custom_label_0": "aff_product",
-              "custom_label_1": "0",
-              "custom_label_2": "prc11",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "NEW",
-              "product_type": [
-                "Jewelry & Accessories > Fine Jewelry > Beads"
-              ],
-              "size": "",
-              "title": "Hot Sale 925 Silver Miniso Disney Fit Original Bracelet Winnie Bear Tigger Dangle Charm Beads",
-              "link": "https://www.aliexpress.com/p/tesla-landing/index.html?_immersiveMode=true&scenario=c_ppc_item_bridge_gmv&productId=1005010479635164&src=snapchat&aff_short_key=_2a8noy6&aff_platform=true&isdl=y"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/GfFw2QInyYNTj4uAzaZwR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/0HD84v6gnqzmdeWhfkDJL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/IQaGeMzb0vEK1kOmRQ1Pc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/YsrPMi2vZMKd2oOuhfWZp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/fFowlO9qCwbFiBYUuwVUU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "sale_price_effective_start_date": 1773469080000,
-              "sale_price_effective_end_date": 1774678680000,
-              "description": "Braided solo loop band for Samsung Galaxy watch 8 Classic strap Accessories Elastic Bracelet correa",
-              "brand": "apband",
-              "custom_label_0": "aff_product",
-              "custom_label_1": "0",
-              "custom_label_2": "prc11",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "NEW",
-              "product_type": [
-                "Watches > Watches Accessories > Watchbands"
-              ],
-              "size": "",
-              "title": "Braided solo loop band for Samsung Galaxy watch 8 Classic strap Accessories Elastic Bracelet correa",
-              "link": "https://www.aliexpress.com/p/tesla-landing/index.html?_immersiveMode=true&scenario=c_ppc_item_bridge_gmv&productId=1005009718466592&src=snapchat&aff_short_key=_2a8noy6&aff_platform=true&isdl=y"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/zNuDkSsnKPPWE31Cxb9hh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ou4nybuYe3YHeh1BosYBW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/XDpqzZgjKo411UeF3QLUQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/nuL3jawAQ82PrQtVgkIwH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2fAriMB0o5hh8KV1WjNKh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "sale_price_effective_start_date": 1773469080000,
-              "sale_price_effective_end_date": 1774678680000,
-              "description": "5-20PCS Reusable Clear Gift Bag with Handles Multipurpose PVC Carrier for Bouquets Bottles and",
-              "brand": "AliExpress",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "prc11",
-              "custom_label_3": "",
-              "custom_label_4": "hylt_jiaju_all",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "NEW",
-              "product_type": [
-                "Home & Garden > Home Storage & Organization > Holiday DÃ©cor Storage > Gift Wrap Storage"
-              ],
-              "size": "",
-              "title": "5-20PCS Reusable Clear Gift Bag with Handles Multipurpose PVC Carrier for Bouquets Bottles and",
-              "link": "https://www.aliexpress.com/p/tesla-landing/index.html?_immersiveMode=true&scenario=c_ppc_item_bridge_gmv&productId=1005011660070116&src=snapchat&aff_short_key=_2a8noy6&aff_platform=true&isdl=y"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/R14FF4V5Jv6M1FM23SSoK.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/R9w4EGTTvaegPxnzXDe78.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qigPwk6fDEKUmbtTU9A5w.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/oNHvDa3PY1L9TugNrdNxi.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/rciQGeFqIXyr8TdROB5Do.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "sale_price_effective_start_date": 1773469080000,
-              "sale_price_effective_end_date": 1774678680000,
-              "description": "Low Price Universal Steering Lock Emulator Simulator ESL ELV Plug And Start for Renault Samsung",
-              "brand": "AliExpress",
-              "custom_label_0": "aff_product",
-              "custom_label_1": "7",
-              "custom_label_2": "prc11",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "NEW",
-              "product_type": [
-                "Automobiles",
-                "Parts & Accessories > Car Repair Tool > Code Readers & Scan Tools"
-              ],
-              "size": "",
-              "title": "Low Price Universal Steering Lock Emulator Simulator ESL ELV Plug And Start for Renault Samsung",
-              "link": "https://www.aliexpress.com/p/tesla-landing/index.html?_immersiveMode=true&scenario=c_ppc_item_bridge_gmv&productId=1005007292479910&src=snapchat&aff_short_key=_2a8noy6&aff_platform=true&isdl=y"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/erLc28ksajw0cxd7EbZqE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qyeHZW3VwQvA0vXntbgzv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2kWkzj52RYIOJSM01cg9n.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/r3mQRg2CRFlH4GabWjDhd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/NeMlQlUwfjEvLaze2maaM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "sale_price_effective_start_date": 1773469080000,
-              "sale_price_effective_end_date": 1774678680000,
-              "description": "100pcs C Clip External Circlip Snap Retaining Rings Set Stainless Steel Carbon Steel 8-18mm Circlip",
-              "brand": "AliExpress",
-              "custom_label_0": "",
-              "custom_label_1": "0",
-              "custom_label_2": "prc11",
-              "custom_label_3": "10",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "NEW",
-              "product_type": [
-                "Automobiles",
-                "Parts & Accessories > Wear Parts > Gaskets > Exhaust Gaskets"
-              ],
-              "size": "",
-              "title": "100pcs C Clip External Circlip Snap Retaining Rings Set Stainless Steel Carbon Steel 8-18mm Circlip",
-              "link": "https://www.aliexpress.com/p/tesla-landing/index.html?_immersiveMode=true&scenario=c_ppc_item_bridge_gmv&productId=1005007477652720&src=snapchat&aff_short_key=_2a8noy6&aff_platform=true&isdl=y"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/gLfpz5FAdVWB2p6L4GrTy.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/DNOVAL4grX75vElOg1F6k.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/lgkjMfXPovKgkkCbQAVhK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/LxD7BlDdqwifHZ3xvBqgU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/8UHlP3kga8Ib0lNmLmIMK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "sale_price_effective_start_date": 1773469080000,
-              "sale_price_effective_end_date": 1774678680000,
-              "description": "10Gb NIC Network Card  X520-DA2(E10G42BTDA) 82599 SP310",
-              "brand": "FZCNIGA",
-              "custom_label_0": "",
-              "custom_label_1": "0",
-              "custom_label_2": "prc11",
-              "custom_label_3": "50",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "NEW",
-              "product_type": [
-                "Computer & Office > Networking > Network Cards"
-              ],
-              "size": "",
-              "title": "10Gb NIC Network Card  X520-DA2(E10G42BTDA) 82599 SP310",
-              "link": "https://www.aliexpress.com/p/tesla-landing/index.html?_immersiveMode=true&scenario=c_ppc_item_bridge_gmv&productId=1005007143295438&src=snapchat&aff_short_key=_2a8noy6&aff_platform=true&isdl=y"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/2VvZabyIn8jzteYdToKOV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2MShLYw3F3Negrsn2uqDH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/P02uifrF7cUpkYzvMrwdL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/bmMEfPL6pmTdswIrrinIs.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/xPaML1hE8H3oOSqDOlaUV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "sale_price_effective_start_date": 1773469080000,
-              "sale_price_effective_end_date": 1774678680000,
-              "description": "NEW Metal Pokemon Card 183200 Points Arceus Charizard Super Card Golden English Mewtwo Vmax GX EX",
-              "brand": "TAKARA TOMY",
-              "custom_label_0": "aff_product",
-              "custom_label_1": "5",
-              "custom_label_2": "prc11",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "NEW",
-              "product_type": [
-                "Toys & Hobbies > Hobby & Collectibles > Game Collection Cards"
-              ],
-              "size": "",
-              "title": "NEW Metal Pokemon Card 183200 Points Arceus Charizard Super Card Golden English Mewtwo Vmax GX EX",
-              "link": "https://www.aliexpress.com/p/tesla-landing/index.html?_immersiveMode=true&scenario=c_ppc_item_bridge_gmv&productId=1005011750762430&src=snapchat&aff_short_key=_2a8noy6&aff_platform=true&isdl=y"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/eY6Acqnk01VzMRChofAKr.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/1WMcc82GVBz5IqdTMf4z9.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/kSajBCz8hhHBXodzJoHzG.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mVJ5C5d9t5SKUuruWGIFI.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/29Rg7V2R9mIn5XQ2TR8pU.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "sale_price_effective_start_date": 1773469140000,
-              "sale_price_effective_end_date": 1774678740000,
-              "description": "2 Pieces Kids Girls' Solid Color Hoodie & Pants Set Long Sleeve Active Outdoor 1-8 Years Fall White",
-              "brand": "cutyome",
-              "custom_label_0": "aff_product",
-              "custom_label_1": "0",
-              "custom_label_2": "prc11",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "NEW",
-              "product_type": [
-                "Mother & Kids > Children's Clothing > Children's Sets"
-              ],
-              "size": "",
-              "title": "2 Pieces Kids Girls' Solid Color Hoodie & Pants Set Long Sleeve Active Outdoor 1-8 Years Fall White",
-              "link": "https://www.aliexpress.com/p/tesla-landing/index.html?_immersiveMode=true&scenario=c_ppc_item_bridge_gmv&productId=1005006102520920&src=snapchat&aff_short_key=_2a8noy6&aff_platform=true&isdl=y"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "DPA-collection ad",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "layout": "AUTOMATIC",
-            "text_fields": [
-              "salePrice",
-              "descriptionTruncated"
-            ]
-          },
-          "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "964c7f3d-b7e4-44ed-98b8-96593d092cd1",
-        "name": "Samo_V_EN_UA-KOL_(直播解说)法师暗黑篝火(战力无关)995_CB_343_720x1280_43s_240806_NR_671491",
-        "ad_account_name": "AppCall of Dragons-lilisiCOD-/-MH-ZT-gaming-02",
+        "id": "037b8acb-4fc2-4445-9b6b-2e9c34b90003",
+        "name": "250819_GMP-圆桶-玉石1-单一块+le60s_en_VM_1080x1920.mp4",
+        "ad_account_name": "Appvitaand-lexinshengwen-/-MH-ZT-gaming-02",
         "status": "ACTIVE",
         "creative_type": "APP_INSTALL",
         "ad_type": "APP_INSTALL",
@@ -727,218 +18,41 @@
         "languages": [
           "en"
         ],
-        "headline": "MMORPG Fantasy Strategy  Game",
+        "headline": "#1 Mahjong Tile Puzzle Game",
         "call_to_action": "INSTALL NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VtBLXg2UX4P3A8ieE8lPN.67?mo=Gu8BGggyAgR9UA9gAVoIQWRzTWVkaWGiAScIQxIbChkIh6GCAiABSg4KCXsXIBgiKw8-HxD0A2gCIgYKAkgFEgCiASkIugoSHAoaCNWo5QEgAUoPCgqIARYaGyEoDjggEPQDaAIiBgoCSAISAKIBJwh_EhsKGQizmagBIAFKDgoJaxIWExgbCygYEPQDaAIiBgoCSAISAKIBKAiSChIbChkIsLSqASABSg4KCWkRFhIZHQwnGBD0A2gCIgYKAkgCEgCiASgIxAoSGwoZCPH-lwEgAUoOCglvDxESFhwJJhMQ9ANoAiIGCgJIAhIAkAOc0wI%3D&uc=15",
-        "start_date": "2025-04-03T06:16:46.000Z",
-        "impressions_total": 173769,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/uohcOiXcwH1kK7KtItPmd.67?mo=Gp4CGggyAgR9UA9gAVoIQWRzTWVkaWGiAT4IQxIyCjAIpIGeAyABMOADONQGQAFKDwoKjwEbISUZIh4oOxD0A1C8lQNoAnW6sn9AfQAAgD8iBgoCSAMSAKIBPwi6ChIyCjAIo5SQAyABMNAFOIAKQAJKDwoKlwEMDxMQDBAcMhD0A1C8lQNoAnUo2oZAfQAAgD8iBgoCSAMSAKIBPgiSChIxCi8IoPCTAiABMOADONQGQAJKDgoJcBEQEhISExspEPQDULyVA2gCddTKekB9AACAPyIGCgJIAhIAogE-CNIKEjEKLwi-rMoBIAEw4AM41AZAAkoOCgl7Dw8SEQ0QFBsQ9ANQvJUDaAJ1hJ2AQH0AAIA_IgYKAkgCEgCQA7yVAw%3D%3D&uc=15",
+        "start_date": "2025-10-10T07:03:07.000Z",
+        "impressions_total": 38242,
         "impressions_map": {
-          "de": 14666,
-          "be": 28535,
-          "fi": 2051,
-          "pt": 7063,
-          "bg": 2318,
-          "dk": 6025,
-          "lt": 1992,
-          "lu": 4015,
-          "hr": 1497,
-          "lv": 0,
-          "fr": 7258,
-          "hu": 2678,
-          "se": 13708,
-          "si": 2618,
-          "sk": 742,
-          "ie": 10634,
-          "ee": 0,
-          "el": 4561,
-          "mt": 0,
-          "it": 7394,
-          "es": 9455,
-          "at": 6125,
-          "cy": 0,
-          "cz": 2744,
-          "pl": 4369,
-          "ro": 4317,
-          "nl": 16082,
-          "tr": 12922
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "20",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "11.3",
-              "connection_type": "WIFI",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "Call of Dragons",
-        "app_install_preview": {
-          "app_name": "Call of Dragons",
-          "ios_app_id": "1605558677",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/lt8qKm4kP2fGS4K1dG9gy.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
-          "enable_skoverlay": true,
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "5ad6d1e9-3422-4556-bf99-bcf962c0a1e2",
-        "name": "240204_FirstPlayZH-bluedemo_EN(英语)_JS_9x16 (2).mp4",
-        "ad_account_name": "appJigsawscapes-lexinshengwen-/-MH-ZT-gaming-01",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Free jigsaw game fun for adults",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hPAD3XpmM0PYuYXLiIRDV.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIrZhgIAEw4AM41AZAAUoOCglBDQsFCwULCAUQ9ANQsOoBaAIiBgoCSAMSAKIBMwi6ChImCiQIvMZYIAEw0AU4gApAAkoOCglUBgwHCwYKCAcQ9ANQsOoBaAIiBgoCSAISAKIBMgh_EiYKJAiRzDsgATDgAzjUBkACSg4KCTAGCAUKBQgHBRD0A1Cw6gFoAiIGCgJIAhIAogEzCJIKEiYKJAj5hjcgATDgAzjUBkACSg4KCTAGCQQKBggHBRD0A1Cw6gFoAiIGCgJIAhIAogEzCMQKEiYKJAiiljcgATDgAzjWBkACSg4KCTUECAQIBAUGBBD0A1Cw6gFoAiIGCgJIAhIAogEzCNIKEiYKJAjv-zkgATDgAzjUBkACSg4KCTwECAQIBAYGBBD0A1Cw6gFoAiIGCgJIAhIAkAOw6gE%3D&uc=15",
-        "start_date": "2025-06-17T11:33:30.000Z",
-        "impressions_total": 1543,
-        "impressions_map": {
-          "de": 26,
-          "be": 247,
-          "fi": 5,
-          "pt": 149,
-          "bg": 303,
-          "dk": 9,
-          "lt": 38,
-          "lu": 31,
-          "hr": 37,
-          "lv": 0,
-          "fr": 3,
-          "hu": 41,
-          "se": 30,
-          "si": 60,
-          "sk": 1,
-          "ie": 40,
-          "ee": 0,
-          "el": 240,
-          "mt": 0,
-          "it": 0,
-          "es": 188,
-          "at": 28,
-          "cy": 0,
-          "cz": 44,
-          "pl": 0,
-          "ro": 0,
-          "nl": 23,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "11.3",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "Jigsawscapes - Jigsaw Puzzles",
-        "profile_name": "Jigsawscapes® - Jigsaw Puzzles",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
-        "app_install_preview": {
-          "app_name": "Jigsawscapes - Jigsaw Puzzles",
-          "ios_app_id": "1589762792",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/EUGR5tjriftgkqmAdjG3k.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
-          "enable_skoverlay": true,
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d13dc9a0-f6a6-4af0-ade1-97e55bb64365",
-        "name": "Knight Harem_0929_916改.mp4",
-        "ad_account_name": "appFantasia-xihuxinchen-/-MH-ZT-tool-01",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "your decisions shape the game",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TrENV7qO2TGOXTMAND55q.67?mo=GukBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIyaNFIAFKDgoJYxQPEhMNIUAfEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgI_uJFIAFKDgoJfBEOERUMHi8eEPQDaAIiBgoCSAISAKIBJgh_EhoKGAjKqzAgAUoOCglPDAsNDQ4YKBYQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiSmTEgAUoOCglNDQwLEgodKRcQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiY-TEgAUoOCglhDQsMEAkUHxYQ9ANoAiIGCgJIAhIAkAO-tQE%3D&uc=15",
-        "start_date": "2025-05-14T16:00:46.000Z",
-        "impressions_total": 2470,
-        "impressions_map": {
-          "de": 186,
-          "be": 443,
-          "fi": 315,
+          "de": 0,
+          "be": 13075,
+          "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 138,
+          "dk": 1248,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 23,
+          "fr": 0,
           "hu": 0,
-          "se": 377,
-          "si": 0,
+          "se": 1455,
+          "si": 6380,
           "sk": 0,
-          "ie": 395,
+          "ie": 8037,
           "ee": 0,
           "el": 0,
           "mt": 0,
           "it": 0,
           "es": 0,
-          "at": 303,
+          "at": 0,
           "cy": 0,
-          "cz": 0,
-          "pl": 0,
+          "cz": 877,
+          "pl": 7170,
           "ro": 0,
-          "nl": 290,
+          "nl": 0,
           "tr": 0
         },
         "targeting_v2": {
@@ -957,19 +71,18 @@
               "marketing_name": [],
               "model": [],
               "os_type": "ANDROID",
-              "os_version_min": "7.0",
               "carrier_id": [],
               "operation": "INCLUDE"
             }
           ]
         },
         "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "profile_name": "Fantasia AI",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
+        "brand_name": "Vita Mahjong",
         "app_install_preview": {
-          "app_name": "Fantasia: AI Chat& RPG Stories",
-          "android_app_url": "com.fantasia.ai",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/eUlrE9jXQI5htYB9FVNBT.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "app_name": "Vita Mahjong",
+          "ios_app_id": "6468921495",
+          "android_app_url": "com.vitastudio.mahjong",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/NvcuT7yiinlx00fZi7ySU.438?mo=GjUaGBoAGgAyAQQ6AX1CBgiG4uO4BkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -980,126 +93,53 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "e2bc0aae-88c3-4c14-bc77-1e155bbf94e1",
-        "name": "1116212-DX-yyd-zs-AR-短剧-皇帝回乡-新剧-all-视频-前贴-0822-06",
-        "ad_account_name": "AppDramabox-dianzhong-lys-MH-ZT-app-01",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "ar"
-        ],
-        "headline": "Watch more content now!",
-        "call_to_action": "WATCH",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-09-06T16:00:19.000Z",
-        "impressions_total": 23087,
-        "impressions_map": {
-          "de": 2383,
-          "be": 804,
-          "fi": 266,
-          "pt": 52,
-          "bg": 1374,
-          "dk": 163,
-          "lt": 32,
-          "lu": 56,
-          "hr": 34,
-          "lv": 0,
-          "fr": 1484,
-          "hu": 48,
-          "se": 775,
-          "si": 18,
-          "sk": 47,
-          "ie": 134,
-          "ee": 0,
-          "el": 569,
-          "mt": 0,
-          "it": 3528,
-          "es": 1090,
-          "at": 726,
-          "cy": 0,
-          "cz": 236,
-          "pl": 1086,
-          "ro": 135,
-          "nl": 852,
-          "tr": 7195
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "ar"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "web_view_properties": {
-          "url": "https://sn.dramabox.com/db_land_page/DLLPS1050892.html?language=ar&timestamp=1757043686187&channelCode=DLLPS1050892&bid=41000120032&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&ad_group_name={{adSet.name}}&ad_group_id={{adSet.id}}&ad_id={{ad.id}}&ad_name={{creative.name}}"
-        },
-        "review_status": "DISAPPROVED",
-        "rejection_reasons": [
-          "Your ad contains content that could be considered inappropriate, including nudity, sexual content, body objectification, sexually provocative behavior or sexually suggestive imagery. This may include obscuring heads or faces, or focus on particular parts of the body unrelated to the advertised product or service. We prohibit ads that depict nudity and sexual content and all forms of body objectification."
-        ],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "70349256-8da8-4f8c-b00f-ccb56a34b03a",
-        "name": "2-916-250227-MECA-XENA/转盘失败/LL.mp4",
+        "id": "e286e351-75c4-481e-9c44-15a2e1e75b98",
+        "name": "2-916-202411-Xena Live-南亚(EN)-刷礼物爽感真人惊讶-DC.mp4",
         "ad_account_name": "APPXenaLive-MICO-MECA-Snapchat-Mad-ZT-1",
         "status": "ACTIVE",
         "creative_type": "APP_INSTALL",
         "ad_type": "APP_INSTALL",
         "ad_render_type": "STATIC",
         "languages": [
+          "hi",
           "ar"
         ],
         "headline": "يمكنك لعب الألعاب في المستوى 10",
         "call_to_action": "INSTALL NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sa2xQH0cUqCXQebxhzfqI.67?mo=GvgCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBQwhDEi8KLQjxilAgAUojCh6qAWdaX0cxCwUECU4RFhgTHS4rL0kcExMiJisXHyIQ9ANoAiIOCgpCBgiIgIa-BkgDEgCiAUQIugoSLwotCNavTSABSiMKHp8BTVNVSCcOBgcGYR0eGx0pLCE9ISIaHSsbJA4YGxD0A2gCIg4KCkIGCJaBhr4GSAISAKIBQgh_Ei4KLAiXgTogAUoiCh16QDs7MB8IBAYDMxQYFxQYIyIoMxkSExsaGw0SGRD0A2gCIg4KCkIGCJaBhr4GSAISAKIBQwiSChIuCiwIzcc7IAFKIgodfEc_Pi8mCgUGBTQRGREUGCIiKDEYEBQdGxwQEhsQ9ANoAiIOCgpCBgiWgYa-BkgCEgCiAUMIxAoSLgosCJPBMiABSiIKHW80NzguGQkEBQNBEhMQEhsaFCcUFRASGhIXCxEUEPQDaAIiDgoKQgYIloGGvgZIAhIAkAOWdA%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vm00lhBNNmMQkWB0GNJ3t.67?mo=Gt8BGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBJghDEh4KHAjw-5oBIAFKEQoMsQEzgQFjhQFXSFtpEPQDaAIiAhIAogElCLoKEhwKGgiymoUBIAFKDwoKywEqaV17SElUXRD0A2gCIgISAKIBIwh_EhsKGQixvm0gAUoPCgqSAShdRWJANUNLEPQDaAIiAhIAogEkCJIKEhsKGQjGrHEgAUoPCgqSASlZVl5DOEZQEPQDaAIiAhIAogEkCMQKEhsKGQiJuFcgAUoPCgqGARxGO1QwMDY-EPQDaAIiAhIAkAPIWw%3D%3D&uc=15",
         "start_date": "2025-04-21T07:33:05.000Z",
-        "impressions_total": 179962,
+        "impressions_total": 8543,
         "impressions_map": {
-          "de": 17837,
-          "be": 3402,
-          "fi": 1177,
-          "pt": 240,
-          "bg": 23725,
-          "dk": 605,
-          "lt": 520,
-          "lu": 572,
-          "hr": 217,
+          "de": 578,
+          "be": 95,
+          "fi": 57,
+          "pt": 7,
+          "bg": 2104,
+          "dk": 16,
+          "lt": 80,
+          "lu": 18,
+          "hr": 3,
           "lv": 0,
           "fr": 0,
-          "hu": 459,
-          "se": 2637,
-          "si": 108,
-          "sk": 985,
-          "ie": 460,
+          "hu": 17,
+          "se": 70,
+          "si": 8,
+          "sk": 21,
+          "ie": 17,
           "ee": 0,
-          "el": 6894,
+          "el": 339,
           "mt": 0,
-          "it": 14817,
-          "es": 1672,
-          "at": 5977,
+          "it": 859,
+          "es": 140,
+          "at": 317,
           "cy": 0,
-          "cz": 958,
-          "pl": 2240,
-          "ro": 1349,
-          "nl": 11299,
-          "tr": 81812
+          "cz": 124,
+          "pl": 33,
+          "ro": 51,
+          "nl": 241,
+          "tr": 3348
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -1142,137 +182,148 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "e3c6eb9f-4556-4d8a-a0f9-864414bf492e",
-        "name": "152479_en_FB_giselle_0203_own_yp_4-c-24min+",
-        "ad_account_name": "FF-PD-3-1124-01",
+        "id": "2dd39379-ba38-4fc3-b9ba-56ba2a744f88",
+        "name": "Game-V-250411-1-AR",
+        "ad_account_name": "AppHiParty-qire-/-MH-ZT-social-03",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
         "ad_render_type": "STATIC",
         "languages": [
-          "en"
+          "ar"
         ],
-        "headline": "Continue watching👉👀",
-        "call_to_action": "WATCH",
+        "headline": "إنها فرصة عابرة جرب حظك",
+        "call_to_action": "INSTALL NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Bs9l35gQ51ASaU0yI6N8v.67?mo=GvoBGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNAhDEigKJgjAouYmIAEw4AM41AZAAUoPCgr6CCAWDxMQHREUEPQDUO63WmgCIgYKAkgEEgCiATUIugoSKAomCL-QrycgATDQBTiACkACSg8KCvUHIhoQGw0ZFxMQ9ANQ7rdaaAIiBgoCSAMSAKIBNQiSChIoCiYI1rG0GSABMOADONQGQAJKDwoKngkaEwsMChIKCxD0A1Dut1poAiIGCgJIAhIAogE1CNIKEigKJgiFxakZIAEw4AM41AZAAkoPCgrVBxcRChEJEA4LEPQDUO63WmgCIgYKAkgCEgCQA-63Wg%3D%3D&uc=15",
-        "start_date": "2026-02-15T16:00:00.000Z",
-        "impressions_total": 10,
+        "start_date": "2025-05-01T12:09:53.000Z",
+        "impressions_total": 2039,
         "impressions_map": {
-          "de": 0,
-          "be": 1,
-          "fi": 1,
+          "de": 205,
+          "be": 29,
+          "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 1,
+          "dk": 2,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 0,
+          "fr": 221,
           "hu": 0,
-          "se": 5,
+          "se": 35,
           "si": 0,
           "sk": 0,
           "ie": 0,
           "ee": 0,
           "el": 0,
           "mt": 0,
-          "it": 0,
-          "es": 0,
+          "it": 208,
+          "es": 58,
           "at": 0,
           "cy": 0,
           "cz": 0,
           "pl": 0,
-          "ro": 1,
-          "nl": 1,
-          "tr": 0
+          "ro": 0,
+          "nl": 114,
+          "tr": 1167
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
               "min_age": "18",
+              "max_age": "45",
               "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
+              "languages": [
+                "ar"
+              ],
               "advanced_demographics": []
             }
           ],
-          "devices": []
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "os_version_min": "11",
+              "carrier_id": []
+            }
+          ]
         },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "FlareFlow",
-        "profile_name": "FlareFlow",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZk92WHZjaVBScU9XOWVnRnBzdnZNP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://w2a.flareflow.tv/snap02.html?ff_adid=80395&utm_id=flareflowsnappixel&language=en&timestamp=1770468966004&utm_source=snapchat&campaign_id={{campaign.id}}&campaign_name={{campaign.name}}&ad_set_id={{adSet.id}}&ad_id={{ad.id}}"
+        "app_install_preview": {
+          "app_name": "HiParty",
+          "ios_app_id": "6478166949",
+          "android_app_url": "com.baori.hiparty",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/9nL7ZMyvm0OmmD3mPEGk7.438?mo=GjEaFDIBBDoBfUIGCI70u70GSAJQD2ABWg9BZHNJbWFnZUFwcEljb26iAQcItgMiAhIA&uc=15",
+          "playable_media_properties": {}
         },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
+        ],
         "stickers": []
       }
     },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "596721a9-81dd-4560-bf6c-916c91b4d427",
-        "name": "CN-AY-CBTAIH-BEFq02-OL-250506-9_16-ZXW-Snap",
-        "ad_account_name": "APPReelShort-Crazymaple-tool-/-MH-ZT-01",
+        "id": "360d6ddc-bb6c-4a56-8845-379cad031d3d",
+        "name": "1180538",
+        "ad_account_name": "md_AppLandsofJail-aileyou_SG骏游_ios_Lands of Jail_Social_snap_abing03-01",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
         "ad_render_type": "STATIC",
         "languages": [
           "en"
         ],
-        "headline": "Claimed by the Alpha I Hate🔥️🔥️",
-        "call_to_action": "MORE",
+        "headline": "The latest prison crime theme RPG",
+        "call_to_action": "PLAY GAME",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TGU9pCFwpflQXjtchN5bK.67?mo=GvgBGggyAgR9UA9gAVoIQWRzTWVkaWGiATQIQxIoCiYI3rWlHSABMOADONQGQAFKDwoKkwgdHCQSFSMhERD0A1DOsDloAiIGCgJIAxIAogE1CLoKEigKJgi9o5sbIAEw0AU4gApAAkoPCgqbBhkXIBAQHCIQEPQDUM6wOWgCIgYKAkgDEgCiATUIkgoSKAomCKGA_hIgATDgAzjUBkACSg8KCqUIERQVDQwTFwoQ9ANQzrA5aAIiBgoCSAISAKIBNQjEChIoCiYIyOjkESABMOADONYGQAJKDwoKjwYRDxYLChMcChD0A1DOsDloAiIGCgJIAhIAkAPOsDk%3D&uc=15",
-        "start_date": "2025-05-29T07:12:06.000Z",
-        "impressions_total": 6504,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/eUxag4OP9yt2mcZoL3yCf.67?mo=GpYCGggyAgR9UA9gAVoIQWRzTWVkaWGiATkIQxItCisIhtvoAiABMOADONQGQAFKDwoKogEmNj9NTFdCRRD0A1DazANoAnVCFl9AIgYKAkgCEgCiAToIugoSLQorCNTR2AIgATDQBTiACkACSg8KCsQBJjZHSTdQQD8Q9ANQ2swDaAJ15A18QCIGCgJIAxIAogE_CJIKEjIKMAid7ooCIAEw4AM41AZAAkoPCgqJARwwMD4-RDktEPQDUNrMA2gCdbr8VEB9AACAPyIGCgJIAhIAogE_CNIKEjIKMAi11eIBIAEw4AM41AZAAkoPCgqQARghLS0lNCorEPQDUNrMA2gCdbZ8YUB9AACAPyIGCgJIAhIAkAPazAM%3D&uc=15",
+        "start_date": "2025-10-21T04:22:54.000Z",
+        "impressions_total": 43702,
         "impressions_map": {
-          "de": 108,
-          "be": 361,
-          "fi": 147,
-          "pt": 216,
-          "bg": 435,
-          "dk": 74,
-          "lt": 246,
-          "lu": 217,
-          "hr": 313,
+          "de": 1503,
+          "be": 11373,
+          "fi": 1909,
+          "pt": 843,
+          "bg": 257,
+          "dk": 1998,
+          "lt": 326,
+          "lu": 758,
+          "hr": 386,
           "lv": 0,
-          "fr": 374,
-          "hu": 133,
-          "se": 255,
-          "si": 454,
-          "sk": 57,
-          "ie": 895,
+          "fr": 466,
+          "hu": 433,
+          "se": 5076,
+          "si": 767,
+          "sk": 77,
+          "ie": 3213,
           "ee": 0,
-          "el": 338,
+          "el": 718,
           "mt": 0,
-          "it": 247,
-          "es": 98,
-          "at": 77,
+          "it": 807,
+          "es": 525,
+          "at": 1539,
           "cy": 0,
-          "cz": 39,
-          "pl": 52,
-          "ro": 274,
-          "nl": 350,
-          "tr": 744
+          "cz": 297,
+          "pl": 818,
+          "ro": 967,
+          "nl": 7092,
+          "tr": 1554
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "18",
+              "min_age": "20",
+              "max_age": "50",
               "age_groups": [],
-              "languages": [
-                "en"
-              ],
+              "gender": "MALE",
+              "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
             }
@@ -1282,24 +333,20 @@
               "marketing_name": [],
               "model": [],
               "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
+              "os_version_min": "14.0",
               "carrier_id": [],
               "operation": "INCLUDE"
             }
           ]
         },
         "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "ReelShort APP",
-        "profile_name": "ReelShort",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QveHFvVm1LblVwNHlubTJGS3RXVktJP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://w2a.reelshort.com/w2a/booksAdvPage/?book_id=67aab6d180531fad7304cf74&chapterId=3p47w5cf0i&chapterIndex=1&mediaType=sc&px=1f8e9185.3ffb.5%253Abb.b2%253A%253A.363g9f51f33e&push_type=2&book_type=1&utm_adset={{adSet.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.id}}&utm_content={{ad.id}}"
+        "brand_name": "Lands of Jail",
+        "app_install_preview": {
+          "app_name": "Lands of Jail",
+          "ios_app_id": "6738469826",
+          "android_app_url": "com.justgame.jails",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/iR7sOPOBt7MiZJ1zphrSA.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "playable_media_properties": {}
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -1309,50 +356,319 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "ed75bc48-2793-470d-b03a-6299ad77fe1d",
-        "name": "KW003-EU",
-        "ad_account_name": "HS-EU-AN-NEOMAN-MH-ZT-gaming",
+        "id": "6ed3a72b-2fd7-4426-8cfd-92b3ef35878e",
+        "name": "28_daikui_EC_EN_L094_260301_FF_GX",
+        "ad_account_name": "SC-MAD-NS-LR-UTC+0-7",
         "status": "ACTIVE",
-        "creative_type": "LENS_APP_INSTALL",
-        "ad_type": "LENS_APP_INSTALL",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Huntingsniper",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "LENS_PACKAGE",
+        "languages": [
+          "en"
+        ],
+        "headline": "Hidden Wolf King：A Hybrid Loser",
+        "call_to_action": "GET NOW",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/7370835c-c9f8-4104-ac9a-821ceb68afae.lens",
-        "start_date": "2026-03-11T10:00:30.000Z",
-        "impressions_total": 125749,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FBav0SRlQkDMD4I9ap7aB.67?mo=GvoBGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNAhDEigKJgiq98Y5IAEw4AM41AZAAUoPCgquDRwtGCIZHhsvEPQDUKKHX2gCIgYKAkgCEgCiATUIugoSKAomCLnfwzcgATDQBTiACkACSg8KCqMKHiQdIhkcHyEQ9ANQoodfaAIiBgoCSAMSAKIBNQiSChIoCiYI7NniKCABMOADONQGQAJKDwoK2g0WHxYaFRoYGRD0A1Cih19oAiIGCgJIAhIAogE1CNIKEigKJgiezNgoIAEw4AM41AZAAkoPCgqTChMbFRkSFBYZEPQDUKKHX2gCIgYKAkgCEgCQA6KHXw%3D%3D&uc=15",
+        "start_date": "2026-03-11T03:37:15.000Z",
+        "impressions_total": 69,
         "impressions_map": {
-          "de": 53869,
-          "be": 5319,
-          "fi": 2344,
-          "pt": 898,
-          "bg": 1271,
-          "dk": 849,
-          "lt": 2993,
+          "de": 0,
+          "be": 0,
+          "fi": 10,
+          "pt": 0,
+          "bg": 0,
+          "dk": 2,
+          "lt": 0,
           "lu": 0,
-          "hr": 2185,
+          "hr": 0,
           "lv": 0,
-          "fr": 20511,
-          "hu": 1915,
-          "se": 2941,
-          "si": 1496,
-          "sk": 1954,
-          "ie": 3769,
+          "fr": 0,
+          "hu": 0,
+          "se": 8,
+          "si": 0,
+          "sk": 0,
+          "ie": 39,
           "ee": 0,
-          "el": 782,
+          "el": 0,
           "mt": 0,
-          "it": 3295,
-          "es": 3445,
-          "at": 1685,
+          "it": 0,
+          "es": 0,
+          "at": 0,
           "cy": 0,
-          "cz": 1368,
-          "pl": 3729,
-          "ro": 5948,
-          "nl": 3183,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 10,
           "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "55",
+              "age_groups": [],
+              "languages": [
+                "en"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": []
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": []
+            }
+          ]
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "brand_name": "NetShort-Popular Dramas & TV",
+        "profile_name": "NetShort-Popular Dramas & TV",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR0M0YUMzdXpmejZLZ2s2ZFdBM01yP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://sc.netshort.com/snapchat/wS9bht22-YR.html?pid=snapchat_web&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset_id={{adSet.id}}&af_ad_id={{ad.id}}&af_adset={{adSet.name}}&af_force_deeplink=true&type=1&link_id=2031575135730794498&af_sub2=0"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "87419547-8897-470b-b289-6256cad383b5",
+        "name": "250409-LY-4fun-mena-A162-cut-2-V",
+        "ad_account_name": "App4Fun lite-xingyunhuizhi2-/-MH-ZT-social-01",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "ar"
+        ],
+        "headline": "تعرف على المزيد من الأصدقاء",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-05-07T10:26:15.000Z",
+        "impressions_total": 56700,
+        "impressions_map": {
+          "de": 5275,
+          "be": 3394,
+          "fi": 1251,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 5581,
+          "hu": 0,
+          "se": 2553,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 21747,
+          "es": 0,
+          "at": 1728,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 3249,
+          "tr": 11922
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "20",
+              "max_age": "45",
+              "age_groups": [],
+              "languages": [
+                "ar"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "os_version_min": "11.3",
+              "carrier_id": []
+            }
+          ]
+        },
+        "app_install_preview": {
+          "app_name": "4Fun",
+          "ios_app_id": "1534252521",
+          "android_app_url": "com.nebula.mamu.lite",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/74ttXkWIdvwwnVMpGtFjB.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "enable_skoverlay": true,
+          "playable_media_properties": {}
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad contains content related to dating apps or meet up services. Ads for dating services must be age targeted to 18+ and must not be provocative, overtly sexual in nature (includes imagery, sound and text), reference transactional companionship, or promote or glamorize infidelity. Transactional companionship includes any transfer of any kind of payment or gifts, including tokens or coins, in exchange for pictures, chatting or meeting. All individuals pictured in ads for dating services must not be, or appear to be, too young to use the service.",
+          "Your ad contains content that could be considered inappropriate, including nudity, sexual content, body objectification, sexually provocative behavior or sexually suggestive imagery. This may include obscuring heads or faces, or focus on particular parts of the body unrelated to the advertised product or service. We prohibit ads that depict nudity and sexual content and all forms of body objectification."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c2c5797b-3d63-44ad-8835-cdeba4eceecb",
+        "name": "V1263374_E2135638_视频_二部改_男人没想到_EN_20251029",
+        "ad_account_name": "appLegend of Elements-4399-/-MH-ZT-gaming-02",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Master the elements!",
+        "call_to_action": "PLAY GAME",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1l5uEJoYidYP7e8V3yaQS.67?mo=GpICGggyAgR9UA9gAVoIQWRzTWVkaWGiATgIQxIsCioI3v27AiABMOADONQGQAFKDgoJXhceHmFZT0wbEPQDUOi4AmgCdWi2TEAiBgoCSAQSAKIBOQi6ChIsCioI_vOFAiABMNAFOIAKQAJKDgoJZBAaGkc1PUAaEPQDUOi4AmgCdRh_VUAiBgoCSAMSAKIBPgiSChIxCi8I0afbASABMOADONQGQAJKDgoJTw4UE0U9OTIXEPQDUOi4AmgCdRRPQEB9AACAPyIGCgJIAhIAogE-CNIKEjEKLwi2oqkBIAEw4AM41AZAAkoOCglOCxERMCYrKw8Q9ANQ6LgCaAJ1fEBCQH0AAIA_IgYKAkgCEgCQA-i4Ag%3D%3D&uc=15",
+        "start_date": "2025-10-29T07:46:10.000Z",
+        "impressions_total": 836,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 80,
+          "pt": 0,
+          "bg": 0,
+          "dk": 128,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 144,
+          "si": 0,
+          "sk": 0,
+          "ie": 204,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 280,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "50",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "os_version_min": "12.0",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "profile_name": "Legend of Elements",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbkxZcWJpOE04dzdkeHphWXU4NFlmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "app_install_preview": {
+          "app_name": "Legend of Elements",
+          "ios_app_id": "6748004801",
+          "android_app_url": "com.zzsjus.google",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/5ElDjgesPdWgfZ4sGYNld.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a193c175-37db-448c-8410-39b2a22055ca",
+        "name": "6",
+        "ad_account_name": "appCloseUp-hangzhouxiyi-/-MH-ZT-social-01",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "lets chat!",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-06-18T07:56:04.000Z",
+        "impressions_total": 141,
+        "impressions_map": {
+          "de": 5,
+          "be": 1,
+          "fi": 2,
+          "pt": 7,
+          "bg": 32,
+          "dk": 1,
+          "lt": 3,
+          "lu": 1,
+          "hr": 16,
+          "lv": 0,
+          "fr": 0,
+          "hu": 2,
+          "se": 2,
+          "si": 3,
+          "sk": 1,
+          "ie": 2,
+          "ee": 0,
+          "el": 12,
+          "mt": 0,
+          "it": 11,
+          "es": 4,
+          "at": 0,
+          "cy": 0,
+          "cz": 6,
+          "pl": 12,
+          "ro": 7,
+          "nl": 1,
+          "tr": 10
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -1371,33 +687,198 @@
               "marketing_name": [],
               "model": [],
               "os_type": "ANDROID",
-              "os_version_min": "7.0",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "app_install_preview": {
+          "app_name": "CloseUp - Live video chat",
+          "android_app_url": "com.gosoloer.glowup",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/0W6obP0jc7YYatMmtnOJ9.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c05180d4-3e29-4179-a6aa-60d22a464a3d",
+        "name": "20251028-Live-SC-ZB_KB1-V-CHJ.mp4",
+        "ad_account_name": "appPure-ESSENTIALSxu-/-MH-ZT-social-01",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Video chat",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8AQZhxk4xuftzno5BjuhS.67?mo=GoICGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBNQhDEi0KKwi224sBIAEw4AM41AZAAUoPCgqCAU1IUzkvQTcpEPQDUP6KAWgCdbCcS0AiAhIAogE0CLoKEisKKQjg3HwgATDQBTiACkACSg4KCXRKRlM9Jy08LhD0A1D-igFoAnUoPklAIgISAKIBOQiSChIwCi4I4pheIAEw4AM41AZAAkoOCgleMCw9LR4sKSMQ9ANQ_ooBaAJ1XJ88QH0AAIA_IgISAKIBOQjSChIwCi4IsehSIAEw4AM41AZAAkoOCglVLyo1KRoeJRoQ9ANQ_ooBaAJ1FkhCQH0AAIA_IgISAJAD_ooB&uc=15",
+        "start_date": "2026-02-27T12:04:28.000Z",
+        "impressions_total": 4696,
+        "impressions_map": {
+          "de": 733,
+          "be": 0,
+          "fi": 325,
+          "pt": 0,
+          "bg": 0,
+          "dk": 206,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 165,
+          "hu": 0,
+          "se": 689,
+          "si": 0,
+          "sk": 0,
+          "ie": 860,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 504,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 1214,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "os_version_min": "14.0",
               "carrier_id": [],
               "operation": "INCLUDE"
             }
           ]
         },
         "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "Hunting Sniper",
-        "profile_name": "Huntingsniper",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ21HcHV1N01Cd1ZJOHQwaXliMFRmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "lens_preview": {
-          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/lxvBbIQrQVlSY8ugLQLcj?bo=EhQyAX06AQRCBgjL0r_NBkgCUBJgAQ%3D%3D&uc=18",
-          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/12e0ce0c-0c0c-4c1e-8a64-a1b7723f1a6f.mp4",
-          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/12e0ce0c-0c0c-4c1e-8a64-a1b7723f1a6f.webp"
-        },
+        "brand_name": "Pure",
+        "profile_name": "Live Girl",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NiZXJ2Y1RsbVFZQTM2Q01nOG4zP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "app_install_preview": {
-          "app_name": "Hunting Sniper",
-          "ios_app_id": "6472705058",
-          "android_app_url": "com.europe.huntingsniper",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/n8bljQCKEbKCYdDqqinhU.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {
-            "playable_media_download_link": "https://cf-st.sc-cdn.net/d/38ihHsMAbDjHqH8VxsWiX/index.html?go=Ig4KCjICBH1IAVAPYAEYCg%3D%3D&uc=15",
-            "playable_call_to_action": "TRY_IT_OUT"
-          }
+          "app_name": "Pure: Video & 1V1 Call",
+          "ios_app_id": "6744673902",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/j4JaxkCNtLDS9M8U6pROB.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "47871359-534a-4bd4-81cd-7bd9ff56b20f",
+        "name": "Game-V-250325-2-AR",
+        "ad_account_name": "AppHiParty-qire-/-MH-ZT-social-03",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "ar",
+          "ku"
+        ],
+        "headline": "بين الفوز والخسارة، متعة لا تنتهي!",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-04-03T10:18:58.000Z",
+        "impressions_total": 2865,
+        "impressions_map": {
+          "de": 342,
+          "be": 53,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 19,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 258,
+          "hu": 0,
+          "se": 116,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 318,
+          "es": 39,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 188,
+          "tr": 1532
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "languages": [
+                "ar"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "os_version_min": "11",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "app_install_preview": {
+          "app_name": "HiParty",
+          "ios_app_id": "6478166949",
+          "android_app_url": "com.baori.hiparty",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/9nL7ZMyvm0OmmD3mPEGk7.438?mo=GjEaFDIBBDoBfUIGCI70u70GSAJQD2ABWg9BZHNJbWFnZUFwcEljb26iAQcItgMiAhIA&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
+        ],
         "stickers": []
       }
     }

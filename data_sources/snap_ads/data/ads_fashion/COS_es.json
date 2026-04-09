@@ -1,15 +1,16 @@
 {
   "brand": "COS",
   "country": "es",
-  "fetched_at": "2026-04-08T23:58:53.829Z",
+  "fetched_at": "2026-04-09T18:10:58.658Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "595d16aa-6a37-46ed-88cc-881530c4658e",
-        "name": "gymbag spanish 1",
-        "ad_account_name": "Costa House Self Service",
+        "id": "077605c3-46ad-47b2-b6ef-0bc0c27302cb",
+        "name": "1005",
+        "ad_account_name": "Honevea Cosmetics Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
@@ -17,13 +18,13 @@
         "languages": [
           "es"
         ],
-        "headline": "Consigue el tuyo ahora!",
-        "call_to_action": "SHOP NOW",
+        "headline": "2+1 GRATIS",
+        "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sCzCn0Jvxclhvo3DKV3xj.67?mo=GpICGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiTzbwBIAEw4AM41AZAAUoOCglqOyk6N15UPz0Q9ANQrOgBaAJ1PBZOQCIGCgJIAxIAogE5CLoKEiwKKgjDoZIBIAEw0AU4gApAAkoOCglTOhYsKlI0MC0Q9ANQrOgBaAJ1gPRaQCIGCgJIAxIAogE9CJIKEjAKLgjg13ogATDgAzjUBkACSg4KCVAkGCYlSjQmKxD0A1Cs6AFoAnUo9UFAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4InZBlIAEw4AM41AZAAkoOCglEHQ4hHjUdHh8Q9ANQrOgBaAJ1I6dPQH0AAIA_IgYKAkgCEgCQA6zoAQ%3D%3D&uc=15",
-        "start_date": "2025-11-09T16:58:18.000Z",
-        "impressions_total": 2296,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zen6aM7k0eyn5G5o1v4P3.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI6PclIAEw4AM41AZAAUoOCglGGxwNERQQDxEQ9ANQ5IIBaAIiBgoCSAUSAKIBMwi6ChImCiQItY8mIAEw0AU4gApAAkoOCglPIxERERYMEBIQ9ANQ5IIBaAIiBgoCSAISAKIBMgh_EiYKJAj-0hYgATDgAzjUBkACSg4KCTMQEAcJDAgJCRD0A1DkggFoAiIGCgJIAhIAogEzCJIKEiYKJAiLsBcgATDgAzjUBkACSg4KCTQQEQcKCwkIChD0A1DkggFoAiIGCgJIAhIAogEzCMQKEiYKJAjK-RggATDgAzjWBkACSg4KCTwXCwsLDgcLChD0A1DkggFoAiIGCgJIAhIAogEzCNIKEiYKJAjD0RogATDgAzjUBkACSg4KCT0ZDAwMEAgMDBD0A1DkggFoAiIGCgJIAhIAkAPkggE%3D&uc=15",
+        "start_date": "2025-07-14T21:47:34.000Z",
+        "impressions_total": 1339,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -45,7 +46,84 @@
           "el": 0,
           "mt": 0,
           "it": 0,
-          "es": 2296,
+          "es": 1339,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "es"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Honevea Cosmetics",
+        "profile_name": "Honevea Cosmetics",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdmdnYmxFMUhTY1lqeTROdzlpZVo4P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://honevea.com/es/products/serum-de-renforcement-des-cils"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ce2d3403-6468-46e9-9ada-4903f7eab34d",
+        "name": "30 jours ES",
+        "ad_account_name": "Honevea Cosmetics Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "es"
+        ],
+        "headline": "-20% con el código ETE20!",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/eD5gz0X3Z6S17dTztzd0t.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2025-06-14T22:54:34.000Z",
+        "impressions_total": 1126,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 1126,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -63,16 +141,17 @@
               "languages": [
                 "es"
               ],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Costa House",
-        "profile_name": "StayUp",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "paying_advertiser_name": "Honevea Cosmetics",
+        "profile_name": "Honevea Cosmetics",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdmdnYmxFMUhTY1lqeTROdzlpZVo4P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
         "web_view_properties": {
-          "url": "https://costahouse.net/products/stayup-magnetic-gym-bag-1?variant=50851852910880"
+          "url": "https://honevea.com/es/products/serum-de-renforcement-des-cils"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -82,96 +161,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "7ddc1f6a-68f5-433f-a23b-25b9435560e0",
-        "name": "mirror 4",
-        "ad_account_name": "Costa House Self Service",
+        "id": "5fa28d33-1c5b-4492-ad42-0c4f17c2a853",
+        "name": "ppl_ibiza-store",
+        "ad_account_name": "Lacoste_E-commerce",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "AD_TO_PLACE",
+        "ad_type": "AD_TO_PLACE",
         "ad_render_type": "STATIC",
         "languages": [
-          "en"
+          "es"
         ],
-        "headline": "HOLIDAY SEASON 50% OFF!",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
+        "headline": "Lacoste in Ibiza",
+        "call_to_action": "SEE PLACE",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qsAvVYuidrzj0octs96D5.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQjN1TQgATDgAzjUBkABSg4KCV8jNSQsHiIXGRD0A1CeggFoAnVR6llAIgYKAkgCEgCiAT0IugoSMAouCMeZLSABMNAFOIAKQAJKDgoJeR0iJCMeFBcTEPQDUJ6CAWgCdU5DY0B9AACAPyIGCgJIAxIAogE9CJIKEjAKLgiW8R0gATDgAzjUBkACSg4KCUMSHRkaExQNDRD0A1CeggFoAnWfolJAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4IuJseIAEw4AM41AZAAkoOCglFExcYFxQOEA4Q9ANQnoIBaAJ11t5bQH0AAIA_IgYKAkgCEgCQA56CAQ%3D%3D&uc=15",
-        "start_date": "2025-12-10T23:44:27.000Z",
-        "impressions_total": 1576,
-        "impressions_map": {
-          "de": 6,
-          "be": 29,
-          "fi": 14,
-          "pt": 46,
-          "bg": 167,
-          "dk": 0,
-          "lt": 40,
-          "lu": 44,
-          "hr": 208,
-          "lv": 0,
-          "fr": 0,
-          "hu": 42,
-          "se": 15,
-          "si": 311,
-          "sk": 16,
-          "ie": 11,
-          "ee": 0,
-          "el": 127,
-          "mt": 0,
-          "it": 84,
-          "es": 21,
-          "at": 22,
-          "cy": 0,
-          "cz": 40,
-          "pl": 48,
-          "ro": 270,
-          "nl": 15,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Costa House",
-        "profile_name": "Costa Supply",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://costahouse.net/products/proglow-portable-led-vanity-mirror?variant=51028219298080"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "0e50b31b-96ca-4dcb-81c0-df2179e644bf",
-        "name": "VideoAd_9x16_XX_BlushMultistickShortYT_LearnMore",
-        "ad_account_name": "Catrice Cosmetics",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "OWN YOUR MAGIC.",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ushVQYlwngvf3f0aaIYVM.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIh-cYIAFKDgoJIiIxPCIeKTAmEPQDaAIiBgoCSAISAKIBJwi6ChIaChgI0-cQIAFKDgoJHRgXHxYPHyEcEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjtoAwgAUoOCgkWFREZEA0TGRIQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi0hg0gAUoOCgkWFhUbEgwVGhIQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjXiAsgAUoOCgkWEA4VDQoUFxEQ9ANoAiIGCgJIAhIAkAOYLw%3D%3D&uc=15",
-        "start_date": "2025-05-18T22:00:35.000Z",
-        "impressions_total": 269145,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hBe62TepANSKJOFcF8ZNH.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-07-16T12:06:05.000Z",
+        "impressions_total": 32317,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -193,7 +199,78 @@
           "el": 0,
           "mt": 0,
           "it": 0,
-          "es": 269145,
+          "es": 32317,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Lacoste",
+        "profile_name": "Lacoste",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUk15SkF6ZFRVVnlCUDZwdXVzbTZmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2497bca2-21a4-4b04-a7e4-ff6de0b9bdc6",
+        "name": "VideoAd_9x16_XX_DiamondHighlighterShortYT_LearnMore",
+        "ad_account_name": "Catrice Cosmetics",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "OWN YOUR MAGIC.",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/icGGXEY1wDAm02LmZlOLW.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAii0SAgAUoOCgk1LCQjHjVsJxgQ9ANoAiICEgCiASMIugoSGgoYCNW3GCABSg4KCS8aHBcbHWAfGhD0A2gCIgISAKIBIgh_EhoKGAifwhEgAUoOCgkgFhMPDxZEGxEQ9ANoAiICEgCiASMIkgoSGgoYCOn_ESABSg4KCSIWEhEQGT4eERD0A2gCIgISAKIBIwjEChIaChgImfUPIAFKDgoJIBIRDxATQRQREPQDaAIiAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-05-18T22:00:35.000Z",
+        "impressions_total": 257214,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 257214,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -219,7 +296,319 @@
         "profile_name": "Catrice_Cosmetics",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdUtDeFdnTEhVSTZiclkyWWRyREtJP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.primor.eu%2Fes_es%2Fcatrice-blushin-charm-multi-stick-122001.html%3Futm_source%3Dcpc%26utm_medium%3Dsocial%26utm_campaign%3Des-externa-catrice-instagram-pdp-122001-&data=05%7C02%7CI.Scharf%40cosnova.com%7C3628b88a5e8b441ee2a408dd91efcfa5%7C89094d94eae944db97677fd72e6191e5%7C0%7C0%7C638827181388044816%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8zeqP%2BU0Dz%2FMv%2Bc%2BG5BBDFI3TJai2ywIAiyal2x%2Bens%3D&reserved=0"
+          "url": "https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.primor.eu%2Fes_es%2Fcatrice-diamond-haze-iluminador-122002.html%3Futm_source%3Dcpc%26utm_medium%3Dsocial%26utm_campaign%3Des-externa-catrice-instagram-pdp-122002-&data=05%7C02%7CI.Scharf%40cosnova.com%7C3628b88a5e8b441ee2a408dd91efcfa5%7C89094d94eae944db97677fd72e6191e5%7C0%7C0%7C638827181388023368%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4ND5PLutECyoTEl0l2vOd4AoOdQfTSbraRP6Oh%2FL0G0%3D&reserved=0"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "0d63043c-b6ef-4b18-ab16-b15e793045fa",
+        "name": "VideoAd_9x16_XX_DiamondHighlighterShortYT_LearnMore",
+        "ad_account_name": "Catrice Cosmetics",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "OWN YOUR MAGIC.",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/icGGXEY1wDAm02LmZlOLW.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAii0SAgAUoOCgk1LCQjHjVsJxgQ9ANoAiICEgCiASMIugoSGgoYCNW3GCABSg4KCS8aHBcbHWAfGhD0A2gCIgISAKIBIgh_EhoKGAifwhEgAUoOCgkgFhMPDxZEGxEQ9ANoAiICEgCiASMIkgoSGgoYCOn_ESABSg4KCSIWEhEQGT4eERD0A2gCIgISAKIBIwjEChIaChgImfUPIAFKDgoJIBIRDxATQRQREPQDaAIiAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-05-18T22:00:03.000Z",
+        "impressions_total": 846151,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 846151,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "cosnova GmbH",
+        "profile_name": "Catrice_Cosmetics",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdUtDeFdnTEhVSTZiclkyWWRyREtJP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.primor.eu%2Fes_es%2Fcatrice-diamond-haze-iluminador-122002.html%3Futm_source%3Dcpc%26utm_medium%3Dsocial%26utm_campaign%3Des-externa-catrice-instagram-pdp-122002-&data=05%7C02%7CI.Scharf%40cosnova.com%7C3628b88a5e8b441ee2a408dd91efcfa5%7C89094d94eae944db97677fd72e6191e5%7C0%7C0%7C638827181388023368%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4ND5PLutECyoTEl0l2vOd4AoOdQfTSbraRP6Oh%2FL0G0%3D&reserved=0"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3353e15a-4c8f-48f7-9638-86e8a17b1962",
+        "name": "gymbag6",
+        "ad_account_name": "Costa House Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Get yours now!",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fY8swIbthZdaEpzo2mlTB.67?mo=GoMCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE0CEMSLAoqCKXbgAEgATDgAzjUBkABSg4KCVgaFhw8NDgdGxD0A1CarQFoAnUH0URAIgISAKIBNAi6ChIrCikI5OFmIAEw0AU4gApAAkoOCglYGBEXLSonHhQQ9ANQmq0BaAJ1jg1IQCICEgCiATkIkgoSMAouCMbCWiABMOADONQGQAJKDgoJQxQQEy0pJxcUEPQDUJqtAWgCdcOtOEB9AACAPyICEgCiATkI0goSMAouCPjoSiABMOADONQGQAJKDgoJRREMECEfIhcPEPQDUJqtAWgCdX6ZQkB9AACAPyICEgCQA5qtAQ%3D%3D&uc=15",
+        "start_date": "2025-11-09T16:40:27.000Z",
+        "impressions_total": 1925,
+        "impressions_map": {
+          "de": 35,
+          "be": 131,
+          "fi": 53,
+          "pt": 78,
+          "bg": 121,
+          "dk": 37,
+          "lt": 133,
+          "lu": 114,
+          "hr": 220,
+          "lv": 0,
+          "fr": 7,
+          "hu": 81,
+          "se": 24,
+          "si": 0,
+          "sk": 17,
+          "ie": 125,
+          "ee": 0,
+          "el": 153,
+          "mt": 0,
+          "it": 170,
+          "es": 114,
+          "at": 59,
+          "cy": 0,
+          "cz": 55,
+          "pl": 139,
+          "ro": 0,
+          "nl": 59,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Costa House",
+        "profile_name": "StayUp",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://costahouse.net/products/stayup-magnetic-gym-bag-1?variant=50851852910880"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "68a57030-e53f-4c66-9a83-fe7daadb1a38",
+        "name": "ppl_ibiza-store",
+        "ad_account_name": "Lacoste_E-commerce",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "es"
+        ],
+        "headline": "Lacoste in Ibiza",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/G6tZW1ZcKz2B9MmSEv3Lv.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-07-16T13:00:48.000Z",
+        "impressions_total": 833290,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 833290,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Lacoste",
+        "profile_name": "Lacoste",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUk15SkF6ZFRVVnlCUDZwdXVzbTZmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.lacoste.com/es/lacoste/descubre/now-trending/lacoste-bajo-el-sol/?utm_source=snapchat&utm_medium=displaysocial&utm_audience=displaysocial_drivetostore&utm_campaign=es_dts-ibiza-ss25_drivetostore-reach_ibiza-and-airports_ppl_ibiza-store"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "67e1382e-0411-4a3b-b2ce-74ddc1b59f13",
+        "name": "paliers  ES",
+        "ad_account_name": "Honevea Cosmetics Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr",
+          "es"
+        ],
+        "headline": "-20% con el código ETE20!",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cQxVhQ7PAwHdyuEJ461Ui.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2025-06-12T13:06:00.000Z",
+        "impressions_total": 3271,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 3271,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "es"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Honevea Cosmetics",
+        "profile_name": "Honevea Cosmetics",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdmdnYmxFMUhTY1lqeTROdzlpZVo4P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://honevea.com/es/products/serum-de-renforcement-des-cils"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -302,351 +691,48 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "d867a2e1-c139-4cb1-8351-6c96fbfa6ba0",
-        "name": "VideoAd_9x16_XX_SoftGlamFilter_LearnMore",
-        "ad_account_name": "Catrice Cosmetics",
+        "id": "9e178892-f867-4ae6-a5ef-3ccb78caa19b",
+        "name": "05/09/25 – Ad",
+        "ad_account_name": "iOS in-app promotions",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "es"
-        ],
-        "headline": "OWN YOUR MAGIC.",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YbAOhqMDxcJ7G3OqGVOj7.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIid9BIAFKDgoJQDAjFQwbFS4VEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIxtswIAFKDgoJMCIcEAkUECUOEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjL_iMgAUoOCgkrGxUNBg4MFg0Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAj6giYgAUoOCgktHRUOBw4NGA0Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjv7iAgAUoOCgklFhQKBw4KGggQ9ANoAiIGCgJIAhIAkAP8dQ%3D%3D&uc=15",
-        "start_date": "2025-05-18T22:00:35.000Z",
-        "impressions_total": 174965,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 174965,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "cosnova GmbH",
-        "profile_name": "Catrice_Cosmetics",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdUtDeFdnTEhVSTZiclkyWWRyREtJP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.primor.eu/es_es/catrice-soft-glam-filter-stick-crema-122081.html?utm_source=cpc&utm_medium=social&utm_campaign=es-externa-catrice-instagram-pdp-122081-"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "bc2f5a8e-804a-4f24-b08d-44fffe47776b",
-        "name": "SnapAd_9x16_N/A_SnapLense_LearnMore",
-        "ad_account_name": "Essence ",
-        "status": "ACTIVE",
-        "creative_type": "LENS_WEB_VIEW",
-        "ad_type": "LENS_REMOTE_WEBPAGE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
         "ad_render_type": "STATIC",
         "languages": [],
-        "headline": "essence cosmetics official",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "LENS_PACKAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/543e6e23-2e49-4af7-80f8-d7b6d38c5fc7.lens",
-        "start_date": "2025-05-05T10:00:55.000Z",
-        "impressions_total": 237987,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 237987,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "cosnova GmbH",
-        "profile_name": "essence cosmetics official",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSHVmZUxnSWN1eFl4cVdmbGsyTEJNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.essence.eu/es-es/lp/lets-stick-together?utm_medium=paid_social&utm_source=snapchat&utm_campaign=P22952_ES_ESS_SticksFoundation_PSOC_Prospecting_Engagement_CPM_Snap&utm_content=ES_SC_Int_N/A_18+_Female_N/A&utm_term=SnapAd_9x16_N/A_SnapLense_LearnMore"
-        },
-        "lens_preview": {
-          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/VSr2rKKmX9fCkfKx8hMxT?bo=EhQyAX06AQRCBgie8Ku-BkgCUBJgAQ%3D%3D&uc=18",
-          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/f7cacfdf-93a6-4b06-a0da-e8356a5daf21.mp4",
-          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/f7cacfdf-93a6-4b06-a0da-e8356a5daf21.webp"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8a575ff6-ab65-4339-a60d-48876155e11e",
-        "name": "db 2",
-        "ad_account_name": "Costa House Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "CHRISTMAS SALE! 50% OFF",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/awmsLEvcuuBnK0tH0l8PK.67?mo=GpICGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiLraUBIAEw4AM41AZAAUoOCglpGB0cFxYZHBoQ9ANQyLwCaAJ1GnlmQCIGCgJIBBIAogE5CLoKEiwKKgiN_ogBIAEw0AU4gApAAkoOCglyGBMXFRUPFhYQ9ANQyLwCaAJ1cDVxQCIGCgJIAhIAogE9CJIKEjAKLgiLwF8gATDgAzjUBkACSg4KCU8PDxANDQ0RDhD0A1DIvAJoAnUQ419AfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I68VXIAEw4AM41AZAAkoOCglWDgsPDQ8JEA8Q9ANQyLwCaAJ1-blpQH0AAIA_IgYKAkgCEgCQA8i8Ag%3D%3D&uc=15",
-        "start_date": "2025-12-13T16:46:25.000Z",
-        "impressions_total": 1166,
-        "impressions_map": {
-          "de": 23,
-          "be": 38,
-          "fi": 23,
-          "pt": 30,
-          "bg": 37,
-          "dk": 46,
-          "lt": 18,
-          "lu": 55,
-          "hr": 65,
-          "lv": 0,
-          "fr": 0,
-          "hu": 17,
-          "se": 25,
-          "si": 228,
-          "sk": 4,
-          "ie": 20,
-          "ee": 0,
-          "el": 46,
-          "mt": 0,
-          "it": 72,
-          "es": 25,
-          "at": 45,
-          "cy": 0,
-          "cz": 12,
-          "pl": 76,
-          "ro": 215,
-          "nl": 46,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Costa House",
-        "profile_name": "Costa Supply",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://costahouse.net/products/magic-glow-drawing-board?variant=51035971387680"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "2debdf8c-2eb8-4871-b9ba-7489b675fdd9",
-        "name": "VideoAd_9x16_XX_BlushMultistick_LearnMore",
-        "ad_account_name": "Catrice Cosmetics",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "es"
-        ],
-        "headline": "OWN YOUR MAGIC.",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4F5b2N3w17pgQr9wQRNoa.67?mo=GukBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIiJpkIAFKDgoJfy0dPR40ZUkoEPQDaAIiBgoCSAQSAKIBKAi6ChIbChkI9fZ7IAFKDwoKqQE4HVkeOXZgMhD0A2gCIgYKAkgDEgCiASYIfxIaChgI3cJBIAFKDgoJXx0SJRUkPC4qEPQDaAIiBgoCSAISAKIBJwiSChIaChgI1vZCIAFKDgoJXhwUJRUnPSsdEPQDaAIiBgoCSAISAKIBJwjEChIaChgI579GIAFKDgoJaB4UMRMfQTYaEPQDaAIiBgoCSAISAJAD0nQ%3D&uc=15",
-        "start_date": "2025-05-18T22:00:35.000Z",
-        "impressions_total": 164268,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 164268,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "cosnova GmbH",
-        "profile_name": "Catrice_Cosmetics",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdUtDeFdnTEhVSTZiclkyWWRyREtJP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.primor.eu%2Fes_es%2Fcatrice-blushin-charm-multi-stick-122001.html%3Futm_source%3Dcpc%26utm_medium%3Dsocial%26utm_campaign%3Des-externa-catrice-instagram-pdp-122001-&data=05%7C02%7CI.Scharf%40cosnova.com%7C3628b88a5e8b441ee2a408dd91efcfa5%7C89094d94eae944db97677fd72e6191e5%7C0%7C0%7C638827181388044816%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8zeqP%2BU0Dz%2FMv%2Bc%2BG5BBDFI3TJai2ywIAiyal2x%2Bens%3D&reserved=0"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "5fa28d33-1c5b-4492-ad42-0c4f17c2a853",
-        "name": "ppl_ibiza-store",
-        "ad_account_name": "Lacoste_E-commerce",
-        "status": "ACTIVE",
-        "creative_type": "AD_TO_PLACE",
-        "ad_type": "AD_TO_PLACE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "es"
-        ],
-        "headline": "Lacoste in Ibiza",
-        "call_to_action": "SEE PLACE",
+        "call_to_action": "FOLLOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hBe62TepANSKJOFcF8ZNH.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-07-16T12:06:05.000Z",
-        "impressions_total": 32317,
+        "start_date": "2025-09-05T00:46:12.000Z",
+        "impressions_total": 300,
         "impressions_map": {
           "de": 0,
-          "be": 0,
+          "be": 2,
           "fi": 0,
-          "pt": 0,
-          "bg": 0,
+          "pt": 6,
+          "bg": 130,
           "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
+          "lt": 7,
+          "lu": 1,
+          "hr": 14,
           "lv": 0,
-          "fr": 0,
-          "hu": 0,
+          "fr": 1,
+          "hu": 26,
           "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
+          "si": 12,
+          "sk": 62,
+          "ie": 2,
           "ee": 0,
-          "el": 0,
+          "el": 7,
           "mt": 0,
           "it": 0,
-          "es": 32317,
+          "es": 1,
           "at": 0,
           "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
+          "cz": 16,
+          "pl": 5,
+          "ro": 7,
           "nl": 0,
-          "tr": 0
+          "tr": 1
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -655,90 +741,21 @@
               "min_age": "18",
               "age_groups": [],
               "languages": [],
-              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Lacoste",
-        "profile_name": "Lacoste",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUk15SkF6ZFRVVnlCUDZwdXVzbTZmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a6423baf-dcd9-48b3-a306-082c3d6f3188",
-        "name": "mirror 6",
-        "ad_account_name": "Costa House Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "da"
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/costea7xk",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOFptWXBua3RQbnVPRnpQNFcwbjQ4P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad features tobacco imagery. Ads that depict tobacco for movies, TV shows, or health-related programs are reviewed on a case-by-case basis and must be appropriately age targeted. We prohibit ads that glamorize or encourage the use of cigarettes (including e-cigarettes), cigars, vaping products, tobacco, nicotine, or related products of any kind."
         ],
-        "headline": "HOLIDAY SEASON 50% OFF!",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/msgJg9ouLYjO9njfPdOrn.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAis5F8gATDgAzjUBkABSg4KCWgwKS4wNiBJOBD0A1CGcWgCdcWATkAiBgoCSAISAKIBNwi6ChIqCigIiaZOIAEw0AU4gApAAkoOCglYKh4jHSksJCgQ9ANQhnFoAnWa7VRAIgYKAkgDEgCiATwIkgoSLwotCMXRPyABMOADONQGQAJKDgoJTB0eGBwnFS0jEPQDUIZxaAJ1DvtCQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCNGzNyABMOADONQGQAJKDgoJQh0UGRYdHhcXEPQDUIZxaAJ1OMFLQH0AAIA_IgYKAkgCEgCQA4Zx&uc=15",
-        "start_date": "2025-12-10T23:44:27.000Z",
-        "impressions_total": 11,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 9,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 2,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Costa House",
-        "profile_name": "Costa Supply",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://costahouse.net/products/proglow-portable-led-vanity-mirror?variant=51028219298080"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
         "stickers": []
       }
     }

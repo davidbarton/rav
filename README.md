@@ -14,6 +14,12 @@ Analytics inventory (tables, volumes, raw paths, limits): **[DATA_SAMPLES.md](./
 
 Quick summary: **27 DuckDB tables** (`db/rav.db`) covering paid ads (4.6k across 23 EU countries), sponsored content (230k deduplicated, final), political ads (74.6k, complete), creator profiles, spotlight videos, explore discovery, DSA transparency reports, and 11M+ EC moderation action records (`ec_dsa_sor`). Plus 8 PDF governance reports on disk. Open DuckDB with [Beekeeper Studio](https://www.beekeeperstudio.io/) for visual exploration.
 
+## Business analysis
+
+What Ravineo can offer B2C brands from Snapchat data: **[BUSINESS_ANALYSIS.md](./BUSINESS_ANALYSIS.md)**.
+
+Concrete use cases for competitive intelligence — competitor ad spend estimation, share of voice, geographic strategy, campaign intensity, creative signals — each verified against real data in this repository and positioned against existing market tools (Pathmatics, AdClarity, Nielsen). Backed by reproducible SQL experiments in **[experiments/](./experiments/README.md)**.
+
 ## Development
 
 Runbooks and technical setup: **[DEVELOPMENT.md](./DEVELOPMENT.md)**.

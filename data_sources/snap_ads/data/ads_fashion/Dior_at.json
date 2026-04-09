@@ -1,159 +1,10 @@
 {
   "brand": "Dior",
   "country": "at",
-  "fetched_at": "2026-04-09T02:59:38.119Z",
+  "fetched_at": "2026-04-09T18:01:51.330Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "af6bcae0-3461-47d5-9690-838ee10552a7",
-        "name": "MENSS26COLLECTION_VID_SVF_NO_LEARN_MCOP_SNAPADVIDEOLOUIS_AUT",
-        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "de"
-        ],
-        "headline": "Dior Sommer 2026",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/z0tj6lwIPIUKDxIjGSKnV.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgig_W4gATDgAzjUBkABSg4KCUMkMS4VNBspEhD0A1D4lgFoAnXMWz1AfQAAgD8iBgoCSAQSAKIBPQi6ChIwCi4IlZlHIAEw0AU4gApAAkoOCgkvFSAcIBEVFAsQ9ANQ-JYBaAJ1NjY6QH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCNbDOSABMOADONQGQAJKDgoJJhAXFgobEBAJEPQDUPiWAWgCdZ0pKUB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiznTAgATDgAzjUBkACSg4KCSQNFhMXCw4OBxD0A1D4lgFoAnXUji9AfQAAgD8iBgoCSAISAJAD-JYB&uc=15",
-        "start_date": "2026-01-09T11:00:19.000Z",
-        "impressions_total": 62409,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 62409,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "50",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.dior.com/en_au/fashion/mens-fashion/summer-collection?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "72e35852-50db-446d-b5ef-d8e0158016a0",
-        "name": "MENSUMMER26COLLECTION_VID_SVF_NO_LEARN_MCOP_PPVKYLIAN_RTGLAL_AUT",
-        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "de"
-        ],
-        "headline": "Dior Sommer 2026",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QgOT1QNet4RtJbCUbWAmt.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi100AgATDgAzjUBkABSg4KCTUYKhMzIzINJhD0A1CYdWgCdRIUNkAiBgoCSAISAKIBPAi6ChIvCi0I59glIAEw0AU4gApAAkoOCgklEBgOGxQhCQ8Q9ANQmHVoAnVCgzlAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0IkogeIAEw4AM41AZAAkoOCgkfChILEhUZCA4Q9ANQmHVoAnVnsC5AfQAAgD8iBgoCSAISAKIBPAjSChIvCi0Ih6MZIAEw4AM41AZAAkoOCgkeCBMIFg0XBQkQ9ANQmHVoAnUgnzNAfQAAgD8iBgoCSAISAJADmHU%3D&uc=15",
-        "start_date": "2026-01-14T14:00:06.000Z",
-        "impressions_total": 187396,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 187396,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "50",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.dior.com/en_au/fashion/mens-fashion/summer-collection?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -197,6 +48,156 @@
           "it": 0,
           "es": 0,
           "at": 33451,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "50",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_au/fashion/mens-fashion/summer-collection?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "eebb5e54-032d-49cf-bdb4-d9c920817fae",
+        "name": "MENSS26COLLECTION_VID_SVF_NO_LEARN_MCOP_SNAPADVIDEOKYLIAN_AUT",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "de"
+        ],
+        "headline": "Dior Sommer 2026",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RUTZG605r7Xwq15yGvXd7.67?mo=GpsCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwiu5YMBIAEw4AM41AZAAUoOCgk_HCQWFzIdMxcQ9ANQsOoBaAJ1rfQ3QH0AAIA_IgYKAkgDEgCiAT0IugoSMAouCNb6TCABMNAFOIAKQAJKDgoJLg4WDREaFR8PEPQDULDqAWgCdVAiO0B9AACAPyIGCgJIAhIAogE9CJIKEjAKLgiy9DwgATDgAzjUBkACSg4KCSsLDgoLFRIbDBD0A1Cw6gFoAnWC7S1AfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I54ozIAEw4AM41AZAAkoOCgknCQwJChIOFgkQ9ANQsOoBaAJ19m41QH0AAIA_IgYKAkgCEgCQA7DqAQ%3D%3D&uc=15",
+        "start_date": "2026-01-09T11:00:19.000Z",
+        "impressions_total": 135755,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 135755,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "50",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_au/fashion/mens-fashion/summer-collection?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "02bc494b-8f43-46b4-969b-2ee24c6e33f0",
+        "name": "MENSS26COLLECTION_VID_SVF_NO_LEARN_MCOP_SNAPADVIDEOPAUL_AUT",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "de"
+        ],
+        "headline": "Dior Sommer 2026",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/DDTmrOeOg48raNdKK8U4Q.67?mo=GpECGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiEvJEBIAEw4AM41AZAAUoOCgkvDSITEyclMyoQ9ANQsOoBaAJ16vhBQCIGCgJIBBIAogE4CLoKEisKKQjGs18gATDQBTiACkACSg4KCSQGFgoLFxQgHBD0A1Cw6gFoAnW6l0VAIgYKAkgDEgCiAT0IkgoSMAouCI3FTiABMOADONQGQAJKDgoJIwUPCAgVExwWEPQDULDqAWgCdUguLkB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiCtUEgATDgAzjUBkACSg4KCSAEEAgHEA0VExD0A1Cw6gFoAnVGoTpAfQAAgD8iBgoCSAISAJADsOoB&uc=15",
+        "start_date": "2026-01-09T11:00:19.000Z",
+        "impressions_total": 384387,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 384387,
           "cy": 0,
           "cz": 0,
           "pl": 0,
@@ -301,84 +302,6 @@
           "icon_url": "https://bolt-gcdn.sc-cdn.net/3/D7o8r7Heu92usE1Ykebom?bo=EhQyAX06AQRCBgjAvt_KBkgCUBJgAQ%3D%3D&uc=18",
           "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/e65e29f5-1d77-4210-83eb-584d646ee586.mp4",
           "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/e65e29f5-1d77-4210-83eb-584d646ee586.webp"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "532bf466-2e0a-42ec-8d10-26e775af58e1",
-        "name": "MENSS26COLLECTION_LENS_LENS_NO_LEARN_MCOP_DIORJETT_RTGLAL_AUT_CAMERA",
-        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
-        "status": "ACTIVE",
-        "creative_type": "LENS_WEB_VIEW",
-        "ad_type": "LENS_REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Dior",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "LENS_PACKAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/bc524ee4-9727-4fd3-b0fd-c84ed8185c43.lens",
-        "start_date": "2026-01-14T14:00:06.000Z",
-        "impressions_total": 284766,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 284766,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "50",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.dior.com/en_au/fashion/mens-fashion/summer-collection?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "lens_preview": {
-          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/JkmebbaAJ9CDjxolMXRdP?bo=EhQyAX06AQRCBgjZo_rKBkgCUBJgAQ%3D%3D&uc=18",
-          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/d1f79383-3d83-4be9-b109-bf8825fc8b19.mp4",
-          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/d1f79383-3d83-4be9-b109-bf8825fc8b19.webp"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -503,173 +426,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "02bc494b-8f43-46b4-969b-2ee24c6e33f0",
-        "name": "MENSS26COLLECTION_VID_SVF_NO_LEARN_MCOP_SNAPADVIDEOPAUL_AUT",
+        "id": "532bf466-2e0a-42ec-8d10-26e775af58e1",
+        "name": "MENSS26COLLECTION_LENS_LENS_NO_LEARN_MCOP_DIORJETT_RTGLAL_AUT_CAMERA",
         "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "LENS_WEB_VIEW",
+        "ad_type": "LENS_REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [
-          "de"
-        ],
-        "headline": "Dior Sommer 2026",
+        "languages": [],
+        "headline": "Dior",
         "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
+        "top_snap_media_type": "LENS_PACKAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/DDTmrOeOg48raNdKK8U4Q.67?mo=GpECGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiEvJEBIAEw4AM41AZAAUoOCgkvDSITEyclMyoQ9ANQsOoBaAJ16vhBQCIGCgJIBBIAogE4CLoKEisKKQjGs18gATDQBTiACkACSg4KCSQGFgoLFxQgHBD0A1Cw6gFoAnW6l0VAIgYKAkgDEgCiAT0IkgoSMAouCI3FTiABMOADONQGQAJKDgoJIwUPCAgVExwWEPQDULDqAWgCdUguLkB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiCtUEgATDgAzjUBkACSg4KCSAEEAgHEA0VExD0A1Cw6gFoAnVGoTpAfQAAgD8iBgoCSAISAJADsOoB&uc=15",
-        "start_date": "2026-01-09T11:00:19.000Z",
-        "impressions_total": 384387,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 384387,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "50",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.dior.com/en_au/fashion/mens-fashion/summer-collection?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "eebb5e54-032d-49cf-bdb4-d9c920817fae",
-        "name": "MENSS26COLLECTION_VID_SVF_NO_LEARN_MCOP_SNAPADVIDEOKYLIAN_AUT",
-        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "de"
-        ],
-        "headline": "Dior Sommer 2026",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RUTZG605r7Xwq15yGvXd7.67?mo=GpsCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwiu5YMBIAEw4AM41AZAAUoOCgk_HCQWFzIdMxcQ9ANQsOoBaAJ1rfQ3QH0AAIA_IgYKAkgDEgCiAT0IugoSMAouCNb6TCABMNAFOIAKQAJKDgoJLg4WDREaFR8PEPQDULDqAWgCdVAiO0B9AACAPyIGCgJIAhIAogE9CJIKEjAKLgiy9DwgATDgAzjUBkACSg4KCSsLDgoLFRIbDBD0A1Cw6gFoAnWC7S1AfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I54ozIAEw4AM41AZAAkoOCgknCQwJChIOFgkQ9ANQsOoBaAJ19m41QH0AAIA_IgYKAkgCEgCQA7DqAQ%3D%3D&uc=15",
-        "start_date": "2026-01-09T11:00:19.000Z",
-        "impressions_total": 135755,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 135755,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "50",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.dior.com/en_au/fashion/mens-fashion/summer-collection?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "0f08ba75-cec8-44a5-b5f9-a7dae88c6289",
-        "name": "MENSUMMER26COLLECTION_VID_SVF_NO_LEARN_MCOP_PPLKYLIAN_RTGLAL_AUT",
-        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "de"
-        ],
-        "headline": "Dior Sommer 2026",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sL7E2eXGotuGNrsqPmmj2.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/bc524ee4-9727-4fd3-b0fd-c84ed8185c43.lens",
         "start_date": "2026-01-14T14:00:06.000Z",
-        "impressions_total": 136174,
+        "impressions_total": 284766,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -692,7 +463,162 @@
           "mt": 0,
           "it": 0,
           "es": 0,
-          "at": 136174,
+          "at": 284766,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "50",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_au/fashion/mens-fashion/summer-collection?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "lens_preview": {
+          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/JkmebbaAJ9CDjxolMXRdP?bo=EhQyAX06AQRCBgjZo_rKBkgCUBJgAQ%3D%3D&uc=18",
+          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/d1f79383-3d83-4be9-b109-bf8825fc8b19.mp4",
+          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/d1f79383-3d83-4be9-b109-bf8825fc8b19.webp"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "72e35852-50db-446d-b5ef-d8e0158016a0",
+        "name": "MENSUMMER26COLLECTION_VID_SVF_NO_LEARN_MCOP_PPVKYLIAN_RTGLAL_AUT",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "de"
+        ],
+        "headline": "Dior Sommer 2026",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QgOT1QNet4RtJbCUbWAmt.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi100AgATDgAzjUBkABSg4KCTUYKhMzIzINJhD0A1CYdWgCdRIUNkAiBgoCSAISAKIBPAi6ChIvCi0I59glIAEw0AU4gApAAkoOCgklEBgOGxQhCQ8Q9ANQmHVoAnVCgzlAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0IkogeIAEw4AM41AZAAkoOCgkfChILEhUZCA4Q9ANQmHVoAnVnsC5AfQAAgD8iBgoCSAISAKIBPAjSChIvCi0Ih6MZIAEw4AM41AZAAkoOCgkeCBMIFg0XBQkQ9ANQmHVoAnUgnzNAfQAAgD8iBgoCSAISAJADmHU%3D&uc=15",
+        "start_date": "2026-01-14T14:00:06.000Z",
+        "impressions_total": 187396,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 187396,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "50",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_au/fashion/mens-fashion/summer-collection?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "af6bcae0-3461-47d5-9690-838ee10552a7",
+        "name": "MENSS26COLLECTION_VID_SVF_NO_LEARN_MCOP_SNAPADVIDEOLOUIS_AUT",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "de"
+        ],
+        "headline": "Dior Sommer 2026",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/z0tj6lwIPIUKDxIjGSKnV.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgig_W4gATDgAzjUBkABSg4KCUMkMS4VNBspEhD0A1D4lgFoAnXMWz1AfQAAgD8iBgoCSAQSAKIBPQi6ChIwCi4IlZlHIAEw0AU4gApAAkoOCgkvFSAcIBEVFAsQ9ANQ-JYBaAJ1NjY6QH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCNbDOSABMOADONQGQAJKDgoJJhAXFgobEBAJEPQDUPiWAWgCdZ0pKUB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiznTAgATDgAzjUBkACSg4KCSQNFhMXCw4OBxD0A1D4lgFoAnXUji9AfQAAgD8iBgoCSAISAJAD-JYB&uc=15",
+        "start_date": "2026-01-09T11:00:19.000Z",
+        "impressions_total": 62409,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 62409,
           "cy": 0,
           "cz": 0,
           "pl": 0,
@@ -768,6 +694,81 @@
           "it": 0,
           "es": 0,
           "at": 44631,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "50",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_au/fashion/mens-fashion/summer-collection?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "0f08ba75-cec8-44a5-b5f9-a7dae88c6289",
+        "name": "MENSUMMER26COLLECTION_VID_SVF_NO_LEARN_MCOP_PPLKYLIAN_RTGLAL_AUT",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "de"
+        ],
+        "headline": "Dior Sommer 2026",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sL7E2eXGotuGNrsqPmmj2.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-14T14:00:06.000Z",
+        "impressions_total": 136174,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 136174,
           "cy": 0,
           "cz": 0,
           "pl": 0,

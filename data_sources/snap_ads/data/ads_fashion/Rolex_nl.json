@@ -1,27 +1,26 @@
 {
   "brand": "Rolex",
   "country": "nl",
-  "fetched_at": "2026-04-08T23:57:07.707Z",
+  "fetched_at": "2026-04-09T19:31:30.980Z",
   "ads_count": 4,
+  "pagination_complete": true,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "d503a550-8aa2-4656-8783-e45d79f58f69",
-        "name": "7-8-25 - Advertentie",
+        "id": "d335db22-edd5-4607-9131-101d67b9d206",
+        "name": "6-8-25 - Advertentie",
         "ad_account_name": "iOS in-app promoties",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
         "ad_type": "DEEP_LINK",
         "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "call_to_action": "VIEW PROFILE",
+        "languages": [],
+        "call_to_action": "FOLLOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-08-06T22:37:04.000Z",
-        "impressions_total": 9678,
+        "start_date": "2025-08-06T22:00:00.000Z",
+        "impressions_total": 5677,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -49,7 +48,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 9678,
+          "nl": 5677,
           "tr": 0
         },
         "targeting_v2": {
@@ -57,9 +56,7 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "35",
               "age_groups": [],
-              "gender": "MALE",
               "languages": [],
               "advanced_demographics": []
             }
@@ -69,7 +66,7 @@
         "sticker_display_mode": "HIDE",
         "deep_link_properties": {
           "deep_link_uri": "snapchat://add/rolexkoning",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdUVJUFlZQTQ5Z3VzOHlZTnRvNnN2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMpng",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,640_FMpng",
           "playable_media_properties": {}
         },
         "review_status": "DISAPPROVED",
@@ -230,19 +227,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "d335db22-edd5-4607-9131-101d67b9d206",
-        "name": "6-8-25 - Advertentie",
+        "id": "d503a550-8aa2-4656-8783-e45d79f58f69",
+        "name": "7-8-25 - Advertentie",
         "ad_account_name": "iOS in-app promoties",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
         "ad_type": "DEEP_LINK",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
+        "languages": [
+          "nl"
+        ],
+        "call_to_action": "VIEW PROFILE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-08-06T22:00:00.000Z",
-        "impressions_total": 5677,
+        "start_date": "2025-08-06T22:37:04.000Z",
+        "impressions_total": 9678,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -270,7 +269,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 5677,
+          "nl": 9678,
           "tr": 0
         },
         "targeting_v2": {
@@ -278,7 +277,9 @@
           "demographics": [
             {
               "min_age": "18",
+              "max_age": "35",
               "age_groups": [],
+              "gender": "MALE",
               "languages": [],
               "advanced_demographics": []
             }
@@ -288,7 +289,7 @@
         "sticker_display_mode": "HIDE",
         "deep_link_properties": {
           "deep_link_uri": "snapchat://add/rolexkoning",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,640_FMpng",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdUVJUFlZQTQ5Z3VzOHlZTnRvNnN2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMpng",
           "playable_media_properties": {}
         },
         "review_status": "DISAPPROVED",

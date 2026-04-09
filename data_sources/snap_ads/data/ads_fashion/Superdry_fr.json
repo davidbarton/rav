@@ -1,14 +1,15 @@
 {
   "brand": "Superdry",
   "country": "fr",
-  "fetched_at": "2026-04-09T00:50:05.718Z",
+  "fetched_at": "2026-04-09T19:24:21.114Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "07025713-bb10-4944-8227-6516305c387d",
-        "name": "Sept25_Jackets_Women_Video",
+        "id": "30e7b376-03dc-465d-9b34-b985c4e3b35b",
+        "name": "Aug25_EOSS_Men_Video",
         "ad_account_name": "FR Performance Ad Account",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -17,13 +18,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "Vestes de mi-saison",
+        "headline": "Superdry™ Petits Prix",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YqeOaPv1e2MsoZrGUFlTX.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI3M9UIAEw4AM41AZAAUoOCglpIBUQOC06OEEQ9ANQmHVoAiIGCgJIBBIAogEyCLoKEiUKIwja30AgATDQBTiACkACSg4KCWYWEhIhJCwmKRD0A1CYdWgCIgYKAkgDEgCiATEIfxIlCiMIrpExIAEw4AM41AZAAkoOCglJEgsJIyIhISQQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwjv0zMgATDgAzjUBkACSg4KCUwRDQolJCMkJhD0A1CYdWgCIgYKAkgCEgCiATIIxAoSJQojCNWSKyABMOADONYGQAJKDgoJRBALBx0aHhocEPQDUJh1aAIiBgoCSAISAKIBMgjSChIlCiMIvcUsIAEw4AM41AZAAkoOCglCEAwGHxsgGhwQ9ANQmHVoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
-        "start_date": "2025-08-28T14:26:44.000Z",
-        "impressions_total": 60603,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SwWrZUOFtfpzYriFV4NqK.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIhohRIAEw4AM41AZAAUoOCglJJRstRUopQEMQ9ANQmHVoAiIGCgJIAxIAogEyCLoKEiUKIwjepj0gATDQBTiACkACSg4KCUQRGho5OCUqNRD0A1CYdWgCIgYKAkgCEgCiATEIfxIlCiMI5-EvIAEw4AM41AZAAkoOCgktEQ4YKCYXJSwQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwioxTIgATDgAzjUBkACSg4KCTAPGBQpJyAfMBD0A1CYdWgCIgYKAkgCEgCiATIIxAoSJQojCJyRKCABMOADONYGQAJKDgoJLwsRECMkFxwkEPQDUJh1aAIiBgoCSAISAKIBMgjSChIlCiMIhNApIAEw4AM41AZAAkoOCgkyDBIRIyQYHCcQ9ANQmHVoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-08-15T05:00:00.000Z",
+        "impressions_total": 143742,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -35,7 +36,85 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 60603,
+          "fr": 143742,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Superdry ",
+        "profile_name": "Superdry",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.superdry.fr/soldes/homme/?UTM_medium=paidsocial&UTM_term={{ad.id}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "429a7b67-dc63-4e1f-becd-3b30956dbb65",
+        "name": "Sept25_Jackets_Women_Image1",
+        "ad_account_name": "FR Performance Ad Account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Vestes de mi-saison",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8xn5tUqpMUPjHYy86NiV4.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-08-28T14:18:25.000Z",
+        "impressions_total": 2864,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 2864,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -76,6 +155,240 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://www.superdry.fr/femme/vestes/?utm_medium=paidsocial&utm_term={{ad.id}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a0582959-7783-4733-9d14-b183d245c156",
+        "name": "FR Summer Sale New Lines 25_Video_Womens",
+        "ad_account_name": "FR Performance Ad Account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Jusqu’à -50% !",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tRBzul5UBJKcg5npg6An4.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIoPoKIAEw4AM41AZAAUoOCgkhEQ4UDgsLDBEQ9ANQxCxoAiIGCgJIAxIAogEyCLoKEiUKIwjjtQcgATDQBTiACkACSg4KCSILDAgKCAYFCRD0A1DELGgCIgYKAkgDEgCiATEIfxIlCiMIm_oEIAEw4AM41AZAAkoOCgkTBwgJBAQFBwYQ9ANQxCxoAiIGCgJIAhIAogEyCJIKEiUKIwiB9wQgATDgAzjUBkACSg4KCREHBwgHBQQFBxD0A1DELGgCIgYKAkgCEgCiATIIxAoSJQojCM3tBCABMOADONYGQAJKDgoJGQcIBQYFBAMGEPQDUMQsaAIiBgoCSAISAKIBMgjSChIlCiMIzIoFIAEw4AM41AZAAkoOCgkaCAgFCAQEBAUQ9ANQxCxoAiIGCgJIAhIAkAPELA%3D%3D&uc=15",
+        "start_date": "2025-06-25T07:00:19.000Z",
+        "impressions_total": 8518,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 8518,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Superdry ",
+        "profile_name": "Superdry",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.superdry.fr/outlet/femme/?utm_medium=paidsocial&utm_term={{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e5c82d74-9df6-4704-9020-50964212cdd6",
+        "name": "FR Summer Sale New Lines 25_Image_Mens",
+        "ad_account_name": "FR Performance Ad Account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Jusqu’à -50% !",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/a99J1XCHXupNqvhDDdpw3.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-25T07:00:59.000Z",
+        "impressions_total": 5573,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 5573,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Superdry ",
+        "profile_name": "Superdry",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.superdry.fr/outlet/homme/?utm_medium=paidsocial&utm_term={{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "36765687-ccd8-405b-a1e4-0b3038382028",
+        "name": "July Edit - Video - Womens",
+        "ad_account_name": "FR Performance Ad Account",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Le road trip côtier",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tZ5YwJDySB0TzMRCm5xAv.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIqYFGIAEw4AM41AZAAUoOCgliJxoqKh8kIicQ9ANQmHVoAiIGCgJIAxIAogEyCLoKEiUKIwiXzzEgATDQBTiACkACSg4KCUsfEyAdExwWFxD0A1CYdWgCIgYKAkgCEgCiATEIfxIlCiMIx4skIAEw4AM41AZAAkoOCgk9Fg8WFQ8SEg4Q9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwibuyUgATDgAzjUBkACSg4KCT4XEBYXDxMTDhD0A1CYdWgCIgYKAkgCEgCiATIIxAoSJQojCKLIISABMOADONYGQAJKDgoJNBcNFRQNEw8OEPQDUJh1aAIiBgoCSAISAKIBMgjSChIlCiMIz6giIAEw4AM41AZAAkoOCgk1Fg4WFA0UDg4Q9ANQmHVoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-07-22T23:00:00.000Z",
+        "impressions_total": 48359,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 48359,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Superdry ",
+        "profile_name": "Superdry",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.superdry.fr/femme/nouveautes/?utm_medium=paidsocial&utm_term={{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -163,20 +476,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "02d36095-c33b-4de0-98bb-07cf2ec00350",
-        "name": "Summer Sale 25-Story-Womens",
+        "id": "bf480556-5d6d-44b6-9abe-2b2368bb570b",
+        "name": "Summer Sale 25-Image-Womens",
         "ad_account_name": "FR Performance Ad Account",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
         "headline": "Jusqu’à -50 % !",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "DYNAMIC",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SyV6Zso2kC2Ng2fsIpoxo.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
         "start_date": "2025-06-25T07:00:19.000Z",
-        "impressions_total": 64647,
+        "impressions_total": 305351,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -188,7 +504,238 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 64647,
+          "fr": 305351,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Superdry ",
+        "profile_name": "Superdry",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.superdry.fr/outlet/femme/?utm_medium=paidsocial&utm_term={{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2d17f1d1-9c8b-4db3-a974-61ccc97fce33",
+        "name": "July Edit - Image 1 - Womens",
+        "ad_account_name": "FR Performance Ad Account",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Le road trip côtier",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xoMX6u4I93uTCRoctSIDD.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-07-22T23:00:00.000Z",
+        "impressions_total": 37841,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 37841,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Superdry ",
+        "profile_name": "Superdry",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.superdry.fr/femme/nouveautes/?utm_medium=paidsocial&utm_term={{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "98a843c2-edce-4e62-987f-0e93e7913d18",
+        "name": "FR-Summer Sale 25-Image-Womens",
+        "ad_account_name": "FR Performance Ad Account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Jusqu’à -50 % !",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/DCdzZuRiVmkyfVRCda2cL.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-25T07:00:59.000Z",
+        "impressions_total": 86355,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 86355,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Superdry ",
+        "profile_name": "Superdry",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.superdry.fr/outlet/femme/?utm_medium=paidsocial&utm_term={{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1b8e4c7b-4f73-4522-97fd-b94cc4fa835a",
+        "name": "Summer Sale 25-Collection-Womens",
+        "ad_account_name": "FR Performance Ad Account",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Jusqu’à -50 % !",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-06-25T07:00:19.000Z",
+        "impressions_total": 512021,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 512021,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -225,111 +772,19 @@
         "paying_advertiser_name": "Superdry ",
         "profile_name": "Superdry",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": false,
-          "ad_snaps": [
+        "collection_preview": {
+          "collection_creative_element_attachment": [
             {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Jusqu’à -50 % !",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
+              "app_install_properties": {}
             },
             {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Jusqu’à -50 % !",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
+              "app_install_properties": {}
             },
             {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Jusqu’à -50 % !",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
+              "app_install_properties": {}
             },
             {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Jusqu’à -50 % !",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Jusqu’à -50 % !",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Jusqu’à -50 % !",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Jusqu’à -50 % !",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Jusqu’à -50 % !",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Jusqu’à -50 % !",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Jusqu’à -50 % !",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Jusqu’à -50 % !",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Twtzu4bcRSSzO5zPayNqd.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.superdry.fr/outlet/femme/?UTM_medium=paidsocial&UTM_term={{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
-              }
+              "app_install_properties": {}
             }
           ]
         },
@@ -688,958 +1143,16 @@
           ],
           "template": {},
           "dynamic_template": {
-            "name": "Summer Sale 25-Story-Womens",
+            "name": "Summer Sale 25-Collection-Womens",
             "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "layout": "AUTOMATIC",
             "text_fields": [
               "title",
-              "customLabel_4"
+              "descriptionTruncated"
             ]
           },
           "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "919c1ab6-3f31-4b47-9bdb-b657f8059649",
-        "name": "FR_EOSS_Aug_Mens",
-        "ad_account_name": "FR Performance Ad Account",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Superdry™ Petits Prix",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "DYNAMIC",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-08-15T05:00:00.000Z",
-        "impressions_total": 180842,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 180842,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Superdry ",
-        "profile_name": "Superdry",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "collection_preview": {
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            }
-          ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/9BIqFqDcXIJH37e47Wn7P.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "A classic casual staple, the Core Logo Loose T-Shirt is perfect to pair with your personal style. Versatile enough to be a classic layering piece or the hero of your outfit - your choice. Loose Fit – where comfort meets cool, a stylish loose cut makes this a must-have shape Ribbed crew neck Short sleeves Rubberised fade logo Signature Superdry tab",
-              "brand": "Superdry",
-              "custom_label_0": "SALE",
-              "custom_label_1": "",
-              "custom_label_2": "Bientôt terminé !",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Blanc"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Homme > t-shirts > T-shirt imprimé"
-              ],
-              "size": "L",
-              "title": "T-shirt Ample Core Logo - Blanc",
-              "link": "https://www.superdry.fr/homme/t-shirts/t-shirt-ample-core-logo-262013.html?product_262013_size=003"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/3cLoMQIhE6xj9BQTV6B8S.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Classic Sex Pistols X Superdry tees. Limited-edition designs that recreate seminal moments in the Pistols' timeline, with original graphics and pantones. Relaxed fit – the classic Superdry fit. Not too slim, not too loose, just right. Go for your normal size Crew neck Short sleeves Vintage print finish Limited-edition Sex Pistols X Superdry band tee recreating the artwork from the single Pretty Vacant, with a classic, relaxed fit.",
-              "brand": "Superdry",
-              "custom_label_0": "SALE",
-              "custom_label_1": "",
-              "custom_label_2": "Bientôt terminé !",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Noir",
-                "rouge",
-                "jaune"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Homme > t-shirts > T-shirt imprimé"
-              ],
-              "size": "M",
-              "title": "T-shirt Sex Pistols - Noir/rouge/jaune",
-              "link": "https://www.superdry.fr/homme/t-shirts/t-shirt-sex-pistols-249845.html?product_249845_size=002"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/8SiswUlf9oAC9jHWSsHFK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Relaxed fit – the classic Superdry fit. Not too slim, not too loose, just right. Go for your normal size Drawcord waistband Two side pockets Brushed lining Printed Superdry logo on leg When choosing chilled and comfortable, this lounge staple has you covered. Our Plain Shorts are a new essential part of your laid-back wardrobe, a hero piece that embraces your authentic vibe. The brushed lining adds to the cosy touch, whilst the printed branding creates an athletic edge that ties your look together.",
-              "brand": "Superdry",
-              "custom_label_0": "SALE",
-              "custom_label_1": "",
-              "custom_label_2": "Bientôt terminé !",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Blue"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Homme > Shorts > Short de sport"
-              ],
-              "size": "S/L/M/XXL/XL",
-              "title": "Short Uni - Blue",
-              "link": "https://www.superdry.fr/homme/shorts/short-uni-272978.html?product_272978_size=001"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m84RdzBUo0RFiuBtQXhWS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Relaxed fit – the classic Superdry fit. Not too slim, not too loose, just right. Go for your normal size Button down collar Button fastening Chest pocket and embroidered logo Bring a timeless sophistication to your look with the Cotton Linen Short Sleeve Shirt. This lightweight staple keeps your style distinctive in the crowd, and a superior quality allowing you to maintain a sumptuous feel throughout. Whether you keep it fastened or styled loose, the reliable piece with finish off your timeless look effortlessly.",
-              "brand": "Superdry",
-              "custom_label_0": "SALE",
-              "custom_label_1": "",
-              "custom_label_2": "Bientôt terminé !",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Green"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Homme > Chemises > Chemise unie"
-              ],
-              "size": "L/M",
-              "title": "Chemise à Manches Courtes en Coton et lin - Green",
-              "link": "https://www.superdry.fr/homme/chemises/chemise-a-manches-courtes-en-coton-et-lin-270460.html?product_270460_size=003"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/xoBrAj4xhYoCnZWaS30JB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Get an authentic look with our Military Short Sleeve Shirt. Designed to bring you a subtly distinctive option, this shirt embraces the military style to create an effortless piece. Whether you wear it by itself or layer it over a tee, this is the perfect way to elevate your outfit. Relaxed fit – the classic Superdry fit. Not too slim, not too loose, just right. Go for your normal size Standard collar Short sleeves Button fastening Two button chest pockets Superdry patch",
-              "brand": "Superdry",
-              "custom_label_0": "SALE",
-              "custom_label_1": "",
-              "custom_label_2": "Bientôt terminé !",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Tan"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Homme > chemises > Chemise à manches courtes"
-              ],
-              "size": "L/M",
-              "title": "Chemise Militaire à Manches Courtes - Tan",
-              "link": "https://www.superdry.fr/homme/chemises/chemise-militaire-a-manches-courtes-262684.html?product_262684_size=003"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/2hmmSrNFWNT2Karp24bla.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Embroidered Superstate Athletic Logo T-Shirt is a classic way to bring that casual confidence into your wardrobe basics. This staple can be paired with your favourite denim or joggers to complete the instant casual, yet stylish look. Relaxed fit – the classic Superdry fit. Not too slim, not too loose, just right. Go for your normal size Ribbed crew neck Short sleeves Embroidered Superdry logo Signature Superdry tab",
-              "brand": "Superdry",
-              "custom_label_0": "SALE",
-              "custom_label_1": "",
-              "custom_label_2": "Bientôt terminé !",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Gris Foncé"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Homme > t-shirts > T-shirt brodé"
-              ],
-              "size": "L",
-              "title": "T-shirt à Logo Brodé Superstate Athletic - Gris Foncé",
-              "link": "https://www.superdry.fr/homme/t-shirts/t-shirt-a-logo-brode-superstate-athletic-262034.html?product_262034_size=003"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/1Mf12PqHINaQnzPd0rxw8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "An elevated basic, our Surplus Graphic T-Shirt is the perfect refresh for the coming season. The relaxed fit creates the ideal opportunity for layering and showing off your true style throughout the year. Relaxed fit – the classic Superdry fit. Not too slim, not too loose, just right. Go for your normal size Short sleeved Crew neck Ribbed neckline Faded graphic on the front Signature tab on the hemline",
-              "brand": "Superdry",
-              "custom_label_0": "SALE",
-              "custom_label_1": "",
-              "custom_label_2": "Bientôt terminé !",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Gris"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Homme > t-shirts > T-shirts graphiques"
-              ],
-              "size": "M/XL/L/XXL/S",
-              "title": "T-shirt à Motif Surplus - Gris",
-              "link": "https://www.superdry.fr/homme/t-shirts/t-shirt-a-motif-surplus-267884.html?product_267884_size=002"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/xQAQwoHFrpjxpqTe2HW59.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Relaxed fit – the classic Superdry fit. Not too slim, not too loose, just right. Go for your normal size Crew neckline Printed graphic across chest Superdry logo tab The Standard Script T-Shirt has been curated to bring an authentic edge to your casualwear. This iconic essential creates a versatile silhouette with its relaxed fit to allow layering to suit your style effortlessly. Let your chic look shine through this staple throughout all seasons.",
-              "brand": "Superdry",
-              "custom_label_0": "SALE",
-              "custom_label_1": "",
-              "custom_label_2": "Bientôt terminé !",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Bleu Marine"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Homme > t-shirts > T-shirts graphiques"
-              ],
-              "size": "M/L",
-              "title": "T-shirt Standard Script - Bleu Marine",
-              "link": "https://www.superdry.fr/homme/t-shirts/t-shirt-standard-script-271323.html?product_271323_size=002"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/jBbwahaslk56PdIe90C2T.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Relaxed fit – the classic Superdry fit. Not too slim, not too loose, just right. Go for your normal size Crew neckline and ribbed trims Chest pocket Logo tab on sleeve This sweatshirt is a reliable piece to bring a vintage finish to your authentic look. The washed effect adds timeless depth and a relaxed look to allow your look to move freely, an instant icon. Staying warm with luxurious softness and keeping your look elevated, this winter warmer is the perfect companion.",
-              "brand": "Superdry",
-              "custom_label_0": "SALE",
-              "custom_label_1": "",
-              "custom_label_2": "Bientôt terminé !",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Bleu"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Homme > Sweats à Capuche > Sweat"
-              ],
-              "size": "M/XXL/L/S/XL",
-              "title": "The Merchant Store - Sweat-shirt - Bleu",
-              "link": "https://www.superdry.fr/homme/sweats-a-capuche/the-merchant-store---sweat-shirt-267983.html?product_267983_size=002"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/33IubXM2SZXFTuGltvoIf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Whether you're planning on getting active or just want to bring a sporty spirit into your casual look, the Luxury Sport Loose T-Shirt is the perfect companion to your authentic style. This tee will ensure your athletic look is elevated, keeping you feeling effortless throughout the day. Minimalistic and lightweight, this piece is an everyday essential. Loose Fit – where comfort meets cool, a stylish loose cut makes this a must-have shape Ribbed crew neck Short sleeves Superdry logos Signature Superdry tab",
-              "brand": "Superdry",
-              "custom_label_0": "SALE",
-              "custom_label_1": "",
-              "custom_label_2": "Bientôt terminé !",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Blanc"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Homme > t-shirts > Chemise imprimée"
-              ],
-              "size": "S/XL/M/XXL/L",
-              "title": "T-shirt Ample de Luxe Sport - Blanc",
-              "link": "https://www.superdry.fr/homme/impact-reduit/t-shirt-ample-de-luxe-sport-265832.html?product_265832_size=001"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "FR_EOSS_Aug_Mens",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "layout": "AUTOMATIC",
-            "text_fields": [
-              "title",
-              "price"
-            ]
-          },
-          "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "12dc2801-c80c-4149-84ee-041bb4abadbe",
-        "name": "AugustEdit25_Mens_Collection",
-        "ad_account_name": "FR Performance Ad Account",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Nouveautés en ligne",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/k2DtR2PIjVOjCcQ6rsHAY.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-07-22T23:00:00.000Z",
-        "impressions_total": 1779,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1779,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Superdry ",
-        "profile_name": "Superdry",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://www.superdry.fr/homme/nouveautes/?utm_medium=paidsocial&utm_term={{ad.id}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.superdry.fr/homme/pulls/pull-ras-du-cou-en-maille-torsadee-271133.html?product_271133_size=005"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/71fca1c6-ead0-43d7-8dbb-63e55b3b6a38/5097be88-5031-48e3-b40f-8c8d12913a5e.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.superdry.fr/homme/jeans/jean-droit-slim-vintage-en-coton-bio-272175.html?product_272175_size=065"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/fe6ae9f2-bdc0-4bc8-a174-c59882c682ac/0762535e-49f2-41cd-9d18-2354b927c375.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.superdry.fr/homme/vestes/bomber-a-capuche-et-ecusson-college-268600.html?product_268600_size=004"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/e26636ed-4410-45c1-870a-c3030acfaa95/b13d026b-cb1d-4728-9ef9-1296d551b57c.png"
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "cfc0d75f-e183-4ccc-9994-6e57b6d04e11",
-        "name": "Aug25_EOSS_Men_Image",
-        "ad_account_name": "FR Performance Ad Account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Superdry™ Petits Prix",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NBe4wKjDhKEscN5T7xEKJ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-08-15T05:00:26.000Z",
-        "impressions_total": 108964,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 108964,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Superdry ",
-        "profile_name": "Superdry",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.superdry.fr/soldes/homme/?UTM_medium=paidsocial&UTM_term={{ad.id}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "69edf6d9-d93e-403a-b729-d6fe70de7bf5",
-        "name": "FR Back to School25_Womens_Collection",
-        "ad_account_name": "FR Performance Ad Account",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Offres de rentrée",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/i5lRAPYVArHXNxIvrXbMJ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-07-22T23:00:00.000Z",
-        "impressions_total": 19554,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 19554,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Superdry ",
-        "profile_name": "Superdry",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://www.superdry.fr/femme/back-to-school/?UTM_medium=paidsocial&UTM_term={{ad.id}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.superdry.fr/femme/vestes/parka-a-capuche-avec-fausse-fourrure-everest-178977.html?product_178977_size=020"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/4a76c4a6-c290-48da-ac16-bc1f92456c08/c9105487-ab4d-4a0e-aa4f-fc5b5e5d4131.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.superdry.fr/outlet/femme/vestes/doudoune-sans-manches-a-capuche-everest-256840.html?product_256840_size=017"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/b582a603-c173-47fd-b74c-788acb803b67/eb8094bb-a8b7-4b0a-ae7e-4e3c014fafd6.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.superdry.fr/femme/accessoires/sac-a-dos-heritage-montana-261270.html"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/6eda0a7b-38ba-4096-a60e-85889173b37c/ca13aa40-b055-4373-b459-c63499eb8be4.png"
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d83029ab-4f4e-45d4-9b2c-f8e6e964e2f7",
-        "name": "AugustEdit25_Womens_Story Carousel",
-        "ad_account_name": "FR Performance Ad Account",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Découvrez nos nouveautés",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-07-22T23:00:00.000Z",
-        "impressions_total": 544971,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 544971,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Superdry ",
-        "profile_name": "Superdry",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Découvrez nos nouveautés",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Découvrez nos nouveautés",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/biZ4xaK8tyU7yUbn4T7NW.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.superdry.fr/femme/nouveautes/?UTM_medium=paidsocial&UTM_term={{ad.id}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Découvrez nos nouveautés",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/a5EDMrzUrJsZUCy3CmZVN.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.superdry.fr/femme/nouveautes/?UTM_medium=paidsocial&UTM_term={{ad.id}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Découvrez nos nouveautés",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bWkG5Rcnv3qtG3XLrnteF.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.superdry.fr/femme/nouveautes/?UTM_medium=paidsocial&UTM_term={{ad.id}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "0c39219a-7c05-4525-a5ef-e88a37fecccd",
-        "name": "FR Summer Sale New Lines 25_Video_Womens",
-        "ad_account_name": "FR Performance Ad Account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Jusqu’à -50% !",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tRBzul5UBJKcg5npg6An4.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIoPoKIAEw4AM41AZAAUoOCgkhEQ4UDgsLDBEQ9ANQxCxoAiIGCgJIAxIAogEyCLoKEiUKIwjjtQcgATDQBTiACkACSg4KCSILDAgKCAYFCRD0A1DELGgCIgYKAkgDEgCiATEIfxIlCiMIm_oEIAEw4AM41AZAAkoOCgkTBwgJBAQFBwYQ9ANQxCxoAiIGCgJIAhIAogEyCJIKEiUKIwiB9wQgATDgAzjUBkACSg4KCREHBwgHBQQFBxD0A1DELGgCIgYKAkgCEgCiATIIxAoSJQojCM3tBCABMOADONYGQAJKDgoJGQcIBQYFBAMGEPQDUMQsaAIiBgoCSAISAKIBMgjSChIlCiMIzIoFIAEw4AM41AZAAkoOCgkaCAgFCAQEBAUQ9ANQxCxoAiIGCgJIAhIAkAPELA%3D%3D&uc=15",
-        "start_date": "2025-06-25T07:00:59.000Z",
-        "impressions_total": 9821,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 9821,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Superdry ",
-        "profile_name": "Superdry",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.superdry.fr/outlet/femme/?utm_medium=paidsocial&utm_term={{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "98a843c2-edce-4e62-987f-0e93e7913d18",
-        "name": "FR-Summer Sale 25-Image-Womens",
-        "ad_account_name": "FR Performance Ad Account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Jusqu’à -50 % !",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/DCdzZuRiVmkyfVRCda2cL.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-06-25T07:00:59.000Z",
-        "impressions_total": 86355,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 86355,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Superdry ",
-        "profile_name": "Superdry",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSFRQMDRGbktnT2V1czNXcGZod0ZsP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.superdry.fr/outlet/femme/?utm_medium=paidsocial&utm_term={{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{adSet.id}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

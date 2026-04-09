@@ -1,8 +1,9 @@
 {
   "brand": "Nike",
   "country": "fr",
-  "fetched_at": "2026-04-09T01:37:20.502Z",
+  "fetched_at": "2026-04-09T21:58:40.297Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
@@ -5967,6 +5968,154 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
+        "id": "5b169ac0-d879-4e28-85b0-57932f70dff4",
+        "name": "CR436LL4N365_Product Experiment_Maxxed Out_Mixed_Unisex_EMEA_Static_Post_X_X_Kobbie Static - FR",
+        "ad_account_name": "Nike EMEA - Initiative Mens",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "unreal motion powered by 8",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nhdqieJHt8iOY8VXGMgAh.380?mo=GjsaFDIBBDoBfUIGCPHjir8GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+        "start_date": "2025-03-26T08:00:59.000Z",
+        "impressions_total": 5799,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 5799,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "27",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Nike, Inc. ",
+        "profile_name": "Nike",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.nike.com/fr/air-max?cp=84893751091_brs_CR436LL4N365"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "119042a9-410f-4268-b889-e5a8fdc0ea0c",
+        "name": "CRQ6X27ICOS7_Air Max DN8_Maxxed Out_Mixed_Unisex_EMEA_Static_Post_X_X_Rayssa Leal x Elizaveta product experiment - Static Snap Ads",
+        "ad_account_name": "Nike EMEA - Initiative Mens",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "unreal motion powered by 8",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TKlTZgnrKn0ikRmo023ov.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-03-26T08:00:59.000Z",
+        "impressions_total": 7413879,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 7413879,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "27",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Nike, Inc. ",
+        "profile_name": "Nike",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.nike.com/fr/air-max?cp=84893751091_brs_CRQ6X27ICOS7"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
         "id": "feaee1d2-243c-4caa-a713-a17a267eb7c8",
         "name": "CRWG0LE5JNN8_Product Experiment_Maxxed Out_Mixed_Unisex_EMEA_Video_Story_:15_1080x1920_Masai AV - FR",
         "ad_account_name": "Nike EMEA - Initiative Mens",
@@ -6053,8 +6202,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "43dcc135-3ddb-4903-b0bb-cdf3c2b85d6a",
-        "name": "CR89Y2LYTMSD_Air Max DN8_Maxxed Out_Mixed_Unisex_EMEA_Static_Post_X_1080x1920_Ja Morant Static - FR",
+        "id": "9b539c5b-b32f-4fed-bea2-5515456c134f",
+        "name": "CRJBKSZIZQBA_Product Experiment_Maxxed Out_Mixed_Unisex_EMEA_Static_Post_X_X_Yuto Static - FR",
         "ad_account_name": "Nike EMEA - Initiative Mens",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -6067,9 +6216,9 @@
         "call_to_action": "MORE",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vYKfrvJBGpPKG9CRq8XtI.380?mo=GjsaFDIBBDoBfUIGCIHsqb8GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xf3mLPb5Kcm7nkOR8F4Hf.380?mo=GjsaFDIBBDoBfUIGCMbkir8GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
         "start_date": "2025-03-26T08:00:59.000Z",
-        "impressions_total": 6657,
+        "impressions_total": 10602,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -6081,7 +6230,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 6657,
+          "fr": 10602,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -6118,166 +6267,7 @@
         "profile_name": "Nike",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
         "web_view_properties": {
-          "url": "https://www.nike.com/fr/air-max?cp=84893751091_brs_CR89Y2LYTMSD"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "64c640db-e68a-4e9e-b3cc-afc69dc0f63c",
-        "name": "CRONAJL4PODI_Air Max DN8_Maxxed Out_Mixed_Unisex_EMEA_Static_Post_X_1080x1920_Nico Williams Static - FR",
-        "ad_account_name": "Nike EMEA - Initiative Mens",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "unreal motion powered by 8",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/e7YoTX5yUWsb31Pe3Caka.380?mo=GjsaFDIBBDoBfUIGCMXrqb8GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
-        "start_date": "2025-03-26T08:00:59.000Z",
-        "impressions_total": 5363685,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 5363685,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "27",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nike, Inc. ",
-        "profile_name": "Nike",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.nike.com/fr/air-max?cp=84893751091_brs_CRONAJL4PODI"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "db1fffd6-1b09-4ef1-be3a-9ff5b065901d",
-        "name": "CRLLT72LHZBG_Air Max DN8_Maxxed Out_Mixed_Unisex_EMEA_Video_Story_:20_X_Rayssa Leal x Elizaveta product experiment - AV Stories",
-        "ad_account_name": "Nike EMEA - Initiative Mens",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "unreal motion powered by 8",
-        "call_to_action": "MORE",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-26T08:00:59.000Z",
-        "impressions_total": 171422,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 171422,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "27",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nike, Inc. ",
-        "profile_name": "Nike",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "unreal motion powered by 8",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YgSjN6uU7a9582rlBfTrN.67?mo=GukBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIxvs8IAFKDgoJOBoeGSctJx0REPQDaAIiBgoCSAUSAKIBJwi6ChIaChgIxJYrIAFKDgoJKg8WEhggGhgPEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAirhR4gAUoOCgkgCw8LExkQEAoQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAis_h4gAUoOCgkhDA4MFBoREAoQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjh8BsgAUoOCgkgCQ8LEBQREAkQ9ANoAiIGCgJIAhIAkAOihAE%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.nike.com/fr/air-max?cp=84893751091_brs_CRLLT72LHZBG"
-              }
-            }
-          ]
+          "url": "https://www.nike.com/fr/air-max?cp=84893751091_brs_CRJBKSZIZQBA"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

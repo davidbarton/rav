@@ -1,565 +1,28 @@
 {
   "brand": "Zalando",
   "country": "nl",
-  "fetched_at": "2026-04-09T02:26:24.068Z",
+  "fetched_at": "2026-04-09T21:05:39.619Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "7e024b36-2ba0-42fb-8fcf-32afe87cb695",
-        "name": "SS26-010_video-singlevideoads-9x16_6s_WildRide_a_NL",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Zien jullie mij?",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Xb4QQnWqKg6PE1runfA8w.67?mo=Go0CGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQj8qkIgATDgAzjUBkABSg8KCm1TS3NjwAE_WloQ9ANQ8C5oAnXCWEdAIgYKAkgCEgCiATgIugoSKwopCN_rLiABMNAFOIAKQAJKDwoKUjI3TIgBWiwzLRD0A1DwLmgCdV0fUkAiBgoCSAMSAKIBPAiSChIvCi0Ii8EtIAEw4AM41AZAAkoOCglAMTNQOHw4RzsQ9ANQ8C5oAnVJOz9AfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IjdgfIAEw4AM41AZAAkoOCgk5ISYyTjwqKB0Q9ANQ8C5oAnWYQkJAfQAAgD8iBgoCSAISAJAD8C4%3D&uc=15",
-        "start_date": "2026-04-01T08:00:00.000Z",
-        "impressions_total": 159818,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 159818,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.nl/seizoenseditie/?wmc=smp310__.66107486___..&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c435af4e-5de7-4e7b-b1b0-4a84ee42110a",
-        "name": "SS26-004_video-singlevideoads-9x16_6s_Reserved_a_NL",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Stijlvolle laatkomers",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ELG91otC68Kf6ycMpLRAn.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi41xMgATDgAzjUBkABSg4KCTQKLAksBysIRBD0A1DwLmgCdeJ3XkAiBgoCSAMSAKIBNwi6ChIqCigI_c0SIAEw0AU4gApAAkoOCgk4CTMHIgYgCDsQ9ANQ8C5oAnWeyXFAIgYKAkgCEgCiATwIkgoSLwotCKP-CyABMOADONQGQAJKDgoJIwcbBhUFFQYjEPQDUPAuaAJ17jlJQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCN_SDSABMOADONQGQAJKDgoJKwYlBRoEGQUrEPQDUPAuaAJ19sthQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
-        "start_date": "2026-04-01T08:00:00.000Z",
-        "impressions_total": 69937,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 69937,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.nl/seizoenseditie/?wmc=smp310__.66107486___..&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "22d6f5a7-d398-4805-9c5f-55d0c0c7e623",
-        "name": "PPA_03",
-        "ad_account_name": "ZMS_New Brand Activation_Value Add_2023",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "de",
-          "en"
-        ],
-        "headline": "Tommy op bezoek",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tf4uxfmGrJpsHoROQxSJQ.67?mo=GtwCGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUIwL6VASABMOADONQGQAFKDgoJZTMyKjM8ODksEPQDUJjZAWgCIgYKAkgEEgCiATMIugoSJgokCPTmeiABMNAFOIAKQAJKDgoJXSYgGyUnNTEoEPQDUJjZAWgCIgYKAkgDEgCiATIIfxImCiQIibFcIAEw4AM41AZAAkoOCglHHRoWGiEfHx0Q9ANQmNkBaAIiBgoCSAISAKIBMwiSChImCiQI6IpgIAEw4AM41AZAAkoOCglJHh4WGyIgIR0Q9ANQmNkBaAIiBgoCSAISAKIBMwjEChImCiQIwdZQIAEw4AM41gZAAkoOCgk_FhYRGRokHBsQ9ANQmNkBaAIiBgoCSAISAKIBMwjSChImCiQIvLZVIAEw4AM41AZAAkoOCglAFxcRGRoYFxwQ9ANQmNkBaAIiBgoCSAISAJADmNkB&uc=15",
-        "start_date": "2025-07-17T08:00:00.000Z",
-        "impressions_total": 40882,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 40882,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "22",
-              "max_age": "40",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando Marketing Services GmbH",
-        "brand_name": "Tommy Hilfiger",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://www.zalando.nl/campaigns/tommy-hilfiger-the-icon/?wmc=zms999_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}.&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f55223d1-07fa-46fa-9e88-2b8a2f586716",
-        "name": "SS26-009_video-singlevideoads-9x16_6s_SuddenBreeze_a_NL",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Laat die wind maar waaien",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oAz8cXyWS9GcjcStSDMQS.67?mo=GocCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE3CEMSLwotCP6oLSABMOADONQGQAFKDgoJQUMzNTJaQy9REPQDUPAuaAJ1sDQ9QH0AAIA_IgISAKIBOAi6ChIvCi0I5oIiIAEw0AU4gApAAkoOCgk8LSUiLTgvIT4Q9ANQ8C5oAnUZg0NAfQAAgD8iAhIAogE4CJIKEi8KLQij9hwgATDgAzjUBkACSg4KCSstJR4gNSkcNBD0A1DwLmgCdWC4MEB9AACAPyICEgCiATgI0goSLwotCKKpFyABMOADONQGQAJKDgoJLiAaFx4lIRYqEPQDUPAuaAJ1T8Q5QH0AAIA_IgISAJAD8C4%3D&uc=15",
-        "start_date": "2026-04-01T08:00:00.000Z",
-        "impressions_total": 57951,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 57951,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.nl/seizoenseditie-heren/?wmc=smp310__.66107486___..&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ec9826dc-f282-4f40-b9da-2c63298d015f",
-        "name": "SS26-006_video-singlevideoads-9x16_6s_Selfie_a_NL",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Perfect in balans. Uiteraard",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/c2APAVtokXvdelAweiAOV.67?mo=GpcCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgjgrTEgATDgAzjUBkABSg8KCqcBSyNNKjtOREkQ9ANQ8C5oAnVeIVBAfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4IqqUsIAEw0AU4gApAAkoPCgqaAUssRScyQDI3EPQDUPAuaAJ1eEZfQH0AAIA_IgYKAkgCEgCiATwIkgoSLwotCM2xIiABMOADONQGQAJKDgoJbTUgLh4lODE1EPQDUPAuaAJ12NI8QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCPC6HiABMOADONQGQAJKDgoJaS0eLRoiLiUnEPQDUPAuaAJ1ZkxIQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
-        "start_date": "2026-04-01T08:00:00.000Z",
-        "impressions_total": 65138,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 65138,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.nl/seizoenseditie-heren/?wmc=smp310__.66107486___..&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "030cab06-a72d-4cdf-9dd9-4cc071fd2623",
-        "name": "Cyber25-006_video-singlevideoads-9x16_10s_Coffee_a_NL",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Black Friday Week: tot -70%",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZlmDp3OYgqd0PEFUrqLYB.67?mo=GpMCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiT9UwgATDgAzjUBkABShAKC4sBOEs7Fzc0lQEoEPQDUJBOaAJ1z4JcQCIGCgJIAxIAogE9CLoKEjAKLgiauEQgATDQBTiACkACSg8KCo8BLUwxHDIocicQ9ANQkE5oAnXDfXVAfQAAgD8iBgoCSAISAKIBPAiSChIvCi0Igpg0IAEw4AM41AZAAkoOCgldMDUoEiQmUSYQ9ANQkE5oAnWq8VJAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I3N0tIAEw4AM41AZAAkoOCglcHi0gEyEcTxkQ9ANQkE5oAnWsGVlAfQAAgD8iBgoCSAISAJADkE4%3D&uc=15",
-        "start_date": "2025-11-20T09:00:00.000Z",
-        "impressions_total": 3346432,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 3346432,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.nl/outlet-heren/?wmc=smp310__.23224026___..&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c41442d4-9eed-430d-812a-fe949cd261cd",
-        "name": "Cyber25-002_video-singlevideoads-9x16_10s_Match_a_NL",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Black Friday Week: tot -70%",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/D2GBsXdZ5vs0kZXFzPGyF.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiuuSwgATDgAzjUBkABSg4KCSsuGyYXFhFLBxD0A1CQTmgCde7lSUAiBgoCSAQSAKIBNwi6ChIqCigIlr0pIAEw0AU4gApAAkoOCgklIRcbGA8OUwkQ9ANQkE5oAnUMwVNAIgYKAkgDEgCiATwIkgoSLwotCLyiHyABMOADONQGQAJKDgoJHBsVHREPDi0GEPQDUJBOaAJ15nQ8QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCOO6HCABMOADONQGQAJKDgoJHRkSFRMMC0AGEPQDUJBOaAJ1FxtIQH0AAIA_IgYKAkgCEgCQA5BO&uc=15",
-        "start_date": "2025-11-20T09:00:00.000Z",
-        "impressions_total": 2855208,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 2855208,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.nl/outlet-heren/?wmc=smp310__.23224026___..&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "667e5988-e316-4049-9318-ca704f83140e",
-        "name": "HO25-Snap-063_Video-Commercials_9x16_6s_FamilyDynamics2_a_NL-nl",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
+        "id": "b9a7bbc0-c62a-45bd-875b-c0c5a6fd202d",
+        "name": "NL_Web_Mix_RH_CA_ePDP-MidSummer25_M_6-10s_NOV_2507_01",
+        "ad_account_name": "Zalando_SnapAds",
+        "status": "PAUSED",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
         "languages": [],
-        "headline": "Het gaat om het idee, toch?",
-        "call_to_action": "MORE",
+        "headline": "Shop nu bij Zalando",
+        "call_to_action": "SHOP_NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SU6IOKKbXoeNr7ZueZTGJ.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjg7iogATDgAzjUBkABSg4KCWAnQS82M0MnOxD0A1DwLmgCdXRBYUAiBgoCSAMSAKIBNwi6ChIqCigI_7kjIAEw0AU4gApAAkoOCglfHS8lMShCHi4Q9ANQ8C5oAnUQimtAIgYKAkgCEgCiATwIkgoSLwotCKuQHCABMOADONQGQAJKDgoJQBssHx4lKyQWEPQDUPAuaAJ1xe5NQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCN2-GCABMOADONQGQAJKDgoJQhQpFSEbLBQgEPQDUPAuaAJ1xZxYQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
-        "start_date": "2025-12-01T23:00:00.000Z",
-        "impressions_total": 271361,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XmcjddyytcrS5zCiGkdmz.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIoskRIAEw4AM41AZAAUoOCgkjFzcFDy4SBzIQ9ANQ8C5oAiIGCgJIAhIAogEyCLoKEiUKIwjHxQ0gATDQBTiACkACSg4KCSYNJAkQGREMGhD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMIqO4NIAEw4AM41AZAAkoOCgkdETIFDh8OCCEQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwjW-w4gATDgAzjUBkACSg4KCR4TNAYQHhAJJRD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCPyLCiABMOADONYGQAJKDgoJIA8YCBALDgkQEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMI6bMJIAEw4AM41AZAAkoOCgkhChcHDAsOBxEQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-02-13T14:47:32.000Z",
+        "impressions_total": 297796,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -587,7 +50,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 271361,
+          "nl": 297796,
           "tr": 0
         },
         "targeting_v2": {
@@ -595,22 +58,1058 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "54",
               "age_groups": [],
               "gender": "MALE",
-              "languages": [
-                "nl"
-              ],
+              "languages": [],
               "advanced_demographics": []
             }
           ],
-          "devices": []
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "os_version_min": "6",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
         },
         "paying_advertiser_name": "Zalando SE",
         "profile_name": "Zalando",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.nl/outlet-heren/?wmc=smp310__.36026798___..&opc=2211"
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://www.zalando.nl/?wmc=dis310_rh_new._{{campaign.id}}_{{adSet.id}}_{{ad.id}}.&opc=2211"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/4B6xnQSCCncwYf0AuiACU.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/0wwIoPoxWAydmZxb3k8WG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/opWZRwxvWNATPAIJzlFds.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/1sO8SzrUDH7p4YEIpl3MA.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/5sIdSlt6bulE2vcWxKlV5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/i3iQ6uXHeuiRM1Fq8iAfG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/WdduYdQcImkypvQF1sd7W.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/xHhfnc6Uo3EI6uvQpgrB3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/tdlSCvviQyueNxLn1SI3f.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/JErOXs42oeGYJAqOjcwQi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                }
+              ],
+              "description": "The Ordinary AZELAIC ACID SUSPENSION 10% - Serum - -",
+              "brand": "The Ordinary",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "niet gedefinieerd"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Care > Skin care"
+              ],
+              "size": "",
+              "title": "The Ordinary AZELAIC ACID SUSPENSION 10% - Serum - -",
+              "link": "https://www.zalando.nl/the-ordinary-azelaic-acid-suspension-10-serum-thr34g00m-s11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ErhOkJCONKJlf4l4PZUXR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/M7ZwlEcNh6ZUQXdmWkEbn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Emu4sLgdAtOmTc1cq5XH4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/EcdSzngqRd2opRrnB2xJ7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/TGTTnGBi9vXpZ87UI8Z6V.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/IbKfSJ3v87EyZmRj5Nt8j.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/4SgUCMIL7WzCKufzMqu4B.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/NVR80yJug8ppKxDCXFEZP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wSWdsVSkDnc75ZtmMN9Be.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/HJfch6p7kAYGvhaJenfMm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                }
+              ],
+              "description": "Jordan AIR JORDAN 1 MID SE - Sneakers hoog - black/olive grey/wild mango",
+              "brand": "Jordan",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "83",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "10",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "zwart"
+              ],
+              "condition": "INVALID",
+              "gender": "MALE",
+              "product_type": [
+                "Men > Shoes > Sneakers > High-Top Sneakers"
+              ],
+              "size": "",
+              "title": "Jordan AIR JORDAN 1 MID SE - Sneakers hoog - black/olive grey/wild mango",
+              "link": "https://www.zalando.nl/jordan-air-jordan-1-mid-se-sneakers-hoog-blackolive-greywild-mango-joc12p00y-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/FbMxZGrmlA8np1gU1npp2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/vnd5DOA69oYn0xDsD5mJ4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/l8ZJ5XKoBChujY7qVuvwo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LdfdmMp5oq3LnwmScdRMi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/89vXAfLX2LBYZNn64OM6P.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/tGFCbKrLzgjHqTTDc1cjk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wXZQMv2j6H1WFk8FL0Mbu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/dKO1RK3BtFSxjRh9C1t9e.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/OCezn2arzxlyfpAdu2TxQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/d1tRYyidjTqDBEfGgj8JG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                }
+              ],
+              "description": "Under Armour TECH VENT - Korte broeken - black black",
+              "brand": "Under Armour",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "50",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "20",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "zwart"
+              ],
+              "condition": "INVALID",
+              "gender": "MALE",
+              "product_type": [
+                "Men > Clothing > Shorts > Sport Shorts"
+              ],
+              "size": "",
+              "title": "Under Armour TECH VENT - Korte broeken - black black",
+              "link": "https://www.zalando.nl/under-armour-tech-vent-korte-broeken-black-black-un222f00v-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/4AfAms7K7TRlSH3OYYL7c.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wfd7SKlUQWbdgCTgp78Tk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/kFMGsIfAx34dnsQbnvqfQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8xFiYDIPFdAtigCCpomL6.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Ulpy1nDVqlE3j7zFemyMY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/OIkGchvUTmWMktJ1O4ii6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/6SYWtfjqneBzF0GAFjumP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/f0bPf9IYyB1j2mNSBrUd7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/DQQTvYfSwqdBVJvXPMRU0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/4aRcDRjvqysOU7aOFg6oz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                }
+              ],
+              "description": "ASICS SportStyle GEL-NYC UNISEX - Sneakers laag - cream/oyster grey",
+              "brand": "ASICS SportStyle",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "25",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "OUT OF STOCK",
+              "color": [
+                "wit"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "ASICS SportStyle GEL-NYC UNISEX - Sneakers laag - cream/oyster grey",
+              "link": "https://www.zalando.nl/asics-sportstyle-gel-nyc-unisex-sneakers-laag-creamoyster-grey-a0h15o074-b12.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/1GvJI0SetvULPQ4bkbPO4.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8L4fs2ld6xQMxicIU8rUQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/G6kEr7KGNfVchzHmd8rsr.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/80xGFu4muhizhKl0GYhtr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hlwxEM6vMvbrUVUJGsmfQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8Mo1kyenJqIlHZDkeUnhd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/KvlN5Cu5zwibCZsKglZYP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8QLIDIVQ1X6kdDqRnurdp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/HPk5Derf1KlNrDr8uFjuw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/s4qalnyqDZgcH0TzP3ouZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                }
+              ],
+              "description": "Skin1004 SKIN1004 MADAGASCAR CENTELLA WATERGEL SHEET AMPOULE MASK - Sheet mask - -",
+              "brand": "Skin1004",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#294ee5c0#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "niet gedefinieerd"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Care > Skin care > Face care > Masks"
+              ],
+              "size": "",
+              "title": "Skin1004 SKIN1004 MADAGASCAR CENTELLA WATERGEL SHEET AMPOULE MASK - Sheet mask - -",
+              "link": "https://www.zalando.nl/skin1004-skin1004-madagascar-centella-watergel-sheet-ampoule-mask-masker-04v34g00x-s11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/rvNkVQas4Cey0o2Lr1n6x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/bJwjn8g9gi6X6ZpOMxVsS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/pROyHVRuub377woFFdtsN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/xVFBZO7DhgZV2HXPMc7G7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/dA0cBpeJigqeeUtPEmQeD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/iRCYD8qQCUy4foJabL396.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8tfzuh3lQeCbTGAP9j1km.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/vR5oVDCtBzk33lqduCkOX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/RAFNTjgPlLbwYE4ons05v.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/35v23SVvELwr5CNO6F2va.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                }
+              ],
+              "description": "Nike Sportswear AIR FORCE 1 07 - Sneakers laag - white",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "95",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "wit"
+              ],
+              "condition": "INVALID",
+              "gender": "MALE",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear AIR FORCE 1 07 - Sneakers laag - white",
+              "link": "https://www.zalando.nl/nike-sportswear-air-force-1-07-sneakers-laag-white-ni112n022-a11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/W6pvR4zeRd7q7SH8jx2uf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Zu8LHBFSl5Qj0aCr1VVCU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/vI2dUDGafBiMTTddquNU1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/pKVFapJuwY7mOC3vQu8UA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/KL5iUYYu7ILD5Dfs5tN1D.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/9bE18LaCxLb6TqzZWVQMC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/pqKnkFy0ra9yLGd9qatsd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/d8dXhLdtuIcKryuwpSXE8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/HSq9Uj9tlPgIHQkKEX53k.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Gea7YKuucmDLlwu8YfQqc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                }
+              ],
+              "description": "Pier One UNISEX - Lage laarzen - brown",
+              "brand": "Pier One",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "50",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "bruin"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Boots > Ankle boots"
+              ],
+              "size": "",
+              "title": "Pier One UNISEX - Lage laarzen - brown",
+              "link": "https://www.zalando.nl/pier-one-unisex-korte-laarzen-brown-pi915k006-o11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/pqKAGUCq4vsmWGavMkaEt.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/28kEJDplb1iGgOr8g299h.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/pV51hoROgHCPdxIDerhOl.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/6z8BPWR9GZ3veKQCtwnUa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mFXiQR7sfcFqVVigK1aKQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/k3XQtTQkZxZ3o9xfzb3V0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/QjXSW0zKvJjBS1TsFQ54z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/V3G5dryv93OGDd81Yjs4x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/840YKekTHh3bJooZ5DpTn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/yDlHjYwOONnVxhUhRWljp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                }
+              ],
+              "description": "adidas Originals ADILETTE - Badslippers - blue/white",
+              "brand": "adidas Originals",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "79",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "donkerblauw"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Open shoes > Pool Slides"
+              ],
+              "size": "",
+              "title": "adidas Originals ADILETTE - Badslippers - blue/white",
+              "link": "https://www.zalando.nl/adidas-originals-adilette-slippers-ad115g003-k11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/WjTbuwOhEExPDF4DQnTb5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/D6gAPPfreN6QC7B1lEYiJ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/eTvHjvTGeT0n90JSFuD6D.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/xpldHbA6NBT89jeecxC9q.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/CM4GhGpwNaqXSDTyfPje3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/BLEBF8jGVe6G4SXfe8hp3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/UeFw7jse8xrOJpyHnHH3t.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/kLBP4a5IqeD511a8Recrp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/vt17U003MM6MAgIVEMn2X.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LdpvFMrcPJfLRRP7jMg5M.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                }
+              ],
+              "description": "New Balance GC1000 UNISEX - Sneakers laag - black",
+              "brand": "New Balance",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "88",
+              "custom_label_3": "#294ee5c0#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "KIDS",
+              "availability": "IN STOCK",
+              "color": [
+                "zwart"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Kids > Shoes > Sneakers > Low-top Sneakers"
+              ],
+              "size": "",
+              "title": "New Balance GC1000 UNISEX - Sneakers laag - black",
+              "link": "https://www.zalando.nl/new-balance-sneakers-laag-black-ne216d0ct-a11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/JIThyJLz7cgUscoE2SEuF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/lFQzV60WIoi0Onxweo04P.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/521iKb1IqHWrGrYN65UZh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/1EQQXlBkzkkqufSWUYj6P.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/lufniDyjqUOTMoY9Qj66z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/zKVcDnYiBahpwxZe4tb9Y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Z8R3FCdGVMxeVORvGWLC3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/3mP7La6pir8jgKc6scMrt.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/6N7Ve3R2okPfbXVRDBbyY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/IQXsPV3uAwZe5GZ6KW9cU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                }
+              ],
+              "description": "PULL&BEAR STWD RIPSTOP - Winterjas - black",
+              "brand": "PULL&BEAR",
+              "custom_label_0": "1",
+              "custom_label_1": "False",
+              "custom_label_2": "17",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "25",
+              "age_group": "ADULT",
+              "availability": "OUT OF STOCK",
+              "color": [
+                "zwart"
+              ],
+              "condition": "INVALID",
+              "gender": "MALE",
+              "product_type": [
+                "Men > Clothing > Jackets > Winter Jackets"
+              ],
+              "size": "",
+              "title": "PULL&BEAR STWD RIPSTOP - Winterjas - black",
+              "link": "https://www.zalando.nl/pullandbear-stwd-ripstop-regenjas-black-puc22t118-q11.html?otid=default"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {},
+          "vertical": "COMMERCE"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -620,20 +1119,20 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "98d03dd6-0d24-4292-83c5-0e909768e843",
-        "name": "NL_Web_Mix_RH_AR_SWAG_F_2401_Swag-Q124",
+        "id": "e6860cd8-8c8a-4b8f-ace6-047952c9a8c9",
+        "name": "NL_Web_Android_RH_DPA-DA_PLV_F_6-10s_NVO_0126_Test",
         "ad_account_name": "Zalando_SnapAds",
         "status": "ACTIVE",
-        "creative_type": "LENS_WEB_VIEW",
-        "ad_type": "LENS_REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "DYNAMIC",
         "languages": [],
-        "headline": "Zalando",
-        "top_snap_media_type": "LENS_PACKAGE",
+        "headline": "Shop nu",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "DYNAMIC",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/f7c7ece2-ec3e-41a5-a883-d72ef70e440d.lens",
-        "start_date": "2024-09-11T08:58:52.000Z",
-        "impressions_total": 17299560,
+        "start_date": "2025-02-13T14:47:33.000Z",
+        "impressions_total": 43025,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -661,7 +1160,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 17299560,
+          "nl": 43025,
           "tr": 0
         },
         "targeting_v2": {
@@ -679,7 +1178,8 @@
             {
               "marketing_name": [],
               "model": [],
-              "os_type": "iOS",
+              "os_type": "ANDROID",
+              "os_version_min": "6",
               "carrier_id": [],
               "operation": "INCLUDE"
             }
@@ -688,10 +1188,1031 @@
         "paying_advertiser_name": "Zalando SE",
         "profile_name": "Zalando",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "lens_preview": {
-          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/hzKSyHm3aMPjvzzNxZKG9?bo=EhQyAX06AQRCBgjpr7HMBkgCUBJgAQ%3D%3D&uc=18",
-          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/36183c4a-e67d-42f7-8c23-3f890ac1bd70.mp4",
-          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/36183c4a-e67d-42f7-8c23-3f890ac1bd70.webp"
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/sWBgvVtAcm4YrIS85bLnM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/PEyNgGhushCuUW9RnlnYN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/K37yC8X53tS6u1nfozP2J.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ZRc9b7iRV3gbsG3JPrmCo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/j1q211lZpJ5pjeq4nNwzf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mNNQeYiE5LRaCgdRlslDK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/MxbOSzJEKRq9kYGNe4w4b.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/fsdYBDRsjG2jAls8bZFFV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/DkpPC3Iq7Krq3fr42UVIo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/adCmQbr3WS9V9kc5xJK0u.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                }
+              ],
+              "description": "Bershka Korte laarzen - brown",
+              "brand": "Bershka",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#18cc8b06#,#654e7afb#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "bruin"
+              ],
+              "condition": "INVALID",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Ankle boots > Ankle boots"
+              ],
+              "size": "",
+              "title": "Bershka Korte laarzen - brown",
+              "link": "https://www.zalando.nl/bershka-lage-laarzen-brown-bej11n09s-o11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/x1cgVzpHlmv5RWtSbUQ5x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mNQWBQQvMb7aPEuyajbqc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/AguwfQKiFRiAHIhNqEIg6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/HJ1qGxaIEN6T6gUgOcZnN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LEGRjZZ8AMU9mFqYvZv6m.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Bc1QrZTQxq5usF1J6qhRk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/uQKiutkhrVbFBAzwfUwMi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/uRJNgwLpS7tLm3hy2KXvF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/9CU0tiEOz5Hp69hRVP1tF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/VCS6EyQMznyQqZSjP5wgp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                }
+              ],
+              "description": "Bershka SOFT TOUCH BUTTONED - Vest - dark brown",
+              "brand": "Bershka",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#18cc8b06#,#654e7afb#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "donkerbruin"
+              ],
+              "condition": "INVALID",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Knitwear & Cardigans > Cardigans"
+              ],
+              "size": "",
+              "title": "Bershka SOFT TOUCH BUTTONED - Vest - dark brown",
+              "link": "https://www.zalando.nl/bershka-soft-touch-buttoned-vest-dark-brown-bej21i0t8-o11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/F7ZTI3qmq7MNdO3zidZAd.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Vfj7NSh26mOFexv3AkwzQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/46GtNbH745a0rKFLz5YyX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/3Sh973js1pX998wOsZ7Fi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Gk4tQQXH8CdpfIrr6sF3D.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/SVwFmYpElT26kymf0BPoZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/rPf4qq9kIMkoKp8wvZONa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8hG9VZG9BQRM4h8bOKBTZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ix1u5xfAqzwynrhnoF8Vz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/AcuUNPewkf3rMFpgVSHVU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                }
+              ],
+              "description": "Urban Classics Mantel - black",
+              "brand": "Urban Classics",
+              "custom_label_0": "1",
+              "custom_label_1": "False",
+              "custom_label_2": "78",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "20",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "zwart"
+              ],
+              "condition": "INVALID",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Coats > Classic Coats"
+              ],
+              "size": "",
+              "title": "Urban Classics Mantel - black",
+              "link": "https://www.zalando.nl/urban-classics-mantel-black-ur621u02j-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/JRPNAIoKx62WUVupG2YV4.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/IMPQsoqB5BS4ZK7GN7Yq1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/yNhS7nR0DSfWtGSITWuJD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hI2XUA9tLvqglj5mMjPwC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ZDGBH8hDBMmg4XhAf1FUx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/iq1mRKZHSqsVLL1MsvSs7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/OEQflK3XzolZJ2Hu44Wp2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/EFL5Y4EkJUi8tFbAx5AgF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/XqEWwCxGSO2HjjRyStRxu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/SwAXMikPMU0p4K2gNnQ2G.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                }
+              ],
+              "description": "Anna Field Legging - dark blue",
+              "brand": "Anna Field",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "82",
+              "custom_label_3": "#294ee5c0#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "donkerblauw"
+              ],
+              "condition": "INVALID",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Trousers > Leggings"
+              ],
+              "size": "",
+              "title": "Anna Field Legging - dark blue",
+              "link": "https://www.zalando.nl/anna-field-punto-leggings-with-button-detail-legging-dark-blue-an621a04x-k11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/51BhvTSRBl7oWXoS9SlPP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/HgM0MPoUXZLDnevYXPB70.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/F7nRLKdHAdROTYqG0bcNT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/NEihNxvsEHlmbWtkzMDTZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/zDNr2xuzXBANUIgfIOsMl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/RraJudt894kisjBEcvN6K.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/zgiJVQyLLjmRafPQq2t6X.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/t9oS28Mkqb8WlZhHQ8Ab4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/yxx7gaEVpD1qPQu3bGF4l.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/1KJ5gfafGHrSxDybvSy6Y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                }
+              ],
+              "description": "Bershka Shorts - black",
+              "brand": "Bershka",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#294ee5c0#,#654e7afb#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "zwart"
+              ],
+              "condition": "INVALID",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Shorts"
+              ],
+              "size": "",
+              "title": "Bershka Shorts - black",
+              "link": "https://www.zalando.nl/bershka-shorts-black-bej21s0e8-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/2EFe9CeZJBAak0uA4wwFU.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/PlbwRccTb7Y8O7IJluD8R.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/0ZI1ByYVhFU4YePKEXjQz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/4DJ6BdLINd35DD4uRis17.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/KxBSYk3oDInCvAk13Fa5g.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/jcUeodJN3RTukMvaNoGbz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/uq0tn6wxxGiygg5cm8orN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/TyF4LzTldHTvrkobRcsEz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/63fbYSFaT3jI47oHwr4KW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ARu4BAdNsSPpgBJFl5W5k.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                }
+              ],
+              "description": "DORINA ADELE 3 PACK - Beugel BH - white/black/nude",
+              "brand": "DORINA",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "10",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "wit"
+              ],
+              "condition": "INVALID",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Underwear > Bras > Underwire bras"
+              ],
+              "size": "",
+              "title": "DORINA ADELE 3 PACK - Beugel BH - white/black/nude",
+              "link": "https://www.zalando.nl/dorina-adele-3-pack-beugel-bh-whiteblacknude-dog81a0hu-a11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ttWLbqvsBKyhKFzhAlRlk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/TxHShRCjOxwJ6hfzVdARv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/zUR8NsDBzZTvvw9zLWtdM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/fZMtZnNCGrvRsp3UqYf95.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8k503vqw5owwIM9oP6dCo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/sp1zxGt4WLGKoZdpXFCpv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/YG1szNSv4jucyj2fLTtde.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/GM6TAXRXvl7jjQiBCHkYE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/jhQAazso6z3MA2iJvqvBP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qxiJeW4QNFRDorPexgwq4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                }
+              ],
+              "description": "ONLY ONLPOWER PUSHUP - Jeans Skinny Fit - dark blue denim",
+              "brand": "ONLY",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "donkerblauw denim"
+              ],
+              "condition": "INVALID",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Jeans > Skinny"
+              ],
+              "size": "",
+              "title": "ONLY ONLPOWER PUSHUP - Jeans Skinny Fit - dark blue denim",
+              "link": "https://www.zalando.nl/only-onlpower-pushup-jeans-skinny-fit-dark-blue-denim-on321n2rq-k11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/fJaYhDbKijIxQGhG4f15N.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/upSCBHwlEACKWXBA1K4Dq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/U00cJ92BYl6j1YC2fAmBr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/KylSC4v8fXju0Ll2Ax6SP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/DdnwOeQ8p5129sHVAsx7R.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/VNJCYlsM2mUggK9uRPIIB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ilYFO6rZDXbbRl87mP3n3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/NzKvTAVVgDkuYlkHdH0HN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Mq9JLlre2WVSVuH01JYRp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Rrh2VhxLW1huFFBf3uYeG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                }
+              ],
+              "description": "PULL&BEAR SEAM-DETAIL - Sweater - light grey",
+              "brand": "PULL&BEAR",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "lichtgrijs"
+              ],
+              "condition": "INVALID",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Sweatshirts & Hoodies > Sweatshirts"
+              ],
+              "size": "",
+              "title": "PULL&BEAR SEAM-DETAIL - Sweater - light grey",
+              "link": "https://www.zalando.nl/pullandbear-sweater-light-grey-puc21j1bi-c11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/0kkxkx71MFPo5IhkzsxCA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/41Oq3EJyh72ArKYiJmv9C.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/PPIlrMSzw8VPdwC05xd15.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Q2SR1VMh9qJBPLPtlQgnZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8C6nSoiA24Dt27vyNR8tq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ff7b2GGsi1oN2TJsgENfe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/iZ5tU0RvLs2xO4PDT73R7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/6ivl8oJfAhcrPI5vMGDNh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/2yVLIiBVsHO57yiewHwir.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/3FhSVDoEI7UDbZebNrFAT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                }
+              ],
+              "description": "Bershka WIDE-LEG - Trainingsbroek - black",
+              "brand": "Bershka",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "zwart"
+              ],
+              "condition": "INVALID",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Clothing > Trousers > Jogging Trousers"
+              ],
+              "size": "",
+              "title": "Bershka WIDE-LEG - Trainingsbroek - black",
+              "link": "https://www.zalando.nl/bershka-trainingsbroek-black-bej21a0ue-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/7srR0z8Bi9Pc4L9SxXZja.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/QhYcF1ykK0S6mWR5uxv0Y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/VwXz6JFBG0VPdgsmymQVB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LbrXbLLHxiZiDCmhjkRzZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/tY2Rmv5eC9ipKBTXD1Egc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/3gAdsqtPXrKMlxFAH78Au.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/dBaHdpn5h21pkifZCB2ua.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/MEhPYIDzy0BtdPGsLXl5p.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/FWy42cNOUAw5rEcTIXv9h.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/h5DI3RkG0uDAKG019nFbt.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                }
+              ],
+              "description": "Nike Performance EVERYDAY CUSH CREW UNISEX 6 PACK - Sportsokken - white/black",
+              "brand": "Nike Performance",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "wit"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Clothing > Underwear & Socks > Socks > Sports socks"
+              ],
+              "size": "",
+              "title": "Nike Performance EVERYDAY CUSH CREW UNISEX 6 PACK - Sportsokken - white/black",
+              "link": "https://www.zalando.nl/nike-performance-everyday-cush-crew-6-pack-sportsokken-whiteblack-n1244d06o-a11.html?otid=default"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "Smartly Video Template - UPDATED_Zalando_PLV_BAU_Snap_6s_1080x1920",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "AUTOMATIC",
+            "text_fields": [
+              "title",
+              "price"
+            ]
+          },
+          "vertical": "COMMERCE"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -701,23 +2222,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "0441ceb1-a21c-4bcb-8ce3-0e588bdcebf9",
-        "name": "Cyber25-004_video-singlevideoads-9x16_10s_Barista_a_NL",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "id": "246a2a45-c4e9-4c4c-9255-7f1a5dbe0003",
+        "name": "NL_Web_Mix_RH_CA_AppStatement-Winter25_M_6-10s_NOV_2603_Convenience",
+        "ad_account_name": "Zalando_SnapAds",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Black Friday Week: tot -70%",
-        "call_to_action": "MORE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Shop nu bij Zalando",
+        "call_to_action": "SHOP_NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OFBc3s6KTi8hSuFP5zZPl.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi6wiAgATDgAzjUBkABSg4KCTIaHxkbMSM2FxD0A1CQTmgCdcXEWkAiBgoCSAQSAKIBNwi6ChIqCigIzKsbIAEw0AU4gApAAkoOCgkxERcSFykaKRQQ9ANQkE5oAnV6d25AIgYKAkgCEgCiATwIkgoSLwotCNjiFSABMOADONQGQAJKDgoJIxIUERQdEyMPEPQDUJBOaAJ1tK1QQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCPr5EyABMOADONQGQAJKDgoJKA0SDRIbDiEQEPQDUJBOaAJ1XEBkQH0AAIA_IgYKAkgCEgCQA5BO&uc=15",
-        "start_date": "2025-11-20T09:00:00.000Z",
-        "impressions_total": 2543573,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gPMk5XtthUZESlFATbY1M.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQi58REgATDgAzjUBkABSg4KCUAWHxMYIhMQFhD0A1DwLmgCdRJkR0B9AACAPyIGCgJIBBIAogE8CLoKEi8KLQjZ5Q4gATDQBTiACkACSg4KCTgRGBAXFhIMERD0A1DwLmgCdUE-UkB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQiPxA4gATDgAzjUBkACSg4KCTESFQ8THQ8NFhD0A1DwLmgCdcMeQkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiRwwsgATDgAzjUBkACSg4KCS0OEwwPEw8JDRD0A1DwLmgCdWa3RkB9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-09-23T14:13:24.000Z",
+        "impressions_total": 116347,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -745,7 +2264,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 2543573,
+          "nl": 116347,
           "tr": 0
         },
         "targeting_v2": {
@@ -753,7 +2272,1196 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "54",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "os_version_min": "6",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://www.zalando.nl/?wmc=dis310_rh_new._{{campaign.id}}_{{adSet.id}}_{{ad.id}}.&opc=2211"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/UFzhdhp82P7DlbrrmaVZ4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Ayi6urYOAF6zU8GeipwnR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/R9w7DU0wJbtGvF8d65cVm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/OSumsuy1HoRz57QzeHyLL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/4Qh8D5NEDfQXEvzBzlC9k.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/UC58cBj7MPuqWUcw0NrH9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/AA94jcY6XVZnr6NICKPuz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/30Yg4z1uMCGm57IjE1boq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/fK8ZIubtbqxvz2B7yu5JM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/lNrTm4vdzVZRfN5lpNxAT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                }
+              ],
+              "description": "New Balance U9060 UNISEX - Sneakers laag - black",
+              "brand": "New Balance",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "90",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "zwart"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "New Balance U9060 UNISEX - Sneakers laag - black",
+              "link": "https://www.zalando.nl/new-balance-u9060-unisex-sneakers-laag-black-ne215o0bb-q16.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/gXsIPbwjJHiyqPqzQw8Oa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/JoPoPUDMgaUoP1hr6xTzr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/CbgdxwaeNfo3iovwpaU69.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/rpOAk0arKc6L3w0dQjpLn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/kaUHN04QgR5ftSHKjWM9N.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/XxcAj8z8xn6sMWMYPGbPO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/EtzaaT06F6y4uyft9s39Q.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/AYIi25R2peQcGeJVU4PSI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/m5IxJ1kypV76349HvxOwR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/iee80OYDHCjlGViqiapSe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                }
+              ],
+              "description": "Under Armour RIVAL KNIT - Trainingspak - black",
+              "brand": "Under Armour",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "86",
+              "custom_label_3": "#18cc8b06#,#654e7afb#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "zwart"
+              ],
+              "condition": "INVALID",
+              "gender": "MALE",
+              "product_type": [
+                "All > Sport > Sportswear > Tracksuits"
+              ],
+              "size": "",
+              "title": "Under Armour RIVAL KNIT - Trainingspak - black",
+              "link": "https://www.zalando.nl/under-armour-emea-track-suit-trainingspak-black-un242k005-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/Yz6XtEaDPtJeWJodeADbU.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/9lKL2Vaw3DDyo8nOkcFTt.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/VyveYYE5SPW2ctnzMBTcm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hm7YubdYaQy1kiysvqeaa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/TwkJQdDTtrzkP2nLrcyLC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/4QpX27ayN2uLtZJswJNub.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/l8Im1CC9jP8hdldNp1IXx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/AV2jBi9FbqLvWP1Yd8qZ4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/folfwlGSCjaNfAfcaiNsh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/zdGMo8rCBq7wFXnv2Nbjr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                }
+              ],
+              "description": "adidas Originals HANDBALL SPEZIAL J - Sneakers laag - collegiate navy/clear sky",
+              "brand": "adidas Originals",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "75",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "KIDS",
+              "availability": "IN STOCK",
+              "color": [
+                "donkerblauw"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Kids > Shoes > Sneakers > Low-top Sneakers"
+              ],
+              "size": "",
+              "title": "adidas Originals HANDBALL SPEZIAL J - Sneakers laag - collegiate navy/clear sky",
+              "link": "https://www.zalando.nl/adidas-originals-handball-spezial-unisex-sneakers-laag-collegiate-navyclear-sky-ad116d1sj-k11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/GRMbb7vYiFGDz8e9rYnjm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/D4eTD8uoegPZ22RbzkSN0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/gYLdxeQaRKPtx5o4mPE55.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8VfTTGbSVvMMRtcvz7Las.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8BYkKsO8MhfKof2CbYKrb.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/5JSAj1mvbe85UIvUByuBT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/SX3nGk6aijkItApx3hXFd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wWTWKVlI8qrVYfrQCVmYR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/43k8pVqLmEZ84OPF8L388.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wjzl9WPeZwayNeX79RYm6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                }
+              ],
+              "description": "Azzaro Parfums THE MOST WANTED - Parfum - -",
+              "brand": "Azzaro Parfums",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "75",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "niet gedefinieerd"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Care > Fragrances > Eau de parfum"
+              ],
+              "size": "",
+              "title": "Azzaro Parfums THE MOST WANTED - Parfum - -",
+              "link": "https://www.zalando.nl/azzaro-parfums-azzaro-the-most-wanted-parfum-eau-de-parfum-az832i01c-s11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/aG3j5LXraMwIU612c7Cqa.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/PR2dTtIUQJoUFTN0SG8v8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/U2BTXY9lrJyOWoPLdMGbs.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/2w3wWkaQTLJ110f37Z0lM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/T5fjbCPe5CPR0Qu3C3dMm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/DFvr5hOrdj2xS2cgOrUcW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/7WS8coW8iMMPuqDb5ZF8k.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/AMsXMqyAeKpXqstKHoCQx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/QPCSqdUaQrqDFKWUIsltc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/HSeWyptfb8gDzEDQZ8S8U.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                }
+              ],
+              "description": "Pier One Jas - black",
+              "brand": "Pier One",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "zwart"
+              ],
+              "condition": "INVALID",
+              "gender": "MALE",
+              "product_type": [
+                "Men > Clothing > Jackets > Lightweight jackets"
+              ],
+              "size": "",
+              "title": "Pier One Jas - black",
+              "link": "https://www.zalando.nl/pier-one-korte-jassen-black-pi922ha13-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/mRyoS3ifslTV9jKXOnKs3.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/52zzZfYvHZXIIhYyyAEr5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/DhVQFu7VrY2Edi8gNOl27.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/C9LxTAaXy3pZNkPdmf7Zv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/MBZKMA5IyFKlIxMOMYhd8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/km3Lz4NJ8ndTi6ydbfPNZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/TCm7ybW4AsgVUUrdWiyXL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/uuchxL6yLERd93kpqBgmy.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/kNZTEeF51X18J8Orl02Xj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/PyeD8Rr3pm9t6rGwPGuHs.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                }
+              ],
+              "description": "adidas Originals SAMBA XLG KIDS - Sneakers laag - footwear white/core black",
+              "brand": "adidas Originals",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "62",
+              "custom_label_3": "#18cc8b06#,#654e7afb#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "KIDS",
+              "availability": "IN STOCK",
+              "color": [
+                "wit"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Kids > Shoes > Sneakers > Low-top Sneakers"
+              ],
+              "size": "",
+              "title": "adidas Originals SAMBA XLG KIDS - Sneakers laag - footwear white/core black",
+              "link": "https://www.zalando.nl/adidas-originals-samba-xlg-unisex-sneakers-laag-footwear-whitecore-black-ad116d1si-a11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/4kgFWwXpkGI1r5KXnXNTR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/BqAWNmQirzasS8YaYbOqz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/odgSpfOl4cfteGy3XfZvh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/tgRPlD7PBQmoLfinOZmjf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qbQMI49AigOG0iTapcrnx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LEAnLXz4TjmWBeCZWCr2i.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/5HGjo7fik1EXdCOJhQgfs.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mjjdHMKjpCJUHSXJ4Ukca.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wTkC7uFF9KP5rUKPBWROR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wO1yfOZOVqcgZCitSvx0j.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                }
+              ],
+              "description": "New Balance 740 UNISEX - Sneakers laag - white",
+              "brand": "New Balance",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "KIDS",
+              "availability": "IN STOCK",
+              "color": [
+                "wit"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Kids > Shoes > Sneakers > Low-top Sneakers"
+              ],
+              "size": "",
+              "title": "New Balance 740 UNISEX - Sneakers laag - white",
+              "link": "https://www.zalando.nl/new-balance-740-sneakers-laag-white-ne216d0a6-a11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/TGRIrDFepA3GtWC6FWtE1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/JfxAGYrlHvMRivQPkYLOP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/4iD1spnqbFl0uzmRwzqtJ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/4WCJ0ZqdYR9OSxjZeTB07.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/xZ1381W0UACf4oNOcbOAu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/gPVIT0tgtfKmNsaYwp3ck.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/SwNozqF1EBtuwLdWAedza.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/muXaiKB9GGHJx8ufG1oCN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/2pQYSjyZNYLYvMLLivsJI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/YIT08zLS3AJAS8l84cS6W.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                }
+              ],
+              "description": "ASICS SportStyle GEL NYC UNISEX - Sneakers laag - cement grey/clay grey",
+              "brand": "ASICS SportStyle",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "95",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "taupe"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "ASICS SportStyle GEL NYC UNISEX - Sneakers laag - cement grey/clay grey",
+              "link": "https://www.zalando.nl/asics-sportstyle-unisex-sneakers-laag-cement-greyclay-grey-a0h15p00u-c14.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/rPlUUu365WZsdei8o0yiY.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/511FPgJ7WxR3ueuAPSbV3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/pLzK2KBlWESFOABMpf2Tt.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ejUdbZPjl3ZM3Z6TcP7Pu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/trVHssLXlHlg0lXs3n9Q7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/e19e2VVQv2ZQui1E6pie6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/SSIQuxoGgHlELtoaDhpK1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Y0cTBcZ9bqxGMQb6CEPHx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/1ZphdAspcCDXIoQfFokN2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/udyVcWgGp5rdUQULVMkzN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                }
+              ],
+              "description": "Pier One NIGHTWEAR 2PACK SET. - Pyjama - dark green/dark blue",
+              "brand": "Pier One",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "donkergroen"
+              ],
+              "condition": "INVALID",
+              "gender": "MALE",
+              "product_type": [
+                "Men > Clothing > Loungewear & Sleepwear > Pyjamas"
+              ],
+              "size": "",
+              "title": "Pier One NIGHTWEAR 2PACK SET. - Pyjama - dark green/dark blue",
+              "link": "https://www.zalando.nl/pier-one-2-pack-pyjama-dark-greendark-blue-pi982m04c-m11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/hnSvvuGJeLTDrOOfuN5oi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8SWjivafsOWhMslpYMPOI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "96c6487a-e84c-4a30-991c-828840084bc9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/bIi7guk6vcqFcSwoGZjXK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "01f1843f-1fec-419e-bb85-bb65e30069f0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/GQYjviIW0dX3ueytJSu8g.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e022a833-bb82-4a29-b33c-6aff1322b9ca"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/5h64UZtQwcFn9AoYhHTMB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "339a9c7b-d125-4020-bfb5-cc7cfb63e8bd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/AHR7gtMspSOtCzyT8eV5w.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b97f3019-f667-46d5-b882-5a8f144637d0"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/5n7JpgS84lcWa5Q6Gf2xe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e5fabf85-2247-42e0-9b58-af5c8263ebaa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/rAOqnZUqtuFwWyYi1VlGn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "de19966a-9e2f-4841-aafb-a30192be8c77"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/oSVahreq6b86SnNySuc0z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "70c4a591-4cce-44d2-a3e3-0212e812b5f8"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/bBggwPVJY73barwtrJ10z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7d9b4177-acbd-4f1a-841f-e3807a8ddd4d"
+                  ]
+                }
+              ],
+              "description": "Converse STAR PLAYER UNISEX - Sneakers laag - vintage white/black",
+              "brand": "Converse",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#18cc8b06#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "wit"
+              ],
+              "condition": "INVALID",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "Converse STAR PLAYER UNISEX - Sneakers laag - vintage white/black",
+              "link": "https://www.zalando.nl/converse-star-player-unisex-sneakers-laag-vintage-whiteblack-co415o0jn-a11.html?otid=default"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {},
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ae32fdab-80f2-45f9-b452-b402628ae9f5",
+        "name": "SA_02-M",
+        "ad_account_name": "ZMS_New Brand Activation_Value Add_2023",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Ontdek de nieuwe zomerjassen",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hin7AAXZ6RGCB02CXtLn5.380?mo=GjsaFDIBBDoBfUIGCNra8L4GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+        "start_date": "2025-03-20T15:20:35.000Z",
+        "impressions_total": 1584492,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 1584492,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando Marketing Services GmbH",
+        "brand_name": "PME Legend",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.zalando.nl/heren/pme-legend/?wmc=zms310_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}.&opc=2211"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "887f4583-d66b-4a48-95b7-126a158276ee",
+        "name": "SA_04-F-INT",
+        "ad_account_name": "Zalando Marketing Services GmbH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Adizero EVO SL",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/18ixoHnmN2Auo8SczToQO.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-04T19:00:25.000Z",
+        "impressions_total": 72875,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 72875,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [],
@@ -762,12 +3470,393 @@
           ],
           "devices": []
         },
+        "paying_advertiser_name": "Zalando Marketing Services GmbH",
+        "brand_name": "adidas",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://www.zalando.nl/collections/VI96zXASQTa?wmc=zms999_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}."
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "22e4b387-a802-481c-86fd-9fc8f91e17be",
+        "name": "SA_04-M-INT",
+        "ad_account_name": "Zalando Marketing Services GmbH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Adizero EVO SL",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/II2WVlmoJeaqPzUcod9Vc.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-04T19:00:25.000Z",
+        "impressions_total": 20046,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 20046,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando Marketing Services GmbH",
+        "brand_name": "adidas",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://www.zalando.nl/collections/RvSXq09_T4u?wmc=zms999_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}."
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a9848227-a7ae-4f26-b233-0eca15c0e60c",
+        "name": "SA_VID-F-INT",
+        "ad_account_name": "Zalando Marketing Services GmbH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Adizero EVO SL",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xLnbKqUmJGUvds7hkUcHw.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMInsMjIAEw4AM41AZAAUoOCgkyJiRCLCw4Hj8Q9ANQmD5oAiIGCgJIBBIAogEyCLoKEiUKIwi6_BcgATDQBTiACkACSg4KCSAWFi0gISITLxD0A1CYPmgCIgYKAkgDEgCiATEIfxIlCiMI_vERIAEw4AM41AZAAkoOCgkYDxEhFRYdDScQ9ANQmD5oAiIGCgJIAhIAogEyCJIKEiUKIwjYmRMgATDgAzjUBkACSg4KCRoQEyIXFiAOKRD0A1CYPmgCIgYKAkgCEgCiATIIxAoSJQojCNqYECABMOADONYGQAJKDgoJGA0PHhYWFg0hEPQDUJg-aAIiBgoCSAISAKIBMgjSChIlCiMIlMMQIAEw4AM41AZAAkoOCgkYDA8eFxcVDSMQ9ANQmD5oAiIGCgJIAhIAkAOYPg%3D%3D&uc=15",
+        "start_date": "2025-06-04T19:00:25.000Z",
+        "impressions_total": 51966,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 51966,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando Marketing Services GmbH",
+        "brand_name": "adidas",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://www.zalando.nl/collections/VI96zXASQTa?wmc=zms999_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}."
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b4d4df2f-6e59-40ab-9fe8-f48aee17623e",
+        "name": "SA_03-F-INT",
+        "ad_account_name": "Zalando Marketing Services GmbH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Adizero EVO SL",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KKyKi8UsyhzGznlWFpcXQ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-04T19:00:25.000Z",
+        "impressions_total": 174647,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 174647,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando Marketing Services GmbH",
+        "brand_name": "adidas",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://www.zalando.nl/collections/VI96zXASQTa?wmc=zms999_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}."
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "79513e26-b089-4a88-bcc6-da7d92f6877d",
+        "name": "SA_01-M-INT",
+        "ad_account_name": "Zalando Marketing Services GmbH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Adizero EVO SL",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hTSi8tdDnzqAwJOvbNerj.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-04T19:00:25.000Z",
+        "impressions_total": 100615,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 100615,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando Marketing Services GmbH",
+        "brand_name": "adidas",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://www.zalando.nl/collections/RvSXq09_T4u?wmc=zms999_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}."
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ba82d1d6-4424-40c6-ba85-bf612e9eb1a2",
+        "name": "Tessa Fashion - 15s",
+        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Pop-upmarkt: food, muziek.",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Frb5vrVsdOiFLlLTfFBuA.67?mo=GtECGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0IsIo7IAEw4AM41AZAAUoOCgk7IxwgFSQgMhMQ9ANQmHVoAnWoxT1AfQAAgD8iBgoCSAMSAKIBPAi6ChIvCi0I-6s0IAEw0AU4gApAAkoOCgk5GhoXFxcXHxAQ9ANQmHVoAnUsOz1AfQAAgD8iBgoCSAISAKIBOwh_Ei8KLQjrziUgATDgAzjUBkACSg4KCSsXFxALFRMYDBD0A1CYdWgCdckLL0B9AACAPyIGCgJIAhIAogE8CJIKEi8KLQj9-ScgATDgAzjUBkACSg4KCSwZFxMNFhQaChD0A1CYdWgCdWUQLEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjnnCQgATDgAzjUBkACSg4KCS0TEg8QDxAWChD0A1CYdWgCdWrFNUB9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-09-14T07:00:41.000Z",
+        "impressions_total": 180876,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 180876,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
         "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
         "profile_name": "Zalando",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.zalando.nl/outlet-dames/?wmc=smp310__.23224026___..&opc=2211"
+          "url": "https://www.zalando.nl/releases/4cQetdp3SaM2mLvhssrYKF"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

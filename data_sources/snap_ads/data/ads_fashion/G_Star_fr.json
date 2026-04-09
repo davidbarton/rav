@@ -1,224 +1,15 @@
 {
   "brand": "G-Star",
   "country": "fr",
-  "fetched_at": "2026-04-09T00:16:51.159Z",
+  "fetched_at": "2026-04-09T22:43:32.552Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "317bb632-11b8-49b3-88c0-71410da41f53",
-        "name": "CAR|SUM|25Q2",
-        "ad_account_name": "Snapchat_Marketing_G-Star",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "La collection Été",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-04-06T22:00:47.000Z",
-        "impressions_total": 168962,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 168962,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "G-Star Raw C.V.",
-        "profile_name": "G-Star RAW",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFB6MGo4NHRCeFA5dW9zeUFnaGUzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "La collection Été",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HpjK2PDRf97eymdoZ22eY.67?mo=GpICGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI0soYIAFKDgoJFRUaHhQTExYYEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIz-AVIAFKDgoJFRATFxcPEhMTEPQDaAIiBgoCSAISAKIBJgh_EhoKGAiJmBEgAUoOCgkRDRAUDg8NEA4Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjLqhIgAUoOCgkRDhIUEQ0OEBMQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAje9Q4gAUoOCgkQCw0PEQsLDg0Q9ANoAiIGCgJIAhIAogEnCNIKEhoKGAiU9Q8gAUoOCgkRCw0REgsNDg4Q9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.g-star.com/fr_fr/shop/summer_outfit?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "La collection Été",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zEo5KOfXKbgV8ME54UQ05.67?mo=GpICGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIsOslIAFKDgoJGRIgJCEcGhMWEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgI7KUhIAFKDgoJFg8aGyIXFxQVEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjI4RkgAUoOCgkRDBYXGBUTDhEQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAj2iRsgAUoOCgkRDRYYGRYUEBIQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjovxYgAUoOCgkRChISGA8QDQ4Q9ANoAiIGCgJIAhIAogEnCNIKEhoKGAiQ5RcgAUoOCgkRChMTGRERDg8Q9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.g-star.com/fr_fr/shop/summer_outfit?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "La collection Été",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SNy3AbRpjD1HBNOcevbjb.67?mo=GpICGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIooogIAFKDgoJLRQQFR0fIxwcEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgI4eUdIAFKDgoJMhENER4dHRoaEPQDaAIiBgoCSAISAKIBJgh_EhoKGAjF_xkgAUoOCgklDwwOGBoaFhgQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiU4hkgAUoOCgkkDwwOFxoZFxgQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiBiRQgAUoOCgkjCwoLFRQTERIQ9ANoAiIGCgJIAhIAogEnCNIKEhoKGAj94BUgAUoOCgklDAsLGBUVExMQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.g-star.com/fr_fr/shop/summer_outfit?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "La collection Été",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oKPl0vDdv8OgqWjb2ivWI.67?mo=GpICGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIsoAcIAFKDgoJFxEaIh8ZEhoXEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgI0KMYIAFKDgoJFQ0TGR8XEBYTEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiP3RQgAUoOCgkRChAWGBYNFBEQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAif7xUgAUoOCgkQDBEXGRYOFRIQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjysRAgAUoOCgkQCQ0RFQ8KDw0Q9ANoAiIGCgJIAhIAogEnCNIKEhoKGAjllhEgAUoOCgkQCQ0SFxALEA0Q9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.g-star.com/fr_fr/shop/summer_outfit?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "La collection Été",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ke1bdrfCJIAqfzB2C7QqK.67?mo=GpICGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIvN0aIAFKDgoJFxIXJyQdGhcSEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgI7IYYIAFKDgoJFAwVHCcbFhYSEPQDaAIiBgoCSAISAKIBJgh_EhoKGAjzxhIgAUoOCgkQCg4aGhQTEQ4Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi7vRMgAUoOCgkQCw8bGhYTEw4Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjyyxAgAUoOCgkQCA8SGxIPDw0Q9ANoAiIGCgJIAhIAogEnCNIKEhoKGAjDjREgAUoOCgkQCQ4THRMQEQ0Q9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.g-star.com/fr_fr/shop/summer_outfit?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d4dbf6c9-a796-4630-8d22-292a89741b69",
-        "name": "IMA|Mos|25Q2",
-        "ad_account_name": "Snapchat_Marketing_G-Star",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Mosa : Un jean intemporel",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/uNfbWLvaP1KCP9K7PHZS5.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-04-06T22:00:47.000Z",
-        "impressions_total": 95886,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 95886,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "G-Star Raw C.V.",
-        "profile_name": "G-Star RAW",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFB6MGo4NHRCeFA5dW9zeUFnaGUzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.g-star.com/fr_fr/shop/men/jeans/mosa?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8c152a7a-3b9c-4678-80cd-e0de698e1e8a",
-        "name": "VID|DEN|UNI|25Q2",
+        "id": "de4ecf03-1879-4c54-96df-a7cc5d860af8",
+        "name": "IMA|DEN|UNI|25Q2",
         "ad_account_name": "Snapchat_Marketing_G-Star",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -227,11 +18,11 @@
         "languages": [],
         "headline": "The Denim District",
         "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CrTVJVZiDbB8CcIlme6wf.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIq5QbIAFKDgoJKRYWDxIbFhEWEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgI-tIXIAFKDgoJLxEUDBMVEw4REPQDaAIiBgoCSAISAKIBJgh_EhoKGAiY2RIgAUoOCgkeDxAIDhIQDA0Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjnvxMgAUoOCgkeEBAJDRMRDQ8Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiK8A8gAUoOCgkhDQwJDA4MCgsQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/5ltMfrorsBGAnuyWcC2dV.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
         "start_date": "2025-04-06T22:00:47.000Z",
-        "impressions_total": 35692,
+        "impressions_total": 757428,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -243,7 +34,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 35692,
+          "fr": 757428,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -291,23 +82,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c1de468e-26a9-48d4-925d-75f232236c83",
-        "name": "IMA|Sum|UNI|25Q2",
+        "id": "1b46d86b-9a27-4792-b41e-00f3767fa955",
+        "name": "IMA|DEN|WMN|25Q2",
         "ad_account_name": "Snapchat_Marketing_G-Star",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "La collection Été",
+        "languages": [],
+        "headline": "The Denim District",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6LLBXvFNWjLl3POVLSMIm.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/70t8R2Nj26uIJJC1DHgkp.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
         "start_date": "2025-04-06T22:00:47.000Z",
-        "impressions_total": 153107,
+        "impressions_total": 64735,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -319,7 +108,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 153107,
+          "fr": 64735,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -357,7 +146,7 @@
         "profile_name": "G-Star RAW",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFB6MGo4NHRCeFA5dW9zeUFnaGUzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.g-star.com/fr_fr/shop/summer_outfit?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+          "url": "https://www.g-star.com/fr_fr/shop/denim-outfits?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -443,82 +232,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "1b46d86b-9a27-4792-b41e-00f3767fa955",
-        "name": "IMA|DEN|WMN|25Q2",
-        "ad_account_name": "Snapchat_Marketing_G-Star",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "The Denim District",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/70t8R2Nj26uIJJC1DHgkp.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-04-06T22:00:47.000Z",
-        "impressions_total": 64735,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 64735,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "G-Star Raw C.V.",
-        "brand_name": "G-Star",
-        "profile_name": "G-Star RAW",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFB6MGo4NHRCeFA5dW9zeUFnaGUzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.g-star.com/fr_fr/shop/denim-outfits?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "263cb704-ec7c-41d8-aa4d-fbf44654157c",
-        "name": "VID|DEN|LB|COL|25Q2",
+        "id": "30821c27-c8fe-4ece-996a-e4338fdc83c6",
+        "name": "VID|DEN|LB|UNI|25Q2",
         "ad_account_name": "Snapchat_Marketing_G-Star",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -529,9 +244,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/K3rmGCl5krMs3BVHdorQZ.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIn6UhIAFKDgoJIg8cJSUiGh4eEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIjrUfIAFKDgoJLAwYGygjFR8aEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjx3hogAUoOCgkaDBMeHh4TGRkQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjBwRogAUoOCgkZDRMeGCATGBgQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAizzhQgAUoOCgkdCBASGhYOFBIQ9ANoAiIGCgJIAhIAkAO4SQ%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CrTVJVZiDbB8CcIlme6wf.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIq5QbIAFKDgoJKRYWDxIbFhEWEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgI-tIXIAFKDgoJLxEUDBMVEw4REPQDaAIiBgoCSAISAKIBJgh_EhoKGAiY2RIgAUoOCgkeDxAIDhIQDA0Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjnvxMgAUoOCgkeEBAJDRMRDQ8Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiK8A8gAUoOCgkhDQwJDA4MCgsQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
         "start_date": "2025-04-06T22:00:47.000Z",
-        "impressions_total": 201294,
+        "impressions_total": 601029,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -543,7 +258,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 201294,
+          "fr": 601029,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -591,21 +306,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "e033121e-4add-4b75-a6e0-ff95dd0eedca",
-        "name": "Car|Mos|25Q2",
+        "id": "d4dbf6c9-a796-4630-8d22-292a89741b69",
+        "name": "IMA|Mos|25Q2",
         "ad_account_name": "Snapchat_Marketing_G-Star",
         "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "fr"
         ],
         "headline": "Mosa : Un jean intemporel",
-        "call_to_action": "SHOP_NOW",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/uNfbWLvaP1KCP9K7PHZS5.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
         "start_date": "2025-04-06T22:00:47.000Z",
-        "impressions_total": 184753,
+        "impressions_total": 95886,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -617,7 +334,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 184753,
+          "fr": 95886,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -653,62 +370,307 @@
         "paying_advertiser_name": "G-Star Raw C.V.",
         "profile_name": "G-Star RAW",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFB6MGo4NHRCeFA5dW9zeUFnaGUzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
+        "web_view_properties": {
+          "url": "https://www.g-star.com/fr_fr/shop/men/jeans/mosa?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "667e48ec-1af2-4d72-8c7c-10409fa4656b",
+        "name": "VID|DEN|LB|F1|25Q2",
+        "ad_account_name": "Snapchat_Marketing_G-Star",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "The Denim District",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/C3CaVdSWKqSApt6BXSaWR.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIgPgeIAFKDgoJJRwiGxgPFBQUEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIhpUaIAFKDgoJHhQaFhgMERQPEPQDaAIiBgoCSAISAKIBJgh_EhoKGAjZrxMgAUoOCgkZExcSEQkPDQ4Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiWwRQgAUoOCgkYFRcTEgsQDw0Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiY3hAgAUoOCgkXDhEOEAgLDQoQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-04-06T22:00:47.000Z",
+        "impressions_total": 93534,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 93534,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
             {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Mosa : Un jean intemporel",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/51l28wbCZjmNKcElQlQ0Y.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.g-star.com/fr_fr/shop/men/jeans/mosa?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Mosa : Un jean intemporel",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KgcZCTkupi9J1fxBgydmp.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.g-star.com/fr_fr/shop/men/jeans/mosa?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Mosa : Un jean intemporel",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JtynYOlkhKhnNBwxQ2Vgt.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.g-star.com/fr_fr/shop/men/jeans/mosa?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Mosa : Un jean intemporel",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/uNfbWLvaP1KCP9K7PHZS5.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.g-star.com/fr_fr/shop/men/jeans/mosa?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-              }
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
             }
-          ]
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "G-Star Raw C.V.",
+        "brand_name": "G-Star",
+        "profile_name": "G-Star RAW",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFB6MGo4NHRCeFA5dW9zeUFnaGUzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.g-star.com/fr_fr/shop/denim-outfits?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "6e84342f-a624-44d1-b43a-71a458d53562",
+        "name": "Vid|Mos|25Q2",
+        "ad_account_name": "Snapchat_Marketing_G-Star",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Mosa : Un jean intemporel",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WHEPh6DEceEfCR9apXdJA.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIwZAxIAFKDgoJPg0OLy4jQwoHEPQDaAIiBgoCSAISAKIBJwi6ChIaChgIqPEpIAFKDgoJPAsLJyQZNwsHEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAikzR8gAUoOCgkrCAgZIBMoCAYQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiK1SEgAUoOCgknDAoZIBYsCAYQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjqsBwgAUoOCgkmBwcZGBAmBwUQ9ANoAiIGCgJIAhIAkAOwdw%3D%3D&uc=15",
+        "start_date": "2025-04-06T22:00:47.000Z",
+        "impressions_total": 119286,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 119286,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "G-Star Raw C.V.",
+        "profile_name": "G-Star RAW",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFB6MGo4NHRCeFA5dW9zeUFnaGUzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.g-star.com/fr_fr/shop/men/jeans/mosa?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c1de468e-26a9-48d4-925d-75f232236c83",
+        "name": "IMA|Sum|UNI|25Q2",
+        "ad_account_name": "Snapchat_Marketing_G-Star",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "La collection Été",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6LLBXvFNWjLl3POVLSMIm.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-04-06T22:00:47.000Z",
+        "impressions_total": 153107,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 153107,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "G-Star Raw C.V.",
+        "brand_name": "G-Star",
+        "profile_name": "G-Star RAW",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFB6MGo4NHRCeFA5dW9zeUFnaGUzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.g-star.com/fr_fr/shop/summer_outfit?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c5a97cea-f173-4692-9ae8-a0557c8738d3",
+        "name": "VID|DEN|UNI|25Q2",
+        "ad_account_name": "Snapchat_Marketing_G-Star",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "The Denim District",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/j52mO8vOIAVwsTxgUaMlD.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAiTrFIgAUoOCglXKRQhMDczPCcQ9ANoAiICEgCiASMIugoSGgoYCPbvPiABSg4KCVAcEhIhJCcqHxD0A2gCIgISAKIBIgh_EhoKGAilqy4gAUoOCglAFgsPGBwdIBsQ9ANoAiICEgCiASMIkgoSGgoYCP7zMCABSg4KCUEXDA8ZHh4lGxD0A2gCIgISAKIBIwjEChIaChgI0MkpIAFKDgoJOxMLDBQWGxwUEPQDaAIiAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-04-06T22:00:47.000Z",
+        "impressions_total": 962980,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 962980,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "G-Star Raw C.V.",
+        "brand_name": "G-Star",
+        "profile_name": "G-Star RAW",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFB6MGo4NHRCeFA5dW9zeUFnaGUzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.g-star.com/fr_fr/shop/denim-outfits?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -745,80 +707,6 @@
           "hr": 0,
           "lv": 0,
           "fr": 10343,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "G-Star Raw C.V.",
-        "brand_name": "G-Star",
-        "profile_name": "G-Star RAW",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFB6MGo4NHRCeFA5dW9zeUFnaGUzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.g-star.com/fr_fr/shop/denim-outfits?term={{ad.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a2ba99fb-4dab-403f-adbb-2bfe7d6f786e",
-        "name": "IMA|DEN|MN|25Q2",
-        "ad_account_name": "Snapchat_Marketing_G-Star",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "The Denim District",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Qi9BkhLToZ7sZTOuImUMW.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-04-06T22:00:47.000Z",
-        "impressions_total": 416589,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 416589,
           "hu": 0,
           "se": 0,
           "si": 0,

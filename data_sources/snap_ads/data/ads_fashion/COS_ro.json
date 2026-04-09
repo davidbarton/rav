@@ -1,234 +1,14 @@
 {
   "brand": "COS",
   "country": "ro",
-  "fetched_at": "2026-04-09T02:22:09.519Z",
+  "fetched_at": "2026-04-09T22:33:15.409Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "20b24232-9093-407c-b9ae-6c95a61ff01b",
-        "name": "18.10.25 – reclamă",
-        "ad_account_name": "Promovări în aplicația iOS",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rgBTRtxEvglHwv6t2O2vD.67?mo=GrACGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBPwhDEisKKQjz7DEgATDgAzjWBkABSg4KCVMREBIRDQwQDhD0A1DkggFoAnWHz0pAIg4KCkIGCIH2zMcGSAQSAKIBQAi6ChIrCikI7ZAeIAEw4AM41gZAAkoOCglQDwoPDAwKDAwQ9ANQ5IIBaAJ1XPpGQCIOCgpCBgiY9szHBkgDEgCiAUUIkgoSMAouCKb-ISABMOADONYGQAJKDgoJRA8NEA8MDA8MEPQDUOSCAWgCdZnwQkB9AACAPyIOCgpCBgiY9szHBkgCEgCiAUUI0goSMAouCOmJICABMOADONYGQAJKDgoJYRIJEAwMCQwLEPQDUOSCAWgCdYBZSUB9AACAPyIOCgpCBgiY9szHBkgCEgCQA-SCAQ%3D%3D&uc=15",
-        "start_date": "2025-10-18T21:00:00.000Z",
-        "impressions_total": 9846,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 9846,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Andrei Cosmin",
-        "profile_name": "Andrei Cosmin",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZTZUNUl2QzFYMERqUE1DNktUN1NEP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/andrei_c3769",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZTZUNUl2QzFYMERqUE1DNktUN1NEP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "3bc4ca28-c1b4-4324-a92d-c03077c781a0",
-        "name": "04.01.26 – reclamă",
-        "ad_account_name": "Promovări în aplicația iOS",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "VIEW PROFILE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zNutiQCoKxUPhI9vlXSaN.67?mo=GrMCGgoyAQQ6AX1QD2ABUIsCWghBZHNNZWRpYaIBPwhDEisKKQiWg10gATDgAzjWBkABSg4KCWQvRUstIis2GhD0A1DmgwFoAnW-jyJAIg4KCkIGCLXQ6MoGSAMSAKIBQAi6ChIrCikI1-05IAEw4AM41gZAAkoOCglHJyAsHhsWHxMQ9ANQ5oMBaAJ18BkmQCIOCgpCBgir0-jKBkgDEgCiAUUIkgoSMAouCK20TiABMOADONYGQAJKDgoJXCs8RCYbIi0UEPQDUOaDAWgCdTAPH0B9AACAPyIOCgpCBgir0-jKBkgCEgCiAUUI0goSMAouCO-DQiABMOADONYGQAJKDgoJSS0jLyAeGSMVEPQDUOaDAWgCdUsdJkB9AACAPyIOCgpCBgir0-jKBkgCEgCQA-aDAQ%3D%3D&uc=15",
-        "start_date": "2026-01-13T21:21:57.000Z",
-        "impressions_total": 6947,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 6947,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "41",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Costy",
-        "profile_name": "Costy",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTUNHTkFJS0FVb1FkUVNENk95UEp6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/user318465627",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTUNHTkFJS0FVb1FkUVNENk95UEp6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f6cd69dc-0adc-4ac2-ba1b-2bc62f9fa0cc",
-        "name": "db 1",
-        "ad_account_name": "Costa House Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "CHRISTMAS SALE! 50% OFF",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XFcq6gSeScRFEUYpr9MWG.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjs6E8gATDgAzjUBkABSg4KCXw9NkBGN2IcIRD0A1C4XWgCdUNXXEB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQj9pEYgATDQBTiACkACSg4KCXg_Dk4_LxtPIBD0A1C4XWgCdd7saEB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQiQwDUgATDgAzjUBkACSg4KCVMlHi0uKDgcGxD0A1C4XWgCdc80VEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQi97y4gATDgAzjUBkACSg4KCU8lBzMqHhA4FxD0A1C4XWgCdfPCYEB9AACAPyIGCgJIAhIAkAO4XQ%3D%3D&uc=15",
-        "start_date": "2025-12-13T16:46:25.000Z",
-        "impressions_total": 583,
-        "impressions_map": {
-          "de": 12,
-          "be": 20,
-          "fi": 14,
-          "pt": 14,
-          "bg": 40,
-          "dk": 23,
-          "lt": 15,
-          "lu": 22,
-          "hr": 67,
-          "lv": 0,
-          "fr": 0,
-          "hu": 6,
-          "se": 18,
-          "si": 97,
-          "sk": 3,
-          "ie": 8,
-          "ee": 0,
-          "el": 33,
-          "mt": 0,
-          "it": 58,
-          "es": 12,
-          "at": 15,
-          "cy": 0,
-          "cz": 10,
-          "pl": 19,
-          "ro": 56,
-          "nl": 21,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Costa House",
-        "profile_name": "Costa Supply",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://costahouse.net/products/magic-glow-drawing-board?variant=51035971387680"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "e79ccfaf-b957-4ded-a336-1f3773a0b70f",
+        "id": "a7b60d3e-b4d2-4f58-b3b0-396ca1eab876",
         "name": "db 4",
         "ad_account_name": "Costa House Self Service",
         "status": "ACTIVE",
@@ -242,37 +22,37 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6UYyoNtAoAAWGdcYVmzFn.67?mo=GpcCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwjLyK4CIAEw4AM41AZAAUoPCgqYAQ0gEg4ODQ4OEPQDUNSsBmgCdT_IRUAiBgoCSAISAKIBOgi6ChItCisIicf-ASABMNAFOIAKQAJKDwoKgAEQFQ8NDgkNDBD0A1DUrAZoAnVymEpAIgYKAkgDEgCiAT8IkgoSMgowCIaVugEgATDgAzjUBkACSg8KCowBCBMLCQkJCQkQ9ANQ1KwGaAJ1MzI3QH0AAIA_IgYKAkgCEgCiAT4I0goSMQovCLSUtAEgATDgAzjUBkACSg4KCX4KDwoJCQYJCBD0A1DUrAZoAnWSW0NAfQAAgD8iBgoCSAISAJAD1KwG&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/7GMjxsa8R0ThxOgLJIFMn.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQjX9WUgATDoAjiABUABSg4KCVENERIODQ8SDRD0A1CqvAJoAnVow0dAIgYKAkgEEgCiATgIugoSKwopCJeYPCABMOACOPIEQAJKDgoJPwgICgkJBwoJEPQDUKq8AmgCdST4SkAiBgoCSAMSAKIBPQiSChIwCi4IxoI_IAEw4AI48ARAAkoOCglBBwkLCAgJCQkQ9ANQqrwCaAJ1NKlBQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCK7qOyABMOACOPAEQAJKDgoJQAgHCwkIBwoJEPQDUKq8AmgCdexoSkB9AACAPyIGCgJIAhIAkAOqvAI%3D&uc=15",
         "start_date": "2025-12-13T16:46:25.000Z",
-        "impressions_total": 1328,
+        "impressions_total": 2026,
         "impressions_map": {
           "de": 26,
-          "be": 51,
-          "fi": 9,
-          "pt": 28,
-          "bg": 80,
-          "dk": 19,
-          "lt": 26,
-          "lu": 37,
-          "hr": 216,
+          "be": 101,
+          "fi": 34,
+          "pt": 77,
+          "bg": 108,
+          "dk": 58,
+          "lt": 21,
+          "lu": 99,
+          "hr": 112,
           "lv": 0,
-          "fr": 0,
-          "hu": 31,
-          "se": 29,
-          "si": 220,
-          "sk": 10,
-          "ie": 12,
+          "fr": 1,
+          "hu": 38,
+          "se": 60,
+          "si": 271,
+          "sk": 14,
+          "ie": 21,
           "ee": 0,
-          "el": 74,
+          "el": 82,
           "mt": 0,
-          "it": 110,
-          "es": 27,
-          "at": 31,
+          "it": 231,
+          "es": 100,
+          "at": 55,
           "cy": 0,
-          "cz": 27,
-          "pl": 28,
-          "ro": 209,
-          "nl": 28,
+          "cz": 28,
+          "pl": 84,
+          "ro": 348,
+          "nl": 57,
           "tr": 0
         },
         "targeting_v2": {
@@ -292,6 +72,519 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://costahouse.net/products/magic-glow-drawing-board?variant=51035971387680"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "8483ce71-9058-4c62-8d05-a2c72aa141d6",
+        "name": "01/09/25 – Ad",
+        "ad_account_name": "iOS in-app promotions",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZUVBllVH6AyqAJa2LsDD1.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2025-09-01T21:00:00.000Z",
+        "impressions_total": 2494,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 2494,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "costi⚡️",
+        "profile_name": "costi⚡️",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDRiZWY2UjNlRXlmTU10TWdMZWYyP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/costi212",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDRiZWY2UjNlRXlmTU10TWdMZWYyP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c1314596-a35c-43c0-8d80-5995dc08e7b3",
+        "name": "18/01/26 – Ad",
+        "ad_account_name": "iOS in-app promotions",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "VIEW PROFILE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0UbJyhJsJI1J8acQjDnyJ.380.IRZXSOY?mo=Gj0aCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2026-01-18T21:14:55.000Z",
+        "impressions_total": 38544,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 38544,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Costas",
+        "profile_name": "Costas",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnprbENoWmRZcDBUMTFCVkFTWE00P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/tigehg",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnprbENoWmRZcDBUMTFCVkFTWE00P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "964bc555-dab3-447b-9183-ba74ebb42968",
+        "name": "mirror 1",
+        "ad_account_name": "Costa House Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "HOLIDAY SEASON 50% OFF!",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oRo7kKJLfQxOuaDhkxmGv.67?mo=GpsCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwjLsYUBIAEw4AM41AZAAUoOCglpKCcgEi0hHDYQ9ANQztYBaAJ1iJliQH0AAIA_IgYKAkgEEgCiAT0IugoSMAouCMuPXyABMMAEOIAIQAJKDgoJax0YFhwWEx8ZEPQDUM7WAWgCdekdckB9AACAPyIGCgJIAxIAogE9CJIKEjAKLgj-sFUgATDgAzjUBkACSg4KCU0bFxQLHBQaExD0A1DO1gFoAnXbXF5AfQAAgD8iBgoCSAISAKIBPQjSChIwCi4IsLdGIAEw4AM41AZAAkoOCglUFRIPFBMQGRIQ9ANQztYBaAJ1EIxqQH0AAIA_IgYKAkgCEgCQA87WAQ%3D%3D&uc=15",
+        "start_date": "2025-12-10T23:44:27.000Z",
+        "impressions_total": 4032,
+        "impressions_map": {
+          "de": 15,
+          "be": 162,
+          "fi": 35,
+          "pt": 133,
+          "bg": 362,
+          "dk": 0,
+          "lt": 69,
+          "lu": 128,
+          "hr": 544,
+          "lv": 0,
+          "fr": 1,
+          "hu": 67,
+          "se": 69,
+          "si": 629,
+          "sk": 30,
+          "ie": 31,
+          "ee": 0,
+          "el": 354,
+          "mt": 0,
+          "it": 288,
+          "es": 78,
+          "at": 64,
+          "cy": 0,
+          "cz": 74,
+          "pl": 84,
+          "ro": 786,
+          "nl": 29,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Costa House",
+        "profile_name": "Costa Supply",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://costahouse.net/products/proglow-portable-led-vanity-mirror?variant=51028219298080"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1520437f-acda-4c36-bb0e-65da639e6691",
+        "name": "21.01.26 – reclamă",
+        "ad_account_name": "Promovări în aplicația iOS",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UQL29oMbBMOCo4fpS0WgH.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2026-01-22T08:51:46.000Z",
+        "impressions_total": 5964,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 5964,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CosminAvr1",
+        "profile_name": "CosminAvr1",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0x4VjhSUjNwam5LdW1IMm9Db09sP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/cosminel110",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0x4VjhSUjNwam5LdW1IMm9Db09sP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "f02fa262-5241-4fad-94e7-3155c17d0857",
+        "name": "db 3",
+        "ad_account_name": "Costa House Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "CHRISTMAS SALE! 50% OFF",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xUNOrgXhkeb7sEy00E5Wl.67?mo=GpICGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgjxl48BIAEw4AM41AZAAUoOCgldGSEfHRwlHRYQ9ANQqNcBaAJ1Sk1QQCIGCgJIBBIAogE5CLoKEiwKKgiTjYEBIAEw0AU4gApAAkoOCgljFxcZFxsZGhQQ9ANQqNcBaAJ1B-1bQCIGCgJIAhIAogE9CJIKEjAKLgiikVggATDgAzjUBkACSg4KCUUNFBEREBkPDhD0A1Co1wFoAnX1oURAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I3cZOIAEw4AM41AZAAkoOCglNDg8SDhEREQwQ9ANQqNcBaAJ10HBMQH0AAIA_IgYKAkgCEgCQA6jXAQ%3D%3D&uc=15",
+        "start_date": "2025-12-13T16:46:25.000Z",
+        "impressions_total": 758,
+        "impressions_map": {
+          "de": 3,
+          "be": 18,
+          "fi": 6,
+          "pt": 7,
+          "bg": 42,
+          "dk": 14,
+          "lt": 32,
+          "lu": 13,
+          "hr": 132,
+          "lv": 0,
+          "fr": 0,
+          "hu": 9,
+          "se": 5,
+          "si": 216,
+          "sk": 3,
+          "ie": 11,
+          "ee": 0,
+          "el": 49,
+          "mt": 0,
+          "it": 15,
+          "es": 10,
+          "at": 9,
+          "cy": 0,
+          "cz": 23,
+          "pl": 12,
+          "ro": 117,
+          "nl": 12,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Costa House",
+        "profile_name": "Costa Supply",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://costahouse.net/products/magic-glow-drawing-board?variant=51035971387680"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b15547b2-482f-4756-a64c-a26abf108a86",
+        "name": "mirror 3",
+        "ad_account_name": "Costa House Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "HOLIDAY SEASON 50% OFF!",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NyWYqPqKEogmdl2UmEULI.67?mo=GpwCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwie9q0BIAEw4AM41AZAAUoOCgleMDApQTAqLjwQ9ANQkv4BaAJ1wOtsQH0AAIA_IgYKAkgDEgCiAT4IugoSMQovCKbZggEgATDQBTiACkACSg4KCVIiIiErKBwkKxD0A1CS_gFoAnUt1XxAfQAAgD8iBgoCSAISAKIBPQiSChIwCi4IkfZmIAEw4AM41AZAAkoOCglGGxwYJx4XGyUQ9ANQkv4BaAJ1W4xlQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCMGUWCABMOADONQGQAJKDgoJQRcXFBwZERYaEPQDUJL-AWgCdWjLdUB9AACAPyIGCgJIAhIAkAOS_gE%3D&uc=15",
+        "start_date": "2025-12-10T23:44:27.000Z",
+        "impressions_total": 1682,
+        "impressions_map": {
+          "de": 6,
+          "be": 77,
+          "fi": 17,
+          "pt": 65,
+          "bg": 124,
+          "dk": 0,
+          "lt": 57,
+          "lu": 55,
+          "hr": 211,
+          "lv": 0,
+          "fr": 0,
+          "hu": 25,
+          "se": 47,
+          "si": 277,
+          "sk": 14,
+          "ie": 15,
+          "ee": 0,
+          "el": 136,
+          "mt": 0,
+          "it": 145,
+          "es": 31,
+          "at": 29,
+          "cy": 0,
+          "cz": 38,
+          "pl": 44,
+          "ro": 251,
+          "nl": 18,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Costa House",
+        "profile_name": "Costa Supply",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://costahouse.net/products/proglow-portable-led-vanity-mirror?variant=51028219298080"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "724fabf9-8390-4ba9-8b2b-ac9d238e064c",
+        "name": "mirror 5",
+        "ad_account_name": "Costa House Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "HOLIDAY SEASON 50% OFF!",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/msLcU9LvVAwyaFHy4YL9X.67?mo=GpcCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgj3h2wgATDgAzjUBkABSg8KCoEBNDs3IiFAIxYQ9ANQuNABaAJ1oUxtQCIGCgJIAhIAogE-CLoKEjEKLwjkuGMgATDQBTiACkACSg8KCoABKTMqIxxUIhUQ9ANQuNABaAJ183qAQH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCIe0SyABMOADONQGQAJKDgoJXSgkKxkXJBgREPQDULjQAWgCdeLQY0B9AACAPyIGCgJIAhIAogE9CNIKEjAKLgizmkAgATDgAzjUBkACSg4KCVwcIRsWEjgXDxD0A1C40AFoAnUAiG1AfQAAgD8iBgoCSAISAJADuNAB&uc=15",
+        "start_date": "2025-12-10T23:44:27.000Z",
+        "impressions_total": 775,
+        "impressions_map": {
+          "de": 4,
+          "be": 24,
+          "fi": 5,
+          "pt": 43,
+          "bg": 42,
+          "dk": 0,
+          "lt": 10,
+          "lu": 41,
+          "hr": 66,
+          "lv": 0,
+          "fr": 0,
+          "hu": 18,
+          "se": 20,
+          "si": 121,
+          "sk": 3,
+          "ie": 4,
+          "ee": 0,
+          "el": 55,
+          "mt": 0,
+          "it": 64,
+          "es": 25,
+          "at": 20,
+          "cy": 0,
+          "cz": 18,
+          "pl": 59,
+          "ro": 124,
+          "nl": 9,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Costa House",
+        "profile_name": "Costa Supply",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://costahouse.net/products/proglow-portable-led-vanity-mirror?variant=51028219298080"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -377,49 +670,48 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "51c3f99d-f512-4d9b-86d4-e91b11f3e3ad",
-        "name": "31-7-25 - Advertentie",
-        "ad_account_name": "iOS in-app promoties",
+        "id": "9e178892-f867-4ae6-a5ef-3ccb78caa19b",
+        "name": "05/09/25 – Ad",
+        "ad_account_name": "iOS in-app promotions",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
         "ad_type": "DEEP_LINK",
         "ad_render_type": "STATIC",
         "languages": [],
         "call_to_action": "FOLLOW",
-        "top_snap_media_type": "VIDEO",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/r3Ig6XNGfuaxznbZVr59p.67.IRZXSOY?mo=GrwDGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBQghDEiUKIwilqhMgATDgAziABUABSg4KCSUTFBwWFBUbHhD0A1DyL2gCIhcKCkIGCNe6qsQGSAMSACoHSVJaWFNPWaIBQwi6ChIlCiMI9psQIAEw0AU4wAdAAkoOCgkoEhUPERQTFBoQ9ANQ8i9oAiIXCgpCBgjfuqrEBkgCEgAqB0lSWlhTT1miAUIIfxIlCiMI5skKIAEw4AM4gAVAAkoOCgkXCwwNCw0KDw4Q9ANQ8i9oAiIXCgpCBgjfuqrEBkgCEgAqB0lSWlhTT1miAUMIkgoSJQojCJ_6CiABMOADOIAFQAJKDgoJFwoODgwNCg8REPQDUPIvaAIiFwoKQgYI37qqxAZIAhIAKgdJUlpYU09ZogFDCMQKEiUKIwiO7wkgATDgAziABUACSg4KCRwLDQkLDAsLEBD0A1DyL2gCIhcKCkIGCN-6qsQGSAISACoHSVJaWFNPWaIBQwjSChIlCiMI9ZUKIAEw4AM4gAVAAkoOCgkdCw0KCw0MCxEQ9ANQ8i9oAiIXCgpCBgjfuqrEBkgCEgAqB0lSWlhTT1mQA_Iv&uc=15",
-        "start_date": "2025-07-31T04:09:41.000Z",
-        "impressions_total": 1390,
+        "start_date": "2025-09-05T00:46:12.000Z",
+        "impressions_total": 300,
         "impressions_map": {
           "de": 0,
-          "be": 0,
-          "fi": 5,
-          "pt": 104,
-          "bg": 138,
-          "dk": 12,
-          "lt": 26,
-          "lu": 14,
-          "hr": 29,
+          "be": 2,
+          "fi": 0,
+          "pt": 6,
+          "bg": 130,
+          "dk": 0,
+          "lt": 7,
+          "lu": 1,
+          "hr": 14,
           "lv": 0,
-          "fr": 0,
-          "hu": 34,
-          "se": 5,
-          "si": 74,
-          "sk": 32,
-          "ie": 40,
+          "fr": 1,
+          "hu": 26,
+          "se": 0,
+          "si": 12,
+          "sk": 62,
+          "ie": 2,
           "ee": 0,
-          "el": 112,
+          "el": 7,
           "mt": 0,
-          "it": 24,
-          "es": 59,
-          "at": 2,
+          "it": 0,
+          "es": 1,
+          "at": 0,
           "cy": 0,
-          "cz": 31,
-          "pl": 115,
-          "ro": 159,
-          "nl": 1,
-          "tr": 374
+          "cz": 16,
+          "pl": 5,
+          "ro": 7,
+          "nl": 0,
+          "tr": 1
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -433,309 +725,16 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "narcos narcose",
-        "profile_name": "‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQlNqMkxuVEtYRjRtSmNTVzVuWUtwP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "sticker_display_mode": "HIDE",
         "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/narcosse010",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQlNqMkxuVEtYRjRtSmNTVzVuWUtwP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "deep_link_uri": "snapchat://add/costea7xk",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOFptWXBua3RQbnVPRnpQNFcwbjQ4P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
           "playable_media_properties": {}
         },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "964bc555-dab3-447b-9183-ba74ebb42968",
-        "name": "mirror 1",
-        "ad_account_name": "Costa House Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad features tobacco imagery. Ads that depict tobacco for movies, TV shows, or health-related programs are reviewed on a case-by-case basis and must be appropriately age targeted. We prohibit ads that glamorize or encourage the use of cigarettes (including e-cigarettes), cigars, vaping products, tobacco, nicotine, or related products of any kind."
         ],
-        "headline": "HOLIDAY SEASON 50% OFF!",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oRo7kKJLfQxOuaDhkxmGv.67?mo=GpsCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwjLsYUBIAEw4AM41AZAAUoOCglpKCcgEi0hHDYQ9ANQztYBaAJ1iJliQH0AAIA_IgYKAkgEEgCiAT0IugoSMAouCMuPXyABMMAEOIAIQAJKDgoJax0YFhwWEx8ZEPQDUM7WAWgCdekdckB9AACAPyIGCgJIAxIAogE9CJIKEjAKLgj-sFUgATDgAzjUBkACSg4KCU0bFxQLHBQaExD0A1DO1gFoAnXbXF5AfQAAgD8iBgoCSAISAKIBPQjSChIwCi4IsLdGIAEw4AM41AZAAkoOCglUFRIPFBMQGRIQ9ANQztYBaAJ1EIxqQH0AAIA_IgYKAkgCEgCQA87WAQ%3D%3D&uc=15",
-        "start_date": "2025-12-10T23:44:27.000Z",
-        "impressions_total": 4032,
-        "impressions_map": {
-          "de": 15,
-          "be": 162,
-          "fi": 35,
-          "pt": 133,
-          "bg": 362,
-          "dk": 0,
-          "lt": 69,
-          "lu": 128,
-          "hr": 544,
-          "lv": 0,
-          "fr": 1,
-          "hu": 67,
-          "se": 69,
-          "si": 629,
-          "sk": 30,
-          "ie": 31,
-          "ee": 0,
-          "el": 354,
-          "mt": 0,
-          "it": 288,
-          "es": 78,
-          "at": 64,
-          "cy": 0,
-          "cz": 74,
-          "pl": 84,
-          "ro": 786,
-          "nl": 29,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Costa House",
-        "profile_name": "Costa Supply",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://costahouse.net/products/proglow-portable-led-vanity-mirror?variant=51028219298080"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "9a925c2a-965f-463d-b654-f7e6d3c1ef67",
-        "name": "Copy of mirror 6",
-        "ad_account_name": "Costa House Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "HOLIDAY SEASON 50% OFF!",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sAut2eHhoAJ9nKxVvmtGf.67?mo=GoICGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCOyVHiABMOADONQGQAFKDgoJOSMuGRsbEhoSEPQDUMhCaAJ1KUhdQCICEgCiATgIugoSLwotCNXdFSABMNAFOIAKQAJKDgoJNBoYFRQUDhMREPQDUMhCaAJ1MMxwQH0AAIA_IgISAKIBOAiSChIvCi0I470RIAEw4AM41AZAAkoOCgklFBkPEQ4MDw0Q9ANQyEJoAnXYLE5AfQAAgD8iAhIAogE4CNIKEi8KLQjrpQ8gATDgAzjUBkACSg4KCScSEQ4PDgoOCxD0A1DIQmgCdaT5Z0B9AACAPyICEgCQA8hC&uc=15",
-        "start_date": "2025-12-10T23:44:27.000Z",
-        "impressions_total": 726,
-        "impressions_map": {
-          "de": 1,
-          "be": 24,
-          "fi": 3,
-          "pt": 38,
-          "bg": 55,
-          "dk": 0,
-          "lt": 10,
-          "lu": 26,
-          "hr": 66,
-          "lv": 0,
-          "fr": 0,
-          "hu": 11,
-          "se": 16,
-          "si": 146,
-          "sk": 7,
-          "ie": 5,
-          "ee": 0,
-          "el": 58,
-          "mt": 0,
-          "it": 78,
-          "es": 13,
-          "at": 12,
-          "cy": 0,
-          "cz": 13,
-          "pl": 21,
-          "ro": 115,
-          "nl": 8,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Costa House",
-        "profile_name": "Costa Supply",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://costahouse.net/products/proglow-portable-led-vanity-mirror?variant=51028219298080"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "df193d6b-28d9-478d-a4d3-35f25550d860",
-        "name": "db 2",
-        "ad_account_name": "Costa House Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "CHRISTMAS SALE! 50% OFF",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/C2OZ1k2J4rNX8gKsXwnIS.67?mo=GpICGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgj616ABIAEw4AM41AZAAUoOCgl4EhYSEiUKFQ4Q9ANQ-tUCaAJ1EBRbQCIGCgJIAxIAogE5CLoKEiwKKgj35JUBIAEw0AU4gApAAkoOCglzFRMVECsKFQ0Q9ANQ-tUCaAJ112FnQCIGCgJIAhIAogE9CJIKEjAKLgiZ4GggATDgAzjUBkACSg4KCVsODg0MGQcOChD0A1D61QJoAnXZSVFAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4Im5NkIAEw4AM41AZAAkoOCgltDQwODBsGDQoQ9ANQ-tUCaAJ1vQNbQH0AAIA_IgYKAkgCEgCQA_rVAg%3D%3D&uc=15",
-        "start_date": "2025-12-13T16:46:25.000Z",
-        "impressions_total": 1546,
-        "impressions_map": {
-          "de": 41,
-          "be": 74,
-          "fi": 25,
-          "pt": 45,
-          "bg": 49,
-          "dk": 74,
-          "lt": 21,
-          "lu": 84,
-          "hr": 154,
-          "lv": 0,
-          "fr": 1,
-          "hu": 24,
-          "se": 72,
-          "si": 264,
-          "sk": 8,
-          "ie": 45,
-          "ee": 0,
-          "el": 84,
-          "mt": 0,
-          "it": 73,
-          "es": 53,
-          "at": 57,
-          "cy": 0,
-          "cz": 26,
-          "pl": 35,
-          "ro": 180,
-          "nl": 57,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Costa House",
-        "profile_name": "Costa Supply",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://costahouse.net/products/magic-glow-drawing-board?variant=51035971387680"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "5883ace4-6783-428e-852f-58e842a6b903",
-        "name": "mirror 2",
-        "ad_account_name": "Costa House Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "HOLIDAY SEASON 50% OFF!",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/pRGLGuFtvucR9MeeQFgP2.67?mo=GpMCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwiQz5YBIAEw4AM41AZAAUoPCgqTASwpKjQkIiIZEPQDUKjhAWgCdX75g0AiBgoCSAMSAKIBOQi6ChIsCioI9t91IAEw0AU4gApAAkoPCgqHASolHDgfGxUdEPQDUKjhAWgCdfzbiUAiBgoCSAISAKIBPQiSChIwCi4ItJtcIAEw4AM41AZAAkoOCglrIBsYKBgXFRgQ9ANQqOEBaAJ1QBOAQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCMqwUSABMOADONQGQAJKDgoJYhsZEiQTFBATEPQDUKjhAWgCdRgVg0B9AACAPyIGCgJIAhIAkAOo4QE%3D&uc=15",
-        "start_date": "2025-12-10T23:44:27.000Z",
-        "impressions_total": 444,
-        "impressions_map": {
-          "de": 3,
-          "be": 18,
-          "fi": 0,
-          "pt": 22,
-          "bg": 35,
-          "dk": 0,
-          "lt": 3,
-          "lu": 10,
-          "hr": 54,
-          "lv": 0,
-          "fr": 0,
-          "hu": 6,
-          "se": 11,
-          "si": 69,
-          "sk": 6,
-          "ie": 5,
-          "ee": 0,
-          "el": 38,
-          "mt": 0,
-          "it": 37,
-          "es": 11,
-          "at": 10,
-          "cy": 0,
-          "cz": 5,
-          "pl": 24,
-          "ro": 72,
-          "nl": 5,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Costa House",
-        "profile_name": "Costa Supply",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMm80M2RXSnh6dHpicEM4NEJHeWV6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://costahouse.net/products/proglow-portable-led-vanity-mirror?variant=51028219298080"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
         "stickers": []
       }
     }

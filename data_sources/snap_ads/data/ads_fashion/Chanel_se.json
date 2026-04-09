@@ -1,100 +1,15 @@
 {
   "brand": "Chanel",
   "country": "se",
-  "fetched_at": "2026-04-09T01:32:28.384Z",
+  "fetched_at": "2026-04-09T21:58:05.712Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "926af9f4-1b02-4a2f-93f6-9908a82b04c1",
-        "name": "se_wfj_fj_cococrush_2026__snapchat_awar_view__ints_jewellery_story_worn_mainfilm--multi_15_dp",
-        "ad_account_name": "OMG_CHANEL_Social_SE_WFJ_FB",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Discover the COCO CRUSH collection",
-        "call_to_action": "MORE",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-02-02T00:00:00.000Z",
-        "impressions_total": 297782,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 297782,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CHANEL",
-        "profile_name": "CHANEL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Discover the COCO CRUSH collection",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dEcJKtND0i3u56SQ4T8Dy.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQidqD8gATDgAzjUBkABSg4KCS4NJBwSFzMoLRD0A1CYdWgCdVgIU0B9AACAPyIGCgJIAxIAogE8CLoKEi8KLQiooTEgATDQBTiACkACSg4KCS0MHBgRESMdHhD0A1CYdWgCdVLdWkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjAkyMgATDgAzjUBkACSg4KCR4IDQ0ICh4YFxD0A1CYdWgCdbg_PkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjznCMgATDgAzjUBkACSg4KCSMIDw4LCRoUFhD0A1CYdWgCdf6vU0B9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.chanel.com/se/smycken/coco-crush/c/3x2x5/?utm_source=snapchat&utm_medium=sma&utm_campaign=wfj_fj_cococrush_2026__awar_view&utm_term=story_15&utm_content=worn_mainfilm--multi"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "7ed7eb02-2953-48a7-8823-77628539678e",
-        "name": "se_fb_fr_bleudechanel_2025_2h_snapchat_awar_reac__ints_fragrance_story_main-film__15_dp",
+        "id": "a1f40b6b-4979-4108-8f9d-8b53bcc0aa4d",
+        "name": "se_fb_fr_bleudechanel_2025_2h_snapchat_awar_reac_bts_ints_fragrance_story_main-film__15_dp",
         "ad_account_name": "OMG_CHANEL_Social_SE_FNB_FB",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -106,8 +21,8 @@
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
         "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HGGtGLYM2GSiIqTmAn47z.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI_vQiIAEw4AM41AZAAUoOCgknEA8RFhcVEA8Q9ANQmHVoAiIGCgJIAxIAogEyCLoKEiUKIwjxihkgATDQBTiACkACSg4KCSUKCwsRDg0KCBD0A1CYdWgCIgYKAkgCEgCiATEIfxIlCiMIzNkSIAEw4AM41AZAAkoOCgkbCAgICwsJBwYQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwj4uBMgATDgAzjUBkACSg4KCRwICQgMDAkHBhD0A1CYdWgCIgYKAkgCEgCiATIIxAoSJQojCPvbECABMOADONYGQAJKDgoJHQYIBwoJCQYFEPQDUJh1aAIiBgoCSAISAKIBMgjSChIlCiMI5acRIAEw4AM41AZAAkoOCgkdBwgHCwkIBgUQ9ANQmHVoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
-        "start_date": "2025-11-03T05:00:56.000Z",
-        "impressions_total": 158473,
+        "start_date": "2025-08-26T04:00:37.000Z",
+        "impressions_total": 791271,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -121,7 +36,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 158473,
+          "se": 791271,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -168,19 +83,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "f5dbd159-4d22-4ae3-9fdb-36595b188b06",
-        "name": "se_fb_fr_bleudechanel_2025_2h_snapchat_traf_traf__ints_fragrance_story-carousel_main-visual__static_dp",
+        "id": "0a945966-e927-4a17-a6b2-2e024d4b2abd",
+        "name": "se_fb_fr_bleudechanel_2025_2h_snapchat_traf_traf__ints_fragrance_story_film-sl__15_dp",
         "ad_account_name": "OMG_CHANEL_Social_SE_FNB_FB",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [],
         "headline": "Nyhet. BLEU DE CHANEL L’EXCLUSIF.",
         "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/5Pbb9IgotJfBj1UIn71Yb.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIrtY-IAEw4AM41AZAAUoOCgkrDSYjJCwvQxsQ9ANQmHVoAiIGCgJIAxIAogEyCLoKEiUKIwjDiiQgATDQBTiACkACSg4KCScKERAUExMiDBD0A1CYdWgCIgYKAkgCEgCiATEIfxIlCiMI4bMcIAEw4AM41AZAAkoOCgkgCQoKCxIRHQkQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwjHxR0gATDgAzjUBkACSg4KCSALCwsNEBEcDBD0A1CYdWgCIgYKAkgCEgCiATIIxAoSJQojCIb8FyABMOADONYGQAJKDgoJHgcKCg0MDBcIEPQDUJh1aAIiBgoCSAISAKIBMgjSChIlCiMI0aEZIAEw4AM41AZAAkoOCgkhCAkJDQ0NFwkQ9ANQmHVoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
         "start_date": "2025-11-10T11:48:18.000Z",
-        "impressions_total": 55549,
+        "impressions_total": 100118,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -194,7 +111,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 55549,
+          "se": 100118,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -228,43 +145,93 @@
         "paying_advertiser_name": "CHANEL",
         "profile_name": "CHANEL",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.chanel.com/se/doft/bleu-de-chanel/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story_15&utm_content=film-sl_"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1d598154-df5b-417f-801b-02e75036282a",
+        "name": "se_wfj_fj_cococrush_2026__snapchat_awar_view__ints_jewellery_story_worn_mathilda-hide-multi_10_dp",
+        "ad_account_name": "OMG_CHANEL_Social_SE_WFJ_FB",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Discover the COCO CRUSH collection",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-02-02T00:00:00.000Z",
+        "impressions_total": 113160,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 113160,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CHANEL",
+        "profile_name": "CHANEL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "composite_preview": {
           "should_loop": true,
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "Nyhet. BLEU DE CHANEL L’EXCLUSIF.",
+              "headline": "Discover the COCO CRUSH collection",
               "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
+              "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Nd6Lb36Btu0LF1ta6PAK5.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SRYAzD2ehsCVzFfPrUPqu.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjGgxYgATDgAzjUBkABSg4KCS4KCwcOJQ4uGBD0A1CQTmgCdSLdYEAiBgoCSAQSAKIBPAi6ChIvCi0IlYUUIAEw0AU4gApAAkoOCgk5CQgHDiAOKxMQ9ANQkE5oAnVH1W1AfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0Iz8YMIAEw4AM41AZAAkoOCgkaBwUEBhYKGA8Q9ANQkE5oAnUnO0NAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I2ZYOIAEw4AM41AZAAkoOCgkoBgYEChcJHAwQ9ANQkE5oAnXYh2JAfQAAgD8iBgoCSAISAJADkE4%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.chanel.com/se/doft/p/107220/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story-carousel_static&utm_content=main-visual_"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Nyhet. BLEU DE CHANEL L’EXCLUSIF.",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/j0RlW39zUQ28zPlG0KyfM.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.chanel.com/se/doft/bleu-de-chanel/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story-carousel_static&utm_content=main-visual_"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Nyhet. BLEU DE CHANEL L’EXCLUSIF.",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UDO756QTXZqfZCfJZmVDI.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.chanel.com/se/doft/bleu-de-chanel/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story-carousel_static&utm_content=main-visual_"
+                "url": "https://www.chanel.com/se/smycken/coco-crush-encounters/?utm_source=snapchat&utm_medium=sma&utm_campaign=wfj_fj_cococrush_2026__awar_view&utm_term=story_10&utm_content=worn_mathilda-hide-multi"
               }
             }
           ]
@@ -277,8 +244,95 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "e93d0138-1046-4b1e-9053-b7c73da0177a",
-        "name": "se_fb_mu-fr-sk_holiday_2025__snapchat_awar_reac__dmgr_broad_story_capsule-bleu-exclusif-16__16_dp \t\t \t\t \t\t \t\t \t\t",
+        "id": "a095dd6b-c81f-4851-b5f0-8cf186d4dfbe",
+        "name": "se_fb_mu-fr-sk_holiday_2025__snapchat_traf_traf__ints_fragrances_video_film-wrapping_story-ad_15_dp",
+        "ad_account_name": "OMG_CHANEL_Social_SE_FNB_FB",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "headline": "CHANEL WINTER CONSTELLATION.",
+        "call_to_action": "VIEW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-12-04T05:00:34.000Z",
+        "impressions_total": 53512,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 53512,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CHANEL",
+        "profile_name": "CHANEL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "CHANEL WINTER CONSTELLATION.",
+              "call_to_action": "VIEW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/S5ajlgkCfbcIR8f11mEI7.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAibrT0gATDgAzjUBkABSg4KCWZEHTgHED0rJhD0A1CYdWgCdYQlWkAiBgoCSAMSAKIBPAi6ChIvCi0I5_osIAEw0AU4gApAAkoOCglmKBYkBwslJxsQ9ANQmHVoAnU9RV9AfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0I0bIlIAEw4AM41AZAAkoOCglLKhMiBQokIxkQ9ANQmHVoAnWkdE1AfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IlKgdIAEw4AM41AZAAkoOCglHFw4VBAcXGRAQ9ANQmHVoAnWIeldAfQAAgD8iBgoCSAISAJADmHU%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.chanel.com/se/doft-skoenhet/holiday-gift-ideas/gift-finder/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_mu-fr-sk_holiday_2025_&utm_term=video_15&utm_content=film-wrapping_story-ad"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c8aa3b88-318c-4eb0-9b47-4a52dad86797",
+        "name": "se_fb_mu-fr-sk_holiday_2025__snapchat_awar_reac__dmgr_broad_story_capsule-n5-edp__15_dp",
         "ad_account_name": "OMG_CHANEL_Social_SE_FNB_FB",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -287,13 +341,13 @@
         "languages": [
           "sv"
         ],
-        "headline": "Upptcäk BLEU DE CHANEL L’EXCLUSIF",
+        "headline": "Upptäck N°5 Eau de Parfum",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/78rqk7iEqxApyA7AOakVj.67?mo=Gv0BGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCJGBWCABMOADONQGQAFKDgoJVj5MRUlrf1QmEPQDUIB9aAJ1oZ1LQCICEgCiATMIugoSKgooCLr4SiABMNAFOIAKQAJKDgoJQSMvJ0ZLRUIgEPQDUIB9aAJ1B9FYQCICEgCiATgIkgoSLwotCPjgPyABMOADONQGQAJKDgoJPiQyKzZJTSobEPQDUIB9aAJ1Dg9FQH0AAIA_IgISAKIBOAjSChIvCi0IxvQvIAEw4AM41AZAAkoOCgkzGSIdMTMvKRUQ9ANQgH1oAnVAHk9AfQAAgD8iAhIAkAOAfQ%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/yornvelwwGS1bjcHexSVc.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiz8WkgATDgAzjUBkABSg4KCVYwKCgtOF49RxD0A1CIfGgCdVqSZkAiBgoCSAMSAKIBPAi6ChIvCi0Iz8BYIAEw0AU4gApAAkoOCglvIjU-RSw2Ji8Q9ANQiHxoAnWTSXZAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0I4JpMIAEw4AM41AZAAkoOCglIIyApIysvISYQ9ANQiHxoAnUUsVpAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IrqM6IAEw4AM41AZAAkoOCglCGRoYIh8iGSEQ9ANQiHxoAnW732NAfQAAgD8iBgoCSAISAJADiHw%3D&uc=15",
         "start_date": "2025-12-09T08:38:46.000Z",
-        "impressions_total": 132478,
+        "impressions_total": 170764,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -307,7 +361,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 132478,
+          "se": 170764,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -342,7 +396,7 @@
         "profile_name": "CHANEL",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.chanel.com/se/doft/p/107220/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_mu-fr-sk_holiday_2025_&utm_term=story_16&utm_content=capsule-bleu-exclusif-16_"
+          "url": "https://www.chanel.com/se/doft/p/125530/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_mu-fr-sk_holiday_2025_&utm_term=story_15&utm_content=capsule-n5-edp_"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -352,23 +406,222 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "721510f1-68b1-4ac6-9a03-b571dae39e2c",
-        "name": "se_fb_mu-fr-sk_holiday_2025__snapchat_awar_reac__ints_fragrances_video_film-makeup__15_dp",
+        "id": "8cbe0ff7-5923-4c59-ac75-e1381c4d34b1",
+        "name": "se_fb_fr_bleudechanel_2025_2h_snapchat_awar_reac__ints_fragrance_story-carousel_film-op__15_dp",
         "ad_account_name": "OMG_CHANEL_Social_SE_FNB_FB",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Nyhet. BLEU DE CHANEL L’EXCLUSIF.",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-11-03T05:00:56.000Z",
+        "impressions_total": 181962,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 181962,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CHANEL",
+        "profile_name": "CHANEL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Nyhet. BLEU DE CHANEL L’EXCLUSIF.",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/58r8wJ6uQ1GfFSgBbIjoo.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.chanel.com/se/doft/p/107220/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story-carousel_15&utm_content=film-op_"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Nyhet. BLEU DE CHANEL L’EXCLUSIF.",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SJlnk7OX8BVHqkTkpMHRp.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI4rYrIAEw4AM41AZAAUoOCgkuDhELEB8TEAgQ9ANQmHVoAiIGCgJIBRIAogEyCLoKEiUKIwiZuhogATDQBTiACkACSg4KCSYICwgNEw0LBxD0A1CYdWgCIgYKAkgDEgCiATEIfxIlCiMI5NUVIAEw4AM41AZAAkoOCgkhBwkGCxQNCAcQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwiqlBcgATDgAzjUBkACSg4KCSEICQcLFg8JBxD0A1CYdWgCIgYKAkgCEgCiATIIxAoSJQojCImDEiABMOADONYGQAJKDgoJHgYHBQkOCQgEEPQDUJh1aAIiBgoCSAISAKIBMgjSChIlCiMIhKsTIAEw4AM41AZAAkoOCgkhBggFCw4KCAUQ9ANQmHVoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.chanel.com/se/doft/bleu-de-chanel/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story-carousel_15&utm_content=film-op_"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Nyhet. BLEU DE CHANEL L’EXCLUSIF.",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UDO756QTXZqfZCfJZmVDI.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.chanel.com/se/doft/bleu-de-chanel/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story-carousel_15&utm_content=film-op_"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "781bcdf9-5a1f-411c-b85b-d0559545169b",
+        "name": "se_fb_mu-fr-sk_holiday_2025__snapchat_traf_traf__dmgr_broad_story_capsule-bleu-exclusif-16__16_dp \t\t \t\t \t\t \t\t \t\t",
+        "ad_account_name": "OMG_CHANEL_Social_SE_FNB_FB",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "headline": "Upptcäk BLEU DE CHANEL L’EXCLUSIF",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-12-04T05:00:34.000Z",
+        "impressions_total": 23907,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 23907,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CHANEL",
+        "profile_name": "CHANEL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Upptcäk BLEU DE CHANEL L’EXCLUSIF",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/78rqk7iEqxApyA7AOakVj.67?mo=Gv0BGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCJGBWCABMOADONQGQAFKDgoJVj5MRUlrf1QmEPQDUIB9aAJ1oZ1LQCICEgCiATMIugoSKgooCLr4SiABMNAFOIAKQAJKDgoJQSMvJ0ZLRUIgEPQDUIB9aAJ1B9FYQCICEgCiATgIkgoSLwotCPjgPyABMOADONQGQAJKDgoJPiQyKzZJTSobEPQDUIB9aAJ1Dg9FQH0AAIA_IgISAKIBOAjSChIvCi0IxvQvIAEw4AM41AZAAkoOCgkzGSIdMTMvKRUQ9ANQgH1oAnVAHk9AfQAAgD8iAhIAkAOAfQ%3D%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.chanel.com/se/doft/p/107220/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_mu-fr-sk_holiday_2025_&utm_term=story_16&utm_content=capsule-bleu-exclusif-16_"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "353f0b1b-0a46-41c9-8dc7-99356ac35ec5",
+        "name": "se_wfj_fj_cococrush_2026__snapchat_awar_view__ints_jewellery_story_worn_ak-hide-multi_10_dp",
+        "ad_account_name": "OMG_CHANEL_Social_SE_WFJ_FB",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [
           "en"
         ],
-        "headline": "CHANEL WINTER CONSTELLATION.",
+        "headline": "Discover the COCO CRUSH collection",
         "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HkeTSBkw6XKufjxEi6vC6.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAikszIgATDgAzjUBkABSg4KCTsuGSIRChwRLxD0A1CYdWgCdaLCW0AiBgoCSAQSAKIBNwi6ChIqCigI2LYnIAEw0AU4gApAAkoOCgkwJRkWDQYSESYQ9ANQmHVoAnWOXFlAIgYKAkgCEgCiATwIkgoSLwotCIrHHCABMOADONQGQAJKDgoJKBYNDggFDAoZEPQDUJh1aAJ1tqlFQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCMXyGiABMOADONQGQAJKDgoJIxUQDQkEDAsZEPQDUJh1aAJ1Wi1PQH0AAIA_IgYKAkgCEgCQA5h1&uc=15",
-        "start_date": "2025-12-09T08:38:46.000Z",
-        "impressions_total": 27795,
+        "start_date": "2026-02-02T00:00:00.000Z",
+        "impressions_total": 94794,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -382,7 +635,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 27795,
+          "se": 94794,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -406,6 +659,7 @@
               "min_age": "18",
               "max_age": "54",
               "age_groups": [],
+              "gender": "FEMALE",
               "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
@@ -416,8 +670,22 @@
         "paying_advertiser_name": "CHANEL",
         "profile_name": "CHANEL",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.chanel.com/se/doft-skoenhet/holiday-gift-ideas/presenturval/#makeup"
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Discover the COCO CRUSH collection",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0jUanflqxZXlUFkqm6Iex.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjA7x4gATDgAzjUBkABSg4KCVAmGxoWGxYTDxD0A1CQTmgCdaQ8SEB9AACAPyIGCgJIAxIAogE8CLoKEi8KLQjlmhYgATDQBTiACkACSg4KCT8UFRMSEA8OChD0A1CQTmgCdSBpSUB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQjnnBEgATDgAzjUBkACSg4KCTEUDQ4LDQwKCRD0A1CQTmgCdVVnPUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQi2lA8gATDgAzjUBkACSg4KCS4NDwsMDAkJBxD0A1CQTmgCdWYxQkB9AACAPyIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.chanel.com/se/smycken/coco-crush-encounters/?utm_source=snapchat&utm_medium=sma&utm_campaign=wfj_fj_cococrush_2026__awar_view&utm_term=story_10&utm_content=worn_ak-hide-multi"
+              }
+            }
+          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -427,8 +695,96 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "6dac7868-1d8f-482e-abdf-4afe2b5f22da",
-        "name": "se_fb_fr_bleudechanel_2025_2h_snapchat_awar_reac_bts_ints_fragrance_story-carousel_main-film__15_dp",
+        "id": "08f5bae5-7d06-4be6-afdf-c3bd9167146b",
+        "name": "se_wfj_fj_cococrush_2026__snapchat_awar_view__ints_jewellery_story_worn_lulu-hide-multi_10_dp",
+        "ad_account_name": "OMG_CHANEL_Social_SE_WFJ_FB",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Discover the COCO CRUSH collection",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-02-02T00:00:00.000Z",
+        "impressions_total": 39497,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 39497,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CHANEL",
+        "profile_name": "CHANEL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Discover the COCO CRUSH collection",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/du6ZPIx1rTHNYIFr7todt.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQij8xQgATDgAzjUBkABSg4KCTAPDQsdDwoKDhD0A1CQTmgCdRD2VkB9AACAPyIGCgJIAxIAogE8CLoKEi8KLQjF7w8gATDQBTiACkACSg4KCSsMDAoZCQgHChD0A1CQTmgCdcwLYkB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQif3gogATDgAzjUBkACSg4KCRwJBwYJCAYFBxD0A1CQTmgCddVTPkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiL6QogATDgAzjUBkACSg4KCSIICAcQBgUFBhD0A1CQTmgCdW5kVkB9AACAPyIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.chanel.com/se/smycken/coco-crush-encounters/?utm_source=snapchat&utm_medium=sma&utm_campaign=wfj_fj_cococrush_2026__awar_view&utm_term=story_10&utm_content=worn_lulu-hide-multi"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d3ac9cec-b701-40a1-8aa9-f84099cef24e",
+        "name": "se_fb_fr_bleudechanel_2025_2h_snapchat_awar_reac_bts_ints_fragrance_story-carousel_film-op__15_dp",
         "ad_account_name": "OMG_CHANEL_Social_SE_FNB_FB",
         "status": "ACTIVE",
         "creative_type": "COMPOSITE",
@@ -439,7 +795,7 @@
         "call_to_action": "MORE",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2025-08-26T04:00:37.000Z",
-        "impressions_total": 806300,
+        "impressions_total": 801430,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -453,7 +809,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 806300,
+          "se": 801430,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -500,7 +856,7 @@
               "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UDO756QTXZqfZCfJZmVDI.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.chanel.com/se/doft/bleu-de-chanel/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story-carousel_15&utm_content=main-film_"
+                "url": "https://www.chanel.com/se/doft/bleu-de-chanel/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story-carousel_15&utm_content=film-op_"
               }
             },
             {
@@ -509,10 +865,10 @@
               "call_to_action": "MORE",
               "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HFW3wXQ3gXzbdFrnkp81o.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/58r8wJ6uQ1GfFSgBbIjoo.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.chanel.com/se/doft/p/107220/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story-carousel_15&utm_content=main-film_"
+                "url": "https://www.chanel.com/se/doft/p/107220/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story-carousel_15&utm_content=film-op_"
               }
             },
             {
@@ -521,381 +877,13 @@
               "call_to_action": "MORE",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MDIpwoJpJJDtYMKfvRKqW.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI_vQiIAEw4AM41AZAAUoOCgknEA8RFhcVEA8Q9ANQmHVoAiIGCgJIBRIAogEyCLoKEiUKIwjxihkgATDQBTiACkACSg4KCSUKCwsRDg0KCBD0A1CYdWgCIgYKAkgCEgCiATEIfxIlCiMIltkSIAEw4AM41AZAAkoOCgkbCAgICwsJBwYQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwjXthMgATDgAzjUBkACSg4KCRwICQgMCwoHBhD0A1CYdWgCIgYKAkgCEgCiATIIxAoSJQojCPvbECABMOADONYGQAJKDgoJHQYIBwoJCQYFEPQDUJh1aAIiBgoCSAISAKIBMgjSChIlCiMI5acRIAEw4AM41AZAAkoOCgkdBwgHCwkIBgUQ9ANQmHVoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SJlnk7OX8BVHqkTkpMHRp.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI4rYrIAEw4AM41AZAAUoOCgkuDhELEB8TEAgQ9ANQmHVoAiIGCgJIBRIAogEyCLoKEiUKIwiZuhogATDQBTiACkACSg4KCSYICwgNEw0LBxD0A1CYdWgCIgYKAkgDEgCiATEIfxIlCiMI5NUVIAEw4AM41AZAAkoOCgkhBwkGCxQNCAcQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwiqlBcgATDgAzjUBkACSg4KCSEICQcLFg8JBxD0A1CYdWgCIgYKAkgCEgCiATIIxAoSJQojCImDEiABMOADONYGQAJKDgoJHgYHBQkOCQgEEPQDUJh1aAIiBgoCSAISAKIBMgjSChIlCiMIhKsTIAEw4AM41AZAAkoOCgkhBggFCw4KCAUQ9ANQmHVoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.chanel.com/se/doft/bleu-de-chanel/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story-carousel_15&utm_content=main-film_"
+                "url": "https://www.chanel.com/se/doft/bleu-de-chanel/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story-carousel_15&utm_content=film-op_"
               }
             }
           ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "decbde12-3a3c-40b6-9190-0ad027ca750d",
-        "name": "se_fb_fr_chance_2026_1h_snapchat_traf_traf__ints_beauty_story_main-film-ces_story_15_dp",
-        "ad_account_name": "OMG_CHANEL_Social_SE_FNB_FB",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "CHANCE CHANEL",
-        "call_to_action": "MORE",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-29T05:00:39.000Z",
-        "impressions_total": 220844,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 220844,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CHANEL",
-        "profile_name": "CHANEL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "CHANCE CHANEL",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0yWoCJbwDSaKkTsoqfZoH.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.chanel.com/se/doft/chance/eau-splendide/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_chance_2026_1h_awar_reac&utm_term=story_15&utm_content=main-film-ces_story"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "CHANCE CHANEL",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SNMpweNlhB5eycocl8mGZ.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjPxFAgATDgAzjUBkABSg4KCT0UNjgpNT0rGhD0A1CYdWgCdcX9Q0B9AACAPyIGCgJIBBIAogE8CLoKEi8KLQjg4T4gATDQBTiACkACSg4KCTUNKSchJjwkFRD0A1CYdWgCdU4HWEB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQiTyDUgATDgAzjUBkACSg4KCSwLICEcIC0fEhD0A1CYdWgCddwLO0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQju4iwgATDgAzjUBkACSg4KCSwJHR0WGysYDxD0A1CYdWgCdYRISkB9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.chanel.com/se/doft/chance/eau-splendide/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_chance_2026_1h_awar_reac&utm_term=story_15&utm_content=main-film-ces_story"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "CHANCE CHANEL",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GpflWKcuC4NZiAFN8ehhX.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.chanel.com/se/doft/p/136220/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_chance_2026_1h_awar_reac&utm_term=story_15&utm_content=main-film-ces_story"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "215464a9-20f0-49a6-8c05-6a19ba1134c9",
-        "name": "se_fb_fr_bleudechanel_2025_2h_snapchat_awar_reac__ints_fragrance_story_film-packshot_story_15_dp",
-        "ad_account_name": "OMG_CHANEL_Social_SE_FNB_FB",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Nyhet. BLEU DE CHANEL L’EXCLUSIF.",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hElaS5odzrPzBzmrzL4Wb.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI9soiIAEw4AM41AZAAUoOCgksIRkQDw4PDwoQ9ANQmHVoAiIGCgJIAxIAogEyCLoKEiUKIwiduBggATDQBTiACkACSg4KCSMWEgoLCQoMBxD0A1CYdWgCIgYKAkgCEgCiATEIfxIlCiMIsasTIAEw4AM41AZAAkoOCgkdEQwJBwgICgUQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwjSvxQgATDgAzjUBkACSg4KCR4SDAgJBwoLBRD0A1CYdWgCIgYKAkgCEgCiATIIxAoSJQojCN3tECABMOADONYGQAJKDgoJHBAMBgcGBwgEEPQDUJh1aAIiBgoCSAISAKIBMgjSChIlCiMI_NERIAEw4AM41AZAAkoOCgkdDw0GBwYHCQQQ9ANQmHVoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
-        "start_date": "2025-11-03T05:00:56.000Z",
-        "impressions_total": 91427,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 91427,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CHANEL",
-        "profile_name": "CHANEL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://www.chanel.com/se/doft/p/107220/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_bleudechanel_2025_2h&utm_term=story_15&utm_content=film-packshot_story"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "e50f6ea6-df07-44cd-8721-9610a966d4b1",
-        "name": "se_fb_fr_chance_2026_1h_snapchat_awar_reac__dmgr_broad_story_main-film-ces_story_15_dp",
-        "ad_account_name": "OMG_CHANEL_Social_SE_FNB_FB",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "CHANCE CHANEL",
-        "call_to_action": "MORE",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-29T05:00:39.000Z",
-        "impressions_total": 239769,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 239769,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CHANEL",
-        "profile_name": "CHANEL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "CHANCE CHANEL",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0yWoCJbwDSaKkTsoqfZoH.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.chanel.com/se/doft/chance/eau-splendide/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_chance_2026_1h_awar_reac&utm_term=story_15&utm_content=main-film-ces_story"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "CHANCE CHANEL",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SNMpweNlhB5eycocl8mGZ.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjPxFAgATDgAzjUBkABSg4KCT0UNjgpNT0rGhD0A1CYdWgCdcX9Q0B9AACAPyIGCgJIBBIAogE8CLoKEi8KLQjg4T4gATDQBTiACkACSg4KCTUNKSchJjwkFRD0A1CYdWgCdU4HWEB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQiTyDUgATDgAzjUBkACSg4KCSwLICEcIC0fEhD0A1CYdWgCddwLO0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQju4iwgATDgAzjUBkACSg4KCSwJHR0WGysYDxD0A1CYdWgCdYRISkB9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.chanel.com/se/doft/chance/eau-splendide/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_chance_2026_1h_awar_reac&utm_term=story_15&utm_content=main-film-ces_story"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "CHANCE CHANEL",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GpflWKcuC4NZiAFN8ehhX.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.chanel.com/se/doft/p/136220/?utm_source=snapchat&utm_medium=sma&utm_campaign=fb_fr_chance_2026_1h_awar_reac&utm_term=story_15&utm_content=main-film-ces_story"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "72adba65-01a2-42e6-9fcf-0f801dc3b3b3",
-        "name": "se_fsh_ab_eyewear_2025_ss_snapchat_cons_enga__ints_lxsh_sdtlens_video_shoppingads-optic_15_dp",
-        "ad_account_name": "OMG_CHANEL_Social_SE_FSH_FB",
-        "status": "ACTIVE",
-        "creative_type": "LENS_WEB_VIEW",
-        "ad_type": "LENS_REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "CHANEL",
-        "top_snap_media_type": "LENS_PACKAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/a9b3d0d6-57ac-4555-898b-f7a79ec55080.lens",
-        "start_date": "2025-05-12T13:03:50.000Z",
-        "impressions_total": 1690369,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 1690369,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CHANEL",
-        "profile_name": "CHANEL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMXMxUTdTVkVJQ3F6dUh2a2RUUVZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "lens_preview": {
-          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/oh6x1ir9YKssurKJQoH2G?bo=EhQyAX06AQRCBgjexL6_BkgCUBJgAQ%3D%3D&uc=18"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

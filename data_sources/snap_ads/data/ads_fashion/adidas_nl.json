@@ -1,8 +1,9 @@
 {
   "brand": "adidas",
   "country": "nl",
-  "fetched_at": "2026-04-09T02:55:45.390Z",
+  "fetched_at": "2026-04-09T21:57:40.971Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
@@ -256,23 +257,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "bda17320-9df1-4f8a-a0b1-7b0825a68b58",
-        "name": "SnapAd|Square|NA|Dutch|ShopNow|NA|NA|7|PPLAGeneral1",
+        "id": "43e6f929-68a4-4b65-8370-30bd5f1dd80a",
+        "name": "SnapAd|Square|NA|Dutch|ShopNow|NA|NA|1|VideoTemplate1",
         "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "PAUSED",
+        "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "en"
+          "nl"
         ],
         "headline": "A PAIR FOR EVERY RUNNER",
         "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0Prdk5TnszxIc3CefMG01.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/5T8LvLJjOsIBslN69u6Yt.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMItOUOIAEw4AM41AZAAUoOCgloCQEACAEABgEQ9ANQ8khoAiIGCgJIAhIAogEyCLoKEiUKIwiu0QogATDQBTiACkACSg4KCWwKAQEJAQEIABD0A1DySGgCIgYKAkgDEgCiATEIfxIlCiMInbcKIAEw4AM41AZAAkoOCglHBwIABQEBBQEQ9ANQ8khoAiIGCgJIAhIAogEyCJIKEiUKIwjAywogATDgAzjUBkACSg4KCUUHAQIFAgEGARD0A1DySGgCIgYKAkgCEgCiATIIxAoSJQojCLj7BiABMOADONYGQAJKDgoJTAYBBQABAQQAEPQDUPJIaAIiBgoCSAISAKIBMgjSChIlCiMI4LMHIAEw4AM41AZAAkoOCglRBgEGAAEABAEQ9ANQ8khoAiIGCgJIAhIAkAPySA%3D%3D&uc=15",
         "start_date": "2025-07-07T07:00:00.000Z",
-        "impressions_total": 12045,
+        "impressions_total": 380180,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -300,7 +301,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 12045,
+          "nl": 380180,
           "tr": 0
         },
         "targeting_v2": {
@@ -321,7 +322,7 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "favorite_display_mode": "HIDE",
         "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/616150724;423427648;h?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
+          "url": "https://ad.doubleclick.net/ddm/clk/616150769;423960120;d?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-3D-_-VideoTemplate-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -331,10 +332,10 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "0c79f749-fa92-4f6d-b35f-bf8d12e8789f",
-        "name": "CollectionAd|Square|NA|Polish|ShopNow|NA|NA|1|CollectionAd1",
+        "id": "26b92af5-89f8-4f01-ab0a-3ca54e40a2b8",
+        "name": "CollectionAd|Square|NA|Dutch|ShopNow|NA|NA|2|CollectionAd2",
         "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "PAUSED",
+        "status": "ACTIVE",
         "creative_type": "COLLECTION",
         "ad_type": "COLLECTION",
         "ad_render_type": "STATIC",
@@ -345,9 +346,9 @@
         "call_to_action": "SHOP_NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0Prdk5TnszxIc3CefMG01.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EDWg9ClzlZOWmxqWs1qdE.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
         "start_date": "2025-07-07T07:00:00.000Z",
-        "impressions_total": 12730,
+        "impressions_total": 11121,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -375,7 +376,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 12730,
+          "nl": 11121,
           "tr": 0
         },
         "targeting_v2": {
@@ -397,29 +398,29 @@
         "favorite_display_mode": "HIDE",
         "collection_preview": {
           "web_view_properties": {
-            "url": "https://ad.doubleclick.net/ddm/clk/616150730;423427654;b?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25LALPSE10"
+            "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
           },
           "collection_creative_element_attachment": [
             {
               "app_install_properties": {},
               "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616150730;423427654;b?https://www.adidas.nl/ultraboost-5-schoenen/JQ2909.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25LALPSE10"
+                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/ultraboost-5-schoenen/JQ2911.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/4106f951-9d06-4ae2-b20a-690d164259ca/0e93abf9-9483-431d-92cf-de924fd1260c.png"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ebec7cca-896b-4d7d-a402-4ba73af02e91/d8417cca-517a-46fb-9aa9-dddd77180992.png"
             },
             {
               "app_install_properties": {},
               "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616150730;423427654;b?https://www.adidas.nl/supernova-rise-2-hardloopschoenen/JQ7691.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25LALPSE10"
+                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/supernova-rise-2-hardloopschoenen/JQ7701.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/c958dd34-f453-4b60-98fe-408a5f199944/927c460b-94f9-4940-8e04-807a2f3ce3aa.png"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/642abff0-1baa-4c1f-8f4b-c5e1064a5c74/429a6580-6431-4e6a-ac52-aa8abab127f1.png"
             },
             {
               "app_install_properties": {},
               "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616150730;423427654;b?https://www.adidas.nl/adistar-4-hardloopschoenen/JR0310.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25LALPSE10"
+                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/adistar-4-hardloopschoenen/JR0287.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/68e1ac38-3eaf-49aa-be2a-e033eb5629f7/26fd0213-0bf3-49f8-810c-38d4d37d8535.png"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/cf8b45e9-6806-4d7a-af92-51cbe966e88e/25fd82a2-fdcd-4fe5-b04b-f92829a1dd30.png"
             }
           ]
         },
@@ -606,6 +607,106 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
+        "id": "f0e535f9-4162-4932-a16e-a5a4ad6afb93",
+        "name": "CollectionAd|Square|NA|Polish|ShopNow|NA|NA|1|CollectionAd1",
+        "ad_account_name": "adidas eCom Europe (Smartly)",
+        "status": "PAUSED",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "A PAIR FOR EVERY RUNNER",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0Prdk5TnszxIc3CefMG01.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-07-07T07:00:00.000Z",
+        "impressions_total": 31440,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 31440,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "brand_name": "adidas",
+        "profile_name": "adidas",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "HIDE",
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/adistar-4-hardloopschoenen/JR0310.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/68e1ac38-3eaf-49aa-be2a-e033eb5629f7/26fd0213-0bf3-49f8-810c-38d4d37d8535.png"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/supernova-rise-2-hardloopschoenen/JQ7691.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/c958dd34-f453-4b60-98fe-408a5f199944/927c460b-94f9-4940-8e04-807a2f3ce3aa.png"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/ultraboost-5-schoenen/JQ2909.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/4106f951-9d06-4ae2-b20a-690d164259ca/0e93abf9-9483-431d-92cf-de924fd1260c.png"
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
         "id": "f1cb033f-f873-4220-ac71-ed7a8528e138",
         "name": "SnapAd|Square|NA|Dutch|ShopNow|NA|NA|7|PPLAGeneral1",
         "ad_account_name": "adidas eCom Europe (Smartly)",
@@ -747,106 +848,6 @@
         "favorite_display_mode": "HIDE",
         "web_view_properties": {
           "url": "https://ad.doubleclick.net/ddm/clk/616150724;423427648;h?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "26b92af5-89f8-4f01-ab0a-3ca54e40a2b8",
-        "name": "CollectionAd|Square|NA|Dutch|ShopNow|NA|NA|2|CollectionAd2",
-        "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "A PAIR FOR EVERY RUNNER",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EDWg9ClzlZOWmxqWs1qdE.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-07-07T07:00:00.000Z",
-        "impressions_total": 11121,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 11121,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
-        "profile_name": "adidas",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/ultraboost-5-schoenen/JQ2911.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ebec7cca-896b-4d7d-a402-4ba73af02e91/d8417cca-517a-46fb-9aa9-dddd77180992.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/supernova-rise-2-hardloopschoenen/JQ7701.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/642abff0-1baa-4c1f-8f4b-c5e1064a5c74/429a6580-6431-4e6a-ac52-aa8abab127f1.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/adistar-4-hardloopschoenen/JR0287.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/cf8b45e9-6806-4d7a-af92-51cbe966e88e/25fd82a2-fdcd-4fe5-b04b-f92829a1dd30.png"
-            }
-          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

@@ -1,27 +1,30 @@
 {
   "brand": "Diesel",
   "country": "fr",
-  "fetched_at": "2026-04-09T01:44:03.495Z",
+  "fetched_at": "2026-04-09T22:23:59.698Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "188836ff-dede-4cd7-9e68-21cfa3507641",
-        "name": "401437071_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-woman_Social_Snap_Middle_Cons_DigitalMedia-ARCHIVE",
+        "id": "f443d315-c1d2-4b62-bf7e-96899f285285",
+        "name": "401437107_FR_RTB_All_Snapchat_Snapchat_All_Man_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-man_Social_Snap_Middle_Cons_DigitalMedia-RTW",
         "ad_account_name": "DIESEL EUROPE",
-        "status": "ACTIVE",
+        "status": "PAUSED",
         "creative_type": "COLLECTION",
         "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Découvrez les Archive Fits",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Découvrez les nouveautés",
         "call_to_action": "SHOP_NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/y75G0bhgsGiHyJcDyoy1o.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-02-06T13:30:19.000Z",
-        "impressions_total": 68528,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Ka9wkrCiIF3kclgk3x6Dx.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-05T16:24:07.000Z",
+        "impressions_total": 305255,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -33,7 +36,382 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 68528,
+          "fr": 305255,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "DIESEL SPA",
+        "brand_name": "Diesel",
+        "profile_name": "digital diesel",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWtqbGxpT1Z1MG52N0t0YkhqemExP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://fr.diesel.com/fr/homme/nouveaut%C3%A9s/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-man&placement_id=401437107"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/pulls/k-robbel-beige/8051209212093.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/9ea36ef1-c3f9-4360-ad31-b965b55719d4/e53375d0-1b99-4b99-8635-5d2618697809.png"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/t-shirts/t-norm-t9-gris/8051209169519.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/5dfbb13c-5f19-413a-bca5-1ba784b43656/c80c4648-045d-4f91-9eea-8e997fc949a8.png"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/relaxed/relaxed-jeans-1997-d-enim-m-09m74-bleu/8051209384424.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/941d82fe-0a9b-4644-93d9-5cdf0c089230/85fb2e6c-5a5d-4470-a2ef-d8874cedc343.png"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/accessoires/c-fenix-blanc/8051209174414.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/e656ed74-e408-45ef-8160-88743f090e73/5ead13c5-e2e0-47aa-a507-c640740d219e.png"
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a03c249d-6996-4808-a553-13b56ced094f",
+        "name": "401437107_FR_RTB_All_Snapchat_Snapchat_All_Man_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-man_Social_Snap_Middle_Cons_DigitalMedia-ARCHIVE-video-pec",
+        "ad_account_name": "DIESEL EUROPE",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Découvrez les Archive Fits",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/scHVaYjrW1hneBXyajQBf.67?mo=GuoBGggyAgR9UA9gAVoIQWRzTWVkaWGiASgIQxIcChoIleSWASABSg8KCpEBZiYpQWs5ajYQ9ANoAiIGCgJIBBIAogEnCLoKEhoKGAje5XQgAUoOCgl6PRwaPUIqQywQ9ANoAiIGCgJIAhIAogEmCH8SGgoYCP_WWSABSg4KCWI_FhchSR9CKxD0A2gCIgYKAkgCEgCiAScIkgoSGgoYCKqqXiABSg4KCWI8GBggSh1JKBD0A2gCIgYKAkgCEgCiAScIxAoSGgoYCM_jSSABSg4KCVAlEhElKxstGxD0A2gCIgYKAkgCEgCQA8J2&uc=15",
+        "start_date": "2025-02-06T13:30:19.000Z",
+        "impressions_total": 18336,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 18336,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "26",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "DIESEL SPA",
+        "brand_name": "Diesel",
+        "profile_name": "digital diesel",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWtqbGxpT1Z1MG52N0t0YkhqemExP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://fr.diesel.com/fr/homme/nouveaut%C3%A9s/jeans/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-man&placement_id=401437107"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/297Beg7RvUywyalVYK8kR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Dotés d'une coupe allongée, ces shorts de bain pour homme jouent avec le camouflage – le motif utilitaire est imprimé all-over et compose le logo, mais dans une tonalité différente. Ils sont réalisés avec un tissu indéchirable léger et déperlant, intégrant 50 % de fibres recyclées, et sèchent rapidement. Un cordon de serrage interne assure un fit réglable. Longueur extérieure : 47,5 cm / 18,7\"; Taille élastiquée avec cordon de serrage intérieur; Poches latérales et poche arrière plaquée; Œillets en métal recouverts de caoutchouc pour évacuation de l'eau; Doublure en tissu stretch recyclé",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Boardshorts",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Vert"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Boardshorts"
+              ],
+              "size": "",
+              "title": "POWEL-47.5-UTLT",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/powel-47.5-utlt-vert/A174750HJBME5018.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "401437107_FR_RTB_All_Snapchat_Snapchat_All_Man_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-man_Social_Snap_Middle_Cons_DigitalMedia-ARCHIVE-video-pec",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "text_fields": [
+              "title",
+              "customLabel_4"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b4e389c5-c743-4966-bf95-35c546368805",
+        "name": "401437107_FR_RTB_All_Snapchat_Snapchat_All_Man_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-man_Social_Snap_Middle_Cons_DigitalMedia-REGULAR-video",
+        "ad_account_name": "DIESEL EUROPE",
+        "status": "PAUSED",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Découvrez nos jeans regular",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NRsueh7dwAZNTOlUxWo54.67?mo=GpQCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLwhDEhsKGQizvW0gAUoPCgqRAUlhUWRFX1lQEPQDaAIiDgoKQgYI0bG0vwZIBBIAogEwCLoKEhsKGQjIp1YgAUoPCgqBATVWMzkwMkQ_EPQDaAIiDgoKQgYI4LK0vwZIAxIAogEuCH8SGgoYCPC4WyABSg4KCXtDU0RgPUZMPhD0A2gCIg4KCkIGCOCytL8GSAISAKIBLwiSChIaChgI449eIAFKDgoJdUpMQGBARlc8EPQDaAIiDgoKQgYI4LK0vwZIAhIAogEvCMQKEhoKGAiitj4gAUoOCglkLS8tLicnNjMQ9ANoAiIOCgpCBgjgsrS_BkgCEgCQA7hY&uc=15",
+        "start_date": "2025-02-06T13:30:19.000Z",
+        "impressions_total": 25069,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 25069,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "26",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "DIESEL SPA",
+        "brand_name": "Diesel",
+        "profile_name": "digital diesel",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWtqbGxpT1Z1MG52N0t0YkhqemExP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://fr.diesel.com/fr/homme/denim/regular/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-man&placement_id=401437107"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/297Beg7RvUywyalVYK8kR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Dotés d'une coupe allongée, ces shorts de bain pour homme jouent avec le camouflage – le motif utilitaire est imprimé all-over et compose le logo, mais dans une tonalité différente. Ils sont réalisés avec un tissu indéchirable léger et déperlant, intégrant 50 % de fibres recyclées, et sèchent rapidement. Un cordon de serrage interne assure un fit réglable. Longueur extérieure : 47,5 cm / 18,7\"; Taille élastiquée avec cordon de serrage intérieur; Poches latérales et poche arrière plaquée; Œillets en métal recouverts de caoutchouc pour évacuation de l'eau; Doublure en tissu stretch recyclé",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Boardshorts",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Vert"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Boardshorts"
+              ],
+              "size": "",
+              "title": "POWEL-47.5-UTLT",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/powel-47.5-utlt-vert/A174750HJBME5018.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "401437107_FR_RTB_All_Snapchat_Snapchat_All_Man_1x1_AlwaysOn_Collection_2rd_Lal_lal-collection-man_Social_Snap_Middle_Cons_DigitalMedia-REGULAR",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "text_fields": [
+              "title",
+              "customLabel_4"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4acea8be-f74b-4125-8746-5f61eaae3601",
+        "name": "401437071_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-woman_Social_Snap_Middle_Cons_DigitalMedia-ARCHIVE-video-pec",
+        "ad_account_name": "DIESEL EUROPE",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Découvrez les Archive Fits",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dB8gRUFwHIa1vOGREykIR.67?mo=GuoBGggyAgR9UA9gAVoIQWRzTWVkaWGiASgIQxIcChoIleSWASABSg8KCpEBZiYpQWs5ajYQ9ANoAiIGCgJIBRIAogEnCLoKEhoKGAje5XQgAUoOCgl6PRwaPUIqQywQ9ANoAiIGCgJIAxIAogEmCH8SGgoYCI3YWSABSg4KCWI_FhchSR9CKxD0A2gCIgYKAkgCEgCiAScIkgoSGgoYCPKuXiABSg4KCWI8GBggSh1JKBD0A2gCIgYKAkgCEgCiAScIxAoSGgoYCM_jSSABSg4KCVAlEhElKxstGxD0A2gCIgYKAkgCEgCQA8J2&uc=15",
+        "start_date": "2025-02-06T13:30:19.000Z",
+        "impressions_total": 13020,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 13020,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -375,7 +753,7 @@
           ],
           "template": {},
           "dynamic_template": {
-            "name": "401437071_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-woman_Social_Snap_Middle_Cons_DigitalMedia-ARCHIVE",
+            "name": "401437071_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-woman_Social_Snap_Middle_Cons_DigitalMedia-ARCHIVE-video-pec",
             "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "text_fields": [
@@ -393,23 +771,20 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "5d0ebe11-093e-4b8d-8d1a-f4e07b4710fd",
-        "name": "401437071_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-woman_Social_Snap_Middle_Cons_DigitalMedia-RTW",
+        "id": "bd8add44-1110-4212-bd46-f5a7c1ac6602",
+        "name": "406891457_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Carousel_2nd_Lal_lal-car-dyn-woman_Social_Snap_Middle_Cons_DigitalMedia-ARCHIVE",
         "ad_account_name": "DIESEL EUROPE",
-        "status": "PAUSED",
+        "status": "ACTIVE",
         "creative_type": "COLLECTION",
         "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Découvrez les nouveautés",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Découvrez les Archive Fits",
         "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
+        "top_snap_media_type": "DYNAMIC",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GYExbJi85peD4fY4gwmFy.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-06-05T16:24:07.000Z",
-        "impressions_total": 267822,
+        "start_date": "2025-02-06T13:30:19.000Z",
+        "impressions_total": 157446,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -421,7 +796,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 267822,
+          "fr": 157446,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -444,7 +819,7 @@
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "18",
+              "min_age": "26",
               "max_age": "44",
               "age_groups": [],
               "gender": "FEMALE",
@@ -453,53 +828,324 @@
               "advanced_demographics": []
             }
           ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
+          "devices": []
         },
         "paying_advertiser_name": "DIESEL SPA",
         "brand_name": "Diesel",
         "profile_name": "digital diesel",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWtqbGxpT1Z1MG52N0t0YkhqemExP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "collection_preview": {
-          "web_view_properties": {
-            "url": "https://fr.diesel.com/fr/femme/nouveaut%C3%A9s/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-woman&placement_id=401437071"
-          },
           "collection_creative_element_attachment": [
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/jupes/o-lane-r1-noir/8051209222306.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/fd3d307f-3ae3-4c5f-aabc-90f1516a5bed/923c026c-6dc0-4ff8-a937-2f92fe3f8a1e.png"
+              "app_install_properties": {}
             },
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/t-shirts-et-tops/t-inlay-r1-noir/8051209222368.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/24d4dbc4-ceef-4709-ac9d-d3fcedd33d76/0a874b04-1487-49a0-ad7c-4db1af04507d.png"
+              "app_install_properties": {}
             },
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/robes/d-longy-marron/8051209262814.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/4ecdfe51-8e8b-458c-b7c3-0d0bec3d9940/46c5ef5c-5624-4629-af4a-1e351944e3c4.png"
+              "app_install_properties": {}
             },
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/robes/d-aria-polychrome/8051209234422.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/325a71f8-c702-4bd3-a24e-823a5c96ab9c/d73d5a6f-a841-4c8d-8176-2908be692217.png"
+              "app_install_properties": {}
             }
           ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ZkQeJQRf74t3qiN39SQV3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Le tissu stretch recyclé de ce maillot de bain pour femme est spécialement imprimé pour créer l'illusion d'un haut en denim glissé dans un jean. Doté de fines bretelles qui se nouent aux épaules pour une coupe ajustable, il présente un décolleté en V plongeant et un dos échancré.",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Swimsuits",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Bleu"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Swimsuits"
+              ],
+              "size": "",
+              "title": "KINSLEY-DNM",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/kinsley-dnm-bleu/A187510BNCWE6863.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SVtPgltZ5oZMzZjykuPVc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Cette culotte de bikini pour Femme est confectionnée en nylon recyclé. Elle arbore des bandes latérales réglables et un maxi logo Diesel Denim Division dans le dos. Lanières ajustables latérales; Avec doublure",
+              "brand": "Diesel",
+              "custom_label_0": "SS 2026",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BFPN-BRIGITTES",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bfpn-brigittes-noir/A096640AJIZ9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/hEvzjTTbyagj9DTmwlrQI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Cette culotte de bain classique pour Femme en tissu stretch et doux se noue aux hanches avec des bretelles spaghetti.",
+              "brand": "Diesel",
+              "custom_label_0": "SS 2026",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BRIGITTES-DNM",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/brigittes-dnm-noir/A177740AFBC9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ZH9PHZxIoAZy5NRQ3Rb46.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Imprimé d'un motif camouflage, ce maillot de bain une pièce pour femme exprime les codes utilitaires de Diesel. Confectionné dans un tissu stretch côtelé recyclé, il présente un double col échancré et des jambes hautes. Le logo Oval D découpé sur la poitrine ajoute une touche d'irrévérence. Double col rond; Logo Oval D en TPU; Couture centrale au dos; Doublure en tissu stretch recyclé",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Swimsuits",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Marron"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Swimsuits"
+              ],
+              "size": "",
+              "title": "UT-BODY-UTLT",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/ut-body-utlt-marron/A174730KLAQE6909.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/B6AvKN9NGlXyLnDLGeXqn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Ce maillot de bain pour Femme est imprimé d'un maxi logo Diesel sur le côté gauche et coupé sur les bords pour former une silhouette échancrée. Il est confectionné avec un tissu stretch recyclé et présente un dos échancré classique.",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Swimsuits",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Rose"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Swimsuits"
+              ],
+              "size": "",
+              "title": "BFSW-KYLIA",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bfsw-kylia-rose/A153850HPAL36U.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ABw84lQo0yFtmeAiyehFU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Slips de bikini pour femme en forme de V avec liens à nouer sur les côtés et une couverture arrière audacieuse. Ce modèle est confectionné dans un tissu stretch recyclé doux et affiche à l'arrière une grande impression du logo Diesel. Liens sur les côtés; Logo Oval D en TPU; Doublure en tissu stretch recyclé",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Rouge"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BRAZILIAN-D-CORE",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/brazilian-d-core-rouge/A175900HPAL42A.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/yJp4TgOBQOkh74a4n34rN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Ce bas de maillot de bain pour femme est orné d'un logo Oval D découpé apportant un effet peek-a-boo espiègle sur le devant. Confectionné dans un tissu stretch recyclé, il affiche une silhouette tanga qui épouse les hanches. Ceinture slim élastique; Logo Oval D en TPU; Couture centrale au dos",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "CAMILLE-UTLT",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/camille-utlt-noir/A174740LHBP9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/c5pQa1YCuRbGtCcufkyiE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Ce maillot de bain pour Femme est imprimé d'un maxi logo Diesel sur le côté gauche et coupé sur les bords pour former une silhouette échancrée. Il est confectionné avec un tissu stretch recyclé et présente un dos échancré classique.",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Swimsuits",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Rouge"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Swimsuits"
+              ],
+              "size": "",
+              "title": "BFSW-KYLIA",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bfsw-kylia-rouge/A153850HPAL42A.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/wYrAw2LusMNm5Szx8HCM0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Un design uni avec une touche Diesel, ce bas de maillot de bain pour femme est orné d'un logo métallique Oval D découpé, créant un effet espiègle peek-a-boo sur le devant. Le tissu principal ainsi que la doublure sont réalisés à partir de matériaux recyclés. Logo Oval D en TPU; Couture centrale au dos; Doublure en tissu stretch recyclé",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BUNCHY-UTLT",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bunchy-utlt-noir/A178300LHBP9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/2Nr0L4FBAZR3HRjUZUXZk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Bas de bikini pour Femme, confectionné en nylon recyclé. Les chaînes en métal sur les côtés rehaussent ce modèle pour un look minimaliste, orné de plaques Oval D distinctives. Avec doublure",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BFPN-IRINA",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bfpn-irina-noir/A132310WHAU9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "406891457_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Carousel_2nd_Lal_lal-car-dyn-woman_Social_Snap_Middle_Cons_DigitalMedia-ARCHIVE",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "FILL_WIDTH",
+            "text_fields": [
+              "``",
+              "``"
+            ],
+            "background_color": "121313"
+          },
+          "vertical": "COMMERCE"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -509,8 +1155,376 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "ed87a0ed-04d1-4e28-8568-d40dc96737e4",
-        "name": "416963923_FR_RTB_All_Snapchat_Snapchat_All_Man_1x1_2025-Q1-SS25_Collection_2nd_Lal_lal-collection-man-mill_Social_Snap_Middle_Cons_DigitalMedia-BEACHWEAR",
+        "id": "b7fb9a4f-aa6d-43eb-ab8b-349a1702d38f",
+        "name": "406891457_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Carousel_2nd_Lal_lal-car-dyn-woman_Social_Snap_Middle_Cons_DigitalMedia-REGULAR",
+        "ad_account_name": "DIESEL EUROPE",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Découvrez nos jeans regular",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-02-06T13:30:19.000Z",
+        "impressions_total": 680676,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 680676,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "26",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "DIESEL SPA",
+        "brand_name": "Diesel",
+        "profile_name": "digital diesel",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWtqbGxpT1Z1MG52N0t0YkhqemExP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ZkQeJQRf74t3qiN39SQV3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Le tissu stretch recyclé de ce maillot de bain pour femme est spécialement imprimé pour créer l'illusion d'un haut en denim glissé dans un jean. Doté de fines bretelles qui se nouent aux épaules pour une coupe ajustable, il présente un décolleté en V plongeant et un dos échancré.",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Swimsuits",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Bleu"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Swimsuits"
+              ],
+              "size": "",
+              "title": "KINSLEY-DNM",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/kinsley-dnm-bleu/A187510BNCWE6863.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SVtPgltZ5oZMzZjykuPVc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Cette culotte de bikini pour Femme est confectionnée en nylon recyclé. Elle arbore des bandes latérales réglables et un maxi logo Diesel Denim Division dans le dos. Lanières ajustables latérales; Avec doublure",
+              "brand": "Diesel",
+              "custom_label_0": "SS 2026",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BFPN-BRIGITTES",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bfpn-brigittes-noir/A096640AJIZ9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/hEvzjTTbyagj9DTmwlrQI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Cette culotte de bain classique pour Femme en tissu stretch et doux se noue aux hanches avec des bretelles spaghetti.",
+              "brand": "Diesel",
+              "custom_label_0": "SS 2026",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BRIGITTES-DNM",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/brigittes-dnm-noir/A177740AFBC9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ZH9PHZxIoAZy5NRQ3Rb46.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Imprimé d'un motif camouflage, ce maillot de bain une pièce pour femme exprime les codes utilitaires de Diesel. Confectionné dans un tissu stretch côtelé recyclé, il présente un double col échancré et des jambes hautes. Le logo Oval D découpé sur la poitrine ajoute une touche d'irrévérence. Double col rond; Logo Oval D en TPU; Couture centrale au dos; Doublure en tissu stretch recyclé",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Swimsuits",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Marron"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Swimsuits"
+              ],
+              "size": "",
+              "title": "UT-BODY-UTLT",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/ut-body-utlt-marron/A174730KLAQE6909.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/B6AvKN9NGlXyLnDLGeXqn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Ce maillot de bain pour Femme est imprimé d'un maxi logo Diesel sur le côté gauche et coupé sur les bords pour former une silhouette échancrée. Il est confectionné avec un tissu stretch recyclé et présente un dos échancré classique.",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Swimsuits",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Rose"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Swimsuits"
+              ],
+              "size": "",
+              "title": "BFSW-KYLIA",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bfsw-kylia-rose/A153850HPAL36U.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ABw84lQo0yFtmeAiyehFU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Slips de bikini pour femme en forme de V avec liens à nouer sur les côtés et une couverture arrière audacieuse. Ce modèle est confectionné dans un tissu stretch recyclé doux et affiche à l'arrière une grande impression du logo Diesel. Liens sur les côtés; Logo Oval D en TPU; Doublure en tissu stretch recyclé",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Rouge"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BRAZILIAN-D-CORE",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/brazilian-d-core-rouge/A175900HPAL42A.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/yJp4TgOBQOkh74a4n34rN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Ce bas de maillot de bain pour femme est orné d'un logo Oval D découpé apportant un effet peek-a-boo espiègle sur le devant. Confectionné dans un tissu stretch recyclé, il affiche une silhouette tanga qui épouse les hanches. Ceinture slim élastique; Logo Oval D en TPU; Couture centrale au dos",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "CAMILLE-UTLT",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/camille-utlt-noir/A174740LHBP9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/c5pQa1YCuRbGtCcufkyiE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Ce maillot de bain pour Femme est imprimé d'un maxi logo Diesel sur le côté gauche et coupé sur les bords pour former une silhouette échancrée. Il est confectionné avec un tissu stretch recyclé et présente un dos échancré classique.",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Swimsuits",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Rouge"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Swimsuits"
+              ],
+              "size": "",
+              "title": "BFSW-KYLIA",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bfsw-kylia-rouge/A153850HPAL42A.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/wYrAw2LusMNm5Szx8HCM0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Un design uni avec une touche Diesel, ce bas de maillot de bain pour femme est orné d'un logo métallique Oval D découpé, créant un effet espiègle peek-a-boo sur le devant. Le tissu principal ainsi que la doublure sont réalisés à partir de matériaux recyclés. Logo Oval D en TPU; Couture centrale au dos; Doublure en tissu stretch recyclé",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BUNCHY-UTLT",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bunchy-utlt-noir/A178300LHBP9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/2Nr0L4FBAZR3HRjUZUXZk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Bas de bikini pour Femme, confectionné en nylon recyclé. Les chaînes en métal sur les côtés rehaussent ce modèle pour un look minimaliste, orné de plaques Oval D distinctives. Avec doublure",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BFPN-IRINA",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bfpn-irina-noir/A132310WHAU9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "406891457_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Carousel_2rd_Lal_lal-car-dyn-woman_Social_Snap_Middle_Cons_DigitalMedia-REGULAR",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "FILL_WIDTH",
+            "text_fields": [
+              "``",
+              "``"
+            ],
+            "background_color": "0c0c0c"
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "89f1063a-b865-4c64-9b54-9c43f263e797",
+        "name": "401437107_FR_RTB_All_Snapchat_Snapchat_All_Man_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-man_Social_Snap_Middle_Cons_DigitalMedia-COSTUMI",
         "ad_account_name": "DIESEL EUROPE",
         "status": "PAUSED",
         "creative_type": "COLLECTION",
@@ -523,9 +1537,9 @@
         "call_to_action": "SHOP_NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/7k7fF3WBoyXpi5uTAcBxN.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TCArxX3qSIJkj5FEte1YO.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
         "start_date": "2025-06-05T16:24:07.000Z",
-        "impressions_total": 77971,
+        "impressions_total": 356207,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -537,7 +1551,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 77971,
+          "fr": 356207,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -577,152 +1591,36 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWtqbGxpT1Z1MG52N0t0YkhqemExP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "collection_preview": {
           "web_view_properties": {
-            "url": "https://fr.diesel.com/fr/homme/mode-plage/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-man&placement_id=416963923"
+            "url": "https://fr.diesel.com/fr/homme/mode-plage/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-man&placement_id=401437107"
           },
           "collection_creative_element_attachment": [
             {
               "app_install_properties": {},
               "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/ken-37-d-core-noir/8055055769374.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/mario-34-d-core-noir/8055055769046.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/6173bf24-a28d-4fbe-a48a-cd19244e046d/d5d6fed4-2e8d-4b92-9d45-7e97a0e77d68.png"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/97aada88-a98b-4e5e-a52e-b9ccd9bcf445/416814d3-cb9a-48a1-81a5-6b95cdcd9349.png"
             },
             {
               "app_install_properties": {},
               "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/mario-34-d-core-noir/8055055769046.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/ken-37-d-core-noir/8055055769374.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/c9ef42aa-1589-4671-bddd-ac113436a110/acfaa552-0e8c-4a33-a85d-592040847248.png"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/7a20ef8a-ac55-4949-b8e3-f9efd3aa1994/4e4da023-4be5-496f-9a4e-d9f6853c8141.png"
             },
             {
               "app_install_properties": {},
               "web_view_properties": {
                 "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/daniel-41-mono-utlt-marron/8051209228216.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/4fe1f4df-77b1-4ff4-aeec-ea39af28528b/ac2d1122-8f1d-4fc4-91b0-e72850ff6a1b.png"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/eebbf5bc-7187-4821-a27f-02cf116ae62b/28605024-5c18-464d-bcab-16fb1b2febe0.png"
             },
             {
               "app_install_properties": {},
               "web_view_properties": {
                 "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/rio-41-d-core-polychrome/8055055768414.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ab6330db-495f-44a7-ac79-4be8c1d4f976/8a9df822-0544-4215-b786-1569569c4861.png"
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f931a0f0-e8b3-4c1e-9bf3-3d44935fbeba",
-        "name": "401437071_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-woman_Social_Snap_Middle_Cons_DigitalMedia-1dr",
-        "ad_account_name": "DIESEL EUROPE",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Découvrez 1DR Dome",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/R0NsCS7KUBzC3B5DFc8gO.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-06-05T16:24:07.000Z",
-        "impressions_total": 11193,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 11193,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "DIESEL SPA",
-        "brand_name": "Diesel",
-        "profile_name": "digital diesel",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWtqbGxpT1Z1MG52N0t0YkhqemExP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://fr.diesel.com/fr/femme/sacs/1dr-dome/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-woman&placement_id=401437071"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/sacs-port%25C3%25A9-%25C3%25A9paule/1dr-dome-crossbody-jaune/8051209060816.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/5a4528a5-a0f3-4187-b8d6-3e02fb032573/eafade9d-66d0-4ed1-a467-bfaeb468bf53.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/sacs-a-bandouli%25C3%25A8re/1dr-dome-crossbody-noir/8051209060687.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/c7105ee9-060a-4059-ad24-3befc97d00d1/46b4641c-a3f0-4ab8-8229-c0f424f2601d.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/sandales/d-lake-platform-sdl-blanc/8051209203435.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/82ee34bb-409d-4c6d-b7b4-fb27dd2731d0/498c658b-4d47-4812-a8f1-15f54fb3e9b8.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/robes/m-camok-polychrome/8051209257025.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/d89a8187-534d-469c-960e-ec8103e4b98c/51330736-67c1-41c2-a7ad-35285aa1084f.png"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/cabe9ac8-5f6a-4d97-8178-b2ee7bbe0b6c/9e8f55f9-964d-4e40-86fa-70ba5605185b.png"
             }
           ]
         },
@@ -843,8 +1741,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "afd4858e-adcb-4ec5-b903-3d3cc9ada56b",
-        "name": "401437107_FR_RTB_All_Snapchat_Snapchat_All_Man_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-man_Social_Snap_Middle_Cons_DigitalMedia-REGULAR",
+        "id": "481ea435-abfb-4b63-a4fd-7fc4c121b1ad",
+        "name": "401437071_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-woman_Social_Snap_Middle_Cons_DigitalMedia-REGULAR-VIDEO",
         "ad_account_name": "DIESEL EUROPE",
         "status": "PAUSED",
         "creative_type": "COLLECTION",
@@ -853,11 +1751,11 @@
         "languages": [],
         "headline": "Découvrez nos jeans regular",
         "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NSprI8ShL94TDrEMvvGx4.380?mo=GjsaFDIBBDoBfUIGCOqstL8GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Dt8NGdDyIw74xuV6lwjk6.67?mo=GpACGgcyAQRQD2ABWghBZHNNZWRpYaIBMwhDEhwKGgjFi5gBIAFKDwoKgQFXW1ZdWEdwYxD0A2gCIhEKDToBfUIGCPPetL8GSAUSAKIBKgi6ChIaChgI2t51IAFKDgoJcTY7NTkxMkdREPQDaAIiCQoFMgF9SAISAKIBMQh_EhoKGAjy7HcgAUoOCglsTE9QTEtHSkIQ9ANoAiIRCg06AX1CBgjh37S_BkgCEgCiATIIkgoSGgoYCM--eyABSg4KCWtKUk9VSUhOSBD0A2gCIhEKDToBfUIGCODftL8GSAISAKIBKgjEChIaChgI7bhQIAFKDgoJWystKS8nKC8zEPQDaAIiCQoFMgF9SAISAJADiHc%3D&uc=15",
         "start_date": "2025-02-06T13:30:19.000Z",
-        "impressions_total": 54757,
+        "impressions_total": 44610,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -869,7 +1767,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 54757,
+          "fr": 44610,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -895,7 +1793,7 @@
               "min_age": "26",
               "max_age": "44",
               "age_groups": [],
-              "gender": "MALE",
+              "gender": "FEMALE",
               "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
@@ -909,7 +1807,7 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWtqbGxpT1Z1MG52N0t0YkhqemExP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "collection_preview": {
           "web_view_properties": {
-            "url": "https://fr.diesel.com/fr/homme/denim/regular/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-man&placement_id=401437107"
+            "url": "https://fr.diesel.com/fr/femme/denim/regular/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-woman&placement_id=401437071"
           },
           "collection_creative_element_attachment": [
             {
@@ -931,39 +1829,291 @@
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/297Beg7RvUywyalVYK8kR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/ZkQeJQRf74t3qiN39SQV3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [],
-              "description": "Dotés d'une coupe allongée, ces shorts de bain pour homme jouent avec le camouflage – le motif utilitaire est imprimé all-over et compose le logo, mais dans une tonalité différente. Ils sont réalisés avec un tissu indéchirable léger et déperlant, intégrant 50 % de fibres recyclées, et sèchent rapidement. Un cordon de serrage interne assure un fit réglable. Longueur extérieure : 47,5 cm / 18,7\"; Taille élastiquée avec cordon de serrage intérieur; Poches latérales et poche arrière plaquée; Œillets en métal recouverts de caoutchouc pour évacuation de l'eau; Doublure en tissu stretch recyclé",
+              "description": "Le tissu stretch recyclé de ce maillot de bain pour femme est spécialement imprimé pour créer l'illusion d'un haut en denim glissé dans un jean. Doté de fines bretelles qui se nouent aux épaules pour une coupe ajustable, il présente un décolleté en V plongeant et un dos échancré.",
               "brand": "Diesel",
               "custom_label_0": "FW 2025",
               "custom_label_1": "PROMO",
               "custom_label_2": "",
-              "custom_label_3": "Boardshorts",
+              "custom_label_3": "Swimsuits",
               "custom_label_4": "",
               "age_group": "ADULT",
               "availability": "IN STOCK",
               "color": [
-                "Vert"
+                "Bleu"
               ],
               "condition": "NEW",
-              "gender": "MALE",
+              "gender": "FEMALE",
               "product_type": [
-                "Boardshorts"
+                "Swimsuits"
               ],
               "size": "",
-              "title": "POWEL-47.5-UTLT",
-              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/powel-47.5-utlt-vert/A174750HJBME5018.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+              "title": "KINSLEY-DNM",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/kinsley-dnm-bleu/A187510BNCWE6863.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SVtPgltZ5oZMzZjykuPVc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Cette culotte de bikini pour Femme est confectionnée en nylon recyclé. Elle arbore des bandes latérales réglables et un maxi logo Diesel Denim Division dans le dos. Lanières ajustables latérales; Avec doublure",
+              "brand": "Diesel",
+              "custom_label_0": "SS 2026",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BFPN-BRIGITTES",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bfpn-brigittes-noir/A096640AJIZ9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/hEvzjTTbyagj9DTmwlrQI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Cette culotte de bain classique pour Femme en tissu stretch et doux se noue aux hanches avec des bretelles spaghetti.",
+              "brand": "Diesel",
+              "custom_label_0": "SS 2026",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BRIGITTES-DNM",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/brigittes-dnm-noir/A177740AFBC9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ZH9PHZxIoAZy5NRQ3Rb46.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Imprimé d'un motif camouflage, ce maillot de bain une pièce pour femme exprime les codes utilitaires de Diesel. Confectionné dans un tissu stretch côtelé recyclé, il présente un double col échancré et des jambes hautes. Le logo Oval D découpé sur la poitrine ajoute une touche d'irrévérence. Double col rond; Logo Oval D en TPU; Couture centrale au dos; Doublure en tissu stretch recyclé",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Swimsuits",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Marron"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Swimsuits"
+              ],
+              "size": "",
+              "title": "UT-BODY-UTLT",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/ut-body-utlt-marron/A174730KLAQE6909.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/B6AvKN9NGlXyLnDLGeXqn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Ce maillot de bain pour Femme est imprimé d'un maxi logo Diesel sur le côté gauche et coupé sur les bords pour former une silhouette échancrée. Il est confectionné avec un tissu stretch recyclé et présente un dos échancré classique.",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Swimsuits",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Rose"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Swimsuits"
+              ],
+              "size": "",
+              "title": "BFSW-KYLIA",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bfsw-kylia-rose/A153850HPAL36U.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ABw84lQo0yFtmeAiyehFU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Slips de bikini pour femme en forme de V avec liens à nouer sur les côtés et une couverture arrière audacieuse. Ce modèle est confectionné dans un tissu stretch recyclé doux et affiche à l'arrière une grande impression du logo Diesel. Liens sur les côtés; Logo Oval D en TPU; Doublure en tissu stretch recyclé",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Rouge"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BRAZILIAN-D-CORE",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/brazilian-d-core-rouge/A175900HPAL42A.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/yJp4TgOBQOkh74a4n34rN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Ce bas de maillot de bain pour femme est orné d'un logo Oval D découpé apportant un effet peek-a-boo espiègle sur le devant. Confectionné dans un tissu stretch recyclé, il affiche une silhouette tanga qui épouse les hanches. Ceinture slim élastique; Logo Oval D en TPU; Couture centrale au dos",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "CAMILLE-UTLT",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/camille-utlt-noir/A174740LHBP9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/c5pQa1YCuRbGtCcufkyiE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Ce maillot de bain pour Femme est imprimé d'un maxi logo Diesel sur le côté gauche et coupé sur les bords pour former une silhouette échancrée. Il est confectionné avec un tissu stretch recyclé et présente un dos échancré classique.",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Swimsuits",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Rouge"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Swimsuits"
+              ],
+              "size": "",
+              "title": "BFSW-KYLIA",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bfsw-kylia-rouge/A153850HPAL42A.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/wYrAw2LusMNm5Szx8HCM0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Un design uni avec une touche Diesel, ce bas de maillot de bain pour femme est orné d'un logo métallique Oval D découpé, créant un effet espiègle peek-a-boo sur le devant. Le tissu principal ainsi que la doublure sont réalisés à partir de matériaux recyclés. Logo Oval D en TPU; Couture centrale au dos; Doublure en tissu stretch recyclé",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BUNCHY-UTLT",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bunchy-utlt-noir/A178300LHBP9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/2Nr0L4FBAZR3HRjUZUXZk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Bas de bikini pour Femme, confectionné en nylon recyclé. Les chaînes en métal sur les côtés rehaussent ce modèle pour un look minimaliste, orné de plaques Oval D distinctives. Avec doublure",
+              "brand": "Diesel",
+              "custom_label_0": "FW 2025",
+              "custom_label_1": "PROMO",
+              "custom_label_2": "",
+              "custom_label_3": "Panties",
+              "custom_label_4": "",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Panties"
+              ],
+              "size": "",
+              "title": "BFPN-IRINA",
+              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/bfpn-irina-noir/A132310WHAU9XX.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
             }
           ],
           "template": {},
           "dynamic_template": {
-            "name": "401437107_FR_RTB_All_Snapchat_Snapchat_All_Man_1x1_AlwaysOn_Collection_2rd_Lal_lal-collection-man_Social_Snap_Middle_Cons_DigitalMedia-REGULAR",
+            "name": "401437071_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Collection_2rd_Lal_lal-collection-woman_Social_Snap_Middle_Cons_DigitalMedia-REGULAR-VIDEO",
             "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "text_fields": [
-              "customLabel_1",
+              "title",
               "customLabel_4"
             ]
           },
@@ -977,233 +2127,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "19123d57-cfc9-4501-b7ba-9f5aa8e0a536",
-        "name": "401437071_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-woman_Social_Snap_Middle_Cons_DigitalMedia-RTW",
-        "ad_account_name": "DIESEL EUROPE",
-        "status": "PAUSED",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Découvrez les nouveautés",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QfBpJxyhjJ8eAjryCPQgX.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-06-05T16:24:07.000Z",
-        "impressions_total": 307520,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 307520,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "DIESEL SPA",
-        "brand_name": "Diesel",
-        "profile_name": "digital diesel",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWtqbGxpT1Z1MG52N0t0YkhqemExP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://fr.diesel.com/fr/femme/nouveaut%C3%A9s/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-woman&placement_id=401437071"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/robes/m-egaknot-marron/8051209221620.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/d224ffe3-d652-4dbb-b34e-36fa83d7ca12/2acd5ba4-6c34-45e2-af31-caf042a06709.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/t-shirts-et-tops/t-bunny-tail-blanc/8051209164675.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/669af95d-af9a-4183-8b28-3f85ae9ce50f/0d81e488-2058-45c6-8b52-6be4896434a2.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/robes/d-resden-beige/8051209148668.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/9dd64fe0-1181-4325-81a7-72f4a51c7680/efa13dd2-1bb6-4b8d-9caf-7dfa9a3074d5.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/jupes/o-racle-beige/8051209263002.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/c1a77ae5-4c43-4b8f-a383-6333f65660d9/0bd02c8d-33ca-4c38-b03d-5c1d69282ce9.png"
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "16a928cc-a870-4aa0-8fed-c4635f05b11a",
-        "name": "416963923_FR_RTB_All_Snapchat_Snapchat_All_Man_1x1_2025-Q1-SS25_Collection_2nd_Lal_lal-collection-man-mill_Social_Snap_Middle_Cons_DigitalMedia-BEACHWEAR",
-        "ad_account_name": "DIESEL EUROPE",
-        "status": "PAUSED",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Maillots de bain",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nLCGBwGhil6nCr2BfL4CS.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-06-05T16:24:07.000Z",
-        "impressions_total": 84481,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 84481,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "DIESEL SPA",
-        "brand_name": "Diesel",
-        "profile_name": "digital diesel",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWtqbGxpT1Z1MG52N0t0YkhqemExP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://fr.diesel.com/fr/homme/mode-plage/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-man&placement_id=416963923"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/daniel-41-mono-utlt-marron/8051209228216.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/4fe1f4df-77b1-4ff4-aeec-ea39af28528b/ac2d1122-8f1d-4fc4-91b0-e72850ff6a1b.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/rio-41-d-core-polychrome/8055055768414.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ab6330db-495f-44a7-ac79-4be8c1d4f976/8a9df822-0544-4215-b786-1569569c4861.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/ken-37-d-core-noir/8055055769374.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/6173bf24-a28d-4fbe-a48a-cd19244e046d/d5d6fed4-2e8d-4b92-9d45-7e97a0e77d68.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/mario-34-d-core-noir/8055055769046.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/c9ef42aa-1589-4671-bddd-ac113436a110/acfaa552-0e8c-4a33-a85d-592040847248.png"
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a04bed12-16af-42ea-9343-c69edb27d964",
-        "name": "417175352_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_2025-Q1-SS25_Collection_2nd_Lal_lal-collection-woman-mill_Social_Snap_Middle_Cons_DigitalMedia-BEACHWEAR",
+        "id": "9de1e82f-d49e-4117-883a-e7f17a9a0675",
+        "name": "401437071_FR_RTB_All_Snapchat_Snapchat_All_Woman_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-woman_Social_Snap_Middle_Cons_DigitalMedia-COSTUMI",
         "ad_account_name": "DIESEL EUROPE",
         "status": "PAUSED",
         "creative_type": "COLLECTION",
@@ -1216,9 +2141,9 @@
         "call_to_action": "SHOP_NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/aTM9upKKokof3MeJJ0ILQ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8MOun32quSW84w4yFcAbZ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
         "start_date": "2025-06-05T16:24:07.000Z",
-        "impressions_total": 144019,
+        "impressions_total": 1328110,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -1230,7 +2155,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 144019,
+          "fr": 1328110,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -1277,172 +2202,38 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWtqbGxpT1Z1MG52N0t0YkhqemExP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "collection_preview": {
           "web_view_properties": {
-            "url": "https://fr.diesel.com/fr/femme/mode-plage/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-woman&placement_id=417175352"
+            "url": "https://fr.diesel.com/fr/femme/mode-plage/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-woman&placement_id=401437071"
           },
           "collection_creative_element_attachment": [
             {
               "app_install_properties": {},
               "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/ut-body-utlt-marron/8051209233555.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/6bd4a08d-5dc1-4ca7-803d-c32c3e992636/32533143-62e1-43dd-bca8-e0a62f5efd35.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
                 "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/bunchy-utlt-noir/8055055784667.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/417b38a7-709a-4ca1-a61a-06229236c092/f9131fde-5c95-462e-a93a-8dd43d3e42ce.png"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/3631fd2c-8686-405e-8fb0-0dcd2500d2f8/327b7c30-d414-4e4d-89b2-a4cba436c945.png"
             },
             {
               "app_install_properties": {},
               "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/kinsley-dnm-bleu/8051209239243.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/ut-body-utlt-marron/8051209233555.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/f4e6de19-42b5-44b0-aee6-64ed19ca467b/fcea0db0-60e8-4f02-bcd2-ec3095642784.png"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/7c489f7a-277f-4519-b962-adaf16e01ccf/cf390bb3-be4c-4807-86f1-b9bd4e156b0c.png"
             },
             {
               "app_install_properties": {},
               "web_view_properties": {
                 "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/bunchy-utlt-marron/8051209233791.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/117a48af-28fc-4d74-8903-9892665bd0a6/71a0bee0-293f-4c0d-9c5a-8d56fb576cf8.png"
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "32b1da1e-9521-4c37-bb35-32e7ee615330",
-        "name": "401437107_FR_RTB_All_Snapchat_Snapchat_All_Man_1x1_AlwaysOn_Collection_2nd_Lal_lal-collection-man_Social_Snap_Middle_Cons_DigitalMedia-REGULAR-PEC",
-        "ad_account_name": "DIESEL EUROPE",
-        "status": "PAUSED",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Découvrez nos jeans regular",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/uJ2ppSWklOuBXry9Xli92.67?mo=GpICGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLghDEhoKGAins20gAUoOCgkuJzkhKEtuMzMQ9ANoAiIOCgpCBgjy2bS_BkgDEgCiAS8IugoSGgoYCPesSiABSg4KCSYSKRMYM0odJBD0A2gCIg4KCkIGCLzatL8GSAISAKIBLgh_EhoKGAjk_j8gAUoOCgkeESMQEShNGxoQ9ANoAiIOCgpCBgi82rS_BkgCEgCiAS8IkgoSGgoYCPvlQyABSg4KCR4UJxETLUwcHBD0A2gCIg4KCkIGCLzatL8GSAISAKIBLwjEChIaChgI0MQwIAFKDgoJHQscCw8eLhMYEPQDaAIiDgoKQgYIvNq0vwZIAhIAkAPAdQ%3D%3D&uc=15",
-        "start_date": "2025-02-06T13:30:19.000Z",
-        "impressions_total": 34215,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 34215,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "26",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "DIESEL SPA",
-        "brand_name": "Diesel",
-        "profile_name": "digital diesel",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWtqbGxpT1Z1MG52N0t0YkhqemExP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://fr.diesel.com/fr/homme/denim/regular/?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=lal-collection-man&placement_id=401437107"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {}
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/a052dbc9-7ba1-46c8-9c11-634ef897022f/5d7cf5b2-0425-46c2-a601-f8c1155940a0.png"
             },
             {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            }
-          ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/297Beg7RvUywyalVYK8kR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain-et-bikinis/kinsley-dnm-bleu/8051209239236.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
               },
-              "additional_media": [],
-              "description": "Dotés d'une coupe allongée, ces shorts de bain pour homme jouent avec le camouflage – le motif utilitaire est imprimé all-over et compose le logo, mais dans une tonalité différente. Ils sont réalisés avec un tissu indéchirable léger et déperlant, intégrant 50 % de fibres recyclées, et sèchent rapidement. Un cordon de serrage interne assure un fit réglable. Longueur extérieure : 47,5 cm / 18,7\"; Taille élastiquée avec cordon de serrage intérieur; Poches latérales et poche arrière plaquée; Œillets en métal recouverts de caoutchouc pour évacuation de l'eau; Doublure en tissu stretch recyclé",
-              "brand": "Diesel",
-              "custom_label_0": "FW 2025",
-              "custom_label_1": "PROMO",
-              "custom_label_2": "",
-              "custom_label_3": "Boardshorts",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Vert"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Boardshorts"
-              ],
-              "size": "",
-              "title": "POWEL-47.5-UTLT",
-              "link": "https://ad.doubleclick.net/ddm/clk/603579535;403901564;k;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D?https://fr.diesel.com/fr/maillots-de-bain/powel-47.5-utlt-vert/A174750HJBME5018.html?utm_source=snap_paid&utm_medium=social-paid&utm_campaign=alwayson-fr&utm_content=collection-feed&placement_id=403901564"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/9cdae630-6309-41b8-9b55-e71a21e9b5e9/220b305f-43f3-406c-a7d2-9e89659b6356.png"
             }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "401437107_FR_RTB_All_Snapchat_Snapchat_All_Man_1x1_AlwaysOn_Collection_2rd_Lal_lal-collection-man_Social_Snap_Middle_Cons_DigitalMedia-REGULAR-PEC",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "text_fields": [
-              "title",
-              "customLabel_4"
-            ]
-          },
-          "vertical": "COMMERCE"
+          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

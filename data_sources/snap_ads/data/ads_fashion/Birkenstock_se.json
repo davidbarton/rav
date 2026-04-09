@@ -1,14 +1,15 @@
 {
   "brand": "Birkenstock",
   "country": "se",
-  "fetched_at": "2026-04-08T23:42:49.991Z",
+  "fetched_at": "2026-04-09T18:11:56.482Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "25669d64-4ac4-4bad-963f-f5b2bfd7b233",
-        "name": "[p]_Conversions_GrandpaCoreSS25_Broad_SE_Story4IntroVideo",
+        "id": "497d3d17-06e6-4d3a-a139-e9462193baf7",
+        "name": "[p]_Conversions_TokioSS25_Broad_SE_Story2SingleProductBenefitsProductImage3_Tokio",
         "ad_account_name": "Birkenstock Europe GmbH Self Service",
         "status": "PAUSED",
         "creative_type": "COMPOSITE",
@@ -17,11 +18,11 @@
         "languages": [
           "en"
         ],
-        "headline": "Old Soul. New Sole.",
+        "headline": "Clean Look. New style.",
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2023-04-25T11:51:04.000Z",
-        "impressions_total": 17751,
+        "impressions_total": 24755,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -35,7 +36,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 17751,
+          "se": 24755,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -69,19 +70,21 @@
         "profile_name": "BIRKENSTOCK Europe",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "composite_preview": {
+          "preview_creative_render_type": "STATIC",
           "should_loop": true,
-          "title_headline": "Old Soul. New Sole. ",
+          "title_headline": "Your path. Your colourway.",
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "Old Soul. New Sole.",
+              "render_type": "STATIC",
+              "headline": "Your path. Your colourway.",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/yn8mzucOdPTmplL1d3rSq.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI_tBrIAFKDgoJNkgkGnl_VEslEPQDaAIiBgoCSAUSAKIBJwi6ChIaChgI0JRdIAFKDgoJL04eFGhvRT4kEPQDaAIiBgoCSAISAKIBJgh_EhoKGAjx5EMgAUoOCgkiLxYPT1A7OBkQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiKkUYgAUoOCgkjLRgQTFs-NhkQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjxpDsgAUoOCgkjMRQNPkYrKRYQ9ANoAiIGCgJIAhIAkAOEdQ%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/phe5oqTHaG08i056L7uFD.67?mo=GsoCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBOghDEiYKJAjDpjUgAUoaChU_JBBlDkcNiwEGZgRxAyYiHBUeCwoQ9ANoAiIOCgpCBgir-fG8BkgEEgCiATsIugoSJgokCLTqNyABShoKFTQWC2MKPgfGAQddBb4BBR8XFg4aCxD0A2gCIg4KCkIGCN_58bwGSAISAKIBOQh_EiUKIwj7qx4gAUoZChQlEwgzCBkFZAY3BEkEExMNDBAHBRD0A2gCIg4KCkIGCN_58bwGSAISAKIBOgiSChIlCiMImokfIAFKGQoUJhQJMwcaBmUGOANLBBUQEQwRBgYQ9ANoAiIOCgpCBgjf-fG8BkgCEgCiATkIxAoSJAoiCJToICABShgKEyYPBjkGIwV2BTYEXAIXDw0KEQcQ9ANoAiIOCgpCBgjf-fG8BkgCEgCQA5BO&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.birkenstock.com/se/skor/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2504_shoes-grandpa-core_se&utm_content=story&utm_term=prt-conversion"
+                "url": "https://www.birkenstock.com/se/models/tokio/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2501_tokio_se&utm_content=story&utm_term=prt-conversion"
               }
             }
           ]
@@ -94,22 +97,22 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "e169f299-56f6-48ce-a4e0-f3889dae1067",
-        "name": "[p]_Conversions_TimelessFavouritesSS25_Broad_SE_Story1MultiProductBenefit_Arizona/Gizeh/Boston",
+        "id": "96165db5-3949-4389-b921-8b5b032971a1",
+        "name": "[p]_Conversions_NewCollectionSummerSS25_Broad_SE_Story1Collage",
         "ad_account_name": "Birkenstock Europe GmbH Self Service",
         "status": "PAUSED",
         "creative_type": "COMPOSITE",
         "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [
-          "sv",
+          "en",
           "da"
         ],
-        "headline": "Hitta dina favoriter",
+        "headline": "Casual summer styles",
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2023-04-25T11:51:04.000Z",
-        "impressions_total": 621738,
+        "impressions_total": 42511,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -123,7 +126,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 621738,
+          "se": 42511,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -158,18 +161,19 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "composite_preview": {
           "should_loop": true,
-          "title_headline": "Hitta dina favoriter",
+          "title_headline": "Casual summer styles",
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "Hitta dina favoriter",
+              "render_type": "STATIC",
+              "headline": "Casual summer styles",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/woVFSYcw9neILR4DNB6wG.67?mo=GrACGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNAhDEiAKHgj7tAwgAUoUCg8gCwgGFAgHGAkJBxsJCQgQ9ANoAiIOCgpCBgin48y9BkgEEgCiATUIugoSIAoeCOKjDSABShQKDywICAYVCAcdCQcHIAcIBxD0A2gCIg4KCkIGCLvjzL0GSAMSAKIBNAh_EiAKHgj-lQkgAUoUCg8aCAcGDAcFDQgIBRIIBwUQ9ANoAiIOCgpCBgi848y9BkgCEgCiATUIkgoSIAoeCJ26CSABShQKDxoICAYMBwUPCAgGEQcIBxD0A2gCIg4KCkIGCLvjzL0GSAISAKIBNQjEChIgCh4I9ZQIIAFKFAoPGwUFBQ0FBA0GBQQVBQYEEPQDaAIiDgoKQgYIvOPMvQZIAhIAkAPAPg%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oGOxqDV4F3OGufTh4PTYP.67?mo=GusBGggyAgR9UA9gAVoIQWRzTWVkaWGiAScIQxIbChkIoucuIAFKDwoKhAEWEhMPDwtHIBD0A2gCIgYKAkgCEgCiASgIugoSGwoZCJmeMiABSg8KCocCDBAOEA0JURwQ9ANoAiIGCgJIAxIAogEmCH8SGgoYCPvPHyABSg4KCWUODxALCggvGBD0A2gCIgYKAkgCEgCiAScIkgoSGgoYCIDMHyABSg4KCWEODw0MDAktGRD0A2gCIgYKAkgCEgCiASgIxAoSGwoZCLbHHyABSg8KCpUBCgsMCwkGMRMQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.birkenstock.com/se/campaign/tidlosa-favoriter/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2502_timeless-favourites_se&utm_content=story&utm_term=prt-conversion"
+                "url": "https://www.birkenstock.com/se/ny-kollektion/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2505_new-collection_se&utm_content=story&utm_term=prt-conversion"
               }
             }
           ]
@@ -182,445 +186,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "626b89ef-ff07-4ac8-940d-f40bbeafff19",
-        "name": "[p]_Conversions_GrandpaCore2.0SS26_Broad_SE_Collage_Benefits_SnapAd_Batch1_London/Uppsala/Maine",
-        "ad_account_name": "Birkenstock Europe GmbH Self Service",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "de",
-          "sv"
-        ],
-        "headline": "Överlägsna sedan gammalt.",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-02-12T08:00:48.000Z",
-        "impressions_total": 771076,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 771076,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Birkenstock Digital GmbH",
-        "profile_name": "BIRKENSTOCK Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Överlägsna sedan gammalt.",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Överlägsna sedan gammalt.",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UNHoJ5tEaLB26mTwFXd2J.67?mo=Gv0BGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCOPRKiABMOADONQGQAFKDgoJTBEMRBUSD08YEPQDUJpOaAJ1PNJ1QCICEgCiATMIugoSKgooCPyAMiABMNAFOIAKQAJKDgoJZw4QUBIND3AVEPQDUJpOaAJ18niFQCICEgCiATgIkgoSLwotCNjvHCABMOADONQGQAJKDgoJMwwLKBEODigUEPQDUJpOaAJ1fB9qQH0AAIA_IgISAKIBOAjSChIvCi0I0IcgIAEw4AM41AZAAkoOCglBCQo2DAkLOg4Q9ANQmk5oAnUiRX5AfQAAgD8iAhIAkAOaTg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.birkenstock.com/se/skokollektion/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2602_shoes-grandpa-core_se&utm_content=story&utm_term=prt-conversion"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "654ee53e-8308-4a4d-9b34-5ef0dbf2e458",
-        "name": "[p]_Conversions_BlackFridayAW25_Broad_SE_Story1SaleV0",
-        "ad_account_name": "Birkenstock Europe GmbH Self Service",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Spara upp till 30 % nu",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2023-04-25T11:51:04.000Z",
-        "impressions_total": 1746,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 1746,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Birkenstock Digital GmbH",
-        "profile_name": "BIRKENSTOCK Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Spara upp till 30 % nu",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Spara upp till 30 % nu",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/yxfTU4y1wrHxnjOaQWvpL.67?mo=GowCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjNtA4gATDgAzjUBkABSg4KCXEJBQkPAwQFAxD0A1CQTmgCdYIJfkAiBgoCSAQSAKIBOAi6ChIrCikIn4UVIAEw0AU4gApAAkoPCgq2AQgGBxQFBQYEEPQDUJBOaAJ14OaBQCIGCgJIAxIAogE8CJIKEi8KLQjk-QkgATDgAzjUBkACSg4KCT0IBQUKAwQECxD0A1CQTmgCdRk8eUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiw-wwgATDgAzjUBkACSg4KCXYGBAQKAwMEAhD0A1CQTmgCdXxPfkB9AACAPyIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.birkenstock.com/se/sale/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2511_cyberweek_se&utm_content=story&utm_term=prt-conversion"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "cac5661f-9d61-47cd-a7e5-a7ccc37783a0",
-        "name": "[p]_Conversions_TrendColoursSS25_Broad_SE_Story1Slideshow-LightRose",
-        "ad_account_name": "Birkenstock Europe GmbH Self Service",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Light-hearted. Light Rose.",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2023-04-25T11:51:04.000Z",
-        "impressions_total": 51122,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 51122,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Birkenstock Digital GmbH",
-        "profile_name": "BIRKENSTOCK Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Light-hearted. Light Rose.",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Light-hearted. Light Rose.",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/C7F502ehvpw2Jphp5Y50a.67?mo=GpICGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLghDEhoKGAiJow8gAUoOCgkmNAwKDAsMCwoQ9ANoAiIOCgpCBgicvI-_BkgEEgCiAS8IugoSGgoYCPDNDCABSg4KCSQ0CAkHBwgHBxD0A2gCIg4KCkIGCJu8j78GSAISAKIBLgh_EhoKGAiMtAYgAUoOCgkTDwYFBwUFBgUQ9ANoAiIOCgpCBgibvI-_BkgCEgCiAS8IkgoSGgoYCJPeBiABSg4KCRQNBggGBgYGBhD0A2gCIg4KCkIGCJu8j78GSAISAKIBLwjEChIaChgI1-MHIAFKDgoJGB4FBwUFBQUEEPQDaAIiDgoKQgYIm7yPvwZIAhIAkAPYNg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.birkenstock.com/se/campaign/trendfarger/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2503_trend-lightrose_se&utm_content=story&utm_term=prt-conversion"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "af87a74b-fd9e-4eb9-aaca-4855925acf33",
-        "name": "[p]_Conversions_SneakersSS25_Broad_SE_Story4SlideshowImage1_Honnef",
-        "ad_account_name": "Birkenstock Europe GmbH Self Service",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "da"
-        ],
-        "headline": "Ny sneakers-kollektion",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2023-04-25T11:51:04.000Z",
-        "impressions_total": 10461,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 10461,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Birkenstock Digital GmbH",
-        "profile_name": "BIRKENSTOCK Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Ny sneakers-kollektion",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Ny sneakers-kollektion",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/aojOoR9aKFWER74fVpsWR.67?mo=Gs4CGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBOghDEiYKJAiHrzMgAUoaChVVBGEGA2kEA38GBYEBAwN1BQRtBAMQ9ANoAiIOCgpCBgiU5ae9BkgDEgCiAT8IugoSKgooCP7iUSABSh4KGZkBBXwJBaYBBQW9AQoI1gEEBr4BCAe_AQYQ9ANoAiIOCgpCBgjO5ae9BkgDEgCiATkIfxIlCiMIragkIAFKGQoUQwQiHQRKBARbBgZhBANJCAYxDwMQ9ANoAiIOCgpCBgjO5ae9BkgCEgCiAToIkgoSJQojCN-WJCABShkKFEAEOwcERgQEVQcGXgQESwcGPAsEEPQDaAIiDgoKQgYIzuWnvQZIAhIAogE5CMQKEiQKIgiVoi8gAUoYChNXBEsHA2QDA3QGBnYDA2gFBWcDEPQDaAIiDgoKQgYIzuWnvQZIAhIAkAOQTg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.birkenstock.com/se/skor/sneakers/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2502_sneaker_se&utm_content=story&utm_term=prt-conversion"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "cf2c9fbf-d092-4354-a6f3-599cf35dcd3d",
-        "name": "[p]_Conversions_PapillioSS25_Broad_SE_Story3Creator1_Almina/Arizona/Boston",
-        "ad_account_name": "Birkenstock Europe GmbH Self Service",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv",
-          "en"
-        ],
-        "headline": "Spontana sommarmodeller",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2023-04-25T11:51:04.000Z",
-        "impressions_total": 512735,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 512735,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Birkenstock Digital GmbH",
-        "profile_name": "BIRKENSTOCK Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Spontana sommarmodeller",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Spontana sommarmodeller",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NPHpEvmCfM5ky4mnBw1ct.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIibRLIAFKDgoJVxkrOTQYHCY8EPQDaAIiBgoCSAQSAKIBJwi6ChIaChgI_eI2IAFKDgoJQxMfMB0RFCMpEPQDaAIiBgoCSAISAKIBJgh_EhoKGAjepSkgAUoOCgk5DxgbHQ0MFiEQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiMuCsgAUoOCgk6EhkeHQ8OFSMQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAicnSUgAUoOCgk0DBUfEwoNGBsQ9ANoAiIGCgJIAhIAkAP4Xw%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.birkenstock.com/se/sandaler/papillio/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2504_papillio_se&utm_content=story&utm_term=prt-conversion"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "51add083-84ae-44f4-9bb3-f2d3a4701876",
-        "name": "[p]_Conversions_PapillioAW25_Broad_SE_Story2Slideshow_Arizona/Boston/Almina/Florida",
+        "id": "809f2959-cca6-4f19-9a1e-1f139651b7ab",
+        "name": "[p]_Conversions_NewCollectionAutumnAW25_Broad_SE_Story2Collage_BendLow/ParisChunky/Arizona",
         "ad_account_name": "Birkenstock Europe GmbH Self Service",
         "status": "PAUSED",
         "creative_type": "COMPOSITE",
@@ -628,13 +195,13 @@
         "ad_render_type": "STATIC",
         "languages": [
           "no",
-          "en"
+          "sv"
         ],
-        "headline": "Stick ut med din stil.",
+        "headline": "Välkommen höst!",
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2023-04-25T11:51:04.000Z",
-        "impressions_total": 95269,
+        "impressions_total": 168413,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -648,7 +215,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 95269,
+          "se": 168413,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -683,18 +250,443 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "composite_preview": {
           "should_loop": true,
-          "title_headline": "Stick ut med din stil.",
+          "title_headline": "Välkommen höst!",
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "Stick ut med din stil.",
+              "render_type": "STATIC",
+              "headline": "Välkommen höst!",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9HDmjftzpOVLmXjkMZVz7.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIuI4tIAEw4AM41AZAAUoOCgkzD0MbHBU1FRUQ9ANQkE5oAiIGCgJIAhIAogEyCLoKEiUKIwiC2CggATDQBTiACkACSg4KCTQKUBcSMQ0QERD0A1CQTmgCIgYKAkgDEgCiATEIfxIlCiMI3cYaIAEw4AM41AZAAkoOCgkhBykVDwodDgwQ9ANQkE5oAiIGCgJIAhIAogEyCJIKEiUKIwjB_RogATDgAzjUBkACSg4KCSEJJxIRDB4ODRD0A1CQTmgCIgYKAkgCEgCiATIIxAoSJQojCL2wGiABMOADONYGQAJKDgoJIgcvDwweCgsOEPQDUJBOaAIiBgoCSAISAKIBMgjSChIlCiMI_5cbIAEw4AM41AZAAkoOCgkjBy4PDh8LDQ8Q9ANQkE5oAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FyK1FOFbKMCitIcxkNu1g.67?mo=Gr8CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwiVjjggATDgAzjUBkABSg4KCWgcGBoVXQwOCxD0A1DIZWgCIgISAKIBLwi6ChImCiQI9OI0IAEw0AU4gApAAkoPCgqtARAfFRhyCgsLEPQDUMhlaAIiAhIAogEtCH8SJQojCMzFJCABMOADONQGQAJKDgoJThAWEw80BwkGEPQDUMhlaAIiAhIAogEuCJIKEiUKIwjgxiQgATDgAzjUBkACSg4KCUsQFhMQMQgJCBD0A1DIZWgCIgISAKIBLgjEChIlCiMIs-4gIAEw4AM41gZAAkoOCglTCxIQEEEIBwcQ9ANQyGVoAiICEgCiAS4I0goSJQojCM_MICABMOADONQGQAJKDgoJWgsUDxBHCAgJEPQDUMhlaAIiAhIAkAPIZQ%3D%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.birkenstock.com/se/sandaler/papillio/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2507_papillio_se&utm_content=story&utm_term=prt-conversion"
+                "url": "https://www.birkenstock.com/se/ny-kollektion/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2509_new-autumn-collection_se&utm_content=story&utm_term=prt-conversion"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1096c3db-0d04-4f87-847e-1c52ea3f5366",
+        "name": "[p]_Conversions_NewCollectionSpringSS25_Broad_SE_Story1Collage_Honnef/Tracy/Arizona",
+        "ad_account_name": "Birkenstock Europe GmbH Self Service",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Step out in style",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2023-04-25T11:51:04.000Z",
+        "impressions_total": 17079,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 17079,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Birkenstock Digital GmbH",
+        "profile_name": "BIRKENSTOCK Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Step out in style",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Step out in style",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/34dWAYVxSOn4dWVX9Y9XY.67?mo=GswCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBOghDEiYKJAjotEIgAUoaChWYATdBLC8jIXwlIh4YXywlNTAuHx0Q9ANoAiIOCgpCBgi29tG9BkgEEgCiATwIugoSJwolCNviPiABShsKFsYBNjEjJhkanwEPFxcPfh4bIickHBkQ9ANoAiIOCgpCBgjB99G9BkgDEgCiATkIfxIlCiMI2PQvIAFKGQoUeC4oIRkcFloiJBkWOx8XIxwiFQ8Q9ANoAiIOCgpCBgjB99G9BkgCEgCiAToIkgoSJQojCKr4LyABShkKFHYrLyAhGhdUHyEaGDkcGiIaIBwQEPQDaAIiDgoKQgYIwffRvQZIAhIAogE6CMQKEiUKIwjs_CsgAUoZChR8IiMaGxISahIXFQ5PGBUaHRsUDhD0A2gCIg4KCkIGCMH30b0GSAISAJADmk4%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.birkenstock.com/se/ny-kollektion/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2502_new-collection_se&utm_content=story&utm_term=prt-conversion"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "bd50998c-9afc-45f2-9318-9a164617b745",
+        "name": "[p]_Conversions_Broad_BootsAW24_SE_Story1SingleProductBenefits1_BirminghamLaceRoast",
+        "ad_account_name": "Birkenstock Europe GmbH Self Service",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Pretty premium",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2023-04-25T11:51:04.000Z",
+        "impressions_total": 134670,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 134670,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Birkenstock Digital GmbH",
+        "profile_name": "BIRKENSTOCK Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Pretty premium",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Pretty premium",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BBo1XyVmSYOCh3cG6ZDyQ.67?mo=GrcCGg4aABoAMgEEOgF9UA9gAVoIQWRzTWVkaWGiATUIQxIhCh8gAUoZChQ_MCkmIigtKBoqFxBLPh4wFBkWDhD0A2gCIg4KCkIGCOj8o7gGSAQSAKIBNQi6ChIgCh4gAUoYChM7JCEgIyEfJRckFA84Nh4kFBIUEPQDaAIiDgoKQgYIkf2juAZIAxIAogE1CH8SIQofIAFKGQoUKhscFxYaIBcaDgwILiYUGQwPDQcQ9ANoAiIOCgpCBgiR_aO4BkgCEgCiATYIkgoSIQofIAFKGQoULBodGBgcHRwQGA4JMSQTGw0PDAkQ9ANoAiIOCgpCBgiR_aO4BkgCEgCiATUIxAoSIAoeIAFKGAoTKhoWFhYWFBgPGA4IJyASGQ0LDRD0A2gCIg4KCkIGCJH9o7gGSAISAJADkE4%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.birkenstock.com/se/campaign/boots/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2410_boots_se&utm_content=story&utm_term=prt-conversion"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "dbe37a1d-37e3-414f-aa48-3c61b22cdc4f",
+        "name": "[p]_Conversions_BostonTEXAW25_Broad_SE_Story1ClothingPiles1",
+        "ad_account_name": "Birkenstock Europe GmbH Self Service",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv",
+          "en"
+        ],
+        "headline": "Alltid rätt: Boston Textile.",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2023-04-25T11:51:04.000Z",
+        "impressions_total": 497638,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 497638,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Birkenstock Digital GmbH",
+        "profile_name": "BIRKENSTOCK Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Alltid rätt: Boston Textile. ",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Alltid rätt: Boston Textile.",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/54MnZpDuEYSrCwDrn7C8d.67?mo=Go4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigIttoQIAEw4AM41AZAAUoOCgkkFAsrBwcODhcQ9ANQ4jZoAnXW1n1AIgYKAkgEEgCiATwIugoSLwotCIjCDSABMNAFOIAKQAJKDgoJIRILFgUHDQwaEPQDUOI2aAJ1HaiEQH0AAIA_IgYKAkgCEgCiATwIkgoSLwotCM6-CCABMOADONQGQAJKDgoJGQwFDAQGCQoNEPQDUOI2aAJ1YM5kQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCI28CSABMOADONQGQAJKDgoJHQ0IDAMECAkQEPQDUOI2aAJ1rhN1QH0AAIA_IgYKAkgCEgCQA-I2&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.birkenstock.com/se/models/boston/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2510_boston-tex_se&utm_content=story&utm_term=prt-conversion"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "30c23adc-02e4-4ee6-9790-6a229d1adfbd",
+        "name": "[p]_Conversions_SneakerSS26_Broad_SE_StaticBenefit1_Functional_SnapAd_Batch1_HonnefCity",
+        "ad_account_name": "Birkenstock Europe GmbH Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Deep Blue Footbed",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/27rYhBpSQvq37FpUQHL6M.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-02-12T08:00:48.000Z",
+        "impressions_total": 11327,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 11327,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Birkenstock Digital GmbH",
+        "profile_name": "BIRKENSTOCK Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.birkenstock.com/se/skor/sneakers/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2603_sneaker_se&utm_content=video&utm_term=prt-conversion"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4d66f456-7eed-4fbd-96ac-77d8d0ea2ad7",
+        "name": "[p]_Conversions_NewCollectionAutumnAW25_Broad_SE_Story4NewnessBenefits1_SantaClarita",
+        "ad_account_name": "Birkenstock Europe GmbH Self Service",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "headline": "Fransk flärd.",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2023-04-25T11:51:04.000Z",
+        "impressions_total": 151605,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 151605,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Birkenstock Digital GmbH",
+        "profile_name": "BIRKENSTOCK Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Fransk flärd.",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Fransk flärd.",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/7No9FU3lPAywqH7LTtl0X.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIl-Q9IAEw4AM41AZAAUoOCgkyFRMQDiglJyYQ9ANQoGpoAiIGCgJIAxIAogEyCLoKEiUKIwjV6iogATDQBTiACkACSg4KCS0PDwoMJhQgHRD0A1CgamgCIgYKAkgDEgCiATEIfxIlCiMInbYeIAEw4AM41AZAAkoOCgkfDwoGCBQTFhAQ9ANQoGpoAiIGCgJIAhIAogEyCJIKEiUKIwiDsyAgATDgAzjUBkACSg4KCR8ODAcIFhYVEhD0A1CgamgCIgYKAkgCEgCiATIIxAoSJQojCJWvGyABMOADONYGQAJKDgoJIwoJBwcYDRQSEPQDUKBqaAIiBgoCSAISAKIBMgjSChIlCiMIiYQcIAEw4AM41AZAAkoOCgkkCgsGBxkNFRMQ9ANQoGpoAiIGCgJIAhIAkAOgag%3D%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.birkenstock.com/se/ny-kollektion/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2509_new-autumn-collection_se&utm_content=story&utm_term=prt-conversion"
               }
             }
           ]
@@ -796,8 +788,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "41e559b3-852f-490b-a296-e0c8274758b9",
-        "name": "[p]_Conversions_SeasonOfGiftingAW25_Broad_SE_Story3Slideshow2_Refresh1",
+        "id": "1649a887-9baf-46ea-aa98-bfbeb9174cf4",
+        "name": "[p]_Conversions_ElegantBucklesSS25-BigBuckle_Broad_SE_Story3SocialVideo",
         "ad_account_name": "Birkenstock Europe GmbH Self Service",
         "status": "PAUSED",
         "creative_type": "COMPOSITE",
@@ -805,13 +797,13 @@
         "ad_render_type": "STATIC",
         "languages": [
           "sv",
-          "en"
+          "da"
         ],
-        "headline": "Modeller med tidlös charm",
+        "headline": "Känn dragningskraften",
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2023-04-25T11:51:04.000Z",
-        "impressions_total": 33137,
+        "impressions_total": 164338,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -825,7 +817,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 33137,
+          "se": 164338,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -860,18 +852,18 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ1ZmQUJEcldqOHhVdlR0Z2FLdGZEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "composite_preview": {
           "should_loop": true,
-          "title_headline": "Modeller med tidlös charm",
+          "title_headline": "Känn dragningskraften",
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "Modeller med tidlös charm",
+              "headline": "Känn dragningskraften",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/7z0U6vqn5osYVhZTMIt1f.67?mo=GpYCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgidmyEgATDgAzjUBkABShAKC3KCAQMDiAEEA30EEPQDUPouaAJ1rqeDQCIGCgJIBBIAogE_CLoKEjIKMAjRmi0gATDQBTiACkACShEKDMUByAEGBsABCAZTChD0A1D6LmgCda84iEB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQjj4RQgATDgAzjUBkACSg4KCVdNBARSBQMmFBD0A1D6LmgCdewxgEB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgj4tR8gATDgAzjUBkACSg8KCoUBdQMDfgMEZgMQ9ANQ-i5oAnU9EIRAfQAAgD8iBgoCSAISAJAD-i4%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/jRQojTpen5d71TUwmtrIE.67?mo=GsQCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBOAhDEiQKIgifxTQgAUoYChNRICIpOyQmIUMmJSM4KCgyJyMgEPQDaAIiDgoKQgYIwJXmvgZIAhIAogE5CLoKEiQKIgjV9yQgAUoYChM9FRscJxgZGCUbHBkqHyIaIBsXEPQDaAIiDgoKQgYIpJbmvgZIAxIAogE4CH8SJAoiCJDCHSABShgKEzAQFxkaExUWHBgVFx0WFx4VGBAQ9ANoAiIOCgpCBgiklua-BkgCEgCiATkIkgoSJAoiCKayHiABShgKEy0VFhwaExYXHBgVGR0YFx4WGhIQ9ANoAiIOCgpCBgiklua-BkgCEgCiATkIxAoSJAoiCO2sGiABShgKEy4PEhQbERIQHxIUER4UFxQXFBAQ9ANoAiIOCgpCBgiklua-BkgCEgCQA_xN&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.birkenstock.com/se/presenttips/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2512_season-of-gifting_se&utm_content=story&utm_term=prt-conversion"
+                "url": "https://www.birkenstock.com/se/campaign/time-to-shine/?utm_source=snapchat&utm_medium=cpm&utm_campaign=2503_elegant-buckles-big-buckle_se&utm_content=story&utm_term=prt-conversion"
               }
             }
           ]

@@ -1,236 +1,14 @@
 {
   "brand": "Rituals",
   "country": "se",
-  "fetched_at": "2026-04-09T01:57:45.290Z",
+  "fetched_at": "2026-04-09T21:54:03.849Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "3e51d013-eaa8-4f24-a717-1a70c8acd6c4",
-        "name": "Seshen_Video_Conversion_BodyScrub",
-        "ad_account_name": "Rituals Cosmetics Enterprise B.V.",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "headline": "En fräschare hud",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8DiIRDrkBZ5PA0slBCiYy.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjR5BIgATDgAzjUBkABSg4KCTMTEAsODQsMDBD0A1CeS2gCdSfcW0B9AACAPyIGCgJIBBIAogE8CLoKEi8KLQi57hEgATDQBTiACkACSg4KCTsQEA4NCw4NDBD0A1CeS2gCdW9paUB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQip0w0gATDgAzjUBkACSg4KCSMNDAkKCwkJCRD0A1CeS2gCdSnXTkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiupA0gATDgAzjUBkACSg4KCS0MDQoLCAoJCRD0A1CeS2gCdWgAZEB9AACAPyIGCgJIAhIAkAOeSw%3D%3D&uc=15",
-        "start_date": "2026-03-02T17:50:00.000Z",
-        "impressions_total": 65129,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 65129,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Rituals Cosmetics E-Commerce B.V.",
-        "profile_name": "Rituals Cosmetics",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZUt2S0R2STRxTVFEQWczSFk3dEdUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://www.rituals.com/sv-se/the-ritual-of-seshen-body-scrub-1120572.html?utm_source=snapchat&utm_medium=paidsocial&utm_campaign=summerlimited-regular&utm_phase=conversion&utm_id=5_0_1_6_4_935"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "70145705-3b6f-4668-ba67-3a33278d6c01",
-        "name": "Seshen_Video_Awareness_FloatingCandle",
-        "ad_account_name": "Rituals Cosmetics Enterprise B.V.",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "headline": "Koppla av i badet",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QasX91YC36j6FZ73GvOTF.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjM7x0gATDgAzjUBkABSg4KCTwdEhIfHB02IxD0A1DOO2gCdV7WNUAiBgoCSAQSAKIBPAi6ChIvCi0I6MwYIAEw0AU4gApAAkoOCgk0EhUPHhYXIRkQ9ANQzjtoAnUEdDxAfQAAgD8iBgoCSAISAKIBPAiSChIvCi0I7YISIAEw4AM41AZAAkoOCgknEQ8NEhESGxQQ9ANQzjtoAnVcSCpAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IyJ4RIAEw4AM41AZAAkoOCgkpDA8KFQ4PHA4Q9ANQzjtoAnUZ0DZAfQAAgD8iBgoCSAISAJADzjs%3D&uc=15",
-        "start_date": "2026-03-02T17:50:00.000Z",
-        "impressions_total": 144762,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 144762,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Rituals Cosmetics E-Commerce B.V.",
-        "profile_name": "Rituals Cosmetics",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZUt2S0R2STRxTVFEQWczSFk3dEdUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://www.rituals.com/sv-se/collection/seshen?utm_source=snapchat&utm_medium=paidsocial&utm_campaign=summerlimited-regular&utm_phase=awareness&utm_id=5_0_1_6_1_60"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f9274df4-a789-44fc-b647-926bf0a9657c",
-        "name": "Seshen_Video_Awareness_FloatingCandle",
-        "ad_account_name": "Rituals Cosmetics Enterprise B.V.",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "headline": "Koppla av i badet",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Snh2KboRnzVC1DFGKt5Uq.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjgrR4gATDgAzjUBkABSg4KCTwdEhIeHR02IxD0A1DOO2gCdYScNUAiBgoCSAQSAKIBNwi6ChIqCigI1NEYIAEw0AU4gApAAkoOCgk0ExUOHhcWIhkQ9ANQzjtoAnUN-DtAIgYKAkgDEgCiATwIkgoSLwotCL-MEiABMOADONQGQAJKDgoJJxEPDBMTERoVEPQDUM47aAJ1_X4nQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCLmiESABMOADONQGQAJKDgoJKQwPChUODxwOEPQDUM47aAJ1Kcs3QH0AAIA_IgYKAkgCEgCQA847&uc=15",
-        "start_date": "2026-03-02T17:50:00.000Z",
-        "impressions_total": 72462,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 72462,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Rituals Cosmetics E-Commerce B.V.",
-        "profile_name": "Rituals Cosmetics",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZUt2S0R2STRxTVFEQWczSFk3dEdUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://www.rituals.com/sv-se/collection/seshen?utm_source=snapchat&utm_medium=paidsocial&utm_campaign=summerlimited-regular&utm_phase=awareness&utm_id=5_0_1_6_1_60"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "cd3dd4d7-74dd-478a-975c-7416937646ce",
+        "id": "3c847852-8b4d-4c6e-bbf0-5acc0d12992a",
         "name": "Seshen_Video_Conversion_AllHeroes",
         "ad_account_name": "Rituals Cosmetics Enterprise B.V.",
         "status": "ACTIVE",
@@ -246,7 +24,7 @@
         "top_snap_crop_position": "MIDDLE",
         "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LGc80Gt5j9vdFPWmkey1Z.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi54RQgATDgAzjUBkABSg4KCT0UDQsICQgIBhD0A1CWW2gCdTMXW0AiBgoCSAQSAKIBNwi6ChIqCigI9PQXIAEw0AU4gApAAkoOCglfEhELDAkLCgkQ9ANQlltoAnUo22xAIgYKAkgDEgCiATwIkgoSLwotCMmjDiABMOADONQGQAJKDgoJLBANCAcJBwYGEPQDUJZbaAJ1uE9KQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCPWRECABMOADONQGQAJKDgoJRQ0MCQgGCAYGEPQDUJZbaAJ1Mr5bQH0AAIA_IgYKAkgCEgCQA5Zb&uc=15",
         "start_date": "2026-03-02T17:50:00.000Z",
-        "impressions_total": 66737,
+        "impressions_total": 98968,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -260,7 +38,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 66737,
+          "se": 98968,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -305,7 +83,7 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "481f4191-6fc2-4235-ba0d-eef9d503388b",
+        "id": "27468a87-6e28-44fa-9e90-fd0d1d44dbc0",
         "name": "Seshen_Video_Awareness_GiftSet",
         "ad_account_name": "Rituals Cosmetics Enterprise B.V.",
         "status": "ACTIVE",
@@ -319,9 +97,9 @@
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MnR2bw4LdHOZoChOhhSnk.67?mo=GocCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE3CEMSLwotCPnTJSABMOADONQGQAFKDgoJLxANKBorDBkZEPQDUJZbaAJ19HFPQH0AAIA_IgISAKIBOAi6ChIvCi0Io5EeIAEw0AU4gApAAkoOCgkuCwobFhsKEhUQ9ANQlltoAnU-c15AfQAAgD8iAhIAogE4CJIKEi8KLQiY7xUgATDgAzjUBkACSg4KCSMICBcOFgcMEBD0A1CWW2gCdabQQ0B9AACAPyICEgCiATgI0goSLwotCIGbFSABMOADONQGQAJKDgoJIggHGBATBg0OEPQDUJZbaAJ17ERUQH0AAIA_IgISAJADlls%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/prXnNrLc25LKvYuQ2itxn.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjNzCUgATDgAzjUBkABSg4KCS4RDScbKgwaGBD0A1CWW2gCdX6xTUAiBgoCSAISAKIBNwi6ChIqCigI4I8eIAEw0AU4gApAAkoOCgkuCwobFhsKEhUQ9ANQlltoAnWHwV5AIgYKAkgDEgCiATwIkgoSLwotCIHuFSABMOADONQGQAJKDgoJIwgIFg8VCAwQEPQDUJZbaAJ1znpBQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCOGXFSABMOADONQGQAJKDgoJIggHGBASBw0OEPQDUJZbaAJ1FkFRQH0AAIA_IgYKAkgCEgCQA5Zb&uc=15",
         "start_date": "2026-03-02T17:50:00.000Z",
-        "impressions_total": 261667,
+        "impressions_total": 81137,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -335,7 +113,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 261667,
+          "se": 81137,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -379,8 +157,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "96a9a88d-540f-405b-a9f9-d6adb338db80",
-        "name": "Seshen_Video_Awareness_BodyScrub",
+        "id": "7635fd2c-87e0-4cac-b9f9-2b6ef1b77af9",
+        "name": "Seshen_Video_Awareness_HBMist",
         "ad_account_name": "Rituals Cosmetics Enterprise B.V.",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -389,13 +167,13 @@
         "languages": [
           "sv"
         ],
-        "headline": "Fräscha upp din sommarhud",
+        "headline": "Härligt fräsch spray",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4e5scfcmuBijmSYUTZc2M.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiCrScgATDgAzjUBkABSg4KCT4aGBodERAfEhD0A1DgXWgCdcBzXEAiBgoCSAISAKIBNwi6ChIqCigIxOofIAEw0AU4gApAAkoOCgkwFBEUGg8NGw4Q9ANQ4F1oAnV3RmNAIgYKAkgDEgCiATwIkgoSLwotCPm1FyABMOADONQGQAJKDgoJKA0RDBMKCQ4KEPQDUOBdaAJ1zh9DQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCLr4FSABMOADONQGQAJKDgoJJQ0MDBoICQwJEPQDUOBdaAJ1kx1YQH0AAIA_IgYKAkgCEgCQA-Bd&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qog8lOWVv8Fn4OZihWgO3.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQixlC4gATDgAzjUBkABSg4KCSwRDB0UFR4cJxD0A1DCXWgCdRGUSUB9AACAPyIGCgJIAxIAogE8CLoKEi8KLQjIxSUgATDQBTiACkACSg4KCS8NDBwTEBYVHxD0A1DCXWgCdQZwUkB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQip5RsgATDgAzjUBkACSg4KCSEKCRIPDRAOERD0A1DCXWgCdUQ4MkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjwixogATDgAzjUBkACSg4KCSMJCRMNCg8OFBD0A1DCXWgCdWa1S0B9AACAPyIGCgJIAhIAkAPCXQ%3D%3D&uc=15",
         "start_date": "2026-03-02T17:50:00.000Z",
-        "impressions_total": 115145,
+        "impressions_total": 211028,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -409,7 +187,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 115145,
+          "se": 211028,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -453,8 +231,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "35fa8e0f-0f72-40de-ab0f-af8153a1fcc8",
-        "name": "Seshen_Video_UCG_JellyArtist",
+        "id": "58e696e8-396b-4c4d-876d-23119e7efff9",
+        "name": "Seshen_Video_Awareness_BodyMilk",
         "ad_account_name": "Rituals Cosmetics Enterprise B.V.",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -463,13 +241,13 @@
         "languages": [
           "sv"
         ],
-        "headline": "Mjuk, len och lugnad",
+        "headline": "Fjäderlätt återfuktning 🪶",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qdBho7RQRIyVN0EzewpWQ.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAj1wTYgATDgAzjUBkABSg4KCWAlOEofIRYXHBD0A1DgXWgCdXm5XUAiBgoCSAQSAKIBNwi6ChIqCigIu6IsIAEw0AU4gApAAkoOCglSIC5DGhcQExcQ9ANQ4F1oAnUn-mdAIgYKAkgDEgCiATwIkgoSLwotCILQISABMOADONQGQAJKDgoJRRkiLxQRDQ4PEPQDUOBdaAJ1_ulNQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCNPGHSABMOADONQGQAJKDgoJORYfLRMQDAwQEPQDUOBdaAJ1ihZaQH0AAIA_IgYKAkgCEgCQA-Bd&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9QVZtbWeD6G8skPqCKt94.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQj1yhsgATDgAzjUBkABSg4KCTgYExUPFw4fDhD0A1CWW2gCdXeFSEB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQi2_xYgATDQBTiACkACSg4KCTkQERASDgoYDRD0A1CWW2gCdbYtVkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjH_xAgATDgAzjUBkACSg4KCSYPDQwLDgoPCxD0A1CWW2gCdf-hN0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiPkhAgATDgAzjUBkACSg4KCSoKDAwMCggRCRD0A1CWW2gCdQwtTUB9AACAPyIGCgJIAhIAkAOWWw%3D%3D&uc=15",
         "start_date": "2026-03-02T17:50:00.000Z",
-        "impressions_total": 732,
+        "impressions_total": 279521,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -483,7 +261,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 732,
+          "se": 279521,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -507,7 +285,6 @@
               "min_age": "18",
               "age_groups": [],
               "languages": [],
-              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -518,7 +295,7 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZUt2S0R2STRxTVFEQWczSFk3dEdUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://www.rituals.com/sv-se/the-ritual-of-seshen---large-gift-set-1120727.html?utm_source=snapchat&utm_medium=paidsocial&utm_campaign=summerlimited-regular&utm_phase=conversion&utm_id=5_0_1_6_4_935"
+          "url": "https://www.rituals.com/sv-se/collection/seshen?utm_source=snapchat&utm_medium=paidsocial&utm_campaign=summerlimited-regular&utm_phase=awareness&utm_id=5_0_1_6_1_60"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -528,8 +305,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "a35e612a-29ea-48aa-aa04-b717941b00c0",
-        "name": "Seshen_Video_Conversion_HBMist",
+        "id": "670026be-d680-40db-ba9b-e117b420c09f",
+        "name": "Seshen_Video_Awareness_GiftSet",
         "ad_account_name": "Rituals Cosmetics Enterprise B.V.",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -538,13 +315,13 @@
         "languages": [
           "sv"
         ],
-        "headline": "Styr upp håret – och dagen",
+        "headline": "Din nya rutin i en ask",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RPMkFVHaT7ol2l0bySAXq.67?mo=GoICGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCPmcGyABMOADONQGQAFKDgoJORYTDxAPDw0MEPQDUJZbaAJ1sySBQCICEgCiATgIugoSLwotCIOLGiABMNAFOIAKQAJKDgoJSxEQEBAMDw0OEPQDUJZbaAJ1sKWFQH0AAIA_IgISAKIBOAiSChIvCi0I6eMRIAEw4AM41AZAAkoOCgkqDQwNCgwKCwoQ9ANQlltoAnV0nm5AfQAAgD8iAhIAogE4CNIKEi8KLQiHsxIgATDgAzjUBkACSg4KCTcMDQwLCQoKChD0A1CWW2gCdfWrgEB9AACAPyICEgCQA5Zb&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/prXnNrLc25LKvYuQ2itxn.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjNzCUgATDgAzjUBkABSg4KCS4RDScbKgwaGBD0A1CWW2gCdX6xTUAiBgoCSAISAKIBNwi6ChIqCigI4I8eIAEw0AU4gApAAkoOCgkuCwobFhsKEhUQ9ANQlltoAnWHwV5AIgYKAkgDEgCiATwIkgoSLwotCIHuFSABMOADONQGQAJKDgoJIwgIFg8VCAwQEPQDUJZbaAJ1znpBQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCOGXFSABMOADONQGQAJKDgoJIggHGBASBw0OEPQDUJZbaAJ1FkFRQH0AAIA_IgYKAkgCEgCQA5Zb&uc=15",
         "start_date": "2026-03-02T17:50:00.000Z",
-        "impressions_total": 154483,
+        "impressions_total": 84531,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -558,7 +335,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 154483,
+          "se": 84531,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -582,7 +359,6 @@
               "min_age": "18",
               "age_groups": [],
               "languages": [],
-              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -593,7 +369,160 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZUt2S0R2STRxTVFEQWczSFk3dEdUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://www.rituals.com/sv-se/the-ritual-of-seshen-body-gel-1120570.html?utm_source=snapchat&utm_medium=paidsocial&utm_campaign=summerlimited-regular&utm_phase=conversion&utm_id=5_0_1_6_4_935"
+          "url": "https://www.rituals.com/sv-se/collection/seshen?utm_source=snapchat&utm_medium=paidsocial&utm_campaign=summerlimited-regular&utm_phase=awareness&utm_id=5_0_1_6_1_60"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "eb61f232-f573-423d-8886-e65226c1ed73",
+        "name": "AR-Seshen",
+        "ad_account_name": "Rituals Cosmetics Enterprise B.V.",
+        "status": "ACTIVE",
+        "creative_type": "LENS_WEB_VIEW",
+        "ad_type": "LENS_REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Rituals Cosmetics",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "LENS_PACKAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/a73531ff-da56-4e8b-bda4-554fc46460ff.lens",
+        "start_date": "2026-03-03T23:00:12.000Z",
+        "impressions_total": 2015025,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 2015025,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Rituals Cosmetics E-Commerce B.V.",
+        "brand_name": "Rituals Cosmetics",
+        "profile_name": "Rituals Cosmetics",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZUt2S0R2STRxTVFEQWczSFk3dEdUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.rituals.com/sv-se/lp/new-arrival-event-seshen?utm_source=snapchat&utm_medium=paidsocial&utm_campaign=summerlimited-regular&utm_phase=awareness&utm_id=5_0_1_6_1_459"
+        },
+        "lens_preview": {
+          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/NcUaZbAvhPIpfnu35g6Io?bo=EhQyAX06AQRCBgjGsKHNBkgCUBJgAQ%3D%3D&uc=18",
+          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/39d3f361-82ec-4fba-ae26-ef5ca2f53ef6.mp4",
+          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/39d3f361-82ec-4fba-ae26-ef5ca2f53ef6.webp"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "cf054c59-af78-4374-81b5-2e38f82d3e9d",
+        "name": "Seshen_Video_Awareness_BodyMilk",
+        "ad_account_name": "Rituals Cosmetics Enterprise B.V.",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "headline": "Fjäderlätt återfuktning 🪶",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YAJKsgGIOglqwh7OUzwlx.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAj-yhsgATDgAzjUBkABSg4KCTgXFBQQFw4fDhD0A1CWW2gCdaPZREAiBgoCSAMSAKIBNwi6ChIqCigIroYXIAEw0AU4gApAAkoOCgk5EBEQEw4KGA0Q9ANQlltoAnWu61RAIgYKAkgDEgCiATwIkgoSLwotCKTxECABMOADONQGQAJKDgoJJg4NDQsOCg4LEPQDUJZbaAJ1Mfw0QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCL6VECABMOADONQGQAJKDgoJKgsLDA0KBxEJEPQDUJZbaAJ1TGxNQH0AAIA_IgYKAkgCEgCQA5Zb&uc=15",
+        "start_date": "2026-03-02T17:50:00.000Z",
+        "impressions_total": 59545,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 59545,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Rituals Cosmetics E-Commerce B.V.",
+        "profile_name": "Rituals Cosmetics",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZUt2S0R2STRxTVFEQWczSFk3dEdUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://www.rituals.com/sv-se/collection/seshen?utm_source=snapchat&utm_medium=paidsocial&utm_campaign=summerlimited-regular&utm_phase=awareness&utm_id=5_0_1_6_1_60"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -677,8 +606,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "16a21bfb-a708-4c75-9dc3-5e0e3a33bcfe",
-        "name": "Seshen_Video_Conversion_Home",
+        "id": "481f4191-6fc2-4235-ba0d-eef9d503388b",
+        "name": "Seshen_Video_Awareness_GiftSet",
         "ad_account_name": "Rituals Cosmetics Enterprise B.V.",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -687,13 +616,13 @@
         "languages": [
           "sv"
         ],
-        "headline": "Ingen sol? Inga problem.",
+        "headline": "Din nya rutin i en ask",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SZWJrkE8e7WVHksRxCrfi.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiHuREgATDgAzjUBkABSg4KCTURDwwKDgsKCRD0A1CeS2gCdZyZaEAiBgoCSAQSAKIBNwi6ChIqCigI6LwSIAEw0AU4gApAAkoOCglGEBAODwoODQ0Q9ANQnktoAnXVsnxAIgYKAkgCEgCiATwIkgoSLwotCKWcDSABMOADONQGQAJKDgoJJg0LCgkKCQcJEPQDUJ5LaAJ1PxBNQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCNnFDSABMOADONQGQAJKDgoJNgoNCwwHCgkKEPQDUJ5LaAJ1avZtQH0AAIA_IgYKAkgCEgCQA55L&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MnR2bw4LdHOZoChOhhSnk.67?mo=GocCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE3CEMSLwotCPnTJSABMOADONQGQAFKDgoJLxANKBorDBkZEPQDUJZbaAJ19HFPQH0AAIA_IgISAKIBOAi6ChIvCi0Io5EeIAEw0AU4gApAAkoOCgkuCwobFhsKEhUQ9ANQlltoAnU-c15AfQAAgD8iAhIAogE4CJIKEi8KLQiY7xUgATDgAzjUBkACSg4KCSMICBcOFgcMEBD0A1CWW2gCdabQQ0B9AACAPyICEgCiATgI0goSLwotCIGbFSABMOADONQGQAJKDgoJIggHGBATBg0OEPQDUJZbaAJ17ERUQH0AAIA_IgISAJADlls%3D&uc=15",
         "start_date": "2026-03-02T17:50:00.000Z",
-        "impressions_total": 61537,
+        "impressions_total": 261667,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -707,7 +636,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 61537,
+          "se": 261667,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -731,7 +660,6 @@
               "min_age": "18",
               "age_groups": [],
               "languages": [],
-              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -742,7 +670,81 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZUt2S0R2STRxTVFEQWczSFk3dEdUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://www.rituals.com/sv-se/collection/seshen#product_grid_collection_seshen_home?utm_source=snapchat&utm_medium=paidsocial&utm_campaign=summerlimited-regular&utm_phase=conversion&utm_id=5_0_1_6_4_935"
+          "url": "https://www.rituals.com/sv-se/collection/seshen?utm_source=snapchat&utm_medium=paidsocial&utm_campaign=summerlimited-regular&utm_phase=awareness&utm_id=5_0_1_6_1_60"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "19e8972b-8dc7-43d1-9b7a-5ec5b45e6f6e",
+        "name": "Seshen_Video_Awareness_AllHeroes",
+        "ad_account_name": "Rituals Cosmetics Enterprise B.V.",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "headline": "Redo för en nystart?",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xZhnxETVldgSgoFqRFsIV.67?mo=GocCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE3CEMSLwotCMmPJyABMOADONQGQAFKDgoJLR8ZEBsaHxcUEPQDUMJdaAJ1jxU9QH0AAIA_IgISAKIBOAi6ChIvCi0IofoeIAEw0AU4gApAAkoOCgkmFxIOFw8cEwwQ9ANQwl1oAnU4xUJAfQAAgD8iAhIAogE4CJIKEi8KLQiAlxcgATDgAzjUBkACSg4KCSATDgoSDBELCRD0A1DCXWgCdVR_KUB9AACAPyICEgCiATgI0goSLwotCIPBFSABMOADONQGQAJKDgoJHhQMCRAKEgwIEPQDUMJdaAJ1ks84QH0AAIA_IgISAJADwl0%3D&uc=15",
+        "start_date": "2026-03-02T17:50:00.000Z",
+        "impressions_total": 102648,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 102648,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Rituals Cosmetics E-Commerce B.V.",
+        "profile_name": "Rituals Cosmetics",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZUt2S0R2STRxTVFEQWczSFk3dEdUP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://www.rituals.com/sv-se/collection/seshen?utm_source=snapchat&utm_medium=paidsocial&utm_campaign=summerlimited-regular&utm_phase=awareness&utm_id=5_0_1_6_1_60"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
