@@ -1,8 +1,8 @@
--- DuckDB init: loads raw JSON/CSV into native tables inside rav.db.
--- Run from project root: duckdb rav.db < db/init.sql
+-- DuckDB init: loads raw JSON/CSV into native tables inside db/rav.db.
+-- Run from project root: duckdb db/rav.db < db/init.sql
 -- Re-run after fetching new data — tables are dropped and rebuilt (full refresh).
 --
--- Load paths: read_json_auto / read_csv_auto use cwd, not rav.db location. Run from
+-- Load paths: read_json_auto / read_csv_auto use cwd, not db/rav.db location. Run from
 -- repo root, or set RAV_ROOT=/absolute/path/to/repo before running.
 
 CREATE OR REPLACE MACRO rav_path(rel) AS (
@@ -179,3 +179,64 @@ FROM read_csv_auto(
     header = true,
     all_varchar = true
 );
+
+-- ──────────────────────────────────────────────
+-- Transparency Reports — EU DSA (H2 2025 V2)
+-- Source: XLSX converted to CSV via xlsx_to_csv.py
+-- ──────────────────────────────────────────────
+
+CREATE OR REPLACE TABLE eu_dsa_member_state_orders AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/3_member_states_orders.csv'), header=true, all_varchar=true);
+
+CREATE OR REPLACE TABLE eu_dsa_notices AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/4_notices.csv'), header=true, all_varchar=true);
+
+CREATE OR REPLACE TABLE eu_dsa_own_initiative_illegal AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/5_own_initiative_illegal.csv'), header=true, all_varchar=true);
+
+CREATE OR REPLACE TABLE eu_dsa_own_initiative_tc AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/6_own_initiative_TC.csv'), header=true, all_varchar=true);
+
+CREATE OR REPLACE TABLE eu_dsa_appeals AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/7_appeals_and_recidivism.csv'), header=true, all_varchar=true);
+
+CREATE OR REPLACE TABLE eu_dsa_automated_means AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/8_automated_means.csv'), header=true, all_varchar=true);
+
+CREATE OR REPLACE TABLE eu_dsa_human_resources AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/9_human_resources.csv'), header=true, all_varchar=true);
+
+CREATE OR REPLACE TABLE eu_dsa_amar AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/10_AMAR.csv'), header=true, all_varchar=true);
+
+CREATE OR REPLACE TABLE eu_dsa_categories AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/2_categories_names.csv'), header=true, all_varchar=true);
+
+-- ──────────────────────────────────────────────
+-- Transparency Reports — Global (H1 2025)
+-- Source: manually extracted JSON → flattened CSV
+-- ──────────────────────────────────────────────
+
+CREATE OR REPLACE TABLE global_enforcements_by_policy AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/global_csv/enforcements_by_policy.csv'), header=true);
+
+CREATE OR REPLACE TABLE global_user_reports_by_policy AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/global_csv/user_reports_by_policy.csv'), header=true);
+
+CREATE OR REPLACE TABLE global_proactive_detection AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/global_csv/proactive_detection_by_policy.csv'), header=true);
+
+CREATE OR REPLACE TABLE global_appeals_by_policy AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/global_csv/appeals_by_policy.csv'), header=true);
+
+CREATE OR REPLACE TABLE global_regional_enforcements AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/global_csv/regional_enforcements.csv'), header=true);
+
+CREATE OR REPLACE TABLE global_ads_moderation AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/global_csv/ads_moderation.csv'), header=true);
+
+CREATE OR REPLACE TABLE global_csea AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/global_csv/csea.csv'), header=true);
+
+CREATE OR REPLACE TABLE eu_csea_2025 AS
+SELECT * FROM read_csv_auto(rav_path('1_data_sources/transparency_reports/data/global_csv/eu_csea_2025.csv'), header=true);

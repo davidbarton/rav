@@ -1,0 +1,137 @@
+{
+  "source": "Snap Global Transparency Reports",
+  "url": "https://values.snap.com/privacy/transparency",
+  "scraped_at": "2026-04-09",
+  "note": "Manually extracted from web pages. Snap renders tables client-side (no HTML <table> tags). Data below is from the H1 2025 report; older reports follow similar structure.",
+  "reports": [
+    {
+      "period": "H1_2025",
+      "date_range": "2025-01-01 to 2025-06-30",
+      "released": "2025-12-01",
+      "url": "https://values.snap.com/privacy/transparency-h1-2025",
+      "overview": {
+        "total_enforcements": 9674414,
+        "total_unique_accounts_enforced": 5794201,
+        "violative_view_rate_pct": 0.01
+      },
+      "enforcements_by_policy": [
+        { "policy": "Sexual Content", "enforcements": 5461419, "unique_accounts": 3233077, "median_turnaround_min": 1, "vvr_pct": 0.00482 },
+        { "policy": "Child Sexual Exploitation & Abuse", "enforcements": 1095424, "unique_accounts": 733106, "median_turnaround_min": 5, "vvr_pct": 0.00096 },
+        { "policy": "Harassment and Bullying", "enforcements": 713448, "unique_accounts": 594302, "median_turnaround_min": 3, "vvr_pct": 0.00099 },
+        { "policy": "Threats & Violence", "enforcements": 187653, "unique_accounts": 146564, "median_turnaround_min": 3, "vvr_pct": 0.00176 },
+        { "policy": "Self-Harm & Suicide", "enforcements": 47643, "unique_accounts": 41216, "median_turnaround_min": 5, "vvr_pct": 0.00009 },
+        { "policy": "False Information", "enforcements": 2088, "unique_accounts": 2004, "median_turnaround_min": 1, "vvr_pct": 0.00002 },
+        { "policy": "Impersonation", "enforcements": 7138, "unique_accounts": 6881, "median_turnaround_min": 0.5, "vvr_pct": 0.00009 },
+        { "policy": "Spam", "enforcements": 267299, "unique_accounts": 189344, "median_turnaround_min": 1, "vvr_pct": 0.00060 },
+        { "policy": "Drugs", "enforcements": 1095765, "unique_accounts": 726251, "median_turnaround_min": 7, "vvr_pct": 0.00047 },
+        { "policy": "Weapons", "enforcements": 251243, "unique_accounts": 173381, "median_turnaround_min": 1, "vvr_pct": 0.00083 },
+        { "policy": "Other Regulated Goods", "enforcements": 183236, "unique_accounts": 126952, "median_turnaround_min": 4, "vvr_pct": 0.00104 },
+        { "policy": "Hate Speech", "enforcements": 343051, "unique_accounts": 284817, "median_turnaround_min": 6, "vvr_pct": 0.00025 },
+        { "policy": "Terrorism & Violent Extremism", "enforcements": 10970, "unique_accounts": 6783, "median_turnaround_min": 2, "vvr_pct": 0.00002 }
+      ],
+      "user_reports": {
+        "total_reports": 19766324,
+        "total_enforcements": 6278446,
+        "total_unique_accounts": 4104624,
+        "median_turnaround_min": 2,
+        "by_policy": [
+          { "policy": "Sexual Content", "reports": 7315730, "enforcements": 3778370, "pct_enforced": 60.2, "unique_accounts": 2463464, "median_turnaround_min": 1 },
+          { "policy": "Child Sexual Exploitation & Abuse", "reports": 1627097, "enforcements": 695679, "pct_enforced": 11.1, "unique_accounts": 577736, "median_turnaround_min": 10 },
+          { "policy": "Harassment & Bullying", "reports": 4103797, "enforcements": 700731, "pct_enforced": 11.2, "unique_accounts": 584762, "median_turnaround_min": 3 },
+          { "policy": "Threats & Violence", "reports": 997346, "enforcements": 147162, "pct_enforced": 2.3, "unique_accounts": 120397, "median_turnaround_min": 2 },
+          { "policy": "Self-Harm & Suicide", "reports": 350775, "enforcements": 41150, "pct_enforced": 0.7, "unique_accounts": 36657, "median_turnaround_min": 3 },
+          { "policy": "False Information", "reports": 606979, "enforcements": 2027, "pct_enforced": 0.0, "unique_accounts": 1960, "median_turnaround_min": 1 },
+          { "policy": "Impersonation", "reports": 745874, "enforcements": 7086, "pct_enforced": 0.1, "unique_accounts": 6837, "median_turnaround_min": 0.5 },
+          { "policy": "Spam", "reports": 1709559, "enforcements": 122499, "pct_enforced": 2.0, "unique_accounts": 94837, "median_turnaround_min": 1 },
+          { "policy": "Drugs", "reports": 481830, "enforcements": 262962, "pct_enforced": 4.2, "unique_accounts": 176799, "median_turnaround_min": 5 },
+          { "policy": "Weapons", "reports": 271586, "enforcements": 39366, "pct_enforced": 0.6, "unique_accounts": 32316, "median_turnaround_min": 1 },
+          { "policy": "Other Regulated Goods", "reports": 530449, "enforcements": 143098, "pct_enforced": 2.3, "unique_accounts": 98023, "median_turnaround_min": 3 },
+          { "policy": "Hate Speech", "reports": 817262, "enforcements": 337263, "pct_enforced": 5.4, "unique_accounts": 280682, "median_turnaround_min": 6 },
+          { "policy": "Terrorism & Violent Extremism", "reports": 208040, "enforcements": 1053, "pct_enforced": 0.0, "unique_accounts": 912, "median_turnaround_min": 2 }
+        ]
+      },
+      "proactive_detection": {
+        "total_enforcements": 3395968,
+        "total_unique_accounts": 1709224,
+        "by_policy": [
+          { "policy": "Sexual Content", "enforcements": 1683045, "unique_accounts": 887059, "median_turnaround_min": 0 },
+          { "policy": "Child Sexual Exploitation & Abuse", "enforcements": 399756, "unique_accounts": 162017, "median_turnaround_min": 2 },
+          { "policy": "Harassment and Bullying", "enforcements": 12716, "unique_accounts": 10412, "median_turnaround_min": 8 },
+          { "policy": "Threats & Violence", "enforcements": 40489, "unique_accounts": 27662, "median_turnaround_min": 6 },
+          { "policy": "Self-Harm & Suicide", "enforcements": 6493, "unique_accounts": 4638, "median_turnaround_min": 7 },
+          { "policy": "False Information", "enforcements": 61, "unique_accounts": 44, "median_turnaround_min": 20 },
+          { "policy": "Impersonation", "enforcements": 52, "unique_accounts": 44, "median_turnaround_min": 34 },
+          { "policy": "Spam", "enforcements": 144800, "unique_accounts": 96500, "median_turnaround_min": 0 },
+          { "policy": "Drugs", "enforcements": 832803, "unique_accounts": 578738, "median_turnaround_min": 7 },
+          { "policy": "Weapons", "enforcements": 211877, "unique_accounts": 144455, "median_turnaround_min": 0 },
+          { "policy": "Other Regulated Goods", "enforcements": 40139, "unique_accounts": 31408, "median_turnaround_min": 8 },
+          { "policy": "Hate Speech", "enforcements": 5788, "unique_accounts": 4518, "median_turnaround_min": 6 },
+          { "policy": "Terrorism & Violent Extremism", "enforcements": 9917, "unique_accounts": 5899, "median_turnaround_min": 5 }
+        ]
+      },
+      "csea": {
+        "total_content_enforced": 994337,
+        "total_accounts_disabled": 187387,
+        "total_ncmec_submissions": 321587
+      },
+      "suicide_resources_shared": 36162,
+      "appeals": {
+        "total": 437855,
+        "total_reinstated": 22142,
+        "total_upheld": 415494,
+        "median_turnaround_days": 1,
+        "by_policy": [
+          { "policy": "Sexual Content", "appeals": 134358, "reinstated": 6175, "upheld": 128035, "median_turnaround_days": 1 },
+          { "policy": "Child Sexual Exploitation & Abuse", "appeals": 89493, "reinstated": 4179, "upheld": 85314, "median_turnaround_days": 0.5 },
+          { "policy": "Harassment and Bullying", "appeals": 42779, "reinstated": 281, "upheld": 42496, "median_turnaround_days": 1 },
+          { "policy": "Threats & Violence", "appeals": 3987, "reinstated": 77, "upheld": 3909, "median_turnaround_days": 1 },
+          { "policy": "Self-Harm & Suicide", "appeals": 145, "reinstated": 2, "upheld": 143, "median_turnaround_days": 1 },
+          { "policy": "False Information", "appeals": 4, "reinstated": 0, "upheld": 4, "median_turnaround_days": 1 },
+          { "policy": "Impersonation", "appeals": 1063, "reinstated": 33, "upheld": 1030, "median_turnaround_days": 0.5 },
+          { "policy": "Spam", "appeals": 13730, "reinstated": 3140, "upheld": 10590, "median_turnaround_days": 1 },
+          { "policy": "Drugs", "appeals": 128222, "reinstated": 7749, "upheld": 120409, "median_turnaround_days": 1 },
+          { "policy": "Weapons", "appeals": 10941, "reinstated": 314, "upheld": 10626, "median_turnaround_days": 1 },
+          { "policy": "Other Regulated Goods", "appeals": 9719, "reinstated": 124, "upheld": 9593, "median_turnaround_days": 1 },
+          { "policy": "Hate Speech", "appeals": 3310, "reinstated": 67, "upheld": 3242, "median_turnaround_days": 1 },
+          { "policy": "Terrorism & Violent Extremism", "appeals": 104, "reinstated": 1, "upheld": 103, "median_turnaround_days": 1 }
+        ]
+      },
+      "regional_enforcements": [
+        { "region": "North America", "enforcements": 3468315, "unique_accounts": 2046888 },
+        { "region": "Europe", "enforcements": 2815474, "unique_accounts": 1810223 },
+        { "region": "Rest of World", "enforcements": 3390625, "unique_accounts": 1937090 }
+      ],
+      "ads_moderation": {
+        "total_ads_reported": 67789,
+        "total_ads_removed": 16410
+      }
+    }
+  ],
+  "eu_csea_2025": {
+    "period": "2025-01-01 to 2025-12-31",
+    "released": "2026-01-30",
+    "total_content_detected": 189057,
+    "total_enforcements": 61774,
+    "total_appealed": 12246,
+    "total_appeals_reviewed": 12246,
+    "total_overturned": 1012,
+    "overturn_rate_pct": 8.26,
+    "retention_days": 730
+  },
+  "eu_tco_2025": {
+    "period": "2025-01-01 to 2025-12-31",
+    "released": "2026-01-30",
+    "removal_orders_received": 0,
+    "enforcements_global": {
+      "policy": "Terrorism & Violent Extremism",
+      "reports": 511176,
+      "enforcements": 32948,
+      "unique_accounts": 21895
+    },
+    "appeals_global": {
+      "total": 558,
+      "reinstated": 22,
+      "upheld": 536
+    }
+  }
+}

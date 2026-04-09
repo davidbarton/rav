@@ -2,7 +2,7 @@
 *.duckdb
 *.duckdb.wal
 
-# SQLite (transient files only; rav.db is tracked as seed database)
+# SQLite
 *.db-journal
 *.db-wal
 

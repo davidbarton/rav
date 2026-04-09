@@ -1,5 +1,5 @@
 -- Sponsored content exploration queries.
--- Run: duckdb rav.db < db/queries/sponsored.sql
+-- Run: duckdb db/rav.db < db/queries/sponsored.sql
 
 -- ── Overview ──
 SELECT count(*) AS total_posts FROM sponsored_content;

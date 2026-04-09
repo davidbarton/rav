@@ -1,9 +1,0 @@
-{
-  "name": "rav-prototype-min",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "node build_dataset.mjs",
-    "start": "node server.mjs"
-  }
-}

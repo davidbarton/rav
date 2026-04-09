@@ -1,7 +1,7 @@
 # DuckDB — Project Analytics Layer
 
 Shared analytical database for all data explorations in this project.
-Raw JSON/CSV on disk is **copied into** `rav.db` as native tables when you run `db/init.sql`.
+Raw JSON/CSV on disk is **copied into** `db/rav.db` as native tables when you run `db/init.sql`.
 
 ## Setup
 
@@ -14,15 +14,25 @@ brew install duckdb
 From the project root:
 
 ```bash
-duckdb rav.db < db/init.sql
+duckdb db/rav.db < db/init.sql
 ```
 
-This **drops and rebuilds** the tables from the current files under `1_data_sources/...`. Run again any time new data is fetched.
+This **drops and rebuilds** all tables from the current files under `1_data_sources/...`. Run again any time new data is fetched.
+
+## What gets loaded
+
+| Section | Tables | Source |
+| --- | --- | --- |
+| Sponsored Content | `sponsored_content` | `/sponsored_content` pages JSON |
+| Brand Ads (fashion) | `brand_ads_fashion` | Ads Gallery `ads_fashion/*_de.json` |
+| Political Ads | `political_ads` | Bulk CSV 2018–2026 |
+| EU DSA Transparency | `eu_dsa_member_state_orders`, `eu_dsa_notices`, `eu_dsa_own_initiative_illegal`, `eu_dsa_own_initiative_tc`, `eu_dsa_appeals`, `eu_dsa_automated_means`, `eu_dsa_human_resources`, `eu_dsa_amar`, `eu_dsa_categories` | EU DSA XLSX → CSV |
+| Global Transparency | `global_enforcements_by_policy`, `global_user_reports_by_policy`, `global_proactive_detection`, `global_appeals_by_policy`, `global_regional_enforcements`, `global_ads_moderation`, `global_csea`, `eu_csea_2025` | H1 2025 report → CSV |
 
 ## Explore
 
 ```bash
-duckdb rav.db
+duckdb db/rav.db
 ```
 
 Then run any query:
@@ -39,21 +49,20 @@ LIMIT 20;
 Or run a saved query file:
 
 ```bash
-duckdb rav.db < db/queries/sponsored.sql
+duckdb db/rav.db < db/queries/sponsored.sql
 ```
 
 ## How it works
 
-- `db/init.sql` — `CREATE TABLE ... AS SELECT` from `read_json_auto()` / `read_csv_auto()` (loads once; data lives in `rav.db`)
-- **Tables:** `sponsored_content` (organic `/sponsored_content` pages), `brand_ads_fashion` (paid ads from `ads_fashion/*_de.json`), `political_ads` (political CSVs)
-- `db/queries/` — saved exploration queries, run them with `duckdb rav.db < db/queries/<file>.sql`
-- `rav.db` — the database file (gitignored, derived from raw data, fully reproducible)
+- `db/init.sql` — `CREATE TABLE ... AS SELECT` from `read_json_auto()` / `read_csv_auto()` (loads once; data lives in `db/rav.db`)
+- `db/queries/` — saved exploration queries, run them with `duckdb db/rav.db < db/queries/<file>.sql`
+- `db/rav.db` — the database file (gitignored, derived from raw data, fully reproducible)
 
-Close other apps that have `rav.db` open (e.g. Beekeeper Studio) before running `duckdb rav.db < db/init.sql`, or DuckDB will error with a file lock.
+Close other apps that have `db/rav.db` open (e.g. Beekeeper Studio) before running `duckdb db/rav.db < db/init.sql`, or DuckDB will error with a file lock.
 
 ## Adding new data sources
 
 1. Fetch raw data into `1_data_sources/<source>/data/`
 2. Add a new `CREATE TABLE` block in `db/init.sql` (or extend an existing load)
 3. Add exploration queries in `db/queries/`
-4. Re-run `duckdb rav.db < db/init.sql`
+4. Re-run `duckdb db/rav.db < db/init.sql`
