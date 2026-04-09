@@ -1012,6 +1012,7 @@ function findLatestRunDir(prefix: string): string | null {
   if (!fs.existsSync(DATA_DIR)) return null;
   const dirs = fs.readdirSync(DATA_DIR)
     .filter((d) => d.startsWith(prefix + "_"))
+    .filter((d) => fs.statSync(path.join(DATA_DIR, d)).isDirectory())
     .sort()
     .reverse();
   return dirs.length > 0 ? path.join(DATA_DIR, dirs[0]!) : null;

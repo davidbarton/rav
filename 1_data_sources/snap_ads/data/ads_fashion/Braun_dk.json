@@ -1,0 +1,691 @@
+{
+  "brand": "Braun",
+  "country": "dk",
+  "fetched_at": "2026-04-09T05:00:11.142Z",
+  "ads_count": 9,
+  "ads": [
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "8d9bb6ef-27f0-4753-851b-9e330032d60b",
+        "name": "ZM - Video 1 - Ferskvandsperler",
+        "ad_account_name": "ANNEBRAUNER Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Se min kollektion med perler",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RUzJ99aabDl9kRyfcT6G7.67?mo=Gp0DGhAaABoAMgEEOgF9SAJQD2ABWghBZHNNZWRpYaIBPQhDEisKKSABShcKEj8VHhUgGhQXFxQZFRUUCwkMBRD0A1oDEJFEWgcIgEEQ56UYIgwKCEIGCM6L-p0GEgCiAT0IXRIrCikgAUoXChIxEhQRGRIQExAQEhESEgoJCQYQ9ANaAxCbWVoHCMA2ELq4ESIMCghCBgjOi_qdBhIAogE9CCYSKwopIAFKFwoScCs6KUM3IjkkMisjNi0YEhwNEPQDWgMQyUZaBwiAQRDz3DAiDAoIQgYIw4z6nQYSAKIBPQglEisKKSABShcKEkQaIBkiHhUdGBkcFR4YERERDBD0A1oDEMtbWgcI1UAQ9rscIgwKCEIGCMOM-p0GEgCiAT0IfxIrCikgAUoXChItERMOGBENEg4PEg0RDgwKDAcQ9ANaAxC8SFoHCIBBENfXESIMCghCBgjDjPqdBhIAogE-CJIKEisKKSABShcKEi8OFBAXEwwSDg8SDhEODwsMCBD0A1oDELpIWgcIgEEQw48SIgwKCEIGCMOM-p0GEgA%3D&uc=15",
+        "start_date": "2023-01-11T09:46:16.000Z",
+        "impressions_total": 19012,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 19012,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "ANNEBRAUNER",
+        "brand_name": "ANNEBRAUNER",
+        "web_view_properties": {
+          "url": "https://annebrauner.dk/collections/annebrauner-pearl-collection"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "533e713e-4b52-499b-86ad-9de5a416904a",
+        "name": "ZM - UGC - V4",
+        "ad_account_name": "ANNEBRAUNER Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Vandfaste - Spar op til 80%",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mdDGWlUkGefq60VRVyyTn.67?mo=GosEGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBYAhDEkwKSgjW6I8BIAFKPwo6eFZ8ME1bXjohKiAeKR9UKS0iFxQ8GBo5HyIkHxoVNhAPIA0LGyQcGyg3IA8oGSwiKxEOGBgfGxoUEBD0A2gCIg4KCkIGCMTSxb4GSAUSAKIBYgi6ChJNCksIkLGOASABSkAKO3xFggEqSjpjPSorIiAvI1woMyMcE0sSFUEZHyEVGxRFDQ0hCwsWHhkdD0sjISgdLicqEhAVFRsWFA8NEPQDaAIiDgoKQgYIutbFvgZIAhIAogFfCH8SSwpJCPTkXyABSj8KOlQ6TiM2MzsoGRkaFB0WNB8lGBEnJA4QHBQUFhESDiAJCBAKCA8XFCELJBcNHxQhGRkNChEPFA8PDAsQ9ANoAiIOCgpCBgi61sW-BkgCEgCiAWAIkgoSSwpJCPTnYCABSj8KOlcxVCI6NTkpGB0YFiEXMh0jFxMrIg4QGxUXFhMQDhwMCRMJCBAYEyELIxcMHxQfGhgNChIQFBAPDgsQ9ANoAiIOCgpCBgi61sW-BkgCEgCiAWAIxAoSSwpJCOXsUiABSj8KOkwgNhcmHjwkGRsVEx4VOBgfFhILLwsNJg8TFQ4RDCUIBxgHCA4REBEJLRMSFg4aFBkMCQ4NEA8NCQkQ9ANoAiIOCgpCBgi61sW-BkgCEgCQA_TkAQ%3D%3D&uc=15",
+        "start_date": "2025-03-12T10:45:38.000Z",
+        "impressions_total": 54564,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 54564,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "25",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "ANNEBRAUNER",
+        "brand_name": "ANNEBRAUNER.dk",
+        "web_view_properties": {
+          "url": "https://ANNEBRAUNER.dk"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "631b09ae-9a63-4cc1-b345-007fb4abbc15",
+        "name": "ZM - Video 10 - Mig",
+        "ad_account_name": "ANNEBRAUNER Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Læs min historie",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cw6eyecTULb4WI2nsJCzf.67?mo=GqEDGg4aABoAMgEEOgF9UA9gAVoIQWRzTWVkaWGiAT4IQxIqCiggAUoWChE-FxQREhkSEw8YEhAQCwkICRD0A1oDEN0_WgcIgEEQpIwUIg4KCkIGCKqO-p0GSAMSAKIBPghdEioKKCABShYKES0PDw4MEg4ODRANDQ8LCQgJEPQDWgMQo1VaBwjVQBC-vQ8iDgoKQgYIqo76nQZIAhIAogE-CCYSKgooIAFKFgoReSIpIRwuJh8cLCIZMBkUExUQ9ANaAxDXQloHCIBBELz1JiIOCgpCBgiVj_qdBkgCEgCiAT4IJRIqCiggAUoWChFGGBgTEx4TFBIXFhQZFBAPEBD0A1oDEOVXWgcI1UAQurUYIg4KCkIGCJWP-p0GSAISAKIBPgh_EioKKCABShYKETEODg8MEA0NDBELCg8LDAkKEPQDWgMQkkRaBwiAQRDesw8iDgoKQgYIlY_6nQZIAhIAogE_CJIKEioKKCABShYKETAQDQ8LEwwOCxAODA8ODQkLEPQDWgMQqEVaBwiAQRD__g8iDgoKQgYIlY_6nQZIAhIA&uc=15",
+        "start_date": "2023-01-11T09:46:16.000Z",
+        "impressions_total": 16900,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 16900,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "ANNEBRAUNER",
+        "brand_name": "ANNEBRAUNER",
+        "web_view_properties": {
+          "url": "https://annebrauner.dk/pages/om-os"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e75eee04-72ba-46a9-b4a0-9f4e966702b2",
+        "name": "ZM - UGC - V1",
+        "ad_account_name": "ANNEBRAUNER Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Vandfaste -  Spar op til 80%",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fqPlSAHCDLMbY5Ti1606y.67?mo=Gt8EGgcyAQRQD2ABWghBZHNNZWRpYaIBawhDElwKWgiq-tIBIAFKTwpKczEnIh0kHyQqVDErFy4oKhUXEiYzPj5BVyI3HzUyRBV2Kg8mBC01IisbOBIeFksaKxMyJioWOkE9MTk6Lik2M0M5Li0-LjcsMBwQ9ANoAiIJCgUyAX1IBRIAogFzCLoKElsKWQjn8tIBIAFKTgpJeyUlJyMcISQoQSUjEh8dHxQSDx06N0c5WyFCIDM0RBFJLxAwBjIsKSkWNxEWE0EdIRYlGSUTMkU_R0pEMEJEREs2QzVDMzs_MhD0A2gCIhEKDToBfUIGCOfRxb4GSAISAKIBcwh_ElwKWgiE8pEBIAFKTwpKWyIdGxgeGhghKx8ZEB0UHQ4QDRchKyktNRYpFyYgKhBJOhIdBBslLBsQHg8TDDEPFxAZFxoOIS8nJCc4Hh4jJyskIiAqHyYfJBUQ9ANoAiIRCg06AX1CBgjn0cW-BkgCEgCiAXQIkgoSXApaCNTokwEgAUpPCkpcIhoaFxsXHCEzIB8PHxkfDRAOFyErKC84Fy4UKyAtEUYpFx0EHh4uGhEfDhQNMREXERwaGQ8lLCYkLDYbIScjLCMmHCkkHiYjFBD0A2gCIhEKDToBfUIGCOfRxb4GSAISAKIBcwjEChJbClkIxsGCASABSk4KSVsZFxoWEhUXGigZGAsVExQNCwoTIyInITwUJxIeICoKMB4QIQMcGhoaDSMKDg0tFBkLGBIXCx8oKCorKBwmKSYsICYeJx4gJBwQ9ANoAiIRCg06AX1CBgjn0cW-BkgCEgCQA4ihAg%3D%3D&uc=15",
+        "start_date": "2025-03-12T10:45:38.000Z",
+        "impressions_total": 50665,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 50665,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "25",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "ANNEBRAUNER",
+        "brand_name": "ANNEBRAUNER.dk",
+        "web_view_properties": {
+          "url": "https://annebrauner.dk"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "89fb8cbb-e682-4b33-bc17-b2369d6b5eaf",
+        "name": "ZM - Udsalg - Ad2",
+        "ad_account_name": "ANNEBRAUNER Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Priser fra kun 25 kr.",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tuhAQQTHC2PlCeaCOrRpp.380?mo=Gj8aGBoAGgAyAQQ6AX1CBgic0emtBkgCUA9gAVoZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2023-01-11T09:46:16.000Z",
+        "impressions_total": 32515,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 32515,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "ANNEBRAUNER",
+        "brand_name": "ANNEBRAUNER",
+        "web_view_properties": {
+          "url": "https://annebrauner.dk/collections/oprydningssalg"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "01d8283a-0196-4cf0-b407-e47c992d0f7f",
+        "name": "ZM - UGC - V2",
+        "ad_account_name": "ANNEBRAUNER Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Vandfaste - Spar op til 80%",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/AaWyoJr10Yd2SBarlnuD2.67?mo=Gq4DGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBTQhDEjkKNwjwuFQgAUotCihFOyQiMiAdDj8ODSMjHx0TJhIQKzM5FhIeGDsXKRwbIBolLB4eJCIWEPQDaAIiDgoKQgYIl9LFvgZIBRIAogFOCLoKEjkKNwinukogAUotCihDKSUeLBkdDkwPCiAcHxoUJhAPJCcnEhAXEjEQJBoWHxodGSQcHB8YEPQDaAIiDgoKQgYIttTFvgZIAhIAogFNCH8SOQo3CNnWNCABSi0KKDIiFRUZFxYJJQsIFxUVEAwVDAslICAODBENJgwYEBEUEBcSExIVFRcQ9ANoAiIOCgpCBgi21MW-BkgCEgCiAU4IkgoSOQo3CKyHNyABSi0KKDMkFxYcFhgKJAsJGRYVEQ0XDAskIR8PDRQOJg0YERIVExgOGRQVFxgQ9ANoAiIOCgpCBgi21MW-BkgCEgCiAU4IxAoSOQo3CMLSMSABSi0KKDIcGRUeEBQJLgoHFRMVEQ4aCQoYGhoLChALIQobEQ4VEBMRFxMTFBAQ9ANoAiIOCgpCBgi21MW-BkgCEgCQA-idAQ%3D%3D&uc=15",
+        "start_date": "2025-03-12T10:45:38.000Z",
+        "impressions_total": 8971,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 8971,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "25",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "ANNEBRAUNER",
+        "brand_name": "ANNEBRAUNER.dk",
+        "web_view_properties": {
+          "url": "https://ANNEBRAUNER.dk"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "07a5f74b-81e7-475b-b14e-67a404c7e2b1",
+        "name": "ZM - UGC - V3",
+        "ad_account_name": "ANNEBRAUNER Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Vandfaste - Spar op til 80%",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/aU0to6dObJBwgI7y6YfNc.67?mo=Gq4DGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBTQhDEjkKNwjwuFQgAUotCihFOyQiMiAdDj8ODSMjHx0TJhIQKzM5FhIeGDsXKRwbIBolLB4eJCIWEPQDaAIiDgoKQgYIntLFvgZIBRIAogFOCLoKEjkKNwinukogAUotCihDKSUeLBkdDkwPCiAcHxoUJhAPJCcnEhAXEjEQJBoWHxodGSQcHB8YEPQDaAIiDgoKQgYI-9PFvgZIAhIAogFNCH8SOQo3CPrXNCABSi0KKDIiFRYYGBUJJQwHFxYUEAwVDQolICAODBEOJQwYEBITEBcSExIVFRcQ9ANoAiIOCgpCBgj708W-BkgCEgCiAU4IkgoSOQo3CJyJNyABSi0KKDMkFxYcFhgKIwwJGRYVEQ0XDQolICAPDBQOJg4XEhEVExgPGBQWFxcQ9ANoAiIOCgpCBgj708W-BkgCEgCiAU4IxAoSOQo3CMLSMSABSi0KKDIcGRUeEBQJLgoHFRMVEQ4aCQoYGhoLChALIQobEQ4VEBMRFxMTFBAQ9ANoAiIOCgpCBgj708W-BkgCEgCQA-idAQ%3D%3D&uc=15",
+        "start_date": "2025-03-12T10:45:38.000Z",
+        "impressions_total": 55381,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 55381,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "25",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "ANNEBRAUNER",
+        "brand_name": "ANNEBRAUNER.dk",
+        "web_view_properties": {
+          "url": "https://ANNEBRAUNER.dk"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "167327c2-763e-47ab-885f-c377b6e5b556",
+        "name": "ZM - Story Ads - ad1",
+        "ad_account_name": "ANNEBRAUNER Self Service",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Se mere på min webshop",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2023-01-11T09:46:16.000Z",
+        "impressions_total": 704684,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 704684,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "ANNEBRAUNER",
+        "brand_name": "ANNEBRAUNER",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Se mere på min webshop",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Se mere på min webshop",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nsYvSUakcJuc86XkWYhFQ.67?mo=GvMDGg4aABoAMgEEOgF9UA9gAVoIQWRzTWVkaWGiAUAIQxIsCiogAUomCiFUISMXLhkWFhIWGhsZFyYfQCMhIiAoJDwNFxs6FxUPOBYQ9AMiDgoKQgYIt_S1qAZIAxIAogFACF0SLAoqIAFKJgohOBUWDRoSEA0PDhUTEhMPGSobHBYZHBkkChITIwwQDh8QEPQDIg4KCkIGCLf0tagGSAMSAKIBQggmEi4KLCABSigKI8gBWGxFYTs9KC42Pjs0NiU5fUdFREFPP0QdLTKYASFNImAsEPQDIg4KCkIGCN_1tagGSAISAKIBQAglEiwKKiABSiYKIWIoNBsoIhkWGBshHhkZFSA_JiUkISojJQ0dHD4UIRM7FRD0AyIOCgpCBgjf9bWoBkgDEgCiAUEIuAoSLAoqIAFKJgohciMlDTELEhYQCxoWGAwRFD4dHw8fHykKEBcRYBoMDlgTEPQDIg4KCkIGCLyT56kGSAISAKIBQAh_EiwKKiABSiYKITcVFg8TEA8KDgwTEA4OCxIlFhUlFBoWFwgQER0MDAgdDBD0AyIOCgpCBgjf9bWoBkgCEgCiAUEIkgoSLAoqIAFKJgohNxcZDRQQEAsODRQRDg8LFCUXFSYUGxYXChASHgoOCR4LEPQDIg4KCkIGCN_1tagGSAISAA%3D%3D&uc=15",
+              "brand_name": "ANNEBRAUNER",
+              "web_view_preview": {
+                "url": "https://annebrauner.dk"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "86a834de-9102-4ac9-a2b0-142a4760f423",
+        "name": "NY smykke -  big-circle-necklace",
+        "ad_account_name": "ANNEBRAUNER Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "INTROPRIS - 165,00 DKK (395 DKK)",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/q26vVQlGHO7Gh7WQLCzjc.67?mo=GpADGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBRwhDEjMKMQj3oC4gAUonCiIxGxEUFBETFRMeDxYVFRUWERUVIBETERMTFxcRFB8WExQREPQDaAIiDgoKQgYI35HtvAZIAhIAogFICLoKEjMKMQjT9iQgAUonCiIwFQ4QERAMEBEQDBMREg4SEBAPHA4PEQ8QEBINEg4REhENEPQDaAIiDgoKQgYI_JLtvAZIAxIAogFHCH8SMwoxCN7yHCABSicKIiYRDQwOCgwODAwKEA4MDQ8KDg0SCg4KCwwODQoMDg0ODAsQ9ANoAiIOCgpCBgj8ku28BkgCEgCiAUgIkgoSMwoxCN-2HiABSicKIicRDQ4OCw0ODQ0LEA4ODRALDQ8SDAsODA0ODgsNDg8NDgwQ9ANoAiIOCgpCBgj8ku28BkgCEgCiAUgIxAoSMwoxCKLaFyABSicKIiYNCQsKCggKCwsHDAsLCAwKCgkSCAkLCQoKDAgLCQsLCwkQ9ANoAiIOCgpCBgj8ku28BkgCEgCQA7KHAQ%3D%3D&uc=15",
+        "start_date": "2023-01-11T09:46:16.000Z",
+        "impressions_total": 2275,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 2275,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "ANNEBRAUNER",
+        "brand_name": "ANNEBRAUNER.DK",
+        "web_view_properties": {
+          "url": "https://annebrauner.dk/products/annebrauner-big-circle-necklace-2"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    }
+  ]
+}

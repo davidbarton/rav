@@ -1,0 +1,794 @@
+{
+  "brand": "Prada",
+  "country": "fr",
+  "fetched_at": "2026-04-09T03:46:23.590Z",
+  "ads_count": 10,
+  "ads": [
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "6291a330-ea77-4edb-b575-ea829e538945",
+        "name": "fr_prada_prada_snapchat_social_prrenylon26commercial_reach__f_pr__snapstory_PPV_02_W",
+        "ad_account_name": "Prada spa Self Service",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Re-Nylon",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-03-18T16:00:02.000Z",
+        "impressions_total": 918,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 918,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "composite_preview": {
+          "should_loop": false,
+          "title_headline": "Re-Nylon",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": ".",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dpRA74nFN0A37T9VKfi6W.67?mo=Gv0BGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCOeAICABMOADONQGQAFKDgoJEwUNBwYRIRwCEPQDUJxeaAJ1boJ9QCICEgCiATMIugoSKgooCNvxFSABMNAFOIAKQAJKDgoJIgQIBAMJEg8BEPQDUJxeaAJ1-hmDQCICEgCiATgIkgoSLwotCJTbHyABMOADONQGQAJKDgoJEggJCgkVKhYCEPQDUJxeaAJ1rHN9QH0AAIA_IgISAKIBOAjSChIvCi0I77IUIAEw4AM41AZAAkoOCgkYBAEGBgwbFwEQ9ANQnF5oAnUOi4BAfQAAgD8iAhIAkAOcXg%3D%3D&uc=15",
+              "brand_name": "Prada",
+              "web_view_preview": {
+                "url": "https://www.prada.com/fr/fr/womens/womens-collection/c/10525EU?utm_source=snapchat&utm_medium=social_ad&utm_campaign=prrenylon26commercial&post_id=69c15fd6ab66b63ef4a64e84&utm_content=reach_pr&utm_term=snapstory"
+              }
+            }
+          ]
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your Headline is blank, confusing, not applicable to your ad, or identical to your Brand Name. Headlines should be the title of a campaign, slogan/tagline, tune-in date, etc. (e.g. \"30% Off Sale!\", \"Tune in this Tuesday\", \"Download Now\") and must be different from your Brand Name. Complicated URLs are also not permitted in this field. Please update your headline, resubmit, and our team will take another look."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "36555383-f751-411c-913b-b9e5f0064656",
+        "name": "fr_prada_prada_snapchat_social_prshowwomenss26_reach_PostSfilata_all_pr_Snapad_snapad_PARADE",
+        "ad_account_name": "Prada spa Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Défilé Femme Prada P/É 26 ",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/AmYajGylyNpWJf7JFDtfD.67?mo=Go8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATgIQxIsCioI1vChASABMOADONQGQAFKDgoJRy0jLB5BQTtBEPQDULDqAWgCdbVuMUAiBgoCSAMSAKIBOAi6ChIrCikIott8IAEw0AU4gApAAkoOCgk_Ix0jGC4vKjgQ9ANQsOoBaAJ1PCk5QCIGCgJIAxIAogE9CJIKEjAKLgjxgGkgATDgAzjUBkACSg4KCTYZFxwTKCglKxD0A1Cw6gFoAnVegyRAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4InaxXIAEw4AM41AZAAkoOCgkzGRMXDyEgHScQ9ANQsOoBaAJ1orEtQH0AAIA_IgYKAkgCEgCQA7DqAQ%3D%3D&uc=15",
+        "start_date": "2025-09-26T08:00:00.000Z",
+        "impressions_total": 287975,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 287975,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Prada spa",
+        "brand_name": "Prada",
+        "profile_name": "Prada",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaEU1T0lpZ3FpbE5tR2RVZE1NaXdtP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.prada.com/fr/fr/pradasphere/fashion-shows/2026/ss-womenswear.html?utm_source=snapchat&utm_medium=social_ad&utm_campaign=prshowwomenss26&post_id=68d69663ca79a415aff1eec7&utm_content=reach_pr&utm_term=snapad"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "fa80c319-ec2e-4747-9841-d52377cf35f2",
+        "name": "fr_prada_prada_snapchat_social_prrenylon26commercial_reach__m_pr__snapstory_PPV_03_M",
+        "ad_account_name": "Prada spa Self Service",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Re-Nylon",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-03-18T16:00:02.000Z",
+        "impressions_total": 499,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 499,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "composite_preview": {
+          "should_loop": false,
+          "title_headline": "Re-Nylon",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": ".",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EEBy6iFXlsn3kGSVr1Uij.67?mo=GocCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE3CEMSLwotCPi7HCABMOADONQGQAFKDgoJEgIYFQEIDS8pEPQDUNhtaAJ1Pwt4QH0AAIA_IgISAKIBOAi6ChIvCi0Ips8WIAEw0AU4gApAAkoOCgkSARAOAQMILR8Q9ANQ2G1oAnUa0HxAfQAAgD8iAhIAogE4CJIKEi8KLQi7zBsgATDgAzjUBkACSg4KCRIEGgcBBgUrLBD0A1DYbWgCdSxCdkB9AACAPyICEgCiATgI0goSLwotCM2xESABMOADONQGQAJKDgoJEAMLDQIABh0eEPQDUNhtaAJ1dLN3QH0AAIA_IgISAJAD2G0%3D&uc=15",
+              "brand_name": "Prada",
+              "web_view_preview": {
+                "url": "https://www.prada.com/fr/fr/mens/mens-collection/c/10527EU?utm_source=snapchat&utm_medium=social_ad&utm_campaign=prrenylon26commercial&post_id=69c1686eab66b63ef4a6566d&utm_content=reach_pr&utm_term=snapstory"
+              }
+            }
+          ]
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your Headline is blank, confusing, not applicable to your ad, or identical to your Brand Name. Headlines should be the title of a campaign, slogan/tagline, tune-in date, etc. (e.g. \"30% Off Sale!\", \"Tune in this Tuesday\", \"Download Now\") and must be different from your Brand Name. Complicated URLs are also not permitted in this field. Please update your headline, resubmit, and our team will take another look."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "58f07980-2af0-4f38-b0d8-17833645623a",
+        "name": "Snap To Lens",
+        "ad_account_name": "Prada Spa Eyewear",
+        "status": "ACTIVE",
+        "creative_type": "AD_TO_LENS",
+        "ad_type": "AD_TO_LENS",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Lunettes de soleil Prada Runway",
+        "call_to_action": "TRY",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NP592qloErdunGhu1oIUx.67?mo=GtsCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBPQhDEikKJwjJuS8gAUodChg5NCgSGisfFzIVDiIULA0rDhsXNBgjIRYQ9ANoAiIOCgpCBgjagdG-BkgEEgCiAT0IugoSKAomCPT7LSABShwKF0YmIxAgHhwTOBcRIRYyGRUOGiArFyIgEPQDaAIiDgoKQgYIz4LRvgZIAxIAogE9CH8SKQonCOuGHSABSh0KGCYfGQwSGBIPHQwKEQ8aBx0LDQwkDRUUDRD0A2gCIg4KCkIGCM-C0b4GSAISAKIBPgiSChIpCicIvLoeIAFKHQoYKhwaDRMaExAdDgoTDhsJHg0OECINFhUNEPQDaAIiDgoKQgYIz4LRvgZIAhIAogE9CMQKEigKJgiymx4gAUocChcwGRgLFhQSDSQPChcNGREPChMUHA8YFhD0A2gCIg4KCkIGCM-C0b4GSAISAJAD4F0%3D&uc=15",
+        "start_date": "2025-04-14T22:00:10.000Z",
+        "impressions_total": 991971,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 991971,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Prada spa",
+        "brand_name": "Prada",
+        "profile_name": "Prada",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaEU1T0lpZ3FpbE5tR2RVZE1NaXdtP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "16d07ce1-6bf0-4ecc-981a-424b74a6bbf5",
+        "name": "fr_prada_prada_snapchat_social_prfw25_traffic_ALL_all_pr__snapad_PPL3_M",
+        "ad_account_name": "Prada spa Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": " Fall/Winter 2025 Collection ",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YO3CQb4tWiQcK8ghwgQMJ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-09-08T08:48:00.000Z",
+        "impressions_total": 57423,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 57423,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Prada spa",
+        "brand_name": "Prada",
+        "profile_name": "Prada",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaEU1T0lpZ3FpbE5tR2RVZE1NaXdtP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.prada.com/fr/fr/mens/fall-winter-2025/c/10782?utm_source=snapchat&utm_medium=social_ad&utm_campaign=prfw25&post_id=687910e7e4ce9139f1222a28&utm_content=traffic_pr&utm_term=snapad"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "7df7f394-f6d7-435d-b323-7d5acb2d081f",
+        "name": "fr_prada_prada_snapchat_social_preyewearfw25holiday_reach_W_f_pr_W_snapstory_PPV1_W",
+        "ad_account_name": "Prada Spa Eyewear",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": " Collection Holiday Prada Eyewear ",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-12-01T13:35:00.000Z",
+        "impressions_total": 551054,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 551054,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Prada spa",
+        "brand_name": "Prada",
+        "profile_name": "Prada",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaEU1T0lpZ3FpbE5tR2RVZE1NaXdtP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "composite_preview": {
+          "should_loop": false,
+          "title_headline": " Collection Holiday Prada Eyewear ",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": " Collection Holiday Prada Eyewear ",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Vig4JLfOZmuoURfaQhEgI.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjqmy4gATDgAzjUBkABSg4KCSYYGxkaIRkZFRD0A1CYdWgCdQCRPEAiBgoCSAMSAKIBPAi6ChIvCi0I7YodIAEw0AU4gApAAkoOCgkgDRQQFhAQHAoQ9ANQmHVoAnUYXERAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0I6OwTIAEw4AM41AZAAkoOCgkaCg4LDA8JCwcQ9ANQmHVoAnVx_jpAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I78USIAEw4AM41AZAAkoOCgkZCQsKDgoJDQYQ9ANQmHVoAnXoSUZAfQAAgD8iBgoCSAISAJADmHU%3D&uc=15",
+              "brand_name": "Prada",
+              "web_view_preview": {
+                "url": "https://www.prada.com/fr/fr/womens/accessories/sunglasses/c/10086EU?utm_source=snapchat&utm_medium=social_ad&utm_campaign=preyewearfw25holiday&post_id=6928567975e88a0aa8df55ed&utm_content=reach_pr&utm_term=snapstory"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "f33cd4a3-7d5e-479c-a37b-6c38b8538678",
+        "name": "fr_prada_miumiu_snapchat_social_mmleathergoods25_awareness_wave1_all_pr__snapstory_storyad2_wander",
+        "ad_account_name": "Miu Miu Spa",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Les sacs matelassés iconiques",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-04-01T08:00:00.000Z",
+        "impressions_total": 21182833,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 21182833,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Prada spa",
+        "brand_name": "Miu Miu",
+        "profile_name": "MiuMiu",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZWJ0dWtadTdMemtuQUlUcUJybUxBP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "composite_preview": {
+          "should_loop": false,
+          "title_headline": "Les sacs matelassés iconiques",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Les sacs matelassés iconiques",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/PuSMiLHuqrIUzIbCg5dtg.67?mo=GpICGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLghDEhoKGAiQj1cgAUoOCgk2ETMkMSUiIzIQ9ANoAiIOCgpCBgjOiqq_BkgDEgCiAS8IugoSGgoYCIe1KiABSg4KCRsFERETEBAbJxD0A2gCIg4KCkIGCIeLqr8GSAISAKIBLgh_EhoKGAit9yAgAUoOCgkXBAsIEBAKFSAQ9ANoAiIOCgpCBgiIi6q_BkgCEgCiAS8IkgoSGgoYCLDsISABSg4KCRgECgoOEQ8WIBD0A2gCIg4KCkIGCIeLqr8GSAISAKIBLwjEChIaChgImpIcIAFKDgoJFgQKCQsLCxMcEPQDaAIiDgoKQgYIiIuqvwZIAhIAkAPodQ%3D%3D&uc=15",
+              "brand_name": "Miu Miu",
+              "web_view_preview": {
+                "url": "https://www.miumiu.com/fr/fr/collections/iconic-matelasse/c/10739EU?utm_source=snapchat&utm_medium=social_ad&utm_campaign=mmleathergoods25&post_id=67ea91685051d73f67cc26cf&utm_content=awareness_pr&utm_term=snapstory"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "cc76b597-f872-4798-9c49-0a5662923200",
+        "name": "fr_prada_prada_snapchat_social_prmayissue25_traffic_ALL_all_pr__snapad_PPL6_W",
+        "ad_account_name": "Prada spa Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Days of Summer",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/t8Cqq0i8Du39jznpyCB0g.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-05-15T09:00:00.000Z",
+        "impressions_total": 1257889,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1257889,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Prada spa",
+        "brand_name": "Prada",
+        "profile_name": "Prada",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaEU1T0lpZ3FpbE5tR2RVZE1NaXdtP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.prada.com/fr/fr/womens/days-of-summer/c/10746EU?utm_source=snapchat&utm_medium=social_ad&utm_campaign=prmayissue25&post_id=67f8fc4d87fd6b7ba2bff088&utm_content=traffic_pr&utm_term=snapad"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b8781525-d601-4d31-bf01-6441216f8234",
+        "name": "fr_prada_prada_snapchat_social_prholiday25_traffic_ALL_f_pr__snapad_PPL2_W",
+        "ad_account_name": "Prada spa Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": " Collection Holiday ",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gPKOzwnqePHlUBt2vM2vV.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-11-17T15:10:00.000Z",
+        "impressions_total": 268907,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 268907,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Prada spa",
+        "brand_name": "Prada",
+        "profile_name": "Prada",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaEU1T0lpZ3FpbE5tR2RVZE1NaXdtP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.prada.com/fr/fr/womens/holiday-collection/c/10298EU?utm_source=snapchat&utm_medium=social_ad&utm_campaign=prholiday25&post_id=691201ea75e88a0aa829caaa&utm_content=traffic_pr&utm_term=snapad"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "12ff0985-4aa2-4afb-9354-7b665cbcb5ee",
+        "name": "fr_prada_prada_snapchat_social_prrenylon25_traffic_ALL_all_pr_ALL_snapad_PPL3_W",
+        "ad_account_name": "Prada spa Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Prada Re-Nylon 2025 ",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ExrI5m2MMb2eUlIkOP4c3.380?mo=GjsaFDIBBDoBfUIGCNeUgr4GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+        "start_date": "2025-03-03T09:00:00.000Z",
+        "impressions_total": 288485,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 288485,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Prada spa",
+        "brand_name": "Prada",
+        "profile_name": "Prada",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaEU1T0lpZ3FpbE5tR2RVZE1NaXdtP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.prada.com/fr/fr/womens/womens-collection/c/10525EU?utm_source=snapchat&utm_medium=social_ad&utm_campaign=prrenylon25&post_id=67c089955360ca0a9330ae43&utm_content=traffic_pr&utm_term=snapad"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    }
+  ]
+}

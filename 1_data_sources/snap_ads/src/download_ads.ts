@@ -2,7 +2,7 @@
  * Bulk download Snapchat ads for a curated list of Fashion & Beauty brands.
  *
  * Usage:
- *   npx tsx src/download_ads.ts                        # all brands, 5 priority countries
+ *   npx tsx src/download_ads.ts                        # all brands, default = API doc country list
  *   npx tsx src/download_ads.ts --countries de,fr      # specific countries
  *   npx tsx src/download_ads.ts --retry                # retry only previously failed brands
  *   npx tsx src/download_ads.ts --limit 50             # first 50 brands only
@@ -94,10 +94,15 @@ const OUT_DIR = path.join(DATA_DIR, "ads_fashion");
 const LOG_FILE = path.join(OUT_DIR, "download_log.jsonl");
 const STATE_FILE = path.join(OUT_DIR, "state.json");
 
-const PRIORITY_COUNTRIES = ["de", "fr", "nl", "se", "es"];
+/** Ads Library `/ads/search` — `countries` possible values (Snap docs, Ads Gallery API). */
+const PRIORITY_COUNTRIES = [
+  "de", "be", "fi", "pt", "bg", "dk", "lt", "lu", "hr", "lv", "fr", "hu", "se", "si", "sk", "ie",
+  "ee", "el", "mt", "it", "es", "at", "cy", "cz", "pl", "ro", "nl",
+];
 const BASE = "https://adsapi.snapchat.com/v1/ads_library";
 const DELAY_MS = 2500;
 const DELAY_AFTER_E1009_MS = 300;
+const CONCURRENCY = 3;
 const REQUEST_TIMEOUT = 30_000;
 const PAGE_LIMIT = 50;
 
@@ -274,26 +279,14 @@ function pickProxy(): string | undefined {
     if (choice === "datacenter" || choice === "dc") return process.env.SNAP_PROXY;
     return choice; // treat as raw URL
   }
-  return process.env.RESIDENTAL_PROXY ?? process.env.SNAP_PROXY;
+  return process.env.SNAP_PROXY;
 }
 
-const baseProxyUrl = pickProxy();
-
-function stickyProxy(sessionTag: string): string | undefined {
-  if (!baseProxyUrl) return undefined;
-  const url = new URL(baseProxyUrl);
-  if (url.hostname.includes("evomi")) {
-    url.password += `_session-${sessionTag.slice(0, 8)}`;
-  } else if (url.username.includes("-rotate")) {
-    url.username = url.username.replace("-rotate", `-session-${sessionTag}`);
-  }
-  return url.toString();
-}
+const proxyUrl = pickProxy();
 
 async function fetchAds(
   brand: string,
   country: string,
-  proxy: string | undefined,
 ): Promise<{ status: CellStatus; ads: unknown[]; nextLink?: string; errorCode?: string }> {
   const url = `${BASE}/ads/search?limit=${PAGE_LIMIT}`;
   const body = JSON.stringify({ paying_advertiser_name: brand, countries: [country] });
@@ -306,7 +299,7 @@ async function fetchAds(
       method: "POST",
       body,
       headers: { "content-type": "application/json" },
-      proxyUrl: proxy,
+      proxyUrl,
       headerGeneratorOptions: { browsers: ["chrome"], operatingSystems: ["macos"] },
       responseType: "text",
       throwHttpErrors: false,
@@ -343,7 +336,6 @@ async function fetchRemainingPages(
   brand: string,
   country: string,
   startCursor: string,
-  proxy: string | undefined,
 ): Promise<{ ads: unknown[]; pages: number; complete: boolean; lastCursor?: string }> {
   const allAds: unknown[] = [];
   let cursor: string | undefined = startCursor;
@@ -358,7 +350,7 @@ async function fetchRemainingPages(
         url: cursor, method: "POST",
         body: JSON.stringify({ paying_advertiser_name: brand, countries: [country] }),
         headers: { "content-type": "application/json" },
-        proxyUrl: proxy,
+        proxyUrl,
         headerGeneratorOptions: { browsers: ["chrome"], operatingSystems: ["macos"] },
         responseType: "text", throwHttpErrors: false,
         timeout: { request: REQUEST_TIMEOUT },
@@ -415,7 +407,7 @@ async function main(): Promise<void> {
     return;
   }
 
-  if (!baseProxyUrl) {
+  if (!proxyUrl) {
     log("ERR", "SNAP_PROXY not set in .env");
     process.exit(1);
   }
@@ -426,7 +418,7 @@ async function main(): Promise<void> {
   const cooldownSec = cooldownIdx >= 0 ? parseInt(args[cooldownIdx + 1], 10) : 30;
 
   log("INFO", `Brands: ${brands.length} | Countries: ${countries.join(",")} | Retry: ${retryOnly || loopMode} | Loop: ${loopMode} | Forever: ${foreverMode} | Limit: ${limit}`);
-  log("INFO", `Proxy: ${baseProxyUrl!.replace(/:[^:@]+@/, ":***@")} (sticky sessions per brand)`);
+  log("INFO", `Proxy: ${proxyUrl.replace(/:[^:@]+@/, ":***@")}`);
 
   let passNum = 0;
 
@@ -446,41 +438,55 @@ async function main(): Promise<void> {
 
     const shuffled = [...brands].sort(() => Math.random() - 0.5);
 
+    // Collect eligible brand+country pairs for this pass
+    type Job = { brand: string; country: string; key: string; outFile: string };
+    const jobs: Job[] = [];
     for (const { brand } of shuffled) {
-      if (processed >= limit) break;
-
-      const sessionId = `${brand.replace(/\W/g, "")}-${Date.now()}`;
-      const brandProxy = stickyProxy(sessionId);
-
+      if (jobs.length >= limit) break;
       for (const country of countries) {
-        if (processed >= limit) break;
-
+        if (jobs.length >= limit) break;
         const key = cellKey(brand, country);
         const existing = state.cells[key];
-
         if (existing?.status === "fetched" || existing?.status === "no_ads") continue;
-
         if ((retryOnly || loopMode) && passNum > 1 && existing?.status !== "rate_limited" && existing?.status !== "error") continue;
+        jobs.push({ brand, country, key, outFile: path.join(OUT_DIR, `${brand.replace(/[^a-zA-Z0-9]/g, "_")}_${country}.json`) });
+      }
+    }
 
-        processed++;
-        const start = Date.now();
-        const outFile = path.join(OUT_DIR, `${brand.replace(/[^a-zA-Z0-9]/g, "_")}_${country}.json`);
+    // Process jobs in parallel batches
+    for (let i = 0; i < jobs.length; i += CONCURRENCY) {
+      const batch = jobs.slice(i, i + CONCURRENCY);
+      const labels = batch.map((j) => j.brand).join(", ");
+      log("INFO", `[${i + 1}-${i + batch.length}/${jobs.length}] ${labels}`);
+
+      const results = await Promise.all(batch.map(async (job) => {
+        const { brand, country, key } = job;
+        const existing = state.cells[key];
         const savedCursor = existing?.next_link;
+        const start = Date.now();
 
-        // --- RESUME PATH: we already have partial data + a cursor ---
+        // --- RESUME PATH ---
         if (savedCursor && existing?.ads_count && existing.ads_count > 0) {
-          log("INFO", `[${processed}] ${brand} / ${country.toUpperCase()} — resuming pagination (have ${existing.ads_count} ads)...`);
+          const rest = await fetchRemainingPages(brand, country, savedCursor);
+          return { job, type: "resume" as const, rest, elapsed: Date.now() - start, existing };
+        }
 
-          let previousAds: unknown[] = [];
-          if (fs.existsSync(outFile)) {
-            try {
-              previousAds = JSON.parse(fs.readFileSync(outFile, "utf-8")).ads ?? [];
-            } catch { /* will re-fetch from scratch */ }
-          }
+        // --- FRESH FETCH ---
+        const result = await fetchAds(brand, country);
+        return { job, type: "fresh" as const, result, elapsed: Date.now() - start, existing };
+      }));
 
-          const rest = await fetchRemainingPages(brand, country, savedCursor, brandProxy);
-          state.total_requests++;
-          const elapsed = Date.now() - start;
+      // Process results sequentially (shared state)
+      let batchHadSuccess = false;
+      for (const r of results) {
+        const { job, elapsed, existing } = r;
+        const { brand, country, key, outFile } = job;
+        const previousCount = existing?.ads_count ?? 0;
+        processed++;
+        state.total_requests++;
+
+        if (r.type === "resume") {
+          const { rest } = r;
           appendLog({
             ts: new Date().toISOString(), brand, country,
             status: rest.complete ? "fetched" : "rate_limited",
@@ -489,118 +495,99 @@ async function main(): Promise<void> {
           });
 
           if (rest.ads.length > 0 || rest.complete) {
+            let previousAds: unknown[] = [];
+            if (fs.existsSync(outFile)) {
+              try { previousAds = JSON.parse(fs.readFileSync(outFile, "utf-8")).ads ?? []; } catch { /* */ }
+            }
             const allAds = [...previousAds, ...rest.ads];
             const paginationComplete = rest.complete;
-
             fs.writeFileSync(outFile, JSON.stringify({
               brand, country, fetched_at: new Date().toISOString(),
               ads_count: allAds.length, pagination_complete: paginationComplete, ads: allAds,
             }, null, 2));
-
             const newAds = allAds.length - previousAds.length;
             state.total_ads += newAds;
             state.cells[key] = {
               status: paginationComplete ? "fetched" : "rate_limited",
-              ads_count: allAds.length,
-              fetched_at: new Date().toISOString(),
+              ads_count: allAds.length, fetched_at: new Date().toISOString(),
               ...(paginationComplete ? {} : { next_link: rest.lastCursor, error: "PARTIAL" }),
             };
             passStats.fetched++;
-            log("DATA", `  +${newAds} ads → ${allAds.length} total (${rest.pages} pg, ${paginationComplete ? "complete" : "PARTIAL"}) (${elapsed}ms)`);
+            batchHadSuccess = true;
+            log("DATA", `  ${brand}: +${newAds} → ${allAds.length} total (${rest.pages} pg, ${paginationComplete ? "complete" : "PARTIAL"}) (${elapsed}ms)`);
           } else {
-            state.cells[key] = { ...existing, next_link: undefined, error: "PARTIAL: cursor expired, will retry from page 1" };
+            state.cells[key] = { ...existing!, next_link: undefined, error: "PARTIAL: cursor expired, will retry from page 1" };
             passStats.rate_limited++;
-            log("WARN", `  Resume failed — cursor dead, cleared for fresh retry (${elapsed}ms)`);
+            log("WARN", `  ${brand}: resume failed — cursor dead (${elapsed}ms)`);
           }
-
-          saveState(state);
-          await sleep(DELAY_MS);
-          continue;
-        }
-
-        // --- FRESH FETCH PATH ---
-        log("INFO", `[${processed}] ${brand} / ${country.toUpperCase()}...`);
-
-        const result = await fetchAds(brand, country, brandProxy);
-        const elapsed = Date.now() - start;
-        state.total_requests++;
-
-        appendLog({
-          ts: new Date().toISOString(), brand, country,
-          status: result.status, ads_count: result.ads.length,
-          has_more: Boolean(result.nextLink), error_code: result.errorCode, elapsed_ms: elapsed,
-        });
-
-        const previousCount = existing?.ads_count ?? 0;
-
-        if (result.status === "fetched") {
-          let ads = result.ads;
-          let pages = 1;
-          let paginationComplete = !result.nextLink;
-          let lastCursor: string | undefined;
-
-          if (result.nextLink) {
-            log("INFO", `  Pagination detected — fetching remaining pages...`);
-            const rest = await fetchRemainingPages(brand, country, result.nextLink, brandProxy);
-            ads = [...result.ads, ...rest.ads];
-            pages = 1 + rest.pages;
-            paginationComplete = rest.complete;
-            lastCursor = rest.lastCursor;
-            if (!rest.complete) {
-              log("WARN", `  Partial: ${ads.length} ads across ${pages} pages, more exist — will resume next pass`);
-            }
-          }
-
-          if (ads.length < previousCount) {
-            log("WARN", `  Got ${ads.length} ads but already have ${previousCount} on disk — keeping existing data`);
-            state.cells[key] = {
-              status: paginationComplete ? "fetched" : "rate_limited",
-              ads_count: previousCount,
-              fetched_at: existing?.fetched_at,
-              ...(paginationComplete ? {} : { next_link: lastCursor, error: "PARTIAL" }),
-            };
-          } else {
-            fs.writeFileSync(outFile, JSON.stringify({
-              brand, country, fetched_at: new Date().toISOString(),
-              ads_count: ads.length, pagination_complete: paginationComplete, ads,
-            }, null, 2));
-
-            state.cells[key] = {
-              status: paginationComplete ? "fetched" : "rate_limited",
-              ads_count: ads.length,
-              fetched_at: new Date().toISOString(),
-              ...(paginationComplete ? {} : { next_link: lastCursor, error: "PARTIAL" }),
-            };
-            state.total_ads += ads.length - previousCount;
-          }
-          passStats.fetched++;
-          log("DATA", `  ${ads.length} ads (${pages} pg, ${paginationComplete ? "complete" : "PARTIAL"}) → ${path.basename(outFile)} (${elapsed}ms)`);
-        } else if (result.status === "no_ads") {
-          if (previousCount > 0) {
-            state.cells[key] = { status: "rate_limited", ads_count: previousCount, error: "SOFT_BLOCK: 0 ads but already have data" };
-            passStats.rate_limited++;
-            log("WARN", `  0 ads but already have ${previousCount} — soft block, will retry (${elapsed}ms)`);
-          } else {
-            state.cells[key] = { status: "no_ads", ads_count: 0 };
-            passStats.no_ads++;
-            log("INFO", `  0 ads (${elapsed}ms)`);
-          }
-        } else if (result.status === "rate_limited") {
-          state.cells[key] = { status: "rate_limited", ads_count: previousCount, error: result.errorCode };
-          passStats.rate_limited++;
-          log("WARN", `  E1009 (${elapsed}ms)`);
-          saveState(state);
-          await sleep(DELAY_AFTER_E1009_MS);
-          continue;
         } else {
-          state.cells[key] = { status: "error", ads_count: previousCount, error: result.errorCode };
-          passStats.error++;
-          log("ERR", `  ${result.errorCode} (${elapsed}ms)`);
-        }
+          const { result } = r;
+          appendLog({
+            ts: new Date().toISOString(), brand, country,
+            status: result.status, ads_count: result.ads.length,
+            has_more: Boolean(result.nextLink), error_code: result.errorCode, elapsed_ms: elapsed,
+          });
 
-        saveState(state);
-        await sleep(DELAY_MS);
+          if (result.status === "fetched") {
+            let ads = result.ads;
+            let pages = 1;
+            let paginationComplete = !result.nextLink;
+            let lastCursor: string | undefined;
+
+            if (result.nextLink) {
+              const rest = await fetchRemainingPages(brand, country, result.nextLink);
+              ads = [...result.ads, ...rest.ads];
+              pages = 1 + rest.pages;
+              paginationComplete = rest.complete;
+              lastCursor = rest.lastCursor;
+            }
+
+            if (ads.length >= previousCount) {
+              fs.writeFileSync(outFile, JSON.stringify({
+                brand, country, fetched_at: new Date().toISOString(),
+                ads_count: ads.length, pagination_complete: paginationComplete, ads,
+              }, null, 2));
+              state.cells[key] = {
+                status: paginationComplete ? "fetched" : "rate_limited",
+                ads_count: ads.length, fetched_at: new Date().toISOString(),
+                ...(paginationComplete ? {} : { next_link: lastCursor, error: "PARTIAL" }),
+              };
+              state.total_ads += ads.length - previousCount;
+            } else {
+              state.cells[key] = {
+                status: paginationComplete ? "fetched" : "rate_limited",
+                ads_count: previousCount, fetched_at: existing?.fetched_at,
+                ...(paginationComplete ? {} : { next_link: lastCursor, error: "PARTIAL" }),
+              };
+            }
+            passStats.fetched++;
+            batchHadSuccess = true;
+            log("DATA", `  ${brand}: ${ads.length} ads (${pages} pg, ${paginationComplete ? "complete" : "PARTIAL"}) (${elapsed}ms)`);
+          } else if (result.status === "no_ads") {
+            if (previousCount > 0) {
+              state.cells[key] = { status: "rate_limited", ads_count: previousCount, error: "SOFT_BLOCK" };
+              passStats.rate_limited++;
+              log("WARN", `  ${brand}: 0 ads but have ${previousCount} — soft block (${elapsed}ms)`);
+            } else {
+              state.cells[key] = { status: "no_ads", ads_count: 0 };
+              passStats.no_ads++;
+              log("INFO", `  ${brand}: 0 ads (${elapsed}ms)`);
+            }
+            batchHadSuccess = true;
+          } else if (result.status === "rate_limited") {
+            state.cells[key] = { status: "rate_limited", ads_count: previousCount, error: result.errorCode };
+            passStats.rate_limited++;
+            log("WARN", `  ${brand}: E1009 (${elapsed}ms)`);
+          } else {
+            state.cells[key] = { status: "error", ads_count: previousCount, error: result.errorCode };
+            passStats.error++;
+            log("ERR", `  ${brand}: ${result.errorCode} (${elapsed}ms)`);
+          }
+        }
       }
+
+      saveState(state);
+      await sleep(batchHadSuccess ? DELAY_MS : DELAY_AFTER_E1009_MS);
     }
 
     log("INFO", "");
@@ -625,16 +612,14 @@ async function main(): Promise<void> {
     }
 
     const zeroProgress = passStats.fetched === 0 && passStats.no_ads === 0;
-
     if (!foreverMode && zeroProgress) {
       log("WARN", `Pass ${passNum} made ZERO progress (${remaining} still blocked). IPs may be exhausted — stopping. Use --forever to keep retrying.`);
       break;
     }
+
+    nextCooldown = zeroProgress ? cooldownSec * 3 : cooldownSec;
     if (zeroProgress) {
-      nextCooldown = cooldownSec * 3;
       log("WARN", `Pass ${passNum} made ZERO progress — tripling cooldown to ${nextCooldown}s`);
-    } else {
-      nextCooldown = cooldownSec;
     }
 
     log("INFO", `${remaining} brands still rate-limited — looping (${nextCooldown}s cooldown)...`);
