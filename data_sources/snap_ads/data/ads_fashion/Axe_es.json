@@ -1,8 +1,9 @@
 {
   "brand": "Axe",
   "country": "es",
-  "fetched_at": "2026-04-09T00:03:01.618Z",
+  "fetched_at": "2026-04-09T17:22:17.611Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
@@ -80,8 +81,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b7106163-bd20-4580-b363-dc647581041c",
-        "name": "14",
+        "id": "6c24e374-1ba7-4e77-b3a5-7d57e33929a7",
+        "name": "7",
         "ad_account_name": "Snuviico.com (RÄTT)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -94,256 +95,37 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Jz2xu3j5d11EuBA0ovSPk.67?mo=GpgCGggyAgR9UA9gAVoIQWRzTWVkaWGiATwIQxIwCi4IkOp7IAEw4AM41AZAAUoOCgleKTUWHR8YPigQ9ANQwqgBaAJ1LZBHQH0AAIA_IgYKAkgEEgCiAT0IugoSMAouCJfzZSABMNAFOIAKQAJKDgoJTSMtERQbEEwhEPQDUMKoAWgCdTjMTEB9AACAPyIGCgJIAxIAogE9CJIKEjAKLgihjUwgATDgAzjUBkACSg4KCUIXHQ0QEQ0pGBD0A1DCqAFoAnUKk0NAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I9qRCIAEw4AM41AZAAkoOCgk6GB0LDREKLxUQ9ANQwqgBaAJ1SnJNQH0AAIA_IgYKAkgCEgCQA8KoAQ%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WAXcJJFqmN5CeWbNDGycj.67?mo=GpwCGggyAgR9UA9gAVoIQWRzTWVkaWGiAT0IQxIxCi8Iy7SMBCABMOADONQGQAFKDgoJZiAuN0MtIiEYEPQDUKTmAmgCdY3aO0B9AACAPyIGCgJIBBIAogE-CLoKEjEKLwjf5NEDIAEw0AU4gApAAkoOCgl3ICIvNjoeJR4Q9ANQpOYCaAJ1ODZGQH0AAIA_IgYKAkgDEgCiAT4IkgoSMQovCLzp5AIgATDgAzjUBkACSg4KCVUTHSMoHRUVERD0A1Ck5gJoAnVXeSxAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8IvMj2ASABMOADONQGQAJKDgoJVxETGx4gERUQEPQDUKTmAmgCdai-MUB9AACAPyIGCgJIAhIAkAOk5gI%3D&uc=15",
         "start_date": "2025-10-21T16:49:22.000Z",
-        "impressions_total": 192,
+        "impressions_total": 245,
         "impressions_map": {
-          "de": 5,
+          "de": 4,
           "be": 0,
-          "fi": 10,
+          "fi": 7,
           "pt": 0,
           "bg": 0,
-          "dk": 8,
-          "lt": 9,
+          "dk": 16,
+          "lt": 7,
           "lu": 0,
           "hr": 0,
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 8,
-          "si": 19,
-          "sk": 0,
-          "ie": 5,
-          "ee": 0,
-          "el": 26,
-          "mt": 0,
-          "it": 23,
-          "es": 19,
-          "at": 11,
-          "cy": 0,
-          "cz": 9,
-          "pl": 25,
-          "ro": 0,
-          "nl": 15,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "AxelssonPeak Invest AB",
-        "profile_name": "SNUVII",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnNJYVc4aVdQNXRuWlQ4M01CUFhiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://snuviico.com/products/cloud-blanket"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "6be0e801-7a12-4f47-9684-28d5c9f49e6e",
-        "name": "8",
-        "ad_account_name": "Snuviico.com (RÄTT)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "\"Softest blanket I’ve owned! ❤️\"",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Yz5cpDPp55SrvS4V0VjDI.67?mo=GoUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBMwhDEisKKQiR2G8gATDgAzjUBkABSg4KCVcYHBwjJCMrIhD0A1DCngFoAnUBW09AIgISAKIBOQi6ChIwCi4IjN9QIAEwwAQ4gAhAAkoOCglJExEUGSAVHhcQ9ANQwp4BaAJ1hi9TQH0AAIA_IgISAKIBOQiSChIwCi4I0b5GIAEw4AM41AZAAkoOCgk9DhASFRcVHRYQ9ANQwp4BaAJ1PEhIQH0AAIA_IgISAKIBOQjSChIwCi4I3b85IAEw4AM41AZAAkoOCgk6Dg0PExgQFhAQ9ANQwp4BaAJ17RNNQH0AAIA_IgISAJADwp4B&uc=15",
-        "start_date": "2025-10-21T16:49:22.000Z",
-        "impressions_total": 264,
-        "impressions_map": {
-          "de": 10,
-          "be": 0,
-          "fi": 14,
-          "pt": 0,
-          "bg": 0,
-          "dk": 29,
-          "lt": 2,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 33,
-          "si": 15,
+          "se": 9,
+          "si": 41,
           "sk": 3,
-          "ie": 34,
+          "ie": 13,
           "ee": 0,
-          "el": 27,
+          "el": 54,
           "mt": 0,
-          "it": 22,
-          "es": 17,
-          "at": 13,
+          "it": 27,
+          "es": 19,
+          "at": 8,
           "cy": 0,
-          "cz": 5,
-          "pl": 24,
+          "cz": 14,
+          "pl": 18,
           "ro": 0,
-          "nl": 16,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "AxelssonPeak Invest AB",
-        "profile_name": "SNUVII",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnNJYVc4aVdQNXRuWlQ4M01CUFhiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://snuviico.com/products/cloud-blanket"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c1e0afbb-e0b7-4ae2-b63b-b026edc30937",
-        "name": "4",
-        "ad_account_name": "Snuviico.com (RÄTT)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "\"Softest blanket I’ve owned! ❤️\"",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xXx3HQluuOnqmFs8CNDcx.67?mo=GpwCGggyAgR9UA9gAVoIQWRzTWVkaWGiATkIQxItCisI9bimAiABMOADONQGQAFKDwoKvgFIWigjMyJvLhD0A1CKmAJoAnXgD1FAIgYKAkgDEgCiAUAIugoSMwoxCIaa1QIgATDQBTiACkACShAKC_QBUlwlJzAgugFaEPQDUIqYAmgCdTpuXEB9AACAPyIGCgJIAhIAogE_CJIKEjIKMAiQ_8MBIAEw4AM41AZAAkoPCgqUAS84GxgdFkooEPQDUIqYAmgCdcC4Q0B9AACAPyIGCgJIAhIAogE_CNIKEjIKMAjmjacBIAEw4AM41AZAAkoPCgqHASs1EhYaElIlEPQDUIqYAmgCdTEfTEB9AACAPyIGCgJIAhIAkAOKmAI%3D&uc=15",
-        "start_date": "2025-10-21T16:49:22.000Z",
-        "impressions_total": 564,
-        "impressions_map": {
-          "de": 19,
-          "be": 0,
-          "fi": 19,
-          "pt": 0,
-          "bg": 0,
-          "dk": 27,
-          "lt": 11,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 36,
-          "si": 93,
-          "sk": 2,
-          "ie": 48,
-          "ee": 0,
-          "el": 79,
-          "mt": 0,
-          "it": 30,
-          "es": 52,
-          "at": 21,
-          "cy": 0,
-          "cz": 18,
-          "pl": 96,
-          "ro": 0,
-          "nl": 13,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "AxelssonPeak Invest AB",
-        "profile_name": "SNUVII",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnNJYVc4aVdQNXRuWlQ4M01CUFhiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://snuviico.com/products/cloud-blanket"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "0c2b0cc0-256f-440f-8493-e813905c110a",
-        "name": "20",
-        "ad_account_name": "Snuviico.com (RÄTT)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "\"Softest blanket I’ve owned! ❤️\"",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/yTTg1zloeROP67RfsUJJe.67?mo=GpsCGggyAgR9UA9gAVoIQWRzTWVkaWGiAT0IQxIxCi8IjdHsASABMOADONQGQAFKDgoJYyIcMC4wMSofEPQDUPykAmgCdVuwTUB9AACAPyIGCgJIAhIAogE-CLoKEjEKLwimpM4BIAEw0AU4gApAAkoOCgliHhIpKiIgHhYQ9ANQ_KQCaAJ1E4hlQH0AAIA_IgYKAkgDEgCiAT4IkgoSMQovCPKAjQEgATDgAzjUBkACSg4KCUsUDx4aFxgWEhD0A1D8pAJoAnUYRERAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4IqLhyIAEw4AM41AZAAkoOCglGEwsbGhYUEw4Q9ANQ_KQCaAJ1WiVSQH0AAIA_IgYKAkgCEgCQA_ykAg%3D%3D&uc=15",
-        "start_date": "2025-10-21T16:49:22.000Z",
-        "impressions_total": 1521,
-        "impressions_map": {
-          "de": 17,
-          "be": 0,
-          "fi": 29,
-          "pt": 0,
-          "bg": 0,
-          "dk": 28,
-          "lt": 84,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 22,
-          "si": 342,
-          "sk": 9,
-          "ie": 52,
-          "ee": 0,
-          "el": 448,
-          "mt": 0,
-          "it": 110,
-          "es": 72,
-          "at": 27,
-          "cy": 0,
-          "cz": 69,
-          "pl": 189,
-          "ro": 0,
-          "nl": 23,
+          "nl": 5,
           "tr": 0
         },
         "targeting_v2": {
@@ -445,6 +227,444 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
+        "id": "2361dcff-db65-4a3d-86c4-d5abb2214db2",
+        "name": "10",
+        "ad_account_name": "Snuviico.com (RÄTT)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "\"Softest blanket I’ve owned! ❤️\"",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/lo6Tx4eefCOKhfROAQhJY.67?mo=GpYCGggyAgR9UA9gAVoIQWRzTWVkaWGiATgIQxIsCioIpbrnASABMOADONQGQAFKDgoJZB8gGiEUGhkjEPQDUJ67AmgCdYxrTUAiBgoCSAMSAKIBPgi6ChIxCi8I4PfKASABMNAFOIAKQAJKDgoJXBwWFhoSEBEXEPQDUJ67AmgCdUgRYUB9AACAPyIGCgJIAhIAogE-CJIKEjEKLwjL848BIAEw4AM41AZAAkoOCglMExMPEQoNDBIQ9ANQnrsCaAJ1LUJGQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCLbxbSABMOADONQGQAJKDgoJRxIODRELCgsPEPQDUJ67AmgCdXulUUB9AACAPyIGCgJIAhIAkAOeuwI%3D&uc=15",
+        "start_date": "2025-10-21T16:49:22.000Z",
+        "impressions_total": 2453,
+        "impressions_map": {
+          "de": 19,
+          "be": 0,
+          "fi": 16,
+          "pt": 0,
+          "bg": 0,
+          "dk": 13,
+          "lt": 83,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 3,
+          "hu": 0,
+          "se": 17,
+          "si": 216,
+          "sk": 7,
+          "ie": 41,
+          "ee": 0,
+          "el": 809,
+          "mt": 0,
+          "it": 305,
+          "es": 318,
+          "at": 19,
+          "cy": 0,
+          "cz": 189,
+          "pl": 381,
+          "ro": 0,
+          "nl": 17,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "AxelssonPeak Invest AB",
+        "profile_name": "SNUVII",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnNJYVc4aVdQNXRuWlQ4M01CUFhiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://snuviico.com/products/cloud-blanket"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "fc95ca6a-7d21-49c6-9dd0-6d02ba197e02",
+        "name": "25",
+        "ad_account_name": "Snuviico.com (RÄTT)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "\"Softest blanket I’ve owned! ❤️\"",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YELXz0gsdrYTB234SMGwx.67?mo=GpgCGggyAgR9UA9gAVoIQWRzTWVkaWGiATwIQxIwCi4I49BvIAEw4AM41AZAAUoOCglcITsWKzMrSzoQ9ANQzIABaAJ1eMVBQH0AAIA_IgYKAkgDEgCiAT0IugoSMAouCI2uWyABMNAFOIAKQAJKDgoJVR05EyMnGzcoEPQDUMyAAWgCdQ1JRUB9AACAPyIGCgJIAxIAogE9CJIKEjAKLgjXwEQgATDgAzjUBkACSg4KCT8UIw0ZGhsqHhD0A1DMgAFoAnVkUj9AfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I2pE6IAEw4AM41AZAAkoOCgk8EyELFhkSIhkQ9ANQzIABaAJ1VNVEQH0AAIA_IgYKAkgCEgCQA8yAAQ%3D%3D&uc=15",
+        "start_date": "2025-10-21T16:49:22.000Z",
+        "impressions_total": 843,
+        "impressions_map": {
+          "de": 10,
+          "be": 0,
+          "fi": 14,
+          "pt": 0,
+          "bg": 0,
+          "dk": 13,
+          "lt": 50,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 15,
+          "si": 124,
+          "sk": 7,
+          "ie": 43,
+          "ee": 0,
+          "el": 243,
+          "mt": 0,
+          "it": 98,
+          "es": 63,
+          "at": 14,
+          "cy": 0,
+          "cz": 59,
+          "pl": 76,
+          "ro": 0,
+          "nl": 14,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "AxelssonPeak Invest AB",
+        "profile_name": "SNUVII",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnNJYVc4aVdQNXRuWlQ4M01CUFhiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://snuviico.com/products/cloud-blanket"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c1e0afbb-e0b7-4ae2-b63b-b026edc30937",
+        "name": "4",
+        "ad_account_name": "Snuviico.com (RÄTT)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "\"Softest blanket I’ve owned! ❤️\"",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xXx3HQluuOnqmFs8CNDcx.67?mo=GpwCGggyAgR9UA9gAVoIQWRzTWVkaWGiATkIQxItCisI9bimAiABMOADONQGQAFKDwoKvgFIWigjMyJvLhD0A1CKmAJoAnXgD1FAIgYKAkgDEgCiAUAIugoSMwoxCIaa1QIgATDQBTiACkACShAKC_QBUlwlJzAgugFaEPQDUIqYAmgCdTpuXEB9AACAPyIGCgJIAhIAogE_CJIKEjIKMAiQ_8MBIAEw4AM41AZAAkoPCgqUAS84GxgdFkooEPQDUIqYAmgCdcC4Q0B9AACAPyIGCgJIAhIAogE_CNIKEjIKMAjmjacBIAEw4AM41AZAAkoPCgqHASs1EhYaElIlEPQDUIqYAmgCdTEfTEB9AACAPyIGCgJIAhIAkAOKmAI%3D&uc=15",
+        "start_date": "2025-10-21T16:49:22.000Z",
+        "impressions_total": 564,
+        "impressions_map": {
+          "de": 19,
+          "be": 0,
+          "fi": 19,
+          "pt": 0,
+          "bg": 0,
+          "dk": 27,
+          "lt": 11,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 36,
+          "si": 93,
+          "sk": 2,
+          "ie": 48,
+          "ee": 0,
+          "el": 79,
+          "mt": 0,
+          "it": 30,
+          "es": 52,
+          "at": 21,
+          "cy": 0,
+          "cz": 18,
+          "pl": 96,
+          "ro": 0,
+          "nl": 13,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "AxelssonPeak Invest AB",
+        "profile_name": "SNUVII",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnNJYVc4aVdQNXRuWlQ4M01CUFhiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://snuviico.com/products/cloud-blanket"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "568a6e78-b2d9-4d5f-908f-50b0caf6fb78",
+        "name": "29",
+        "ad_account_name": "Snuviico.com (RÄTT)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "\"Softest blanket I’ve owned! ❤️\"",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NRpk8zyNpiKTlnO0zef6M.67?mo=GpQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATkIQxItCisIiOjwASABMOADONQGQAFKDwoKwAE0NCYbHx8gIBD0A1CIsAJoAnXOKz9AIgYKAkgCEgCiAToIugoSLQorCI_p6wEgATDQBTiACkACSg8KCu4BVDYsER0bHRsQ9ANQiLACaAJ1MWdNQCIGCgJIAxIAogE_CJIKEjIKMAjey5IBIAEw4AM41AZAAkoPCgqJASQdEQ0RERISEPQDUIiwAmgCdehQOEB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgjj8nsgATDgAzjUBkACSg4KCXEkFRsKEhESERD0A1CIsAJoAnWELT1AfQAAgD8iBgoCSAISAJADiLAC&uc=15",
+        "start_date": "2025-10-21T16:49:22.000Z",
+        "impressions_total": 2429,
+        "impressions_map": {
+          "de": 31,
+          "be": 0,
+          "fi": 62,
+          "pt": 0,
+          "bg": 0,
+          "dk": 48,
+          "lt": 129,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 31,
+          "si": 404,
+          "sk": 29,
+          "ie": 121,
+          "ee": 0,
+          "el": 636,
+          "mt": 0,
+          "it": 196,
+          "es": 139,
+          "at": 40,
+          "cy": 0,
+          "cz": 170,
+          "pl": 360,
+          "ro": 0,
+          "nl": 33,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "AxelssonPeak Invest AB",
+        "profile_name": "SNUVII",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnNJYVc4aVdQNXRuWlQ4M01CUFhiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://snuviico.com/products/cloud-blanket"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4e3a1eb5-5343-4674-a16f-3e2f6b2926b4",
+        "name": "6",
+        "ad_account_name": "Snuviico.com (RÄTT)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "\"Softest blanket I’ve owned! ❤️\"",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Dl4ODlIflXgy5pkH6P3bM.67?mo=GpUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATgIQxIsCioIu72zASABMOADONQGQAFKDgoJYCcxOCo9RVFeEPQDUIqlAWgCdYq7REAiBgoCSAQSAKIBPgi6ChIxCi8IvqScASABMNAFOIAKQAJKDgoJUSIeKCA-MFRUEPQDUIqlAWgCdTDwT0B9AACAPyIGCgJIAxIAogE9CJIKEjAKLgjwh3UgATDgAzjUBkACSg4KCT4XGBsYJDE8ShD0A1CKpQFoAnXgbjxAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4IrM9XIAEw4AM41AZAAkoOCgk3FBIZEyIZLisQ9ANQiqUBaAJ1kgZBQH0AAIA_IgYKAkgCEgCQA4qlAQ%3D%3D&uc=15",
+        "start_date": "2025-10-21T16:49:22.000Z",
+        "impressions_total": 680,
+        "impressions_map": {
+          "de": 32,
+          "be": 0,
+          "fi": 23,
+          "pt": 0,
+          "bg": 0,
+          "dk": 57,
+          "lt": 13,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 32,
+          "si": 59,
+          "sk": 9,
+          "ie": 71,
+          "ee": 0,
+          "el": 79,
+          "mt": 0,
+          "it": 77,
+          "es": 69,
+          "at": 43,
+          "cy": 0,
+          "cz": 24,
+          "pl": 64,
+          "ro": 0,
+          "nl": 28,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "AxelssonPeak Invest AB",
+        "profile_name": "SNUVII",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnNJYVc4aVdQNXRuWlQ4M01CUFhiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://snuviico.com/products/cloud-blanket"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "686b87c0-4d09-476f-bda1-091d32ec2e6e",
+        "name": "9",
+        "ad_account_name": "Snuviico.com (RÄTT)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "\"Softest blanket I’ve owned! ❤️\"",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/V6Y62HEiTAWY82KbzIx9N.67?mo=Go4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigI4uNTIAEw4AM41AZAAUoOCglNKhgWHyEiHxMQ9ANQ8G9oAnWivzlAIgYKAkgEEgCiATwIugoSLwotCILlRCABMNAFOIAKQAJKDgoJSzETEBshHhYTEPQDUPBvaAJ1coM7QH0AAIA_IgYKAkgDEgCiATwIkgoSLwotCLOcNCABMOADONQGQAJKDgoJORkPDhQTFhMMEPQDUPBvaAJ1WgYvQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCP-ULCABMOADONQGQAJKDgoJOCEMChIWEw8NEPQDUPBvaAJ1kMczQH0AAIA_IgYKAkgCEgCQA_Bv&uc=15",
+        "start_date": "2025-10-21T16:49:22.000Z",
+        "impressions_total": 2172,
+        "impressions_map": {
+          "de": 43,
+          "be": 0,
+          "fi": 68,
+          "pt": 0,
+          "bg": 0,
+          "dk": 92,
+          "lt": 152,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1,
+          "hu": 0,
+          "se": 65,
+          "si": 416,
+          "sk": 21,
+          "ie": 98,
+          "ee": 0,
+          "el": 452,
+          "mt": 0,
+          "it": 228,
+          "es": 118,
+          "at": 81,
+          "cy": 0,
+          "cz": 89,
+          "pl": 213,
+          "ro": 0,
+          "nl": 35,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "AxelssonPeak Invest AB",
+        "profile_name": "SNUVII",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnNJYVc4aVdQNXRuWlQ4M01CUFhiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://snuviico.com/products/cloud-blanket"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
         "id": "bcfc5790-d9d5-4d48-9212-66d43387cf9b",
         "name": "17",
         "ad_account_name": "Snuviico.com (RÄTT)",
@@ -490,225 +710,6 @@
           "pl": 46,
           "ro": 0,
           "nl": 15,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "AxelssonPeak Invest AB",
-        "profile_name": "SNUVII",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnNJYVc4aVdQNXRuWlQ4M01CUFhiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://snuviico.com/products/cloud-blanket"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "dfd9d013-773d-44d9-9632-a66f8102d78d",
-        "name": "5",
-        "ad_account_name": "Snuviico.com (RÄTT)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "\"Softest blanket I’ve owned! ❤️\"",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EbcfSWBWTkORMLjH6svOM.67?mo=GpICGggyAgR9UA9gAVoIQWRzTWVkaWGiATgIQxIsCioI_dmGAiABMOADONQGQAFKDgoJaxokKC0iNy5KEPQDUMKCAmgCdXUOUkAiBgoCSAQSAKIBOQi6ChIsCioI-pPzASABMNAFOIAKQAJKDgoJex8fKjMqOyxPEPQDUMKCAmgCdRWEXUAiBgoCSAMSAKIBPgiSChIxCi8IipSsASABMOADONQGQAJKDgoJURAXGiAXIh40EPQDUMKCAmgCdeRUS0B9AACAPyIGCgJIAhIAogE-CNIKEjEKLwiLrYABIAEw4AM41AZAAkoOCglHEhEXHBUeFSMQ9ANQwoICaAJ1yO1KQH0AAIA_IgYKAkgCEgCQA8KCAg%3D%3D&uc=15",
-        "start_date": "2025-10-21T16:49:22.000Z",
-        "impressions_total": 2405,
-        "impressions_map": {
-          "de": 61,
-          "be": 0,
-          "fi": 135,
-          "pt": 0,
-          "bg": 0,
-          "dk": 134,
-          "lt": 56,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 125,
-          "si": 211,
-          "sk": 14,
-          "ie": 270,
-          "ee": 0,
-          "el": 321,
-          "mt": 0,
-          "it": 271,
-          "es": 232,
-          "at": 100,
-          "cy": 0,
-          "cz": 96,
-          "pl": 304,
-          "ro": 0,
-          "nl": 75,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "AxelssonPeak Invest AB",
-        "profile_name": "SNUVII",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnNJYVc4aVdQNXRuWlQ4M01CUFhiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://snuviico.com/products/cloud-blanket"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a31dde5b-ab6b-4391-92b3-46ed8213c2d8",
-        "name": "23",
-        "ad_account_name": "Snuviico.com (RÄTT)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "\"Softest blanket I’ve owned! ❤️\"",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oNoFE1VjV31Mgqi4C4kzH.67?mo=GpMCGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0Itb9TIAEw4AM41AZAAUoOCglPIxcVIB0cFRoQ9ANQ8G9oAnW4xDdAfQAAgD8iBgoCSAMSAKIBPAi6ChIvCi0I-J1FIAEw0AU4gApAAkoOCglNIBESGxwSERgQ9ANQ8G9oAnV2Mz1AfQAAgD8iBgoCSAISAKIBPAiSChIvCi0IsNQ1IAEw4AM41AZAAkoOCgk7GQ0NExERDREQ9ANQ8G9oAnXeBTRAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IyIItIAEw4AM41AZAAkoOCgk6FQwLEhQNDA8Q9ANQ8G9oAnX8VzRAfQAAgD8iBgoCSAISAJAD8G8%3D&uc=15",
-        "start_date": "2025-10-21T16:49:22.000Z",
-        "impressions_total": 215,
-        "impressions_map": {
-          "de": 5,
-          "be": 0,
-          "fi": 3,
-          "pt": 0,
-          "bg": 0,
-          "dk": 12,
-          "lt": 10,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 9,
-          "si": 31,
-          "sk": 1,
-          "ie": 17,
-          "ee": 0,
-          "el": 31,
-          "mt": 0,
-          "it": 25,
-          "es": 20,
-          "at": 6,
-          "cy": 0,
-          "cz": 7,
-          "pl": 25,
-          "ro": 0,
-          "nl": 13,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "AxelssonPeak Invest AB",
-        "profile_name": "SNUVII",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcnNJYVc4aVdQNXRuWlQ4M01CUFhiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://snuviico.com/products/cloud-blanket"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "7daae7db-8fff-43ef-a10c-fbe211911b0a",
-        "name": "27",
-        "ad_account_name": "Snuviico.com (RÄTT)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "\"Softest blanket I’ve owned! ❤️\"",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9DKc6ay7wA2z4IJk6zkHS.67?mo=Go4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATcIQxIrCikI99xkIAEw4AM41AZAAUoOCglWHTgtMi8_ODAQ9ANQzIABaAJ1Fm8-QCIGCgJIBBIAogE4CLoKEisKKQjI1VAgATDQBTiACkACSg4KCVYZLSEsJiMrIxD0A1DMgAFoAnWqyzlAIgYKAkgDEgCiAT0IkgoSMAouCI7ZOyABMOADONQGQAJKDgoJPRAfGSMZIiIaEPQDUMyAAWgCdY54MUB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgi3hjQgATDgAzjUBkACSg4KCTsQHRUaGRccFhD0A1DMgAFoAnX24zhAfQAAgD8iBgoCSAISAJADzIAB&uc=15",
-        "start_date": "2025-10-21T16:49:22.000Z",
-        "impressions_total": 2196,
-        "impressions_map": {
-          "de": 95,
-          "be": 0,
-          "fi": 136,
-          "pt": 0,
-          "bg": 0,
-          "dk": 183,
-          "lt": 40,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 175,
-          "si": 162,
-          "sk": 9,
-          "ie": 154,
-          "ee": 0,
-          "el": 204,
-          "mt": 0,
-          "it": 330,
-          "es": 285,
-          "at": 129,
-          "cy": 0,
-          "cz": 61,
-          "pl": 135,
-          "ro": 0,
-          "nl": 98,
           "tr": 0
         },
         "targeting_v2": {

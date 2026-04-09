@@ -18,28 +18,28 @@ Ultra-minimal rough prototype for early validation.
 Requires [Node.js](https://nodejs.org/) 18+ and [DuckDB CLI](https://duckdb.org/docs/installation/) (`brew install duckdb`).
 
 ```bash
-cd app && npm run build
+npm run app:build        # from repo root
 ```
 
 This queries `db/rav.db` (`brand_ads_fashion` + `sponsored_content` tables) and writes:
 
 - `app/data/normalized.json`
 
-If the DB doesn't exist yet, build it first: `duckdb db/rav.db < db/init.sql` (from repo root).
+If the DB doesn't exist yet, build it first: `npm run db:init` (from repo root).
 
 ### Reproducibility checklist (canonical)
 
-1. Populate DuckDB: `duckdb db/rav.db < db/init.sql` (loads raw crawl JSON/CSV from `data_sources/`).
-2. Run builder: `cd app && npm run build`.
-3. Confirm output includes `ads` (4.5k+), `sponsored_kpis` (230k+ rows summarized), and `leaderboard`.
+1. Populate DuckDB: `npm run db:init` (loads raw crawl JSON/CSV from `data_sources/`).
+2. Run builder: `npm run app:build`.
+3. Confirm output includes `ads` (4.6k+), `sponsored_kpis` (230k rows summarized), and `leaderboard`.
 4. Serve locally and verify UI loads the generated file:
-   - `npm start` (from `app/`)
+   - `npm run app:start`
    - open `http://127.0.0.1:8000/app/`
 
 ## Run locally
 
 ```bash
-npm start
+npm run app:start        # from repo root
 ```
 
 Open:
@@ -54,8 +54,8 @@ Open:
 ## What Is Real vs Inferred
 
 - **Real (from DuckDB / Snap API crawls):**
-  - 4,500+ ad rows across 98 brands and 23 EU countries (headline, advertiser/brand, media type, impressions, dates, review status)
-  - 230,000+ sponsored commercial content rows (creator/sponsor/content URLs), 61k+ creators, 3k+ named sponsors
+  - 4,625 ad rows across 98 brands and 23 EU countries (headline, advertiser/brand, media type, impressions, dates, review status)
+  - 230,267 sponsored commercial content rows (creator/sponsor/content URLs), 62k creators, 3k named sponsors — final dataset, crawl abandoned due to cursor expiry
 - **Inferred (prototype heuristics):**
   - spend range (`est_spend_low_eur` / `est_spend_high_eur`) from fixed CPM assumption
   - performance-per-spend proxy

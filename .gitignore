@@ -10,7 +10,7 @@
 node_modules/
 dist/
 
-# Python (no project scripts — ignore local cache/venvs if you run Python here)
+# Python (no project scripts — ignore local cache/venvs if present)
 __pycache__/
 *.pyc
 *.pyo

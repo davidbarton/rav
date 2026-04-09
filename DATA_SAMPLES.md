@@ -1,18 +1,18 @@
 # Data Samples — What We Have and Where It Lives
 
-> Inventory of all downloaded data — DuckDB tables, raw files, and reference documents. Per-source methodology, schemas, and limits: **[RESEARCH.md](./RESEARCH.md)**. Verified 2026-04-09.
+> Inventory for **analytics and reporting**: queryable tables, volumes, business-facing notes, on-disk layout, and coverage limits. Methodology and API detail: **[RESEARCH.md](./RESEARCH.md)**. To fetch new data, rebuild DuckDB, or change loaders: **[DEVELOPMENT.md](./DEVELOPMENT.md)**. Verified 2026-04-09.
 
 ---
 
 ## DuckDB — 27 queryable tables
 
-All tables live in `db/rav.db`. You can rebuild them from raw files with this command: `duckdb db/rav.db < db/init.sql` executed from project root.
+Structured datasets are exposed as tables in **`db/rav.db`**. Use the [Beekeeper Studio](https://www.beekeeperstudio.io/) or any DuckDB-capable tool against that file.
 
 ### Advertising
 
 | Table | Rows | Source | Find in RESEARCH.md | Notes |
 | --- | ---: | --- | --- | --- |
-| `brand_ads_fashion` | 4,591 | Ads Gallery API — per-brand × per-country (23 EU countries) | Search **Ads Gallery API** | Impressions, targeting, creatives. 98 brands across 23 countries. Rate-limit constrained — sample, not exhaustive. |
+| `brand_ads_fashion` | 4,625 | Ads Gallery API — per-brand × per-country (23 EU countries) | Search **Ads Gallery API** | Impressions, targeting, creatives. 98 brands across 23 countries. Rate-limit constrained — sample, not exhaustive. |
 | `sponsored_content` | 230,267 | Sponsored Content API — paginated browse (deduplicated) | Search **Sponsored Content API** | Creator ↔ sponsor pairs + content URLs. ~8% have named sponsors; rest are platform-monetized. 178k distinct content URLs; rows > URLs because one creator can have multiple sponsors. |
 | `political_ads` | 74,609 | Political Ads Library — bulk CSV 2018–2026 | Search **Political Ads Library** | **Complete** — all 9 years, spend + impressions + full targeting. |
 
@@ -32,7 +32,7 @@ All tables live in `db/rav.db`. You can rebuild them from raw files with this co
 | Table | Rows | Source | Find in RESEARCH.md | Notes |
 | --- | ---: | --- | --- | --- |
 | `eu_dsa_member_state_orders` | 2,604 | EU DSA XLSX (H2 2025) | Search **DSA transparency reports** | Legal requests from 27 EU governments. |
-| `eu_dsa_automated_means` | 37 | EU DSA XLSX | Search **DSA transparency reports** | Automated detection accuracy, precision, recall. Normalized key-value format. |
+| `eu_dsa_automated_means` | 155 | EU DSA XLSX | Search **DSA transparency reports** | Automated detection accuracy, precision, recall. Normalized key-value format. |
 | `eu_dsa_own_initiative_tc` | 112 | EU DSA XLSX | Search **DSA transparency reports** | Own-initiative terms-of-service enforcement. |
 | `eu_dsa_categories` | 100 | EU DSA XLSX | Search **DSA transparency reports** | Category name mappings. |
 | `eu_dsa_notices` | 94 | EU DSA XLSX | Search **DSA transparency reports** | Notice-and-action data. |
@@ -55,23 +55,20 @@ All tables live in `db/rav.db`. You can rebuild them from raw files with this co
 | --- | ---: | --- | --- | --- |
 | `ec_dsa_sor` | 11,118,841 | EC S3 bulk — merged daily CSVs | Search **EC DSA** | One row per **statement of reason** (moderation action metadata). 927 daily files spanning 2023-09 to 2026-04. |
 
-#### EC DSA Transparency Database — Statements of Reasons (detail)
+#### EC DSA — Statements of Reasons (analytics notes)
 
-| What | Value |
+| Topic | Detail |
 | --- | --- |
-| **What it is** | EU **Transparency Database** submissions: each row is one **statement of reason** (restriction / visibility / account / monetary decision) that Snapchat reported under the DSA. Not post text or media — metadata only. |
-| **DuckDB table** | `ec_dsa_sor` — full refresh from `db/init.sql` (`DROP` + `CREATE … AS SELECT`). |
-| **Raw directory** | `data_sources/dsa_transparency/data/daily/` |
-| **Raw file pattern** | `snapchat-YYYY-MM-DD-light.csv` or `snapchat-YYYY-MM-DD-full.csv` — one merged CSV per calendar day after `fetch_sor.ts` runs. |
-| **Fetcher** | `data_sources/dsa_transparency/src/fetch_sor.ts` — downloads `sor-snapchat-<date>-{light\|full}.zip` from EC S3 (no auth). ZIP is **nested**: outer archive → inner `*.csv.zip` shards → multiple CSV fragments; script merges fragments to a single file per day (one header). |
-| **Loader (`init.sql`)** | `read_csv_auto(rav_path('data_sources/dsa_transparency/data/daily/snapchat-*.csv'), filename = true, union_by_name = true)` — loads **light** and **full** into one table; columns only in **full** are NULL on **light** rows. |
-| **Derived columns** | `dump_date` — date parsed from filename; `csv_variant` — `light` or `full`; `source_file` — path DuckDB read from (for lineage). |
-| **Light CSV columns (34)** | `uuid`, `decision_visibility`, `decision_visibility_other`, `end_date_visibility_restriction`, `decision_monetary`, `decision_monetary_other`, `end_date_monetary_restriction`, `decision_provision`, `end_date_service_restriction`, `decision_account`, `end_date_account_restriction`, `account_type`, `decision_ground`, `decision_ground_reference_url`, `illegal_content_legal_ground`, `incompatible_content_ground`, `incompatible_content_illegal`, `category`, `category_addition`, `category_specification`, `category_specification_other`, `content_type`, `content_type_other`, `content_language`, `content_date`, `application_date`, `source_type`, `source_identity`, `automated_detection`, `automated_decision`, `platform_name`, `platform_uid`, `created_at`. |
-| **Full variant adds** | Long free-text fields (e.g. `illegal_content_explanation`, `incompatible_content_explanation`, `decision_facts`) and `territorial_scope` (per EC spec) — use `--full` when fetching. |
-| **Operational files** | `data/state.json` (per-day status, row counts), `data/download_log.jsonl` (append-only fetch log). |
-| **Coverage on S3** | Earliest **Snapchat** object we probed: **2023-09-25**; earlier dates return **403** (no file). |
-| **Auth / limits** | Bulk GET: **none** and **no rate limit observed**. EC’s separate Research API (same **EC DSA** section) — token + 1k rows / 6-month index — not used for this table. |
-| **Empty directory** | If no `snapchat-*.csv` exists, `init.sql` **errors** on this step — fetch first, then rebuild DuckDB. |
+| **What each row is** | One EU **Transparency Database** **statement of reason**: a moderation decision (visibility, account, monetary, etc.) Snapchat reported under the DSA. **Not** post text or media — metadata only. |
+| **Table** | `ec_dsa_sor` |
+| **Grain** | One row per statement of reason; 927 daily snapshots merged (2023-09 to 2026-04 in our pull). |
+| **Light vs full export** | **Light** has the core structured fields below. **Full** adds long text explanations and `territorial_scope` (see RESEARCH **EC DSA**). |
+| **Lineage-friendly columns** | `dump_date` (from file date), `csv_variant` (`light` / `full`), `source_file` (which daily file the row came from). |
+| **Light field set (34)** | `uuid`, `decision_visibility`, `decision_visibility_other`, `end_date_visibility_restriction`, `decision_monetary`, `decision_monetary_other`, `end_date_monetary_restriction`, `decision_provision`, `end_date_service_restriction`, `decision_account`, `end_date_account_restriction`, `account_type`, `decision_ground`, `decision_ground_reference_url`, `illegal_content_legal_ground`, `incompatible_content_ground`, `incompatible_content_illegal`, `category`, `category_addition`, `category_specification`, `category_specification_other`, `content_type`, `content_type_other`, `content_language`, `content_date`, `application_date`, `source_type`, `source_identity`, `automated_detection`, `automated_decision`, `platform_name`, `platform_uid`, `created_at`. |
+| **Coverage** | Earliest **Snapchat** bulk file we saw: **2023-09-25**; earlier dates return **403** on EC storage. |
+| **Access** | Public bulk files — no auth for the dataset we used. EC’s separate Research API (token, 1k rows, 6-month window) is a different product; we did not use it for this table. |
+
+Pipeline location (fetch scripts, raw paths, rebuild): **[DEVELOPMENT.md](./DEVELOPMENT.md)**.
 
 ---
 
@@ -92,62 +89,20 @@ Not structured data — useful as reference for governance context and regulator
 
 ## Raw files on disk (backing the DuckDB tables)
 
-All fetchers write to `data_sources/<source>/data/`. DuckDB reads from these paths via `init.sql`.
+These directories hold the JSON/CSV that the analytics tables are built from (see **[DEVELOPMENT.md](./DEVELOPMENT.md)** for rebuild and fetch commands).
 
 | Directory | Files | Size | What |
 | --- | --- | --- | --- |
 | `snap_ads/data/ads_fashion/` | 559 JSON | 31 MB | One file per brand × country. Includes `state.json` + `download_log.jsonl` for crawl tracking. |
-| `snap_ads/data/sponsored_*/` | 489+ pages | 154 MB | Paginated JSON (200–500 items/page). Crawl in progress. |
-| `snap_ads/data/partial_snapshots/` | 1 archived run | — | Cursor-expired partial crawl, archived (not loaded into DuckDB). |
-| `snap_ads/data/political_ads/csv/` | 9 year dirs | 61 MB | Bulk CSVs from GCS, 2018–2026. Complete. |
+| `snap_sponsored/data/sponsored_*/` | 535 pages | 166 MB | Paginated JSON (200–500 items/page). Final — crawl abandoned due to cursor expiry. |
+| `snap_sponsored/data/partial_snapshots/` | 1 archived run | — | Cursor-expired partial crawl, archived (not loaded into DuckDB). |
+| `snap_political/data/csv/` | 9 year dirs | 61 MB | Bulk CSVs from GCS, 2018–2026. Complete. |
 | `snap_profiles/data/profiles/` | 102 JSON | 9.8 MB | One file per brand profile. |
 | `snap_explore/data/explore/` | 16 JSON | 6.7 MB | One file per keyword (13 seed + 3 discovered). |
 | `snap_spotlights/data/spotlights/` | 107 JSON | 31 MB | One file per spotlight video (includes transcript data). |
 | `transparency_reports/data/eu_dsa_csv/` | 2 report dirs | — | XLSX → CSV conversion of EU DSA H2 2025. |
 | `transparency_reports/data/global_csv/` | 8 CSVs | — | Manually extracted from H1 2025 global report. |
 | `dsa_transparency/data/daily/` | `snapchat-*-light.csv` (+ optional `*-full.csv`) | grows with fetch (~1 GB+ for full history) | EC DSA SOR merged dailies → **`ec_dsa_sor`**. Same folder: `state.json`, `download_log.jsonl` (not loaded into DuckDB). |
-
----
-
-## How to fetch more data
-
-All fetchers are idempotent and resume from saved state.
-
-```bash
-# Paid EU ads (rate-limit constrained, needs proxy)
-cd data_sources/snap_ads && npm install
-npm run fetch:ads
-
-# Sponsored content (long-running paginated crawl)
-npm run fetch:sponsored
-
-# Political ads (one-shot bulk download, already complete)
-npm run fetch:political
-
-# Brand profiles (102/216 brands fetched)
-cd data_sources/snap_profiles && npm install
-npx tsx src/fetch_profiles.ts
-
-# Explore discovery (128 seed keywords)
-cd data_sources/snap_explore && npm install
-npx tsx src/fetch_explore.ts
-
-# Spotlight pages (108 sample URLs)
-cd data_sources/snap_spotlights && npm install
-npx tsx src/fetch_spotlights.ts
-
-# EC DSA Statements of Reasons — Snapchat daily bulk (EC S3, no auth)
-cd data_sources/dsa_transparency && npm install
-npx tsx src/fetch_sor.ts --status              # per-day progress + row counts
-npx tsx src/fetch_sor.ts --test                # one day + print 5 sample rows
-npx tsx src/fetch_sor.ts --days 30             # rolling window
-npx tsx src/fetch_sor.ts --from 2023-09-25 --to 2026-04-08   # full known range
-npx tsx src/fetch_sor.ts --retry               # only failed / not_found days
-npx tsx src/fetch_sor.ts --full                # full CSV variant (extra text columns)
-
-# Rebuild DuckDB after any fetch
-cd /path/to/repo && duckdb db/rav.db < db/init.sql
-```
 
 ---
 
@@ -158,11 +113,11 @@ Full write-ups live in **[RESEARCH.md](./RESEARCH.md)** — use your editor sear
 | Source | Key limitation |
 | --- | --- |
 | EU Ad Library (Ads Gallery API) | Aggressive rate limiting (~3.7% success rate). EU-only, 12-month window, no spend data. |
-| Sponsored Content API | Cursors expire after ~8h. No engagement metrics. ~92% lack sponsor names. |
+| Sponsored Content API | Cursors expire after ~8h — crawl abandoned, 535 pages final. No engagement metrics. ~92% lack sponsor names. |
 | Political Ads Library | None — trivially downloadable, complete. |
 | Marketing API | **Blocked** — requires advertiser account with ad spend. |
 | Public profile pages | Requires known usernames. Brand profiles report subscriber_count=0 (platform behavior). |
 | Explore / keyword | Open-ended keyword space — no master list. Results vary by locale. |
 | Spotlight web pages | No enumeration — need URL seeds from sponsored content, profiles, or explore. 59% have transcripts. |
 | DSA transparency reports | Complete. PDF reports are unstructured. |
-| EC DSA (statements of reasons) | Bulk path: full history in `ec_dsa_sor` after fetch + `init.sql`. Research API still capped at 1k rows, 6-month window. |
+| EC DSA (statements of reasons) | Bulk path fills `ec_dsa_sor` once daily files are on disk and the DB is rebuilt (see **[DEVELOPMENT.md](./DEVELOPMENT.md)**). Research API remains capped at 1k rows / 6-month window. |

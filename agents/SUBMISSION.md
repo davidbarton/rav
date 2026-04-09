@@ -20,7 +20,7 @@ This file is the evaluator path for verifying fulfillment of the original Czech 
 From repo root:
 
 ```bash
-cd app && npm run build && npm start
+npm run app:build && npm run app:start    # from repo root
 ```
 
 Open:
@@ -44,8 +44,8 @@ Pre-flight checks:
   - `app/README.md`, `RESEARCH.md` as applicable
 - Raw API/crawl JSON (see also `DATA_SAMPLES.md` for the full inventory):
   - `data_sources/snap_ads/data/ads_fashion/*.json` — per-brand EU ad-library pulls
-  - `data_sources/snap_ads/data/sponsored_2026-04-09T07-51-44/sponsored_content/page_*.json` — sponsored/commercial browse pages (timestamps in folder names change per crawl)
-  - `data_sources/snap_ads/data/creators_2026-04-08T09-21-35/sponsored_by_creator/*/page_*.json` — creator-scoped sponsored content
+  - `data_sources/snap_sponsored/data/sponsored_2026-04-09T07-51-44/sponsored_content/page_*.json` — sponsored/commercial browse pages (timestamps in folder names change per crawl)
+  - `data_sources/snap_sponsored/data/creators_2026-04-08T09-21-35/sponsored_by_creator/*/page_*.json` — creator-scoped sponsored content
   - `data_sources/snap_ads/data/ad_detail_2026-04-08T08-44-29/ads_by_id/*.json` — single-ad detail fetches
 
 ## 5) Real vs inferred boundary
@@ -68,7 +68,7 @@ Pre-flight checks:
 - Data source mapping (endpoints, fields, limits in depth):
   - `RESEARCH.md`
 - Real sample retrieval:
-  - `data_sources/snap_ads/data/**` (raw pulls; `app/build_dataset.mjs` pins specific inputs), `DATA_SAMPLES.md`
+  - `data_sources/snap_ads/data/**` (raw pulls; `app/build_dataset.ts` pins specific inputs), `DATA_SAMPLES.md`
 - Insights for B2C usage:
   - `agents/INSIGHT_LOG.md`
   - `agents/RAVINEO_INTEL.md`

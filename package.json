@@ -1,0 +1,30 @@
+{
+  "name": "rav",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:ads": "tsx data_sources/snap_ads/src/fetch_ads.ts ads",
+    "fetch:sponsored": "tsx data_sources/snap_sponsored/src/fetch_sponsored.ts sponsored",
+    "fetch:ad": "tsx data_sources/snap_ads/src/fetch_ads.ts ad",
+    "fetch:political": "tsx data_sources/snap_political/src/fetch_political.ts",
+    "fetch:political:summary": "tsx data_sources/snap_political/src/fetch_political.ts --summary",
+    "stats:sponsored": "tsx data_sources/snap_sponsored/src/run_stats.ts",
+    "fetch:profiles": "tsx data_sources/snap_profiles/src/fetch_profiles.ts",
+    "fetch:explore": "tsx data_sources/snap_explore/src/fetch_explore.ts",
+    "fetch:spotlights": "tsx data_sources/snap_spotlights/src/fetch_spotlights.ts",
+    "fetch:sor": "tsx data_sources/dsa_transparency/src/fetch_sor.ts",
+    "app:build": "tsx app/build_dataset.ts",
+    "app:start": "tsx app/server.ts",
+    "db:init": "duckdb db/rav.db < db/init.sql"
+  },
+  "dependencies": {
+    "got-scraping": "^4.2.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "tsx": "^4.19.4",
+    "typescript": "^6.0.2"
+  }
+}

@@ -17,8 +17,9 @@ CREATE OR REPLACE MACRO rav_path(rel) AS (
 -- Source: Snapchat Ads Gallery /sponsored_content endpoint
 -- Each JSON page has ad_previews[] → sponsored_content_preview
 --
--- Loads only the latest (largest) crawl run. Earlier partial runs are
--- archived in data/partial_snapshots/ but excluded to avoid duplicates.
+-- Loads the final crawl run (535 pages, 230k deduped rows). Cursor expiry
+-- prevented completion; no further attempts. Earlier partial runs archived
+-- in data/partial_snapshots/ (not loaded).
 -- ──────────────────────────────────────────────
 
 DROP TABLE IF EXISTS sponsored_content;
@@ -27,7 +28,7 @@ WITH raw AS (
     SELECT
         unnest(ad_previews) AS item
     FROM read_json_auto(
-        rav_path('data_sources/snap_ads/data/sponsored_2026-04-09T07-51-44/sponsored_content/page_*.json')
+        rav_path('data_sources/snap_sponsored/data/sponsored_2026-04-09T07-51-44/sponsored_content/page_*.json')
     )
 )
 SELECT DISTINCT
@@ -159,7 +160,7 @@ SELECT
     CAST(regexp_extract(filename, '/(\d{4})/', 1) AS INT) AS data_year,
     filename                                      AS source_file
 FROM read_csv_auto(
-    rav_path('data_sources/snap_ads/data/political_ads/csv/*/PoliticalAds.csv'),
+    rav_path('data_sources/snap_political/data/csv/*/PoliticalAds.csv'),
     filename = true,
     header = true,
     all_varchar = true
@@ -421,7 +422,7 @@ WHERE json_extract_string(scm->card_key->'snaps'->0->'creatorInfo', '$.userName'
 -- Source: data_sources/dsa_transparency/src/fetch_sor.ts → data/daily/snapchat-<date>-{light,full}.csv
 -- Glob loads every merged per-day file. light + full share one table (union_by_name; extra cols NULL where absent).
 -- NOTE: this is an EU-wide multi-provider database; we download Snapchat-only ZIPs.
--- If the directory is empty, this step errors — run: cd data_sources/dsa_transparency && npx tsx src/fetch_sor.ts ...
+-- If the directory is empty, this step errors — run: npm run fetch:sor
 -- ──────────────────────────────────────────────
 
 DROP TABLE IF EXISTS ec_dsa_sor;
@@ -439,7 +440,7 @@ FROM read_csv_auto(
 
 -- ──────────────────────────────────────────────
 -- Transparency Reports — EU DSA (H2 2025 V2)
--- Source: XLSX converted to CSV via xlsx_to_csv.py
+-- Source: XLSX converted to CSV via xlsx_to_csv.ts
 -- Wide-form tables keep original XLSX column names (quote with "..." in queries).
 -- Normalized tables (appeals, automated_means, human_resources, AMAR) get short aliases.
 -- read_csv with auto_detect fixes parsing issues from embedded commas in quoted values.
@@ -447,13 +448,13 @@ FROM read_csv_auto(
 
 DROP TABLE IF EXISTS eu_dsa_member_state_orders;
 CREATE TABLE eu_dsa_member_state_orders AS
-SELECT * EXCLUDE (column20, column21, column22)
+SELECT *
 FROM read_csv(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/3_member_states_orders.csv'),
     auto_detect=true, all_varchar=true, ignore_errors=true);
 
 DROP TABLE IF EXISTS eu_dsa_notices;
 CREATE TABLE eu_dsa_notices AS
-SELECT * EXCLUDE (column25, column26, column27)
+SELECT *
 FROM read_csv(rav_path('data_sources/transparency_reports/data/eu_dsa_csv/Snap_DSA_TR_H2_2025_V2/4_notices.csv'),
     auto_detect=true, all_varchar=true, ignore_errors=true);
 

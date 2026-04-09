@@ -1,303 +1,10 @@
 {
   "brand": "Champion",
   "country": "nl",
-  "fetched_at": "2026-04-08T23:40:03.596Z",
+  "fetched_at": "2026-04-09T17:10:06.897Z",
   "ads_count": 9,
+  "pagination_complete": true,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "2755e3b2-457e-40f2-9057-2811385ae6c3",
-        "name": "Ad s1 2025 Zwolle",
-        "ad_account_name": "Sales Champions Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "ZWOLLE - €3400 vast + Bonusen",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4LEG5yoFxgdTRKUeaR3Q4.67?mo=GvECGggyAgR9UA9gAVoIQWRzTWVkaWGiATkIQxItCisIiPjtASABMOADONQGQAFKFAoPrwKuAWVgiwGYAYABlQF6EPQDUMaqAWgCIgYKAkgDEgCiAToIugoSLQorCO-3-wEgATDQBTiACkACShQKD8ICjQFijAF2jQFVoAGEARD0A1DGqgFoAiIGCgJIAxIAogE0CH8SKAomCI6zmwEgATDgAzjUBkACSg8KCpoBRGJUZFBmUlYQ9ANQxqoBaAIiBgoCSAISAKIBNQiSChIoCiYIiLyaASABMOADONQGQAJKDwoKmAFlW1RgSFtZUBD0A1DGqgFoAiIGCgJIAhIAogE1CMQKEigKJgjI4Y0BIAEw4AM41gZAAkoPCgrHAVY6SE9WQ1NQEPQDUMaqAWgCIgYKAkgCEgCiATUI0goSKAomCMeWkQEgATDgAzjUBkACSg8KCr4BUTxESk1ATFAQ9ANQxqoBaAIiBgoCSAISAJADxqoB&uc=15",
-        "start_date": "2025-08-05T12:39:09.000Z",
-        "impressions_total": 3366,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 3366,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "nl"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Sales Champions",
-        "profile_name": "Sales Champions",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ1NmZnQ0NGlyZ3l3VVdyNzZ3clc2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.saleschampions.nl/solicitatie-formulier-zwolle/"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4290a08b-ceef-4e79-96c9-f149aef2f010",
-        "name": "ad 2",
-        "ad_account_name": "Sales Champions Self Service",
-        "status": "ACTIVE",
-        "creative_type": "LEAD_GENERATION",
-        "ad_type": "LEAD_GENERATION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "NIJMEGEN - €2700 vast + Bonussen",
-        "call_to_action": "SIGN UP",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3KPB72bb0ipwNTTWg51P7.67?mo=Gt0CGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUIt7JtIAEw4AM41AZAAUoPCgqFATMwJCYtKycvEPQDUIa8AWgCIgYKAkgFEgCiATQIugoSJwolCLeeZCABMNAFOIAKQAJKDwoKuQEjGyUkJiUjMBD0A1CGvAFoAiIGCgJIAhIAogEyCH8SJgokCMehQyABMOADONQGQAJKDgoJaCAeGxocGRgcEPQDUIa8AWgCIgYKAkgCEgCiATMIkgoSJgokCI2YQiABMOADONQGQAJKDgoJYR4cGRYbGRYbEPQDUIa8AWgCIgYKAkgCEgCiATMIxAoSJgokCIydQCABMOADONYGQAJKDgoJeBkTFhIXERQYEPQDUIa8AWgCIgYKAkgCEgCiATMI0goSJgokCOzPQyABMOADONQGQAJKDgoJeRkTFxIaFBYaEPQDUIa8AWgCIgYKAkgCEgCQA4a8AQ%3D%3D&uc=15",
-        "start_date": "2025-08-19T21:31:32.000Z",
-        "impressions_total": 6404,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 6404,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "nl"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Sales Champions",
-        "profile_name": "Sales Champions",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ1NmZnQ0NGlyZ3l3VVdyNzZ3clc2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ba69e0c6-0812-44d0-8783-ece94161eab8",
-        "name": "⁧14‏/4‏/25 - إعلان⁩",
-        "ad_account_name": "⁧عمليات الترويج داخل تطبيق iOS⁩",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "ar"
-        ],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/34SfsX2M47cTPQxqrKxRY.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-04-14T20:00:00.000Z",
-        "impressions_total": 11079,
-        "impressions_map": {
-          "de": 2,
-          "be": 42,
-          "fi": 42,
-          "pt": 24,
-          "bg": 5870,
-          "dk": 0,
-          "lt": 108,
-          "lu": 17,
-          "hr": 3,
-          "lv": 0,
-          "fr": 12,
-          "hu": 47,
-          "se": 4,
-          "si": 5,
-          "sk": 19,
-          "ie": 15,
-          "ee": 0,
-          "el": 586,
-          "mt": 0,
-          "it": 1428,
-          "es": 258,
-          "at": 5,
-          "cy": 0,
-          "cz": 428,
-          "pl": 113,
-          "ro": 79,
-          "nl": 2,
-          "tr": 1970
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Champions coach",
-        "profile_name": "كوتش _خالد",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvM1N4V3l3TWFEU0hET1BWVFpqMzJVP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/ikhalid.24",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMUY4ZU5pbU5MTjVWbVVEWERxWUhYP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "dbf77b07-b209-46bd-9ac1-821d71a7e887",
-        "name": "ad snap 3 nijmegen",
-        "ad_account_name": "Sales Champions Self Service",
-        "status": "ACTIVE",
-        "creative_type": "LEAD_GENERATION",
-        "ad_type": "LEAD_GENERATION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "NIJMEGEN - €2700 vast + Bonussen",
-        "call_to_action": "SIGN UP",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/a2HjChk43uIw4tifxf7TO.67?mo=GpUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLwhDEicKJQi3sm0gATDgAzjUBkABSg8KCoUBMzAkJi0rJy8Q9ANQhrwBaAIiAhIAogEwCLoKEicKJQijomQgATDQBTiACkACSg8KCrkBIxslJCYlIzAQ9ANQhrwBaAIiAhIAogEuCH8SJgokCMehQyABMOADONQGQAJKDgoJaCAeGxocGRgcEPQDUIa8AWgCIgISAKIBLwiSChImCiQIi5ZCIAEw4AM41AZAAkoOCglhHhwZFhsZFhsQ9ANQhrwBaAIiAhIAogEvCNIKEiYKJAjsz0MgATDgAzjUBkACSg4KCXkZExcSGhQWGhD0A1CGvAFoAiICEgCQA4a8AQ%3D%3D&uc=15",
-        "start_date": "2025-09-09T12:47:18.000Z",
-        "impressions_total": 5311,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 5311,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "nl"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Sales Champions",
-        "profile_name": "Sales Champions",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ1NmZnQ0NGlyZ3l3VVdyNzZ3clc2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -368,78 +75,6 @@
           "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMUY4ZU5pbU5MTjVWbVVEWERxWUhYP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
           "playable_media_properties": {}
         },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "7bfc7f22-d446-479c-99e8-472e39f20e46",
-        "name": "ad 2 Zwolle",
-        "ad_account_name": "Sales Champions Self Service",
-        "status": "ACTIVE",
-        "creative_type": "LEAD_GENERATION",
-        "ad_type": "LEAD_GENERATION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "ZWOLLE - €3400 vast + Bonusen",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EEcwLMCVeqYi51DuI2VEN.67?mo=GucCGggyAgR9UA9gAVoIQWRzTWVkaWGiATQIQxIoCiYIhtf7ASABMOADONQGQAFKDwoK2AFxYGB2ZWxKXhD0A1CclQFoAiIGCgJIBRIAogE1CLoKEigKJgjl-40CIAEw0AU4gApAAkoPCgrSAU9ITFdbP1BQEPQDUJyVAWgCIgYKAkgDEgCiATQIfxIoCiYI34a1ASABMOADONQGQAJKDwoKogE4V0VZSk40QxD0A1CclQFoAiIGCgJIAhIAogE1CJIKEigKJgiHrbYBIAEw4AM41AZAAkoPCgqhAT1UQlZWQEE4EPQDUJyVAWgCIgYKAkgCEgCiATUIxAoSKAomCO_2lwEgATDgAzjWBkACSg8KCpcBOTQ5P0UsMTQQ9ANQnJUBaAIiBgoCSAISAKIBNQjSChIoCiYIo-ejASABMOADONQGQAJKDwoKmQE-Njo-Ry00NxD0A1CclQFoAiIGCgJIAhIAkAOclQE%3D&uc=15",
-        "start_date": "2025-08-07T00:03:53.000Z",
-        "impressions_total": 3815,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 3815,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "nl"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Sales Champions",
-        "profile_name": "Sales Champions",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ1NmZnQ0NGlyZ3l3VVdyNzZ3clc2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "review_status": "APPROVED",
         "rejection_reasons": [],
         "stickers": []
@@ -523,8 +158,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "98aae4e8-5634-4def-972f-4e693a0e6cad",
-        "name": "⁧24‏/5‏/25 - إعلان⁩",
+        "id": "ba69e0c6-0812-44d0-8783-ece94161eab8",
+        "name": "⁧14‏/4‏/25 - إعلان⁩",
         "ad_account_name": "⁧عمليات الترويج داخل تطبيق iOS⁩",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
@@ -536,38 +171,38 @@
         "call_to_action": "FOLLOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/yEcmjNNaIwjzYODg3LOKk.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-05-24T20:00:00.000Z",
-        "impressions_total": 9909,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/34SfsX2M47cTPQxqrKxRY.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2025-04-14T20:00:00.000Z",
+        "impressions_total": 11079,
         "impressions_map": {
-          "de": 21,
-          "be": 76,
-          "fi": 26,
-          "pt": 30,
-          "bg": 5359,
-          "dk": 14,
-          "lt": 11,
-          "lu": 54,
-          "hr": 5,
+          "de": 2,
+          "be": 42,
+          "fi": 42,
+          "pt": 24,
+          "bg": 5870,
+          "dk": 0,
+          "lt": 108,
+          "lu": 17,
+          "hr": 3,
           "lv": 0,
-          "fr": 56,
-          "hu": 44,
-          "se": 40,
-          "si": 4,
-          "sk": 28,
-          "ie": 43,
+          "fr": 12,
+          "hu": 47,
+          "se": 4,
+          "si": 5,
+          "sk": 19,
+          "ie": 15,
           "ee": 0,
-          "el": 579,
+          "el": 586,
           "mt": 0,
-          "it": 726,
-          "es": 119,
-          "at": 19,
+          "it": 1428,
+          "es": 258,
+          "at": 5,
           "cy": 0,
-          "cz": 112,
-          "pl": 124,
-          "ro": 126,
-          "nl": 12,
-          "tr": 2281
+          "cz": 428,
+          "pl": 113,
+          "ro": 79,
+          "nl": 2,
+          "tr": 1970
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -665,6 +300,372 @@
           "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMUY4ZU5pbU5MTjVWbVVEWERxWUhYP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
           "playable_media_properties": {}
         },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2755e3b2-457e-40f2-9057-2811385ae6c3",
+        "name": "Ad s1 2025 Zwolle",
+        "ad_account_name": "Sales Champions Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "ZWOLLE - €3400 vast + Bonusen",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4LEG5yoFxgdTRKUeaR3Q4.67?mo=GvECGggyAgR9UA9gAVoIQWRzTWVkaWGiATkIQxItCisIiPjtASABMOADONQGQAFKFAoPrwKuAWVgiwGYAYABlQF6EPQDUMaqAWgCIgYKAkgDEgCiAToIugoSLQorCO-3-wEgATDQBTiACkACShQKD8ICjQFijAF2jQFVoAGEARD0A1DGqgFoAiIGCgJIAxIAogE0CH8SKAomCI6zmwEgATDgAzjUBkACSg8KCpoBRGJUZFBmUlYQ9ANQxqoBaAIiBgoCSAISAKIBNQiSChIoCiYIiLyaASABMOADONQGQAJKDwoKmAFlW1RgSFtZUBD0A1DGqgFoAiIGCgJIAhIAogE1CMQKEigKJgjI4Y0BIAEw4AM41gZAAkoPCgrHAVY6SE9WQ1NQEPQDUMaqAWgCIgYKAkgCEgCiATUI0goSKAomCMeWkQEgATDgAzjUBkACSg8KCr4BUTxESk1ATFAQ9ANQxqoBaAIiBgoCSAISAJADxqoB&uc=15",
+        "start_date": "2025-08-05T12:39:09.000Z",
+        "impressions_total": 3366,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 3366,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "nl"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Sales Champions",
+        "profile_name": "Sales Champions",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ1NmZnQ0NGlyZ3l3VVdyNzZ3clc2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.saleschampions.nl/solicitatie-formulier-zwolle/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "7bfc7f22-d446-479c-99e8-472e39f20e46",
+        "name": "ad 2 Zwolle",
+        "ad_account_name": "Sales Champions Self Service",
+        "status": "ACTIVE",
+        "creative_type": "LEAD_GENERATION",
+        "ad_type": "LEAD_GENERATION",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "ZWOLLE - €3400 vast + Bonusen",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EEcwLMCVeqYi51DuI2VEN.67?mo=GucCGggyAgR9UA9gAVoIQWRzTWVkaWGiATQIQxIoCiYIhtf7ASABMOADONQGQAFKDwoK2AFxYGB2ZWxKXhD0A1CclQFoAiIGCgJIBRIAogE1CLoKEigKJgjl-40CIAEw0AU4gApAAkoPCgrSAU9ITFdbP1BQEPQDUJyVAWgCIgYKAkgDEgCiATQIfxIoCiYI34a1ASABMOADONQGQAJKDwoKogE4V0VZSk40QxD0A1CclQFoAiIGCgJIAhIAogE1CJIKEigKJgiHrbYBIAEw4AM41AZAAkoPCgqhAT1UQlZWQEE4EPQDUJyVAWgCIgYKAkgCEgCiATUIxAoSKAomCO_2lwEgATDgAzjWBkACSg8KCpcBOTQ5P0UsMTQQ9ANQnJUBaAIiBgoCSAISAKIBNQjSChIoCiYIo-ejASABMOADONQGQAJKDwoKmQE-Njo-Ry00NxD0A1CclQFoAiIGCgJIAhIAkAOclQE%3D&uc=15",
+        "start_date": "2025-08-07T00:03:53.000Z",
+        "impressions_total": 3815,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 3815,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "nl"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Sales Champions",
+        "profile_name": "Sales Champions",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ1NmZnQ0NGlyZ3l3VVdyNzZ3clc2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "dbf77b07-b209-46bd-9ac1-821d71a7e887",
+        "name": "ad snap 3 nijmegen",
+        "ad_account_name": "Sales Champions Self Service",
+        "status": "ACTIVE",
+        "creative_type": "LEAD_GENERATION",
+        "ad_type": "LEAD_GENERATION",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "NIJMEGEN - €2700 vast + Bonussen",
+        "call_to_action": "SIGN UP",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/a2HjChk43uIw4tifxf7TO.67?mo=GpUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLwhDEicKJQi3sm0gATDgAzjUBkABSg8KCoUBMzAkJi0rJy8Q9ANQhrwBaAIiAhIAogEwCLoKEicKJQijomQgATDQBTiACkACSg8KCrkBIxslJCYlIzAQ9ANQhrwBaAIiAhIAogEuCH8SJgokCMehQyABMOADONQGQAJKDgoJaCAeGxocGRgcEPQDUIa8AWgCIgISAKIBLwiSChImCiQIi5ZCIAEw4AM41AZAAkoOCglhHhwZFhsZFhsQ9ANQhrwBaAIiAhIAogEvCNIKEiYKJAjsz0MgATDgAzjUBkACSg4KCXkZExcSGhQWGhD0A1CGvAFoAiICEgCQA4a8AQ%3D%3D&uc=15",
+        "start_date": "2025-09-09T12:47:18.000Z",
+        "impressions_total": 5311,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 5311,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "nl"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Sales Champions",
+        "profile_name": "Sales Champions",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ1NmZnQ0NGlyZ3l3VVdyNzZ3clc2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "98aae4e8-5634-4def-972f-4e693a0e6cad",
+        "name": "⁧24‏/5‏/25 - إعلان⁩",
+        "ad_account_name": "⁧عمليات الترويج داخل تطبيق iOS⁩",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "ar"
+        ],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/yEcmjNNaIwjzYODg3LOKk.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2025-05-24T20:00:00.000Z",
+        "impressions_total": 9909,
+        "impressions_map": {
+          "de": 21,
+          "be": 76,
+          "fi": 26,
+          "pt": 30,
+          "bg": 5359,
+          "dk": 14,
+          "lt": 11,
+          "lu": 54,
+          "hr": 5,
+          "lv": 0,
+          "fr": 56,
+          "hu": 44,
+          "se": 40,
+          "si": 4,
+          "sk": 28,
+          "ie": 43,
+          "ee": 0,
+          "el": 579,
+          "mt": 0,
+          "it": 726,
+          "es": 119,
+          "at": 19,
+          "cy": 0,
+          "cz": 112,
+          "pl": 124,
+          "ro": 126,
+          "nl": 12,
+          "tr": 2281
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Champions coach",
+        "profile_name": "كوتش _خالد",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvM1N4V3l3TWFEU0hET1BWVFpqMzJVP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/ikhalid.24",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMUY4ZU5pbU5MTjVWbVVEWERxWUhYP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4290a08b-ceef-4e79-96c9-f149aef2f010",
+        "name": "ad 2",
+        "ad_account_name": "Sales Champions Self Service",
+        "status": "ACTIVE",
+        "creative_type": "LEAD_GENERATION",
+        "ad_type": "LEAD_GENERATION",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "NIJMEGEN - €2700 vast + Bonussen",
+        "call_to_action": "SIGN UP",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3KPB72bb0ipwNTTWg51P7.67?mo=Gt0CGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUIt7JtIAEw4AM41AZAAUoPCgqFATMwJCYtKycvEPQDUIa8AWgCIgYKAkgFEgCiATQIugoSJwolCLeeZCABMNAFOIAKQAJKDwoKuQEjGyUkJiUjMBD0A1CGvAFoAiIGCgJIAhIAogEyCH8SJgokCMehQyABMOADONQGQAJKDgoJaCAeGxocGRgcEPQDUIa8AWgCIgYKAkgCEgCiATMIkgoSJgokCI2YQiABMOADONQGQAJKDgoJYR4cGRYbGRYbEPQDUIa8AWgCIgYKAkgCEgCiATMIxAoSJgokCIydQCABMOADONYGQAJKDgoJeBkTFhIXERQYEPQDUIa8AWgCIgYKAkgCEgCiATMI0goSJgokCOzPQyABMOADONQGQAJKDgoJeRkTFxIaFBYaEPQDUIa8AWgCIgYKAkgCEgCQA4a8AQ%3D%3D&uc=15",
+        "start_date": "2025-08-19T21:31:32.000Z",
+        "impressions_total": 6404,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 6404,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "nl"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Sales Champions",
+        "profile_name": "Sales Champions",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ1NmZnQ0NGlyZ3l3VVdyNzZ3clc2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "review_status": "APPROVED",
         "rejection_reasons": [],
         "stickers": []

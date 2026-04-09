@@ -1,160 +1,15 @@
 {
   "brand": "Dove",
   "country": "nl",
-  "fetched_at": "2026-04-09T03:09:19.978Z",
+  "fetched_at": "2026-04-09T17:20:40.860Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "0b9a57d0-5ef0-4b14-9782-c1993fb37310",
-        "name": "Image | Kussen actie | 6",
-        "ad_account_name": "Dekbedovertrek.nl Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Scoor nu jouw gratis kussens",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bf2RXvxjscD2m12jXhSD9.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-12-19T09:15:13.000Z",
-        "impressions_total": 2012,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 2012,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dekbedovertrek.nl",
-        "brand_name": "Dekbedovertrek.nl",
-        "web_view_properties": {
-          "url": "https://dekbedovertrek.nl/?tw_source=snapchat&tw_adid={{ad.id}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d095582f-dc46-48c7-b379-93e01166b73a",
-        "name": "Video | Lexi | Dekbed zonder overtrek",
-        "ad_account_name": "Dekbedovertrek.nl Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Dekbed zonder overtrek",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UH8Ix5iiviTGr9dqPULb4.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgiD91ogATDgAzjUBkABSg4KCVQpHCgvGklANBD0A1DmnAFoAnValE9AfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4IurNGIAEw0AU4gApAAkoOCglNHBYhJBQ0NiIQ9ANQ5pwBaAJ1lNlfQH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCNCcNyABMOADONQGQAJKDgoJQxkTGhsSKCgfEPQDUOacAWgCddyhOUB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiKsTQgATDgAzjUBkACSg4KCUAVERgbDiQoFxD0A1DmnAFoAnV4SFdAfQAAgD8iBgoCSAISAJAD5pwB&uc=15",
-        "start_date": "2026-01-14T13:52:22.000Z",
-        "impressions_total": 3146,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 3146,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dekbedovertrek.nl",
-        "brand_name": "Dekbedovertrek.nl",
-        "web_view_properties": {
-          "url": "https://dekbedovertrek.nl"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "1167a4d7-3c89-4ab9-8c90-5a926cef95d9",
-        "name": "Story | Kussens actie | Lexi | Warehouse 1",
+        "id": "3389aa97-1e90-416f-9464-54ee63db52fe",
+        "name": "Story | Kussen actie | Lexi | Warehouse 3",
         "ad_account_name": "Dekbedovertrek.nl Self Service",
         "status": "PAUSED",
         "creative_type": "COMPOSITE",
@@ -167,7 +22,7 @@
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2025-12-19T09:15:13.000Z",
-        "impressions_total": 16678,
+        "impressions_total": 48077,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -195,7 +50,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 16678,
+          "nl": 48077,
           "tr": 0
         },
         "targeting_v2": {
@@ -224,7 +79,7 @@
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ONSsMRcHa5Nr6gTzHG9bj.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQi1j0AgATDgAzjUBkABSg4KCVQmIioiKkcvKRD0A1CsXGgCdUt5YUB9AACAPyIGCgJIAxIAogE8CLoKEi8KLQiB7jggATDQBTiACkACSg4KCUkfHycjJkIpIhD0A1CsXGgCdbzAb0B9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjK3i8gATDgAzjUBkACSg4KCUEdGyEZIDcnHRD0A1CsXGgCdasTSkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjKjSogATDgAzjUBkACSg4KCTsYFxwZHDEeGRD0A1CsXGgCdcm3XUB9AACAPyIGCgJIAhIAkAOsXA%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/inR5253rUdiCDPoLmvsta.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQiu9TcgATDgAzjUBkABSg4KCVoOEhQTExIbGxD0A1CkYmgCdYZYVEB9AACAPyIGCgJIAxIAogE8CLoKEi8KLQjLjDEgATDQBTiACkACSg4KCXQOEhIUEBUWHBD0A1CkYmgCdQQjakB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQiF-SYgATDgAzjUBkACSg4KCT4LEQ8QDREUFxD0A1CkYmgCdeZtQkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjd0yIgATDgAzjUBkACSg4KCVQJDQ0NDA4OFRD0A1CkYmgCdRQbWEB9AACAPyIGCgJIAhIAkAOkYg%3D%3D&uc=15",
               "brand_name": "Dekbedovertrek.nl",
               "web_view_preview": {
                 "url": "https://dekbedovertrek.nl/?tw_source=snapchat&tw_adid={{ad.id}}"
@@ -240,499 +95,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "69187d07-ac6c-4723-95fc-8f8e19dc2626",
-        "name": "Story | Kussens actie | Hans heeft geld verspild",
-        "ad_account_name": "Dekbedovertrek.nl Self Service",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Wees geen Hans",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-12-19T09:15:13.000Z",
-        "impressions_total": 81681,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 81681,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dekbedovertrek.nl",
-        "brand_name": "Dekbedovertrek.nl",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Wees geen Hans",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Wees geen Hans",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OltPmtMKVeMsK7TOvUD3Y.67?mo=GoICGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEzCEMSKwopCLrhTiABMOADONQGQAFKDgoJXSwoICMhIyotEPQDUKaLAWgCdfC8eEAiAhIAogE0CLoKEisKKQjOnUMgATDQBTiACkACSg4KCUoiJhsgHCIjJRD0A1CmiwFoAnW4IIRAIgISAKIBOQiSChIwCi4Iu706IAEw4AM41AZAAkoOCglFICMXHRkcIiMQ9ANQposBaAJ1MXxsQH0AAIA_IgISAKIBOQjSChIwCi4IorswIAEw4AM41AZAAkoOCgk7GRsTFxQYGhsQ9ANQposBaAJ1e6B5QH0AAIA_IgISAJADposB&uc=15",
-              "brand_name": "Dekbedovertrek.nl",
-              "web_view_preview": {
-                "url": "https://dekbedovertrek.nl/?tw_source=snapchat&tw_adid={{ad.id}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "7706ca00-8256-4779-87b5-4e997641d820",
-        "name": "Video | Lexi | Dekbed zonder overtrek",
-        "ad_account_name": "Dekbedovertrek.nl Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Dekbed zonder overtrek",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UH8Ix5iiviTGr9dqPULb4.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgiD91ogATDgAzjUBkABSg4KCVQpHCgvGklANBD0A1DmnAFoAnValE9AfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4IurNGIAEw0AU4gApAAkoOCglNHBYhJBQ0NiIQ9ANQ5pwBaAJ1lNlfQH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCNCcNyABMOADONQGQAJKDgoJQxkTGhsSKCgfEPQDUOacAWgCddyhOUB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiKsTQgATDgAzjUBkACSg4KCUAVERgbDiQoFxD0A1DmnAFoAnV4SFdAfQAAgD8iBgoCSAISAJAD5pwB&uc=15",
-        "start_date": "2025-12-19T09:15:13.000Z",
-        "impressions_total": 11030,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 11030,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dekbedovertrek.nl",
-        "brand_name": "Dekbedovertrek.nl",
-        "web_view_properties": {
-          "url": "https://dekbedovertrek.nl"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "016e2b5e-25a3-4806-816c-ec2dfd84e4b3",
-        "name": "Story | Kussen actie | Hans op pauze",
-        "ad_account_name": "Dekbedovertrek.nl Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Wees geen Hans",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-12-19T09:15:13.000Z",
-        "impressions_total": 47234,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 47234,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dekbedovertrek.nl",
-        "brand_name": "Dekbedovertrek.nl",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Wees geen Hans",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Wees geen Hans",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zQFcq5PPrJnZpxDudePmW.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgi380UgATDgAzjUBkABSg4KCVh2Fh8lFyIgHRD0A1CelgFoAnWSuW1AfQAAgD8iBgoCSAISAKIBPQi6ChIwCi4I1-9BIAEw0AU4gApAAkoOCglRZBwaJRclHhsQ9ANQnpYBaAJ1wuF_QH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCKv6NCABMOADONQGQAJKDgoJR1ISFxoVIBgXEPQDUJ6WAWgCdZt5VEB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgjEtTMgATDgAzjUBkACSg4KCUNLFRIcERsXFRD0A1CelgFoAnVQoW9AfQAAgD8iBgoCSAISAJADnpYB&uc=15",
-              "brand_name": "Dekbedovertrek.nl",
-              "web_view_preview": {
-                "url": "https://dekbedovertrek.nl/?tw_source=snapchat&tw_adid={{ad.id}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f792a378-df9b-4b91-a4de-723f2dc92102",
-        "name": "Story | Kussen actie | Hans heeft voor kussens betaald",
-        "ad_account_name": "Dekbedovertrek.nl Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Wees geen Hans",
-        "call_to_action": "ORDER_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-12-19T09:15:13.000Z",
-        "impressions_total": 41611,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 41611,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dekbedovertrek.nl",
-        "brand_name": "Dekbedovertrek.nl",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Wees geen Hans",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Wees geen Hans",
-              "call_to_action": "ORDER_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RmmyZREMplItN0riMrEfp.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQjE9mUgATDgAzjUBkABSg4KCX4uMDAqKDEjKxD0A1CKmwFoAnWUEXFAIgYKAkgDEgCiATgIugoSKwopCNLqYCABMNAFOIAKQAJKDgoJcC0vMy4jNiAsEPQDUIqbAWgCdciIgEAiBgoCSAMSAKIBPQiSChIwCi4IzopOIAEw4AM41AZAAkoOCgleKiUqJh0rGSUQ9ANQipsBaAJ1trZdQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCO_xSCABMOADONQGQAJKDgoJWiEhJSIaKRchEPQDUIqbAWgCdYI_ckB9AACAPyIGCgJIAhIAkAOKmwE%3D&uc=15",
-              "brand_name": "Dekbedovertrek.nl",
-              "web_view_preview": {
-                "url": "https://dekbedovertrek.nl/?tw_source=snapchat&tw_adid={{ad.id}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8be53398-0fc1-4118-bb2d-aa32bd289877",
-        "name": "Story | Lexi | Dekbed zonder overtrek",
-        "ad_account_name": "Dekbedovertrek.nl Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Dekbed zonder overtrek",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-14T13:52:22.000Z",
-        "impressions_total": 2631,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 2631,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dekbedovertrek.nl",
-        "brand_name": "Dekbedovertrek.nl",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Debed zonder overtrek",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UH8Ix5iiviTGr9dqPULb4.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgiD91ogATDgAzjUBkABSg4KCVQpHCgvGklANBD0A1DmnAFoAnValE9AfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4IurNGIAEw0AU4gApAAkoOCglNHBYhJBQ0NiIQ9ANQ5pwBaAJ1lNlfQH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCNCcNyABMOADONQGQAJKDgoJQxkTGhsSKCgfEPQDUOacAWgCddyhOUB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiKsTQgATDgAzjUBkACSg4KCUAVERgbDiQoFxD0A1DmnAFoAnV4SFdAfQAAgD8iBgoCSAISAJAD5pwB&uc=15",
-              "brand_name": "Dekbedovertrek.nl",
-              "web_view_preview": {
-                "url": "https://dekbedovertrek.nl"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "3fe5144e-3a54-4271-a190-87e910edebf3",
-        "name": "Video | Lexi | Blushwood Meghan",
-        "ad_account_name": "Dekbedovertrek.nl Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Goedkoop mooi beddengoed scoren?",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Fu9LWbE4mU2g4JNfTl9Lf.67?mo=GowCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE4CEMSMAouCMDjWSABMOADONQGQAFKDgoJTiMiHyMyKB0eEPQDUNyrAWgCddrnbkB9AACAPyICEgCiATkIugoSMAouCIihSCABMNAFOIAKQAJKDgoJVBgZGhwqHxUaEPQDUNyrAWgCdfidgkB9AACAPyICEgCiATkIkgoSMAouCJfaOCABMOADONQGQAJKDgoJQRQVFRUgGRYMEPQDUNyrAWgCddC1X0B9AACAPyICEgCiATkI0goSMAouCOT2NSABMOADONQGQAJKDgoJRxMSExQfFw8SEPQDUNyrAWgCdTMqd0B9AACAPyICEgCQA9yrAQ%3D%3D&uc=15",
-        "start_date": "2025-12-19T09:15:13.000Z",
-        "impressions_total": 6951,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 6951,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dekbedovertrek.nl",
-        "brand_name": "Dekbedovertrek.nl",
-        "web_view_properties": {
-          "url": "https://dekbedovertrek.nl"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f59f788f-9866-43dc-947c-314b1b223dc5",
-        "name": "UGC - Video - Shania - BLushwood - Hook 2",
+        "id": "b57d7b2c-ab46-4f15-8b81-b7d2d491af63",
+        "name": "UGC - Video - Selina - AIO - Hook 3",
         "ad_account_name": "Dekbedovertrek.nl Self Service",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -741,13 +105,13 @@
         "languages": [
           "nl"
         ],
-        "headline": "Mooie prints, fijne prijs 🌸",
+        "headline": "Eén dekbed. Alles geregeld 😌",
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sD3853Oq8XlNxZytIDgtg.67?mo=GoUCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE1CEMSLQorCLTrlAEgATDgAzjUBkABSg8KCpMBQ1FBX0tTQUUQ9ANQ4qkBaAJ11vRKQCICEgCiATUIugoSLAoqCMWvcyABMNAFOIAKQAJKDwoKnQEuPDhKODY7ORD0A1DiqQFoAnWFnW9AIgISAKIBOQiSChIwCi4I4ZxXIAEw4AM41AZAAkoOCglvKjEiNyotJiYQ9ANQ4qkBaAJ1kr08QH0AAIA_IgISAKIBOQjSChIwCi4I9qtXIAEw4AM41AZAAkoOCglzIygnMycnLCwQ9ANQ4qkBaAJ1hypfQH0AAIA_IgISAJAD4qkB&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xENWtzEe9LWz7qcWF6n3D.67?mo=GpQCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwi705IBIAEw4AM41AZAAUoPCgp2MisgLi9TiQFrEPQDUP6KAWgCdc4aREAiBgoCSAISAKIBOgi6ChItCisI_ZiNASABMNAFOIAKQAJKDwoKiwErJyQsLkV8YhD0A1D-igFoAnV4M2BAIgYKAkgDEgCiAT0IkgoSMAouCOLHYyABMOADONQGQAJKDgoJWSAiFiAgN2FKEPQDUP6KAWgCdVA5N0B9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiK21kgATDgAzjUBkACSg4KCV4bGRcbHCpMPxD0A1D-igFoAnVElUtAfQAAgD8iBgoCSAISAJAD_ooB&uc=15",
         "start_date": "2025-12-19T09:15:13.000Z",
-        "impressions_total": 72260,
+        "impressions_total": 3790,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -775,7 +139,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 72260,
+          "nl": 3790,
           "tr": 0
         },
         "targeting_v2": {
@@ -795,6 +159,603 @@
         "brand_name": "Dekbedovertrek.nl",
         "web_view_properties": {
           "url": "https://www.dekbedovertrek.nl/?utm_source=snapchat&utm_campaign={{campaign.id}}&utm_content={{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "bc61b7d8-b55f-441a-b83e-1b9fb0dc4034",
+        "name": "Video | Kussen actie | Lexi | Warehouse 2",
+        "ad_account_name": "Dekbedovertrek.nl Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Actie met beperkte voorraad!",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GxvhyzgjotoQGJ2BJPE9e.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjo5TggATDgAzjUBkABSg4KCVYQFBMTExM-PBD0A1CuYmgCdZvuWUAiBgoCSAMSAKIBNwi6ChIqCigIqtA5IAEw0AU4gApAAkoOCglwEBQWFRYUMjsQ9ANQrmJoAnWeHHdAIgYKAkgDEgCiATwIkgoSLwotCP30KyABMOADONQGQAJKDgoJPw0REBAQDyg3EPQDUK5iaAJ1JqhBQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCOmlKiABMOADONQGQAJKDgoJWgwPDhAQDSUrEPQDUK5iaAJ1qglmQH0AAIA_IgYKAkgCEgCQA65i&uc=15",
+        "start_date": "2025-12-19T09:15:13.000Z",
+        "impressions_total": 198,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 198,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dekbedovertrek.nl",
+        "brand_name": "Dekbedovertrek.nl",
+        "web_view_properties": {
+          "url": "https://dekbedovertrek.nl/?tw_source=snapchat&tw_adid={{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "bb30ffb2-4eba-4fe3-94a6-b8f06bd93163",
+        "name": "UGC - Video - Wen - BLushwood - Hook 1",
+        "ad_account_name": "Dekbedovertrek.nl Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Geef je slaapkamer een upgrade ✨",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/kgC8PiKu8pmB2anlNxZxm.67?mo=GpICGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiEv5gBIAEw4AM41AZAAUoOCgl5LRZVTFxdWEcQ9ANQvLQBaAJ1rshgQCIGCgJIBBIAogE5CLoKEiwKKgiQ74IBIAEw0AU4gApAAkoOCglmNRM2PFNCOzwQ9ANQvLQBaAJ1QEJ0QCIGCgJIAxIAogE9CJIKEjAKLgjdj28gATDgAzjUBkACSg4KCVkiETc1PUc5KxD0A1C8tAFoAnUW_lRAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4IoO5bIAEw4AM41AZAAkoOCglPHwwrKjYtKSYQ9ANQvLQBaAJ1fhZkQH0AAIA_IgYKAkgCEgCQA7y0AQ%3D%3D&uc=15",
+        "start_date": "2025-12-19T13:30:23.000Z",
+        "impressions_total": 23816,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 23816,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dekbedovertrek.nl",
+        "brand_name": "Dekbedovertrek.nl",
+        "web_view_properties": {
+          "url": "https://www.dekbedovertrek.nl/?utm_source=snapchat&utm_campaign={{campaign.id}}&utm_content={{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "769f46ff-d9e2-4668-ac61-9209113dfdd2",
+        "name": "Story - UGC - Video - Shania - BLushwood - Hook 2",
+        "ad_account_name": "Dekbedovertrek.nl Self Service",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Mooie prints, fijne prijs 🌸",
+        "call_to_action": "ORDER_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-12-19T09:15:13.000Z",
+        "impressions_total": 138683,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 138683,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dekbedovertrek.nl",
+        "brand_name": "Dekbedovertrek.nl",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Mooie prints, fijne prijs 🌸",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Mooie prints, fijne prijs 🌸",
+              "call_to_action": "ORDER_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sD3853Oq8XlNxZytIDgtg.67?mo=GoUCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE1CEMSLQorCLTrlAEgATDgAzjUBkABSg8KCpMBQ1FBX0tTQUUQ9ANQ4qkBaAJ11vRKQCICEgCiATUIugoSLAoqCMWvcyABMNAFOIAKQAJKDwoKnQEuPDhKODY7ORD0A1DiqQFoAnWFnW9AIgISAKIBOQiSChIwCi4I4ZxXIAEw4AM41AZAAkoOCglvKjEiNyotJiYQ9ANQ4qkBaAJ1kr08QH0AAIA_IgISAKIBOQjSChIwCi4I9qtXIAEw4AM41AZAAkoOCglzIygnMycnLCwQ9ANQ4qkBaAJ1hypfQH0AAIA_IgISAJAD4qkB&uc=15",
+              "brand_name": "Dekbedovertrek.nl",
+              "web_view_preview": {
+                "url": "https://www.dekbedovertrek.nl/?utm_source=snapchat&utm_campaign={{campaign.id}}&utm_content={{ad.id}}"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a241d3e1-9937-4520-b16c-280f4125c375",
+        "name": "Video - Lexi - Waarom 120 euro betalen",
+        "ad_account_name": "Dekbedovertrek.nl Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Goedkoop mooi beddengoed scoren?",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tfGRlNj8DgfXGo8A3C9aB.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQjMhXYgATDgAzjUBkABSg4KCVYrKyEbF0k5MBD0A1DWxgFoAnVS_WNAIgYKAkgDEgCiATgIugoSKwopCK6JXyABMNAFOIAKQAJKDgoJVCIkHhcOPCwoEPQDUNbGAWgCdUu3fkAiBgoCSAISAKIBPQiSChIwCi4IkMZMIAEw4AM41AZAAkoOCglEIB0WEgwnIiAQ9ANQ1sYBaAJ1SnVVQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCOKtRyABMOADONQGQAJKDgoJRxgaFxELKyAdEPQDUNbGAWgCddQ1cUB9AACAPyIGCgJIAhIAkAPWxgE%3D&uc=15",
+        "start_date": "2025-12-19T13:30:23.000Z",
+        "impressions_total": 2954,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 2954,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dekbedovertrek.nl",
+        "brand_name": "Dekbedovertrek.nl",
+        "web_view_properties": {
+          "url": "https://dekbedovertrek.nl"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d99a0f9e-a473-445c-8267-c6793d80bd55",
+        "name": "Video | Kussens actie | Hans heeft geld verspild",
+        "ad_account_name": "Dekbedovertrek.nl Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Wees geen Hans",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OltPmtMKVeMsK7TOvUD3Y.67?mo=GoICGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEzCEMSKwopCLrhTiABMOADONQGQAFKDgoJXSwoICMhIyotEPQDUKaLAWgCdfC8eEAiAhIAogE0CLoKEisKKQjOnUMgATDQBTiACkACSg4KCUoiJhsgHCIjJRD0A1CmiwFoAnW4IIRAIgISAKIBOQiSChIwCi4Iu706IAEw4AM41AZAAkoOCglFICMXHRkcIiMQ9ANQposBaAJ1MXxsQH0AAIA_IgISAKIBOQjSChIwCi4IorswIAEw4AM41AZAAkoOCgk7GRsTFxQYGhsQ9ANQposBaAJ1e6B5QH0AAIA_IgISAJADposB&uc=15",
+        "start_date": "2025-12-19T09:15:13.000Z",
+        "impressions_total": 531,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 531,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dekbedovertrek.nl",
+        "brand_name": "Dekbedovertrek.nl",
+        "web_view_properties": {
+          "url": "https://dekbedovertrek.nl/?tw_source=snapchat&tw_adid={{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "9627e41e-fda3-4339-b451-768ae15431ff",
+        "name": "Story - UGC - Video - June - BLushwood - Hook 1",
+        "ad_account_name": "Dekbedovertrek.nl Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Mooie prints, fijne prijs 🌸",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cdXBcgUzvG0NOCsQhoTPa.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQj-wmsgATDgAzjUBkABSg4KCVsaESBBKC8zLhD0A1CGlAFoAnUyKWFAIgYKAkgDEgCiATgIugoSKwopCJ6gWyABMNAFOIAKQAJKDgoJWDAQIjQjHychEPQDUIaUAWgCdTL8bEAiBgoCSAMSAKIBPQiSChIwCi4I-bBNIAEw4AM41AZAAkoOCglFEg0ZNBshJyAQ9ANQhpQBaAJ1UTBXQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCO-VQyABMOADONQGQAJKDgoJRxEOGCIaFBwZEPQDUIaUAWgCdTz1XkB9AACAPyIGCgJIAhIAkAOGlAE%3D&uc=15",
+        "start_date": "2025-12-19T13:30:23.000Z",
+        "impressions_total": 2935,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 2935,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dekbedovertrek.nl",
+        "brand_name": "Dekbedovertrek.nl",
+        "web_view_properties": {
+          "url": "https://www.dekbedovertrek.nl/?utm_source=snapchat&utm_campaign={{campaign.id}}&utm_content={{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "61ab2fda-15cd-4177-82f0-8d173e9fbca2",
+        "name": "Video | Lexi | 120 euro",
+        "ad_account_name": "Dekbedovertrek.nl Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Waarom 120 euro betalen?",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tfGRlNj8DgfXGo8A3C9aB.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQjMhXYgATDgAzjUBkABSg4KCVYrKyEbF0k5MBD0A1DWxgFoAnVS_WNAIgYKAkgDEgCiATgIugoSKwopCK6JXyABMNAFOIAKQAJKDgoJVCIkHhcOPCwoEPQDUNbGAWgCdUu3fkAiBgoCSAISAKIBPQiSChIwCi4IkMZMIAEw4AM41AZAAkoOCglEIB0WEgwnIiAQ9ANQ1sYBaAJ1SnVVQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCOKtRyABMOADONQGQAJKDgoJRxgaFxELKyAdEPQDUNbGAWgCddQ1cUB9AACAPyIGCgJIAhIAkAPWxgE%3D&uc=15",
+        "start_date": "2025-12-19T09:15:13.000Z",
+        "impressions_total": 11682,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 11682,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dekbedovertrek.nl",
+        "brand_name": "Dekbedovertrek.nl",
+        "web_view_properties": {
+          "url": "https://dekbedovertrek.nl/?tw_source=snapchat&tw_adid={{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2c07682b-a033-4ac2-9bbc-a52dddc2678e",
+        "name": "Video | Kussens actie | Lexi | Warehouse 1",
+        "ad_account_name": "Dekbedovertrek.nl Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Actie met beperkte voorraad!",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ONSsMRcHa5Nr6gTzHG9bj.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQi1j0AgATDgAzjUBkABSg4KCVQmIioiKkcvKRD0A1CsXGgCdUt5YUB9AACAPyIGCgJIAxIAogE8CLoKEi8KLQiB7jggATDQBTiACkACSg4KCUkfHycjJkIpIhD0A1CsXGgCdbzAb0B9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjK3i8gATDgAzjUBkACSg4KCUEdGyEZIDcnHRD0A1CsXGgCdasTSkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjKjSogATDgAzjUBkACSg4KCTsYFxwZHDEeGRD0A1CsXGgCdcm3XUB9AACAPyIGCgJIAhIAkAOsXA%3D%3D&uc=15",
+        "start_date": "2025-12-19T09:15:13.000Z",
+        "impressions_total": 488,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 488,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dekbedovertrek.nl",
+        "brand_name": "Dekbedovertrek.nl",
+        "web_view_properties": {
+          "url": "https://dekbedovertrek.nl/?tw_source=snapchat&tw_adid={{ad.id}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

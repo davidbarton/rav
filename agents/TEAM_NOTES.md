@@ -48,9 +48,9 @@
 This section is not new stakeholder guidance; it maps the notes above to what exists in the tree **as of the sync date** so expectations stay honest.
 
 - **Email/report-first consumers:** `app/index.html` + `app/script.js` emphasize scannable KPIs, leaderboard blocks, and a creator/sponsored snapshot; methodology and real-vs-inferred boundaries are spelled out in `app/README.md` and the in-app “Read Me First” panel.
-- **Spend and performance per spend:** `app/build_dataset.mjs` emits impression-based spend *bands* and a performance-per-spend proxy into `app/data/normalized.json`, with warnings that these are directional only.
+- **Spend and performance per spend:** `app/build_dataset.ts` emits impression-based spend *bands* and a performance-per-spend proxy into `app/data/normalized.json`, with warnings that these are directional only.
 - **Competitive / brand-oriented views:** ad campaigns table + gallery, filters, and risk flags in the same prototype; deeper competitive scale lives in DuckDB and raw pulls (see `DATA_SAMPLES.md`, `RESEARCH.md`, `data_sources/snap_ads/`).
-- **Proxies when blocked:** optional `SNAP_PROXY` / related env vars are documented in root `README.md` and `.env.example`; the main Snap fetcher is `data_sources/snap_ads` (`npm run fetch` scripts there).
+- **Proxies when blocked:** optional `SNAP_PROXY` / related env vars are documented in `DEVELOPMENT.md` and `.env.example`; all fetchers run from repo root (`npm run fetch:ads`, etc.).
 - **Czech deliverable packaging:** requirement traceability and evaluator run path are in `agents/COVERAGE_MATRIX.md` and `agents/SUBMISSION.md`.
 
 **Still open vs these notes (see `agents/FUTURE_BACKLOG.md`):** exec-facing `app/REPORT_TEMPLATE.md`, table export, explicit confidence labels on proxy metrics in UI, and dollar-normalized spend (stretch).

@@ -11,7 +11,7 @@
 | #   | Source                                               | Auth                      | Scope                                           | Bulk?       | Status (2026-04-08)                                               |
 | --- | ---------------------------------------------------- | ------------------------- | ----------------------------------------------- | ----------- | ----------------------------------------------------------------- |
 | 1   | **Ads Gallery API** (EU Ad Library)                  | **None**                  | All paid ads in EU, last 12 months              | Per-brand   | **ACTIVE** — working, rate-limit constrained, needs proxy scaling, very hard |
-| 2   | **Sponsored Content API** (organic commercial)       | **None**                  | Live organic branded content globally           | Browsable   | **ACTIVE** — prior snapshot: 882 pages, ~176k items; new crawl in progress |
+| 2   | **Sponsored Content API** (organic commercial)       | **None**                  | Live organic branded content globally           | Browsable   | **FINAL** — 535 pages, 230k deduplicated rows. Cursor expiry prevents full enumeration. |
 | 3   | **Political Ads Library** (bulk ZIP)                 | **None**                  | Political/advocacy ads, 2018–2026               | Bulk CSV    | **COMPLETE** — 74,609 ads, 9 years, $117.5M spend      |
 | 4   | **Marketing API** (Ads API)                          | **OAuth 2.0**             | Own campaigns — CRUD + stats                    | Per-account | **BLOCKED** — requires advertiser account with spend             |
 
@@ -401,9 +401,9 @@ E1008 from a rotating proxy is transient — the cursor was issued to one exit I
 | --- | --- | --- | --- | --- | --- |
 | **Run 1** (2026-04-08) | Partial — cursor expired | 882 | ~176,400 | ~7h | Stopped, cursors rotted, archived to `partial_snapshots/` |
 | **Run 2** (2026-04-09, attempt 1) | Partial — stopped | 539 | ~269,500 | ~4h | Paused, cursors expired again |
-| **Run 3** (2026-04-09, attempt 2) | In progress | 489+ | ~244,500+ | ongoing | Currently running |
+| **Run 3** (2026-04-09, attempt 2) | **Final** | 535 | ~267,500 | ~4h | Stopped — cursor expired again. Abandoned further attempts. |
 
-Each restart loses progress and re-fetches from page 0. The total dataset size is unknown — we haven't completed a full crawl yet. DuckDB loads all runs (active + archived) and deduplication is possible via `run_id`.
+Each restart loses progress and re-fetches from page 0. The total dataset size is unknown — no run completed before cursors expired. **Run 3 is the loaded dataset**: 535 pages → 230,267 deduplicated rows in `sponsored_content` (178k unique content URLs, 62k creators, 3k named sponsors). Earlier runs archived in `partial_snapshots/` (not loaded).
 
 #### Why ~92% have empty `sponsor_name`
 
@@ -999,13 +999,12 @@ The DuckDB SQL handles the nested-JSON-string-inside-JSON structure (`encodedSea
 
 **CLI**:
 ```bash
-cd data_sources/snap_explore && npm install
-npx tsx src/fetch_explore.ts              # all 128 keywords
-npx tsx src/fetch_explore.ts --limit 10   # first 10 only
-npx tsx src/fetch_explore.ts --status     # progress dashboard
-npx tsx src/fetch_explore.ts --retry      # retry failed/rate-limited
-npx tsx src/fetch_explore.ts --discovered # also crawl topic-discovered keywords
-npx tsx src/fetch_explore.ts --delay 3000 # custom delay between requests
+npm run fetch:explore                       # all 128 keywords
+npm run fetch:explore -- --limit 10         # first 10 only
+npm run fetch:explore -- --status           # progress dashboard
+npm run fetch:explore -- --retry            # retry failed/rate-limited
+npm run fetch:explore -- --discovered       # also crawl topic-discovered keywords
+npm run fetch:explore -- --delay 3000       # custom delay between requests
 ```
 
 ---
@@ -1088,10 +1087,9 @@ Same `got-scraping` + `__NEXT_DATA__` technique. Sample of 108 spotlight URLs: 7
 
 **CLI**:
 ```bash
-cd data_sources/snap_spotlights && npm install
-npx tsx src/fetch_spotlights.ts              # fetch all sample URLs
-npx tsx src/fetch_spotlights.ts --limit 5    # test with 5
-npx tsx src/fetch_spotlights.ts --status     # progress
+npm run fetch:spotlights                     # fetch all sample URLs
+npm run fetch:spotlights -- --limit 5        # test with 5
+npm run fetch:spotlights -- --status         # progress
 ```
 
 ### Practical value
@@ -1416,14 +1414,12 @@ data_sources/dsa_transparency/
 **CLI:**
 
 ```bash
-cd data_sources/dsa_transparency && npm install
-npx tsx src/fetch_sor.ts --test                    # yesterday, preview 5 rows
-npx tsx src/fetch_sor.ts --from 2023-09-25 --to 2026-04-08   # full Snapchat history (light)
-npx tsx src/fetch_sor.ts --status
-npx tsx src/fetch_sor.ts --retry                   # failed / not_found days only
-npx tsx src/fetch_sor.ts --full                    # full variant (larger, text fields)
-# then load DB:
-cd ../.. && duckdb db/rav.db < db/init.sql
+npm run fetch:sor -- --test                    # yesterday, preview 5 rows
+npm run fetch:sor -- --from 2023-09-25 --to 2026-04-08   # full Snapchat history (light)
+npm run fetch:sor -- --status
+npm run fetch:sor -- --retry                   # failed / not_found days only
+npm run fetch:sor -- --full                    # full variant (larger, text fields)
+npm run db:init                                # rebuild DuckDB tables
 ```
 
 Requires **`unzip`** on `PATH` (macOS / Linux standard).
