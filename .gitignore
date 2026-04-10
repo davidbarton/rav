@@ -34,8 +34,9 @@ Thumbs.db
 *.swo
 *~
 
-# Generated app data
-app/data/
+# Generated app data (keep baked report JSON for deployment)
+app/data/*
+!app/data/dior-report.json
 
 # Data (raw fetched data is large but tracked intentionally)
 # data_sources/snap_ads/data/

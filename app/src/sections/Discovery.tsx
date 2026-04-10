@@ -12,8 +12,12 @@ const LABEL: Record<string, string> = {
   chanel: "Chanel",
   gucci: "Gucci",
   cartier: "Cartier",
+  prada: "Prada",
   burberry: "Burberry",
   louis_vuitton: "Louis Vuitton",
+  valentino: "Valentino",
+  balenciaga: "Balenciaga",
+  tiffany: "Tiffany",
 };
 
 export function Discovery() {
@@ -94,11 +98,7 @@ export function Discovery() {
                       transitionDelay: `${i * 80}ms`,
                     }}
                   />
-                  <span
-                    className={`absolute right-2 top-1/2 -translate-y-1/2 text-xs font-medium ${
-                      pct > 60 ? "text-white" : "text-gray-600"
-                    }`}
-                  >
+                  <span className="absolute right-2 top-1/2 -translate-y-1/2 text-xs font-medium text-gray-600">
                     {d.totalCreators} creators
                   </span>
                 </div>

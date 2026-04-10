@@ -36,8 +36,16 @@ for (let dir = __dirname; dir !== path.dirname(dir); dir = path.dirname(dir)) {
 
 const EXPLORE_DIR = path.resolve(__dirname, "..", "data_sources", "snap_explore", "data", "explore");
 const DB_PATH = path.resolve(__dirname, "..", "db", "rav.db");
+const DIST_DIR = path.resolve(__dirname, "dist");
+const DIST_POLITICAL = path.resolve(__dirname, "..", "app-political", "dist");
 const CACHE_MAX_AGE_MS = 60 * 60 * 1000; // 1 hour
-const PORT = parseInt(process.env.API_PORT ?? "3001", 10);
+const PORT = parseInt(process.env.PORT ?? process.env.API_PORT ?? "3001", 10);
+const REPORT_PASS = process.env.REPORT_PASS ?? "";
+
+if (!REPORT_PASS) {
+  console.error("[FATAL] REPORT_PASS environment variable is required. Set it in .env or your environment.");
+  process.exit(1);
+}
 
 function dbQuery<T = Record<string, unknown>>(sql: string): T[] {
   try {
@@ -122,8 +130,28 @@ async function fetchAndCache(keyword: string): Promise<ExploreData | null> {
 // ---------------------------------------------------------------------------
 
 const app = express();
+
+app.use((req, res, next) => {
+  const auth = req.headers.authorization;
+  if (!auth || !auth.startsWith("Basic ")) {
+    res.setHeader("WWW-Authenticate", 'Basic realm="Ravineo Report"');
+    res.status(401).send("Authentication required");
+    return;
+  }
+  const decoded = Buffer.from(auth.slice(6), "base64").toString();
+  const pass = decoded.includes(":") ? decoded.split(":").slice(1).join(":") : decoded;
+  if (pass !== REPORT_PASS) {
+    res.setHeader("WWW-Authenticate", 'Basic realm="Ravineo Report"');
+    res.status(401).send("Invalid credentials");
+    return;
+  }
+  next();
+});
+
 app.use(cors());
 app.use(express.json());
+app.use("/political", express.static(DIST_POLITICAL));
+app.use(express.static(DIST_DIR));
 
 app.get("/api/explore", async (req, res) => {
   const q = (req.query.q as string ?? "").trim().toLowerCase();
@@ -338,10 +366,31 @@ app.get("/api/sponsored/stats", (_req, res) => {
 });
 
 // ---------------------------------------------------------------------------
+// SPA fallback — serve index.html for all non-API routes
+// ---------------------------------------------------------------------------
+
+app.use((req, res, next) => {
+  if (req.method !== "GET" || req.path.startsWith("/api/")) return next();
+
+  if (req.path.startsWith("/political")) {
+    res.sendFile(path.join(DIST_POLITICAL, "index.html"), (err) => {
+      if (err) next(err);
+    });
+    return;
+  }
+
+  res.sendFile(path.join(DIST_DIR, "index.html"), (err) => {
+    if (err) next(err);
+  });
+});
+
+// ---------------------------------------------------------------------------
 // Start
 // ---------------------------------------------------------------------------
 
 app.listen(PORT, () => {
   console.log(`[API] Server running on http://localhost:${PORT}`);
-  console.log(`[API] Explore cache: ${EXPLORE_DIR}`);
+  console.log(`[API] Fashion report:   ${DIST_DIR}`);
+  console.log(`[API] Political report: ${DIST_POLITICAL}`);
+  console.log(`[API] Password protection: ENABLED`);
 });

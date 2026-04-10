@@ -18,19 +18,25 @@
     "app:dev": "cd app && npm run dev",
     "app:api": "tsx app/server.ts",
     "app:build": "cd app && npm run build",
-    "db:init": "duckdb db/rav.db < db/init.sql"
+    "app:start": "npm run build && node --import tsx/esm app/server.ts",
+    "build": "cd app && npm install && npm run build && cd ../app-political && npm install && npm run build",
+    "start": "node --import tsx/esm app/server.ts",
+    "db:init": "duckdb db/rav.db < db/init.sql",
+    "pol:data": "tsx app-political/build_report.ts",
+    "pol:dev": "cd app-political && npm run dev",
+    "pol:build": "cd app-political && npm run build"
   },
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "got-scraping": "^4.2.1",
+    "tsx": "^4.19.4",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
     "@types/node": "^25.5.2",
-    "tsx": "^4.19.4",
     "typescript": "^6.0.2"
   }
 }

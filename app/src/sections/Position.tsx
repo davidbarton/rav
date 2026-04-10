@@ -3,6 +3,7 @@ import {
   Bar,
   XAxis,
   YAxis,
+  CartesianGrid,
   Tooltip,
   ResponsiveContainer,
   Cell,
@@ -44,16 +45,17 @@ export function Position() {
       </p>
 
       <div className="rounded-xl border border-gray-200 bg-white p-4">
-        <ResponsiveContainer width="100%" height={360}>
+        <ResponsiveContainer width="100%" height={Math.max(360, brands.length * 36)}>
           <BarChart
             data={data}
             layout="vertical"
             margin={{ left: 100, right: 20, top: 8, bottom: 8 }}
           >
+            <CartesianGrid horizontal={false} />
             <XAxis
               type="number"
               tickFormatter={fmtNum}
-              tick={{ fontSize: 12, fill: "#7a7a7a" }}
+              tick={{ fontSize: 11, fill: "#a3a3a3" }}
             />
             <YAxis
               type="category"
@@ -62,14 +64,15 @@ export function Position() {
               width={90}
             />
             <Tooltip
-              formatter={(v: number) => [fmtNum(v), "Impressions"]}
+              formatter={(v: unknown) => [fmtNum(v as number), "Impressions"]}
               contentStyle={{
-                borderRadius: 8,
-                border: "1px solid #e8e8e6",
+                borderRadius: 10,
+                border: "none",
+                boxShadow: "0 4px 16px rgba(0,0,0,0.08)",
                 fontSize: 13,
               }}
             />
-            <Bar dataKey="impressions" radius={[0, 4, 4, 0]}>
+            <Bar dataKey="impressions" radius={[0, 6, 6, 0]}>
               {data.map((entry) => (
                 <Cell
                   key={entry.name}

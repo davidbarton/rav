@@ -924,10 +924,156 @@
         "skincareessentials"
       ],
       "fetched_at": "2026-04-10T10:09:06.991Z"
+    },
+    "prada": {
+      "status": "fetched",
+      "keyword": "prada",
+      "query_echo": "prada",
+      "country": "CZ",
+      "sections": [
+        {
+          "type": "storyCard",
+          "count": 24
+        },
+        {
+          "type": "snapProEntity",
+          "count": 4
+        },
+        {
+          "type": "lens",
+          "count": 24
+        },
+        {
+          "type": "place",
+          "count": 10
+        },
+        {
+          "type": "publisherEdition",
+          "count": 14
+        },
+        {
+          "type": "topic",
+          "count": 1
+        }
+      ],
+      "creators_found": 25,
+      "topics_found": [
+        "prada"
+      ],
+      "fetched_at": "2026-04-10T11:46:31.074Z"
+    },
+    "valentino": {
+      "status": "fetched",
+      "keyword": "valentino",
+      "query_echo": "valentino",
+      "country": "CZ",
+      "sections": [
+        {
+          "type": "snapProEntity",
+          "count": 21
+        },
+        {
+          "type": "storyCard",
+          "count": 24
+        },
+        {
+          "type": "publisherEdition",
+          "count": 12
+        },
+        {
+          "type": "lens",
+          "count": 24
+        },
+        {
+          "type": "place",
+          "count": 10
+        },
+        {
+          "type": "topic",
+          "count": 1
+        }
+      ],
+      "creators_found": 44,
+      "topics_found": [
+        "valentino"
+      ],
+      "fetched_at": "2026-04-10T11:46:35.520Z"
+    },
+    "balenciaga": {
+      "status": "fetched",
+      "keyword": "balenciaga",
+      "query_echo": "balenciaga",
+      "country": "CZ",
+      "sections": [
+        {
+          "type": "storyCard",
+          "count": 24
+        },
+        {
+          "type": "snapProEntity",
+          "count": 5
+        },
+        {
+          "type": "publisherEdition",
+          "count": 13
+        },
+        {
+          "type": "lens",
+          "count": 24
+        },
+        {
+          "type": "place",
+          "count": 10
+        },
+        {
+          "type": "topic",
+          "count": 1
+        }
+      ],
+      "creators_found": 26,
+      "topics_found": [
+        "balenciaga"
+      ],
+      "fetched_at": "2026-04-10T11:46:39.739Z"
+    },
+    "tiffany": {
+      "status": "fetched",
+      "keyword": "tiffany",
+      "query_echo": "tiffany",
+      "country": "CZ",
+      "sections": [
+        {
+          "type": "user",
+          "count": 1
+        },
+        {
+          "type": "snapProEntity",
+          "count": 11
+        },
+        {
+          "type": "storyCard",
+          "count": 24
+        },
+        {
+          "type": "place",
+          "count": 10
+        },
+        {
+          "type": "publisherEdition",
+          "count": 14
+        },
+        {
+          "type": "lens",
+          "count": 24
+        }
+      ],
+      "creators_found": 30,
+      "topics_found": [],
+      "fetched_at": "2026-04-10T11:46:44.005Z"
     }
   },
-  "total_requests": 23,
-  "total_fetched": 23,
+  "total_requests": 27,
+  "total_fetched": 27,
   "started_at": "2026-04-09T13:09:10.073Z",
-  "last_updated": "2026-04-10T10:09:06.991Z"
+  "last_updated": "2026-04-10T11:46:44.005Z"
 }

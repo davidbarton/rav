@@ -64,7 +64,7 @@ export function Creative() {
       </p>
 
       <div className="rounded-xl border border-gray-200 bg-white p-4">
-        <ResponsiveContainer width="100%" height={320}>
+        <ResponsiveContainer width="100%" height={Math.max(320, brands.length * 36)}>
           <BarChart
             data={chartData}
             margin={{ left: 80, right: 20, top: 8, bottom: 8 }}
@@ -75,7 +75,7 @@ export function Creative() {
               domain={[0, 100]}
               ticks={[0, 25, 50, 75, 100]}
               tickFormatter={(v) => `${v}%`}
-              tick={{ fontSize: 12, fill: "#7a7a7a" }}
+              tick={{ fontSize: 11, fill: "#a3a3a3" }}
             />
             <YAxis
               type="category"
@@ -84,19 +84,31 @@ export function Creative() {
               width={70}
             />
             <Tooltip
-              formatter={(v: number, name: string) => [
+              formatter={(v: unknown, name: unknown) => [
                 `${v}%`,
-                formatLabel(name),
+                formatLabel(name as string),
               ]}
               contentStyle={{
-                borderRadius: 8,
-                border: "1px solid #e8e8e6",
+                borderRadius: 10,
+                border: "none",
+                boxShadow: "0 4px 16px rgba(0,0,0,0.08)",
                 fontSize: 13,
               }}
             />
             <Legend
-              formatter={formatLabel}
-              wrapperStyle={{ fontSize: 12 }}
+              content={() => (
+                <div className="flex flex-wrap justify-center gap-x-5 gap-y-1 pt-2 text-xs text-gray-600">
+                  {FORMATS.map((fmt, i) => (
+                    <span key={fmt} className="flex items-center gap-1.5">
+                      <span
+                        className="inline-block size-2.5 rounded-sm"
+                        style={{ backgroundColor: DATA_COLORS[i] }}
+                      />
+                      {formatLabel(fmt)}
+                    </span>
+                  ))}
+                </div>
+              )}
             />
             {FORMATS.map((fmt, i) => (
               <Bar

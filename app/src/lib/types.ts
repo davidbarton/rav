@@ -20,6 +20,14 @@ export interface Report {
     est_spend_high: number;
     brand_count: number;
     country_count: number;
+    market?: {
+      total_ads: number;
+      total_impressions: number;
+      est_spend_low: number;
+      est_spend_high: number;
+      brand_count: number;
+      country_count: number;
+    };
   };
   position: {
     dior_rank: number;

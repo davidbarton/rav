@@ -37,14 +37,15 @@ export function Takeaways() {
       {/* CTA */}
       <div className="mt-12 rounded-2xl bg-brand-900 px-8 py-10 text-center text-white">
         <h3 className="text-2xl font-bold">
-          This is what Ravineo sees.
+          Run this for any brand in your portfolio.
         </h3>
         <p className="mx-auto mt-3 max-w-lg text-brand-100">
-          Competitive intelligence, creative benchmarking, and market gaps —
-          automatically, across every brand, every country, every day.
+          Same intelligence, any competitive set, any market — updated
+          automatically. Generate reports for sub-brands, new launches, or
+          categories you're exploring.
         </p>
         <button className="mt-6 inline-flex items-center gap-2 rounded-lg bg-white px-6 py-3 text-sm font-semibold text-brand-900 transition hover:bg-gray-50">
-          Want this for your brand?
+          Generate another report
           <ArrowRight className="size-4" />
         </button>
       </div>

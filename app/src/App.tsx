@@ -8,8 +8,6 @@ import { Cadence } from "./sections/Cadence";
 import { Content } from "./sections/Content";
 import { Discovery } from "./sections/Discovery";
 import { Takeaways } from "./sections/Takeaways";
-import { Explorer } from "./sections/Explorer";
-import { Sponsored } from "./sections/Sponsored";
 import { report } from "./lib/data";
 
 export default function App() {
@@ -17,8 +15,11 @@ export default function App() {
     <div className="min-h-screen">
       <Nav />
 
-      {/* Hero */}
-      <header className="relative overflow-hidden bg-brand-900 px-6 pb-12 pt-20 text-white">
+      {/* Hero — Ravineo product with client brand accent */}
+      <header className="relative overflow-hidden bg-brand-900 px-6 pb-14 pt-20 text-white">
+        {/* Thin client-gold top accent line */}
+        <div className="absolute inset-x-0 top-[49px] h-px bg-client-gold/30" />
+
         <div className="mx-auto max-w-[1280px]">
           <div className="flex items-center gap-3">
             <span className="rounded-full border border-brand-600/40 bg-brand-700/30 px-3 py-0.5 text-xs font-medium text-brand-100">
@@ -28,10 +29,14 @@ export default function App() {
               {new Date(report.generated_at).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}
             </span>
           </div>
-          <h1 className="mt-5 text-4xl font-bold tracking-tight md:text-5xl lg:text-6xl">
+
+          {/* Client brand name in serif — the one custom element */}
+          <h1 className="mt-6 font-display text-5xl font-bold uppercase tracking-[0.15em] md:text-6xl lg:text-7xl">
             {report.brand}
           </h1>
-          <p className="mt-4 max-w-lg text-lg leading-relaxed text-gray-300">
+          <div className="mt-3 h-px w-20 bg-client-gold/60" />
+
+          <p className="mt-5 max-w-lg text-lg leading-relaxed text-gray-300">
             Your competitive position on Snapchat in Europe — who's outspending
             you, where you're missing, and what to do about it.
           </p>
@@ -76,10 +81,6 @@ export default function App() {
         <Discovery />
         <hr className="border-gray-200" />
         <Takeaways />
-        <hr className="border-gray-200" />
-        <Explorer />
-        <hr className="border-gray-200" />
-        <Sponsored />
       </main>
 
       <Footer />

@@ -8,9 +8,7 @@ const SECTIONS = [
   { id: "cadence", label: "Cadence" },
   { id: "content", label: "Content" },
   { id: "discovery", label: "Discovery" },
-  { id: "takeaways", label: "Takeaways" },
-  { id: "explorer", label: "Explorer" },
-  { id: "sponsored", label: "Sponsored" },
+  { id: "takeaways", label: "Actions" },
 ];
 
 export function Nav() {

@@ -22,10 +22,14 @@ const COMPETITORS = [
   "Cartier",
   "Gucci",
   "Chanel",
+  "Prada",
   "Celine",
   "Burberry",
   "Givenchy",
   "Louis Vuitton",
+  "Valentino",
+  "Balenciaga",
+  "Tiffany",
 ];
 const ALL_BRANDS = [BRAND, ...COMPETITORS];
 
@@ -33,10 +37,11 @@ const CPM_LOW = 4.0;
 const CPM_HIGH = 9.0;
 
 function query<T = Record<string, unknown>>(sql: string): T[] {
-  const out = execSync(`duckdb "${DB_PATH}" -json`, {
+  const out = execSync(`duckdb -readonly "${DB_PATH}" -json`, {
     input: sql + "\n",
     encoding: "utf8",
     maxBuffer: 100 * 1024 * 1024,
+    timeout: 15_000,
   });
   return JSON.parse(out || "[]") as T[];
 }
@@ -60,6 +65,22 @@ function main(): void {
   }
 
   // ── Section 1: Landscape ──────────────────────────────────
+  // Full market overview (all brands in DB)
+  const marketWide = query<{
+    total_ads: number;
+    total_impressions: string;
+    brand_count: number;
+    country_count: number;
+  }>(`
+    SELECT
+      COUNT(*) as total_ads,
+      SUM(impressions_total) as total_impressions,
+      COUNT(DISTINCT brand) as brand_count,
+      COUNT(DISTINCT country) as country_count
+    FROM brand_ads_fashion
+  `)[0];
+
+  // Luxury subset (our competitive set)
   const landscape = query<{
     total_ads: number;
     total_impressions: string;
@@ -77,6 +98,8 @@ function main(): void {
 
   const totalImpressions = Number(landscape.total_impressions);
   const spend = estimateSpend(totalImpressions);
+  const marketImpressions = Number(marketWide.total_impressions);
+  const marketSpend = estimateSpend(marketImpressions);
 
   // ── Section 2: Position (share of voice) ──────────────────
   const shareOfVoice = query<{
@@ -127,12 +150,24 @@ function main(): void {
     }));
 
   const diorCountries = new Set(diorGeo.map((r) => r.country));
-  const competitorCountries = new Set(
-    geoAll.filter((r) => r.brand !== BRAND).map((r) => r.country),
-  );
-  const missingCountries = [...competitorCountries].filter(
-    (c) => !diorCountries.has(c),
-  );
+
+  // Only flag a market as "missing" if there's deliberate competitor presence,
+  // not just pan-EU spray (e.g. Givenchy's single 33K-impression ad in 20 countries).
+  // Threshold: >=2 brands OR >=100K total impressions from competitors.
+  const competitorByCountry = new Map<string, { brands: Set<string>; impressions: number }>();
+  for (const r of geoAll.filter((r) => r.brand !== BRAND)) {
+    const entry = competitorByCountry.get(r.country) ?? { brands: new Set(), impressions: 0 };
+    entry.brands.add(r.brand);
+    entry.impressions += Number(r.impressions);
+    competitorByCountry.set(r.country, entry);
+  }
+
+  const missingCountries = [...competitorByCountry.entries()]
+    .filter(([c, info]) =>
+      !diorCountries.has(c) && info.brands.size >= 2 && info.impressions >= 100_000,
+    )
+    .sort((a, b) => b[1].impressions - a[1].impressions)
+    .map(([c]) => c);
 
   const competitorGeoSummary = COMPETITORS.map((brand) => {
     const rows = geoAll.filter((r) => r.brand === brand);
@@ -175,27 +210,38 @@ function main(): void {
     }));
   }
 
-  // Top creatives with download links
-  const topCreatives = query<{
+  // Top creatives — fall back to first snap image for Collection Ads, dedupe by URL
+  const topCreativesRaw = query<{
     headline: string;
     impressions_total: number;
     country: string;
     format: string;
-    creative_url: string;
+    creative_url: string | null;
     start_date: string;
   }>(`
     SELECT headline, impressions_total, country,
       COALESCE(top_snap_media_type, 'COLLECTION') as format,
-      top_snap_media_download_link as creative_url,
+      COALESCE(
+        top_snap_media_download_link,
+        composite_preview.ad_snaps[1].top_snap_media_download_link
+      ) as creative_url,
       start_date::VARCHAR as start_date
     FROM brand_ads_fashion
     WHERE brand = '${BRAND}'
     ORDER BY impressions_total DESC
-    LIMIT 10
+    LIMIT 30
   `).map((r) => ({
     ...r,
     impressions_total: Number(r.impressions_total),
   }));
+
+  const seenUrls = new Set<string>();
+  const topCreatives = topCreativesRaw.filter((r) => {
+    if (!r.creative_url) return false;
+    if (seenUrls.has(r.creative_url)) return false;
+    seenUrls.add(r.creative_url);
+    return true;
+  }).slice(0, 10);
 
   // ── Section 5: Campaign Cadence ───────────────────────────
   const cadenceAll = query<{
@@ -272,6 +318,17 @@ function main(): void {
 
   const gucci = shareOfVoice.find((r) => r.brand === "Gucci");
 
+  const allCadenceMonths = new Set<string>();
+  for (const entries of Object.values(cadenceByBrand)) {
+    for (const e of entries) allCadenceMonths.add(e.month);
+  }
+  const diorActiveMonths = new Set((cadenceByBrand[BRAND] ?? []).map((e) => e.month));
+  const silentMonths = [...allCadenceMonths].filter((m) => !diorActiveMonths.has(m)).sort();
+  const competitorsInSilent = silentMonths.flatMap((m) =>
+    ALL_BRANDS.filter((b) => b !== BRAND && (cadenceByBrand[b] ?? []).some((e) => e.month === m)),
+  );
+  const uniqueCompetitorsInSilent = new Set(competitorsInSilent).size;
+
   const takeaways = [
     {
       id: "ar-gap",
@@ -279,9 +336,11 @@ function main(): void {
       body: `Cartier puts ${cartierLens?.pct ?? 0}% of impressions into AR Lenses. ${chanelLens ? `Chanel: ${chanelLens.pct}%.` : ""} Dior: ${diorLens?.pct ?? 0}%. Premium format, premium CPMs, and your competitors are all-in.`,
     },
     {
-      id: "france-paradox",
-      title: "The France Paradox",
-      body: `Dior is a French house, yet only ${Math.round((diorGeo.find((r) => r.country === "fr")?.impressions ?? 0) / diorSov.impressions * 100)}% of impressions come from France. Belgium and Germany each outweigh the home market.`,
+      id: "silent-months",
+      title: "The Silent Months",
+      body: silentMonths.length > 0
+        ? `Dior is dark ${silentMonths.length} of ${allCadenceMonths.size} months. During those gaps, ${uniqueCompetitorsInSilent} competitors are still running — capturing attention unchallenged. Always-on presence doesn't mean always-heavy; even low-spend maintenance keeps you in the feed.`
+        : `Dior is active every month — good. But consistency matters as much as volume: ensure spend doesn't drop to near-zero in off-peak months.`,
     },
     {
       id: "efficiency",
@@ -297,7 +356,7 @@ function main(): void {
 
   // ── Discovery (explore data) ─────────────────────────────
   const EXPLORE_DIR = path.join(ROOT, "data_sources", "snap_explore", "data", "explore");
-  const brandKeywords = ["dior", "chanel", "gucci", "cartier", "burberry", "louis_vuitton"];
+  const brandKeywords = ["dior", "chanel", "gucci", "cartier", "prada", "burberry", "louis_vuitton", "valentino", "balenciaga", "tiffany"];
   const discoveryByBrand: Record<string, {
     keyword: string;
     sections: { type: string; count: number }[];
@@ -376,6 +435,14 @@ function main(): void {
       est_spend_high: spend.high,
       brand_count: landscape.brand_count,
       country_count: landscape.country_count,
+      market: {
+        total_ads: marketWide.total_ads,
+        total_impressions: marketImpressions,
+        est_spend_low: marketSpend.low,
+        est_spend_high: marketSpend.high,
+        brand_count: marketWide.brand_count,
+        country_count: marketWide.country_count,
+      },
     },
     position: {
       dior_rank: diorRank,

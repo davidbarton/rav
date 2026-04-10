@@ -3,6 +3,7 @@ import {
   Area,
   XAxis,
   YAxis,
+  CartesianGrid,
   Tooltip,
   ResponsiveContainer,
   Legend,
@@ -19,9 +20,26 @@ const COLORS: Record<string, string> = {
   Gucci: "#efd467",
   Chanel: "#abd28b",
   "Louis Vuitton": "#365791",
+  Prada: "#36b2cf",
+  Valentino: "#cd483f",
+  Balenciaga: "#171c1b",
+  Tiffany: "#81d8d0",
+  Celine: "#de6c03",
+  Burberry: "#c9a96e",
+  Givenchy: "#9c6dbd",
 };
 
-const SHOWN_BRANDS = ["Dior", "Cartier", "Gucci", "Chanel", "Louis Vuitton"];
+const SHOWN_BRANDS = ["Dior", "Cartier", "Gucci", "Chanel", "Prada", "Louis Vuitton"];
+
+const MONTH_NAMES = [
+  "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
+];
+
+function monthLabel(v: string): string {
+  const [y, m] = v.split("-");
+  return `${MONTH_NAMES[parseInt(m, 10) - 1]} '${y.slice(2)}`;
+}
 
 export function Cadence() {
   const cadence = report.cadence;
@@ -95,28 +113,35 @@ export function Cadence() {
             data={chartData}
             margin={{ left: 10, right: 10, top: 8, bottom: 8 }}
           >
+            <CartesianGrid vertical={false} />
             <XAxis
               dataKey="month"
-              tick={{ fontSize: 11, fill: "#7a7a7a" }}
-              tickFormatter={(v: string) => {
-                const [y, m] = v.split("-");
-                return `${m}/${y.slice(2)}`;
-              }}
+              tick={{ fontSize: 11, fill: "#a3a3a3" }}
+              tickFormatter={monthLabel}
             />
             <YAxis
-              tickFormatter={fmtNum}
-              tick={{ fontSize: 11, fill: "#7a7a7a" }}
-              width={55}
+              tickFormatter={(v: number) => {
+                if (v >= 1e6) return `${(v / 1e6).toFixed(0)}M`;
+                if (v >= 1e3) return `${(v / 1e3).toFixed(0)}K`;
+                return String(v);
+              }}
+              tick={{ fontSize: 11, fill: "#a3a3a3" }}
+              width={45}
+              label={{
+                value: "impressions",
+                angle: -90,
+                position: "insideLeft",
+                offset: -2,
+                style: { fontSize: 10, fill: "#a3a3a3" },
+              }}
             />
             <Tooltip
-              formatter={(v: number, name: string) => [fmtNum(v), name]}
-              labelFormatter={(l: string) => {
-                const [y, m] = l.split("-");
-                return `${m}/${y}`;
-              }}
+              formatter={(v: unknown, name: unknown) => [fmtNum(v as number) + " impr.", name as string]}
+              labelFormatter={(v: unknown) => monthLabel(v as string)}
               contentStyle={{
-                borderRadius: 8,
-                border: "1px solid #e8e8e6",
+                borderRadius: 10,
+                border: "none",
+                boxShadow: "0 4px 16px rgba(0,0,0,0.08)",
                 fontSize: 13,
               }}
             />

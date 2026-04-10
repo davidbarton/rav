@@ -38,7 +38,10 @@ export function Geography() {
       subtitle="Geographic Reach"
       title="Where are you — and where aren't you?"
     >
-      <div className="grid gap-6 lg:grid-cols-2">
+      <div
+        className="grid items-start gap-6"
+        style={{ gridTemplateColumns: "1fr 1fr" }}
+      >
         {/* Dior markets */}
         <div ref={barsRef}>
           <h3 className="mb-3 text-sm font-semibold uppercase tracking-wide text-gray-600">
@@ -61,16 +64,27 @@ export function Geography() {
                       }}
                     />
                   </div>
-                  <span className="w-20 text-right text-xs text-gray-600">
+                  <span className="w-14 shrink-0 text-right text-xs tabular-nums text-gray-600">
                     {fmtNum(g.impressions)}
-                    <span className="ml-1 text-gray-300/80 opacity-0 transition group-hover:opacity-100">
-                      {fmtPct(pct)}
-                    </span>
                   </span>
                 </div>
               );
             })}
           </div>
+
+          {missing_countries.length > 0 && (
+            <div className="mt-4 rounded-xl border border-orange-200 bg-orange-50 p-4">
+              <p className="text-sm font-medium text-orange-800">
+                {missing_countries.length === 1
+                  ? "Market with active competitor presence"
+                  : `${missing_countries.length} markets with active competitor presence`}
+              </p>
+              <p className="mt-1 text-sm text-orange-700">
+                {missing_countries.map(countryName).join(", ")}
+                {" "}— where competitors run deliberate campaigns but Dior is absent.
+              </p>
+            </div>
+          )}
         </div>
 
         {/* Gap analysis */}
@@ -82,56 +96,45 @@ export function Geography() {
             <table className="w-full text-left text-sm">
               <thead>
                 <tr className="border-b border-gray-200 text-gray-600">
-                  <th className="pb-2 pr-4 font-medium">Brand</th>
-                  <th className="pb-2 pr-4 text-right font-medium">
-                    Countries
-                  </th>
+                  <th className="w-1/2 pb-2 font-medium">Brand</th>
+                  <th className="pb-2 font-medium">Countries</th>
                   <th className="pb-2 font-medium">Top Market</th>
                 </tr>
               </thead>
               <tbody>
-                <tr className="border-b border-gray-100 bg-brand-50 font-semibold">
-                  <td className="py-2 pr-4">Dior</td>
-                  <td className="py-2 pr-4 text-right">{dior.length}</td>
-                  <td className="py-2">
-                    {dior[0] ? countryName(dior[0].country) : "—"}
-                  </td>
-                </tr>
-                {competitors.map((c) => (
-                  <tr key={c.brand} className="border-b border-gray-100 transition-colors hover:bg-gray-50">
-                    <td className="py-2 pr-4">{c.brand}</td>
-                    <td className="py-2 pr-4 text-right">
-                      {c.countries.length}
-                    </td>
-                    <td className="py-2">
-                      {c.top_country
-                        ? countryName(c.top_country)
-                        : "—"}
-                    </td>
-                  </tr>
-                ))}
+                {[
+                  { brand: "Dior", countries: dior.map((d) => d.country), top_country: dior[0]?.country ?? "" },
+                  ...competitors,
+                ]
+                  .sort((a, b) => b.countries.length - a.countries.length)
+                  .map((c) => {
+                    const isUs = c.brand === "Dior";
+                    return (
+                      <tr key={c.brand} className={`border-b border-gray-100 ${isUs ? "bg-brand-50 font-semibold" : ""}`}>
+                        <td className="py-1.5">{c.brand}</td>
+                        <td className="py-1.5">{c.countries.length}</td>
+                        <td className="py-1.5">{c.top_country ? countryName(c.top_country) : "—"}</td>
+                      </tr>
+                    );
+                  })}
               </tbody>
             </table>
           </div>
-
-          {missing_countries.length > 0 && (
-            <div className="mt-4 rounded-xl border border-orange-200 bg-orange-50 p-4">
-              <p className="text-sm font-medium text-orange-800">
-                Markets Dior is missing
-              </p>
-              <p className="mt-1 text-sm text-orange-700">
-                {missing_countries.map(countryName).join(", ")}
-              </p>
-            </div>
-          )}
         </div>
       </div>
 
       <InsightCallout>
         Dior is a French house, yet only {francePct}% of impressions come
         from France. Belgium ({Math.round((dior[0]?.impressions ?? 0) / diorTotal * 100)}%)
-        and Germany lead. {missing_countries.length > 0 && (
-          <>Competitors are active in {missing_countries.length} markets where Dior has no presence.</>
+        and Germany lead.
+        {missing_countries.length === 1 && (
+          <> Notably, competitors are actively targeting{" "}
+          <strong>{countryName(missing_countries[0])}</strong> — a market Dior hasn't entered.</>
+        )}
+        {missing_countries.length > 1 && (
+          <> Competitors are deliberately active in{" "}
+          <strong>{missing_countries.length} markets</strong> where Dior has no presence:{" "}
+          {missing_countries.map(countryName).join(", ")}.</>
         )}
       </InsightCallout>
     </Section>

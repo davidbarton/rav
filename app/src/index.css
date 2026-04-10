@@ -32,7 +32,11 @@
   --color-data-6: #36b2cf;
 
   --font-sans: "Inter", system-ui, sans-serif;
+  --font-display: "Playfair Display", "Georgia", serif;
   --font-mono: "Roboto Mono", ui-monospace, monospace;
+
+  --color-client: #1a1a1a;
+  --color-client-gold: #c9a96e;
 
   --radius-btn: 0.5rem;
   --radius-card: 0.75rem;
@@ -40,6 +44,37 @@
 
   --shadow-sm: 0 1px 3px #10182808;
   --shadow-md: 0 4px 12px #10182814;
+}
+
+/* ── Soften Recharts for editorial feel ─────────────── */
+.recharts-cartesian-axis-line,
+.recharts-cartesian-axis-tick-line {
+  stroke: none;
+}
+
+.recharts-cartesian-grid line {
+  stroke: var(--color-gray-200);
+  stroke-dasharray: 3 4;
+  stroke-opacity: 0.5;
+}
+
+.recharts-tooltip-cursor {
+  fill: var(--color-gray-50);
+  fill-opacity: 0.6;
+  stroke: none;
+}
+
+.recharts-default-tooltip {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08) !important;
+  border: none !important;
+}
+
+.recharts-legend-item-text {
+  color: var(--color-gray-600) !important;
+}
+
+.recharts-active-dot circle {
+  stroke-width: 1.5;
 }
 
 html {
