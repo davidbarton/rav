@@ -12,7 +12,7 @@ Structured datasets are exposed as tables in **`db/rav.db`**. Use the [Beekeeper
 
 | Table | Rows | Source | Find in RESEARCH.md | Notes |
 | --- | ---: | --- | --- | --- |
-| `brand_ads_fashion` | 4,625 | Ads Gallery API — per-brand × per-country (23 EU countries) | Search **Ads Gallery API** | Impressions, targeting, creatives. 98 brands across 23 countries. Rate-limit constrained — sample, not exhaustive. |
+| `brand_ads_fashion` | 5,701 | Ads Gallery API — per-brand × per-country (27 EU countries) | Search **Ads Gallery API** | Impressions, targeting, creatives. 100 brands across 23 countries (4,089 unique ads, 435 distinct advertisers). Rate-limit constrained — 93% of brand×country cells resolved after multi-pass retry. |
 | `sponsored_content` | 230,267 | Sponsored Content API — paginated browse (deduplicated) | Search **Sponsored Content API** | Creator ↔ sponsor pairs + content URLs. ~8% have named sponsors; rest are platform-monetized. 178k distinct content URLs; rows > URLs because one creator can have multiple sponsors. |
 | `political_ads` | 74,609 | Political Ads Library — bulk CSV 2018–2026 | Search **Political Ads Library** | **Complete** — all 9 years, spend + impressions + full targeting. |
 
@@ -93,7 +93,7 @@ These directories hold the JSON/CSV that the analytics tables are built from (se
 
 | Directory | Files | Size | What |
 | --- | --- | --- | --- |
-| `snap_ads/data/ads_fashion/` | 559 JSON | 31 MB | One file per brand × country. Includes `state.json` + `download_log.jsonl` for crawl tracking. |
+| `snap_ads/data/ads_fashion/` | 737 JSON | 40 MB | One file per brand × country. Includes `state.json` + `download_log.jsonl` for crawl tracking. |
 | `snap_sponsored/data/sponsored_*/` | 535 pages | 166 MB | Paginated JSON (200–500 items/page). Final — crawl abandoned due to cursor expiry. |
 | `snap_sponsored/data/partial_snapshots/` | 1 archived run | — | Cursor-expired partial crawl, archived (not loaded into DuckDB). |
 | `snap_political/data/csv/` | 9 year dirs | 61 MB | Bulk CSVs from GCS, 2018–2026. Complete. |
@@ -112,7 +112,7 @@ Full write-ups live in **[RESEARCH.md](./RESEARCH.md)** — use your editor sear
 
 | Source | Key limitation |
 | --- | --- |
-| EU Ad Library (Ads Gallery API) | Aggressive rate limiting (~3.7% success rate). EU-only, 12-month window, no spend data. |
+| EU Ad Library (Ads Gallery API) | Aggressive rate limiting (~9% per-request success rate, 93% of cells resolved via multi-pass retry). EU-only, 12-month window, no spend data. 7% of brand×country cells remain rate-limited. |
 | Sponsored Content API | Cursors expire after ~8h — crawl abandoned, 535 pages final. No engagement metrics. ~92% lack sponsor names. |
 | Political Ads Library | None — trivially downloadable, complete. |
 | Marketing API | **Blocked** — requires advertiser account with ad spend. |

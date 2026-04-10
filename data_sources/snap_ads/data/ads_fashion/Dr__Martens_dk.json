@@ -1,15 +1,171 @@
 {
   "brand": "Dr. Martens",
   "country": "dk",
-  "fetched_at": "2026-04-10T04:02:01.167Z",
+  "fetched_at": "2026-04-10T10:36:14.385Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "2a8f14d7-245e-4e3b-85f8-130e6c46812f",
-        "name": "Upperfunnel_Awareness_DrMartens_Q22026_AlwaysOn_ZebzagSandalVideo_Prospecting_Snapchat_DK",
+        "id": "b1a266e4-65b4-4b0f-897a-a800d3a349ee",
+        "name": "Midfunnel_Traffic_DrMartens_Q12026_AlwaysOn_1460_Prospecting_Snapchat_UK",
+        "ad_account_name": "Dr. Martens EMEA",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Dr. Martens Original ikoner",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/StV3UkwFx91e1DFOyXfYF.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2025-06-03T10:03:51.000Z",
+        "impressions_total": 22130,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 22130,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "40",
+              "age_groups": [],
+              "languages": [
+                "da",
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dr. Martens",
+        "profile_name": "Dr. Martens",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.drmartens.com/dk/da/originals/originals-boots/1460-lace-up-boots/c/06015600?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e9a9dbdd-1cc7-4b55-b395-984c002419eb",
+        "name": "Midfunnel_Traffic_DrMartens_Q12026_AlwaysOn_AdrianBrand_Prospecting_Snapchat_DK",
+        "ad_account_name": "Dr. Martens EMEA",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "no"
+        ],
+        "headline": "Loafers med DM's kant",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fkJ4HaRr4DQal6I8A2sOP.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-03T10:03:51.000Z",
+        "impressions_total": 2187,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 2187,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "40",
+              "age_groups": [],
+              "languages": [
+                "da",
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dr. Martens",
+        "profile_name": "Dr. Martens",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.drmartens.com/dk/da/originals/originals-shoes/adrian-tassel-loafers/c/06026500?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "dcbc909a-de7e-4a9e-849e-a286cea5f37e",
+        "name": "Upperfunnel_Awareness_DrMartens_Q22026_AlwaysOn_ZebzagAnywair_Prospecting_Snapchat_DK",
         "ad_account_name": "Dr. Martens EMEA",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -18,20 +174,176 @@
         "languages": [
           "da"
         ],
-        "headline": "Sommeren er skabt til sandaler",
+        "headline": "Helt nye DM's modeller",
         "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Mtd9whvBI51cVgRKimKVq.67?mo=GsQCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLghDEiYKJAiUmEwgATDgAzjUBkABSg8KCvUBSzQ3MCN2OigQ9ANQ_kloAiICEgCiAS8IugoSJgokCK79PSABMNAFOIAKQAJKDwoK5QE2IC8gE2ctGxD0A1D-SWgCIgISAKIBLgh_EiYKJAj9qTIgATDgAzjUBkACSg8KCrgBMiUdIBVMJhYQ9ANQ_kloAiICEgCiAS8IkgoSJgokCJr0NCABMOADONQGQAJKDwoKtAExIyEpGk0jFRD0A1D-SWgCIgISAKIBLwjEChImCiQIyaArIAEw4AM41gZAAkoPCgqlASYVIhcNSx4REPQDUP5JaAIiAhIAogEvCNIKEiYKJAiq9yggATDgAzjUBkACSg8KCooBJhsdGQ1LGxMQ9ANQ_kloAiICEgCQA_5J&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZXfpzzUs8TOhyBUTfwHzJ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
         "start_date": "2025-06-03T10:03:05.000Z",
-        "impressions_total": 78979,
+        "impressions_total": 115987,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 78979,
+          "dk": 115987,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "40",
+              "age_groups": [],
+              "languages": [
+                "da",
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dr. Martens",
+        "profile_name": "Dr. Martens",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.drmartens.com/dk/da/unisex/zebzag/c/08450000?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "94e41fb6-e01f-45ab-893a-c8b3ed00b426",
+        "name": "Midfunnel_Traffic_DrMartens_Q22026_AlwaysOn_ZebzagAnywair_Prospecting_Snapchat_DK",
+        "ad_account_name": "Dr. Martens EMEA",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Helt nye DM's modeller",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZXfpzzUs8TOhyBUTfwHzJ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-03T10:03:51.000Z",
+        "impressions_total": 62427,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 62427,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "40",
+              "age_groups": [],
+              "languages": [
+                "da",
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dr. Martens",
+        "profile_name": "Dr. Martens",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.drmartens.com/dk/da/unisex/zebzag/c/08450000?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "20d68eea-96a4-4bb3-9349-33c5ed4b020f",
+        "name": "Upperfunnel_Awareness_DrMartens_Q12026_AlwaysOn_ClarissaVideo_Prospecting_Snapchat_DK",
+        "ad_account_name": "Dr. Martens EMEA",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Gør hver dag til en sandaldag",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/pnSeGYW4DyN2I5aQzrtNN.67?mo=GtUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIkZ4vIAEw4AM41AZAAUoOCgltQCgfMz8wNDUQ9ANQmDloAiIGCgJIBBIAogEzCLoKEiYKJAjg9yUgATDQBTiACkACSg8KCpMBJyEZKR4dISAQ9ANQmDloAiIGCgJIAxIAogExCH8SJQojCKT1HCABMOADONQGQAJKDgoJSTAbFhkeGhscEPQDUJg5aAIiBgoCSAISAKIBMgiSChIlCiMI1vgdIAEw4AM41AZAAkoOCglKLRsZHSAaHh4Q9ANQmDloAiIGCgJIAhIAogEyCMQKEiUKIwi20xggATDgAzjWBkACSg4KCV4ZFxEcExMVFRD0A1CYOWgCIgYKAkgCEgCiATII0goSJQojCKTcGSABMOADONQGQAJKDgoJXx0XEB0UFBcWEPQDUJg5aAIiBgoCSAISAJADmDk%3D&uc=15",
+        "start_date": "2025-06-03T10:03:05.000Z",
+        "impressions_total": 200663,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 200663,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -164,86 +476,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "2075d09c-a7aa-4561-9e68-132d8dd834c4",
-        "name": "Upperfunnel_Awareness_DrMartens_Q12026_AlwaysOn_AdrianBrand_Prospecting_Snapchat_DK",
-        "ad_account_name": "Dr. Martens EMEA",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Adrian. Loafers med DM's kant",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EFU2gTd254dyZeB7RM5w9.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-06-03T10:03:05.000Z",
-        "impressions_total": 13565,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 13565,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "40",
-              "age_groups": [],
-              "languages": [
-                "da",
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dr. Martens",
-        "profile_name": "Dr. Martens",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.drmartens.com/dk/da/originals/originals-shoes/adrian-tassel-loafers/c/06026500?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a2c1fa37-dd13-420f-990d-a2225429e85b",
-        "name": "Upperfunnel_Awareness_DrMartens_Q22026_AlwaysOn_ZebzagSandal_Prospecting_Snapchat_DK",
+        "id": "ce3ff163-01c2-48c8-be48-bdbe49258cc4",
+        "name": "Midfunnel_Traffic_DrMartens_Q22026_AlwaysOn_ZebzagSandal_Prospecting_Snapchat_DK",
         "ad_account_name": "Dr. Martens EMEA",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -257,15 +491,15 @@
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
         "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BolZBuxL7DBjimqScaaec.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-        "start_date": "2025-06-03T10:03:05.000Z",
-        "impressions_total": 126247,
+        "start_date": "2025-06-03T10:03:51.000Z",
+        "impressions_total": 14186,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 126247,
+          "dk": 14186,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -311,84 +545,6 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://www.drmartens.com/dk/da/womens/sandals/c/01030000?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "dcbc909a-de7e-4a9e-849e-a286cea5f37e",
-        "name": "Upperfunnel_Awareness_DrMartens_Q22026_AlwaysOn_ZebzagAnywair_Prospecting_Snapchat_DK",
-        "ad_account_name": "Dr. Martens EMEA",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "da"
-        ],
-        "headline": "Helt nye DM's modeller",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZXfpzzUs8TOhyBUTfwHzJ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-06-03T10:03:05.000Z",
-        "impressions_total": 115987,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 115987,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "40",
-              "age_groups": [],
-              "languages": [
-                "da",
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dr. Martens",
-        "profile_name": "Dr. Martens",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.drmartens.com/dk/da/unisex/zebzag/c/08450000?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -476,8 +632,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b2d255f5-43c7-4947-a85d-380cf32bd8ef",
-        "name": "Upperfunnel_Awareness_DrMartens_Q22026_AlwaysOn_InfernoVideo_Prospecting_Snapchat_DK",
+        "id": "7fcd7be4-c0a4-4643-8b0d-96a6734ac75e",
+        "name": "Midfunnel_Traffic_DrMartens_Q22026_AlwaysOn_InfernoVideo_Prospecting_Snapchat_DK",
         "ad_account_name": "Dr. Martens EMEA",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -490,16 +646,16 @@
         "call_to_action": "VIEW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/L1EgTW36NbIzgCV9u1JUI.67?mo=GtoCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI29BnIAEw4AM41AZAAUoPCgqpAUlQXkA9S0s7EPQDUPZKaAIiBgoCSAQSAKIBMwi6ChImCiQIx8FWIAEw0AU4gApAAkoPCgr1ATA3ODMyOTc_EPQDUPZKaAIiBgoCSAISAKIBMgh_EiYKJAjxgksgATDgAzjUBkACSg8KCokBMD0_Lyw2OSsQ9ANQ9kpoAiIGCgJIAhIAogEzCJIKEiYKJAjNtkogATDgAzjUBkACSg8KCoIBMDw8MTA1PC4Q9ANQ9kpoAiIGCgJIAhIAogEzCMQKEiYKJAj0hTYgATDgAzjWBkACSg8KCpsBHiMmIR8iJCcQ9ANQ9kpoAiIGCgJIAhIAogEzCNIKEiYKJAjZ_zUgATDgAzjUBkACSg8KCpkBHyQpIR4iIyYQ9ANQ9kpoAiIGCgJIAhIAkAP2Sg%3D%3D&uc=15",
-        "start_date": "2025-06-03T10:03:05.000Z",
-        "impressions_total": 172096,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Jn802Da0K1qUqTh9RqKzE.67?mo=GsQCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLghDEiYKJAjb0GcgATDgAzjUBkABSg8KCqkBSVBeQD1LSzsQ9ANQ9kpoAiICEgCiAS8IugoSJgokCMfBViABMNAFOIAKQAJKDwoK9QEwNzgzMjk3PxD0A1D2SmgCIgISAKIBLgh_EiYKJAjVjEsgATDgAzjUBkACSg8KCooBLz4_Lyw2OSwQ9ANQ9kpoAiICEgCiAS8IkgoSJgokCM6tSiABMOADONQGQAJKDwoKggEvPTwxLzU8LhD0A1D2SmgCIgISAKIBLwjEChImCiQI9IU2IAEw4AM41gZAAkoPCgqbAR4jJiEfIiQnEPQDUPZKaAIiAhIAogEvCNIKEiYKJAjZ_zUgATDgAzjUBkACSg8KCpkBHyQpIR4iIyYQ9ANQ9kpoAiICEgCQA_ZK&uc=15",
+        "start_date": "2025-06-03T10:03:51.000Z",
+        "impressions_total": 48516,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 172096,
+          "dk": 48516,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -554,8 +710,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "fef3ede7-59d4-4e3b-94db-86c10aad8aae",
-        "name": "Midfunnel_Traffic_DrMartens_Q12026_AlwaysOn_ClarissaVideo_Prospecting_Snapchat_DK",
+        "id": "64df8afa-d383-4b17-ae37-1c0262afc84d",
+        "name": "Midfunnel_Traffic_DrMartens_Q12026_AlwaysOn_AdrianRubOff_Prospecting_Snapchat_DK",
         "ad_account_name": "Dr. Martens EMEA",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -564,174 +720,20 @@
         "languages": [
           "da"
         ],
-        "headline": "Gør hver dag til en sandaldag",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/pnSeGYW4DyN2I5aQzrtNN.67?mo=GtUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIkZ4vIAEw4AM41AZAAUoOCgltQCgfMz8wNDUQ9ANQmDloAiIGCgJIBBIAogEzCLoKEiYKJAjg9yUgATDQBTiACkACSg8KCpMBJyEZKR4dISAQ9ANQmDloAiIGCgJIAxIAogExCH8SJQojCKT1HCABMOADONQGQAJKDgoJSTAbFhkeGhscEPQDUJg5aAIiBgoCSAISAKIBMgiSChIlCiMI1vgdIAEw4AM41AZAAkoOCglKLRsZHSAaHh4Q9ANQmDloAiIGCgJIAhIAogEyCMQKEiUKIwi20xggATDgAzjWBkACSg4KCV4ZFxEcExMVFRD0A1CYOWgCIgYKAkgCEgCiATII0goSJQojCKTcGSABMOADONQGQAJKDgoJXx0XEB0UFBcWEPQDUJg5aAIiBgoCSAISAJADmDk%3D&uc=15",
-        "start_date": "2025-06-03T10:03:51.000Z",
-        "impressions_total": 27343,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 27343,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "40",
-              "age_groups": [],
-              "languages": [
-                "da",
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dr. Martens",
-        "profile_name": "Dr. Martens",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.drmartens.com/dk/da/womens/sandals/c/01030000?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "20d68eea-96a4-4bb3-9349-33c5ed4b020f",
-        "name": "Upperfunnel_Awareness_DrMartens_Q12026_AlwaysOn_ClarissaVideo_Prospecting_Snapchat_DK",
-        "ad_account_name": "Dr. Martens EMEA",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "da"
-        ],
-        "headline": "Gør hver dag til en sandaldag",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/pnSeGYW4DyN2I5aQzrtNN.67?mo=GtUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIkZ4vIAEw4AM41AZAAUoOCgltQCgfMz8wNDUQ9ANQmDloAiIGCgJIBBIAogEzCLoKEiYKJAjg9yUgATDQBTiACkACSg8KCpMBJyEZKR4dISAQ9ANQmDloAiIGCgJIAxIAogExCH8SJQojCKT1HCABMOADONQGQAJKDgoJSTAbFhkeGhscEPQDUJg5aAIiBgoCSAISAKIBMgiSChIlCiMI1vgdIAEw4AM41AZAAkoOCglKLRsZHSAaHh4Q9ANQmDloAiIGCgJIAhIAogEyCMQKEiUKIwi20xggATDgAzjWBkACSg4KCV4ZFxEcExMVFRD0A1CYOWgCIgYKAkgCEgCiATII0goSJQojCKTcGSABMOADONQGQAJKDgoJXx0XEB0UFBcWEPQDUJg5aAIiBgoCSAISAJADmDk%3D&uc=15",
-        "start_date": "2025-06-03T10:03:05.000Z",
-        "impressions_total": 200663,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 200663,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "40",
-              "age_groups": [],
-              "languages": [
-                "da",
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dr. Martens",
-        "profile_name": "Dr. Martens",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.drmartens.com/dk/da/womens/sandals/c/01030000?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "36b63b1b-f731-4a10-816d-03c256c1b1b7",
-        "name": " Upperfunnel_Awareness_DrMartens_Q12026_AlwaysOn_Adrian_Prospecting_Snapchat_DK",
-        "ad_account_name": "Dr. Martens EMEA",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Loafers med DM's kant",
+        "headline": "Loaferen: omstyrtet",
         "call_to_action": "VIEW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BS7Q4AgKzTFvqj76hBdgK.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-06-03T10:03:05.000Z",
-        "impressions_total": 292828,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/w2SchIDMaly0uDF0MY0Pi.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-03T10:03:51.000Z",
+        "impressions_total": 49139,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 292828,
+          "dk": 49139,
           "lt": 0,
           "lu": 0,
           "hr": 0,

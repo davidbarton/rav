@@ -26,7 +26,14 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
 import { fileURLToPath } from "node:url";
-import { gotScraping } from "got-scraping";
+import {
+  type ExploreStatus,
+  type SectionSummary,
+  type ExploreExtract,
+  type ExploreResult,
+  extractExploreSummary,
+  fetchExplore,
+} from "../../lib/snap_explore.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -193,20 +200,9 @@ const KEYWORDS: string[] = [
 ];
 
 // ---------------------------------------------------------------------------
-// Types
+// Types (ExploreStatus, SectionSummary, ExploreExtract, ExploreResult
+// imported from ../../lib/snap_explore.ts)
 // ---------------------------------------------------------------------------
-
-type ExploreStatus =
-  | "fetched"
-  | "empty"          // 200 but no usable data
-  | "not_found"      // 404
-  | "rate_limited"
-  | "error";
-
-interface SectionSummary {
-  type: string;
-  count: number;
-}
 
 interface CellState {
   status: ExploreStatus;
@@ -248,11 +244,7 @@ const STATE_FILE = path.join(OUT_DIR, "state.json");
 const LOG_FILE = path.join(OUT_DIR, "download_log.jsonl");
 const TOPICS_FILE = path.join(OUT_DIR, "discovered_topics.json");
 
-const SNAPCHAT_EXPLORE = "https://www.snapchat.com/explore";
 const DEFAULT_DELAY_MS = 2000;
-const REQUEST_TIMEOUT = 30_000;
-
-const NEXT_DATA_RE = /<script[^>]*type="application\/json"[^>]*>(.*?)<\/script>/s;
 
 // ---------------------------------------------------------------------------
 // State management
@@ -300,192 +292,11 @@ function appendLog(entry: LogEntry): void {
   fs.appendFileSync(LOG_FILE, JSON.stringify(entry) + "\n");
 }
 
-// ---------------------------------------------------------------------------
-// Keyword → URL slug
-// ---------------------------------------------------------------------------
-
-function keywordToSlug(keyword: string): string {
-  return encodeURIComponent(keyword.trim().toLowerCase());
-}
-
 function keywordToFilename(keyword: string): string {
   return keyword.trim().toLowerCase().replace(/[^a-z0-9_]/g, "_");
 }
 
-// ---------------------------------------------------------------------------
-// Parse explore response — extract sections, creators, topics
-// ---------------------------------------------------------------------------
-
-interface ExploreExtract {
-  query?: string;
-  country?: string;
-  sections: SectionSummary[];
-  creatorsFound: number;
-  topicsFound: string[];
-}
-
-function extractExploreSummary(pageProps: Record<string, unknown>): ExploreExtract {
-  const result: ExploreExtract = {
-    query: pageProps.query as string | undefined,
-    country: pageProps.country as string | undefined,
-    sections: [],
-    creatorsFound: 0,
-    topicsFound: [],
-  };
-
-  // encodedSearchResponse is a JSON string (not base64)
-  let searchResponse: Record<string, unknown> | null = null;
-  const rawSearch = pageProps.encodedSearchResponse;
-  if (typeof rawSearch === "string" && rawSearch.length > 0) {
-    try {
-      searchResponse = JSON.parse(rawSearch) as Record<string, unknown>;
-    } catch {
-      // might already be an object in some responses
-    }
-  } else if (rawSearch && typeof rawSearch === "object") {
-    searchResponse = rawSearch as Record<string, unknown>;
-  }
-
-  if (searchResponse) {
-    const sections = searchResponse.sections as Array<Record<string, unknown>> | undefined;
-    if (Array.isArray(sections)) {
-      for (const section of sections) {
-        const results = section.results as Array<Record<string, unknown>> | undefined;
-        if (!results || results.length === 0) continue;
-
-        // Section type comes from first result's $case field
-        const firstResult = results[0].result as Record<string, unknown> | undefined;
-        const sectionType = (firstResult?.$case as string) ?? "unknown";
-        result.sections.push({ type: sectionType, count: results.length });
-
-        for (const item of results) {
-          const res = item.result as Record<string, unknown> | undefined;
-          if (!res) continue;
-          const caseType = res.$case as string | undefined;
-
-          if (caseType === "snapProEntity") {
-            result.creatorsFound++;
-          } else if (caseType === "publisher") {
-            result.creatorsFound++;
-          } else if (caseType === "user") {
-            result.creatorsFound++;
-          } else if (caseType === "topic") {
-            const topic = res.topic as Record<string, unknown> | undefined;
-            if (topic) {
-              const onTap = topic.onTap as Record<string, unknown> | undefined;
-              const action = onTap?.action as Record<string, unknown> | undefined;
-              const hashtagTopic = action?.openHashtagTopic as Record<string, unknown> | undefined;
-              const topicText = hashtagTopic?.topicText as string | undefined;
-              if (topicText) {
-                result.topicsFound.push(topicText);
-              } else {
-                const directText = topic.text as string | undefined;
-                if (directText) result.topicsFound.push(directText);
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-
-  // encodedSpotlightCardMap → creator usernames from spotlight cards
-  let spotlightMap: Record<string, unknown> | null = null;
-  const rawSpotlight = pageProps.encodedSpotlightCardMap;
-  if (typeof rawSpotlight === "string" && rawSpotlight.length > 0) {
-    try {
-      spotlightMap = JSON.parse(rawSpotlight) as Record<string, unknown>;
-    } catch { /* object already */ }
-  } else if (rawSpotlight && typeof rawSpotlight === "object") {
-    spotlightMap = rawSpotlight as Record<string, unknown>;
-  }
-
-  if (spotlightMap) {
-    const uniqueCreators = new Set<string>();
-    for (const card of Object.values(spotlightMap) as Array<Record<string, unknown>>) {
-      const snaps = card.snaps as Array<Record<string, unknown>> | undefined;
-      if (!snaps) continue;
-      for (const snap of snaps) {
-        const creator = snap.creatorInfo as Record<string, unknown> | undefined;
-        const userName = creator?.userName as string | undefined;
-        if (userName) uniqueCreators.add(userName);
-      }
-    }
-    result.creatorsFound += uniqueCreators.size;
-  }
-
-  return result;
-}
-
-// ---------------------------------------------------------------------------
-// Core: fetch a single explore page
-// ---------------------------------------------------------------------------
-
-interface ExploreResult {
-  status: ExploreStatus;
-  keyword: string;
-  pageProps?: Record<string, unknown>;
-  extract?: ExploreExtract;
-  error?: string;
-}
-
-async function fetchExplore(keyword: string, proxyUrl?: string): Promise<ExploreResult> {
-  const slug = keywordToSlug(keyword);
-  const url = `${SNAPCHAT_EXPLORE}/${slug}`;
-  const base: ExploreResult = { status: "error", keyword };
-
-  let statusCode: number;
-  let body: string;
-  try {
-    const opts: Record<string, unknown> = {
-      url,
-      headerGeneratorOptions: { browsers: ["chrome"], operatingSystems: ["macos"] },
-      responseType: "text",
-      throwHttpErrors: false,
-      timeout: { request: REQUEST_TIMEOUT },
-    };
-    if (proxyUrl) opts.proxyUrl = proxyUrl;
-    const resp = await gotScraping(opts as Parameters<typeof gotScraping>[0]);
-    statusCode = resp.statusCode;
-    body = resp.body as string;
-  } catch (err) {
-    return { ...base, error: `NETWORK: ${err}` };
-  }
-
-  if (statusCode === 404) return { ...base, status: "not_found" };
-  if (statusCode === 429) return { ...base, status: "rate_limited", error: "HTTP 429" };
-  if (statusCode !== 200) return { ...base, status: "error", error: `HTTP ${statusCode}` };
-
-  if (body.length < 1000) {
-    return { ...base, status: "rate_limited", error: "Tiny response (likely blocked)" };
-  }
-
-  const match = NEXT_DATA_RE.exec(body);
-  if (!match) {
-    return { ...base, status: "error", error: "No __NEXT_DATA__ found" };
-  }
-
-  let data: Record<string, unknown>;
-  try {
-    data = JSON.parse(match[1]);
-  } catch {
-    return { ...base, status: "error", error: "JSON parse failed on __NEXT_DATA__" };
-  }
-
-  const props = data.props as Record<string, unknown> | undefined;
-  const pageProps = props?.pageProps as Record<string, unknown> | undefined;
-  if (!pageProps) {
-    return { ...base, status: "error", error: "No pageProps" };
-  }
-
-  const extract = extractExploreSummary(pageProps);
-
-  if (extract.sections.length === 0 && !pageProps.encodedSpotlightCardMap) {
-    return { ...base, status: "empty", pageProps, extract, error: "No sections or spotlight data" };
-  }
-
-  return { status: "fetched", keyword, pageProps, extract };
-}
+// extractExploreSummary and fetchExplore imported from shared module
 
 // ---------------------------------------------------------------------------
 // Save explore data

@@ -61,7 +61,7 @@ We have not identified another Snapchat competitive intelligence provider with t
 
 Powered by per-ad impression counts x CPM, grouped by country. Impressions are DSA-mandated real disclosure; CPM is a published benchmark multiplier. The range format communicates uncertainty honestly.
 
-**Verified** (see `experiments/01_stratified_spend.sql`). Nike FR: 252.5M impressions across 10 sampled ads. Birkenstock FR: 64.7M impressions across 10 sampled ads. The format-stratified model shifts estimates for brands with premium creative investment: Cartier moves from €433K-€974K (flat) to **€1.1M-€3.0M** (stratified) because 56% of their impressions come from AR Lens formats. Data exists in `brand_ads_fashion` (4,694 rows from 98 crawled brands, yielding 402 distinct advertiser entities across 23 EU countries).
+**Verified** (see `experiments/01_stratified_spend.sql`). Nike FR: 252.5M impressions across 10 sampled ads. Birkenstock FR: 64.7M impressions across 10 sampled ads. The format-stratified model shifts estimates for brands with premium creative investment: Cartier moves from €433K-€974K (flat) to **€1.1M-€3.0M** (stratified) because 56% of their impressions come from AR Lens formats. Data exists in `brand_ads_fashion` (5,701 rows from 100 crawled brands, yielding 435 distinct advertiser entities across 23 EU countries).
 
 **Caveat:** Per-brand figures are lower bounds — our crawl captures ~10 ads per brand per country due to API rate limits. Actual spend is likely higher; the relative ordering is more reliable than absolute figures.
 
@@ -181,15 +181,15 @@ A marketing director at Beiersdorf (Nivea, Eucerin) uses this to:
 
 | Use Case | Table | Key Fields | Status |
 | --- | --- | --- | --- |
-| Spend Range | `brand_ads_fashion` | `impressions_total`, `creative_type`, `country` | 4,694 rows (3,694 unique ads) |
-| Share of Voice | `brand_ads_fashion` | `impressions_total`, `paying_advertiser_name` | 4,694 rows (3,694 unique ads) |
-| Geographic | `brand_ads_fashion` | `impressions_total`, `country`, `impressions_map` | 4,694 rows (3,694 unique ads) |
-| Campaign Intensity | `brand_ads_fashion` | `start_date`, `paying_advertiser_name` | 4,694 rows (3,694 unique ads) |
-| Creative Signal | `brand_ads_fashion` | `creative_type`, `ad_render_type` | 4,694 rows (3,694 unique ads) |
-| Targeting Signal | `brand_ads_fashion` | `targeting_v2` | 4,694 rows (3,694 unique ads) |
+| Spend Range | `brand_ads_fashion` | `impressions_total`, `creative_type`, `country` | 5,701 rows (4,089 unique ads) |
+| Share of Voice | `brand_ads_fashion` | `impressions_total`, `paying_advertiser_name` | 5,701 rows (4,089 unique ads) |
+| Geographic | `brand_ads_fashion` | `impressions_total`, `country`, `impressions_map` | 5,701 rows (4,089 unique ads) |
+| Campaign Intensity | `brand_ads_fashion` | `start_date`, `paying_advertiser_name` | 5,701 rows (4,089 unique ads) |
+| Creative Signal | `brand_ads_fashion` | `creative_type`, `ad_render_type` | 5,701 rows (4,089 unique ads) |
+| Targeting Signal | `brand_ads_fashion` | `targeting_v2` | 5,701 rows (4,089 unique ads) |
 | Sponsored Proxy | `sponsored_content` | `sponsor_name`, `creator_name` | 230,267 rows |
 | CPM Validation | `political_ads` | `spend`, `impressions` | 74,609 rows (72,979 with spend+impressions) |
-| Seasonal | `brand_ads_fashion` | `start_date` | 4,694 rows (3,694 unique ads) |
+| Seasonal | `brand_ads_fashion` | `start_date` | 5,701 rows (4,089 unique ads) |
 | Cross-Platform | External reference | Meta Ad Library | Methodology only |
 
 ---
@@ -1777,7 +1777,7 @@ The fundamental gap: **existing tools protect your own ads. We quantify the plat
 
 - **Real data vs proxies:** Impression counts, ad metadata, targeting, and dates are DSA-mandated real disclosure. Spend estimates are proxies derived from impressions x published CPM benchmarks. All proxy values are labeled as estimates and presented as ranges — never point estimates.
 - **Sample coverage:** Ad data is rate-limit constrained (~10 ads per brand x country). Volumes represent **lower bounds**, not exhaustive counts. We crawled 98 brand names, which yielded 402 distinct advertiser entities (the API uses fuzzy matching, so a search for "Nike" also returns "Jannike" etc. — these are filtered in analysis). Relative rankings (share of voice) are more stable than absolute figures.
-- **Data quality:** 4,694 total rows contain 3,694 unique ad IDs — approximately 1,000 rows are the same ad appearing in multiple country queries. For the top brands analyzed (Nike, HUGO BOSS, Cartier, Birkenstock, Zalando), there is **zero cross-country duplication** (each ad appears in exactly one country). Deduplication affects mainly smaller/less-known advertisers.
+- **Data quality:** 5,701 total rows contain 4,089 unique ad IDs — approximately 1,600 rows are the same ad appearing in multiple country queries. For the top brands analyzed (Nike, HUGO BOSS, Cartier, Birkenstock, Zalando), there is **zero cross-country duplication** (each ad appears in exactly one country). Deduplication affects mainly smaller/less-known advertisers.
 - **Temporal window:** EU Ad Library provides a rolling 12-month window. Our sample covers April 2025 through April 2026.
 - **Fashion-specific sample:** Our crawl targeted fashion/luxury brands. The methodology (impressions x CPM estimation, share of voice, geographic allocation) generalizes to any vertical — consumer electronics, FMCG, automotive — but the data sample in this repository is fashion-specific. Extending to other verticals requires additional crawl runs.
 - **Reproducible experiments:** Thirteen SQL experiments validate the claims in this document — format-stratified spend model, political CPM validation, share-of-voice stability, sponsor-advertiser overlap, geographic map consistency, influencer network analysis, creator discovery/reach, influencer enrichment potential, misuse detection, and child safety/political analysis (including report source intelligence, account enforcement, VVR analysis, notice response times, political CPM, and Trusted Flagger data). Run `bash experiments/run_all.sh` from the repo root. Results and findings: **[experiments/README.md](./experiments/README.md)**.

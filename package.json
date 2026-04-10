@@ -14,15 +14,21 @@
     "fetch:explore": "tsx data_sources/snap_explore/src/fetch_explore.ts",
     "fetch:spotlights": "tsx data_sources/snap_spotlights/src/fetch_spotlights.ts",
     "fetch:sor": "tsx data_sources/dsa_transparency/src/fetch_sor.ts",
-    "app:build": "tsx app/build_dataset.ts",
-    "app:start": "tsx app/server.ts",
+    "app:data": "tsx app/build_dataset.ts",
+    "app:dev": "cd app && npm run dev",
+    "app:api": "tsx app/server.ts",
+    "app:build": "cd app && npm run build",
     "db:init": "duckdb db/rav.db < db/init.sql"
   },
   "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
     "got-scraping": "^4.2.1",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
     "@types/node": "^25.5.2",
     "tsx": "^4.19.4",
     "typescript": "^6.0.2"

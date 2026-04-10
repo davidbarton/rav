@@ -1,22 +1,36 @@
 #!/usr/bin/env tsx
 /**
- * Builds app/data/normalized.json from DuckDB (db/rav.db).
+ * Builds app/data/dior-report.json from DuckDB (db/rav.db).
  *
- * Prereqs: DuckDB CLI (`brew install duckdb`) and a populated database
- *          (`duckdb db/rav.db < db/init.sql` from repo root).
+ * Run: npx tsx app/build_dataset.ts   (from repo root)
+ * Or:  npm run app:data               (via root package.json)
  */
 import { execSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { extractExploreData, type ExploreData } from "../data_sources/lib/snap_explore.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const DB_PATH = path.join(ROOT, "db", "rav.db");
 const OUT_DIR = path.join(__dirname, "data");
-const OUT_FILE = path.join(OUT_DIR, "normalized.json");
+const OUT_FILE = path.join(OUT_DIR, "dior-report.json");
 
-// ── DuckDB helper ──────────────────────────────────────────
+const BRAND = "Dior";
+const COMPETITORS = [
+  "Cartier",
+  "Gucci",
+  "Chanel",
+  "Celine",
+  "Burberry",
+  "Givenchy",
+  "Louis Vuitton",
+];
+const ALL_BRANDS = [BRAND, ...COMPETITORS];
+
+const CPM_LOW = 4.0;
+const CPM_HIGH = 9.0;
 
 function query<T = Record<string, unknown>>(sql: string): T[] {
   const out = execSync(`duckdb "${DB_PATH}" -json`, {
@@ -27,219 +41,375 @@ function query<T = Record<string, unknown>>(sql: string): T[] {
   return JSON.parse(out || "[]") as T[];
 }
 
-// ── Enrichment (JS-side) ──────────────────────────────────
-
-const CATEGORY_RULES: [string[], string, string][] = [
-  [["podcast", "playlist", "music", "spotify", "hörbuch", "audio"], "Audio", "Streaming"],
-  [["crypto", "trading", "investment", "invest"], "Finance", "Investment"],
-  [["tv", "show", "movie", "serie"], "Entertainment", "Video"],
-  [["nike", "adidas", "puma", "jordan", "new balance", "asics", "vans", "salomon", "crocs", "birkenstock", "dr. martens", "converse"], "Fashion", "Footwear"],
-  [["shein", "zara", "h&m", "boohoo", "asos", "mango", "cos", "arket", "only", "jack & jones", "kiabi", "prettylittlething", "fila", "champion", "superdry", "g-star", "lacoste", "tommy hilfiger", "calvin klein", "hugo boss", "ralph lauren", "diesel", "guess", "patagonia", "lululemon", "triumph", "under armour", "foot locker", "zalando", "house"], "Fashion", "Apparel"],
-  [["sephora", "dior", "chanel", "gucci", "louis vuitton", "givenchy", "prada", "versace", "armani", "fendi", "bottega veneta", "valentino", "celine", "kenzo", "cartier", "tiffany", "rolex", "omega", "pandora", "hermes"], "Fashion", "Luxury"],
-  [["mac", "nyx", "clinique", "l'oreal", "charlotte tilbury", "nars", "clarins", "kylie cosmetics", "olay", "dove", "axe", "braun", "ghd", "coty", "essence", "paco rabanne"], "Beauty", "Cosmetics"],
-  [["temu", "coach", "oakley", "specsavers", "galeries lafayette", "mammut", "canada goose"], "Retail", "General"],
-  [["game", "gaming", "esport"], "Entertainment", "Gaming"],
-];
-
-const RISK_TERMS = ["crypto", "trading", "investment", "free money", "giveaway", "urgent", "scam"];
-
-function classifyText(text: string): [string, string] {
-  const t = (text || "").toLowerCase();
-  for (const [keywords, cat, sub] of CATEGORY_RULES) {
-    if (keywords.some((k) => t.includes(k))) return [cat, sub];
-  }
-  return ["Unknown", "Unknown"];
+function inList(brands: string[]): string {
+  return brands.map((b) => `'${b.replace(/'/g, "''")}'`).join(",");
 }
 
-function detectRisk(text: string, url: string): string[] {
-  const blob = `${text || ""} ${url || ""}`.toLowerCase();
-  return RISK_TERMS.filter((term) => blob.includes(term));
-}
-
-// ── Main ──────────────────────────────────────────────────
-
-interface RawAd {
-  id: string;
-  advertiser: string;
-  brand: string;
-  headline: string;
-  cta: string;
-  start_date: string;
-  running_days: number | null;
-  impressions_total: number;
-  media_type: string;
-  creative_url: string;
-  landing_url: string;
-  review_status: string;
-  country: string;
-}
-
-interface SponsoredCounts {
-  sponsored_rows: number;
-  unique_creators: number;
-  unique_sponsors: number;
+function estimateSpend(impressions: number): { low: number; high: number } {
+  return {
+    low: Math.round((impressions / 1000) * CPM_LOW),
+    high: Math.round((impressions / 1000) * CPM_HIGH),
+  };
 }
 
 function main(): void {
   if (!fs.existsSync(DB_PATH)) {
-    throw new Error(`DuckDB not found at ${DB_PATH}. Run: duckdb db/rav.db < db/init.sql`);
+    throw new Error(
+      `DuckDB not found at ${DB_PATH}. Run: duckdb db/rav.db < db/init.sql`,
+    );
   }
 
-  const rawAds = query<RawAd>(`
+  // ── Section 1: Landscape ──────────────────────────────────
+  const landscape = query<{
+    total_ads: number;
+    total_impressions: string;
+    brand_count: number;
+    country_count: number;
+  }>(`
     SELECT
-      ad_id                         AS id,
-      COALESCE(paying_advertiser_name, 'Unknown') AS advertiser,
-      COALESCE(NULLIF(brand_name_api,''), NULLIF(profile_name,''), brand, 'Unknown') AS brand,
-      COALESCE(headline, '')        AS headline,
-      call_to_action                AS cta,
-      start_date::VARCHAR           AS start_date,
-      CASE WHEN start_date IS NOT NULL
-           THEN DATE_DIFF('day', start_date::DATE, CURRENT_DATE)
-      END                           AS running_days,
-      COALESCE(CAST(impressions_total AS INTEGER), 0) AS impressions_total,
-      COALESCE(top_snap_media_type, 'Unknown') AS media_type,
-      top_snap_media_download_link  AS creative_url,
-      COALESCE(web_view_properties.url, '') AS landing_url,
-      review_status,
-      country
+      COUNT(*) as total_ads,
+      SUM(impressions_total) as total_impressions,
+      COUNT(DISTINCT brand) as brand_count,
+      COUNT(DISTINCT country) as country_count
     FROM brand_ads_fashion
-  `);
+    WHERE brand IN (${inList(ALL_BRANDS)})
+  `)[0];
 
-  const CPM_LOW = 4.0;
-  const CPM_HIGH = 9.0;
+  const totalImpressions = Number(landscape.total_impressions);
+  const spend = estimateSpend(totalImpressions);
 
-  const adsRows = rawAds.map((ad) => {
-    const impr = ad.impressions_total || 0;
-    const estLow = Math.round((impr / 1000) * CPM_LOW * 100) / 100;
-    const estHigh = Math.round((impr / 1000) * CPM_HIGH * 100) / 100;
-    const blob = `${ad.headline} ${ad.landing_url} ${ad.brand} ${ad.advertiser}`;
-    const [category, sub_category] = classifyText(blob);
-    const riskFlags = detectRisk(ad.headline, ad.landing_url);
+  // ── Section 2: Position (share of voice) ──────────────────
+  const shareOfVoice = query<{
+    brand: string;
+    ads: number;
+    countries: number;
+    impressions: string;
+  }>(`
+    SELECT brand, COUNT(*) as ads, COUNT(DISTINCT country) as countries,
+      SUM(impressions_total) as impressions
+    FROM brand_ads_fashion
+    WHERE brand IN (${inList(ALL_BRANDS)})
+    GROUP BY brand ORDER BY impressions DESC
+  `).map((r) => {
+    const impr = Number(r.impressions);
+    const s = estimateSpend(impr);
     return {
-      id: ad.id,
-      platform: "Snapchat",
-      advertiser: ad.advertiser,
-      brand: ad.brand,
-      headline: ad.headline,
-      cta: ad.cta,
-      start_date: ad.start_date,
-      running_days: ad.running_days,
-      impressions_total: impr,
-      est_spend_low_eur: estLow,
-      est_spend_high_eur: estHigh,
-      performance_per_spend_proxy:
-        Math.round((impr / Math.max((estLow + estHigh) / 2, 1)) * 100) / 100,
-      category,
-      sub_category,
-      unknown_category: category === "Unknown",
-      risk_flags: riskFlags,
-      risk_score: Math.min(riskFlags.length * 2, 10),
-      media_type: ad.media_type,
-      creative_url: ad.creative_url,
-      landing_url: ad.landing_url,
-      review_status: ad.review_status,
-      country: ad.country,
+      brand: r.brand,
+      ads: r.ads,
+      countries: r.countries,
+      impressions: impr,
+      share_pct: Math.round((impr / totalImpressions) * 1000) / 10,
+      per_ad_avg: Math.round(impr / r.ads),
+      est_spend_low: s.low,
+      est_spend_high: s.high,
     };
   });
 
-  const [sponsoredCounts] = query<SponsoredCounts>(`
-    SELECT
-      COUNT(*)                                   AS sponsored_rows,
-      COUNT(DISTINCT creator_name)               AS unique_creators,
-      COUNT(DISTINCT NULLIF(sponsor_name, ''))   AS unique_sponsors
-    FROM sponsored_content
+  // ── Section 3: Geography ──────────────────────────────────
+  const geoAll = query<{
+    brand: string;
+    country: string;
+    ads: number;
+    impressions: string;
+  }>(`
+    SELECT brand, country, COUNT(*) as ads, SUM(impressions_total) as impressions
+    FROM brand_ads_fashion
+    WHERE brand IN (${inList(ALL_BRANDS)})
+    GROUP BY brand, country ORDER BY brand, impressions DESC
   `);
 
-  const topSponsors = query(`
-    SELECT sponsor_name, COUNT(*) AS count
-    FROM sponsored_content
-    WHERE sponsor_name != ''
-    GROUP BY sponsor_name
-    ORDER BY count DESC
-    LIMIT 10
+  const diorGeo = geoAll
+    .filter((r) => r.brand === BRAND)
+    .map((r) => ({
+      country: r.country,
+      ads: r.ads,
+      impressions: Number(r.impressions),
+    }));
+
+  const diorCountries = new Set(diorGeo.map((r) => r.country));
+  const competitorCountries = new Set(
+    geoAll.filter((r) => r.brand !== BRAND).map((r) => r.country),
+  );
+  const missingCountries = [...competitorCountries].filter(
+    (c) => !diorCountries.has(c),
+  );
+
+  const competitorGeoSummary = COMPETITORS.map((brand) => {
+    const rows = geoAll.filter((r) => r.brand === brand);
+    return {
+      brand,
+      countries: rows.map((r) => r.country),
+      top_country: rows[0]?.country ?? null,
+      top_country_impressions: Number(rows[0]?.impressions ?? 0),
+    };
+  });
+
+  // ── Section 4: Creative strategy (format mix) ─────────────
+  const formatMix = query<{
+    brand: string;
+    format: string;
+    cnt: number;
+    impressions: string;
+  }>(`
+    SELECT brand,
+      COALESCE(top_snap_media_type, 'COLLECTION') as format,
+      COUNT(*) as cnt,
+      SUM(impressions_total) as impressions
+    FROM brand_ads_fashion
+    WHERE brand IN (${inList(ALL_BRANDS)})
+    GROUP BY brand, format ORDER BY brand, impressions DESC
   `);
 
-  const topCreators = query(`
-    SELECT creator_name, COUNT(*) AS count
-    FROM sponsored_content
-    GROUP BY creator_name
-    ORDER BY count DESC
-    LIMIT 10
-  `);
-
-  const sponsoredSample = query(`
-    SELECT creator_name, sponsor_name, content_type, content_url, thumbnail_url
-    FROM sponsored_content
-    WHERE sponsor_name != ''
-    USING SAMPLE 200
-  `);
-
-  const advertisers: Record<string, { impressions: number; est_low: number; est_high: number; ads: number }> = {};
-  for (const r of adsRows) {
-    const key = r.advertiser;
-    if (!advertisers[key]) advertisers[key] = { impressions: 0, est_low: 0, est_high: 0, ads: 0 };
-    advertisers[key].impressions += r.impressions_total;
-    advertisers[key].est_low += r.est_spend_low_eur;
-    advertisers[key].est_high += r.est_spend_high_eur;
-    advertisers[key].ads += 1;
+  const formatByBrand: Record<
+    string,
+    { format: string; ads: number; impressions: number; pct: number }[]
+  > = {};
+  for (const b of ALL_BRANDS) {
+    const rows = formatMix.filter((r) => r.brand === b);
+    const total = rows.reduce((s, r) => s + Number(r.impressions), 0);
+    formatByBrand[b] = rows.map((r) => ({
+      format: r.format,
+      ads: r.cnt,
+      impressions: Number(r.impressions),
+      pct: total > 0 ? Math.round((Number(r.impressions) / total) * 1000) / 10 : 0,
+    }));
   }
 
-  const leaderboard = Object.entries(advertisers)
-    .map(([advertiser, v]) => ({
-      advertiser,
-      ads: v.ads,
-      impressions: v.impressions,
-      est_spend_low_eur: Math.round(v.est_low * 100) / 100,
-      est_spend_high_eur: Math.round(v.est_high * 100) / 100,
-    }))
-    .sort((a, b) => b.impressions - a.impressions);
+  // Top creatives with download links
+  const topCreatives = query<{
+    headline: string;
+    impressions_total: number;
+    country: string;
+    format: string;
+    creative_url: string;
+    start_date: string;
+  }>(`
+    SELECT headline, impressions_total, country,
+      COALESCE(top_snap_media_type, 'COLLECTION') as format,
+      top_snap_media_download_link as creative_url,
+      start_date::VARCHAR as start_date
+    FROM brand_ads_fashion
+    WHERE brand = '${BRAND}'
+    ORDER BY impressions_total DESC
+    LIMIT 10
+  `).map((r) => ({
+    ...r,
+    impressions_total: Number(r.impressions_total),
+  }));
 
-  const now = new Date();
-  const output = {
-    generated_at_utc: now.toISOString(),
-    notes: {
-      spend_model: "Very rough proxy from impressions using fixed CPM range 4-9 EUR.",
-      performance_model: "Impressions per estimated euro midpoint.",
-      warning: "Prototype only. Do not treat spend as exact.",
-      data_source: "DuckDB (db/rav.db) — brand_ads_fashion + sponsored_content tables",
+  // ── Section 5: Campaign Cadence ───────────────────────────
+  const cadenceAll = query<{
+    brand: string;
+    month: string;
+    ads: number;
+    impressions: string;
+  }>(`
+    SELECT brand,
+      STRFTIME(start_date::DATE, '%Y-%m') as month,
+      COUNT(*) as ads,
+      SUM(impressions_total) as impressions
+    FROM brand_ads_fashion
+    WHERE brand IN (${inList(ALL_BRANDS)}) AND start_date IS NOT NULL
+    GROUP BY brand, month ORDER BY brand, month
+  `);
+
+  const cadenceByBrand: Record<
+    string,
+    { month: string; ads: number; impressions: number }[]
+  > = {};
+  for (const b of ALL_BRANDS) {
+    cadenceByBrand[b] = cadenceAll
+      .filter((r) => r.brand === b)
+      .map((r) => ({
+        month: r.month,
+        ads: r.ads,
+        impressions: Number(r.impressions),
+      }));
+  }
+
+  // ── Section 6: Content that works ─────────────────────────
+  const spotlights = query<{
+    llm_title: string | null;
+    description: string;
+    view_count: number;
+    share_count: number;
+    boost_count: number;
+    thumbnail_url: string;
+    content_url: string;
+    duration_ms: number;
+    uploaded_at: string;
+    hashtags: string[];
+  }>(`
+    SELECT llm_title, description, view_count, share_count, boost_count,
+      thumbnail_url, content_url, duration_ms, uploaded_at::VARCHAR as uploaded_at, hashtags
+    FROM brand_profile_spotlights
+    WHERE brand = '${BRAND}' AND view_count > 0
+    ORDER BY view_count DESC
+  `).map((r) => ({ ...r, view_count: Number(r.view_count) }));
+
+  const spotlightTotals = {
+    count: spotlights.length,
+    total_views: spotlights.reduce((s, r) => s + r.view_count, 0),
+    total_boosts: spotlights.reduce((s, r) => s + r.boost_count, 0),
+    total_shares: spotlights.reduce((s, r) => s + r.share_count, 0),
+  };
+
+  // ── Section 7: Takeaways ──────────────────────────────────
+  const diorSov = shareOfVoice.find((r) => r.brand === BRAND)!;
+  const diorRank =
+    shareOfVoice.findIndex((r) => r.brand === BRAND) + 1;
+  const topBrand = shareOfVoice[0];
+
+  const diorLens = formatByBrand[BRAND]?.find(
+    (r) => r.format === "LENS_PACKAGE",
+  );
+  const cartierLens = formatByBrand["Cartier"]?.find(
+    (r) => r.format === "LENS_PACKAGE",
+  );
+  const chanelLens = formatByBrand["Chanel"]?.find(
+    (r) => r.format === "LENS_PACKAGE",
+  );
+
+  const gucci = shareOfVoice.find((r) => r.brand === "Gucci");
+
+  const takeaways = [
+    {
+      id: "ar-gap",
+      title: "The AR Lens Gap",
+      body: `Cartier puts ${cartierLens?.pct ?? 0}% of impressions into AR Lenses. ${chanelLens ? `Chanel: ${chanelLens.pct}%.` : ""} Dior: ${diorLens?.pct ?? 0}%. Premium format, premium CPMs, and your competitors are all-in.`,
     },
-    kpis: {
-      ads_count: adsRows.length,
-      sponsored_content_count: sponsoredCounts!.sponsored_rows,
-      total_impressions: adsRows.reduce((s, x) => s + x.impressions_total, 0),
-      est_spend_low_total_eur:
-        Math.round(adsRows.reduce((s, x) => s + x.est_spend_low_eur, 0) * 100) / 100,
-      est_spend_high_total_eur:
-        Math.round(adsRows.reduce((s, x) => s + x.est_spend_high_eur, 0) * 100) / 100,
-      unique_brands: new Set(adsRows.map((r) => r.brand)).size,
-      unique_countries: new Set(adsRows.map((r) => r.country)).size,
-      unknown_category_ratio:
-        Math.round(
-          ((adsRows.filter((x) => x.unknown_category).length / Math.max(adsRows.length, 1)) * 100) * 10
-        ) / 10,
+    {
+      id: "france-paradox",
+      title: "The France Paradox",
+      body: `Dior is a French house, yet only ${Math.round((diorGeo.find((r) => r.country === "fr")?.impressions ?? 0) / diorSov.impressions * 100)}% of impressions come from France. Belgium and Germany each outweigh the home market.`,
     },
-    sponsored_kpis: {
-      sponsored_rows: sponsoredCounts!.sponsored_rows,
-      unique_creators: sponsoredCounts!.unique_creators,
-      unique_sponsors: sponsoredCounts!.unique_sponsors,
-      top_sponsors: topSponsors,
-      top_creators: topCreators,
-      scope_note:
-        "Represents sponsored/commercial content endpoint coverage, not full organic platform feed.",
+    {
+      id: "efficiency",
+      title: "The Efficiency Question",
+      body: `${diorSov.ads} ads for ${(diorSov.impressions / 1e6).toFixed(0)}M impressions (${(diorSov.per_ad_avg / 1e6).toFixed(1)}M/ad). Gucci gets ${gucci ? `${(gucci.impressions / 1e6).toFixed(0)}M from just ${gucci.ads} ads (${(gucci.per_ad_avg / 1e6).toFixed(1)}M/ad)` : "comparable reach from far fewer ads"}.`,
     },
-    leaderboard,
-    ads: adsRows,
-    sponsored_content: sponsoredSample,
+    {
+      id: "content-opportunity",
+      title: "The Content Opportunity",
+      body: `${spotlightTotals.count} spotlight videos earned ${(spotlightTotals.total_views / 1000).toFixed(0)}K organic views and ${(spotlightTotals.total_boosts / 1000).toFixed(0)}K boosts. Fashion show behind-the-scenes content leads. This is a channel worth investing in.`,
+    },
+  ];
+
+  // ── Discovery (explore data) ─────────────────────────────
+  const EXPLORE_DIR = path.join(ROOT, "data_sources", "snap_explore", "data", "explore");
+  const brandKeywords = ["dior", "chanel", "gucci", "cartier", "burberry", "louis_vuitton"];
+  const discoveryByBrand: Record<string, {
+    keyword: string;
+    sections: { type: string; count: number }[];
+    totalCreators: number;
+    profileCount: number;
+    topicCount: number;
+    topics: string[];
+    topCreators: { username: string; displayName: string; viewCount: number; thumbnailUrl?: string }[];
+  }> = {};
+
+  for (const kw of brandKeywords) {
+    const file = path.join(EXPLORE_DIR, `${kw}.json`);
+    if (!fs.existsSync(file)) continue;
+    try {
+      const raw = JSON.parse(fs.readFileSync(file, "utf-8"));
+      const data = extractExploreData(kw, raw.pageProps);
+      discoveryByBrand[kw] = {
+        keyword: kw,
+        sections: data.sections,
+        totalCreators: data.totalCreators,
+        profileCount: data.subscribeProfiles.length,
+        topicCount: data.topics.length,
+        topics: data.topics,
+        topCreators: data.spotlightCreators
+          .sort((a, b) => b.viewCount - a.viewCount)
+          .slice(0, 5)
+          .map((c) => ({
+            username: c.username,
+            displayName: c.displayName,
+            viewCount: c.viewCount,
+            thumbnailUrl: c.thumbnailUrl,
+          })),
+      };
+    } catch {
+      // skip
+    }
+  }
+
+  // ── Profile ───────────────────────────────────────────────
+  const profileRow = query<{
+    bio: string;
+    website_url: string;
+    profile_picture_url: string;
+    hero_image_url: string;
+    spotlight_count: number;
+    category: string;
+  }>(`
+    SELECT bio, website_url, profile_picture_url, hero_image_url,
+      spotlight_count, category
+    FROM brand_profiles WHERE brand = '${BRAND}'
+  `)[0];
+
+  // ── Assemble ──────────────────────────────────────────────
+  const report = {
+    generated_at: new Date().toISOString(),
+    brand: BRAND,
+    meta: {
+      cpm_range: { low: CPM_LOW, high: CPM_HIGH },
+      currency: "EUR",
+      disclaimer:
+        "Impression data is real (DSA-mandated). Spend estimates use published CPM benchmarks and are approximate.",
+    },
+    profile: profileRow
+      ? {
+          bio: profileRow.bio,
+          website: profileRow.website_url,
+          avatar_url: profileRow.profile_picture_url,
+          hero_url: profileRow.hero_image_url,
+          spotlight_count: profileRow.spotlight_count,
+        }
+      : null,
+    landscape: {
+      total_ads: landscape.total_ads,
+      total_impressions: totalImpressions,
+      est_spend_low: spend.low,
+      est_spend_high: spend.high,
+      brand_count: landscape.brand_count,
+      country_count: landscape.country_count,
+    },
+    position: {
+      dior_rank: diorRank,
+      brands: shareOfVoice,
+    },
+    geography: {
+      dior: diorGeo,
+      missing_countries: missingCountries,
+      competitors: competitorGeoSummary,
+    },
+    creative: {
+      format_by_brand: formatByBrand,
+      top_creatives: topCreatives,
+    },
+    cadence: cadenceByBrand,
+    discovery: discoveryByBrand,
+    content: {
+      spotlights,
+      totals: spotlightTotals,
+    },
+    takeaways,
   };
 
   fs.mkdirSync(OUT_DIR, { recursive: true });
-  fs.writeFileSync(OUT_FILE, JSON.stringify(output, null, 2), "utf8");
+  fs.writeFileSync(OUT_FILE, JSON.stringify(report, null, 2), "utf8");
 
-  const stats = [
-    `${adsRows.length} ads (${new Set(adsRows.map((r) => r.brand)).size} brands, ${new Set(adsRows.map((r) => r.country)).size} countries)`,
-    `${sponsoredCounts!.sponsored_rows} sponsored rows (${sponsoredCounts!.unique_creators} creators)`,
-  ].join(", ");
-  console.log(`Wrote ${OUT_FILE} — ${stats}`);
+  console.log(`Wrote ${OUT_FILE}`);
+  console.log(
+    `  ${landscape.total_ads} ads across ${landscape.brand_count} brands, ${landscape.country_count} countries`,
+  );
+  console.log(
+    `  ${totalImpressions.toLocaleString()} total impressions (€${spend.low.toLocaleString()}–€${spend.high.toLocaleString()} est.)`,
+  );
+  console.log(`  Dior rank: #${diorRank} of ${shareOfVoice.length}`);
 }
 
 main();

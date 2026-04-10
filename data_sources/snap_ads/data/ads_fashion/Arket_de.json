@@ -1,1045 +1,30 @@
 {
   "brand": "Arket",
   "country": "de",
-  "fetched_at": "2026-04-10T00:13:43.760Z",
+  "fetched_at": "2026-04-10T11:01:55.346Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "2d8a0bf7-a12d-47cd-bab8-fd7fefdec92d",
-        "name": "DE_Sales_TheSource_Static_collect-i_NinjaSL400_V1_0s_9x16_052026",
-        "ad_account_name": "Back Market APP + EU",
+        "id": "8ce2f5e6-c950-4733-8c96-9964f61facc0",
+        "name": "XCAT_VID_25s_JvM_25Q4_CG_Buy-Julian-Marian_DE_1080x1920_NA",
+        "ad_account_name": "DE_Strategic ",
         "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Gönn dir ein Downgrade.",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xd56vodAAR0h1195QBLpx.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-03-25T11:12:00.000Z",
-        "impressions_total": 2630,
-        "impressions_map": {
-          "de": 2630,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Back Market",
-        "profile_name": "Back Market",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY2RVeExqQkprUmIzcVNPSmtmeExZP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://www.backmarket.de/de-de/e/good-deals?utm_medium=paidsocial&utm_source={{site_source_name}}&utm_campaign={{campaign.name}}"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            }
-          ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/YvJ1jceWdspcjR9FmTna8.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Hülle iPhone 13 Mini und 2 schutzfolien - TPU - Transparent",
-              "brand": "Phonillico",
-              "custom_label_0": "highperformer",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "REFURBISHED",
-              "product_type": [],
-              "size": "",
-              "title": "Hülle iPhone 13 Mini und 2 schutzfolien - TPU - Transparent",
-              "link": "https://www.backmarket.de/de-de/p/hulle-iphone-13-mini-und-2-schutzfolien-tpu-transparent/57afd0ab-a259-4d48-87d8-3e67da63e02f"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/RoNjmN2v7bSNgHaJQizMq.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "iPad Air M2 13 (2024) - WiFi - 256GB",
-              "brand": "Apple",
-              "custom_label_0": "highperformer",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "REFURBISHED",
-              "product_type": [],
-              "size": "",
-              "title": "iPad Air M2 13 (2024) 6. Generation 256 GB - WLAN - Space Grau",
-              "link": "https://www.backmarket.de/de-de/p/ipad-air-m2-13-2024-6-generation-256-gb-wlan-space-grau/ceb44dd2-b3f6-449c-8759-3d007d3d3358"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/xygVSvmqsENPrAwrQNlPS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Hp EliteBook 855 G7 15\" Ryzen 5 PRO 2.1 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
-              "brand": "HP",
-              "custom_label_0": "highperformer",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "REFURBISHED",
-              "product_type": [],
-              "size": "",
-              "title": "HP EliteBook 855 G7 15\" Ryzen 5 PRO 2.1 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
-              "link": "https://www.backmarket.de/de-de/p/hp-elitebook-855-g7-15-ryzen-5-pro-21-ghz-ssd-256-gb-16gb-qwertz-deutsch/cdb499ca-2414-4c47-a8e9-ed9e209c5d55"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/QuBRsMwhKytN97dBgUEIm.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Das Galaxy A53 5G ist ein vielseitiges Smartphone, das eine solide Mischung aus Leistung und Funktionen bietet und somit eine hervorragende Wahl für Nutzer ist, die ein zuverlässiges Gerät für alltägliche Aufgaben suchen. Es wurde im März 2022 veröffentlicht und bleibt mit seinen robusten Spezifikationen und 5G-Konnektivität relevant. Hauptmerkmale: Veröffentlichungsdatum: März 2022 Display: 6,5-Zoll Super AMOLED, FHD+ Auflösung Prozessor: Exynos 1280 Kamera: Quad-Kamera-Setup mit 64MP Hauptsensor Konnektivität: 5G-kompatibel für schnellen Internetzugang. Für wen ist das geeignet? Das Galaxy A53 5G ist ideal für Studenten, Berufstätige und Gelegenheitsnutzer, die ein zuverlässiges Smartphone zum Surfen, für soziale Medien und Fotografie benötigen. Es ist eine praktische Wahl für diejenigen, die ein gutes Gleichgewicht zwischen Leistung und Funktionen suchen, ohne in die Spitzenklasse aufzusteigen. Vor- und Nachteile: Vorteile Nachteile Lebendiges Super AMOLED-Display für ein immersives Seherlebnis. Keine drahtlose Ladeoption verfügbar. Gute Kameraleistung mit vielseitigen Aufnahmeoptionen. Kunststoffgehäuse fühlt sich möglicherweise nicht so hochwertig an wie Alternativen aus Glas. Warum generalüberholt? Die Wahl eines generalüberholten Galaxy A53 5G ermöglicht es Ihnen, ein qualitativ hochwertiges Smartphone zu genießen und gleichzeitig umweltbewusst zu handeln. Jedes Gerät wird strengen Tests unterzogen, um sicherzustellen, dass es hohe Leistungs- und Zuverlässigkeitsstandards erfüllt. Erfahren Sie mehr über unsere Qualitätsstandards.",
-              "brand": "Samsung",
-              "custom_label_0": "highperformer",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "REFURBISHED",
-              "product_type": [],
-              "size": "",
-              "title": "Galaxy A53 5G 128GB - Orange - Ohne Vertrag",
-              "link": "https://www.backmarket.de/de-de/p/samsung-galaxy-a53-5g-128-gb-pfirsich-ohne-vertrag/4a75cf70-16e0-451d-8221-6ed38f1335ce"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/TchWFeMg8aMk7ADiusTpf.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Das iPhone 13 Pro ist ein leistungsstarkes Smartphone, das Leistung und fortschrittliche Funktionen in einem eleganten Design kombiniert. Es wurde im September 2021 veröffentlicht und bleibt eine der besten Wahl für Nutzer, die ein zuverlässiges Gerät für den täglichen Gebrauch und professionelle Aufgaben suchen. Hauptmerkmale: Veröffentlichungsdatum: September 2021 Display: 6,1-Zoll Super Retina XDR mit ProMotion-Technologie Prozessor: A15 Bionic Chip mit 6-Kern-CPU Kamera: Dreifach 12MP Kamerasystem mit Nachtmodus und ProRAW Konnektivität: 5G-kompatibel für Hochgeschwindigkeits-Internetzugang. Für wen ist das geeignet? Das iPhone 13 Pro ist ideal für Fachleute, Content-Ersteller und Technikbegeisterte, die ein leistungsstarkes Gerät mit hervorragenden Kamerafunktionen und einem lebhaften Display benötigen. Es ist auch geeignet für alltägliche Nutzer, die ein zuverlässiges Smartphone mit langfristiger Softwareunterstützung suchen. Vor- und Nachteile: Vorteile Nachteile Außergewöhnliche Kamerqualität für Fotografie und Videografie. Keine wesentlichen Designänderungen im Vergleich zum iPhone 12 Pro. ProMotion-Display für flüssigeres Scrollen und Reaktionsfähigkeit. Schwerer als einige Wettbewerber in derselben Kategorie. Warum generalüberholt? Die Wahl eines generalüberholten iPhone 13 Pro ist eine umweltbewusste Entscheidung, die es Ihnen ermöglicht, Premium-Funktionen zu genießen, ohne die Umweltbelastung durch die Neuproduktion. Back Market stellt sicher, dass jedes Gerät durch strenge Tests und Aufbereitung hohen Qualitätsstandards entspricht. Erfahren Sie mehr über unsere Qualitätsstandards.",
-              "brand": "Apple",
-              "custom_label_0": "highperformer",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "REFURBISHED",
-              "product_type": [],
-              "size": "",
-              "title": "iPhone 13 Pro 128GB - Silber - Ohne Vertrag",
-              "link": "https://www.backmarket.de/de-de/p/iphone-13-pro-128-gb-gold-ohne-vertrag/9d30a67d-26d0-4324-833e-60e73682f4cd"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/xOAGtI4AgWieHLFjKYTEo.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Reflex - Canon EOS 50D nur Gehäuse Schwarz",
-              "brand": "Canon",
-              "custom_label_0": "highperformer",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "REFURBISHED",
-              "product_type": [],
-              "size": "",
-              "title": "Spiegelreflex EOS 50D - Schwarz N/A N/A N/A",
-              "link": "https://www.backmarket.de/de-de/p/canon-eos-50-d-nu/187a33e7-7b1c-4495-ae61-9cd9b47fe1e5"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/NUUSw4InGFHjwlw2116S0.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "MacBook Air 13\" (2022) - Apple M2 mit 8‐Core CPU und 8-core GPU - 8GB RAM - SSD 256GB - QWERTY - Englisch (UK)",
-              "brand": "Apple",
-              "custom_label_0": "highperformer",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "REFURBISHED",
-              "product_type": [],
-              "size": "",
-              "title": "MacBook Air 13\" (2022) - Apple M2 mit 8‐Core CPU und 8-core GPU - 8GB RAM - SSD 256GB - QWERTY - Englisch",
-              "link": "https://www.backmarket.de/de-de/p/macbook-air-13-2022-m2-mit-8core-cpu-und-8-core-gpu-8gb-ram-ssd-256gb-qwerty-englisch-uk/6c42ad60-b32e-499d-8cc6-03b18e570202"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/EB6ix99XzLjl4yEJlsIzh.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "MacBook Pro Touch Bar 16\" Retina (2019) - Core i7 2.6 GHz SSD 1024 - 16GB - QWERTZ - Deutsch",
-              "brand": "Apple",
-              "custom_label_0": "highperformer",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "REFURBISHED",
-              "product_type": [],
-              "size": "",
-              "title": "MacBook Pro Touch Bar 16\" Retina (2019) - Core i7 2.6 GHz SSD 1000 - 16GB - QWERTZ - Deutsch",
-              "link": "https://www.backmarket.de/de-de/p/macbook-pro-touch-bar-16-retina-2019-core-i7-26-ghz-ssd-1024-16gb-qwertz-deutsch/6a1e9c2f-ffae-4f4e-b89b-d24374ad558a"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/jCcPJCKRD0apmETk3SYNw.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Meta Quest 3S VR Helm - virtuelle Realität",
-              "brand": "Meta",
-              "custom_label_0": "highperformer",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "REFURBISHED",
-              "product_type": [],
-              "size": "",
-              "title": "Meta Quest 3S VR Helm - virtuelle Realität",
-              "link": "https://www.backmarket.de/de-de/p/meta-quest-3s-vr-helm-virtuelle-realitat/0d6c223b-b2ba-493d-8418-f3e884697ec9"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/yguHOt7pv6HwyV8jl4jhy.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "OnePlus 11 256 GB Dual Sim - Schwarz - Ohne Vertrag",
-              "brand": "OnePlus",
-              "custom_label_0": "highperformer",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "REFURBISHED",
-              "product_type": [],
-              "size": "",
-              "title": "OnePlus 11 256GB - Schwarz - Ohne Vertrag",
-              "link": "https://www.backmarket.de/de-de/p/oneplus-oneplus-11-256-gb-schwarz-ohne-vertrag/526d0a88-9e70-43a2-9094-da2724944197"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "DE_Sales_TheSource_Static_collect-i_NinjaSL400_V1_0s_9x16_052026",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "text_fields": [
-              "title",
-              "price"
-            ]
-          },
-          "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "6248df3c-deb0-4c17-89a0-8825af835c42",
-        "name": "CA_04",
-        "ad_account_name": "ZMS_New Brand Activation_Value Add_2023",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Style By: Athens",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ax7zVetDsSfulV4F9wKGH.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-05-05T22:00:05.000Z",
-        "impressions_total": 132560,
-        "impressions_map": {
-          "de": 132560,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando Marketing Services GmbH",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://www.zalando.de/campaigns/nike-style-by/?wmc=zms490_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}.&opc=2211"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            }
-          ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/S1SY3ymID6vY6Jul0dzW5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear LD 1000 - Sneaker low - fir/hyper royal/white/black/cosmic clay",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "adult",
-              "custom_label_3": "",
-              "custom_label_4": "out of stock",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "dunkelgrün"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Sneakers > Low-top sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear LD 1000 - Sneaker low - fir/hyper royal/white/black/cosmic clay",
-              "link": "https://www.zalando.de/nike-sportswear-ld-1000-sneaker-low-firhyper-royalwhiteblackcosmic-clay-ni111a1ji-m11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/uAOBxXUuueHfGSlvLocg1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear LD 1000 - Sneaker low - university red/metallic silver/sail/black",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "adult",
-              "custom_label_3": "",
-              "custom_label_4": "out of stock",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "rot"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Sneakers > Low-top sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear LD 1000 - Sneaker low - university red/metallic silver/sail/black",
-              "link": "https://www.zalando.de/nike-sportswear-ld-1000-sneaker-low-university-redmetallic-silversailblack-ni111a1ji-g11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/iJ3smKwvR44b4rWHPjsMz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear SPORTSWEAR COLLECTION - Stoffhose - black",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "adult",
-              "custom_label_3": "",
-              "custom_label_4": "in stock",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "schwarz"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Trousers > Slacks"
-              ],
-              "size": "",
-              "title": "Nike Sportswear SPORTSWEAR COLLECTION - Stoffhose - black",
-              "link": "https://www.zalando.de/nike-sportswear-trouser-stoffhose-black-ni121a0q9-q11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/aeOMpnRk0HV0wda76fHgG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear SHOX - Sneaker low - summit white/hydrangeas/silver/amethyst",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "adult",
-              "custom_label_3": "",
-              "custom_label_4": "in stock",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "weiß"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Sneakers > Low-top sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear SHOX - Sneaker low - summit white/hydrangeas/silver/amethyst",
-              "link": "https://www.zalando.de/nike-sportswear-shox-sneaker-low-summit-whitehydrangeassilveramethyst-ni111a1ls-a11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/2OXJdYzWzo3waclN9zLQ7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear NIKE SHOX R4 - Sneaker low - regal pink/black",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "adult",
-              "custom_label_3": "",
-              "custom_label_4": "out of stock",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "pink"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Sneakers > Low-top sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear NIKE SHOX R4 - Sneaker low - regal pink/black",
-              "link": "https://www.zalando.de/nike-sportswear-nike-shox-r4-sneaker-low-regal-pinkblack-ni111a1mb-j11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/aP8No0n4HvtCXN7XVymey.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear STREET - T-Shirt print - sail/armory navy",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "adult",
-              "custom_label_3": "",
-              "custom_label_4": "out of stock",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "offwhite"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > T-shirts & tops > T-shirts"
-              ],
-              "size": "",
-              "title": "Nike Sportswear STREET - T-Shirt print - sail/armory navy",
-              "link": "https://www.zalando.de/nike-sportswear-street-t-shirt-print-sailarmory-navy-ni121d0xi-a11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/GI9HrX8EYt57e6Y6Cy1NR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear SPORTSWEAR - Sweatshirt - phantom",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "adult",
-              "custom_label_3": "",
-              "custom_label_4": "out of stock",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "hellgrau"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Sweatshirts & Hoodies > Sweatshirts"
-              ],
-              "size": "",
-              "title": "Nike Sportswear SPORTSWEAR - Sweatshirt - phantom",
-              "link": "https://www.zalando.de/nike-sportswear-sweatshirt-phantom-ni121j0rq-c12.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/wZ0SS8E9XycqNM11NP3ZK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear SKORT - Shorts - black",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "adult",
-              "custom_label_3": "",
-              "custom_label_4": "out of stock",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "schwarz"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Shorts"
-              ],
-              "size": "",
-              "title": "Nike Sportswear SKORT - Shorts - black",
-              "link": "https://www.zalando.de/nike-sportswear-skort-shorts-black-ni121s074-q11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/OWaIu0Xhn4IgFD2E9f9mI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear STREET - T-Shirt print - light smoke grey/barely volt",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "adult",
-              "custom_label_3": "",
-              "custom_label_4": "out of stock",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "grau"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > T-shirts & tops > T-shirts"
-              ],
-              "size": "",
-              "title": "Nike Sportswear STREET - T-Shirt print - light smoke grey/barely volt",
-              "link": "https://www.zalando.de/nike-sportswear-street-t-shirt-print-light-smoke-greybarely-volt-ni121d0xi-c11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/xAF8hTuUGEhv3EBej290J.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "Nike Sportswear PANT - Jogginghose - black",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "adult",
-              "custom_label_3": "",
-              "custom_label_4": "in stock",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "schwarz"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Clothing > Trousers > Jogging Trousers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear PANT - Jogginghose - black",
-              "link": "https://www.zalando.de/nike-sportswear-pant-jogginghose-black-ni121a0p9-q11.html?otid=default"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "CA_04",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "text_fields": [
-              "title",
-              "price"
-            ]
-          },
-          "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "0274fb2e-484d-40aa-8a4f-5fea6800ef31",
-        "name": "SA-07",
-        "ad_account_name": "Zalando Marketing Services GmbH",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Less Sole. Same Soul.",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BTcwi2prXIQROt30O2b1w.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-02-25T15:21:19.000Z",
-        "impressions_total": 44583,
-        "impressions_map": {
-          "de": 44583,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando Marketing Services GmbH",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://www.zalando.de/collections/Me08cFIXRKK/?wmc=zms999_rh_snc._{{campaign.id}}_{{adSet.id}}_{{ad.id}}.&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "19fa0fbf-1cb4-4907-af67-12f3db68da97",
-        "name": "V1_female - Regular ChatGPT is dead.mp4",
-        "ad_account_name": "PAGEPILOT #1",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Create A Sopify Product Page in 1s",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HsEqOpAiuk35xLd0ZcbL8.67?mo=GpYEGg4aABoAMgEEOgF9UA9gAVoIQWRzTWVkaWGiAUMIQxIvCi0gAUopCiRwTE1OSztFOy0uG044NjlQOio4MxsuIBUYGxwpTzs8OCIbGhwQ9AMiDgoKQgYIra3fqQZIAhIAogFDCF0SLwotIAFKKQokVTs3ODIrMC4wGhc3KCIlODghNR4XJhsTIRgZJi8hKCQVHBETEPQDIg4KCkIGCK2t36kGSAISAKIBUwgmEj8KPSABSjkKNMUBkAGdAakBmwGfAY4BbWIyIp4BjwF9jwHDAYsBUWwzLkQrGjQkKEmAAZABpAGRAStJKjQQ9AMiDgoKQgYI77DfqQZIAxIAogFDCCUSLwotIAFKKQokeVRRYVdHUT80KhhSTEJNYkwwOCAdKRwRIhgbJlBBTUcdLRgfEPQDIg4KCkIGCO-w36kGSAMSAKIBRAi4ChIvCi0gAUopCiR5Kzg_Oy4wJiUOEDIpJis2JBYnLB4QEwwLExAsJyQpHxAODg8Q9AMiDgoKQgYI77DfqQZIAhIAogFDCH8SLwotIAFKKQokVTQxPDAoLiMhERAtJiQqMyYbIB8QHRAMCw8PFTAjJSUWEBISEPQDIg4KCkIGCO-w36kGSAISAKIBRAiSChIvCi0gAUopCiRXNDU6NyoyJyUUETQqJio6KR8iHxIcFA0NEREXMCclJRcSEhQQ9AMiDgoKQgYI77DfqQZIAhIA&uc=15",
-        "start_date": "2023-10-24T10:13:14.000Z",
-        "impressions_total": 5127,
-        "impressions_map": {
-          "de": 98,
-          "be": 462,
-          "fi": 151,
-          "pt": 392,
-          "bg": 0,
-          "dk": 29,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 47,
-          "hu": 0,
-          "se": 189,
-          "si": 0,
-          "sk": 0,
-          "ie": 279,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 892,
-          "es": 759,
-          "at": 81,
-          "cy": 0,
-          "cz": 220,
-          "pl": 479,
-          "ro": 765,
-          "nl": 284,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "GMN MARKETING LLC",
-        "profile_name": "PagePilot.ai",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QveG9EYWxmWW9rck50ZEJmdDlyWnNqP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://pagepilot.ai/?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ba83f76c-fd2b-49b5-9186-5f1cfc63f110",
-        "name": "Video 3",
-        "ad_account_name": "OT_sleekselect-SN",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Shop Now",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XaGGsZuIcZ0BgrltBpa3q.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIqutYIAEw4AM41AZAAUoOCglJGxwwPSwoODwQ9ANQrH9oAiIGCgJIAxIAogEyCLoKEiUKIwjf1EkgATDQBTiACkACSg4KCUkbFiotJhszMRD0A1Csf2gCIgYKAkgDEgCiATEIfxIlCiMIib86IAEw4AM41AZAAkoOCgk5ExUiJhkXJSwQ9ANQrH9oAiIGCgJIAhIAogEyCJIKEiUKIwil2TwgATDgAzjUBkACSg4KCTgVFiMpGxkmLhD0A1Csf2gCIgYKAkgCEgCiATIIxAoSJQojCIXJMSABMOADONYGQAJKDgoJPxIPHB0ZEiEiEPQDUKx_aAIiBgoCSAISAKIBMgjSChIlCiMIj_80IAEw4AM41AZAAkoOCglCExAdHxoSIiMQ9ANQrH9oAiIGCgJIAhIAkAOsfw%3D%3D&uc=15",
-        "start_date": "2025-06-12T22:01:26.000Z",
-        "impressions_total": 102544,
-        "impressions_map": {
-          "de": 1971,
-          "be": 8099,
-          "fi": 2111,
-          "pt": 0,
-          "bg": 0,
-          "dk": 3257,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 23,
-          "hu": 0,
-          "se": 3522,
-          "si": 6289,
-          "sk": 0,
-          "ie": 13165,
-          "ee": 0,
-          "el": 18829,
-          "mt": 0,
-          "it": 12995,
-          "es": 11518,
-          "at": 4552,
-          "cy": 0,
-          "cz": 0,
-          "pl": 9873,
-          "ro": 0,
-          "nl": 6340,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Full Spice Digital Marketing",
-        "profile_name": "Aora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZnRoQnVyRE53VEhhaVpjMlNtUVVvP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://2ly.link/23H7s"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "13d914fb-2fa3-4a4b-8299-64bf1cf81804",
-        "name": "Leads Pixel",
-        "ad_account_name": "Clicktreff",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [
           "de"
         ],
-        "headline": "Kostenloses online Dating",
-        "call_to_action": "SIGN UP",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/iHP85SdXxZ1YDgYekIgq5.67?mo=Go4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATcIQxIrCikIvP5sIAEw4AM41AZAAUoOCglnJycxIy47MR4Q9ANQvogBaAJ13FRGQCIGCgJIAhIAogE4CLoKEisKKQicsk8gATDgAzjUBkACSg4KCVcfHScgHiopHhD0A1C-iAFoAnUhsUNAIgYKAkgDEgCiAT0IkgoSMAouCLD4ZyABMOADONQGQAJKDgoJYycpNCMuODMiEPQDUL6IAWgCdWwEO0B9AACAPyIGCgJIAhIAogE9CNIKEjAKLgjh3VogATDgAzjUBkACSg4KCVsfHyshIS4tHxD0A1C-iAFoAnVg0kpAfQAAgD8iBgoCSAISAJADvogB&uc=15",
-        "start_date": "2025-12-10T08:03:21.000Z",
-        "impressions_total": 1530,
-        "impressions_map": {
-          "de": 244,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 1286,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "RN-Marketing",
-        "profile_name": "Clicktreff.Com",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvT21IWDUyWUlZNDlpMXllU0Nvc2VSP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.clicktreff.com/p/?p=1262_dc4c"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "eae4992d-366f-4135-b796-910a1bcafe1f",
-        "name": "Ad5",
-        "ad_account_name": "NR Marketing GmbH Self Service",
-        "status": "ACTIVE",
-        "creative_type": "LEAD_GENERATION",
-        "ad_type": "LEAD_GENERATION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "de"
-        ],
-        "headline": "Studentenzuschuss!",
+        "headline": "Jetzt easy bei eBay verkaufen!",
         "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VObf1agfC5OIZ3cC0T0Ex.67?mo=GokCGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigInMAGIAEw4AM41AZAAUoOCgkcAwQDAwQDAwQQ9ANQkE5oAnWesoJAIgYKAkgEEgCiATcIugoSKgooCJSyCCABMNAFOIAKQAJKDgoJJgUFBQUGBQUFEPQDUJBOaAJ1UvqDQCIGCgJIAxIAogE8CJIKEi8KLQiYmQcgATDgAzjUBkACSg4KCRsFBAQEBAQEBRD0A1CQTmgCdY3jgkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiE8wUgATDgAzjUBkACSg4KCSMDAwMEAwMDAxD0A1CQTmgCdbNVhEB9AACAPyIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-10-17T14:33:53.000Z",
-        "impressions_total": 717,
+        "start_date": "2025-10-15T15:04:29.000Z",
+        "impressions_total": 9461505,
         "impressions_map": {
-          "de": 717,
+          "de": 9461505,
           "be": 0,
           "fi": 0,
           "pt": 0,
@@ -1073,94 +58,61 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "30",
               "age_groups": [],
-              "languages": [
-                "de"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "NR Marketing GmbH",
-        "profile_name": "Azubifinanzen",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRlhsblVJdUc0RFpIVGlqNk53Y0N6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4d1c8acb-4159-4573-ad16-c6d0a5dc05eb",
-        "name": "de_snapchat_social_24/7_2025_traffic_statisch_b_rico-bogen_schwimmen",
-        "ad_account_name": "OLYMP",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "24/7: Dein smarter Everyday-Look",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ODZtI9ffJw9W11gn2Td40.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-10-01T16:00:00.000Z",
-        "impressions_total": 5514,
-        "impressions_map": {
-          "de": 5514,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "34",
-              "age_groups": [],
-              "gender": "MALE",
               "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
-        "paying_advertiser_name": "nuu media - Digital Marketing & Analytics GmbH",
-        "brand_name": "OLYMP Bezner KG",
-        "profile_name": "OLYMP Bezner",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSENjck8wS0l3NzRYR0VKdmFaSlA5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.olymp.com/de_de/24seven-jersey?utm_medium=paidsocial&utm_source=snapchat&utm_campaign=de_snapchat_social_24/7_2025_traffic_prospecting&utm_content=rico-bogen-swim"
+        "paying_advertiser_name": "eBay Marketplace GmbH (USD)",
+        "profile_name": "ebay.de",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUUJ1a2NveHdnUlVtRzR6V3BrYUdSP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Gebührenfrei verkaufen?",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Gebührenfrei verkaufen? Mit eBay.",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/AgGY4jNmYe5NQjOuJpxre.67?mo=GpMCGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0InogkIAEw4AM41AZAAUoOCglNK0AkKjpLMy0Q9ANQ0i5oAnWtqWBAfQAAgD8iBgoCSAMSAKIBPAi6ChIvCi0I5dsZIAEw0AU4gApAAkoOCglGHCIaHiA9Jh4Q9ANQ0i5oAnV1OWlAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0IjJYWIAEw4AM41AZAAkoOCgk4JhYWGCMuIxwQ9ANQ0i5oAnVT7FFAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0Ita0SIAEw4AM41AZAAkoOCgk0EyARFBYpGxQQ9ANQ0i5oAnU2TlxAfQAAgD8iBgoCSAISAJAD0i4%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.ebay.de/sl/sell?norover=1&siteid=77&mkevt=1&mkrid=707-171559-274085-5&mkcid=16&chn=psoc&tracking={{ad.id}}&cid={{campaign.id}}&tag4={{adSet.id}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Gebührenfrei verkaufen? Mit eBay.",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4KUjQ8N1DI8U4XIRegGxm.67?mo=Go4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigI3v0aIAEw4AM41AZAAUoOCglAFTE2IkITIgoQ9ANQ-i5oAnUE-2tAIgYKAkgDEgCiATwIugoSLwotCMOxFSABMNAFOIAKQAJKDgoJNA4lJTMYESALEPQDUPouaAJ17Ix5QH0AAIA_IgYKAkgCEgCiATwIkgoSLwotCKPfFCABMOADONQGQAJKDgoJMw0pJBoeDSEJEPQDUPouaAJ10r5iQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCNvDESABMOADONQGQAJKDgoJLAoeICYQChoJEPQDUPouaAJ1oNxrQH0AAIA_IgYKAkgCEgCQA_ou&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.ebay.de/sl/sell?norover=1&siteid=77&mkevt=1&mkrid=707-171559-274085-5&mkcid=16&chn=psoc&tracking={{ad.id}}&cid={{campaign.id}}&tag4={{adSet.id}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Gebührenfrei verkaufen? Mit eBay.",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YUt7JSPDmeo2K7S6BV3Vz.67?mo=GokCGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigI0OUYIAEw4AM41AZAAUoOCglLMDMVORgdGBcQ9ANQwCpoAnUyNXdAIgYKAkgDEgCiATcIugoSKgooCKa1FCABMNAFOIAKQAJKDgoJXR4kDy8IIxIJEPQDUMAqaAJ1RNx9QCIGCgJIAxIAogE8CJIKEi8KLQj7vBEgATDgAzjUBkACSg4KCT8qLxkVFg8NDRD0A1DAKmgCdeghbkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjD5w4gATDgAzjUBkACSg4KCUgXGxAgBRYMBRD0A1DAKmgCdXTHckB9AACAPyIGCgJIAhIAkAPAKg%3D%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.ebay.de/sl/sell?norover=1&siteid=77&mkevt=1&mkrid=707-171559-274085-5&mkcid=16&chn=psoc&tracking={{ad.id}}&cid={{campaign.id}}&tag4={{adSet.id}}"
+              }
+            }
+          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -1170,8 +122,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "cd281f18-b5d3-4497-ae2b-4e2a005ec312",
-        "name": "Kampagnenvideo_15 Sek_Beschichten",
+        "id": "de222aa1-c8a1-4a91-90be-a172ee651b9c",
+        "name": "Kampagnenvideo_6 Sek_Allg. Cut Down",
         "ad_account_name": "Httpool AT - AT00091804 - AT_SNP_001 - baconbold – VOEST ALPINE Lehrlingskampagne",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -1180,15 +132,15 @@
         "languages": [
           "de"
         ],
-        "headline": "Schutz für #FavoriteMoments 🛡️",
+        "headline": "Euer Tag, eure #FavoriteMoments",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ARa4EC5Xs7LXUA3r2oa2o.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIh8BJIAFKDgoJVCwnPjMuMigvEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIvLY6IAFKDgoJSyEhLiogIhwjEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiI3TAgAUoOCgk5GxsnHhwcFxsQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiDtDIgAUoOCgk6HxomIB8fGBwQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiR7icgAUoOCgk3FRYgHRYWExgQ9ANoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/18NadyVIVtRSmanOHdzku.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI0_4aIAFKDgoJPVFRT0wdBQUEEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgI8tMYIAFKDgoJSj9IQEYRBwYFEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiMtBQgAUoOCgkzRTQ5NBMFBQQQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi5lBUgAUoOCgkyRTY5NxUGBQYQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiv5RAgAUoOCgk3Ki8rLwsGBAQQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
         "start_date": "2025-04-21T22:00:23.000Z",
-        "impressions_total": 1050,
+        "impressions_total": 78366,
         "impressions_map": {
-          "de": 1050,
+          "de": 78366,
           "be": 0,
           "fi": 0,
           "pt": 0,
@@ -1237,7 +189,7 @@
         "profile_name": "voestalpine",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZDFSdXE4ZVZFb05tVUFxOHo1T2NqP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.voestalpine.com/group/de/konzern/identitaet?utm_source=Snapchat&utm_campaign=MarkenkampagneWelle1&utm_content=Beschichten"
+          "url": "https://www.voestalpine.com/group/de/konzern/identitaet?utm_source=Snapchat&utm_campaign=MarkenkampagneWelle1&utm_content=allgemein"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -1247,24 +199,25 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "136c3740-f82a-4d14-b91b-4b3110303395",
-        "name": "FB_CookingASMR-Global_1080x1920_German_Story-Ad",
-        "ad_account_name": "Facebook Growth Ads",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "id": "44955036-daf5-4ec2-bb0f-e31cc95cdd9b",
+        "name": "Kampagnenvideo_6 Sek_Allg. Cut Down",
+        "ad_account_name": "Httpool AT - AT00091804 - AT_SNP_001 - baconbold – VOEST ALPINE Lehrlingskampagne",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "de",
-          "en"
+          "de"
         ],
-        "headline": "Tritt Gruppen bei und koche los",
-        "call_to_action": "DOWNLOAD",
+        "headline": "Euer Tag, eure #FavoriteMoments",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-06-05T20:09:10.000Z",
-        "impressions_total": 3076669,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/18NadyVIVtRSmanOHdzku.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI0_4aIAFKDgoJPVFRT0wdBQUEEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgI8tMYIAFKDgoJSj9IQEYRBwYFEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiMtBQgAUoOCgkzRTQ5NBMFBQQQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi5lBUgAUoOCgkyRTY5NxUGBQYQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiv5RAgAUoOCgk3Ki8rLwsGBAQQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-04-21T22:00:23.000Z",
+        "impressions_total": 58598,
         "impressions_map": {
-          "de": 3076669,
+          "de": 58598,
           "be": 0,
           "fi": 0,
           "pt": 0,
@@ -1300,8 +253,155 @@
               "min_age": "18",
               "age_groups": [],
               "languages": [
+                "en",
                 "de"
               ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Httpool Online Marketing GmbH",
+        "profile_name": "voestalpine",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZDFSdXE4ZVZFb05tVUFxOHo1T2NqP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.voestalpine.com/group/de/konzern/identitaet?utm_source=Snapchat&utm_campaign=MarkenkampagneWelle1&utm_content=allgemein"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "bad81dfa-ecfd-4d2a-a626-1b61da5460f5",
+        "name": "De_ERD_Broad_Women_Bed_Feb26",
+        "ad_account_name": "Sky Marketing Ltd. Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "de"
+        ],
+        "headline": "🎁 €29 Rabatt für Neukunden.",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/510Ytm0z0ZAnvA7LoSS6q.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjytEEgATDgAzjUBkABSg4KCU8aOA8YGkAYLBD0A1DAa2gCdUCtVUB9AACAPyIGCgJIAhIAogE8CLoKEi8KLQiC5UMgATDQBTiACkACSg4KCWEWSBAUHlcQQRD0A1DAa2gCdbQXfkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjKpCsgATDgAzjUBkACSg4KCToQHwoQFCANGxD0A1DAa2gCdeY3SUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQj6iC4gATDgAzjUBkACSg4KCUYQMAwQFDcMKxD0A1DAa2gCdTPJaUB9AACAPyIGCgJIAhIAkAPAaw%3D%3D&uc=15",
+        "start_date": "2026-02-24T13:09:37.000Z",
+        "impressions_total": 14674,
+        "impressions_map": {
+          "de": 14674,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "25",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Sky Marketing Ltd.",
+        "brand_name": "DoktorABC",
+        "web_view_properties": {
+          "url": "https://de.doktorabc.com/de/lp/ed/rtg/ssv?utm_medium=display&utm_term={{adSet.name}}&af=sp21&cmp_id={{campaign.id}}&ad_id={{ad.id}}&adset_id={{adSet.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ffb7db67-5d46-4ff0-b98f-48861afbc025",
+        "name": "SP_Concept0242_TAGS_UGC-EN_SLO-BOR_SUB-KEY_ELE-LOGO_BUT-GRY_CTA-FRI_LEN-23S_TAGE_1080x1920.mp4",
+        "ad_account_name": "Aleph AT - AT00XXXXXX - Slotpark ",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Play now on Slotpark.",
+        "call_to_action": "INSTALL_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-08-31T23:00:00.000Z",
+        "impressions_total": 1299965,
+        "impressions_map": {
+          "de": 1299965,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
             }
@@ -1310,96 +410,415 @@
             {
               "marketing_name": [],
               "model": [],
-              "os_type": "ANDROID",
+              "os_type": "iOS",
+              "os_version_min": "11.3",
               "carrier_id": [],
               "operation": "INCLUDE"
             }
           ]
         },
-        "paying_advertiser_name": "Facebook Consumer Marketing",
-        "brand_name": "Facebook",
-        "profile_name": "Facebook",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN2lmeDBOSzl6eHBwbEVTUDBCZks0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "paying_advertiser_name": "Httpool Online Marketing GmbH",
+        "brand_name": "Slotpark",
         "composite_preview": {
           "should_loop": true,
-          "title_headline": "Teile deine Lieblingsrezepte in Gruppen",
+          "title_headline": "Play now on Slotpark.",
           "ad_snaps": [
             {
               "type": "APP_INSTALL",
-              "headline": "Tritt Gruppen bei und koche los",
-              "call_to_action": "DOWNLOAD",
+              "headline": "Play now on Slotpark.",
+              "call_to_action": "INSTALL_NOW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6Irr6QyoHd1GZ4p3rBukZ.67?mo=GpkCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogEvCEMSHQobCOCIGSABShEKDEgdGRszFBIRQRobFhD0A2gCIgwKCEIGCJLyhL4GEgCiATAIugoSHQobCPDiFCABShEKDEAUFBYhDxAPPRcWFBD0A2gCIgwKCEIGCKryhL4GEgCiAS8IfxIdChsIhoMOIAFKEQoMJhIPERgLCwseEBEPEPQDaAIiDAoIQgYIqvKEvgYSAKIBMAiSChIdChsI17EOIAFKEQoMJhIQEhsLCwscEBMQEPQDaAIiDAoIQgYIqvKEvgYSAKIBMAjEChIdChsIv7oNIAFKEQoMKg0MDxUKCgopDg4NEPQDaAIiDAoIQgYIqvKEvgYSAJADmjA%3D&uc=15",
-              "brand_name": "Facebook",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JyPPRpfMcE1f6weuNUPho.67?mo=GqICGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPghDEjIKMAiOzLIBIAEw4AM41AZAAUoPCgqaAWVWV0dSO0dQEPQDUL61AWgCddhuXkB9AACAPyIGCgJIAhIAogE_CLoKEjIKMAjyhbABIAEw0AU4gApAAkoPCgrfAUxHTEE4PEdOEPQDUL61AWgCdYwxZ0B9AACAPyIGCgJIAxIAogE_CJIKEjIKMAiR_YUBIAEw4AM41AZAAkoPCgqEAVU5Qzc6KDE5EPQDUL61AWgCdaTFS0B9AACAPyIGCgJIAhIAogE_CNIKEjIKMAiFhoQBIAEw4AM41AZAAkoPCgqMATQ0ODApKzE4EPQDUL61AWgCdY5qWUB9AACAPyIGCgJIAhIAkAO-tQE%3D&uc=15",
+              "brand_name": "Slotpark",
               "app_install_preview": {
-                "app_name": "Facebook",
-                "ios_app_id": "284882215",
-                "android_app_url": "com.facebook.katana",
-                "media_download_link": "https://cf-st.sc-cdn.net/d/SShm4zxsvj5Ajdv4ETMo6.438?mo=GjUaGBoAGgAyAQQ6AX1CBgi4kuqxBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15"
-              }
-            },
-            {
-              "type": "APP_INSTALL",
-              "headline": "Tritt Gruppen bei und koche los",
-              "call_to_action": "DOWNLOAD",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Q9QfYP0eaILca9gxL6DSI.67?mo=Gp8CGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBMQhDEh0KGwi-njMgAUoRCgxwTz9dZGtYQw8yGRUQ9ANoAiIOCgpCBgjM8oS-BkgEEgCiATEIugoSHAoaCJrTKSABShAKC2Q8OEdNU0M0DTIVEPQDaAIiDgoKQgYIlPOEvgZIAhIAogExCH8SHQobCI3VHyABShEKDEkqKDY-RDwoCR4QDRD0A2gCIg4KCkIGCJTzhL4GSAISAKIBMgiSChIdChsIrecgIAFKEQoMRzIpN0NFPSgKHRIOEPQDaAIiDgoKQgYIlPOEvgZIAhIAogExCMQKEhwKGgjCqhsgAUoQCgtFJyQtMTcrIwgiDhD0A2gCIg4KCkIGCJTzhL4GSAISAJAD8C4%3D&uc=15",
-              "brand_name": "Facebook",
-              "app_install_preview": {
-                "app_name": "Facebook",
-                "ios_app_id": "284882215",
-                "android_app_url": "com.facebook.katana",
-                "media_download_link": "https://cf-st.sc-cdn.net/d/SShm4zxsvj5Ajdv4ETMo6.438?mo=GjUaGBoAGgAyAQQ6AX1CBgi4kuqxBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15"
-              }
-            },
-            {
-              "type": "APP_INSTALL",
-              "headline": "Tritt Gruppen bei und koche los",
-              "call_to_action": "DOWNLOAD",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/W5oiXwhl80XVpjDR7kVNb.67?mo=GpcCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLwhDEhsKGQjrlwYgAUoPCgokDgMECQ8IBAMDEPQDaAIiDgoKQgYI8veEvgZIAxIAogEwCLoKEhsKGQjX4wUgAUoPCgofCQUGCAcLBwQFEPQDaAIiDgoKQgYI-veEvgZIAhIAogEvCH8SGwoZCOq6ByABSg8KCi8PBAQKEA0EBAMQ9ANoAiIOCgpCBgj694S-BkgCEgCiATAIkgoSGwoZCPmiCCABSg8KCjIQBAUMEg8FBAQQ9ANoAiIOCgpCBgj694S-BkgCEgCiATAIxAoSGwoZCP2_BCABSg8KCh0HAwQGBQgFAwIQ9ANoAiIOCgpCBgj694S-BkgCEgCQA7An&uc=15",
-              "brand_name": "Facebook",
-              "app_install_preview": {
-                "app_name": "Facebook",
-                "ios_app_id": "284882215",
-                "android_app_url": "com.facebook.katana",
-                "media_download_link": "https://cf-st.sc-cdn.net/d/SShm4zxsvj5Ajdv4ETMo6.438?mo=GjUaGBoAGgAyAQQ6AX1CBgi4kuqxBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15"
-              }
-            },
-            {
-              "type": "APP_INSTALL",
-              "headline": "Tritt Gruppen bei und koche los",
-              "call_to_action": "DOWNLOAD",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0uJ4nzf2mamSpO8nNQ92J.67?mo=GpcCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLwhDEhsKGQjx5CQgAUoPCgpqSDg4KEInNTYqEPQDaAIiDgoKQgYIkPCEvgZIBBIAogEwCLoKEhsKGQjWsyMgAUoPCgpzPTUzKkApLjMoEPQDaAIiDgoKQgYI0PCEvgZIAhIAogEvCH8SGwoZCOvrGyABSg8KCks9KyoeNR0rJh0Q9ANoAiIOCgpCBgjQ8IS-BkgCEgCiATAIkgoSGwoZCITGHCABSg8KCko_KysaPB8oKiAQ9ANoAiIOCgpCBgjQ8IS-BkgCEgCiATAIxAoSGwoZCNrwFiABSg8KCkspIyAaKRoeIRkQ9ANoAiIOCgpCBgjQ8IS-BkgCEgCQA9oo&uc=15",
-              "brand_name": "Facebook",
-              "app_install_preview": {
-                "app_name": "Facebook",
-                "ios_app_id": "284882215",
-                "android_app_url": "com.facebook.katana",
-                "media_download_link": "https://cf-st.sc-cdn.net/d/SShm4zxsvj5Ajdv4ETMo6.438?mo=GjUaGBoAGgAyAQQ6AX1CBgi4kuqxBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15"
-              }
-            },
-            {
-              "type": "APP_INSTALL",
-              "headline": "Tritt Gruppen bei und koche los",
-              "call_to_action": "DOWNLOAD",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/euXReWXMpcw2lgiBeiM4Y.67?mo=Gp0CGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBMAhDEhwKGgikiDYgAUoQCgt_T0IzPlA8UT1RUBD0A2gCIg4KCkIGCKT3hL4GSAMSAKIBMgi6ChIdChsI4fIuIAFKEQoMigFIQDQ3TCo0MD87EPQDaAIiDgoKQgYI7_eEvgZIAhIAogEwCH8SHAoaCKz-IyABShAKC183LiMmOSEtJjwxEPQDaAIiDgoKQgYI7_eEvgZIAhIAogExCJIKEhwKGgjs_yQgAUoQCgtfOTAlKTkkNSE8MhD0A2gCIg4KCkIGCO_3hL4GSAISAKIBMQjEChIcChoI4qgeIAFKEAoLVi8rIiUsHSIhKCcQ9ANoAiIOCgpCBgjv94S-BkgCEgCQA8gu&uc=15",
-              "brand_name": "Facebook",
-              "app_install_preview": {
-                "app_name": "Facebook",
-                "ios_app_id": "284882215",
-                "android_app_url": "com.facebook.katana",
-                "media_download_link": "https://cf-st.sc-cdn.net/d/SShm4zxsvj5Ajdv4ETMo6.438?mo=GjUaGBoAGgAyAQQ6AX1CBgi4kuqxBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15"
+                "app_name": "Slotpark",
+                "ios_app_id": "739699649",
+                "android_app_url": "com.platogo.pmp",
+                "media_download_link": "https://cf-st.sc-cdn.net/d/FqJqr1RYX3vSXz3bvT8Ad.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+                "enable_skoverlay": true
               }
             }
           ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "837c12cf-ff54-4fa2-ac6a-600679ee527c",
+        "name": "V1_male- Regular ChatGPT is dead.mp4",
+        "ad_account_name": "PAGEPILOT #1",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Create A Sopify Product Page in 1s",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/7S1Ao7fvZaLiBAlC62gwJ.67?mo=Gv8DGg4aABoAMgEEOgF9UA9gAVoIQWRzTWVkaWGiAUAIQxIsCiogAUomCiFuTE1OSztGOjAwHEo3NTpROiY8NRwuIBYXHB1KKzc8PCAQ9AMiDgoKQgYI2K3fqQZIAhIAogFACF0SLAoqIAFKJgohUzs3ODIrMDEpHBY3KCIjOTQdNxwZJBwTIBsZNx4fKiQfEPQDIg4KCkIGCNit36kGSAISAKIBTggmEjoKOCABSjQKL8MBkAGdAaoBmgGfAY4BZl8xJZ4BjAF5lwG-AX9EbTUvQy0aMScogQFQe64BlQEpEPQDIg4KCkIGCPCw36kGSAMSAKIBQAglEiwKKiABSiYKIXdUUWFXR1E9OyAYWERES2NLJzkdGysbEyEbGUguOFZJHhD0AyIOCgpCBgjwsN-pBkgCEgCiAUEIuAoSLAoqIAFKJgohdys4PzwtLygiDg8zKCYrNCgSJyweEBMLDBQQLiAYKycPEPQDIg4KCkIGCPCw36kGSAISAKIBQAh_EiwKKiABSiYKIVM0MTwxKC0kHhIOMyYlKTUpFyEfEBsSCwwQDykcHSwkFRD0AyIOCgpCBgjwsN-pBkgCEgCiAUEIkgoSLAoqIAFKJgohVTQ1OjcqMSciFBE1KCgvNisaIh8RHRINDRIRKSAgLScXEPQDIg4KCkIGCPCw36kGSAISAA%3D%3D&uc=15",
+        "start_date": "2023-10-24T10:13:14.000Z",
+        "impressions_total": 87435,
+        "impressions_map": {
+          "de": 2992,
+          "be": 0,
+          "fi": 0,
+          "pt": 19283,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 819,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 33852,
+          "es": 24463,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 6026,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": []
+            }
+          ]
+        },
+        "paying_advertiser_name": "GMN MARKETING LLC",
+        "profile_name": "PagePilot.ai",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QveG9EYWxmWW9rck50ZEJmdDlyWnNqP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://pagepilot.ai/?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "6028ee4c-7a71-4ed6-aad7-6fd7f4242285",
+        "name": "video-motiv_vedat",
+        "ad_account_name": "Hamburger Energienetze",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "de"
+        ],
+        "headline": "Mach Deine Ausbildung bei uns",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oVVnkTiYEy4v0ZMLOx7SQ.67?mo=Gv4BGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCJeQFyABMOADONQGQAFKDgoJTgwLCwsUEAkIEPQDUMhlaAJ1ApyBQCICEgCiATQIugoSKwopCPPcGiABMNAFOIAKQAJKDwoKhwEMDQ0RERMMCxD0A1DIZWgCdcamiUAiAhIAogE4CJIKEi8KLQjKvRIgATDgAzjUBkACSg4KCTYKCgkLERAICBD0A1DIZWgCdfD0eUB9AACAPyICEgCiATgI0goSLwotCIWIEyABMOADONQGQAJKDgoJWwoJCgwNDwgHEPQDUMhlaAJ1GXOEQH0AAIA_IgISAJADyGU%3D&uc=15",
+        "start_date": "2026-02-18T17:00:05.000Z",
+        "impressions_total": 877349,
+        "impressions_map": {
+          "de": 877349,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "15",
+              "max_age": "28",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Syzygy Performance Marketing GmbH",
+        "brand_name": "Hamburger Energienetze",
+        "web_view_properties": {
+          "url": "https://www.hamburger-energienetze.de/karriere/karrierestart/ausbildung/rohrleitungsbauer?mtm_campaign=agm_kampagne_h1_2026_ausbildung&mtm_source=snap&mtm_medium=video_ad&mtm_content=vedat_rohrleitungsbauer"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "bf37cd2c-f370-4424-b0c8-2e1535cc4685",
+        "name": "ROT563 Messe-Besucher A2",
+        "ad_account_name": "Landratsamt Rottal-Inn",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "de"
+        ],
+        "headline": "Berufswahl Rottal-Inn",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OT3AFqHBDy8V56IAlKV7R.67?mo=GoUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBNwhDEi8KLQiIvwggATDgAzjUBkABSg4KCS8ECAIEAgEBABD0A1CQTmgCdQeUhEB9AACAPyICEgCiATgIugoSLwotCK-7BiABMNAFOIAKQAJKDgoJVQQFAQMCAQAAEPQDUJBOaAJ1yqOKQH0AAIA_IgISAKIBOAiSChIvCi0Im_8FIAEw4AM41AZAAkoOCgkeAwgBBQECAQEQ9ANQkE5oAnU_Z39AfQAAgD8iAhIAogE4CNIKEi8KLQj__AQgATDgAzjUBkACSg4KCT4EBgMAAgEAABD0A1CQTmgCdTIBhUB9AACAPyICEgCQA5BO&uc=15",
+        "start_date": "2025-09-24T07:33:46.000Z",
+        "impressions_total": 679,
+        "impressions_map": {
+          "de": 344,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 335,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "25",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "BOLD Marketing + Development GmbH",
+        "brand_name": "Landkreis Rottal-Inn",
+        "web_view_properties": {
+          "url": "https://www.berufswahl-rottal-inn.de/messe-berufswahl-rottal-inn/besucher/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "38c4e45f-b1ab-44b1-9544-4f49a3c5e149",
+        "name": "de_snapchat_social_24/7_2025_traffic_video_e_rico-bogen_fahrrad",
+        "ad_account_name": "OLYMP",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "24/7: Dein smarter Everyday-Look",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VyeLV4f4SKSvIaKCZmKmQ.67?mo=GvsBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBMghDEioKKAjhsQUgATDgAzjUBkABSg4KCTYCEQcBAQEBABD0A1DYNmgCdSIsdEAiAhIAogEzCLoKEioKKAjtuwYgATDQBTiACkACSg4KCVACCwUDAQABABD0A1DYNmgCdVzphEAiAhIAogE4CJIKEi8KLQjFhAQgATDgAzjUBkACSg4KCR8BEQYCAQEBARD0A1DYNmgCdYrGaEB9AACAPyICEgCiATgI0goSLwotCOvLBCABMOADONQGQAJKDgoJMwILBQMBAAAAEPQDUNg2aAJ1SqZ5QH0AAIA_IgISAJAD2DY%3D&uc=15",
+        "start_date": "2025-10-01T16:00:00.000Z",
+        "impressions_total": 10432,
+        "impressions_map": {
+          "de": 10432,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "nuu media - Digital Marketing & Analytics GmbH",
+        "brand_name": "OLYMP Bezner KG",
+        "profile_name": "OLYMP Bezner",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSENjck8wS0l3NzRYR0VKdmFaSlA5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.olymp.com/de_de/24seven-jersey?utm_medium=paidsocial&utm_source=snapchat&utm_campaign=de_snapchat_social_24/7_2025_traffic_prospecting&utm_content=rico-bogen-bike"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d0c5e0bd-7bcc-4115-b6c9-f2508c5da7bb",
+        "name": "Copy of FASH_SingleVID_06s_JvM_Johanna1",
+        "ad_account_name": "DE_Strategic ",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "de"
+        ],
+        "headline": "Easy und kostenlos verkaufen!",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GGhkJgH4y7MmPGywdlyPX.67?mo=GvwBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAiVyBEgAUoOCgk7GRAKIxoiJQgQ9ANoAiICEgCiASMIugoSGgoYCPGVESABSg4KCUcVEgsdFSEZChD0A2gCIgISAKIBIgh_EhoKGAi3tA0gAUoOCgkoGQ4JExQYFAgQ9ANoAiICEgCiASMIkgoSGgoYCLWKDiABSg4KCSkZDgsVFRkVCRD0A2gCIgISAKIBIwjEChIaChgIrdgLIAFKDgoJKw4LBxUNFRsGEPQDaAIiAhIAogEjCNIKEhoKGAiyowwgAUoOCgksEAsIFg4YHQYQ9ANoAiICEgCQA-4t&uc=15",
+        "start_date": "2025-06-06T07:00:00.000Z",
+        "impressions_total": 1219379,
+        "impressions_map": {
+          "de": 1219379,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "eBay Marketplace GmbH (USD)",
+        "brand_name": "eBay",
+        "profile_name": "ebay.de",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUUJ1a2NveHdnUlVtRzR6V3BrYUdSP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.ebay.de/sl/sell?norover=1&siteid=77&mkevt=1&mkrid=707-171559-274085-5&mkcid=16&chn=psoc&tracking={{ad.id}}&cid={{campaign.id}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

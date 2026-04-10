@@ -319,15 +319,15 @@ Trendyol: 18 creators, 132 content pieces. TEMU_FR: 13 creators, 19 pieces.
 
 | Use Case | Primary Table | Key Fields | Data Exists | Rows Available |
 | --- | --- | --- | --- | --- |
-| 1. Spend Range | `brand_ads_fashion` | `impressions_total`, `creative_type`, `country` | Yes | 4,625 |
-| 2. Share of Voice | `brand_ads_fashion` | `impressions_total`, `paying_advertiser_name` | Yes | 4,625 |
-| 3. Geographic | `brand_ads_fashion` | `impressions_total`, `country` | Yes | 4,625 |
-| 4. Campaign Intensity | `brand_ads_fashion` | `start_date`, `paying_advertiser_name` | Yes | 4,625 |
-| 5. Creative Signal | `brand_ads_fashion` | `creative_type`, `ad_render_type` | Yes | 4,625 |
-| 6. Targeting Signal | `brand_ads_fashion` | `targeting_v2` | Yes | 4,625 |
+| 1. Spend Range | `brand_ads_fashion` | `impressions_total`, `creative_type`, `country` | Yes | 5,701 |
+| 2. Share of Voice | `brand_ads_fashion` | `impressions_total`, `paying_advertiser_name` | Yes | 5,701 |
+| 3. Geographic | `brand_ads_fashion` | `impressions_total`, `country` | Yes | 5,701 |
+| 4. Campaign Intensity | `brand_ads_fashion` | `start_date`, `paying_advertiser_name` | Yes | 5,701 |
+| 5. Creative Signal | `brand_ads_fashion` | `creative_type`, `ad_render_type` | Yes | 5,701 |
+| 6. Targeting Signal | `brand_ads_fashion` | `targeting_v2` | Yes | 5,701 |
 | 7. Sponsored Proxy | `sponsored_content` | `sponsor_name`, `creator_name` | Yes (8% named) | 230,267 |
 | 8. Political Validation | `political_ads` | `spend`, `impressions` | Yes (real spend) | 74,609 |
-| 9. Seasonal Patterns | `brand_ads_fashion` | `start_date` | Yes | 4,625 |
+| 9. Seasonal Patterns | `brand_ads_fashion` | `start_date` | Yes | 5,701 |
 | 10. Cross-Platform | External + `brand_ads_fashion` | Meta Ad Library reference | Partial | N/A |
 
 ---

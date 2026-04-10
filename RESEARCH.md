@@ -160,19 +160,19 @@ The `/ads/search` endpoint appears to enforce strong anti-automation controls. T
 
 Note that we have not even been able to get full records for some companies, those limits are that aggressive. Yet it seems like it is solvable with use of some clever engineering and massive IP pools. Apify seems to be able to download those.
 
-#### What we actually see (from ~39k logged requests)
+#### What we actually see (final crawl — ~57k logged requests)
 
-Our production fetcher (Webshare datacenter rotating proxy, fashion brand list, all 28 EU countries) logged:
+Our production fetcher (Webshare datacenter rotating proxy, 216 fashion brand list, 27 EU countries) logged ~57,300 requests across multiple retry passes:
 
-| Status | Count | Share |
+| Status | Cells | Share |
 | --- | --- | --- |
-| `rate_limited` (E1009) | ~28,200 | ~71% |
-| `no_ads` (0 results, no error) | ~2,300 | ~6% |
-| `fetched` (real data) | ~1,400 | ~4% |
+| `no_ads` (0 results, confirmed empty) | 5,079 | 87.5% |
+| `rate_limited` (E1009, unresolved) | 407 | 7.0% |
+| `fetched` (real data) | 319 | 5.5% |
 
-The **dominant failure mode is E1009 rate limiting**, not silent zero-result responses. Many brand+country pairs were successfully fetched multiple times across different proxy IPs (e.g. Nike/DE 59×, Jordan/DE 79×, Only/DE 82×), which means the rate limit resets — it is not a permanent one-shot-per-IP lock.
+**93% of all brand×country cells resolved** (fetched or confirmed no_ads). The remaining 7% are stuck behind persistent rate limits. The **dominant failure mode is E1009 rate limiting**, not silent zero-result responses. Many brand+country pairs were successfully fetched multiple times across different proxy IPs, which means the rate limit resets — it is not a permanent one-shot-per-IP lock.
 
-Only 1 out of 449 brand+country combos with data (Oakley/ES) also received a `no_ads` response on a separate request, which could indicate a soft block. But at 0.2% incidence, this is rare — most `no_ads` responses appear to be genuinely empty (small brand in a small market).
+Soft blocks are rare — most `no_ads` responses are genuinely empty (small brand in a small market).
 
 #### Rate limit budget and cooldown
 
@@ -187,7 +187,7 @@ Early GCP Cloud Run experiments showed a "soft block" pattern (HTTP 200, `reques
 | IP Source | Observed response | Seen on |
 | --- | --- | --- |
 | **GCP Cloud Run** (direct, no proxy) | HTTP 200, `"SUCCESS"`, `ads: []` (soft block) | GCP us-central1, us-west1 |
-| **Webshare DC rotating** (production) | HTTP 200, `"E1009"`, "Too many requests" (hard block) | Production fetcher (~39k requests) |
+| **Webshare DC rotating** (production) | HTTP 200, `"E1009"`, "Too many requests" (hard block) | Production fetcher (~57k requests) |
 | **Evomi residential rotating** | HTTP 200, `"E1009"`, "Too many requests" (hard block) | Early test (60 requests) |
 
 The soft block pattern appears specific to GCP's own IP ranges, not datacenter IPs in general. The production Webshare DC proxy gets explicit E1009 errors — which are easy to detect and retry.
@@ -226,11 +226,11 @@ An IP that returned data went to E1009 within seconds and did not recover during
 
 | Proxy Type | Provider | Sample Size | Success Rate | Block Type | Notes |
 | --- | --- | --- | --- | --- | --- |
-| **DC rotating** | Webshare | ~39,000 requests | **~3.7%** | E1009 hard block | Production fetcher; accumulates via retry passes |
+| **DC rotating** | Webshare | ~57,300 requests | **~9%** | E1009 hard block | Production fetcher; accumulates via multi-pass retry (93% cells resolved) |
 | **Residential rotating** | Evomi | 60 requests | **0%** | E1009 hard block | Early test; untested at scale |
 | **GCP Cloud Run** (direct) | GCP | ~12 requests | **~17%** | Soft block (0 ads) | Early POC; subnet-level throttling |
 
-The production fetcher uses **Webshare datacenter rotating proxy** at ~3.7% per-request success (1,440 out of ~39k requests). Low per-request, but the multi-pass retry strategy accumulates results — 98 brands across 22 countries so far.
+The production fetcher uses **Webshare datacenter rotating proxy** at ~9% per-request success (~57,300 total requests). Low per-request, but the multi-pass retry strategy resolves 93% of cells — 100 brands with ads across 23 countries in the final dataset.
 
 #### Pagination compounds the problem
 
@@ -242,16 +242,16 @@ The production fetcher uses **Webshare datacenter rotating proxy** at ~3.7% per-
 
 **Cursor-scoped rate limiting**: For `/sponsored_content`, the rate limit is tied to the cursor/session, not purely per-IP. A rotating proxy does not bypass it — a steady ~30s interval between pages is what matters. For `/ads/search`, the rate limit appears per-IP, so a rotating proxy is effective.
 
-**Impact with rotating proxy**: Every page request from `/ads/search` gets a different exit IP. At ~3.7% per-request success rate, completing multi-page brands in a single pass is unlikely. Our solution: save the cursor to disk and retry across multiple passes, needing only 1 fresh successful request per remaining page.
+**Impact with rotating proxy**: Every page request from `/ads/search` gets a different exit IP. At ~9% per-request success rate, completing multi-page brands in a single pass is unlikely. Our solution: save the cursor to disk and retry across multiple passes, needing only 1 fresh successful request per remaining page.
 
 #### Practical impact on data collection
 
-Current production run (Fashion & Beauty, 215 brands × 31 countries including 28 EU + ch, gb, no, us):
-- **~39,400 HTTP requests** logged so far
-- **98 brands** with data across **22 countries** (449 unique brand+country combos)
-- **13,116 ads** fetched (page-1 results; pagination for additional pages still in progress for some)
-- **117 brands** with zero data so far — mix of genuinely inactive brands and still-rate-limited ones
-- Multi-pass retry strategy accumulates results over hours/days
+Final production run (Fashion & Beauty, 216 brands × 27 EU countries):
+- **~57,300 HTTP requests** across multiple retry passes
+- **100 brands** with data across **23 countries** (720 unique brand×country cells with ads)
+- **5,701 ad rows** in DuckDB (4,089 unique ads, 435 distinct advertisers)
+- **5,079 cells** confirmed empty (no ads), **407 cells** still rate-limited (7%)
+- Multi-pass retry strategy resolved 93% of all brand×country cells
 
 The API is technically "public" and "unauthenticated," but the rate limiting makes bulk data collection require proxy infrastructure. The irony: this is a DSA-mandated transparency tool.
 
@@ -267,7 +267,7 @@ The API has **no way to list advertisers**. There is no wildcard search, no "lis
 
 - **`paying_advertiser_name` is required.** Omitting it or sending `""` returns E3024 validation error.
 - **Fuzzy/prefix matching works.** The field matches against the legal entity name (e.g., "Nike, Inc."), but brand-name inputs ("Nike", "Zalando", "Ikea") also work — the API does fuzzy/prefix matching. Case-insensitive.
-- **Single-character queries pass validation** but are useless in practice. Searching `"a"` returns results for some advertiser starting with "a", but combined with rate limits (~3.7% success), you'd burn thousands of requests to enumerate a single letter.
+- **Single-character queries pass validation** but are useless in practice. Searching `"a"` returns results for some advertiser starting with "a", but combined with rate limits (~9% success), you'd burn thousands of requests to enumerate a single letter.
 - **The response reveals the full legal entity name** in `paying_advertiser_name` (e.g., "Nike, Inc.", "adidas AG", "Spotify USA Inc."). So once you find a brand, you learn the legal name — but you need to know the brand first.
 - **No cross-referencing possible.** You cannot search by category, industry, spend level, impression count, or any other dimension. The only input is a name string.
 
@@ -294,8 +294,8 @@ Potential discovery channels (untested):
 
 ### Workaround Strategy (What We Built)
 
-1. **Brand dictionary**: Curated list of 215 Fashion & Beauty brands from Ravineo's target verticals
-2. **Rotating datacenter proxy** (Webshare): ~3.7% per-request success rate, accumulates over multiple retry passes across 31 countries
+1. **Brand dictionary**: Curated list of 216 Fashion & Beauty brands from Ravineo's target verticals
+2. **Rotating datacenter proxy** (Webshare): ~9% per-request success rate, accumulates over multiple retry passes across 27 EU countries
 3. **Cursor persistence**: Pagination state saved to disk; each retry resumes from where it left off
 4. **Never-regress policy**: Code refuses to overwrite existing data with fewer results (protects against data loss)
 5. **Status matrix**: Per-brand × per-country tracking showing fetched/partial/empty/blocked at a glance

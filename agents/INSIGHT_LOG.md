@@ -82,7 +82,7 @@ Use this format for every new learning:
   - **Decision:** adopt now
 
 - **Insight:** Share of Voice (impression share) is the most robust competitive spend proxy because ratio cancels CPM uncertainty. Nike holds 24.1% of fashion ad impressions on Snapchat EU — this relative ranking is stable regardless of actual CPM.
-  - **Confidence label:** measured (computed from `brand_ads_fashion` across 4,625 ads)
+  - **Confidence label:** measured (computed from `brand_ads_fashion` across 5,701 ads)
   - **Source URL:** N/A (repository data)
   - **Evidence type:** DuckDB query
   - **Impact on Snapchat prototype:** make Share of Voice the primary competitive metric, ahead of absolute spend estimates.
