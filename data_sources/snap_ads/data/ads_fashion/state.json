@@ -388,8 +388,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-10T07:56:49.022Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9AZOjl6M9nXHi68EGqLz58TXyvZdz2CsmqPsMye-pK0Qeekx_PhxN3NaI_3PFkUutHwDqSnLpkH-7vdgak0jNCCAMWXUkMiXoVQeQb1EOmPtORlPKcIw8sO--vKkX0i8MilzYJrl2cxQ_vhgMHapQs0ZwMQiesgb83BqXZBqkcugp_QZHPyFmF27kAUKb-xYND8EVrlvTqtpwyO4_44v8WzzeFaSLyZKXsVUEixGHbXFqnt-V86dYLiAxYlC_4oBfwDoOdmDdED6JvkcCsc5LwruQfMWu0J8qnie5FrV1dK4llRKx4YB2WEySQXsEzVdutVYkKOHcGmv3AwYXHWrfy_c9jnD1iLHcyZWu3JyTe9RdBn2TDPkG10zoIq21HhI_LTizgQPHTcNPLtAptQTKaP1odjpfS9o-W8vpgAY0Fih0BdrMeGLRO27Kl9bLdYc14j3d8YP0B1bQe9PIl7pb3JWxoLSHFcSRAQv05nHW94qNdJW4B3Fg44JhKEuuThcAc4zrKwkkuGxTnUbQuuAMKKZ5a2cvOtx7pnupd_NMUPx2k_GNKh3XoL0eG5OyXyN-4RsvaKfBhahaFVdMw-EiyZVAJEN1ktCIdt5eEDD7ExwJBTBWNzo0g0-KXtFhM8N9u-oxoZ_GIIGakF4sH6AMLjympTtwzzuQHwrKEEAw_yNlCbnN137PYS2uDVfo9t7w70aZJqwNVNkwiE3AhPKmqOIFm1rVWKhnotfdRkK0XkfOAnm9FUvfIuNPXUakzWhXENqsaj2jDWIwynCGLbwyl7f4iNcrhtMaWFdsiENuqbQe3JqEQJn3bF5SKtQS6eaZ49bVKlMF8vKzpPax2zPLxhS2iNsKHqe9m-_hVxRhrTe9kFifc0S0bGUjhH7BoRVT-Sx_Gcdoi4kaONRXLCr3b3FCfUCuR-lV7gQcuculSZXlRhPTHev4kfJz5_jbpHRY4ZSi1ke80mxmhhZMeSKsh4izE7Or1rgq2x7_D31Y-Hf3CDKkz6jSU3a-skxOagxyn5a60ldmoCEyRg5_ih-T4IYw3NsdW2eyjh9D1SC3Mwr3hu8E1mQg44UuKkyGu_91rBgbwsJzrQ2CcCt4nQ5j4Apz2ppeOiZ76eaG-uSg4-cWgZ4PungxIzODmXPaqRBnmxJkmO9Vy2Kq0O8b2ktUVeloUMHjBoMo5uinarC-nywdYohIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1NzgwNTQxODQ2&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Loewe::de": {
       "status": "no_ads",
@@ -1079,8 +1078,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-10T07:52:06.313Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9wZfURt5lMY_AVm4RV3t-7EabmZB9pJCNxzc8ru-Vec_JZeWynz9861ENljk5_nGxzG1KQuKvxG2VkEQ8HEXwpdorJZpohlBSo-KfbmeFvN8W5SyBNpAthbEhPxYEMIII50qcC3bJQSqRUiWjdeifIRp9A56uWI5gb7taBdfgQASdwZz5eF5sCum13kUGC4n_DUArLbwYmVVMBDisEXpdaKBfDh9GMtrQEWNlbr9whCEoC5Lsn8GF7d8PIRTkDQUabTCK3E6dF02Wgjw3bcoPuS4ifuItEwhDftLlo_ZaCv0YFiGFwzey043wx6RI8hsmvzDA85-CitMk4Fg44irphiBEqDfLQemq13Bp89VppXcx4DOY-WtqL7u1m-uQUShNFgIFe-bcKCIqMQm7kxp6ZLC1m6yBtwcIABQPzyL8DPSYxagAKPTD-8ioG-_xQoDvtsNY20SAIpQliVIlYM5wqb5QpXI_Ytv-xTvoSFlbJB731w20fEkAneLAWCXnuCkVWGdyAtbgzWbvmQH0o6AhQixxFYWVxd7t0fMk3PgzcFNZ8e4NryWwqdeCNQkZsZ45p4JqH-P9V9LHiguHcEWR3eJTBe8nO9y14T8P_rDaKA1ABZQJTzDVsw7Ww2EHARqs6U1pCcF0hPiV5lEKQzq57xKTXnYcWG51UMkeTExkPYHWonTu69O4QZRZfS2CwzJg5TLgmodpSiapdM34ODUuwymltwFtw5sp8LjN5tlCAtQB3umoyTvKtXPZXkFSDXW6uBql00KN_SxnP9baE4Vd_Lu4fOEaXpXOAoHs0dPfVDICD0EM62bG-_tG3V-vWJfB0XhvQmx605M4iTnc_ULK2euEPkkZtaYhxLNoTdZxN71gvjMBYotut_uZlXSFqVET0vuwTUYWinZxi4lUcXLfZXdP-cvjCumM4XqBcw7avqR_gIew2oUPgq6KMXINyBKvrjDfgcxRkUDWs7BemGkBVybz4b699sXLkOVD--I3EQVFLNoa52bgtvwBX19kMKGhOr0h4WYA3PfT9hXWKv94vCLX-ixY-k_yvjsPLhGCExvx5uMpgvesEywe_kMMIwufeGYblCkOx95m30rSo78qqifYTa-nPCYThpUXfy1kI7yqGp7j5BKnCe75Io6g-AJ8nMW3Z0LrJRic7kHTnD8xydbpGl4ruxuYRoMxgblfPDI6MCywhl_IhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1NzgwNTQxODQ2&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "L'Oreal::si": {
       "status": "no_ads",
@@ -4346,8 +4344,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-10T07:56:52.355Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9gbXudNgu8TRvwLYn5q862yndSCUKr56AoUXK-pNM6W73haecsXpabhw3VGeaSUxCEnZDIlkv_zcOjLXelKhi9QswsPFZjidDUZwXcYe-NpQwAqvRHYJQw50ljy3G8GxZOtWGA3-jSHHRhO0oD7mpStvAFPx0wcEM_7NnHYqkFRVEeO-DqqbUnDEC6oehNgQx_78l_8iFo1ScWrgyZKOI0arzPo6qM6_Xo3NxNNWx0FeAVtJ6hgUw6bYY6dN83BpYCSbQmBJ70X7KlsW-wb3Bj5hpHYFKxX5n-zaWZaFO5FXizzPnBVpdMJ1LOMASuWgIufNShx_XYMUgcyupXm9I0FqAlIXw6mlVjtile3shk5ijEazvhPtHgoJp_JCqJdyWdRgBESVWvv7VRarBn7QxMfifnzOwKSIrfStELozs2d_Y4fbYI7ilToysDDWiy6wLQTtNSnX8he1wZnWJb-cWpxWJv3mYa_60Nokn7qic5OywVCMa1F9T0hZ977I5vSpLD6Pu3HP8odPvL-ukAYgQE4TpnKz31PEFKxGzQlQtOeOWWY-YohfxxFuMYNBGDKUahLBLn-iTYKzuY_-jBYSthqg5u2wvyAftzUlgdFKCEpoVbZhKJt681K_6qtGqBU10ePsgWkShTuEvHy4Y4tuPIRcEqQZGN7QY1sCe95MWDonGf6wjrblQoYMN4nrTBaqeuSa67ce0vgArw357Vt6aO49AVcuApSMpG8CqG-Kpf5bTCxJ4qCFKzAID2ohktCqdOXIvKj7RAMfXF7qDms7BOwNzR21kF6cNNbUo8G8HAeXG77iwcSMzHC7RdD-6xRD-XYfu_Ngw9gGXDMk7S5wqVoPiiSphrAmtqreWCUscoxdJglM8WfJnf9BcMGXm09ao0AlaoUpNlDAXlBuly9G1wtbk2knr8L0L1EM5EJ6PUaTMAJWzgiQDFTMvuJR3qrTvyztsjErUvNcU26fvJdD-HCq7BMfJokiXhIeyhkU8jkqpflzKrXy4wqp6lBaxa_Dey3RXFXLRCaFnFKtqqDlxjo0SAoq7pyrot2ojCuFZ-FDKy1t6FUkrZMmTObJ_OyTaAyX_nqnEjevYtgXjnIqTrnqeqqsH_uptWdgKOK38k1ZbCkPaKVo3XqfGIQGRYO48lnl3vZadlAPv5-zOA1FEzMgDAar8-BmGgxHSZc53rpUv-ARi8AiHGFkc2FwaXNjLWJpZ3F1ZXJ5LXBhZ2luYXRpb24qDTE3NzU3ODA1NDE4NDY%3D&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Celine::hu": {
       "status": "no_ads",
@@ -7070,8 +7067,7 @@
     "ASOS::fr": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-10T07:51:58.879Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "ASOS::hu": {
       "status": "no_ads",
@@ -16221,8 +16217,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-10T08:01:37.512Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9AbhLbI3QZ_z5_DZUI3QKY_raBqPtQmB747oFDwckfR627g1wX_0TgC-lPkmZyqHZ5FmGn46sE-YJXc11_xCnMeXa0SZ6KRKfYttfYkP1Qcx3nMJz-GCZkUV6mPEjpYaL7014K9fet21XScjrZ7yGe9AYnIkhteCFutwQvzNTGa_l07ew_zJ3vw2O1yeFWO207rCgr1B0Ve6yiImR4CrPa0ZP1YgnffXCX0Og1oNkuNoz17sYZCE8s-NXS3kNYvO_zeOawBcX_mg97CVkdKYv02PQf3U9Y6qplRNz4swRQO8H0b3PV8XsmDnIJRcQA8ZOL2VHXk5kMS_plVSGQ3aL27k6x341rtqBuIt1nVWNAb6d61cOOg0oqxMzYBF7ox1dJVFams0UVsvJjz_dzxWWfIYDX-Uu_zSgQHxBrdI8E_hlq7mJGB-mNA1jY0rmDQ4CSpYblDO-0T3ZXmjyeKZfU0x1ZVKYFVoCbg2Ka8BkBU-DoeCwso6bRZhm6GUj3cIBurNMt4dlH09eW1GrGjfCGlwOL75HtqpsQD_bt21MdxrQyL1plTxH6tS6owhu2c8K5sjlqBKiPrp2sRe2fB68-Ceu7tzqruvxNSgJulL8_7PDCgrT67uqsJrc_gdYTWJHIOgOkWQuHtiv7Q-564fjSuaCgUvom_Fz7U_MdMtPrtPmerzHrluNBjr9EZ-5YZYHUCQIIP_T73BekZrCYgbC7MVzwakBQz3AraJi1Bif57_OSGJJg7Zx7CwcGi2-SiL3RYTPKDL09sgBXhfoV9zOhKuRXJAQ5pPBik2i-u_UqJsVV2Bvyw5gRTy04G47xUQBSMHD_JC0XFlO2M-cb1p52nFx2WcMRbqEC0hB-d7im-6iQrEETMsLhF1Q5T3bzCeERm3g2bhy24Yk6ei4iefenvynpKHO43k8_UnsbLwz27VA3CuDZlhFW6E1nLFtydoDxoHbpMjAMF6pAxbjHPJ9iAvWupaaufXQWvDwuKK81D0iJ6v_PBg9zAbKa6s4wGvdmbc7mWmeNW4lUFxtfr21oT7WhdrPonED95Hglt8owUt5u5eT6Yl90ClyqApWU8pMjDGAo2pIyhNEkLLJ4WmJqhlm8GRAr2feL5I6oHos76ypfm7KA-oAfc0rq2EWKv-DrnBX9idakhzYubdUyQOw3DEhVbvcBoMXCpp3FS2JDB8-mopIhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1NzgwNTQxODQ2&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Guess::hu": {
       "status": "no_ads",
@@ -17613,8 +17608,7 @@
     "Prada::fr": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-10T07:44:52.973Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "error": "E1009"
     },
     "Prada::hu": {
       "status": "no_ads",
@@ -21803,7 +21797,9 @@
     "adidas::fr": {
       "status": "rate_limited",
       "ads_count": 10,
-      "error": "E1009"
+      "fetched_at": "2026-04-10T08:06:34.364Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES7Abu_5nxmprrtkZTTLfd4D70-juyEFlX5ic7PLKTCHue4FvpRyNT3x93U0Hbnof3Iu2gJQVq194leZgMSw-KloffIxGIpXQv6BVZpo48X6xe7brsRFqz5buIFLSdO9_uZp-HABMyuClbq8Gwn24-lzfk03T2GIY_WTh15nRNJJBfTwgU98gk5zIytSIs630lKrt9nmV4hzcQozRXIgP2WRpGEzsn__w3DclPvHNImMm98e645BQvRNNiN8igA6vvUx6B-bv1YFlLK1DMghSIl2qnC4zURdkLGaQULZsIGJ66FeTNM9J6EWeIE0WOf6i73QpexRs43eG4lnmEzB2Re9xQTSLmwgcS7igsBLSU_6v61XHnHNWodA6v7W2pwLavT68QUyVUkQHOVykc9CAqMA4Xh_SB-oaGY7XUv4J9WSFA5F9w_irh5hr3H8CgTJtJEmF9Wmg84A3IiCvpvZ5UXr9v69iNE8vO69Tydjb8KVNTukcp_6hRYMSTEAxj1QDcEjYcXCwcU7SANYghc0mXsg2QBJuUhHSJfVh6bpEDAlyFrotVeA40noeYu2sq_-AHK-Wr4OYZ8kEMaJCCL3MchEJ7uJj1qpUAUQym6X3XraVcMyX3y3RCiHl6PRnqKSqkb3IEm2fdgFkpM2rCyL4P2THb7nw55O0YNKhmu0E5htzqZvZW_VCnaOkrCl5GgS571w5BOPxN4XzxlQULmRyunfu130zZluOigNyvv28EK0r1_QsOoJpNtQ2IlB8yW58-8Ek9kCwq_tUO3x6xUPH3VtvmK2XMS6AItD3fVDHClvyxapYc6IN4dl5QYiUaj4el8hHQww4WjFLs1-Y2ETvaN0tSKBUynczj4L7Gu8iaU7Tp-MZU6LeyQ5-g94qGuX3V7sCsRxZbhLm9O-2kRkr3282JJmk22G9zeznvyjeKj8x1421Bfm1b5-5DqPXm-Aq0zPNJwvuW07iY-VgTPOQ-KxqYtYC4-I1gW6CZrtefPg4xDXCPKkdnH7tu4PJV4mBOCoom4wv9go-C7gDCcArPaz9IZ7l--w4MujIEO85z9HNejyPA4l-5zt7gaq2lceGfOtYo4qZFoaH1tHJMRiHy0WQJ_I3fv1Li7TORqicPkUUCwBFKFzC2oJce0-aDymKFzzD0m9igkuTsMwJrRZcaDBuU7uVe99kU4QE-liIcYWRzYXBpc2MtYmlncXVlcnktcGFnaW5hdGlvbioNMTc3NTc4MDU0MTg0Ng%3D%3D&limit=50",
+      "error": "PARTIAL"
     },
     "adidas::hu": {
       "status": "no_ads",
@@ -21864,8 +21860,9 @@
     "adidas::pl": {
       "status": "rate_limited",
       "ads_count": 10,
-      "fetched_at": "2026-04-10T07:43:54.335Z",
-      "error": "PARTIAL: cursor expired, will retry from page 1"
+      "fetched_at": "2026-04-10T08:06:45.303Z",
+      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES9gZRcRMc1M9-eoyKCTyrXX9kcdZ_oTTXGBQ5cW0G-ba0o1Fd139Jj6KQpiY-SGuMCfbqgMmQJt6-IKBWtVlQSTKUVTgrlODTTExn9UaG76CKWDjqYUAtrNu0RZDW-wA2lRwcinec_KWTlFneDK-16yqAGkAaJmdyr2Vrc3LAkvHwvsiFwZMoLOecbu1tb4F8PAyO8iucshldUpbYknzS3ejm3VzTW0H4wMcm-_jD0XGCE1tOKchO8dykFESZONDqc3TT9md7vPtkkYLokaocdm_gPnb0ZGNFL51BEv-yiEnyj1Sj9ekhHzAe9kIUG5m3agzRSA8aLOwzyem_Pu-jPLM6p4l0ownMFYYNEfA4AZ5WajRPymHfLJCXta_4PZHbyitCn6JNjuz2bZwpi01pNxFuslQ1h5f7fJopTPEvZ0pkM2k-zIh2eoJOgZP6HwdFJ8lrKyaxb4rOILMT3wk0Nie0YG7xik99GNPYDGQFKtOHe6tsMTmjJjTEqQzqsFHTDsbi6S1m-dThXPw9688mMeWk0r2td6kAJ54RzrMRfb0yLr-2j15Sn9n000rHDXENVRNId-1B2ik8WtSPpGm7et-XgC2Lm4FolBSP6j03dK1Vn8tPQPz76YBYOS60TE8coNQ2Re--ZWBhFi6QYB6TxPo3FXGRz1iCC0nkw85_Lo_krU81CJxQD1AZL5PsREOY3eV3L42zY8NSWqtQ2wcVj-rtIKtnCYUNubE8-wJB_rpBId5MTRCwW_2Wyc2I9GF6Ai9aFDuBzwj_Vq9NMlJRPj5qTrFtDXCLQFxtpGupaZyVt_8OkZte9Nb9wF2vGu-SUECY_Of9yOf4RvGp4K9g5VRboN6-w0ZkRMquYBZzWXRPCEEyHLMi9oDo0nHseMoCUw25FWqhGFtQqhPkQ0TzZeIGKREagKPIPMEPtpNbK3swSdVme6MvKSKU3ij94J9RjFXxdAZc5MSKZmhiV-laxNa6RYYwuOHbTk_Aj6vpm29-pLDRLQbe-ys37HpIEDW11Yg-h8TV7Y0GLy0sVWwG934PKNT_8SlO1LK24fBRG3WAWSyxpan_v49fZPClm0GZh-VYWoajJUL-r3OxaNLQOdTZE39LGGfmBcdKvIyLHev-Sn4tP9kod1rDr-SakYasrEryEDxQGnigfyMGuEEaDmo8qvxrzna0Ggweba6u31AI-IIl0OEiHGFkc2FwaXNjLWJpZ3F1ZXJ5LXBhZ2luYXRpb24qDTE3NzU3ODA1NDE4NDY%3D&limit=50",
+      "error": "PARTIAL"
     },
     "adidas::ro": {
       "status": "no_ads",
@@ -21875,8 +21872,7 @@
       "status": "rate_limited",
       "ads_count": 10,
       "fetched_at": "2026-04-10T07:53:59.414Z",
-      "next_link": "https://adsapi.snapchat.com/v1/ads_library/ads/search?cursor=CAES6wa9hS5g0mARX39nBPibNc7gWgQ6UYI7P9iaH2mVxLa781Yyjt13cxGYjgW1Jgsqn13MmcOFCvu93PZsNkqTCZG3hRjrh76OVr2JkVxzSVtmzTKofvcufm0sTZ_8qF4SATJNxW4cwbkbbbp9AzPcY4kv5Q_PZtSLe8Cu_5R6g_bQeazynguiQbggU0HXIdaHZlfXEqLp9vpBwTgPctozFMMZdQ9sCYYuM-X-KpIas8s-joxABK24T-fWWb-RDJxmCLHnnzVxOngx0s6wnxPIjkiBtwZELgiAvfZ1LQ8Y6tRVdzbE4HUSVbauRDhSMLJhtcFQd941C3hGVSlUUN5g0KaSmB25on-CxAiyTqOe-Xff49hm2X-06KufOZjmSdrIyoQZ6xyEwX4d9rq3dJcPnNy7NJoyVanBIdo7r2-wIdHI-7Wb1TuxUbb_UIGHPJCPkoAdNq66TlIlorCDtPOTm5FpZFeQ-3vanLjJ428IZuX0KgFMOOHU6LG8yKpZu-5jMj8RT2A0eiQb4-bMic2kRglHQgPn8tqBc2y-R8egmbRtm6a6aLRfTUe-NWKzO79D_q41MMwCq4yG2GVO57jcCOy0drz6FfZJyFrytDkhALRON9ekJCrv98h9Pl9dDasrCi7qz8yYSO54kXInIiwfkHkONabG6HPDjDH7SxANIoYpBYb7sZJsnmXbZGJb6lPvfLFAs2ggMGa7eSOwz2lj67DFYFpFHmDtNA7rQ7x4UfjD-savx3Sg3XcsGpfcfx8tIZ0Q1_ivt7-P6CCTnsIDXr2AVIJj1ZhN8MeKF7IkguP0itaS5yK-Ex4IMPldQoxbto1-sRJ2JUCOpkdOaEpUqV3k9st_ZnjxtvyR55qoDMYSdA6Xd2HVV5hVQ64YMsFWEGrO1Mv2ufYorplovr2gYfWn7X6xjVHZSkgyqNkd8P3bqxfcTVGQ9slnefi1Mb0qEUEP2s6cgu98T_JT7G980H5UKEjD3vH8YK9H1eaubXFqSepOC56Fh7Ft2FkY8iHasJuakAPFtVHbAN87sJMLy3dPPDTnpkDZd-9XqzAIDDkA_o85mnOMe4uMXirgSgQrqcok_HTXTLIERA3ucBmgrlKSq7BJmKRZtQKwQ1tXlQNWm7uWdUKvLA0DieY-Zm_DYHbGKqF5UZfUeif7JRoM48ceWp-1HAPTXIn1IhxhZHNhcGlzYy1iaWdxdWVyeS1wYWdpbmF0aW9uKg0xNzc1NzgwNTQxODQ2&limit=50",
-      "error": "PARTIAL"
+      "error": "PARTIAL: cursor expired, will retry from page 1"
     },
     "Cult Beauty::be": {
       "status": "no_ads",
@@ -24149,7 +24145,7 @@
       "error": "E1009"
     }
   },
-  "total_requests": 53655,
+  "total_requests": 53679,
   "total_ads": 5740,
   "countries": [
     "de",
@@ -24181,5 +24177,5 @@
     "nl"
   ],
   "started_at": "2026-04-08T15:06:09.283Z",
-  "last_updated": "2026-04-10T08:06:17.724Z"
+  "last_updated": "2026-04-10T08:06:50.817Z"
 }
