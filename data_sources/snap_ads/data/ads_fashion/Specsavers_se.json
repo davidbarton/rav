@@ -1,14 +1,15 @@
 {
   "brand": "Specsavers",
   "country": "se",
-  "fetched_at": "2026-04-09T00:49:23.427Z",
+  "fetched_at": "2026-04-10T07:44:02.005Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "1c6a6e05-085b-48b7-b94d-52d45ac77947",
-        "name": "375_334_Top_Video-6sec_Lifestyle_FreeST50-Non-offer_",
+        "id": "8a9505e6-2d11-4f08-b9c0-94e4bfa8f8cd",
+        "name": "622_126_Top_Video-6sec_Lifestyle_2for1Sun-Main_A",
         "ad_account_name": "Specsavers Sverige",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -17,13 +18,13 @@
         "languages": [
           "sv"
         ],
-        "headline": "50% på synundersökning",
-        "call_to_action": "BOOK NOW",
+        "headline": "2för1 från 395 kr – inkl. glas",
+        "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xWYorX4DGqdtF0nB8jSE7.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIw8cQIAEw4AM41AZAAUoOCgkhFxEmEw8dEhkQ9ANQ8C5oAiIGCgJIBBIAogEyCLoKEiUKIwjQrg4gATDQBTiACkACSg4KCSQRDxkREA0eEhD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMI4IkJIAEw4AM41AZAAkoOCgkTCgsOCwkPCxIQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwiztQkgATDgAzjUBkACSg4KCRQIDRALCQUYDhD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCOX-CSABMOADONYGQAJKDgoJGQsLEA0LCBYNEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMIg6sKIAEw4AM41AZAAkoOCgkZCwoQDQwHGA8Q9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-09-01T05:00:55.000Z",
-        "impressions_total": 660095,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/H8QkVNir990lqsmGOzW1b.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi-zxggATDgAzjUBkABSg4KCTkRFBoqWSsTJBD0A1DwLmgCdae6ZkAiBgoCSAQSAKIBNwi6ChIqCigIw9sSIAEw0AU4gApAAkoOCglEDg4ZHjgaDhgQ9ANQ8C5oAnWUW29AIgYKAkgDEgCiATwIkgoSLwotCJKXDyABMOADONQGQAJKDgoJKQ4OFCItFgwSEPQDUPAuaAJ1gq5hQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCIaVDSABMOADONQGQAJKDgoJMAoLExYiFQoREPQDUPAuaAJ1IslkQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
+        "start_date": "2026-03-02T06:00:32.000Z",
+        "impressions_total": 1802,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -37,7 +38,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 660095,
+          "se": 1802,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -72,7 +73,7 @@
         "profile_name": "Specsavers Sverige",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUVcyZ0llSFlQbFNzRGJ2cDlJem5vP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.specsavers.se/erbjudanden/synundersokning-50-utan-kopkrav?utm_medium=social&utm_source=snapchat&utm_campaign=375_se100926_combo_combo_ao_other_digital&utm_content=freest50&utm_term=lifestyle"
+          "url": "https://www.specsavers.se/erbjudanden/2-for-1-solglasogon?utm_medium=social&utm_source=snapchat&utm_campaign=622_se101526_gl_ao_offer-pool_none_activation&utm_content=2for1sun&utm_term=lifestyle"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -82,21 +83,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "8a2e9d07-6ddb-4dcf-a001-5b259d67733f",
-        "name": "622_151_Top_Video-6sec_Lifestyle_2for1Sun-Main_Melon",
+        "id": "1e9cd169-9b5d-41df-a3b0-ed7cc548b13a",
+        "name": "NEW_375_322_Top_Video-6sec_Male_2for1Designer-Non-offer_",
         "ad_account_name": "Specsavers Sverige",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "sv"
         ],
-        "headline": "2för1 från 395 kr – inkl. glas",
+        "headline": "2för1 på designerbågar",
         "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-03-02T06:00:32.000Z",
-        "impressions_total": 2088595,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WocP8l3bx5Sn0N6faLZG6.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjKyxAgATDgAzjUBkABSg4KCTwNEBQLEy4QGBD0A1DwLmgCdUj0YkAiBgoCSAMSAKIBNwi6ChIqCigIu8cOIAEw0AU4gApAAkoOCgk_DA8NDA4iDxYQ9ANQ8C5oAnWIM2dAIgYKAkgCEgCiATwIkgoSLwotCKq-CiABMOADONQGQAJKDgoJJAoLCwgJGA0QEPQDUPAuaAJ1zIZTQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCKj2CSABMOADONQGQAJKDgoJLQgKCQgJGAkQEPQDUPAuaAJ1bJZfQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
+        "start_date": "2025-12-01T08:00:01.000Z",
+        "impressions_total": 8510,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -110,7 +113,155 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 2088595,
+          "se": 8510,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "25",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Specsavers Sweden AB",
+        "brand_name": "Specsavers",
+        "profile_name": "Specsavers Sverige",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUVcyZ0llSFlQbFNzRGJ2cDlJem5vP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.specsavers.se/erbjudanden/2for1-designer?utm_medium=social&utm_source=snapchat&utm_campaign=375_se100926_combo_combo_ao_other_digital&utm_content=2for1designer&utm_term=male"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2d5dc2d7-6dcd-4953-805f-20d793777c17",
+        "name": "375_418_Top_Video-6sec_Lifestyle_40offLenses-Main_B",
+        "ad_account_name": "Specsavers Sverige",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "headline": "Missa inte vår rea!",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VUEsTsvLiO68bmI8rP3ss.67?mo=Gv0BGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCJqSDCABMOADONQGQAFKDgoJIg4ODg0PDQoSEPQDUPAuaAJ118ZJQCICEgCiATMIugoSKgooCJCaCiABMNAFOIAKQAJKDgoJJQoLCg4MCgoOEPQDUPAuaAJ1xPZVQCICEgCiATgIkgoSLwotCO6WCCABMOADONQGQAJKDgoJFgkKCwoKCggLEPQDUPAuaAJ1LFw4QH0AAIA_IgISAKIBOAjSChIvCi0IkKIHIAEw4AM41AZAAkoOCgkdBwgHCgkHBwkQ9ANQ8C5oAnV8ok5AfQAAgD8iAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-12-01T08:00:01.000Z",
+        "impressions_total": 237597,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 237597,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "25",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Specsavers Sweden AB",
+        "brand_name": "Specsavers",
+        "profile_name": "Specsavers Sverige",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUVcyZ0llSFlQbFNzRGJ2cDlJem5vP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.specsavers.se/erbjudanden/rea?utm_medium=social&utm_source=snapchat&utm_campaign=375_se100926_combo_combo_ao_other_digital&utm_content=40offlenses&utm_term=lifestyle"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b4740b1f-1481-4b3e-8c39-3fb080a41de2",
+        "name": "622_98_Top_Video-6sec_Male_FreeVF-Non-offer_",
+        "ad_account_name": "Specsavers Sverige",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "headline": "Progressiva glas 0 kr",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-03-02T06:00:32.000Z",
+        "impressions_total": 595324,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 595324,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -146,18 +297,19 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUVcyZ0llSFlQbFNzRGJ2cDlJem5vP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "composite_preview": {
           "should_loop": true,
-          "title_headline": "2för1 från 395 kr – inkl. glas",
+          "title_headline": "Progressiva glas 0 kr",
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "2för1 från 395 kr – inkl. glas",
+              "render_type": "STATIC",
+              "headline": "Progressiva glas 0 kr",
               "call_to_action": "MORE",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Ck9AbbHCLugzoXL7Fyk2Z.67?mo=GpECGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQjwiy8gATDgAzjUBkABSg8KCk4UWGY5nQFUGR4Q9ANQ8C5oAnWG7VRAIgYKAkgEEgCiATwIugoSLwotCMqGJiABMNAFOIAKQAJKDgoJShE-RjB0Qx8cEPQDUPAuaAJ1gu1nQH0AAIA_IgYKAkgDEgCiATwIkgoSLwotCLuYHCABMOADONQGQAJKDgoJMw4zMSRdLRcVEPQDUPAuaAJ1WhRFQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCKDlGiABMOADONQGQAJKDgoJNQorMB9SNBQXEPQDUPAuaAJ1lLZSQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/wT54foFbOVYIoXKi4qoeh.67?mo=GoICGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCPiKDiABMOADONQGQAFKDgoJKRMcDw8OFQ4UEPQDUPAuaAJ1eDpFQCICEgCiATgIugoSLwotCO-sDSABMNAFOIAKQAJKDgoJKxAZEA8NFAwQEPQDUPAuaAJ1BGtTQH0AAIA_IgISAKIBOAiSChIvCi0IpNkJIAEw4AM41AZAAkoOCgkfDREKCggOCg8Q9ANQ8C5oAnW3bEBAfQAAgD8iAhIAogE4CNIKEi8KLQjTvQkgATDgAzjUBkACSg4KCSELEwoKCQ4JDRD0A1DwLmgCddkjR0B9AACAPyICEgCQA_Au&uc=15",
               "brand_name": "Specsavers",
               "web_view_preview": {
-                "url": "https://www.specsavers.se/erbjudanden/2-for-1-solglasogon?utm_medium=social&utm_source=snapchat&utm_campaign=622_se101526_gl_ao_offer-pool_none_activation&utm_content=2for1sun&utm_term=lifestyle"
+                "url": "https://www.specsavers.se/erbjudanden/progressiva-glas-uppgradering?utm_medium=social&utm_source=snapchat&utm_campaign=622_se101526_gl_ao_offer-pool_none_activation&utm_content=freevf&utm_term=male"
               }
             }
           ]
@@ -170,23 +322,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "a2280316-0aaa-4156-872a-05ae740d183c",
-        "name": "NEW_375_326_Top_Video-6sec_Kids_2for1Kids-Non-offer_Boy",
+        "id": "5d6e2efe-fc86-4860-9dbc-9bb20f8c3911",
+        "name": "NEW_375_338_Top_Video-6sec_Male_FreeVF-Non-offer_",
         "ad_account_name": "Specsavers Sverige",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [
           "sv"
         ],
-        "headline": "Andra paret 0 kr",
+        "headline": "Progressiva glas 0 kr",
         "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gcWgqoTQl61HZDtfpOwdP.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjFjBcgATDgAzjUBkABSg4KCTQgIB4iHBERGBD0A1DwLmgCdUayNUAiBgoCSAISAKIBNwi6ChIqCigImaUSIAEw0AU4gApAAkoOCgkwGB0bGRMQDRMQ9ANQ8C5oAnWLvz5AIgYKAkgDEgCiATwIkgoSLwotCOrFDSABMOADONQGQAJKDgoJIhETFBIOCgsOEPQDUPAuaAJ1xNIvQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCI_JDCABMOADONQGQAJKDgoJJBEUExANCwgNEPQDUPAuaAJ1Omg4QH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
-        "start_date": "2025-12-01T08:00:01.000Z",
-        "impressions_total": 6543,
+        "start_date": "2026-01-23T09:20:50.000Z",
+        "impressions_total": 774550,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -200,7 +350,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 6543,
+          "se": 774550,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -221,7 +371,7 @@
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "25",
+              "min_age": "45",
               "age_groups": [],
               "languages": [],
               "operation": "INCLUDE",
@@ -234,233 +384,23 @@
         "brand_name": "Specsavers",
         "profile_name": "Specsavers Sverige",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUVcyZ0llSFlQbFNzRGJ2cDlJem5vP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.specsavers.se/erbjudanden/2for1-barnglasogon?utm_medium=social&utm_source=snapchat&utm_campaign=375_se100926_combo_combo_ao_other_digital&utm_content=2for1kids&utm_term=kids"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f8afc2df-2694-468a-a634-cdb596dd3c15",
-        "name": "NEW_375_321_Top_Video-6sec_Male_2for1-Non-offer_",
-        "ad_account_name": "Specsavers Sverige",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "headline": "Andra paret 0 kr",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qj7EMFFgW8rDtxy5TJHpz.67?mo=GocCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE3CEMSLwotCK6ZDSABMOADONQGQAFKDgoJJQ0QDhUTDRMXEPQDUPAuaAJ1lFdFQH0AAIA_IgISAKIBOAi6ChIvCi0IrOgNIAEw0AU4gApAAkoOCgktChEUFBEOExUQ9ANQ8C5oAnX7HlRAfQAAgD8iAhIAogE4CJIKEi8KLQjRgAkgATDgAzjUBkACSg4KCRsHCwkPCwgHFBD0A1DwLmgCddqeO0B9AACAPyICEgCiATgI0goSLwotCK_aCSABMOADONQGQAJKDgoJIQgLDg4MCgwQEPQDUPAuaAJ1S_hNQH0AAIA_IgISAJAD8C4%3D&uc=15",
-        "start_date": "2025-11-01T06:00:00.000Z",
-        "impressions_total": 923,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 923,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Progressiva glas 0 kr",
+          "ad_snaps": [
             {
-              "min_age": "25",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
+              "type": "WEB_VIEW",
+              "headline": "Progressiva glas 0 kr",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/wT54foFbOVYIoXKi4qoeh.67?mo=GoICGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCPiKDiABMOADONQGQAFKDgoJKRMcDw8OFQ4UEPQDUPAuaAJ1eDpFQCICEgCiATgIugoSLwotCO-sDSABMNAFOIAKQAJKDgoJKxAZEA8NFAwQEPQDUPAuaAJ1BGtTQH0AAIA_IgISAKIBOAiSChIvCi0IpNkJIAEw4AM41AZAAkoOCgkfDREKCggOCg8Q9ANQ8C5oAnW3bEBAfQAAgD8iAhIAogE4CNIKEi8KLQjTvQkgATDgAzjUBkACSg4KCSELEwoKCQ4JDRD0A1DwLmgCddkjR0B9AACAPyICEgCQA_Au&uc=15",
+              "brand_name": "Specsavers",
+              "web_view_preview": {
+                "url": "https://www.specsavers.se/erbjudanden/progressiva-glas-uppgradering?utm_medium=social&utm_source=snapchat&utm_campaign=375_se100926_combo_combo_ao_other_digital&utm_content=freevf&utm_term=male"
+              }
             }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Specsavers Sweden AB",
-        "brand_name": "Specsavers",
-        "profile_name": "Specsavers Sverige",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUVcyZ0llSFlQbFNzRGJ2cDlJem5vP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.specsavers.se/erbjudanden/2for1-fran-795-kr?utm_medium=social&utm_source=snapchat&utm_campaign=375_se100926_combo_combo_ao_other_digital&utm_content=2for1&utm_term=male"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "959919b4-1eae-4166-b43c-44563f3d97bf",
-        "name": "375_336_Top_Video-6sec_Clinical_ComphST-Non-offer_Male",
-        "ad_account_name": "Specsavers Sverige",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "headline": "Ögonhälsoundersökning med OCT",
-        "call_to_action": "BOOK NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6XDMAuph5D1kRtduyPB34.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwjIiBMgATDgAzjUBkABSg4KCTYlJhMdGxIWGRD0A1DwLmgCIgISAKIBLgi6ChIlCiMI3roQIAEw0AU4gApAAkoOCgk2GiEQGBUVEBMQ9ANQ8C5oAiICEgCiAS0IfxIlCiMIi9kLIAEw4AM41AZAAkoOCgkgFBcLEQ4PDw8Q9ANQ8C5oAiICEgCiAS4IkgoSJQojCPuzDCABMOADONQGQAJKDgoJIRUWDBERDg4VEPQDUPAuaAIiAhIAogEuCMQKEiUKIwjPmAsgATDgAzjWBkACSg4KCSURFwoQDg4MDRD0A1DwLmgCIgISAKIBLgjSChIlCiMIxskLIAEw4AM41AZAAkoOCgklEhgLEBAPDA8Q9ANQ8C5oAiICEgCQA_Au&uc=15",
-        "start_date": "2025-09-01T05:00:55.000Z",
-        "impressions_total": 148200,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 148200,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "25",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Specsavers Sweden AB",
-        "brand_name": "Specsavers",
-        "profile_name": "Specsavers Sverige",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUVcyZ0llSFlQbFNzRGJ2cDlJem5vP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.specsavers.se/synvard/synundersokning?utm_medium=social&utm_source=snapchat&utm_campaign=375_se100926_combo_combo_ao_other_digital&utm_content=comphst&utm_term=clinical"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "b99127b9-2cd4-434c-a911-4b25d4d149a5",
-        "name": "375_357_Top_Video-6sec_Lifestyle_2for1-MainFC_C",
-        "ad_account_name": "Specsavers Sverige",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "headline": "Progressiva + bildskärmsglasögon?",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3UnQdS3gVyoFNVTkxlUUg.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIkrsRIAEw4AM41AZAAUoOCgk0IBcNCRASBgYQ9ANQkE5oAiIGCgJIBBIAogEyCLoKEiUKIwjwxw8gATDQBTiACkACSg4KCSwWEg0LEAwIBxD0A1CQTmgCIgYKAkgCEgCiATEIfxIlCiMIktULIAEw4AM41AZAAkoOCgklEQ4JBwoNBQUQ9ANQkE5oAiIGCgJIAhIAogEyCJIKEiUKIwiHuwwgATDgAzjUBkACSg4KCSQVDwoGDA0FBhD0A1CQTmgCIgYKAkgCEgCiATIIxAoSJQojCNveCiABMOADONYGQAJKDgoJIQ8NCAkLCQQFEPQDUJBOaAIiBgoCSAISAKIBMgjSChIlCiMIyb4LIAEw4AM41AZAAkoOCgkkDw4KCAwJBQUQ9ANQkE5oAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-09-01T05:00:55.000Z",
-        "impressions_total": 382827,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 382827,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "25",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Specsavers Sweden AB",
-        "brand_name": "Specsavers",
-        "profile_name": "Specsavers Sverige",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUVcyZ0llSFlQbFNzRGJ2cDlJem5vP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.specsavers.se/erbjudanden/glasogon-2for1?utm_medium=social&utm_source=snapchat&utm_campaign=375_se100926_combo_combo_ao_other_digital&utm_content=2for1&utm_term=lifestyle"
+          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -545,7 +485,7 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "128d73ac-d2f8-4d7d-bd6e-ff915c7f1db3",
+        "id": "53548e7a-35da-4a21-b12b-1f209e4f9157",
         "name": "NEW_375_339_Top_Video-6sec_Female_FreeVF-Non-offer_",
         "ad_account_name": "Specsavers Sverige",
         "status": "ACTIVE",
@@ -560,8 +500,8 @@
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
         "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cOM3CZdQGp4O7ojLKyKuC.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiPqRYgATDgAzjUBkABSg4KCUQcIiAVEhYjIxD0A1DwLmgCdZ-ZPEAiBgoCSAMSAKIBPAi6ChIvCi0IvdsXIAEw0AU4gApAAkoOCglJGyEdGBUWLCUQ9ANQ8C5oAnVxKUBAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0IzqoNIAEw4AM41AZAAkoOCgksEhQRDQoMFhMQ9ANQ8C5oAnW12zBAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I-scPIAEw4AM41AZAAkoOCgk1ExgTEA8OFxoQ9ANQ8C5oAnU47jhAfQAAgD8iBgoCSAISAJAD8C4%3D&uc=15",
-        "start_date": "2025-11-01T06:00:00.000Z",
-        "impressions_total": 65594,
+        "start_date": "2025-12-01T08:00:01.000Z",
+        "impressions_total": 59823,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -575,7 +515,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 65594,
+          "se": 59823,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -620,8 +560,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "80912136-982b-4c52-8b26-feb9e9d7d79f",
-        "name": "NEW_375_325_Top_Video-6sec_Female_2for1Sun-Non-offer_",
+        "id": "d7e6f753-de14-4959-bb73-6fa302d05cbc",
+        "name": "372_12_Top_Video-6sec_Product_Other-Non-offer_Soft",
         "ad_account_name": "Specsavers Sverige",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -630,13 +570,13 @@
         "languages": [
           "sv"
         ],
-        "headline": "Solglasögon 0 kr",
-        "call_to_action": "MORE",
+        "headline": "Teckna och ta del av alla förmåner",
+        "call_to_action": "READ",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UmlODerQIT0J0ZLDK8Q2r.67?mo=GoICGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCK-uJCABMOADONQGQAFKDgoJJBcySV5GFBgXEPQDUPAuaAJ1yLphQCICEgCiATgIugoSLwotCL2lISABMNAFOIAKQAJKDgoJJBM2SU84EREYEPQDUPAuaAJ1Y1JqQH0AAIA_IgISAKIBOAiSChIvCi0Iq8sXIAEw4AM41AZAAkoOCgkcEB4wPSkODBIQ9ANQ8C5oAnWNIFFAfQAAgD8iAhIAogE4CNIKEi8KLQjdpxUgATDgAzjUBkACSg4KCRwQIS0rGBgMDxD0A1DwLmgCdZTrW0B9AACAPyICEgCQA_Au&uc=15",
-        "start_date": "2025-12-01T08:00:01.000Z",
-        "impressions_total": 11424,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/yHbQyJPm0lMaS9s89Dbu3.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIgfQNIAFKDgoJPQsIBQoUGgcFEPQDaAIiBgoCSAISAKIBJwi6ChIaChgIn-EMIAFKDgoJMQkKBwkOFwgHEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjCtwsgAUoOCgktCAgFCBAXBgUQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjCsAwgAUoOCgkwCAkFCRAWBgYQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjekgkgAUoOCgkmBwcFBwkSBQUQ9ANoAiIGCgJIAhIAkAOyRg%3D%3D&uc=15",
+        "start_date": "2025-03-03T06:00:29.000Z",
+        "impressions_total": 3450073,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -650,7 +590,80 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 11424,
+          "se": 3450073,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Specsavers Sweden AB",
+        "brand_name": "Specsavers",
+        "profile_name": "Specsavers Sverige",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUVcyZ0llSFlQbFNzRGJ2cDlJem5vP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.specsavers.se/kontaktlinser/linsabonnemang?utm_medium=social&utm_source=snapchat&utm_campaign=372_se100926_cle_subscription_nonedlp_other_all-cl-subscription-campaigns&utm_content=other&utm_term=product"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "48e1626f-9ed7-4b3a-9ec8-f062df6f5dfa",
+        "name": "NEW_375_327_Top_Video-6sec_Kids_2for1Kids-Non-offer_Girl",
+        "ad_account_name": "Specsavers Sverige",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "headline": "Andra paret 0 kr",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-01-23T09:20:50.000Z",
+        "impressions_total": 30689,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 30689,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -684,8 +697,23 @@
         "brand_name": "Specsavers",
         "profile_name": "Specsavers Sverige",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUVcyZ0llSFlQbFNzRGJ2cDlJem5vP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.specsavers.se/erbjudanden/2-for-1-solglasogon?utm_medium=social&utm_source=snapchat&utm_campaign=375_se100926_combo_combo_ao_other_digital&utm_content=2for1sun&utm_term=female"
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Andra paret 0 kr",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Andra paret 0 kr",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zuP3uw9WXECYhYCaw6nBs.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjmrxMgATDgAzjUBkABSg4KCTESFSMhGhITHBD0A1DwLmgCdbSxOEAiBgoCSAISAKIBNwi6ChIqCigI1cERIAEw0AU4gApAAkoOCgkwDRcdGhEVERwQ9ANQ8C5oAnWkXkJAIgYKAkgDEgCiATwIkgoSLwotCKjiCyABMOADONQGQAJKDgoJHwoQFRQMCwsSEPQDUPAuaAJ1LnQwQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCJuPDCABMOADONQGQAJKDgoJJAkQExILDgwUEPQDUPAuaAJ1QmQ8QH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
+              "brand_name": "Specsavers",
+              "web_view_preview": {
+                "url": "https://www.specsavers.se/erbjudanden/2for1-barnglasogon?utm_medium=social&utm_source=snapchat&utm_campaign=375_se100926_combo_combo_ao_other_digital&utm_content=2for1kids&utm_term=kids"
+              }
+            }
+          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -695,23 +723,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "62eb21f7-1f2c-4e00-9449-778b40032150",
-        "name": "375_339_Top_Video-6sec_Female_FreeVF-Non-offer_",
+        "id": "0cc1d6f0-e1d7-4304-8d9b-8421a2ec5ae7",
+        "name": "372_5_Top_Video-6sec_Product_Other-Non-offer_soft",
         "ad_account_name": "Specsavers Sverige",
-        "status": "ACTIVE",
+        "status": "PAUSED",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "sv"
         ],
-        "headline": "Progressiva glas 0 kr",
-        "call_to_action": "MORE",
+        "headline": "Erbjudandet gäller till 13/4 ⚠️",
+        "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/POzRU79G9wo1aBHRPipcV.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI14QTIAEw4AM41AZAAUoOCgksIBgZHQ4JICcQ9ANQ8C5oAiIGCgJIBBIAogEyCLoKEiUKIwi4mBEgATDQBTiACkACSg4KCSAeHRYWEQscHRD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMIr5YKIAEw4AM41AZAAkoOCgkVFg8LDgcEERYQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwi5wwogATDgAzjUBkACSg4KCR8OEgkNCQUQFhD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCML3CyABMOADONYGQAJKDgoJGBUVEA8LBxQUEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMIv5EMIAEw4AM41AZAAkoOCgkWFhQQEA0HExYQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-09-01T05:00:55.000Z",
-        "impressions_total": 512767,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XG2hbW65qFsNy6EW8kwkz.67?mo=Gr0CGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNwhDEiMKIQjq2w0gAUoXChI6CwgHChMbBgYHCRAGCAUGBwQQ9ANoAiIOCgpCBgjerIy9BkgEEgCiATcIugoSIgogCNjJDCABShYKES8JCwcJDRUJBwcJDgYICAcFEPQDaAIiDgoKQgYI-qyMvQZIAxIAogE3CH8SIwohCMOPCyABShcKEisHCAUJDxUGBQYJCwUGBQYHBBD0A2gCIg4KCkIGCPusjL0GSAISAKIBOAiSChIjCiEIhuILIAFKFwoSKwkIBQkPFAcGBgcPBgcHBwgDEPQDaAIiDgoKQgYI-6yMvQZIAhIAogE3CMQKEiIKIAjS9gggAUoWChEkBwgEBwkRBQUFBgkEBQYEAxD0A2gCIg4KCkIGCPqsjL0GSAISAJADskY%3D&uc=15",
+        "start_date": "2025-03-03T06:00:29.000Z",
+        "impressions_total": 381156,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -725,7 +753,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 512767,
+          "se": 381156,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -746,7 +774,7 @@
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "45",
+              "min_age": "18",
               "age_groups": [],
               "languages": [],
               "operation": "INCLUDE",
@@ -756,11 +784,10 @@
           "devices": []
         },
         "paying_advertiser_name": "Specsavers Sweden AB",
-        "brand_name": "Specsavers",
         "profile_name": "Specsavers Sverige",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUVcyZ0llSFlQbFNzRGJ2cDlJem5vP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.specsavers.se/erbjudanden/progressiva-glas-uppgradering?utm_medium=social&utm_source=snapchat&utm_campaign=375_se100926_combo_combo_ao_other_digital&utm_content=freevf&utm_term=female"
+          "url": "https://www.specsavers.se/kontaktlinser/shop?utm_medium=social&utm_source=snapchat&utm_campaign=372_se100926_cle_subscription_nonedlp_other_all-cl-subscription-campaigns&utm_content=other&utm_term=product"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

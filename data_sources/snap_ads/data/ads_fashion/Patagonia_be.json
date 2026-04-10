@@ -1,342 +1,10 @@
 {
   "brand": "Patagonia",
   "country": "be",
-  "fetched_at": "2026-04-09T13:01:17.327Z",
+  "fetched_at": "2026-04-10T05:11:14.745Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "0b963489-ed63-4fa3-afd6-7e05b89f5294",
-        "name": "Climate Heartbreak Story",
-        "ad_account_name": "Patagonia Europe Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Climate Heartbreak Got You Down?",
-        "call_to_action": "MORE",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2024-12-16T16:25:00.000Z",
-        "impressions_total": 1355396,
-        "impressions_map": {
-          "de": 0,
-          "be": 170288,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 14173,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 577211,
-          "hu": 0,
-          "se": 83002,
-          "si": 0,
-          "sk": 0,
-          "ie": 402124,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 108598,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Patagonia Europe",
-        "profile_name": "Patagonia Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Climate Heartbreak Got You Down?",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Climate Heartbreak Got You Down?",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dV5F2qjbat5wkg5jCwneF.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Conversion-ROE-Snapchat&utm_medium=cpc&bg_source=sn&bg_source_id={{ad.id}}&bg_campaign={{campaign.id}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Climate Heartbreak Got You Down?",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/t19ljxNe58GnoopSFXy2X.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Conversion-ROE-Snapchat&utm_medium=cpc&bg_source=sn&bg_source_id={{ad.id}}&bg_campaign={{campaign.id}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Climate Heartbreak Got You Down?",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cmbzJs4bxEGuvqjLEb3CZ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Conversion-ROE-Snapchat&utm_medium=cpc&bg_source=sn&bg_source_id={{ad.id}}&bg_campaign={{campaign.id}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "5063fe18-7b7d-4d29-b22b-4b5314178ab5",
-        "name": "Wild Fish Video",
-        "ad_account_name": "Patagonia Europe Self Service",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Iceland needs you",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/q8M933lWV1njhjqfQjbe8.67?mo=GvoCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBRAhDEjAKLgipoEcgAUokCh8cCAcEBQQEBBZUPV0_Hk4-aWGKAXldBAMDAwMDBAMDEPQDaAIiDgoKQgYI-oGhvgZIBBIAogFDCLoKEi4KLAjt8zAgAUoiCh0aBwcFBgQGBRspJTIoFDQqRUhRTj8FBQUFBQUFBhD0A2gCIg4KCkIGCO2Cob4GSAMSAKIBQwh_Ei8KLQiC2SggAUojCh4VBgYEBAMEBBMXIDQhDykhOzpRRDYDBAMDBAMEBAMQ9ANoAiIOCgpCBgjtgqG-BkgCEgCiAUQIkgoSLwotCPK1KiABSiMKHhYHBwQEBAUEDx4gMyEQKR9BOlNJOQUEBAQDBQQEBBD0A2gCIg4KCkIGCO2Cob4GSAISAKIBQwjEChIuCiwIh6AfIAFKIgodFQUEBAMDBAMQFxYdGQsiGiwvNTMtAwMDAwMDBAMQ9ANoAiIOCgpCBgjtgqG-BkgCEgCQA6x1&uc=15",
-        "start_date": "2024-12-11T15:02:29.000Z",
-        "impressions_total": 248357,
-        "impressions_map": {
-          "de": 0,
-          "be": 152594,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 2960,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 6240,
-          "hu": 0,
-          "se": 2778,
-          "si": 0,
-          "sk": 0,
-          "ie": 79213,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 4572,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Patagonia Europe",
-        "profile_name": "Patagonia Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://eu.patagonia.com/actionworks/en-gb/campaigns/keep-iceland-wild/?utm_source=snapchat&utm_medium=cpc&utm_campaign=PAW-Traffic-ROE-Snapchat"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "2f803d79-f785-43b1-bd82-791059921ba5",
-        "name": "Climate Heartbreak Video",
-        "ad_account_name": "Patagonia Europe Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Find activism opportunities",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TdsCCfYBnJC4LL7mGI12e.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIvd8gIAEw4AM41AZAAUoOCglNQjI0OxIlHzIQ9ANQtlJoAiIGCgJIAhIAogEyCLoKEiUKIwioohogATDQBTiACkACSg4KCTMxJScvEB8WKBD0A1C2UmgCIgYKAkgDEgCiATEIfxIlCiMIh_IUIAEw4AM41AZAAkoOCgkrJyEiJQsYEhwQ9ANQtlJoAiIGCgJIAhIAogEyCJIKEiUKIwiF8xUgATDgAzjUBkACSg4KCSwpIiIlDhcTGxD0A1C2UmgCIgYKAkgCEgCiATIIxAoSJQojCI6tESABMOADONYGQAJKDgoJJCIYGSAJFQ4aEPQDULZSaAIiBgoCSAISAKIBMgjSChIlCiMI2vMRIAEw4AM41AZAAkoOCgkkIxkaIAsVDhsQ9ANQtlJoAiIGCgJIAhIAkAO2Ug%3D%3D&uc=15",
-        "start_date": "2024-12-16T16:25:00.000Z",
-        "impressions_total": 47485,
-        "impressions_map": {
-          "de": 0,
-          "be": 10039,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 307,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 28604,
-          "hu": 0,
-          "se": 1387,
-          "si": 0,
-          "sk": 0,
-          "ie": 6125,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 1023,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Patagonia Europe",
-        "profile_name": "Patagonia Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Conversion-ROE-Snapchat&utm_medium=cpc&bg_source=sn&bg_source_id={{ad.id}}&bg_campaign={{campaign.id}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ec058988-cd2a-4aec-81d2-af6cad4d63cd",
-        "name": "Social Engagers Video 1",
-        "ad_account_name": "Patagonia Europe Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Find activism opportunities",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WanIHjOyUJ16FEV4EcF8G.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIg84lIAEw4AM41AZAAUoOCgkjCQkFCwg4KBgQ9ANQrHVoAiIGCgJIBRIAogEyCLoKEiUKIwiV1h8gATDQBTiACkACSg4KCSEKCAYKBzUeFxD0A1CsdWgCIgYKAkgDEgCiATEIfxIlCiMI-tYaIAEw4AM41AZAAkoOCgkkCAcECQUqGxIQ9ANQrHVoAiIGCgJIAhIAogEyCJIKEiUKIwj_2xwgATDgAzjUBkACSg4KCSgLBwUJCCocExD0A1CsdWgCIgYKAkgCEgCiATIIxAoSJQojCJeTFiABMOADONYGQAJKDgoJHQgGAwcFJRUQEPQDUKx1aAIiBgoCSAISAKIBMgjSChIlCiMI448XIAEw4AM41AZAAkoOCgkfCQYECAUoFhEQ9ANQrHVoAiIGCgJIAhIAkAOsdQ%3D%3D&uc=15",
-        "start_date": "2024-12-11T15:02:29.000Z",
-        "impressions_total": 181987,
-        "impressions_map": {
-          "de": 0,
-          "be": 143821,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 1323,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1418,
-          "hu": 0,
-          "se": 1962,
-          "si": 0,
-          "sk": 0,
-          "ie": 31286,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 2177,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Patagonia Europe",
-        "profile_name": "Patagonia Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Traffic-ROE-Snapchat&utm_medium=cpc"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -414,49 +82,47 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b7199035-f07e-4413-8fa4-cbadee96f399",
-        "name": "ProtectOurWinters-MobilityMonth-Other-EU-25Sep25EU",
-        "ad_account_name": "Social Amp ",
+        "id": "0b963489-ed63-4fa3-afd6-7e05b89f5294",
+        "name": "Climate Heartbreak Story",
+        "ad_account_name": "Patagonia Europe Self Service",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [],
-        "headline": "Protect Our Winters Europe",
+        "headline": "Climate Heartbreak Got You Down?",
         "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZfYxFc5NFkQwmszJqUHC9.67?mo=GpMCGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0IssUQIAEw4AM41AZAAUoOCgk3FhMRFBEQEjYQ9ANQ8C5oAnUBc29AfQAAgD8iBgoCSAISAKIBPAi6ChIvCi0I5s4NIAEw0AU4gApAAkoOCglbDRAOEAsODAwQ9ANQ8C5oAnUGQo5AfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0Iz4EKIAEw4AM41AZAAkoOCgklDAsLDAsKCR4Q9ANQ8C5oAnVVtWZAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I-eILIAEw4AM41AZAAkoOCglLCw4NDwoMDAsQ9ANQ8C5oAnXwIYlAfQAAgD8iBgoCSAISAJAD8C4%3D&uc=15",
-        "start_date": "2025-09-25T07:20:37.000Z",
-        "impressions_total": 171589,
+        "start_date": "2024-12-16T16:25:00.000Z",
+        "impressions_total": 1360384,
         "impressions_map": {
-          "de": 278,
-          "be": 168750,
+          "de": 0,
+          "be": 170806,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 967,
+          "dk": 14241,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 0,
+          "fr": 578784,
           "hu": 0,
-          "se": 76,
+          "se": 83338,
           "si": 0,
           "sk": 0,
-          "ie": 0,
+          "ie": 404229,
           "ee": 0,
           "el": 0,
           "mt": 0,
           "it": 0,
           "es": 0,
-          "at": 1410,
+          "at": 0,
           "cy": 0,
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 108,
+          "nl": 108986,
           "tr": 0
         },
         "targeting_v2": {
@@ -466,6 +132,7 @@
               "min_age": "18",
               "age_groups": [],
               "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -474,8 +141,50 @@
         "paying_advertiser_name": "Patagonia Europe",
         "profile_name": "Patagonia Europe",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://mobility.protectourwinters.eu?utm_source=snapchat&utm_medium=cpc&utm_campaign=SocialAmp-Snapchat-ProtectOurWinters-MobilityMonth-Other-EU-25Sep25"
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Climate Heartbreak Got You Down?",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Climate Heartbreak Got You Down?",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dV5F2qjbat5wkg5jCwneF.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Conversion-ROE-Snapchat&utm_medium=cpc&bg_source=sn&bg_source_id={{ad.id}}&bg_campaign={{campaign.id}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Climate Heartbreak Got You Down?",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cmbzJs4bxEGuvqjLEb3CZ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Conversion-ROE-Snapchat&utm_medium=cpc&bg_source=sn&bg_source_id={{ad.id}}&bg_campaign={{campaign.id}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Climate Heartbreak Got You Down?",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/t19ljxNe58GnoopSFXy2X.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Conversion-ROE-Snapchat&utm_medium=cpc&bg_source=sn&bg_source_id={{ad.id}}&bg_campaign={{campaign.id}}"
+              }
+            }
+          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -559,6 +268,153 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
+        "id": "f7c548cf-e693-4785-9d5d-b5f054d4f6a5",
+        "name": "EuroNaturFoundation-SomeCryOutforInsects-EmailAcquisition-EU-20Mar25",
+        "ad_account_name": "Social Amp ",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "EuroNatur Foundation",
+        "call_to_action": "SIGN UP",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dmHN6tHk2LR9v27wwbSUw.67?mo=GpMCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLghDEhoKGAjLlRggAUoOCglUHRYdFhwdGlEQ9ANoAiIOCgpCBgiEjfG-BkgEEgCiATAIugoSGwoZCN3SFCABSg8KCowBEhgVFxMUEhMQ9ANoAiIOCgpCBgisjfG-BkgCEgCiAS4IfxIaChgIiLwOIAFKDgoJPQsSDw0QDQ8yEPQDaAIiDgoKQgYIrI3xvgZIAhIAogEvCJIKEhoKGAieig8gAUoOCgk6EA8PERAQDjEQ9ANoAiIOCgpCBgisjfG-BkgCEgCiAS8IxAoSGgoYCKK2ECABSg4KCWoPFBITDxIPEBD0A2gCIg4KCkIGCKyN8b4GSAISAJAD8C4%3D&uc=15",
+        "start_date": "2025-03-25T16:38:29.000Z",
+        "impressions_total": 266942,
+        "impressions_map": {
+          "de": 0,
+          "be": 65426,
+          "fi": 1397,
+          "pt": 97562,
+          "bg": 0,
+          "dk": 848,
+          "lt": 0,
+          "lu": 0,
+          "hr": 28934,
+          "lv": 0,
+          "fr": 709,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 71620,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 446,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Patagonia Europe",
+        "profile_name": "Patagonia Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.euronatur.org/en/about-euronatur/information-and-contact/publications-and-events/newsletter?utm_source=snapchat&utm_medium=cpc&utm_campaign=SocialAmp-Snapchat-EuroNaturFoundation-SomeCryOutforInsects-EmailAcquisition-EU-20Mar25"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e354f7a1-3f6b-4f2a-b084-cde80a529b9c",
+        "name": "TheOceanandUs-SayNOtoDeepSeaMining-Petition-EU-18Feb25",
+        "ad_account_name": "Social Amp ",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "The Ocean and Us",
+        "call_to_action": "SIGN UP",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HVDiD7BmjCDxXFNYq6F7y.67?mo=GpwCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBMAhDEhwKGgj7-QkgAUoQCgslCwoJCgoJCCcGBxD0A2gCIg4KCkIGCNTU0r0GSAMSAKIBMQi6ChIcChoInK4FIAFKEAoLOwIEAwMDAgMDAQIQ9ANoAiIOCgpCBgjq1NK9BkgDEgCiATAIfxIcChoIn7cEIAFKEAoLFwQDAwMDAwMTAwIQ9ANoAiIOCgpCBgjq1NK9BkgCEgCiATEIkgoSHAoaCLzXBCABShAKCxcEAwMEBAMDFAMDEPQDaAIiDgoKQgYI6tTSvQZIAhIAogExCMQKEhwKGginkgQgAUoQCgsuAgIDAgICAgICARD0A2gCIg4KCkIGCOrU0r0GSAISAJAD8C4%3D&uc=15",
+        "start_date": "2025-03-26T23:00:04.000Z",
+        "impressions_total": 722040,
+        "impressions_map": {
+          "de": 617,
+          "be": 117875,
+          "fi": 0,
+          "pt": 141563,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1177,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 347286,
+          "es": 112845,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 677,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Patagonia Europe",
+        "profile_name": "Patagonia Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.change.org/p/say-no-to-deep-sea-mining?utm_source=snapchat&utm_medium=cpc&utm_campaign=SocialAmp-Snapchat-TheOceanandUs-PetitionSayNoToDeepSeaMining-Petition-EU-25Mar25"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
         "id": "ffce0e49-4180-43a8-bfef-d6e7988f846f",
         "name": "Social Engagers Video 2",
         "ad_account_name": "Patagonia Europe Self Service",
@@ -575,24 +431,24 @@
         "top_snap_crop_position": "MIDDLE",
         "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RcspwykPptmW1eVjs4uzS.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIyLUhIAEw4AM41AZAAUoOCglfIxc7JhwoIjYQ9ANQylxoAiIGCgJIBBIAogEyCLoKEiUKIwiX1h0gATDQBTiACkACSg4KCWkaEigiGR0bLxD0A1DKXGgCIgYKAkgDEgCiATEIfxIlCiMIldsXIAEw4AM41AZAAkoOCglEGRAmGhMXFSQQ9ANQylxoAiIGCgJIAhIAogEyCJIKEiUKIwj4lhkgATDgAzjUBkACSg4KCUgZDyccFBgaJRD0A1DKXGgCIgYKAkgCEgCiATIIxAoSJQojCPPGFCABMOADONYGQAJKDgoJSxMLHBcRExIhEPQDUMpcaAIiBgoCSAISAKIBMgjSChIlCiMI7YAVIAEw4AM41AZAAkoOCglNFAweGBIUEiIQ9ANQylxoAiIGCgJIAhIAkAPKXA%3D%3D&uc=15",
         "start_date": "2024-12-11T15:02:29.000Z",
-        "impressions_total": 308740,
+        "impressions_total": 309950,
         "impressions_map": {
           "de": 0,
-          "be": 239926,
+          "be": 240838,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 2728,
+          "dk": 2739,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 3301,
+          "fr": 3330,
           "hu": 0,
-          "se": 3496,
+          "se": 3506,
           "si": 0,
           "sk": 0,
-          "ie": 54720,
+          "ie": 54938,
           "ee": 0,
           "el": 0,
           "mt": 0,
@@ -603,7 +459,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 4569,
+          "nl": 4599,
           "tr": 0
         },
         "targeting_v2": {
@@ -633,51 +489,49 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "ceeba71a-a959-4c58-9170-22c5eeb33117",
-        "name": "ReschoolingWith-SALTChristmas-Other-EU-22Dec25",
-        "ad_account_name": "Social Amp ",
+        "id": "2f803d79-f785-43b1-bd82-791059921ba5",
+        "name": "Climate Heartbreak Video",
+        "ad_account_name": "Patagonia Europe Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Reschooling-With",
-        "call_to_action": "VIEW",
+        "languages": [],
+        "headline": "Find activism opportunities",
+        "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/w2KUHXLTTRnkX5cL5TrDr.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQiypAQgATDgAzjUBkABSg4KCSQEAwQEAwQEAhD0A1DwLmgCdQ-HSkB9AACAPyIGCgJIAxIAogE8CLoKEi8KLQio_QQgATDQBTiACkACSg4KCUEBAgICAQIBAhD0A1DwLmgCdUrxZEB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQjk_QIgATDgAzjUBkACSg4KCRwCAgICAwIBAhD0A1DwLmgCdSeVREB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjuiwQgATDgAzjUBkACSg4KCTUCAQECAQIBARD0A1DwLmgCdSS7XUB9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-12-22T12:19:42.000Z",
-        "impressions_total": 186299,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TdsCCfYBnJC4LL7mGI12e.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIvd8gIAEw4AM41AZAAUoOCglNQjI0OxIlHzIQ9ANQtlJoAiIGCgJIAhIAogEyCLoKEiUKIwioohogATDQBTiACkACSg4KCTMxJScvEB8WKBD0A1C2UmgCIgYKAkgDEgCiATEIfxIlCiMIh_IUIAEw4AM41AZAAkoOCgkrJyEiJQsYEhwQ9ANQtlJoAiIGCgJIAhIAogEyCJIKEiUKIwiF8xUgATDgAzjUBkACSg4KCSwpIiIlDhcTGxD0A1C2UmgCIgYKAkgCEgCiATIIxAoSJQojCI6tESABMOADONYGQAJKDgoJJCIYGSAJFQ4aEPQDULZSaAIiBgoCSAISAKIBMgjSChIlCiMI2vMRIAEw4AM41AZAAkoOCgkkIxkaIAsVDhsQ9ANQtlJoAiIGCgJIAhIAkAO2Ug%3D%3D&uc=15",
+        "start_date": "2024-12-16T16:25:00.000Z",
+        "impressions_total": 47949,
         "impressions_map": {
           "de": 0,
-          "be": 67367,
+          "be": 10141,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 0,
+          "dk": 322,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 9701,
+          "fr": 28763,
           "hu": 0,
-          "se": 0,
+          "se": 1407,
           "si": 0,
           "sk": 0,
-          "ie": 0,
+          "ie": 6278,
           "ee": 0,
           "el": 0,
           "mt": 0,
           "it": 0,
-          "es": 108629,
+          "es": 0,
           "at": 0,
           "cy": 0,
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 602,
+          "nl": 1038,
           "tr": 0
         },
         "targeting_v2": {
@@ -687,6 +541,7 @@
               "min_age": "18",
               "age_groups": [],
               "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -696,7 +551,7 @@
         "profile_name": "Patagonia Europe",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://reschooling.org/unlearning/salt/?utm_source=snapchat&utm_medium=cpc&utm_campaign=SocialAmp-Snapchat-ReschoolingWith-SALTChristmas-Other-EU-22Dec25"
+          "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Conversion-ROE-Snapchat&utm_medium=cpc&bg_source=sn&bg_source_id={{ad.id}}&bg_campaign={{campaign.id}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -771,6 +626,153 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Conversion-ROE-Snapchat&utm_medium=cpc"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1b7782fd-52c9-47e9-ac81-99bfec4f9f6a",
+        "name": "POWSwitzerland-KeepSwissGlaciersCool-Petition-EU-6Oct25",
+        "ad_account_name": "Social Amp ",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Protect Our Winters Switzerland",
+        "call_to_action": "SIGN UP",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4SvkFaWSREDlXiJLhWm8O.67?mo=GpMCGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0I-KIOIAEw4AM41AZAAUoOCgk2EQ4NDg0PCzgQ9ANQ8C5oAnXmwWJAfQAAgD8iBgoCSAMSAKIBPAi6ChIvCi0ItcoMIAEw0AU4gApAAkoOCglqCQwLDAkKCAoQ9ANQ8C5oAnUzC3tAfQAAgD8iBgoCSAISAKIBPAiSChIvCi0I9PYHIAEw4AM41AZAAkoOCgkjCAgHBwcGBh8Q9ANQ8C5oAnWFeUdAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I2pMKIAEw4AM41AZAAkoOCglPCQoKCwcJCAgQ9ANQ8C5oAnUMrG1AfQAAgD8iBgoCSAISAJAD8C4%3D&uc=15",
+        "start_date": "2025-10-08T11:31:23.000Z",
+        "impressions_total": 183513,
+        "impressions_map": {
+          "de": 0,
+          "be": 68094,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 414,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 114734,
+          "es": 0,
+          "at": 234,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 37,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Patagonia Europe",
+        "profile_name": "Patagonia Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.keep-swiss-glaciers-cool.ch?utm_source=snapchat&utm_medium=cpc&utm_campaign=SocialAmp-Snapchat-POWSwitzerland-KeepSwissGlaciersCool-Petition-EU-6Oct25"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "61f7db9f-cb27-4f2f-97c5-aa47eaae7102",
+        "name": "Euronatur-ShowYourLoveForNatureinpictures-Event-EU-31-Mar-25",
+        "ad_account_name": "Social Amp ",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "EuroNatur Foundation",
+        "call_to_action": "SIGN UP",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/aOwKKCJIiauHLnUyEsqVW.67?mo=GpwCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBMAhDEhwKGgii9QsgAUoQCgsqDg0PDAwOCycJBhD0A2gCIg4KCkIGCITFh70GSAQSAKIBMQi6ChIcChoIzqUIIAFKEAoLPQgJCAkGCAcGBAYQ9ANoAiIOCgpCBgicxYe9BkgCEgCiATAIfxIcChoIytAGIAFKEAoLHAgHBwYGBgYWBAQQ9ANoAiIOCgpCBgicxYe9BkgCEgCiATEIkgoSHAoaCPLyBiABShAKCx0HBwgHBwYGFgQFEPQDaAIiDgoKQgYInMWHvQZIAhIAogExCMQKEhwKGgixjwYgAUoQCgswBQcGBgUFBAUDAxD0A2gCIg4KCkIGCJzFh70GSAISAJAD8C4%3D&uc=15",
+        "start_date": "2026-02-01T23:00:56.000Z",
+        "impressions_total": 410517,
+        "impressions_map": {
+          "de": 0,
+          "be": 88284,
+          "fi": 219,
+          "pt": 53905,
+          "bg": 0,
+          "dk": 116,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 206,
+          "hu": 30391,
+          "se": 7,
+          "si": 0,
+          "sk": 0,
+          "ie": 3999,
+          "ee": 0,
+          "el": 82400,
+          "mt": 0,
+          "it": 50413,
+          "es": 69917,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 30598,
+          "ro": 0,
+          "nl": 62,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Patagonia Europe",
+        "profile_name": "Patagonia Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.euronatur.org/en/about-euronatur/information-and-contact/publications-and-events/photo-competition/competition-2026?utm_source=snapchat&utm_medium=cpc&utm_campaign=SocialAmp-Snapchat-EuroNaturFoundation-Photocompetition-Other-EU-29Jan26"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

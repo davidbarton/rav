@@ -1,457 +1,10 @@
 {
   "brand": "Jack & Jones",
   "country": "dk",
-  "fetched_at": "2026-04-09T21:54:55.473Z",
+  "fetched_at": "2026-04-10T07:52:44.314Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "5e447f8a-6087-4edc-8103-98e709211b22",
-        "name": "singlead_still_trousers_v2",
-        "ad_account_name": "jack&jones ad account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Get 50% off the 2nd pair!",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/g06seBknfstjoCmoERVRh.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-10-01T22:00:00.000Z",
-        "impressions_total": 28310,
-        "impressions_map": {
-          "de": 3925,
-          "be": 1097,
-          "fi": 1567,
-          "pt": 821,
-          "bg": 183,
-          "dk": 1485,
-          "lt": 78,
-          "lu": 158,
-          "hr": 541,
-          "lv": 0,
-          "fr": 115,
-          "hu": 181,
-          "se": 6075,
-          "si": 366,
-          "sk": 37,
-          "ie": 2390,
-          "ee": 0,
-          "el": 940,
-          "mt": 0,
-          "it": 159,
-          "es": 295,
-          "at": 940,
-          "cy": 0,
-          "cz": 119,
-          "pl": 222,
-          "ro": 283,
-          "nl": 6333,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JACK & JONES OFFICIAL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com?category=jj-trousers&medium=paid&utm_source=snap"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "df619c65-df1a-45d0-b968-08069dd74254",
-        "name": "singlead_still_jeans-offer_jj_v1",
-        "ad_account_name": "jack&jones ad account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "JEANS 50% OFF THE 2ND PAIR",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fANPnki2CxQPhzgdEIZYq.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-04-23T22:01:00.000Z",
-        "impressions_total": 220130,
-        "impressions_map": {
-          "de": 4680,
-          "be": 21571,
-          "fi": 11911,
-          "pt": 17575,
-          "bg": 6373,
-          "dk": 4320,
-          "lt": 2640,
-          "lu": 5572,
-          "hr": 4968,
-          "lv": 0,
-          "fr": 768,
-          "hu": 6399,
-          "se": 24348,
-          "si": 11520,
-          "sk": 1129,
-          "ie": 15347,
-          "ee": 0,
-          "el": 18826,
-          "mt": 0,
-          "it": 5309,
-          "es": 19766,
-          "at": 3613,
-          "cy": 0,
-          "cz": 2321,
-          "pl": 2333,
-          "ro": 4425,
-          "nl": 24416,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JACK & JONES OFFICIAL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com/redirect?category=jj-jeans&utm_source=snap&utm_medium=paid"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d3dea0dc-5f17-4908-8d9e-3fd4a510d592",
-        "name": "singlead_still_20extra_sale_v1",
-        "ad_account_name": "jack&jones ad account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "da"
-        ],
-        "headline": "Brug koden: JJ20EXTRA",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6b64Hvp8d7t0xyjNjoLsR.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-01-29T00:00:08.000Z",
-        "impressions_total": 18129,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 18129,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JJXX",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTUF1OFhBbHRuZ29SMHRKZkdZOEtEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com/da-dk/jjxx/udsalg-damer?utm_source=snap&utm_medium=paid"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "03b6f7c2-90f7-4fd9-89be-7e927b05e6f5",
-        "name": "singlead_still_tops-offer_jj_v1",
-        "ad_account_name": "jack&jones ad account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "TOPS. 50% OFF THE 2ND ITEM",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6vBgs0ftLuZDhlhWQGxZT.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-05-04T22:01:00.000Z",
-        "impressions_total": 96884,
-        "impressions_map": {
-          "de": 1817,
-          "be": 9951,
-          "fi": 2414,
-          "pt": 5025,
-          "bg": 3735,
-          "dk": 2413,
-          "lt": 1301,
-          "lu": 1778,
-          "hr": 3046,
-          "lv": 0,
-          "fr": 320,
-          "hu": 2163,
-          "se": 10611,
-          "si": 5816,
-          "sk": 331,
-          "ie": 6750,
-          "ee": 0,
-          "el": 9997,
-          "mt": 0,
-          "it": 1886,
-          "es": 7069,
-          "at": 1465,
-          "cy": 0,
-          "cz": 882,
-          "pl": 755,
-          "ro": 2554,
-          "nl": 14805,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JACK & JONES OFFICIAL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com/redirect?category=jj-crm-3&utm_source=snap&utm_medium=paid"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ea3714bc-8251-4676-89f9-c29468825752",
-        "name": "singlead_still_jeans-offer_jj",
-        "ad_account_name": "jack&jones ad account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "JEANS 50% OFF THE 2ND PAIR",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/q7zB5yKbnNTGfHwOT3MC7.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-04-23T22:01:00.000Z",
-        "impressions_total": 94538,
-        "impressions_map": {
-          "de": 1127,
-          "be": 9513,
-          "fi": 2984,
-          "pt": 8806,
-          "bg": 3455,
-          "dk": 1545,
-          "lt": 1027,
-          "lu": 2235,
-          "hr": 2411,
-          "lv": 0,
-          "fr": 231,
-          "hu": 3282,
-          "se": 9388,
-          "si": 3663,
-          "sk": 483,
-          "ie": 3884,
-          "ee": 0,
-          "el": 13119,
-          "mt": 0,
-          "it": 2604,
-          "es": 10724,
-          "at": 865,
-          "cy": 0,
-          "cz": 1104,
-          "pl": 1059,
-          "ro": 2333,
-          "nl": 8696,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JACK & JONES OFFICIAL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com/redirect?category=jj-jeans&utm_source=snap&utm_medium=paid"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "cfe852e3-f0f8-466d-9708-c0e416ae542e",
-        "name": "singlead_still_trousers_v1",
-        "ad_account_name": "jack&jones ad account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Get 50% off the 2nd pair!",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gwQNYScvzPlkru7KRFwVN.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-10-01T22:00:00.000Z",
-        "impressions_total": 3530,
-        "impressions_map": {
-          "de": 524,
-          "be": 170,
-          "fi": 165,
-          "pt": 107,
-          "bg": 30,
-          "dk": 154,
-          "lt": 9,
-          "lu": 24,
-          "hr": 94,
-          "lv": 0,
-          "fr": 20,
-          "hu": 21,
-          "se": 860,
-          "si": 52,
-          "sk": 2,
-          "ie": 221,
-          "ee": 0,
-          "el": 127,
-          "mt": 0,
-          "it": 23,
-          "es": 36,
-          "at": 106,
-          "cy": 0,
-          "cz": 17,
-          "pl": 33,
-          "ro": 25,
-          "nl": 710,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JACK & JONES OFFICIAL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com?category=jj-trousers&medium=paid&utm_source=snap"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -547,6 +100,228 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
+        "id": "03b6f7c2-90f7-4fd9-89be-7e927b05e6f5",
+        "name": "singlead_still_tops-offer_jj_v1",
+        "ad_account_name": "jack&jones ad account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "TOPS. 50% OFF THE 2ND ITEM",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6vBgs0ftLuZDhlhWQGxZT.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-05-04T22:01:00.000Z",
+        "impressions_total": 96884,
+        "impressions_map": {
+          "de": 1817,
+          "be": 9951,
+          "fi": 2414,
+          "pt": 5025,
+          "bg": 3735,
+          "dk": 2413,
+          "lt": 1301,
+          "lu": 1778,
+          "hr": 3046,
+          "lv": 0,
+          "fr": 320,
+          "hu": 2163,
+          "se": 10611,
+          "si": 5816,
+          "sk": 331,
+          "ie": 6750,
+          "ee": 0,
+          "el": 9997,
+          "mt": 0,
+          "it": 1886,
+          "es": 7069,
+          "at": 1465,
+          "cy": 0,
+          "cz": 882,
+          "pl": 755,
+          "ro": 2554,
+          "nl": 14805,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JACK & JONES OFFICIAL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.jackjones.com/redirect?category=jj-crm-3&utm_source=snap&utm_medium=paid"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "df619c65-df1a-45d0-b968-08069dd74254",
+        "name": "singlead_still_jeans-offer_jj_v1",
+        "ad_account_name": "jack&jones ad account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "JEANS 50% OFF THE 2ND PAIR",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fANPnki2CxQPhzgdEIZYq.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-04-23T22:01:00.000Z",
+        "impressions_total": 220130,
+        "impressions_map": {
+          "de": 4680,
+          "be": 21571,
+          "fi": 11911,
+          "pt": 17575,
+          "bg": 6373,
+          "dk": 4320,
+          "lt": 2640,
+          "lu": 5572,
+          "hr": 4968,
+          "lv": 0,
+          "fr": 768,
+          "hu": 6399,
+          "se": 24348,
+          "si": 11520,
+          "sk": 1129,
+          "ie": 15347,
+          "ee": 0,
+          "el": 18826,
+          "mt": 0,
+          "it": 5309,
+          "es": 19766,
+          "at": 3613,
+          "cy": 0,
+          "cz": 2321,
+          "pl": 2333,
+          "ro": 4425,
+          "nl": 24416,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JACK & JONES OFFICIAL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.jackjones.com/redirect?category=jj-jeans&utm_source=snap&utm_medium=paid"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c7070671-981d-4926-834a-5bedc1fb4548",
+        "name": "singlead_still_tops-offer_jj",
+        "ad_account_name": "jack&jones ad account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "TOPS. 50% OFF THE 2ND ITEM",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/wAbHZ9OzPp6xIWMUzYQzE.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-05-04T22:01:00.000Z",
+        "impressions_total": 34217,
+        "impressions_map": {
+          "de": 498,
+          "be": 3027,
+          "fi": 615,
+          "pt": 1824,
+          "bg": 1748,
+          "dk": 708,
+          "lt": 235,
+          "lu": 708,
+          "hr": 844,
+          "lv": 0,
+          "fr": 96,
+          "hu": 855,
+          "se": 3234,
+          "si": 2335,
+          "sk": 90,
+          "ie": 2871,
+          "ee": 0,
+          "el": 4002,
+          "mt": 0,
+          "it": 732,
+          "es": 3585,
+          "at": 519,
+          "cy": 0,
+          "cz": 370,
+          "pl": 403,
+          "ro": 1091,
+          "nl": 3827,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JACK & JONES OFFICIAL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.jackjones.com/redirect?category=jj-crm-3&utm_source=snap&utm_medium=paid"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
         "id": "4c481a20-20a6-4a2e-888c-3f9ec8d83909",
         "name": "singlead_still_20extra_sale_v1",
         "ad_account_name": "jack&jones ad account",
@@ -571,80 +346,6 @@
           "pt": 0,
           "bg": 0,
           "dk": 14521,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JACK & JONES OFFICIAL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com/da-dk/udsalg?utm_source=snap&utm_medium=paid"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d29fa25f-7776-4be7-82bf-03bb18bc4bbf",
-        "name": "singlead_still_20extra_sale_v2",
-        "ad_account_name": "jack&jones ad account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "da"
-        ],
-        "headline": "Brug koden: JJ20EXTRA",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/exiTJGLMNYeSLwrDnc0y3.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-01-29T00:00:08.000Z",
-        "impressions_total": 3792,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 3792,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -1041,6 +742,305 @@
             ]
           },
           "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "5e447f8a-6087-4edc-8103-98e709211b22",
+        "name": "singlead_still_trousers_v2",
+        "ad_account_name": "jack&jones ad account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Get 50% off the 2nd pair!",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/g06seBknfstjoCmoERVRh.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-10-01T22:00:00.000Z",
+        "impressions_total": 28310,
+        "impressions_map": {
+          "de": 3925,
+          "be": 1097,
+          "fi": 1567,
+          "pt": 821,
+          "bg": 183,
+          "dk": 1485,
+          "lt": 78,
+          "lu": 158,
+          "hr": 541,
+          "lv": 0,
+          "fr": 115,
+          "hu": 181,
+          "se": 6075,
+          "si": 366,
+          "sk": 37,
+          "ie": 2390,
+          "ee": 0,
+          "el": 940,
+          "mt": 0,
+          "it": 159,
+          "es": 295,
+          "at": 940,
+          "cy": 0,
+          "cz": 119,
+          "pl": 222,
+          "ro": 283,
+          "nl": 6333,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JACK & JONES OFFICIAL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.jackjones.com?category=jj-trousers&medium=paid&utm_source=snap"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "cfe852e3-f0f8-466d-9708-c0e416ae542e",
+        "name": "singlead_still_trousers_v1",
+        "ad_account_name": "jack&jones ad account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Get 50% off the 2nd pair!",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gwQNYScvzPlkru7KRFwVN.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-10-01T22:00:00.000Z",
+        "impressions_total": 3530,
+        "impressions_map": {
+          "de": 524,
+          "be": 170,
+          "fi": 165,
+          "pt": 107,
+          "bg": 30,
+          "dk": 154,
+          "lt": 9,
+          "lu": 24,
+          "hr": 94,
+          "lv": 0,
+          "fr": 20,
+          "hu": 21,
+          "se": 860,
+          "si": 52,
+          "sk": 2,
+          "ie": 221,
+          "ee": 0,
+          "el": 127,
+          "mt": 0,
+          "it": 23,
+          "es": 36,
+          "at": 106,
+          "cy": 0,
+          "cz": 17,
+          "pl": 33,
+          "ro": 25,
+          "nl": 710,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JACK & JONES OFFICIAL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.jackjones.com?category=jj-trousers&medium=paid&utm_source=snap"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d3dea0dc-5f17-4908-8d9e-3fd4a510d592",
+        "name": "singlead_still_20extra_sale_v1",
+        "ad_account_name": "jack&jones ad account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Brug koden: JJ20EXTRA",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6b64Hvp8d7t0xyjNjoLsR.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-29T00:00:08.000Z",
+        "impressions_total": 18129,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 18129,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JJXX",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTUF1OFhBbHRuZ29SMHRKZkdZOEtEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.jackjones.com/da-dk/jjxx/udsalg-damer?utm_source=snap&utm_medium=paid"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d29fa25f-7776-4be7-82bf-03bb18bc4bbf",
+        "name": "singlead_still_20extra_sale_v2",
+        "ad_account_name": "jack&jones ad account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Brug koden: JJ20EXTRA",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/exiTJGLMNYeSLwrDnc0y3.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-29T00:00:08.000Z",
+        "impressions_total": 3792,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 3792,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JACK & JONES OFFICIAL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.jackjones.com/da-dk/udsalg?utm_source=snap&utm_medium=paid"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

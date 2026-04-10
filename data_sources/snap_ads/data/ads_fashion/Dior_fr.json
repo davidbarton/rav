@@ -1,30 +1,33 @@
 {
   "brand": "Dior",
   "country": "fr",
-  "fetched_at": "2026-04-09T18:51:51.464Z",
+  "fetched_at": "2026-04-10T05:52:29.307Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "14e48412-7cc6-4b5c-8f52-b0c1a6b71d82",
-        "name": "26-01-06 - Publicité",
-        "ad_account_name": "iOS In-App Promotions",
+        "id": "c4f938dd-801d-4386-8b7a-8a78d0fc3b7f",
+        "name": "FOREVER-FLUID-RELAUNCH_VIDEO-GLOW-10S_SVF_10S_LEAR_MRP_INS_",
+        "ad_account_name": "PCD_PC_FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
         "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "VIEW PROFILE",
+        "languages": [
+          "fr"
+        ],
+        "headline": "DIOR FOREVER",
+        "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/2rWbcQUdP1yymPmUaJ2T9.67?mo=GrsCGgoyAQQ6AX1QD2ABUIsCWghBZHNNZWRpYaIBQQhDEi0KKwiMr6YFIAEw4AM41gZAAUoPCgrAATI1M0g7OjM5EPQDULLpBWgCdUIuLEAiDgoKQgYIkY30ygZIBBIAogFCCLoKEi0KKwi9jeIDIAEw4AM41gZAAkoPCgqTASAbHDUrHCUmEPQDULLpBWgCdWgqH0AiDgoKQgYI2I70ygZIAhIAogFHCJIKEjIKMAit25IEIAEw4AM41gZAAkoPCgqzASUqLDcvLigsEPQDULLpBWgCdUJDHUB9AACAPyIOCgpCBgjXjvTKBkgCEgCiAUcI0goSMgowCNO3kgQgATDgAzjWBkACSg8KCpgBIx4hPC8hJyoQ9ANQsukFaAJ1-C4lQH0AAIA_Ig4KCkIGCNiO9MoGSAISAJADsukF&uc=15",
-        "start_date": "2026-01-21T14:25:15.000Z",
-        "impressions_total": 2445,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CjmXHjmpAmhpLRWJR7lLq.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiUwjggATDgAzjUBkABSg4KCWIbNTsoQiQ3JRD0A1CQTmgCdTx8VkAiBgoCSAISAKIBNwi6ChIqCigIuMQsIAEw0AU4gApAAkoOCgloDTQlHDsXJRgQ9ANQkE5oAnWmhF9AIgYKAkgDEgCiATwIkgoSLwotCOb-IyABMOADONQGQAJKDgoJTBIiJx0vESMYEPQDUJBOaAJ1FKVQQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCM3JHiABMOADONQGQAJKDgoJTgokGxQkDhoSEPQDUJBOaAJ1ZEdVQH0AAIA_IgYKAkgCEgCQA5BO&uc=15",
+        "start_date": "2026-03-09T09:00:17.000Z",
+        "impressions_total": 949185,
         "impressions_map": {
           "de": 0,
-          "be": 780,
+          "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -33,7 +36,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 1608,
+          "fr": 949185,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -44,7 +47,87 @@
           "mt": 0,
           "it": 0,
           "es": 0,
-          "at": 57,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "30",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/fr_fr/beauty/makeup/new-dior-forever-skin-glow-skin-wear.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=pcd_pc_fra_forever-fluid-relaunch_wom_mku_202603_aw_view_sn_crd_eur_ins_r2026xxxxx&utm_content=forever-fluid-relaunch_video-glow-10s_svf_10s_lear_mrp_ins_"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "04930409-fb39-45fd-9b56-8d7799aab093",
+        "name": "17/08/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gnA6AK429JeQqNIwRUMZs.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2025-08-17T22:00:00.000Z",
+        "impressions_total": 5325,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 5325,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
           "cy": 0,
           "cz": 0,
           "pl": 0,
@@ -64,13 +147,12 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Varense Dior👩🏼‍🏫",
-        "profile_name": "Varense Dior👩🏼‍🏫",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUmo0d2lKWnp4TEZjbDVRTGZYN2pkP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "paying_advertiser_name": "M-Dior84",
+        "profile_name": "M-Dior84",
         "sticker_display_mode": "HIDE",
         "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/varensed",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUmo0d2lKWnp4TEZjbDVRTGZYN2pkP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
+          "deep_link_uri": "snapchat://add/prestataires84",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QveVV0Zk85QXMxU2dNRk1KZ0hlaUVrP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -156,128 +238,22 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c28add24-1492-48c8-8ad4-41987c8a778b",
-        "name": "MENFALL25COLLECTION_VID_CLN_NO_LEARN_MCOP_COL1_MAIN",
-        "ad_account_name": "CDC_FLG_MULTI_WORLD_Social-Snapchat_PML_EUR_LVMH",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Collection Homme Automne 2025",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/2ISBgImmFTT9rzgdnQiNM.67?mo=GuoBGggyAgR9UA9gAVoIQWRzTWVkaWGiASgIQxIcChoIzIthIAFKEAoLHiUVvgGHAQwbHEQQ9ANoAiIGCgJIAxIAogEnCLoKEhoKGAiK7UQgAUoOCgkXHRJ6SAgcETcQ9ANoAiIGCgJIAxIAogEmCH8SGgoYCL7oMyABSg4KCRUPDWJJBw4NJRD0A2gCIgYKAkgCEgCiAScIkgoSGgoYCNiPNiABSg4KCRYPD2pIBw8NIxD0A2gCIgYKAkgCEgCiAScIxAoSGgoYCMfoKCABSg4KCRMQDDwuBhELIxD0A2gCIgYKAkgCEgCQA5h1&uc=15",
-        "start_date": "2025-05-05T09:30:57.000Z",
-        "impressions_total": 1676546,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1676546,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "25",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://www.dior.com/en_int/fashion/mens-fashion/fall-collection?utm_source=snapchat&utm_medium=social_paid_branding&utm_campaign=cdc_flg_fra_menfall25collection_men_mul_202504_cs_lpvi_sn_crd_eur_bra-factbra&utm_term=menfall25collection_p2_rtg_feed_m-25-55_nat_lpv_auc-cplpv_n_men&utm_content=menfall25collection_vid_cln_no_learn_mcop_col1_main&wiz_campaign=cdc_flg_fra_menfall25collection_men_mul_202504_cs_lpvi_sn_crd_eur_bra-factbra&wiz_source=snapchat&wiz_medium=social_cpc&wiz_term=menfall25collection_p2_rtg_feed_m-25-55_nat_lpv_auc-cplpv_n_men&wiz_content=menfall25collection_vid_cln_no_learn_mcop_col1_main"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.dior.com/fr_fr/fashion/products/1ESME197LLG_H00N?objectID=1ESME197LLG_H00N&query=1ESME197LLG_H00N&queryID=2278f3e8d40ffb6db2719f5db6ee7713"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/0cfb1ade-df61-49a6-8f06-0c8acdb6de85/c7ac06bc-adfe-49e8-b43d-7a0d8cb4c457.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.dior.com/fr_fr/fashion/products/1LLSH276KEC_H130"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/e1444547-9ba4-4647-b67c-fb56cadc0044/73ab151b-9a0f-4a43-bdfe-af025f95cbc2.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.dior.com/fr_fr/fashion/products/3SN328ZRH_H069?objectID=3SN328ZRH_H069&query=3SN328ZRH_H069&queryID=0e2afa63d479a603127b0fd38c981e4f"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ce5a4d84-4c00-4a10-be02-bc9dc38d733d/a1f2d7f8-d7c9-46b2-8e82-c7af8e007517.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.dior.com/fr_fr/fashion/products/1LLSH276KEC_H03G?objectID=1LLSH276KEC_H03G&query=1LLSH276KEC_H03G&queryID=75c4c86e8608c46913b6ff26b4f60cf1"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/d23a6e4c-a645-4b5d-bf08-b17ae23a7ab0/99b1c488-2b52-4775-90b3-8ee47d63f53f.png"
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "052c94bf-f398-4248-aa13-5517a5b13f9b",
-        "name": "26-01-15 - Ad",
+        "id": "31c82f87-d966-4ea8-968a-fc7635d86e72",
+        "name": "14/08/25 - Publicité",
         "ad_account_name": "Promotions iOS in-app",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
         "ad_type": "DEEP_LINK",
         "ad_render_type": "STATIC",
         "languages": [
-          "en"
+          "fr"
         ],
-        "call_to_action": "VIEW PROFILE",
-        "top_snap_media_type": "IMAGE",
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1CCunLqTG4RpxADZ1q2PS.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-        "start_date": "2026-01-15T08:18:51.000Z",
-        "impressions_total": 292277,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RaOsgmDOXpK7ATEAZH6Zk.67.IRZXSOY?mo=GrwDGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBQghDEiUKIwjs3TogATDgAzjUBkABSg4KCVAuMC4qLiovOhD0A1CeUGgCIhcKCkIGCOrg8sQGSAQSACoHSVJaWFNPWaIBQwi6ChIlCiMI3bQyIAEw0AU4gApAAkoOCglNJyQmJSgfLjEQ9ANQnlBoAiIXCgpCBgit4fLEBkgCEgAqB0lSWlhTT1miAUIIfxIlCiMIuK0kIAEw4AM41AZAAkoOCgkzHB8aGhgcHiUQ9ANQnlBoAiIXCgpCBgiu4fLEBkgCEgAqB0lSWlhTT1miAUMIkgoSJQojCMXwJSABMOADONQGQAJKDgoJNB0fHRoaHR8kEPQDUJ5QaAIiFwoKQgYIruHyxAZIAhIAKgdJUlpYU09ZogFDCMQKEiUKIwj57SIgATDgAzjWBkACSg4KCTgaGRoZHBUfIRD0A1CeUGgCIhcKCkIGCK7h8sQGSAISACoHSVJaWFNPWaIBQwjSChIlCiMI9e0kIAEw4AM41AZAAkoOCgk7HBsbGh0WISQQ9ANQnlBoAiIXCgpCBgiu4fLEBkgCEgAqB0lSWlhTT1mQA55Q&uc=15",
+        "start_date": "2025-08-14T00:33:47.000Z",
+        "impressions_total": 8139,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -289,7 +265,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 292277,
+          "fr": 8139,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -312,6 +288,7 @@
           "regulated_content": false,
           "demographics": [
             {
+              "min_age": "18",
               "age_groups": [],
               "languages": [],
               "advanced_demographics": []
@@ -319,13 +296,13 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Dior Ndiaye👸",
-        "profile_name": "Dior😋",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvakFjNTV4RWVkWkFpdHdmSElDMjBiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "paying_advertiser_name": "Biscuit 💎 Dior 🍪",
+        "profile_name": "💎biscuit 🔱 Aethera",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZUFjeW54Q2piUXhRYXRaRk45a0RZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "sticker_display_mode": "HIDE",
         "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/bb.diior",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvakFjNTV4RWVkWkFpdHdmSElDMjBiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "deep_link_uri": "snapchat://add/biscuit27dior",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc0lOdzU3d3pHT3gxOWZsZ21qN0t2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -406,316 +383,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "3854d4ae-13b6-4b6b-8f5f-21859d27488e",
-        "name": "BACKSTAGE_main-lip-glow-butter-15s_SVF_IMG_LEAR_MRP_INS_main-lip-glow-butter-15s_OSF000EHBE",
-        "ad_account_name": "PCD_PC_FRA_EMEA_SOCIAL-SNAPCHAT_PML_EUR_LVMH_",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "DIOR ADDICT LIP GLOW BUTTER",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/10sCtQ5ZFkt8JS9t926FL.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIibNLIAEw4AM41AZAAUoOCgkpDgsuLTtGPTIQ9ANQmHVoAiIGCgJIBBIAogEyCLoKEiUKIwiQgEIgATDQBTiACkACSg4KCSkMFSBAMzwtIxD0A1CYdWgCIgYKAkgDEgCiATEIfxIlCiMI8qwyIAEw4AM41AZAAkoOCgkmEQ0iISc0KyEQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwj9oTUgATDgAzjUBkACSg4KCSYRDyUhKDQrIxD0A1CYdWgCIgYKAkgCEgCiATIIxAoSJQojCOWNLCABMOADONYGQAJKDgoJHwgNFiUeKxwWEPQDUJh1aAIiBgoCSAISAKIBMgjSChIlCiMI8-gsIAEw4AM41AZAAkoOCgkgCQwYJB0tHRcQ9ANQmHVoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
-        "start_date": "2025-06-10T07:00:00.000Z",
-        "impressions_total": 395194,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 395194,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.dior.com/fr_fr/beauty/makeup/new-from-dior-backstage-blush-stick-and-balm-gloss.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-FRA-BACKSTAGE-WOM-MKU-202506-AW-VIEW-SN-CRD-EUR-INS-R2025&utm_content=BACKSTAGE-main-lip-glow-butter-15s-SVF-IMG-MRP-INS-main-lip-glow-butter-15s"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "2d49d668-e1ed-4fac-8b56-c7fa8011365c",
-        "name": "22-10-25 - Advertentie",
-        "ad_account_name": "iOS in-app promoties",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0RBxPJ5FDkyI779GigXKE.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-10-22T22:00:00.000Z",
-        "impressions_total": 1850,
-        "impressions_map": {
-          "de": 0,
-          "be": 1315,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 87,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 326,
-          "hu": 0,
-          "se": 85,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 37,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Maison Diorama",
-        "profile_name": "Maison Diorama",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVGE2RVJoSGdLV0FPM2E4NnV6Mm0wP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/maisondiorama",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVGE2RVJoSGdLV0FPM2E4NnV6Mm0wP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4f7f86f8-f7f8-4ef5-aa46-a70515043f94",
-        "name": "10/04/25 - Anúncio",
-        "ad_account_name": "Promoções iOS na aplicação",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fZGMB9rknaKMKMJbx2rc8.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-04-10T22:00:00.000Z",
-        "impressions_total": 2243,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 2243,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dioré",
-        "profile_name": "Dioré",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvcmk0aG5iR2VjVVUzeUUydlBGQnBjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/danieladiniz_d",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQzZDT0NKcWp5MlNIUldCQVQ2ZmRZP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "7c3590a4-4db3-450e-b602-eb3f60235d51",
-        "name": "25-12-13 - Ad",
-        "ad_account_name": "Promotions iOS in-app",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "VIEW PROFILE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XFsP8NR8ZS5mYHF4ikJ58.380.IRZXSOY?mo=Gj0aCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-12-14T05:00:00.000Z",
-        "impressions_total": 30640,
-        "impressions_map": {
-          "de": 0,
-          "be": 29917,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 723,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "28",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior Ndiaye👸",
-        "profile_name": "Dior😋",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvakFjNTV4RWVkWkFpdHdmSElDMjBiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/bb.diior",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvakFjNTV4RWVkWkFpdHdmSElDMjBiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "29ae93b3-f49a-46e4-ae1d-e663e27dcd13",
-        "name": "ADDICT-FRAG_SNAPCHAT-CAMERA-FILTER-FRAG-X-MUP_LENSE_LENS_LEAR_MRP_INS_R202635610",
-        "ad_account_name": "PCD_PC_FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "id": "8e55965c-327e-4b9e-acb3-d51221ca9ca2",
+        "name": "MENFALL25COLLECTION_LENS_LENS_NO_LEARN_MCOP_LENS1",
+        "ad_account_name": "CDC_FLG_MULTI_WORLD_Social-Snapchat_PML_EUR_LVMH",
         "status": "ACTIVE",
         "creative_type": "LENS_WEB_VIEW",
         "ad_type": "LENS_REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [],
-        "headline": "Dior",
+        "headline": "DIOR",
         "call_to_action": "MORE",
         "top_snap_media_type": "LENS_PACKAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/d66508cd-71f5-4fbb-93b9-b8ec2a9bb0b4.lens",
-        "start_date": "2026-01-19T09:00:43.000Z",
-        "impressions_total": 2106973,
+        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/7295977f-4566-4fb6-a895-b8e0057331ac.lens",
+        "start_date": "2025-05-05T09:30:52.000Z",
+        "impressions_total": 950086,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -727,7 +409,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 2106973,
+          "fr": 950086,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -750,10 +432,9 @@
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "18",
-              "max_age": "35",
+              "min_age": "25",
               "age_groups": [],
-              "gender": "FEMALE",
+              "gender": "MALE",
               "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
@@ -763,21 +444,332 @@
             {
               "marketing_name": [],
               "model": [],
+              "os_type": "WEB",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
               "carrier_id": [],
               "operation": "INCLUDE"
             }
           ]
         },
         "paying_advertiser_name": "Dior",
+        "brand_name": "DIOR",
         "profile_name": "Dior",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.dior.com/fr_fr/beauty/page/discover-dior-addict-fragrance.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=pcd_pc_fra_addict-frag_wom_mku_202601_cs_engt_sn_crd_eur_ins_r202635610&utm_content=addict-frag_snapchat-camera-filter-frag-x-mup_lense_lens_lear_mrp_ins_r20263561"
+          "url": "https://www.dior.com/en_int/fashion/mens-fashion/fall-collection?utm_source=snapchat&utm_medium=social_paid_branding&utm_campaign=cdc_flg_fra_menfall25collection_men_mul_202504_cs_shares_sn_crd_eur_bra-factbra&utm_term=menfall25collection_p2_int_feed_m-25-55_nat_shares_auc-cpm_n_men&utm_content=menfall25collection_lens_lens_no_learn_mcop_lens&wiz_campaign=cdc_flg_fra_menfall25collection_men_mul_202504_aw_shares_sn_crd_eur_bra-factbra&wiz_source=snapchat&wiz_medium=social_cpc&wiz_term=menfall25collection_p2_int_feed_m-25-55_nat_shares_auc-cpm_n_men&wiz_content=menfall25collection_lens_lens_no_learn_mcop_lens1"
         },
         "lens_preview": {
-          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/d1IR8J7gMBQarhlo9a3UR?bo=EhQyAX06AQRCBgjHnoPLBkgCUBJgAQ%3D%3D&uc=18",
-          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/c6b35ae7-74d8-461e-8189-f75fea27e725.mp4",
-          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/c6b35ae7-74d8-461e-8189-f75fea27e725.webp"
+          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/PfsLPtZNg86eFdWUtWOCU?bo=EhQyAX06AQRCBgiajNLABkgCUBJgAQ%3D%3D&uc=18",
+          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/baab4408-0204-4e56-b411-1682e3b06bc0.mp4",
+          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/baab4408-0204-4e56-b411-1682e3b06bc0.webp"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "61d0a43a-95cc-4fbd-9406-29d9992aa24e",
+        "name": "04/06/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "call_to_action": "VIEW PROFILE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/G12QZU9d74ZI8CehZJ6UK.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2025-06-03T23:35:20.000Z",
+        "impressions_total": 130997,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 130997,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Nabil Dior ®️",
+        "profile_name": "Nabil Dior ®️",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNDg4dEZWNUFkZW96TzVMaFJNUlpWP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/nabiilfrater",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNDg4dEZWNUFkZW96TzVMaFJNUlpWP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "75f4be44-57aa-4fbd-b820-f5a776ffd1a2",
+        "name": "MENWINTER25EYEWEAROPTIC_STA_SIF_NO_LEARN_MPP_MAINIMAGE",
+        "ad_account_name": "CDC_FLG_MULTI_WORLD_Social-Snapchat_PML_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Lunettes Homme Incontournables",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/5ZvTfyUgXTeEZ37RGJ2lg.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-10-07T09:00:08.000Z",
+        "impressions_total": 10154617,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 10154617,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "40",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_int/fashion/mens-fashion/accessories/sunglasses?utm_source=snapchat&utm_medium=social-paid-branding&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "14e48412-7cc6-4b5c-8f52-b0c1a6b71d82",
+        "name": "26-01-06 - Publicité",
+        "ad_account_name": "iOS In-App Promotions",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "VIEW PROFILE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/2rWbcQUdP1yymPmUaJ2T9.67?mo=GrsCGgoyAQQ6AX1QD2ABUIsCWghBZHNNZWRpYaIBQQhDEi0KKwiMr6YFIAEw4AM41gZAAUoPCgrAATI1M0g7OjM5EPQDULLpBWgCdUIuLEAiDgoKQgYIkY30ygZIBBIAogFCCLoKEi0KKwi9jeIDIAEw4AM41gZAAkoPCgqTASAbHDUrHCUmEPQDULLpBWgCdWgqH0AiDgoKQgYI2I70ygZIAhIAogFHCJIKEjIKMAit25IEIAEw4AM41gZAAkoPCgqzASUqLDcvLigsEPQDULLpBWgCdUJDHUB9AACAPyIOCgpCBgjXjvTKBkgCEgCiAUcI0goSMgowCNO3kgQgATDgAzjWBkACSg8KCpgBIx4hPC8hJyoQ9ANQsukFaAJ1-C4lQH0AAIA_Ig4KCkIGCNiO9MoGSAISAJADsukF&uc=15",
+        "start_date": "2026-01-21T14:25:15.000Z",
+        "impressions_total": 2445,
+        "impressions_map": {
+          "de": 0,
+          "be": 780,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1608,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 57,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Varense Dior👩🏼‍🏫",
+        "profile_name": "Varense Dior👩🏼‍🏫",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUmo0d2lKWnp4TEZjbDVRTGZYN2pkP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/varensed",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUmo0d2lKWnp4TEZjbDVRTGZYN2pkP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "9989b322-1ff8-4eec-8568-0ac7ed5ce8ae",
+        "name": "31/10/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "VIEW PROFILE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/i2eAKuhBYh6XxyXfVqg3g.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2025-10-31T23:00:00.000Z",
+        "impressions_total": 76381,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 76381,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "B-dior",
+        "profile_name": "The Lady B Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTzNtYlNVanFyWTk0TG81RHB4amtQP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/merveillebaka20",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTzNtYlNVanFyWTk0TG81RHB4amtQP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
+          "playable_media_properties": {}
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

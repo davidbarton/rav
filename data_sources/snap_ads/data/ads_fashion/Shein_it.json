@@ -1,10 +1,447 @@
 {
   "brand": "Shein",
   "country": "it",
-  "fetched_at": "2026-04-09T22:15:13.513Z",
+  "fetched_at": "2026-04-10T07:36:57.969Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "6878b023-e3b9-4c8e-84a1-8d5c5b413503",
+        "name": "app-ios-itsnap-other-20250620-tagid-ABREZ-rmt-4-11-41-12-1-S2020-3-PA-SNS-TEST-116",
+        "ad_account_name": "SHEIN-APP-IT-Adtiger",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "it"
+        ],
+        "headline": "Scatena il fascino da donna",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GAF1AIZtz8Ydy4WQ5y8F6.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMItsAsIAEw6AI4gAVAAUoOCgkuExsOKDMZIhQQ9ANQhl1oAiIGCgJIBBIAogEyCLoKEiUKIwirsBkgATDgAjjyBEACSg4KCSMLERMOIA8PDBD0A1CGXWgCIgYKAkgDEgCiATEIfxIlCiMI4ZgeIAEw4AI48ARAAkoOCgkkDhELHCMTFwwQ9ANQhl1oAiIGCgJIAhIAogEyCJIKEiUKIwizlR8gATDgAjjwBEACSg4KCSUPEwsdIBMaDRD0A1CGXWgCIgYKAkgCEgCiATIIxAoSJQojCJDwGCABMOACOPIEQAJKDgoJIQsQEwwjEA4LEPQDUIZdaAIiBgoCSAISAKIBMgjSChIlCiMI-sQZIAEw4AI48ARAAkoOCgkjCxEUDSMRDwwQ9ANQhl1oAiIGCgJIAhIAkAOGXQ%3D%3D&uc=15",
+        "start_date": "2025-06-20T10:30:00.000Z",
+        "impressions_total": 21695,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 21695,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "os_version_min": "12.0",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "SHEINADS",
+        "profile_name": "SHEIN",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNTFKM3ZiaUFRTTRyT2xCV1RFdXR1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "creator_profile_name": "Fashion Me",
+        "creator_profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbHRXTU9SQ05FVk95ZDBGVjAzZ3pmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "tagged_headline_profile_name": "SHEIN",
+        "tagged_headline_profile_logo_url": "SHEIN",
+        "deep_link_properties": {
+          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2238498656%2C59404373%2C50372944%22%2C%22url_from%22%3A%22app-ios-itsnap-other-20250620-tagid-ABREZ-rmt-4-11-41-12-1-S2020-3-PA-SNS-TEST-116%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
+          "icon_media_url": "https://cf-st.sc-cdn.net/d/VWF9sZ1LAsZpmr7XUjwqh.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjgsfGqBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "f030b62a-ab74-4b2e-9d9d-fe1b7569a481",
+        "name": "SHEIN_SHEIN-snapadsrmtit-app_rmt_conversion-iOS-WirelessEarbuds-IT_APP_sales_1855_<4-11-9-12-1-S2020-3>-53586-video-20250624-ABB-adhub1937431145331560457",
+        "ad_account_name": "SHEIN-APP-IT-Adtiger",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "it"
+        ],
+        "headline": "Risparmia alla grande",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FmdGPVBNbYOaSTALYRAjn.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI49UfIAEw4AM41AZAAUoOCglLJw0NFBQKCRYQ9ANQ-FVoAiIGCgJIBBIAogEyCLoKEiUKIwi61BkgATDQBTiACkACSg4KCTgYCgkPCggLDxD0A1D4VWgCIgYKAkgCEgCiATEIfxIlCiMI084SIAEw4AM41AZAAkoOCgkqFgcGCQoJBgsQ9ANQ-FVoAiIGCgJIAhIAogEyCJIKEiUKIwiowxQgATDgAzjUBkACSg4KCSsZCAYNDQUHDRD0A1D4VWgCIgYKAkgCEgCiATIIxAoSJQojCODhECABMOADONYGQAJKDgoJKBAHBQoGBgYKEPQDUPhVaAIiBgoCSAISAKIBMgjSChIlCiMI3NsRIAEw4AM41AZAAkoOCgkrEgcFCwcFBgwQ9ANQ-FVoAiIGCgJIAhIAkAP4VQ%3D%3D&uc=15",
+        "start_date": "2025-06-24T09:00:00.000Z",
+        "impressions_total": 13884,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 13884,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "os_version_min": "12.0",
+              "carrier_id": []
+            }
+          ]
+        },
+        "paying_advertiser_name": "SHEINADS",
+        "brand_name": "SHEIN",
+        "profile_name": "SHEIN",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNTFKM3ZiaUFRTTRyT2xCV1RFdXR1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "deep_link_properties": {
+          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22materialpackage_id%22%3A%2253586%22%2C%22test%22%3A%221%22%2C%22ad_type%22%3A%22SDPA%22%2C%22pf%22%3A%22snapchat%22%2C%22slink_flag%22%3A%22y%22%2C%22url_from%22%3A%22adhub1937431394297057301%22%2C%22scene%22%3A%221%22%7D&url_from=adhub1937431394297057301&pf=snapchat&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}",
+          "icon_media_url": "https://cf-st.sc-cdn.net/d/H4xl7cfwUChdmzxJ8rVmD.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "93716f83-7014-468f-814d-8cb8ad68f76d",
+        "name": "app-ios-itsnap-other-20250626-tagid-ABREZ-rmt-4-11-41-12-1-S2020-3-PA-SNS-TEST-123",
+        "ad_account_name": "SHEIN-APP-IT-Adtiger",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "it"
+        ],
+        "headline": "Scatena il fascino da donna",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/me3kA6KH3p0JFlVjXoFRq.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI_YJKIAEw6AI4gAVAAUoOCglKIhATEyIWGRAQ9ANQ6LYBaAIiBgoCSAMSAKIBMwi6ChImCiQI3eM1IAEw4AI48gRAAkoOCgk5Fg8QERgQEhAQ9ANQ6LYBaAIiBgoCSAMSAKIBMgh_EiYKJAjGrTAgATDgAjjwBEACSg4KCTkUDA4OEg4OChD0A1DotgFoAiIGCgJIAhIAogEzCJIKEiYKJAj2mzIgATDgAjjwBEACSg4KCTsVDQ4PEw8PCxD0A1DotgFoAiIGCgJIAhIAogEzCMQKEiYKJAjSozQgATDgAjjyBEACSg4KCTkXDhAQGA4SDxD0A1DotgFoAiIGCgJIAhIAogEzCNIKEiYKJAjN6zggATDgAjjwBEACSg4KCTgXDxAPGA8RDxD0A1DotgFoAiIGCgJIAhIAkAPotgE%3D&uc=15",
+        "start_date": "2025-06-26T06:30:00.000Z",
+        "impressions_total": 10666,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 10666,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "os_version_min": "12.0",
+              "carrier_id": []
+            }
+          ]
+        },
+        "paying_advertiser_name": "SHEINADS",
+        "profile_name": "SHEIN",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNTFKM3ZiaUFRTTRyT2xCV1RFdXR1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "creator_profile_name": "Fashion Me",
+        "creator_profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbHRXTU9SQ05FVk95ZDBGVjAzZ3pmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "tagged_headline_profile_name": "SHEIN",
+        "tagged_headline_profile_logo_url": "SHEIN",
+        "deep_link_properties": {
+          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2230529264%22%2C%22url_from%22%3A%22app-ios-itsnap-other-20250626-tagid-ABREZ-rmt-4-11-41-12-1-S2020-3-PA-SNS-TEST-123%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
+          "icon_media_url": "https://cf-st.sc-cdn.net/d/VWF9sZ1LAsZpmr7XUjwqh.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjgsfGqBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d13e0154-4a7e-4589-88ee-84175ff2b725",
+        "name": "app-android-itsnap-other-20250620-tagid-ABREZ-rmt-4-11-9-12-1-S2020-3-PA-SNS-TEST-112",
+        "ad_account_name": "SHEIN-APP-IT-Adtiger",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "it"
+        ],
+        "headline": "Scatena il fascino da donna",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/pEgv2xktU0Ygt9t7zvvq9.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI7qV-IAEw6AI4gAVAAUoOCglfLCsyOzQoLUMQ9ANQlpcBaAIiBgoCSAQSAKIBMwi6ChImCiQI6-c9IAEw4AI48gRAAkoOCgk-GBMZGxYSECIQ9ANQlpcBaAIiBgoCSAMSAKIBMgh_EiYKJAib9lkgATDgAjjwBEACSg4KCU4iHSQmJBogKxD0A1CWlwFoAiIGCgJIAhIAogEzCJIKEiYKJAj-q1sgATDgAjjwBEACSg4KCU0hIyMlJhwgLxD0A1CWlwFoAiIGCgJIAhIAogEzCMQKEiYKJAiZh0AgATDgAjjyBEACSg4KCUEaFBkYFxUhDhD0A1CWlwFoAiIGCgJIAhIAogEzCNIKEiYKJAjioUIgATDgAjjwBEACSg4KCUMcFRkiFxQQJBD0A1CWlwFoAiIGCgJIAhIAkAOWlwE%3D&uc=15",
+        "start_date": "2025-06-20T10:30:00.000Z",
+        "impressions_total": 3054,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 3054,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "os_version_min": "5",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "SHEINADS",
+        "profile_name": "SHEIN",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNTFKM3ZiaUFRTTRyT2xCV1RFdXR1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "creator_profile_name": "Fashion Me",
+        "creator_profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbHRXTU9SQ05FVk95ZDBGVjAzZ3pmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "tagged_headline_profile_name": "SHEIN",
+        "tagged_headline_profile_logo_url": "SHEIN",
+        "deep_link_properties": {
+          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2239474866%2C62651575%22%2C%22url_from%22%3A%22app-android-itsnap-other-20250620-tagid-ABREZ-rmt-4-11-9-12-1-S2020-3-PA-SNS-TEST-112%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
+          "icon_media_url": "https://cf-st.sc-cdn.net/d/VWF9sZ1LAsZpmr7XUjwqh.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjgsfGqBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "41e96375-883c-4838-b477-90080703ea36",
+        "name": "app-android-itsnap-other-20250613-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-image-109",
+        "ad_account_name": "SHEIN-APP-IT-Adtiger",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "it"
+        ],
+        "headline": "Scatena il fascino da donna",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/AhoEaZ3mBwnCCEbgHCrkY.67?mo=GrkCGggyAgR9UA9gAVoIQWRzTWVkaWGiASwIQxIgCh4I0nsgATDcATimAkABSgoKBQ8BAAAAEPQDULgXaAIiBgoCSAISAKIBLgi6ChIhCh8IwpABIAEw0AE4lgJAAkoKCgUSAAAAABD0A1C4F2gCIgYKAkgDEgCiASwIfxIgCh4I4mEgATDQATiUAkACSgoKBQoBAQAAEPQDULgXaAIiBgoCSAISAKIBLQiSChIgCh4I-GAgATDQATiUAkACSgoKBQoBAAEAEPQDULgXaAIiBgoCSAISAKIBLgjEChIhCh8Ii6EBIAEw0AE4lgJAAkoKCgUUAAAAABD0A1C4F2gCIgYKAkgCEgCiAS4I0goSIQofCPemASABMNABOJQCQAJKCgoFFAEAAAAQ9ANQuBdoAiIGCgJIAhIAkAO4Fw%3D%3D&uc=15",
+        "start_date": "2025-06-13T12:35:00.000Z",
+        "impressions_total": 815,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 815,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "os_version_min": "5",
+              "carrier_id": []
+            }
+          ]
+        },
+        "paying_advertiser_name": "SHEINADS",
+        "profile_name": "SHEIN",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNTFKM3ZiaUFRTTRyT2xCV1RFdXR1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "creator_profile_name": "Fashion Me",
+        "creator_profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbHRXTU9SQ05FVk95ZDBGVjAzZ3pmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "tagged_headline_profile_name": "SHEIN",
+        "tagged_headline_profile_logo_url": "SHEIN",
+        "deep_link_properties": {
+          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2239605907%22%2C%22url_from%22%3A%22app-android-itsnap-other-20250613-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-image-109%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
+          "icon_media_url": "https://cf-st.sc-cdn.net/d/VWF9sZ1LAsZpmr7XUjwqh.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjgsfGqBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -95,178 +532,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "652b664b-26e7-4dbc-92a8-77e5ca2a72aa",
-        "name": "SHEIN_SHEIN-snapadsrmtit-app_rmt_conversion-android-Cleansers-IT_APP_sales_1855_<4-11-12-13-1-S2020-3>-53587-video-20250624-ABB-adhub1937431145323171847",
-        "ad_account_name": "SHEIN-APP-IT-Adtiger",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "it"
-        ],
-        "headline": "Risparmia alla grande",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4Le3axnsipCbMLYM1SlRV.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI_5UVIAEw4AM41AZAAUoOCgk8DgsOCwgHBwYQ9ANQkE5oAiIGCgJIAhIAogEyCLoKEiUKIwjo5BIgATDQBTiACkACSg4KCTIKCQoKBgcIBxD0A1CQTmgCIgYKAkgDEgCiATEIfxIlCiMI1IAQIAEw4AM41AZAAkoOCgkvCQgJBwgHBwUQ9ANQkE5oAiIGCgJIAhIAogEyCJIKEiUKIwjWnBEgATDgAzjUBkACSg4KCTIKCQoKBwcHBhD0A1CQTmgCIgYKAkgCEgCiATIIxAoSJQojCKPiDSABMOADONYGQAJKDgoJKQkHBwgFBgUFEPQDUJBOaAIiBgoCSAISAKIBMgjSChIlCiMIwegOIAEw4AM41AZAAkoOCgkrCggJCAYGBgUQ9ANQkE5oAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-06-24T09:00:00.000Z",
-        "impressions_total": 2194,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 2194,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "5.0",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "SHEINADS",
-        "brand_name": "SHEIN",
-        "profile_name": "SHEIN",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNTFKM3ZiaUFRTTRyT2xCV1RFdXR1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "deep_link_properties": {
-          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22materialpackage_id%22%3A%2253587%22%2C%22test%22%3A%221%22%2C%22ad_type%22%3A%22SDPA%22%2C%22pf%22%3A%22snapchat%22%2C%22slink_flag%22%3A%22y%22%2C%22url_from%22%3A%22adhub1937431394297057280%22%2C%22scene%22%3A%221%22%7D&url_from=adhub1937431394297057280&pf=snapchat&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}",
-          "icon_media_url": "https://cf-st.sc-cdn.net/d/gwxhxqRibHZMyUMb57ez5.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "26d88e48-57be-4bca-8761-8dcf3b1cad77",
-        "name": "SHEIN_SHEIN-snapadsrmtit-app_rmt_conversion-android-Cleansers-IT_APP_sales_1855_<4-11-41-12-1-S2020-3>-53587-video-20250624-ABB-adhub1937431145327366157",
-        "ad_account_name": "SHEIN-APP-IT-Adtiger",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "it"
-        ],
-        "headline": "Risparmia alla grande",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bDHYFfEtTlrFasM9LDY7p.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI_5UVIAEw4AM41AZAAUoOCgk8DgsOCwgHBwYQ9ANQkE5oAiIGCgJIBBIAogEyCLoKEiUKIwjo5BIgATDQBTiACkACSg4KCTIKCQoKBgcIBxD0A1CQTmgCIgYKAkgCEgCiATEIfxIlCiMI1IAQIAEw4AM41AZAAkoOCgkvCQgJBwgHBwUQ9ANQkE5oAiIGCgJIAhIAogEyCJIKEiUKIwjWnBEgATDgAzjUBkACSg4KCTIKCQoKBwcHBhD0A1CQTmgCIgYKAkgCEgCiATIIxAoSJQojCKPiDSABMOADONYGQAJKDgoJKQkHBwgFBgUFEPQDUJBOaAIiBgoCSAISAKIBMgjSChIlCiMIwegOIAEw4AM41AZAAkoOCgkrCggJCAYGBgUQ9ANQkE5oAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-06-24T09:00:00.000Z",
-        "impressions_total": 3824,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 3824,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "5.0",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "SHEINADS",
-        "brand_name": "SHEIN",
-        "profile_name": "SHEIN",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNTFKM3ZiaUFRTTRyT2xCV1RFdXR1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "deep_link_properties": {
-          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22materialpackage_id%22%3A%2253587%22%2C%22test%22%3A%221%22%2C%22ad_type%22%3A%22SDPA%22%2C%22pf%22%3A%22snapchat%22%2C%22slink_flag%22%3A%22y%22%2C%22url_from%22%3A%22adhub1937431394297057290%22%2C%22scene%22%3A%221%22%7D&url_from=adhub1937431394297057290&pf=snapchat&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}",
-          "icon_media_url": "https://cf-st.sc-cdn.net/d/MfWWwlYrFABgyzCotRKjT.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4217782f-9c9d-4354-844f-92df411e40fe",
-        "name": "app-ios-itsnap-other-20250628-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-138",
+        "id": "38d4fc6f-2eea-466e-be6d-4da071b35d2f",
+        "name": "app-ios-itsnap-other-20250613-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-104",
         "ad_account_name": "SHEIN-APP-IT-Adtiger",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
@@ -279,9 +546,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sL6HUpvtLi8MTtFJoe1A3.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI-Z1mIAEw6AI4gAVAAUoOCglPKS0mOhcdKycQ9ANQmsEBaAIiBgoCSAQSAKIBMwi6ChImCiQIsYo2IAEw4AI48gRAAkoOCgkzFBIUHQ0LFhMQ9ANQmsEBaAIiBgoCSAISAKIBMgh_EiYKJAjc00IgATDgAjjwBEACSg4KCT0WHRknDhAaFhD0A1CawQFoAiIGCgJIAhIAogEzCJIKEiYKJAjUnUQgATDgAjjwBEACSg4KCT4YHBonDhMaGBD0A1CawQFoAiIGCgJIAhIAogEzCMQKEiYKJAjbxTQgATDgAjjyBEACSg4KCTMUEhIeDAsWEhD0A1CawQFoAiIGCgJIAhIAogEzCNIKEiYKJAi1uTYgATDgAjjwBEACSg4KCTQVExQfDgsXExD0A1CawQFoAiIGCgJIAhIAkAOawQE%3D&uc=15",
-        "start_date": "2025-06-27T16:00:00.000Z",
-        "impressions_total": 3481,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RF94Grt5QTebwkOU4R9Dm.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIjdkgIAEw6AI4gAVAAUoOCglBEBIeGgwMCwwQ9ANQonpoAiIGCgJIAhIAogEyCLoKEiUKIwjIhxQgATDgAjjyBEACSg4KCSkLDgwQCgcHChD0A1CiemgCIgYKAkgDEgCiATEIfxIlCiMIp6oUIAEw4AI48ARAAkoOCgkyDAwUEQkJCAkQ9ANQonpoAiIGCgJIAhIAogEyCJIKEiUKIwi_7hQgATDgAjjwBEACSg4KCTINDBURCQkJCRD0A1CiemgCIgYKAkgCEgCiATIIxAoSJQojCJDfESABMOACOPIEQAJKDgoJKQsMDA8JBgYIEPQDUKJ6aAIiBgoCSAISAKIBMgjSChIlCiMIxv4SIAEw4AI48ARAAkoOCgkrDA0MEQkGBwkQ9ANQonpoAiIGCgJIAhIAkAOieg%3D%3D&uc=15",
+        "start_date": "2025-06-13T12:35:00.000Z",
+        "impressions_total": 8,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -302,7 +569,7 @@
           "ee": 0,
           "el": 0,
           "mt": 0,
-          "it": 3481,
+          "it": 8,
           "es": 0,
           "at": 0,
           "cy": 0,
@@ -340,7 +607,7 @@
         "tagged_headline_profile_name": "SHEIN",
         "tagged_headline_profile_logo_url": "SHEIN",
         "deep_link_properties": {
-          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2219690897%2C15822593%22%2C%22url_from%22%3A%22app-ios-itsnap-other-20250628-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-138%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
+          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2261566337%2C61960009%22%2C%22url_from%22%3A%22app-ios-itsnap-other-20250613-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-104%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
           "icon_media_url": "https://cf-st.sc-cdn.net/d/VWF9sZ1LAsZpmr7XUjwqh.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjgsfGqBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
           "playable_media_properties": {}
         },
@@ -352,91 +619,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "d170ee61-d3f8-413d-afe2-cdc96d437f7d",
-        "name": "app-android-itsnap-other-20250706-rmt-4-11-41-12-1-S2020-3-50142-video",
-        "ad_account_name": "SHEIN-APP-IT-Adtiger",
-        "status": "PAUSED",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "it"
-        ],
-        "headline": "Scatena il fascino da donna",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/PItF6hZ5KqVxFDcSo7GWh.67?mo=GuECGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUI5vL1ASABMOADONQGQAFKDgoJdTghPikgRxYeEPQDULLPAmgCIgYKAkgEEgCiATQIugoSJwolCO_S8gEgATDQBTiACkACSg4KCXsrJz8pHDQcGxD0A1CyzwJoAiIGCgJIAhIAogEzCH8SJwolCJLGrwEgATDgAzjUBkACSg4KCV4kHTAZHCQRFhD0A1CyzwJoAiIGCgJIAhIAogE0CJIKEicKJQjPxLIBIAEw4AM41AZAAkoOCglfJh8xGh0lEhUQ9ANQss8CaAIiBgoCSAISAKIBNAjEChInCiUIy8GNASABMOADONYGQAJKDgoJVhsYJBoRHxAQEPQDULLPAmgCIgYKAkgCEgCiATQI0goSJwolCPHKlwEgATDgAzjUBkACSg4KCVocGicbEyEVEBD0A1CyzwJoAiIGCgJIAhIAkAOyzwI%3D&uc=15",
-        "start_date": "2025-07-05T16:00:00.000Z",
-        "impressions_total": 27051,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 27051,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "5",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "SHEINADS",
-        "profile_name": "SHEIN",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNTFKM3ZiaUFRTTRyT2xCV1RFdXR1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "deep_link_properties": {
-          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22materialpackage_id%22%3A%2250142%22%2C%22test%22%3A%221%22%2C%22ad_type%22%3A%22SDPA%22%2C%22slink_flag%22%3A%22y%22%2C%22url_from%22%3A%22app-android-itsnap-other-20250706-rmt-4-11-41-12-1-S2020-3-50142-video%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
-          "icon_media_url": "https://cf-st.sc-cdn.net/d/DoiI8jIhK91BZFO0fL6T5.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8ceb386d-db9c-4e8c-aeea-09c79b7597f2",
-        "name": "app-android-itsnap-other-20250606-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-93",
+        "id": "cb652c46-0eb2-4421-9bc8-9f8a7e76b250",
+        "name": "app-ios-itsnap-other-20250606-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-84",
         "ad_account_name": "SHEIN-APP-IT-Adtiger",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
@@ -449,9 +633,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/7SRVWsMvnnUYGXOls9X9n.67?mo=GtwCGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUIwYl0IAEw6AI4gAVAAUoPCgqAASweTSsWRyQcEPQDUKKEAWgCIgYKAkgEEgCiATMIugoSJgokCKmeQCABMOACOPIEQAJKDgoJWiANLRsfEhYQEPQDUKKEAWgCIgYKAkgDEgCiATIIfxImCiQIw71RIAEw4AI48ARAAkoOCglxKRg6IhArHREQ9ANQooQBaAIiBgoCSAISAKIBMwiSChImCiQIl6RUIAEw4AI48ARAAkoOCglvKBk4JRExHxQQ9ANQooQBaAIiBgoCSAISAKIBMwjEChImCiQI-c5DIAEw4AI48gRAAkoOCgleIw0uHR8SFw8Q9ANQooQBaAIiBgoCSAISAKIBMwjSChImCiQIsOhEIAEw4AI48ARAAkoOCgldIw0vGyATGBAQ9ANQooQBaAIiBgoCSAISAJADooQB&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Z5Z3hJj9lSDWpoEdmPT35.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIhow8IAEw6AI4gAVAAUoOCglEDi0MPB8sEzkQ9ANQ2lBoAiIGCgJIAxIAogEyCLoKEiUKIwiTmR4gATDgAjjyBEACSg4KCS8IGwggEBcMIBD0A1DaUGgCIgYKAkgCEgCiATEIfxIlCiMI5OwpIAEw4AI48ARAAkoOCgk5DCEKKhcZEiYQ9ANQ2lBoAiIGCgJIAhIAogEyCJIKEiUKIwie_yogATDgAjjwBEACSg4KCTgKIAooGxkSJRD0A1DaUGgCIgYKAkgCEgCiATIIxAoSJQojCMu9ICABMOACOPIEQAJKDgoJMgccByISFwwiEPQDUNpQaAIiBgoCSAISAKIBMgjSChIlCiMIrrsiIAEw4AI48ARAAkoOCgk0CB8HJRMZDSMQ9ANQ2lBoAiIGCgJIAhIAkAPaUA%3D%3D&uc=15",
         "start_date": "2025-06-05T16:00:00.000Z",
-        "impressions_total": 3818,
+        "impressions_total": 3997,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -472,177 +656,7 @@
           "ee": 0,
           "el": 0,
           "mt": 0,
-          "it": 3818,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "5",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "SHEINADS",
-        "profile_name": "SHEIN",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNTFKM3ZiaUFRTTRyT2xCV1RFdXR1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "deep_link_properties": {
-          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2257689914%2C53418292%2C59505195%2C50521243%2C26726913%22%2C%22url_from%22%3A%22app-android-itsnap-other-20250606-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-93%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
-          "icon_media_url": "https://cf-st.sc-cdn.net/d/VWF9sZ1LAsZpmr7XUjwqh.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjgsfGqBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d054e6cd-5a72-4d4a-9ec8-26201e5cd72a",
-        "name": "app-android-itsnap-other-20250605-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-58",
-        "ad_account_name": "SHEIN-APP-IT-Adtiger",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "it"
-        ],
-        "headline": "Scatena il fascino da donna",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RcMQWpAvn54sUfuUtFmGB.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIrpluIAEw6AI4gAVAAUoOCglGFhAWHB8XFhIQ9ANQrMoBaAIiBgoCSAMSAKIBMwi6ChImCiQInKo7IAEw4AI48gRAAkoOCgk4DgkPEREMDQsQ9ANQrMoBaAIiBgoCSAISAKIBMgh_EiYKJAi07EggATDgAjjwBEACSg4KCT0PDRATFw8OCxD0A1CsygFoAiIGCgJIAhIAogEzCJIKEiYKJAjk-kkgATDgAjjwBEACSg4KCT0PDRAVFw4ODRD0A1CsygFoAiIGCgJIAhIAogEzCMQKEiYKJAingzogATDgAjjyBEACSg4KCTgOCA0REQsLCxD0A1CsygFoAiIGCgJIAhIAogEzCNIKEiYKJAiwyDwgATDgAjjwBEACSg4KCTkOCQ8REgwMCxD0A1CsygFoAiIGCgJIAhIAkAOsygE%3D&uc=15",
-        "start_date": "2025-06-05T09:00:00.000Z",
-        "impressions_total": 6104,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 6104,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "5",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "SHEINADS",
-        "profile_name": "SHEIN",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNTFKM3ZiaUFRTTRyT2xCV1RFdXR1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "creator_profile_name": "Fashion Me",
-        "creator_profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbHRXTU9SQ05FVk95ZDBGVjAzZ3pmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "tagged_headline_profile_name": "SHEIN",
-        "tagged_headline_profile_logo_url": "SHEIN",
-        "deep_link_properties": {
-          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2261762665%22%2C%22url_from%22%3A%22app-android-itsnap-other-20250605-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-58%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
-          "icon_media_url": "https://cf-st.sc-cdn.net/d/VWF9sZ1LAsZpmr7XUjwqh.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjgsfGqBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "e87ee88d-5301-411d-8882-98faea400989",
-        "name": "app-ios-itsnap-other-20250628-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-131",
-        "ad_account_name": "SHEIN-APP-IT-Adtiger",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "it"
-        ],
-        "headline": "Scatena il fascino da donna",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LCidKvery6PdFz4ufL7N4.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIvr4tIAEw6AI4gAVAAUoOCgkqFBwMDAwREhAQ9ANQ_LsBaAIiBgoCSAQSAKIBMwi6ChImCiQI9KAeIAEw4AI48gRAAkoOCgkoDQ4KCAoIDAoQ9ANQ_LsBaAIiBgoCSAMSAKIBMgh_EiYKJAjs7x0gATDgAjjwBEACSg4KCSYNEwkICAsMCxD0A1D8uwFoAiIGCgJIAhIAogEzCJIKEiYKJAiNjB4gATDgAjjwBEACSg4KCScNEwkJCAsMCxD0A1D8uwFoAiIGCgJIAhIAogEzCMQKEiYKJAiE8RkgATDgAjjyBEACSg4KCSQMDgkHCAcLCRD0A1D8uwFoAiIGCgJIAhIAogEzCNIKEiYKJAjUwRsgATDgAjjwBEACSg4KCSYNDwkICQcMChD0A1D8uwFoAiIGCgJIAhIAkAP8uwE%3D&uc=15",
-        "start_date": "2025-06-27T16:00:00.000Z",
-        "impressions_total": 649,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 649,
+          "it": 3997,
           "es": 0,
           "at": 0,
           "cy": 0,
@@ -680,7 +694,7 @@
         "tagged_headline_profile_name": "SHEIN",
         "tagged_headline_profile_logo_url": "SHEIN",
         "deep_link_properties": {
-          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2228332460%2C58292741%22%2C%22url_from%22%3A%22app-ios-itsnap-other-20250628-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-131%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
+          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2257431300%2C61316895%2C56802294%2C53564499%22%2C%22url_from%22%3A%22app-ios-itsnap-other-20250606-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-84%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
           "icon_media_url": "https://cf-st.sc-cdn.net/d/VWF9sZ1LAsZpmr7XUjwqh.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjgsfGqBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
           "playable_media_properties": {}
         },
@@ -692,83 +706,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "4e918c65-a607-4098-b158-c597eb814f55",
-        "name": "29/10/25 – Ad",
-        "ad_account_name": "iOS in-app promotions",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "call_to_action": "VIEW PROFILE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZxhS71U5YcSTXgkp41gfR.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-        "start_date": "2025-10-30T00:00:00.000Z",
-        "impressions_total": 397791,
-        "impressions_map": {
-          "de": 17323,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 5580,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 342326,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 32562,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "max_age": "35",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Shein",
-        "profile_name": "Shein",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRDhVWk5QVnE0ZEhWRG4ybnk0cmEwP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/sheincode.v",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRDhVWk5QVnE0ZEhWRG4ybnk0cmEwP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "b54b29f3-170a-4fe0-bc92-84bf3e3cb6e1",
-        "name": "app-ios-itsnap-other-20250628-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-130",
+        "id": "f03f2f56-6ec8-4b97-903b-4c52565d6db4",
+        "name": "app-ios-itsnap-other-20250628-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-127",
         "ad_account_name": "SHEIN-APP-IT-Adtiger",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
@@ -781,9 +720,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/PoRAjwD0jjnyXn0CnRWUL.67?mo=GtwCGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUI2qFnIAEw6AI4gAVAAUoPCgqAARgdHU4_KEUUEPQDUOarAWgCIgYKAkgDEgCiATMIugoSJgokCIuDPSABMOACOPIEQAJKDgoJWRQPEiwfEx8SEPQDUOarAWgCIgYKAkgDEgCiATIIfxImCiQI24RLIAEw4AI48ARAAkoOCgloEhYWMS0iJw4Q9ANQ5qsBaAIiBgoCSAISAKIBMwiSChImCiQI0f1JIAEw4AI48ARAAkoOCgljEhcVMyscLAsQ9ANQ5qsBaAIiBgoCSAISAKIBMwjEChImCiQI_5Q_IAEw4AI48gRAAkoOCgliFA4TLikdIgwQ9ANQ5qsBaAIiBgoCSAISAKIBMwjSChImCiQIkbRAIAEw4AI48ARAAkoOCgliEw8TKC0fIwwQ9ANQ5qsBaAIiBgoCSAISAJAD5qsB&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vMjhdTw7NwWM9E55HWYQF.67?mo=GtUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIzfJYIAEw6AI4gAVAAUoPCgpUMiujAUt4Wks0EPQDUPZUaAIiBgoCSAMSAKIBMgi6ChIlCiMIg7EuIAEw4AI48gRAAkoOCgkzGBJCMk4mIR8Q9ANQ9lRoAiIGCgJIAhIAogExCH8SJQojCKa_RCABMOACOPAEQAJKDgoJQSMhZF9YXzYrEPQDUPZUaAIiBgoCSAISAKIBMgiSChIlCiMI-_dDIAEw4AI48ARAAkoOCgk_IyBkYV5eLikQ9ANQ9lRoAiIGCgJIAhIAogEyCMQKEiUKIwiPjTEgATDgAjjyBEACSg4KCTUZEko3VikjIRD0A1D2VGgCIgYKAkgCEgCiATII0goSJQojCLnHMSABMOACOPAEQAJKDgoJNhkSTTNMJSMiEPQDUPZUaAIiBgoCSAISAJAD9lQ%3D&uc=15",
         "start_date": "2025-06-27T16:00:00.000Z",
-        "impressions_total": 1386,
+        "impressions_total": 327,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -804,7 +743,7 @@
           "ee": 0,
           "el": 0,
           "mt": 0,
-          "it": 1386,
+          "it": 327,
           "es": 0,
           "at": 0,
           "cy": 0,
@@ -842,7 +781,94 @@
         "tagged_headline_profile_name": "SHEIN",
         "tagged_headline_profile_logo_url": "SHEIN",
         "deep_link_properties": {
-          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2240367907%2C22650886%22%2C%22url_from%22%3A%22app-ios-itsnap-other-20250628-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-130%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
+          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2238634750%22%2C%22url_from%22%3A%22app-ios-itsnap-other-20250628-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-127%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
+          "icon_media_url": "https://cf-st.sc-cdn.net/d/VWF9sZ1LAsZpmr7XUjwqh.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjgsfGqBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2527ed22-447a-4a62-b37d-b68c91f9a332",
+        "name": "app-android-itsnap-other-20250606-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-91",
+        "ad_account_name": "SHEIN-APP-IT-Adtiger",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "it"
+        ],
+        "headline": "Scatena il fascino da donna",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JV3g9eL8SFzZd8YTheCoI.67?mo=GsUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLghDEiYKJAiypmYgATDoAjiABUABSg4KCWQsLzQySU9AGhD0A1C2jgFoAiICEgCiAS8IugoSJgokCMe3PCABMOACOPIEQAJKDgoJTR0XGyAjICoQEPQDULaOAWgCIgISAKIBLgh_EiYKJAj8lUwgATDgAjjwBEACSg4KCVIvJSEtOjoqGBD0A1C2jgFoAiICEgCiAS8IkgoSJgokCMeZTSABMOACOPAEQAJKDgoJUC0kJC80OysXEPQDULaOAWgCIgISAKIBLwjEChImCiQIovI-IAEw4AI48gRAAkoOCglPHxgdIiYiKxEQ9ANQto4BaAIiAhIAogEvCNIKEiYKJAjmoEIgATDgAjjwBEACSg4KCVAhGh8jKB8uERD0A1C2jgFoAiICEgCQA7aOAQ%3D%3D&uc=15",
+        "start_date": "2025-06-05T16:00:00.000Z",
+        "impressions_total": 9968,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 9968,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "os_version_min": "5",
+              "carrier_id": []
+            }
+          ]
+        },
+        "paying_advertiser_name": "SHEINADS",
+        "profile_name": "SHEIN",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNTFKM3ZiaUFRTTRyT2xCV1RFdXR1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "creator_profile_name": "Fashion Me",
+        "creator_profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbHRXTU9SQ05FVk95ZDBGVjAzZ3pmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "tagged_headline_profile_name": "SHEIN",
+        "tagged_headline_profile_logo_url": "SHEIN",
+        "deep_link_properties": {
+          "deep_link_uri": "sheinlink://applink/ad_landing_recommend?data=%7B%22test%22%3A%225051%22%2C%22ad_type%22%3A%22DPA%22%2C%22slink_flag%22%3A%22y%22%2C%22goods_id%22%3A%2260897893%2C60823906%2C61635798%2C60725534%2C58302565%2C60124859%2C59310111%22%2C%22url_from%22%3A%22app-android-itsnap-other-20250606-tagid-ABREZ-rmt-4-11-12-13-1-S2020-3-PA-SNS-TEST-91%22%2C%22scene%22%3A%221%22%7D&cid={{campaign.id}}&setid={{adSet.id}}&adid={{ad.id}}&pf=snapchat",
           "icon_media_url": "https://cf-st.sc-cdn.net/d/VWF9sZ1LAsZpmr7XUjwqh.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjgsfGqBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
           "playable_media_properties": {}
         },

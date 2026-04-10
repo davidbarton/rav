@@ -1,15 +1,15 @@
 {
   "brand": "Salomon",
   "country": "fr",
-  "fetched_at": "2026-04-09T21:32:35.896Z",
+  "fetched_at": "2026-04-10T07:08:38.128Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "e9ae2310-c0aa-4e98-b0cb-beb6516f53ff",
-        "name": "2",
+        "id": "91242e5f-c700-423e-9d74-075ba79f78f0",
+        "name": "vidéo 3",
         "ad_account_name": "derniereversion",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -18,13 +18,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "40% + LIVRAISON GRATUITE",
+        "headline": "OFFRE DE RENTRÉE",
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tPO9lsbMswK4jTpq49oDN.67?mo=Gs8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATgIQxIsCioI49i0ASABMOADONQGQAFKDgoJOiglKTNDMicmEPQDULDRAWgCdRQUaUAiBgoCSAQSAKIBOQi6ChIsCioIheqbASABMNAFOIAKQAJKDgoJMR8fIC88HyUhEPQDULDRAWgCdbSid0AiBgoCSAISAKIBPAh_EjAKLgiZkXggATDgAzjUBkACSg4KCTEVGhsiLikbFBD0A1Cw0QFoAnXXv15AfQAAgD8iBgoCSAISAKIBPQiSChIwCi4Itsd8IAEw4AM41AZAAkoOCgkwGRwbIy8pHxcQ9ANQsNEBaAJ1GNpdQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCJeEaSABMOADONQGQAJKDgoJLxYVFyEqFRkXEPQDULDRAWgCdQv0bUB9AACAPyIGCgJIAhIAkAOw0QE%3D&uc=15",
-        "start_date": "2025-09-15T16:40:09.000Z",
-        "impressions_total": 2675,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QH1TY2xsp73xuqiqXxW5L.67?mo=GscCGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigIzaYqIAEw4AM41AZAAUoOCglNOSsdHzc2KSIQ9ANQ5jhoAnVzvFNAIgYKAkgDEgCiATcIugoSKgooCI6BLCABMNAFOIAKQAJKDgoJSzswISU8LighEPQDUOY4aAJ1SmRoQCIGCgJIAxIAogE7CH8SLwotCJrrGSABMOADONQGQAJKDgoJNCEfFhgbIx0YEPQDUOY4aAJ1ZshCQH0AAIA_IgYKAkgCEgCiATwIkgoSLwotCLvuGyABMOADONQGQAJKDgoJNSIhFxoaJiAaEPQDUOY4aAJ1vMU0QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCKmSGSABMOADONQGQAJKDgoJLyMdExQhGxgTEPQDUOY4aAJ1RpdEQH0AAIA_IgYKAkgCEgCQA-Y4&uc=15",
+        "start_date": "2025-09-11T12:40:08.000Z",
+        "impressions_total": 2127,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -36,7 +36,159 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 2675,
+          "fr": 2127,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "32",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Salomonoff",
+        "profile_name": "newbalancefr",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWhsZU5Cc1ozSHhQSldOUkd2SGVjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://newbalancefr.com/collections/best-sellers"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "653dc53c-4e34-4b05-97e2-9a40c1cd41be",
+        "name": "vidéo 2",
+        "ad_account_name": "derniereversion",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "OFFRE DE RENTRÉE",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FF1Kb55br0HJO5ImlBvwc.67?mo=GtECGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0IsKhHIAEw4AM41AZAAUoOCglYLTM4OSksPTYQ9ANQnEpoAnUcnHJAfQAAgD8iBgoCSAISAKIBPAi6ChIvCi0Ij8k9IAEw0AU4gApAAkoOCglZJiYtMSYjOCoQ9ANQnEpoAnXRvYFAfQAAgD8iBgoCSAMSAKIBOwh_Ei8KLQiFkTYgATDgAzjUBkACSg4KCUEjIykoGSEuJhD0A1CcSmgCdY77cEB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQjG8DcgATDgAzjUBkACSg4KCT8pJiomHiIwJRD0A1CcSmgCdYAGbkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjp_yggATDgAzjUBkACSg4KCUEcHB4eGBckHBD0A1CcSmgCdXzcckB9AACAPyIGCgJIAhIAkAOcSg%3D%3D&uc=15",
+        "start_date": "2025-09-11T12:40:08.000Z",
+        "impressions_total": 52234,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 52234,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "32",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Salomonoff",
+        "profile_name": "newbalancefr",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWhsZU5Cc1ozSHhQSldOUkd2SGVjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://newbalancefr.com/collections/best-sellers"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "0bd76e93-fa53-4d23-a6f8-c58ecb1c192e",
+        "name": "vidéo 2",
+        "ad_account_name": "derniereversion",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "OFFRE DE RENTRÉE",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tPRSutOiBZUVwu0vYB6cT.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwjIjjYgATDgAzjUBkABSg4KCTEWKB8aGychJBD0A1DuWmgCIgISAKIBLgi6ChIlCiMI6YgoIAEw0AU4gApAAkoOCgkzERsYFhcaHBkQ9ANQ7lpoAiICEgCiAS0IfxIlCiMIuIAiIAEw4AM41AZAAkoOCgkiDhwSEhEaFxcQ9ANQ7lpoAiICEgCiAS4IkgoSJQojCOq4IyABMOADONQGQAJKDgoJIw8dEhMQHRcZEPQDUO5aaAIiAhIAogEuCMQKEiUKIwim3BogATDgAzjWBkACSg4KCScLExAPDhISERD0A1DuWmgCIgISAKIBLgjSChIlCiMIk8UcIAEw4AM41AZAAkoOCgkqDBQSEBATFBIQ9ANQ7lpoAiICEgCQA-5a&uc=15",
+        "start_date": "2025-09-06T09:40:13.000Z",
+        "impressions_total": 7610,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 7610,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -70,10 +222,10 @@
           "devices": []
         },
         "paying_advertiser_name": "Salomonoff",
-        "profile_name": "newbalancefr",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWhsZU5Cc1ozSHhQSldOUkd2SGVjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "profile_name": "Salomon",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQkhvRW13eFUwSGlmdGxUMHJ5VlRuP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
         "web_view_properties": {
-          "url": "https://newbalancefr.com/collections/best-sellers"
+          "url": "https://salomonofficial.com/collections/best-sellers"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -83,8 +235,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "9f1a0cd2-dddc-4ba6-94c7-454dbb481981",
-        "name": "video2",
+        "id": "65467992-3d27-41ca-889b-15d5c58b607b",
+        "name": "vidéo 1",
         "ad_account_name": "derniereversion",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -93,13 +245,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "40% + LIVRAISON GRATUITE",
+        "headline": "OFFRE DE RENTRÉE",
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/lJ5fB93fQjhmAZHM59xdI.67?mo=GqYCGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUImMGeASABMOADONQGQAFKDwoK4gFmSCEwJz1LVxD0A1CkcWgCIgYKAkgDEgCiATQIugoSJwolCNjNiAEgATDQBTiACkACSg8KCssCYyodJxwrK1YQ9ANQpHFoAiIGCgJIAxIAogEyCH8SJgokCPnubiABMOADONQGQAJKDwoKwAFGNBcbFCglOhD0A1CkcWgCIgYKAkgCEgCiATMIkgoSJgokCOvYbyABMOADONQGQAJKDwoKtgFDORcdFigrORD0A1CkcWgCIgYKAkgCEgCiATMI0goSJgokCL-MUSABMOADONQGQAJKDwoKtwEtGREbFRkkLRD0A1CkcWgCIgYKAkgCEgCQA6Rx&uc=15",
-        "start_date": "2025-09-09T10:00:28.000Z",
-        "impressions_total": 5174,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oc4DDjua4slBnZyKcA41F.67?mo=GsgCGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigI49RQIAEw4AM41AZAAUoOCglqHzU8JxgkNDgQ9ANQnGNoAnXYjX5AIgYKAkgDEgCiATgIugoSKwopCPvGQSABMNAFOIAKQAJKDwoKjQEgJSkkFBcpLxD0A1CcY2gCdTWuhUAiBgoCSAMSAKIBOwh_Ei8KLQiliDUgATDgAzjUBkACSg4KCUoYIyYbDxojJxD0A1CcY2gCdcJEe0B9AACAPyIGCgJIAhIAogE8CJIKEi8KLQiplDUgATDgAzjUBkACSg4KCUkXIyQbEBkjJhD0A1CcY2gCdfPXeEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiUzTAgATDgAzjUBkACSg4KCWkZGx8ZEREiIxD0A1CcY2gCdbkufEB9AACAPyIGCgJIAhIAkAOcYw%3D%3D&uc=15",
+        "start_date": "2025-09-11T12:40:08.000Z",
+        "impressions_total": 148544,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -111,7 +263,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 5174,
+          "fr": 148544,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -138,156 +290,6 @@
               "max_age": "32",
               "age_groups": [],
               "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Salomonoff",
-        "profile_name": "Salomon",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQkhvRW13eFUwSGlmdGxUMHJ5VlRuP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://salomonofficial.com/collections/best-sellers"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "205ae604-063f-4575-9b5b-0f46896f5d43",
-        "name": "vvidéo 2",
-        "ad_account_name": "derniereversion",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "30% + LIVRAISON GRATUITE",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tPRSutOiBZUVwu0vYB6cT.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwjIjjYgATDgAzjUBkABSg4KCTEWKB8aGychJBD0A1DuWmgCIgISAKIBLgi6ChIlCiMI6YgoIAEw0AU4gApAAkoOCgkzERsYFhcaHBkQ9ANQ7lpoAiICEgCiAS0IfxIlCiMIuIAiIAEw4AM41AZAAkoOCgkiDhwSEhEaFxcQ9ANQ7lpoAiICEgCiAS4IkgoSJQojCOq4IyABMOADONQGQAJKDgoJIw8dEhMQHRcZEPQDUO5aaAIiAhIAogEuCMQKEiUKIwim3BogATDgAzjWBkACSg4KCScLExAPDhISERD0A1DuWmgCIgISAKIBLgjSChIlCiMIk8UcIAEw4AM41AZAAkoOCgkqDBQSEBATFBIQ9ANQ7lpoAiICEgCQA-5a&uc=15",
-        "start_date": "2025-09-07T11:20:18.000Z",
-        "impressions_total": 1241,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1241,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "30",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Salomonoff",
-        "profile_name": "Salomon",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQkhvRW13eFUwSGlmdGxUMHJ5VlRuP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://salomonofficial.com/collections/best-sellers"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "77c5d21c-c4ee-4e56-b303-46fb3acd32ea",
-        "name": "3 femme",
-        "ad_account_name": "derniereversion",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "40% + LIVRAISON GRATUITE",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bNTci8e8oEYc5CzrUiGrx.67?mo=Gr8CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBNwhDEi8KLQj6o1ogATDgAzjUBkABSg4KCWkiZEU3SxE1OxD0A1DWYmgCdYb7f0B9AACAPyICEgCiATgIugoSLwotCIqhUiABMNAFOIAKQAJKDgoJehxpLyxMC0A0EPQDUNZiaAJ1-I-HQH0AAIA_IgISAKIBNwh_Ei8KLQiOpzwgATDgAzjUBkACSg4KCU8XMDUzKCUIKBD0A1DWYmgCdRRufEB9AACAPyICEgCiATgIkgoSLwotCNu1QCABMOADONQGQAJKDgoJTRpBMi4uCyQsEPQDUNZiaAJ1xrB5QH0AAIA_IgISAKIBOAjSChIvCi0IoLs0IAEw4AM41AZAAkoOCglIFDkiHS0HKycQ9ANQ1mJoAnUF54BAfQAAgD8iAhIAkAPWYg%3D%3D&uc=15",
-        "start_date": "2025-09-15T16:40:09.000Z",
-        "impressions_total": 3351,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 3351,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "30",
-              "age_groups": [],
-              "gender": "FEMALE",
               "languages": [],
               "advanced_demographics": []
             }
@@ -383,8 +385,157 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "0bd76e93-fa53-4d23-a6f8-c58ecb1c192e",
-        "name": "vidéo 2",
+        "id": "567dbf97-71e3-430f-8b9b-8f92609954c6",
+        "name": "2",
+        "ad_account_name": "derniereversion",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "40% + LIVRAISON GRATUITE",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tPO9lsbMswK4jTpq49oDN.67?mo=Gs8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATgIQxIsCioI49i0ASABMOADONQGQAFKDgoJOiglKTNDMicmEPQDULDRAWgCdRQUaUAiBgoCSAQSAKIBOQi6ChIsCioIheqbASABMNAFOIAKQAJKDgoJMR8fIC88HyUhEPQDULDRAWgCdbSid0AiBgoCSAISAKIBPAh_EjAKLgiZkXggATDgAzjUBkACSg4KCTEVGhsiLikbFBD0A1Cw0QFoAnXXv15AfQAAgD8iBgoCSAISAKIBPQiSChIwCi4Itsd8IAEw4AM41AZAAkoOCgkwGRwbIy8pHxcQ9ANQsNEBaAJ1GNpdQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCJeEaSABMOADONQGQAJKDgoJLxYVFyEqFRkXEPQDULDRAWgCdQv0bUB9AACAPyIGCgJIAhIAkAOw0QE%3D&uc=15",
+        "start_date": "2025-09-15T16:40:09.000Z",
+        "impressions_total": 1764,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1764,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "30",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Salomonoff",
+        "profile_name": "newbalancefr",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWhsZU5Cc1ozSHhQSldOUkd2SGVjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://newbalancefr.com/collections/best-sellers"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b7a77e43-671a-4e28-82a8-6ee319e8938e",
+        "name": "1",
+        "ad_account_name": "derniereversion",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "40% + LIVRAISON GRATUITE",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-09-15T16:40:09.000Z",
+        "impressions_total": 37704,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 37704,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "30",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "web_view_properties": {
+          "url": "https://newbalancefr.com/collections/best-sellers"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad contains content that could be perceived as misleading or confusing to a Snapchatter. Ads including deceptive claims/offers/business practices, bait-and-switch techniques, unverified government regulations/programs/laws, guaranteed financial incentives, or other results that may not be achievable by most individuals are prohibited.",
+          "Your ad generated negative sentiment from the Snapchat community and has been revoked. Please visit https://businesshelp.snapchat.com for our full Advertising Policies, Community Guidelines and more information."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c6f4eb89-52b5-4389-b00b-2b38025e2608",
+        "name": "vidéo 1",
         "ad_account_name": "derniereversion",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -397,9 +548,9 @@
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tPRSutOiBZUVwu0vYB6cT.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwjIjjYgATDgAzjUBkABSg4KCTEWKB8aGychJBD0A1DuWmgCIgISAKIBLgi6ChIlCiMI6YgoIAEw0AU4gApAAkoOCgkzERsYFhcaHBkQ9ANQ7lpoAiICEgCiAS0IfxIlCiMIuIAiIAEw4AM41AZAAkoOCgkiDhwSEhEaFxcQ9ANQ7lpoAiICEgCiAS4IkgoSJQojCOq4IyABMOADONQGQAJKDgoJIw8dEhMQHRcZEPQDUO5aaAIiAhIAogEuCMQKEiUKIwim3BogATDgAzjWBkACSg4KCScLExAPDhISERD0A1DuWmgCIgISAKIBLgjSChIlCiMIk8UcIAEw4AM41AZAAkoOCgkqDBQSEBATFBIQ9ANQ7lpoAiICEgCQA-5a&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/kMrSL1toHmdXgjxkQxR8p.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwj7sUMgATDgAzjUBkABSg4KCT8fHxVtVU1CORD0A1CGWGgCIgISAKIBLgi6ChIlCiMIgOk6IAEw0AU4gApAAkoOCglJGxcVdkQqNTEQ9ANQhlhoAiICEgCiAS0IfxIlCiMIsPQtIAEw4AM41AZAAkoOCgkwFRYOSD81KSAQ9ANQhlhoAiICEgCiAS4IkgoSJQojCK_TMCABMOADONQGQAJKDgoJLxcXDlAzSC4jEPQDUIZYaAIiAhIAogEuCMQKEiUKIwjM1iQgATDgAzjWBkACSg4KCTARDw0-JhshHxD0A1CGWGgCIgISAKIBLgjSChIlCiMIi6YmIAEw4AM41AZAAkoOCgkzExAOPCgcICAQ9ANQhlhoAiICEgCQA4ZY&uc=15",
         "start_date": "2025-09-06T09:40:13.000Z",
-        "impressions_total": 7610,
+        "impressions_total": 5170,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -411,7 +562,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 7610,
+          "fr": 5170,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -458,8 +609,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "faf3ac57-b22c-4853-9cd4-706f8ff0ab7e",
-        "name": "video prezz",
+        "id": "30ea5c4f-2d98-473d-87b6-31d0edd37251",
+        "name": "premierevid",
         "ad_account_name": "derniereversion",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -468,88 +619,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "40% + LIVRAISON GRATUITE",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/wcvO5eJhIvUHHWEeVNbUt.67?mo=GoACGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBMghDEioKKAixqjQgATDgAzjUBkABSg4KCU8aJxcXFBQhFxD0A1CAfWgCdfg7bEAiAhIAogE4CLoKEi8KLQi55TIgATDQBTiACkACSg4KCWIZFSMZFBEcGRD0A1CAfWgCdWWDgkB9AACAPyICEgCiATgIkgoSLwotCNDCIyABMOADONQGQAJKDgoJPRQaDw8PDxYQEPQDUIB9aAJ1YuhiQH0AAIA_IgISAKIBOAjSChIvCi0I7LgfIAEw4AM41AZAAkoOCgk4DgwXDw0KEw4Q9ANQgH1oAnVxUm9AfQAAgD8iAhIAkAOAfQ%3D%3D&uc=15",
-        "start_date": "2025-09-30T17:30:28.000Z",
-        "impressions_total": 30284,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 30284,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Salomonoff",
-        "profile_name": "UGG",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYzIyUW9xSDNPTWdhSFhGVDhtaFZlP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://uggofficiel.fr/collections/bestsellers"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "5b520416-6703-4808-bad1-99adaabf166c",
-        "name": "video1",
-        "ad_account_name": "derniereversion",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "40% + LIVRAISON GRATUITE",
-        "call_to_action": "ORDER NOW",
+        "headline": "OFFRE DE RENTRÉE",
+        "call_to_action": "VIEW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
         "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/kMrSL1toHmdXgjxkQxR8p.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwj7sUMgATDgAzjUBkABSg4KCT8fHxVtVU1CORD0A1CGWGgCIgISAKIBLgi6ChIlCiMIgOk6IAEw0AU4gApAAkoOCglJGxcVdkQqNTEQ9ANQhlhoAiICEgCiAS0IfxIlCiMIsPQtIAEw4AM41AZAAkoOCgkwFRYOSD81KSAQ9ANQhlhoAiICEgCiAS4IkgoSJQojCK_TMCABMOADONQGQAJKDgoJLxcXDlAzSC4jEPQDUIZYaAIiAhIAogEuCMQKEiUKIwjM1iQgATDgAzjWBkACSg4KCTARDw0-JhshHxD0A1CGWGgCIgISAKIBLgjSChIlCiMIi6YmIAEw4AM41AZAAkoOCgkzExAOPCgcICAQ9ANQhlhoAiICEgCQA4ZY&uc=15",
-        "start_date": "2025-09-09T10:00:28.000Z",
-        "impressions_total": 7607,
+        "start_date": "2025-09-05T12:10:33.000Z",
+        "impressions_total": 5646,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -561,7 +637,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 7607,
+          "fr": 5646,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -585,9 +661,9 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "32",
+              "max_age": "30",
               "age_groups": [],
-              "gender": "MALE",
+              "gender": "FEMALE",
               "languages": [],
               "advanced_demographics": []
             }
@@ -608,8 +684,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "653dc53c-4e34-4b05-97e2-9a40c1cd41be",
-        "name": "vidéo 2",
+        "id": "b930cd96-ad68-4ef8-98e3-bba6698adfac",
+        "name": "secondvid",
         "ad_account_name": "derniereversion",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -619,12 +695,12 @@
           "fr"
         ],
         "headline": "OFFRE DE RENTRÉE",
-        "call_to_action": "ORDER NOW",
+        "call_to_action": "VIEW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FF1Kb55br0HJO5ImlBvwc.67?mo=GtECGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0IsKhHIAEw4AM41AZAAUoOCglYLTM4OSksPTYQ9ANQnEpoAnUcnHJAfQAAgD8iBgoCSAISAKIBPAi6ChIvCi0Ij8k9IAEw0AU4gApAAkoOCglZJiYtMSYjOCoQ9ANQnEpoAnXRvYFAfQAAgD8iBgoCSAMSAKIBOwh_Ei8KLQiFkTYgATDgAzjUBkACSg4KCUEjIykoGSEuJhD0A1CcSmgCdY77cEB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQjG8DcgATDgAzjUBkACSg4KCT8pJiomHiIwJRD0A1CcSmgCdYAGbkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjp_yggATDgAzjUBkACSg4KCUEcHB4eGBckHBD0A1CcSmgCdXzcckB9AACAPyIGCgJIAhIAkAOcSg%3D%3D&uc=15",
-        "start_date": "2025-09-11T12:40:08.000Z",
-        "impressions_total": 52234,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tPRSutOiBZUVwu0vYB6cT.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwjIjjYgATDgAzjUBkABSg4KCTEWKB8aGychJBD0A1DuWmgCIgISAKIBLgi6ChIlCiMI6YgoIAEw0AU4gApAAkoOCgkzERsYFhcaHBkQ9ANQ7lpoAiICEgCiAS0IfxIlCiMIuIAiIAEw4AM41AZAAkoOCgkiDhwSEhEaFxcQ9ANQ7lpoAiICEgCiAS4IkgoSJQojCOq4IyABMOADONQGQAJKDgoJIw8dEhMQHRcZEPQDUO5aaAIiAhIAogEuCMQKEiUKIwim3BogATDgAzjWBkACSg4KCScLExAPDhISERD0A1DuWmgCIgISAKIBLgjSChIlCiMIk8UcIAEw4AM41AZAAkoOCgkqDBQSEBATFBIQ9ANQ7lpoAiICEgCQA-5a&uc=15",
+        "start_date": "2025-09-05T12:10:33.000Z",
+        "impressions_total": 801,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -636,7 +712,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 52234,
+          "fr": 801,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -660,83 +736,7 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "32",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Salomonoff",
-        "profile_name": "newbalancefr",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWhsZU5Cc1ozSHhQSldOUkd2SGVjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://newbalancefr.com/collections/best-sellers"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "dbc278d7-2ed3-4ed9-92ec-9334c9d50e77",
-        "name": "vidéo 2",
-        "ad_account_name": "derniereversion",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "OFFRE DE RENTRÉE",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FF1Kb55br0HJO5ImlBvwc.67?mo=GtECGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0IsKhHIAEw4AM41AZAAUoOCglYLTM4OSksPTYQ9ANQnEpoAnUcnHJAfQAAgD8iBgoCSAISAKIBPAi6ChIvCi0Ij8k9IAEw0AU4gApAAkoOCglZJiYtMSYjOCoQ9ANQnEpoAnXRvYFAfQAAgD8iBgoCSAMSAKIBOwh_Ei8KLQiFkTYgATDgAzjUBkACSg4KCUEjIykoGSEuJhD0A1CcSmgCdY77cEB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQjG8DcgATDgAzjUBkACSg4KCT8pJiomHiIwJRD0A1CcSmgCdYAGbkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjp_yggATDgAzjUBkACSg4KCUEcHB4eGBckHBD0A1CcSmgCdXzcckB9AACAPyIGCgJIAhIAkAOcSg%3D%3D&uc=15",
-        "start_date": "2025-09-11T12:40:08.000Z",
-        "impressions_total": 49376,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 49376,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "32",
+              "max_age": "30",
               "age_groups": [],
               "gender": "MALE",
               "languages": [],
@@ -746,10 +746,10 @@
           "devices": []
         },
         "paying_advertiser_name": "Salomonoff",
-        "profile_name": "newbalancefr",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVWhsZU5Cc1ozSHhQSldOUkd2SGVjP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "profile_name": "Salomon",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQkhvRW13eFUwSGlmdGxUMHJ5VlRuP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
         "web_view_properties": {
-          "url": "https://newbalancefr.com/collections/best-sellers"
+          "url": "https://salomonofficial.com/collections/best-sellers"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

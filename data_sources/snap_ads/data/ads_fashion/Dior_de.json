@@ -1,30 +1,32 @@
 {
   "brand": "Dior",
   "country": "de",
-  "fetched_at": "2026-04-09T13:38:49.905Z",
+  "fetched_at": "2026-04-10T07:01:25.630Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "0dd14b2d-b68e-4542-819d-710472c5bfc9",
-        "name": "JADORE-INTENSE_STATIC-AD_SIF_IMG_LEAR_MPP_INS",
-        "ad_account_name": "PCD_PC_DEU_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "id": "b4c3a57b-ef80-48c6-bab3-3c7ade0de190",
+        "name": "LADYDIOR26JWA_STA_SIF_NO_LEARN_MCOP_LDPINK_DEU",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "J'adore, the new Intense",
-        "call_to_action": "MORE",
+        "languages": [
+          "de"
+        ],
+        "headline": "Lady Dior von Jonathan Anderson",
+        "call_to_action": "VIEW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4ctB5anfCSeYiFuzsDwxJ.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-03-02T07:00:08.000Z",
-        "impressions_total": 4382414,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/wCWpm9K2HBfTJMQZEyNNf.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-06T10:40:51.000Z",
+        "impressions_total": 86282,
         "impressions_map": {
-          "de": 4382414,
+          "de": 86282,
           "be": 0,
           "fi": 0,
           "pt": 0,
@@ -58,87 +60,7 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "40",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.dior.com/de_de/beauty/dufte/damendufte/jadore?utm_source=snapchat&utm_medium=paid-social&utm_campaign=pcd_pc_deu_jadore-intense_wom_fra_202603_aw_reac_sn_crd_eur_ins_adgap-00048589-034084-07&utm_content=jadore-intense_static-ad_sif_img_lear_mpp_ins_adgap-00048589-034084-07"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "645c103a-b8a8-48e2-9841-966976952fd9",
-        "name": "ADDICT-MUP_JISOO_SVF_15S_SHOP_MPP_INS_FRA",
-        "ad_account_name": "PCD_PC_DEU_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "DIOR ADDICT",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Bx6WBdN4Xt18ZwYLmhH8R.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjt61cgATDgAzjUBkABSg4KCVkuERMmMDEfIxD0A1CYdWgCdRyrR0B9AACAPyIGCgJIAxIAogE8CLoKEi8KLQjHnkcgATDQBTiACkACSg4KCUwiDxMeICQdHRD0A1CYdWgCdTvdVUB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQj5tjggATDgAzjUBkACSg4KCTcWCwkUGh4VFRD0A1CYdWgCdfwBP0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQj-xTAgATDgAzjUBkACSg4KCTUWCwwSFRgUExD0A1CYdWgCdWgNTEB9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
-        "start_date": "2026-01-05T09:00:35.000Z",
-        "impressions_total": 197690,
-        "impressions_map": {
-          "de": 197690,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
+              "max_age": "50",
               "age_groups": [],
               "languages": [],
               "operation": "INCLUDE",
@@ -151,7 +73,7 @@
         "profile_name": "Dior",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.dior.com/de_de/beauty/products/Y0000180.html?utm_medium=paid-social&utm_source=snapchat&utm_campaign=pcd_pc_deu_addict-mup_wom_mku_202601_ec_purc_sn_crd_eur_ins_adgap-00048534-031907-03&utm_content=addict-mup_jisoo_svf_15s_shop_mpp_ins_fra"
+          "url": "https://www.dior.com/en_int/fashion/womens-fashion/bags/lady-dior-by-jonathan-anderson?utm_term={{adSet.name}}&utm_medium=social-paid-branding&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -161,23 +83,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "4bd173ee-cb07-40ad-bfa9-001b1d01e7b8",
-        "name": "ADDICT-FRAG_VIDEO-FRAG_SVF_15S_LEAR_MPP_INS",
-        "ad_account_name": "PCD_PC_DEU_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "id": "777e7801-43cc-492d-9128-399c47da3f82",
+        "name": "UNIHOLIDAY25_STA_SIF_NO_LEARN_MCOP_WOMENSIF1",
+        "ad_account_name": "CDC_FLG_MULTI_WORLD_Social-Snapchat_PML_EUR_LVMH",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "DIOR ADDICT",
+        "languages": [],
+        "headline": "Die zauberhafte Welt von Dior",
         "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-26T07:00:20.000Z",
-        "impressions_total": 3779493,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MepKorzGY1LDvo1Y4UD2J.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-11-24T22:51:48.000Z",
+        "impressions_total": 75549,
         "impressions_map": {
-          "de": 3779493,
+          "de": 75549,
           "be": 0,
           "fi": 0,
           "pt": 0,
@@ -211,7 +133,7 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "35",
+              "max_age": "50",
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [],
@@ -229,7 +151,84 @@
           ]
         },
         "paying_advertiser_name": "Dior",
-        "brand_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/de_de/fashion/schenken/festtagsgeschenke-fur-damen?utm_source=snapchat&utm_medium=social_paid_branding&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3bc0b9d6-4bcf-4efe-b1e1-3b059fdeda49",
+        "name": "UNIHOLIDAY25_STA_SIS_NO_LEARN_MCOP_MENSIS1",
+        "ad_account_name": "CDC_FLG_MULTI_WORLD_Social-Snapchat_PML_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Die zauberhafte Welt von Dior",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-11-24T22:51:48.000Z",
+        "impressions_total": 120342,
+        "impressions_map": {
+          "de": 120342,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "50",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Dior",
         "profile_name": "Dior",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "composite_preview": {
@@ -237,99 +236,57 @@
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "DIOR ADDICT",
+              "render_type": "STATIC",
+              "headline": "Die zauberhafte Welt von Dior",
               "call_to_action": "MORE",
-              "top_snap_media_type": "VIDEO",
+              "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ngbtgpdIWYqJT0H6xgnNs.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi8gmQgATDgAzjUBkABSg4KCVA0Li8nZjtCNRD0A1CYdWgCdbr6PUAiBgoCSAQSAKIBPAi6ChIvCi0Ijs1UIAEw0AU4gApAAkoOCglFMi4jHFI0LiUQ9ANQmHVoAnWDS0tAfQAAgD8iBgoCSAISAKIBPAiSChIvCi0Iu_NBIAEw4AM41AZAAkoOCgkzHiEaF1QiJB8Q9ANQmHVoAnXf3zNAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I8-I5IAEw4AM41AZAAkoOCgkxIBsWEzcjIhgQ9ANQmHVoAnWINT9AfQAAgD8iBgoCSAISAJADmHU%3D&uc=15",
-              "brand_name": "Dior",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9AHjIaxqKg5mgYpQiH12w.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.dior.com/de_de/beauty/page/discover-dior-addict-fragrance.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=pcd_pc_deu_addict-frag_wom_mku_202601_aw_view_sn_crd_eur_ins_adgap-00048576-031796-04&utm_content=addict-frag_video-frag_svf_15s_lear_mpp_ins"
+                "url": "https://www.dior.com/de_de/fashion/schenken/kleine-aufmerksamkeiten-fur-ihn?utm_source=snapchat&utm_medium=social_paid_branding&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{ad.id}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Die zauberhafte Welt von Dior",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/w01BTqIutvmpFR9gGhRdl.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.dior.com/de_de/fashion/herrenmode/schuhe/die-schuhe?utm_source=snapchat&utm_medium=social_paid_branding&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{ad.id}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Die zauberhafte Welt von Dior",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TmSp8BkYzTVAdHIjAEhgD.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.dior.com/de_de/fashion/schenken/festtagsgeschenke-fur-herren?utm_source=snapchat&utm_medium=social_paid_branding&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{ad.id}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Die zauberhafte Welt von Dior",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Pq8wq09Cqv53KRUgYuDbl.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.dior.com/de_de/fashion/schenken/festtagsgeschenke-fur-herren?utm_source=snapchat&utm_medium=social_paid_branding&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{ad.id}}"
               }
             }
           ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4f6d9769-96de-4330-b5b0-4deda5dbceec",
-        "name": "ADDICT-FRAG_VIDEO-ANYA-FRAG_SVF_05S_LEAR_MPP_INS",
-        "ad_account_name": "PCD_PC_DEU_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "DIOR ADDICT",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Wvw1qEP23Co07bWysKgE5.67?mo=GpECGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiYxSUgATDgAzjUBkABSg8KCo4BJBJcQCoqYDIQ9ANQiCdoAnXe2ztAIgYKAkgDEgCiATwIugoSLwotCK3wHSABMNAFOIAKQAJKDgoJdhsRPjAiMUYmEPQDUIgnaAJ1bINIQH0AAIA_IgYKAkgDEgCiATwIkgoSLwotCP6jGiABMOADONQGQAJKDgoJZBULMyUWG2IoEPQDUIgnaAJ1QgQvQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCJiIFSABMOADONQGQAJKDgoJVRIKKyESIjUhEPQDUIgnaAJ1J7s5QH0AAIA_IgYKAkgCEgCQA4gn&uc=15",
-        "start_date": "2026-01-26T07:00:00.000Z",
-        "impressions_total": 876378,
-        "impressions_map": {
-          "de": 876378,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Dior",
-        "brand_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.dior.com/de_de/beauty/page/discover-dior-addict-fragrance.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=pcd_pc_deu_addict-frag_wom_mku_202601_aw_reac_sn_crd_eur_ins_adgap-00048576-031796-04&utm_content=addict-frag_video-anya-frag_svf_05s_lear_mpp_ins"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -412,21 +369,25 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "46b8a2cc-a201-4301-b320-21bd17ee3657",
-        "name": "UNIHOLIDAY25_STA_SC_NO_SHOP_MCOP_MENCAR2",
-        "ad_account_name": "CDC_FLG_MULTI_WORLD_Social-Snapchat_PML_EUR_LVMH",
+        "id": "390a09db-28bf-49a8-b409-f1a2564f7ea0",
+        "name": "SUMMERCOLLECTION26_STA_SIF_NO_LEARN_MCOP_MBAPPE",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Die zauberhafte Welt von Dior",
-        "call_to_action": "SHOP_NOW",
+        "languages": [
+          "de"
+        ],
+        "headline": "Accessoires für den Sommer 2026",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-12-05T23:45:01.000Z",
-        "impressions_total": 738645,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UziEzo1WGn8eCffU4Vtib.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-03-05T10:32:27.000Z",
+        "impressions_total": 10548,
         "impressions_map": {
-          "de": 738645,
+          "de": 10548,
           "be": 0,
           "fi": 0,
           "pt": 0,
@@ -467,83 +428,13 @@
               "advanced_demographics": []
             }
           ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
+          "devices": []
         },
         "paying_advertiser_name": "Dior",
         "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Die zauberhafte Welt von Dior",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Die zauberhafte Welt von Dior",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/62erIhs4iwyP2nOJGvMPJ.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/de_de/fashion/schenken/festtagsgeschenke-fur-damen?utm_source=snapchat&utm_medium=social_paid_performance&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Die zauberhafte Welt von Dior",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MBRbAOgbaqfpx7rlh2N6n.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/de_de/fashion/schmuck-uhren/schmuck-nach-kategorie/die-ganze-schmuckkollektion?utm_source=snapchat&utm_medium=social_paid_performance&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Die zauberhafte Welt von Dior",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EP5tFJSBPdSx5fiIRZkql.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/de_de/fashion/schenken/geschenke-fur-kinder?utm_source=snapchat&utm_medium=social_paid_performance&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Die zauberhafte Welt von Dior",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EgLO95lIMBptLDWg2b8sO.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/de_de/fashion/schenken/festtagsgeschenke-fur-herren?utm_source=snapchat&utm_medium=social_paid_performance&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Die zauberhafte Welt von Dior",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/55W75b8dQER9kRKoiLG72.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/de_de/fashion/schenken/festtagsgeschenke-fur-zuhause?utm_source=snapchat&utm_medium=social_paid_performance&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            }
-          ]
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -553,23 +444,97 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c141d279-acfa-42fc-a871-953f0c3be751",
-        "name": "JADORE-INTENSE_VIDEO-TVC_SVF_15S_LEAR_MPP_INS",
+        "id": "fbf808a3-f4d2-4756-a289-e494a104cf33",
+        "name": "ADDICT-MUP_ANYA_SVF_15S_SHOP_MPP_INS_FRA",
         "ad_account_name": "PCD_PC_DEU_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [],
-        "headline": "J'adore, the new Intense",
+        "headline": "DIOR ADDICT",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/kFm9BPp2y25tIteNJu7ns.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAic4FkgATDgAzjUBkABSg4KCUwtJShbWi4eHhD0A1CYdWgCdfkCUUAiBgoCSAISAKIBNwi6ChIqCigI-u9HIAEw0AU4gApAAkoOCgk8HB0jUDsvGh4Q9ANQmHVoAnXuwmpAIgYKAkgDEgCiATwIkgoSLwotCMreOSABMOADONQGQAJKDgoJMBsUFkQ4GRQUEPQDUJh1aAJ1-QBEQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCN3_MSABMOADONQGQAJKDgoJLRMTFjcpHhIUEPQDUJh1aAJ1yolXQH0AAIA_IgYKAkgCEgCQA5h1&uc=15",
+        "start_date": "2026-01-05T09:00:35.000Z",
+        "impressions_total": 224412,
+        "impressions_map": {
+          "de": 224412,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/de_de/beauty/products/Y0000181.html?utm_medium=paid-social&utm_source=snapchat&utm_campaign=pcd_pc_deu_addict-mup_wom_mku_202601_ec_purc_sn_crd_eur_ins_adgap-00048534-031907-03&utm_content=addict-mup_anya_svf_15s_shop_mpp_ins_fra"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "7e27fc35-2517-4501-bf21-bc75c2232a49",
+        "name": "MENFALL26COLLECTION_VID_SVF_NO_LEARN_MCOP_MAIN_30SEC_PPV",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "de"
+        ],
+        "headline": "Herbst 2026",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vPIvkgVgPdxRiSIGp1NWw.67?mo=GpcCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwiH-4sBIAEw4AM41AZAAUoPCgqBAWVYSnZdZlVQEPQDUJh1aAJ1mopWQH0AAIA_IgYKAkgCEgCiATwIugoSLwotCPrFbiABMNAFOIAKQAJKDgoJb1FXP148RkBDEPQDUJh1aAJ14UZbQH0AAIA_IgYKAkgDEgCiATwIkgoSLwotCLe_WiABMOADONQGQAJKDgoJTEg3KkU-Pz0yEPQDUJh1aAJ14GJHQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCLOWSCABMOADONQGQAJKDgoJSjQ5KjkfKiUnEPQDUJh1aAJ1gl9NQH0AAIA_IgYKAkgCEgCQA5h1&uc=15",
-        "start_date": "2026-03-02T07:00:11.000Z",
-        "impressions_total": 1604119,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tOgql2yo6Z5Ou2TlK9WEs.67?mo=GpsCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwji34YBIAEw4AM41AZAAUoOCglEDigdGh0jHiEQ9ANQsOoBaAJ1DPZOQH0AAIA_IgYKAkgCEgCiAT0IugoSMAouCMbhZyABMNAFOIAKQAJKDgoJQAgiERkUFRwQEPQDULDqAWgCdbSyWUB9AACAPyIGCgJIAxIAogE9CJIKEjAKLgjF3E0gATDgAzjUBkACSg4KCTQHFA8RDxEWDhD0A1Cw6gFoAnXdqD5AfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I9q9KIAEw4AM41AZAAkoOCgkzBhkMEw4QFAsQ9ANQsOoBaAJ1knBRQH0AAIA_IgYKAkgCEgCQA7DqAQ%3D%3D&uc=15",
+        "start_date": "2026-04-02T09:16:19.000Z",
+        "impressions_total": 9763,
         "impressions_map": {
-          "de": 1604119,
+          "de": 9763,
           "be": 0,
           "fi": 0,
           "pt": 0,
@@ -603,28 +568,20 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "40",
+              "max_age": "45",
               "age_groups": [],
-              "gender": "FEMALE",
               "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
+          "devices": []
         },
         "paying_advertiser_name": "Dior",
         "profile_name": "Dior",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.dior.com/de_de/beauty/dufte/damendufte/jadore?utm_source=snapchat&utm_medium=paid-social&utm_campaign=pcd_pc_deu_jadore-intense_wom_fra_202603_aw_view_sn_crd_eur_ins_adgap-00048589-034084-08&utm_content=jadore-intense_video-tvc_svf_15s_lear_mpp_ins_adgap-00048589-034084-08"
+          "url": "https://www.dior.com/en_int/fashion/mens-fashion/fall-collection?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -634,23 +591,25 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "ecdc6378-e3d3-4a95-bf7a-173baf3d61ab",
-        "name": "SUMMERCOLLECTION26_LENS_LENS_NO_LEARN_MCOP_JETT",
+        "id": "9da6faff-a83f-4ee1-b161-42b467ef6e9a",
+        "name": "SUMMERCOLLECTION26_VID_SVF_NO_LEARN_MCOP_LADYDIOR",
         "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
         "status": "ACTIVE",
-        "creative_type": "LENS_WEB_VIEW",
-        "ad_type": "LENS_REMOTE_WEBPAGE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Dior",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "LENS_PACKAGE",
+        "languages": [
+          "de"
+        ],
+        "headline": "Accessoires für den Sommer 2026",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/bc524ee4-9727-4fd3-b0fd-c84ed8185c43.lens",
-        "start_date": "2026-03-05T10:24:22.000Z",
-        "impressions_total": 178655,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3NY3XVQv31FLu1iXvAlvW.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiBjhYgATDgAzjUBkABSg4KCTsRDRERDRAPDhD0A1CARmgCdYTOXkAiBgoCSAISAKIBNwi6ChIqCigI1tMOIAEw0AU4gApAAkoOCgkpCAkKDAkICQoQ9ANQgEZoAnW4q2BAIgYKAkgDEgCiATwIkgoSLwotCNXiCyABMOADONQGQAJKDgoJIggHCAcHCAYIEPQDUIBGaAJ1A8xTQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCIzmCiABMOADONQGQAJKDgoJJQYHBgkGBgYGEPQDUIBGaAJ1PedgQH0AAIA_IgYKAkgCEgCQA4BG&uc=15",
+        "start_date": "2026-03-05T10:32:27.000Z",
+        "impressions_total": 15944,
         "impressions_map": {
-          "de": 178655,
+          "de": 15944,
           "be": 0,
           "fi": 0,
           "pt": 0,
@@ -699,11 +658,6 @@
         "web_view_properties": {
           "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
-        "lens_preview": {
-          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/JkmebbaAJ9CDjxolMXRdP?bo=EhQyAX06AQRCBgjZo_rKBkgCUBJgAQ%3D%3D&uc=18",
-          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/d1f79383-3d83-4be9-b109-bf8825fc8b19.mp4",
-          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/d1f79383-3d83-4be9-b109-bf8825fc8b19.webp"
-        },
         "review_status": "APPROVED",
         "rejection_reasons": [],
         "stickers": []
@@ -712,23 +666,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "17fc73b4-4390-4583-b1fe-cc71fe958ea1",
-        "name": "SUMMERCOLLECTION26_LENS_LENS_NO_LEARN_MCOP_SALTWIND\t",
-        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "id": "db3b7bf7-c746-4e87-9b01-a1c31abf0e8f",
+        "name": "MISS-DIOR-ROSE-ESSENCE_TOIT_SVF_10S_LEAR_MPP_INS_NA_OSF000H0S5",
+        "ad_account_name": "PCD_PC_DEU_EMEA_SOCIAL-SNAPCHAT_PML_EUR_LVMH",
         "status": "ACTIVE",
-        "creative_type": "LENS_WEB_VIEW",
-        "ad_type": "LENS_REMOTE_WEBPAGE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [],
-        "headline": "Dior",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "LENS_PACKAGE",
+        "headline": "MISS DIOR",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/1f0dba04-b55a-4924-a64f-9edbab5ac409.lens",
-        "start_date": "2026-03-05T10:24:22.000Z",
-        "impressions_total": 113048,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MbCZTMGUbsTzBJNvRu89P.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI1Kc2IAEw4AM41AZAAUoOCglaNytJLyw9EBIQ9ANQ2E9oAiIGCgJIBBIAogEyCLoKEiUKIwjSyyggATDQBTiACkACSg4KCUkkITAfHS0MChD0A1DYT2gCIgYKAkgDEgCiATEIfxIlCiMIz8sfIAEw4AM41AZAAkoOCgk7HxgpGhshCQsQ9ANQ2E9oAiIGCgJIAhIAogEyCJIKEiUKIwiClSEgATDgAzjUBkACSg4KCTkjGiwbGSQKCBD0A1DYT2gCIgYKAkgCEgCiATIIxAoSJQojCKCcGyABMOADONYGQAJKDgoJMhkWHxQUHggGEPQDUNhPaAIiBgoCSAISAKIBMgjSChIlCiMIoMscIAEw4AM41AZAAkoOCgk0GxcgFRQfCQcQ9ANQ2E9oAiIGCgJIAhIAkAPYTw%3D%3D&uc=15",
+        "start_date": "2025-08-31T22:00:00.000Z",
+        "impressions_total": 205333,
         "impressions_map": {
-          "de": 113048,
+          "de": 205333,
           "be": 0,
           "fi": 0,
           "pt": 0,
@@ -762,7 +716,6 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "50",
               "age_groups": [],
               "languages": [],
               "operation": "INCLUDE",
@@ -772,15 +725,11 @@
           "devices": []
         },
         "paying_advertiser_name": "Dior",
+        "brand_name": "Dior",
         "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "lens_preview": {
-          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/vhxDbcpEeRWoxRD94de41?bo=EhQyAX06AQRCBgj2lprLBkgCUBJgAQ%3D%3D&uc=18",
-          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/e142212b-4f6c-4c41-9bbe-d7837ea1b7d8.mp4",
-          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/e142212b-4f6c-4c41-9bbe-d7837ea1b7d8.webp"
+          "url": "https://www.dior.com/de_de/beauty/products/miss-dior-essence-Y0000088.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DEU-MISS-DIOR-ROSE-ESSENCE-WOM-FRA-202509-AW-REAC-SN-CRD-EUR-INS-BRANDING-FIRSTCOMMERCIAL&utm_content=MISS-DIOR-ROSE-ESSENCE-TOIT-SVF-10S-MPP-INS-NA"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -790,21 +739,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "52965952-0ca8-4d7d-8be3-db56ccebfbfc",
-        "name": "UNIHOLIDAY25_STA_SC_NO_SHOP_MCOP_WOMENCAR2",
+        "id": "31fd6c0a-2790-483f-8e49-8e35450ac3f0",
+        "name": "UNIHOLIDAY25_LENS_LENS_NO_LEARN_MCOP_DIORTAILORING",
         "ad_account_name": "CDC_FLG_MULTI_WORLD_Social-Snapchat_PML_EUR_LVMH",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "LENS_WEB_VIEW",
+        "ad_type": "LENS_REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [],
-        "headline": "Die zauberhafte Welt von Dior",
-        "call_to_action": "SHOP_NOW",
+        "headline": "Dior",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "LENS_PACKAGE",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-12-05T23:45:01.000Z",
-        "impressions_total": 1155424,
+        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/b0c5824e-cfcb-4af2-909d-c613d4ee5b9a.lens",
+        "start_date": "2025-11-12T09:00:39.000Z",
+        "impressions_total": 394402,
         "impressions_map": {
-          "de": 1155424,
+          "de": 394402,
           "be": 0,
           "fi": 0,
           "pt": 0,
@@ -857,71 +808,13 @@
         "paying_advertiser_name": "Dior",
         "profile_name": "Dior",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Die zauberhafte Welt von Dior",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Die zauberhafte Welt von Dior",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EgLO95lIMBptLDWg2b8sO.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/de_de/fashion/schenken/festtagsgeschenke-fur-herren?utm_source=snapchat&utm_medium=social_paid_performance&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Die zauberhafte Welt von Dior",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/55W75b8dQER9kRKoiLG72.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/de_de/fashion/schenken/festtagsgeschenke-fur-zuhause?utm_source=snapchat&utm_medium=social_paid_performance&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Die zauberhafte Welt von Dior",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/62erIhs4iwyP2nOJGvMPJ.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/de_de/fashion/schenken/festtagsgeschenke-fur-damen?utm_source=snapchat&utm_medium=social_paid_performance&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Die zauberhafte Welt von Dior",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EP5tFJSBPdSx5fiIRZkql.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/de_de/fashion/schenken/geschenke-fur-kinder?utm_source=snapchat&utm_medium=social_paid_performance&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Die zauberhafte Welt von Dior",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/i1KDXq8aHtaOd3HlW8XZw.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/de_de/fashion/schmuck-uhren/schmuck-nach-kategorie/die-ganze-schmuckkollektion?utm_source=snapchat&utm_medium=social_paid_performance&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}"
-              }
-            }
-          ]
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_int/fashion/gifts/holiday-season?utm_source=snapchat&utm_medium=social_paid_branding&utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{ad.id}}"
+        },
+        "lens_preview": {
+          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/MQegmUWHrJhCAA1aaHnPm?bo=EhQyAX06AQRCBgin04zIBkgCUBJgAQ%3D%3D&uc=18",
+          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/b3cef63e-fa26-445d-9669-83b64db9980c.mp4",
+          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/b3cef63e-fa26-445d-9669-83b64db9980c.webp"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

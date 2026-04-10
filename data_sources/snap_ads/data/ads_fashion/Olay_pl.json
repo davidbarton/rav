@@ -1,15 +1,15 @@
 {
   "brand": "Olay",
   "country": "pl",
-  "fetched_at": "2026-04-09T22:51:25.017Z",
+  "fetched_at": "2026-04-10T07:35:17.157Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b2f0db0d-6c04-4940-bea4-2d0a4df18ea9",
-        "name": "52",
+        "id": "12d33650-40ae-4a4e-a234-4ebf757adf9d",
+        "name": "40",
         "ad_account_name": "Nikolay Sigalovski Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -18,41 +18,41 @@
         "languages": [
           "en"
         ],
-        "headline": "This is legally chaos",
+        "headline": "Let’s meet halfway",
         "call_to_action": "VIEW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XU1KAquOlqVkuvP96Zstt.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-12-02T00:38:52.000Z",
-        "impressions_total": 4014,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/n6fvT0cYIGAAPCqjwbtCs.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-12-01T21:47:43.000Z",
+        "impressions_total": 10,
         "impressions_map": {
-          "de": 40,
-          "be": 627,
-          "fi": 110,
-          "pt": 226,
+          "de": 0,
+          "be": 2,
+          "fi": 0,
+          "pt": 3,
           "bg": 0,
-          "dk": 94,
+          "dk": 0,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 11,
-          "hu": 222,
-          "se": 31,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
           "si": 0,
           "sk": 0,
-          "ie": 401,
+          "ie": 0,
           "ee": 0,
-          "el": 907,
+          "el": 1,
           "mt": 0,
-          "it": 447,
-          "es": 216,
-          "at": 92,
+          "it": 2,
+          "es": 1,
+          "at": 0,
           "cy": 0,
-          "cz": 203,
-          "pl": 292,
+          "cz": 0,
+          "pl": 1,
           "ro": 0,
-          "nl": 95,
+          "nl": 0,
           "tr": 0
         },
         "targeting_v2": {
@@ -83,8 +83,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "a93a4293-8d07-4f3d-94c5-1c3dcde13d04",
-        "name": "12",
+        "id": "3cdcfb69-7ed1-4a7c-9080-4228dc3ea1b5",
+        "name": "63",
         "ad_account_name": "Nikolay Sigalovski Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -93,18 +93,93 @@
         "languages": [
           "en"
         ],
-        "headline": "You’re just in time",
+        "headline": "My brain needs a reboot",
         "call_to_action": "VIEW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nDx6Qy2OvHGE4gvvbrqJx.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CtI0DmtgYsyJfqCKTJSOA.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-12-02T00:38:52.000Z",
+        "impressions_total": 103,
+        "impressions_map": {
+          "de": 3,
+          "be": 20,
+          "fi": 3,
+          "pt": 3,
+          "bg": 0,
+          "dk": 5,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 4,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 8,
+          "ee": 0,
+          "el": 17,
+          "mt": 0,
+          "it": 15,
+          "es": 9,
+          "at": 1,
+          "cy": 0,
+          "cz": 6,
+          "pl": 6,
+          "ro": 0,
+          "nl": 3,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Nikolay Sigalovski",
+        "profile_name": "Tessa Santini",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbGxSYzRlSTFMN1VpVGRVU3NlcHZRP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://tessantini.com/?referrer=snapchat"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4acf1d09-91ed-4d24-ac16-755315e52dfe",
+        "name": "56",
+        "ad_account_name": "Nikolay Sigalovski Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "I might surprise you",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/w1GJmsSjVHOptxpGYmg7x.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
         "start_date": "2025-12-01T21:47:43.000Z",
-        "impressions_total": 50,
+        "impressions_total": 37,
         "impressions_map": {
           "de": 0,
-          "be": 3,
-          "fi": 0,
-          "pt": 20,
+          "be": 4,
+          "fi": 1,
+          "pt": 8,
           "bg": 0,
           "dk": 0,
           "lt": 0,
@@ -112,16 +187,16 @@
           "hr": 0,
           "lv": 0,
           "fr": 0,
-          "hu": 1,
+          "hu": 0,
           "se": 0,
           "si": 0,
           "sk": 0,
-          "ie": 0,
+          "ie": 1,
           "ee": 0,
           "el": 5,
           "mt": 0,
-          "it": 10,
-          "es": 6,
+          "it": 11,
+          "es": 2,
           "at": 0,
           "cy": 0,
           "cz": 2,
@@ -158,8 +233,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "559ba749-cb94-4b84-885c-bcf16aef6f0d",
-        "name": "2",
+        "id": "93650621-7935-401f-9fdb-9d7d5eb764b0",
+        "name": "44",
         "ad_account_name": "Nikolay Sigalovski Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -168,39 +243,410 @@
         "languages": [
           "en"
         ],
-        "headline": "Ever felt misplaced?",
+        "headline": "You arrived right on time",
         "call_to_action": "VIEW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rDXwZ59ZHFaREJVuVwSOz.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-12-02T00:38:52.000Z",
-        "impressions_total": 255,
+        "start_date": "2025-12-01T21:47:43.000Z",
+        "impressions_total": 9,
         "impressions_map": {
-          "de": 2,
-          "be": 43,
-          "fi": 5,
-          "pt": 25,
+          "de": 0,
+          "be": 1,
+          "fi": 0,
+          "pt": 3,
           "bg": 0,
-          "dk": 9,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 2,
+          "es": 1,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 2,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "web_view_properties": {
+          "url": "https://tessantini.com/?referrer=snapchat"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad contains content that could be considered inappropriate, including nudity, body objectification, sexually provocative behavior or sexually suggestive imagery. This may include obscuring heads or faces, or focus on particular parts of the body unrelated to the advertised product or service. This includes fictional scenarios and cartoon characters. We prohibit ads that depict nudity and sexual content."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a02d52cb-1247-449e-9478-2d2fd3f3cea3",
+        "name": "46",
+        "ad_account_name": "Nikolay Sigalovski Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "I might be your new favorite",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/N7dovdb7GeiRfblBcXjYF.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-12-01T21:47:43.000Z",
+        "impressions_total": 80,
+        "impressions_map": {
+          "de": 0,
+          "be": 9,
+          "fi": 0,
+          "pt": 36,
+          "bg": 0,
+          "dk": 1,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 1,
+          "ee": 0,
+          "el": 15,
+          "mt": 0,
+          "it": 6,
+          "es": 9,
+          "at": 1,
+          "cy": 0,
+          "cz": 0,
+          "pl": 2,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Nikolay Sigalovski",
+        "profile_name": "Tessa Santini",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbGxSYzRlSTFMN1VpVGRVU3NlcHZRP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://tessantini.com/?referrer=snapchat"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e3c2284d-15ad-470c-beda-78fa89c4de86",
+        "name": "41",
+        "ad_account_name": "Nikolay Sigalovski Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "I bet we’d laugh at the same jokes",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XRU6G2JFJexYCeAyLscAy.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-12-02T00:38:52.000Z",
+        "impressions_total": 810,
+        "impressions_map": {
+          "de": 3,
+          "be": 126,
+          "fi": 13,
+          "pt": 41,
+          "bg": 0,
+          "dk": 11,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 3,
+          "hu": 36,
+          "se": 2,
+          "si": 0,
+          "sk": 0,
+          "ie": 72,
+          "ee": 0,
+          "el": 237,
+          "mt": 0,
+          "it": 97,
+          "es": 57,
+          "at": 19,
+          "cy": 0,
+          "cz": 31,
+          "pl": 52,
+          "ro": 0,
+          "nl": 10,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Nikolay Sigalovski",
+        "profile_name": "Tessa Santini",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbGxSYzRlSTFMN1VpVGRVU3NlcHZRP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://tessantini.com/?referrer=snapchat"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d270b228-4f0e-47cf-89de-8bf76c45cdf0",
+        "name": "4",
+        "ad_account_name": "Nikolay Sigalovski Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "I’m fun, ask anyone",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-12-01T21:47:43.000Z",
+        "impressions_total": 307,
+        "impressions_map": {
+          "de": 0,
+          "be": 28,
+          "fi": 0,
+          "pt": 125,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 8,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 4,
+          "ee": 0,
+          "el": 45,
+          "mt": 0,
+          "it": 50,
+          "es": 33,
+          "at": 0,
+          "cy": 0,
+          "cz": 7,
+          "pl": 7,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "web_view_properties": {
+          "url": "https://tessantini.com/?referrer=snapchat"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your Brand Name does not reflect the Paying Advertiser. Paying Advertiser examples include your Organization Name, Product Name, Parent Company, Artist Name or Co-Branded Partnerships. Please update your Brand Name to be reflective of the content you are advertising, resubmit for review, and our team will take another look."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "5d45b26f-38d0-447f-a632-6bd47d466262",
+        "name": "57",
+        "ad_account_name": "Nikolay Sigalovski Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "I wonder what you think of me",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BQNRzagBJ7klYnxiOGGlt.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-12-01T21:47:43.000Z",
+        "impressions_total": 12,
+        "impressions_map": {
+          "de": 0,
+          "be": 1,
+          "fi": 0,
+          "pt": 5,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 1,
+          "mt": 0,
+          "it": 2,
+          "es": 1,
+          "at": 0,
+          "cy": 0,
+          "cz": 1,
+          "pl": 1,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Nikolay Sigalovski",
+        "profile_name": "Tessa Santini",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbGxSYzRlSTFMN1VpVGRVU3NlcHZRP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://tessantini.com/?referrer=snapchat"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "bc4a14ca-001a-4535-bec7-97aa27598ab4",
+        "name": "65",
+        "ad_account_name": "Nikolay Sigalovski Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Tell me your soundtrack",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1GlmcMz4CMdaOQ1PSw9dB.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-12-02T00:38:52.000Z",
+        "impressions_total": 87,
+        "impressions_map": {
+          "de": 3,
+          "be": 9,
+          "fi": 2,
+          "pt": 7,
+          "bg": 0,
+          "dk": 1,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
           "fr": 1,
-          "hu": 9,
-          "se": 4,
+          "hu": 7,
+          "se": 1,
           "si": 0,
           "sk": 0,
-          "ie": 16,
+          "ie": 2,
           "ee": 0,
-          "el": 61,
+          "el": 11,
           "mt": 0,
-          "it": 25,
-          "es": 20,
-          "at": 3,
+          "it": 14,
+          "es": 4,
+          "at": 2,
           "cy": 0,
-          "cz": 11,
-          "pl": 17,
+          "cz": 8,
+          "pl": 11,
           "ro": 0,
           "nl": 4,
           "tr": 0
@@ -233,8 +679,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "20ecfe6d-096e-4846-89b5-22c86135cfe9",
-        "name": "18",
+        "id": "10c58c84-1b7e-4662-b3a1-47bf2866d06c",
+        "name": "59",
         "ad_account_name": "Nikolay Sigalovski Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -243,168 +689,17 @@
         "languages": [
           "en"
         ],
-        "headline": "What if this is the moment?",
+        "headline": "I feel too much sometimes",
         "call_to_action": "VIEW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/PlNPcvRHHhUMFSz6BQsOE.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-12-02T00:38:52.000Z",
-        "impressions_total": 615,
-        "impressions_map": {
-          "de": 3,
-          "be": 77,
-          "fi": 15,
-          "pt": 80,
-          "bg": 0,
-          "dk": 7,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1,
-          "hu": 32,
-          "se": 4,
-          "si": 0,
-          "sk": 0,
-          "ie": 47,
-          "ee": 0,
-          "el": 107,
-          "mt": 0,
-          "it": 119,
-          "es": 52,
-          "at": 14,
-          "cy": 0,
-          "cz": 21,
-          "pl": 33,
-          "ro": 0,
-          "nl": 3,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nikolay Sigalovski",
-        "profile_name": "Tessa Santini",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbGxSYzRlSTFMN1VpVGRVU3NlcHZRP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://tessantini.com/?referrer=snapchat"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "adcd9865-4499-4df7-8de2-ecc65b9380d3",
-        "name": "60",
-        "ad_account_name": "Nikolay Sigalovski Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Got a minute?",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MeV3zTu6DCwEAvjrkqtrc.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-12-02T00:38:52.000Z",
-        "impressions_total": 5849,
-        "impressions_map": {
-          "de": 54,
-          "be": 829,
-          "fi": 108,
-          "pt": 410,
-          "bg": 0,
-          "dk": 69,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 25,
-          "hu": 275,
-          "se": 25,
-          "si": 0,
-          "sk": 0,
-          "ie": 300,
-          "ee": 0,
-          "el": 1174,
-          "mt": 0,
-          "it": 1226,
-          "es": 566,
-          "at": 104,
-          "cy": 0,
-          "cz": 209,
-          "pl": 374,
-          "ro": 0,
-          "nl": 101,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nikolay Sigalovski",
-        "profile_name": "Tessa Santini",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbGxSYzRlSTFMN1VpVGRVU3NlcHZRP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://tessantini.com/?referrer=snapchat"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "66bd65b8-dcf3-46dd-a605-32ceca59f218",
-        "name": "9",
-        "ad_account_name": "Nikolay Sigalovski Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Your timing is perfect",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ecwadDFWUoeXgmCWOlYIe.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
         "start_date": "2025-12-01T21:47:43.000Z",
-        "impressions_total": 53,
+        "impressions_total": 175,
         "impressions_map": {
           "de": 0,
-          "be": 2,
-          "fi": 0,
-          "pt": 29,
+          "be": 13,
+          "fi": 1,
+          "pt": 65,
           "bg": 0,
           "dk": 0,
           "lt": 0,
@@ -412,247 +707,22 @@
           "hr": 0,
           "lv": 0,
           "fr": 0,
-          "hu": 0,
+          "hu": 5,
           "se": 0,
           "si": 0,
           "sk": 0,
-          "ie": 0,
+          "ie": 3,
           "ee": 0,
-          "el": 5,
+          "el": 22,
           "mt": 0,
-          "it": 5,
-          "es": 8,
+          "it": 36,
+          "es": 18,
           "at": 1,
           "cy": 0,
-          "cz": 1,
-          "pl": 2,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nikolay Sigalovski",
-        "profile_name": "Tessa Santini",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbGxSYzRlSTFMN1VpVGRVU3NlcHZRP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://tessantini.com/?referrer=snapchat"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8f7e5b56-1da5-4519-b179-d647dea8db13",
-        "name": "62",
-        "ad_account_name": "Nikolay Sigalovski Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "I save random strangers",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NwN20x1PPXgakp9T9mCcB.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-12-02T00:38:52.000Z",
-        "impressions_total": 432,
-        "impressions_map": {
-          "de": 5,
-          "be": 72,
-          "fi": 13,
-          "pt": 18,
-          "bg": 0,
-          "dk": 11,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 2,
-          "hu": 27,
-          "se": 4,
-          "si": 0,
-          "sk": 0,
-          "ie": 47,
-          "ee": 0,
-          "el": 105,
-          "mt": 0,
-          "it": 43,
-          "es": 23,
-          "at": 7,
-          "cy": 0,
-          "cz": 15,
-          "pl": 34,
-          "ro": 0,
-          "nl": 6,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nikolay Sigalovski",
-        "profile_name": "Tessa Santini",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbGxSYzRlSTFMN1VpVGRVU3NlcHZRP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://tessantini.com/?referrer=snapchat"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "86169315-2bfe-4c12-a6ac-de255155da1f",
-        "name": "38",
-        "ad_account_name": "Nikolay Sigalovski Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "I like your curiosity",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VSviyIaQU979JiMkDt6Fz.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-12-01T21:47:43.000Z",
-        "impressions_total": 77,
-        "impressions_map": {
-          "de": 1,
-          "be": 6,
-          "fi": 0,
-          "pt": 26,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 1,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 15,
-          "mt": 0,
-          "it": 13,
-          "es": 11,
-          "at": 0,
-          "cy": 0,
-          "cz": 2,
-          "pl": 2,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nikolay Sigalovski",
-        "profile_name": "Tessa Santini",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbGxSYzRlSTFMN1VpVGRVU3NlcHZRP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://tessantini.com/?referrer=snapchat"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a7bd9481-6987-4d0c-bc6c-5b64731baf71",
-        "name": "19",
-        "ad_account_name": "Nikolay Sigalovski Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "I’m 50% coffee, 50% confusion",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/aaemFAAThZvaUiNDgeZcQ.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-12-02T00:38:52.000Z",
-        "impressions_total": 92,
-        "impressions_map": {
-          "de": 0,
-          "be": 11,
-          "fi": 2,
-          "pt": 5,
-          "bg": 0,
-          "dk": 2,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1,
-          "hu": 2,
-          "se": 3,
-          "si": 0,
-          "sk": 0,
-          "ie": 10,
-          "ee": 0,
-          "el": 17,
-          "mt": 0,
-          "it": 13,
-          "es": 9,
-          "at": 2,
-          "cy": 0,
           "cz": 4,
-          "pl": 8,
+          "pl": 6,
           "ro": 0,
-          "nl": 3,
+          "nl": 1,
           "tr": 0
         },
         "targeting_v2": {
@@ -669,89 +739,13 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Nikolay Sigalovski",
-        "profile_name": "Tessa Santini",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbGxSYzRlSTFMN1VpVGRVU3NlcHZRP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://tessantini.com/?referrer=snapchat"
         },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c703fa09-8038-4db2-ae31-3dc361aba4d6",
-        "name": "22",
-        "ad_account_name": "Nikolay Sigalovski Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad promotes or features adult-related products or services, including adult specialty products/shops, items intended for sexual use, adult films, strip clubs or escort services. We prohibit advertisements for adult products and services on Snapchat. "
         ],
-        "headline": "Heyy",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/n2FTZhybNGPRLqTQn7E4y.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-12-01T21:47:43.000Z",
-        "impressions_total": 60,
-        "impressions_map": {
-          "de": 0,
-          "be": 12,
-          "fi": 0,
-          "pt": 17,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 5,
-          "ee": 0,
-          "el": 4,
-          "mt": 0,
-          "it": 10,
-          "es": 8,
-          "at": 0,
-          "cy": 0,
-          "cz": 2,
-          "pl": 2,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nikolay Sigalovski",
-        "profile_name": "Tessa Santini",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbGxSYzRlSTFMN1VpVGRVU3NlcHZRP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://tessantini.com/?referrer=snapchat"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
         "stickers": []
       }
     }

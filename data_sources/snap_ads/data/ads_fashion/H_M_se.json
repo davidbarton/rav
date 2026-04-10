@@ -1,8 +1,9 @@
 {
   "brand": "H&M",
   "country": "se",
-  "fetched_at": "2026-04-08T23:22:33.302Z",
+  "fetched_at": "2026-04-10T07:47:07.081Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
@@ -4982,614 +4983,6 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b79f88e3-2f44-486f-9e06-6cced7bc2441",
-        "name": "cn_ao-prospecting-ladies|cc_brand|cy_collection|crn_automatic|ci_xxxx",
-        "ad_account_name": "H&M NEU Sweden (SE)",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Shoppa på hm.com",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "DYNAMIC",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-10-17T13:00:19.000Z",
-        "impressions_total": 213168,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 213168,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "brand_name": "H&M",
-        "profile_name": "H&M",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            }
-          ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/g8pU5pMKGxQ6SrUtmSLen.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Pzh99VqOCIlgmVkFU7NS2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "58711e93-9354-4e84-885d-8582964ecd1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/R0PbbBjCyjjW3f5hwz06p.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qb2WDxONuRUxAwVpawJFC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
-                  ]
-                }
-              ],
-              "description": "En väskdekoration med hängen i olika utföranden. Den har ett springlås så att du enkelt kan fästa den på väskan eller nyckelringen.",
-              "brand": "H&M",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "ladies_accessories_bagcharms",
-              "custom_label_3": "New",
-              "custom_label_4": "Regular",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Brun"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [],
-              "size": "",
-              "title": "Väskdekoration",
-              "link": "https://www2.hm.com/sv_se/productpage.1323558001.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/3GzwPWbKIP8MERRA1Yg86.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/I50VmDr1X2QXbyT8D3Zex.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/L6L9GMw14dczgW4fbWgNk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/hWXIratKzaB8YAgihEdXb.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "58711e93-9354-4e84-885d-8582964ecd1e"
-                  ]
-                }
-              ],
-              "description": "En vadlång, oversized kappa i filtad ullblandning. Tyget kommer från den italienska textiltillverkaren Nova Fides. Kappan har krage, halslås och dold knäppning fram. Stolpfickor i sidorna och brett, avtagbart knytskärp i midjan. Lång raglanärm med slejf och knappar vid ärmslut. Enkelt sprund bak. Fodrad.",
-              "brand": "H&M",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Apparel & Accessories > Clothing > Outerwear > Coats & Jackets",
-              "custom_label_3": "New",
-              "custom_label_4": "Regular",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Brun"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [],
-              "size": "",
-              "title": "Oversized kappa i ullmix",
-              "link": "https://www2.hm.com/sv_se/productpage.1303176001.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/u4w0VfhiVzddTBcenmAsR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/dLaBK6JUc0ycsGNjsw1TH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/E8rY7xETN0mg3Iz4ge48a.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "58711e93-9354-4e84-885d-8582964ecd1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/uXJbosMRqPw1xZ6WxbStx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
-                  ]
-                }
-              ],
-              "description": "Jacket in woven fabric with a soft teddy collar and lining. Zip down the front, welt side pockets, dropped shoulders and ribbing at the cuffs and hem.",
-              "brand": "H&M",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Apparel & Accessories > Clothing > Outerwear > Coats & Jackets",
-              "custom_label_3": "New",
-              "custom_label_4": "Regular",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Brun"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [],
-              "size": "",
-              "title": "Teddy-lined jacket",
-              "link": "https://www2.hm.com/sv_se/productpage.1309779001.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/tc1RQtH8z94OC2SMyIRyr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/xcO5aF7mIuGu8nhZOPfk2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/x6VMgSGDPBwuYGDFbh59W.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "58711e93-9354-4e84-885d-8582964ecd1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2vJ2tAm67hfpFy7YENGcL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
-                  ]
-                }
-              ],
-              "description": "Ett par 5-ficksjeans i denim med lätt stretch för god bekvämlighet. Jeansen har smal passform från midja till lår och utsvängda ben från knä till benslut. Hög midja och gylf med dragkedja och knapp. Längre modell designad för att veckas vid bensluten. Kombinera dem med allt från korta toppar till stora, stickade tröjor.",
-              "brand": "H&M",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Apparel & Accessories > Clothing > Pants",
-              "custom_label_3": "New",
-              "custom_label_4": "Regular",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Grå"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [],
-              "size": "",
-              "title": "Flared High Jeans",
-              "link": "https://www2.hm.com/sv_se/productpage.1302894008.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/jHSYBG4hPXUit7VwfARey.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/GfRvMiJjlTcxBQ4cSnfVb.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "58711e93-9354-4e84-885d-8582964ecd1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qPfLhkn8oV5RglWPF1ZKC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/f86xqPq4LyjyuqMwT76Tt.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
-                  ]
-                }
-              ],
-              "description": "En vadderad jacka i manchester med krage i pile och metallknappar fram. Jackan har fuskfickor på bröstet med lock och knapp, stolpfickor i sidorna och sprund med knapp vid ärmslut. Quiltat foder.",
-              "brand": "H&M",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Apparel & Accessories > Clothing > Outerwear > Coats & Jackets",
-              "custom_label_3": "New",
-              "custom_label_4": "Regular",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Beige"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [],
-              "size": "",
-              "title": "Vadderad manchesterjacka",
-              "link": "https://www2.hm.com/sv_se/productpage.1313205001.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/TNBtyFdhA61OpUTy8deDc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/G6OGfgo1nNxBLcRTvnzEk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "58711e93-9354-4e84-885d-8582964ecd1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/KgOnFCWmJdfftsCccWyBj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/1JxBjuGErxsUjKUATsCY6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
-                  ]
-                }
-              ],
-              "description": "En klassisk basker i ull.",
-              "brand": "H&M",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Apparel & Accessories > Clothing Accessories > Hats",
-              "custom_label_3": "New",
-              "custom_label_4": "Regular",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Vit"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [],
-              "size": "",
-              "title": "Basker i ull",
-              "link": "https://www2.hm.com/sv_se/productpage.1308671001.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/XGfjc3JRiTP2knB43T9Z8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qvBkKTb0o7Fwbe5O2ZjNx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "58711e93-9354-4e84-885d-8582964ecd1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/4p9L0p2I1ySER0q0wACXH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/7RZNTOY1wPYJduVPJwCCw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
-                  ]
-                }
-              ],
-              "description": "En oversized tröja i sweatshirtkvalitet med mjuk, borstad insida och textmotiv på bröstet. Tröjan har nedhasad axel och lång ärm. Ribbad mudd kring halsringning, vid ärmslut och i nederkant.",
-              "brand": "H&M",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Apparel & Accessories > Clothing > Shirts & Tops",
-              "custom_label_3": "New",
-              "custom_label_4": "Regular",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Beige"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [],
-              "size": "",
-              "title": "Sweatshirt med textmotiv",
-              "link": "https://www2.hm.com/sv_se/productpage.1269502038.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/GBSrOZQ4VuNSBJ79Trm0x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ycmMWyQ8QnIco52gyRf79.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "58711e93-9354-4e84-885d-8582964ecd1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/xCfZdSxc2lsmac6v6FAWc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/OnUJPDzRzPOQFjMkzpqaX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
-                  ]
-                }
-              ],
-              "description": "En oversized, stickad tröja i mohair- och ullblandning med borstad yta och huva med dragsko.",
-              "brand": "H&M",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Apparel & Accessories > Clothing > Shirts & Tops",
-              "custom_label_3": "New",
-              "custom_label_4": "Regular",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Grå"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [],
-              "size": "",
-              "title": "Huvtröja i mohairmix",
-              "link": "https://www2.hm.com/sv_se/productpage.1306171001.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/sH9BIzDa86IEsUr7iBfq7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/J1zpsIEiJdNmG4Tk33Qjp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/MBRIYsebkhbMm40hzUWal.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "58711e93-9354-4e84-885d-8582964ecd1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/0lG4ry23NQa0Da7U4tjgf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
-                  ]
-                }
-              ],
-              "description": "En oversized tröja i mjuk, stickad kvalitet. Tröjan har rund, ribbad halsringning, kraftigt nedhasad axel och lång ärm. Ribbstickad kant vid ärmslut och nedtill.",
-              "brand": "H&M",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Apparel & Accessories > Clothing > Shirts & Tops",
-              "custom_label_3": "New",
-              "custom_label_4": "Regular",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Rosa"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [],
-              "size": "",
-              "title": "Oversized stickad tröja",
-              "link": "https://www2.hm.com/sv_se/productpage.1303132004.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/J9Rqn3qrFtfWYnL3Yp7Iw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/xtRzehJEvH7efOfoy39yi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/T3Lavs8tPwGD2zo85QdSi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "58711e93-9354-4e84-885d-8582964ecd1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ZIZEpmSIp2Qt4aKoBBNTR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
-                  ]
-                }
-              ],
-              "description": "Ett par byxor i vävd kvalitet. Byxorna har hög midja med gylf med dragkedja och dold hyska och hake. Utanpåfickor fram med dekorativ knapp och raka ben med sydda pressveck fram och bak.",
-              "brand": "H&M",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Apparel & Accessories > Clothing > Pants",
-              "custom_label_3": "New",
-              "custom_label_4": "Regular",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Brun"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [],
-              "size": "",
-              "title": "Byxa med pressveck",
-              "link": "https://www2.hm.com/sv_se/productpage.1302358002.html"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "cn_ao-prospecting-ladies|cc_brand|cy_collection|crn_automatic|ci_xxxx",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "layout": "AUTOMATIC",
-            "text_fields": [
-              "title",
-              "price"
-            ]
-          },
-          "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
         "id": "010a0224-909e-4130-837f-21b0cdfd83a4",
         "name": "cn_ao-prospecting-ladies|cc_brand|cy_collection|crn_automatic|ci_xxxx",
         "ad_account_name": "[H&M][SE][Central]",
@@ -6269,6 +5662,614 @@
               "price"
             ],
             "price_display_type": "STRIKETHROUGH"
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b79f88e3-2f44-486f-9e06-6cced7bc2441",
+        "name": "cn_ao-prospecting-ladies|cc_brand|cy_collection|crn_automatic|ci_xxxx",
+        "ad_account_name": "H&M NEU Sweden (SE)",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Shoppa på hm.com",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-10-17T13:00:19.000Z",
+        "impressions_total": 213168,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 213168,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "brand_name": "H&M",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "collection_preview": {
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/g8pU5pMKGxQ6SrUtmSLen.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Pzh99VqOCIlgmVkFU7NS2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "58711e93-9354-4e84-885d-8582964ecd1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/R0PbbBjCyjjW3f5hwz06p.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qb2WDxONuRUxAwVpawJFC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
+                  ]
+                }
+              ],
+              "description": "En väskdekoration med hängen i olika utföranden. Den har ett springlås så att du enkelt kan fästa den på väskan eller nyckelringen.",
+              "brand": "H&M",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "ladies_accessories_bagcharms",
+              "custom_label_3": "New",
+              "custom_label_4": "Regular",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Brun"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [],
+              "size": "",
+              "title": "Väskdekoration",
+              "link": "https://www2.hm.com/sv_se/productpage.1323558001.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3GzwPWbKIP8MERRA1Yg86.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/I50VmDr1X2QXbyT8D3Zex.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/L6L9GMw14dczgW4fbWgNk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hWXIratKzaB8YAgihEdXb.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "58711e93-9354-4e84-885d-8582964ecd1e"
+                  ]
+                }
+              ],
+              "description": "En vadlång, oversized kappa i filtad ullblandning. Tyget kommer från den italienska textiltillverkaren Nova Fides. Kappan har krage, halslås och dold knäppning fram. Stolpfickor i sidorna och brett, avtagbart knytskärp i midjan. Lång raglanärm med slejf och knappar vid ärmslut. Enkelt sprund bak. Fodrad.",
+              "brand": "H&M",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Apparel & Accessories > Clothing > Outerwear > Coats & Jackets",
+              "custom_label_3": "New",
+              "custom_label_4": "Regular",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Brun"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [],
+              "size": "",
+              "title": "Oversized kappa i ullmix",
+              "link": "https://www2.hm.com/sv_se/productpage.1303176001.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/u4w0VfhiVzddTBcenmAsR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/dLaBK6JUc0ycsGNjsw1TH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/E8rY7xETN0mg3Iz4ge48a.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "58711e93-9354-4e84-885d-8582964ecd1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/uXJbosMRqPw1xZ6WxbStx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
+                  ]
+                }
+              ],
+              "description": "Jacket in woven fabric with a soft teddy collar and lining. Zip down the front, welt side pockets, dropped shoulders and ribbing at the cuffs and hem.",
+              "brand": "H&M",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Apparel & Accessories > Clothing > Outerwear > Coats & Jackets",
+              "custom_label_3": "New",
+              "custom_label_4": "Regular",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Brun"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [],
+              "size": "",
+              "title": "Teddy-lined jacket",
+              "link": "https://www2.hm.com/sv_se/productpage.1309779001.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/tc1RQtH8z94OC2SMyIRyr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/xcO5aF7mIuGu8nhZOPfk2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/x6VMgSGDPBwuYGDFbh59W.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "58711e93-9354-4e84-885d-8582964ecd1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/2vJ2tAm67hfpFy7YENGcL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
+                  ]
+                }
+              ],
+              "description": "Ett par 5-ficksjeans i denim med lätt stretch för god bekvämlighet. Jeansen har smal passform från midja till lår och utsvängda ben från knä till benslut. Hög midja och gylf med dragkedja och knapp. Längre modell designad för att veckas vid bensluten. Kombinera dem med allt från korta toppar till stora, stickade tröjor.",
+              "brand": "H&M",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Apparel & Accessories > Clothing > Pants",
+              "custom_label_3": "New",
+              "custom_label_4": "Regular",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Grå"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [],
+              "size": "",
+              "title": "Flared High Jeans",
+              "link": "https://www2.hm.com/sv_se/productpage.1302894008.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/jHSYBG4hPXUit7VwfARey.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/GfRvMiJjlTcxBQ4cSnfVb.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "58711e93-9354-4e84-885d-8582964ecd1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qPfLhkn8oV5RglWPF1ZKC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/f86xqPq4LyjyuqMwT76Tt.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
+                  ]
+                }
+              ],
+              "description": "En vadderad jacka i manchester med krage i pile och metallknappar fram. Jackan har fuskfickor på bröstet med lock och knapp, stolpfickor i sidorna och sprund med knapp vid ärmslut. Quiltat foder.",
+              "brand": "H&M",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Apparel & Accessories > Clothing > Outerwear > Coats & Jackets",
+              "custom_label_3": "New",
+              "custom_label_4": "Regular",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Beige"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [],
+              "size": "",
+              "title": "Vadderad manchesterjacka",
+              "link": "https://www2.hm.com/sv_se/productpage.1313205001.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/TNBtyFdhA61OpUTy8deDc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/G6OGfgo1nNxBLcRTvnzEk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "58711e93-9354-4e84-885d-8582964ecd1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/KgOnFCWmJdfftsCccWyBj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/1JxBjuGErxsUjKUATsCY6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
+                  ]
+                }
+              ],
+              "description": "En klassisk basker i ull.",
+              "brand": "H&M",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Apparel & Accessories > Clothing Accessories > Hats",
+              "custom_label_3": "New",
+              "custom_label_4": "Regular",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Vit"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [],
+              "size": "",
+              "title": "Basker i ull",
+              "link": "https://www2.hm.com/sv_se/productpage.1308671001.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/XGfjc3JRiTP2knB43T9Z8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qvBkKTb0o7Fwbe5O2ZjNx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "58711e93-9354-4e84-885d-8582964ecd1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/4p9L0p2I1ySER0q0wACXH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/7RZNTOY1wPYJduVPJwCCw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
+                  ]
+                }
+              ],
+              "description": "En oversized tröja i sweatshirtkvalitet med mjuk, borstad insida och textmotiv på bröstet. Tröjan har nedhasad axel och lång ärm. Ribbad mudd kring halsringning, vid ärmslut och i nederkant.",
+              "brand": "H&M",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Apparel & Accessories > Clothing > Shirts & Tops",
+              "custom_label_3": "New",
+              "custom_label_4": "Regular",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Beige"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [],
+              "size": "",
+              "title": "Sweatshirt med textmotiv",
+              "link": "https://www2.hm.com/sv_se/productpage.1269502038.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/GBSrOZQ4VuNSBJ79Trm0x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ycmMWyQ8QnIco52gyRf79.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "58711e93-9354-4e84-885d-8582964ecd1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/xCfZdSxc2lsmac6v6FAWc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/OnUJPDzRzPOQFjMkzpqaX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
+                  ]
+                }
+              ],
+              "description": "En oversized, stickad tröja i mohair- och ullblandning med borstad yta och huva med dragsko.",
+              "brand": "H&M",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Apparel & Accessories > Clothing > Shirts & Tops",
+              "custom_label_3": "New",
+              "custom_label_4": "Regular",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Grå"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [],
+              "size": "",
+              "title": "Huvtröja i mohairmix",
+              "link": "https://www2.hm.com/sv_se/productpage.1306171001.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/sH9BIzDa86IEsUr7iBfq7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/J1zpsIEiJdNmG4Tk33Qjp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/MBRIYsebkhbMm40hzUWal.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "58711e93-9354-4e84-885d-8582964ecd1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/0lG4ry23NQa0Da7U4tjgf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
+                  ]
+                }
+              ],
+              "description": "En oversized tröja i mjuk, stickad kvalitet. Tröjan har rund, ribbad halsringning, kraftigt nedhasad axel och lång ärm. Ribbstickad kant vid ärmslut och nedtill.",
+              "brand": "H&M",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Apparel & Accessories > Clothing > Shirts & Tops",
+              "custom_label_3": "New",
+              "custom_label_4": "Regular",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Rosa"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [],
+              "size": "",
+              "title": "Oversized stickad tröja",
+              "link": "https://www2.hm.com/sv_se/productpage.1303132004.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/J9Rqn3qrFtfWYnL3Yp7Iw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/xtRzehJEvH7efOfoy39yi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "6eade046-5f5b-44b3-b43b-3ad858438afa"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/T3Lavs8tPwGD2zo85QdSi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "58711e93-9354-4e84-885d-8582964ecd1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ZIZEpmSIp2Qt4aKoBBNTR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e17fbad1-5d58-4d70-8e38-16689a7722de"
+                  ]
+                }
+              ],
+              "description": "Ett par byxor i vävd kvalitet. Byxorna har hög midja med gylf med dragkedja och dold hyska och hake. Utanpåfickor fram med dekorativ knapp och raka ben med sydda pressveck fram och bak.",
+              "brand": "H&M",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Apparel & Accessories > Clothing > Pants",
+              "custom_label_3": "New",
+              "custom_label_4": "Regular",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Brun"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [],
+              "size": "",
+              "title": "Byxa med pressveck",
+              "link": "https://www2.hm.com/sv_se/productpage.1302358002.html"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "cn_ao-prospecting-ladies|cc_brand|cy_collection|crn_automatic|ci_xxxx",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "AUTOMATIC",
+            "text_fields": [
+              "title",
+              "price"
+            ]
           },
           "vertical": "COMMERCE"
         },

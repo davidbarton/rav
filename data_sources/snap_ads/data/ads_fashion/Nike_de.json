@@ -1,1909 +1,10 @@
 {
   "brand": "Nike",
   "country": "de",
-  "fetched_at": "2026-04-09T22:57:45.295Z",
+  "fetched_at": "2026-04-10T06:45:28.824Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "82064a14-0958-406e-9d9e-dc6ea693727a",
-        "name": "CR99RYBEHUJS_Evergreen_Evergreen_Mixed_Female_EMEA_Mixed_Mixed_X_X_DE_Feed",
-        "ad_account_name": "Nike EMEA - Initiative - Marketplace",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Jetzt auf Nike.com",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "DYNAMIC",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2024-11-12T23:00:00.000Z",
-        "impressions_total": 17296498,
-        "impressions_map": {
-          "de": 17296498,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "de"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nike, Inc. ",
-        "profile_name": "Nike",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/T3mnon7exH95AQsA1Q1Vo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2FpqfP8fGTtOUUIrzU5IH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/sW14ZUbsCIrM6e8dKgYm3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ee8735d3-8424-4c81-b21b-739e64083a91"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RI0bN09lfFeT6f7GFgBOG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/joLKx6ZmiHbpdgFs9J9jW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2jO0lWkNMS0bxwiatEaYk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mDrKsxoJCZlnGJncDApSl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/wV6aywNj7BkOwXAtXEpdE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/YHgJCBLPLBB2drAHogUuo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/KOhn39pYrs3HhddtUzT3Y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/dzmVy4HAdy8Iyvd5UAagm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/C6fkJ1ZQ7fBIH5KCmbGXc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/PGJfNPA2v1wqf8Veqdwme.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b85881c7-3123-4512-909e-cb033b8395fd"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/i9THKakexO9ECea8RalOO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e79b99db-c491-4696-9871-c06f8b80035f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/uZgCOzeFGaisE3AZVPgFB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5a53813d-8976-4941-b964-0abb2dae05a9"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Jg3y7nCMFGBeGvvhoE12f.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/osF8dQQUz7S7Z5oO1LpbS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "c045987d-0744-4733-b9d8-617b39953338"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/LieFkgIkSdp9mUQVuvenF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b2622564-3897-4533-9495-4a02e8e5a210"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/hM1g6gIM6w8EFbm0XuXbE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mDTUrGNieDqtQih27mmZQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
-                  ]
-                }
-              ],
-              "description": "Der zeitlose Stil des Air Jordan 1 Low wird mit einem Obermaterial aus Vollleder überarbeitet, das ihm einen robusten Look verleiht. Farbakzente heben klassische Details hervor. Vorteile:Das Obermaterial aus Leder gewährt Strapazierfähigkeit und Struktur. Das gekapselte Nike Air-Sole-Element sorgt für Dämpfung bei geringem Gewicht. Gummi in der Außensohle bietet zuverlässige Traktion.",
-              "brand": "Nike",
-              "custom_label_0": "IQ9701-010",
-              "custom_label_1": "Shoes",
-              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
-              "custom_label_3": "#8FFFE1",
-              "custom_label_4": "Dein Code: VDAY24",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Khaki"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Casualwear"
-              ],
-              "size": "",
-              "title": "Air Jordan 1 Low SE",
-              "link": "https://www.nike.com/de/t/air-jordan-1-low-se-damenschuh-00YHFVXH/IQ9701-010&dplnk=member"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/kORsdOmOn4zn0XEU7yLjc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/QgO0Dj4V9PQayctYvytQL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/tGo00FgPvqB1yjBf13Ped.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mCKuvfZ6xVXS6MX1zrRsV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/yuYwpSQPKsfUjZIvG7lrq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e79b99db-c491-4696-9871-c06f8b80035f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/GLV8JfaIOzzGrLDf9ugjE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/LBL5Oq6X3ZhoovJMNSzQU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/nWRWaUAWDdezvw1Y64zjx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/1vBKeDcaVvw7rTPfheg3h.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/wkOL9PMmGJJNVxDajYbVR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b85881c7-3123-4512-909e-cb033b8395fd"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/w6HAJNq3Xnmf5lTHjM3Tf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5a53813d-8976-4941-b964-0abb2dae05a9"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/zZO4EpgUTm1xriinzI6kG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/i8dQZ22Moxh8wjVW1nXbW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "c045987d-0744-4733-b9d8-617b39953338"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/pLRcuYnrA8Rmbqdt3kJnr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Uw43yYmtsXXWAmVdmrHSL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/wdQqSKu2ax49O43FGoB8l.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/rBwjEU0OHAxlRUSLUPH6X.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ee8735d3-8424-4c81-b21b-739e64083a91"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/5wkWYkciVnb4nwBqPjXOV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/WjJXVqh1Bi0bFGNbu4cqS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/pPf4hXyoKmDC5OXHgCnsh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b2622564-3897-4533-9495-4a02e8e5a210"
-                  ]
-                }
-              ],
-              "description": "Nike Life eignet sich perfekt für den Alltag. Das Oberteil ist strapazierfähig und vielseitig und eine Neuinterpretation der ikonischen Herrenmode. Dieses lässige Oberteil hat eine großzügig geschnittene Passform für einen kastenförmigen Look. Die weiche, mittelschwere Baumwolle fällt locker über den Körper.",
-              "brand": "Nike",
-              "custom_label_0": "II4379-010",
-              "custom_label_1": "Clothes",
-              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
-              "custom_label_3": "#FD84B5",
-              "custom_label_4": "Dein Code: VDAY24",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Red"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Men > Casualwear > Clothes > Tops & T-Shirts"
-              ],
-              "size": "",
-              "title": "Nike Life",
-              "link": "https://www.nike.com/de/t/lockeres-strick-kurzarmoberteil-von-life-jY5ivQNr/II4379-010&dplnk=member"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/EuQXaTHAvzyGHrABsa4wF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/PWDnQVNC2MN66ftOeeB2x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b85881c7-3123-4512-909e-cb033b8395fd"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/y6o7TJvDfE0yLrdQnMorq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e79b99db-c491-4696-9871-c06f8b80035f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/yY9MXqwsuPlHIfRiZYscS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/MNPBJyVSvovKf1KwwbfdN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/TVjVfW2t0BK4943OudmzQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5a53813d-8976-4941-b964-0abb2dae05a9"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/cmC9O6Ox4E8GBJPMkitGr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/68pORgeZW9bMqlG0mFPlK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/bKSYTvJwYQOLbWcsHlIYs.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/6aguqcUH1e5sUZhHqAlNo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/F17Qqnd6jVURmAIAAAF4y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "c045987d-0744-4733-b9d8-617b39953338"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Vo01e6Fs9yWh2teijAWT7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ee8735d3-8424-4c81-b21b-739e64083a91"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/bC1ksWJkJLOM6rCaw0A2i.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b2622564-3897-4533-9495-4a02e8e5a210"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/vXbKTxnt8hkHSPbvZddP3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/DieMqzDqKmZ2dekIvUgMn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/OPZxnH0ChMwXP393oYp3g.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/pbciJXFS4lVp6I4cq5ThH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/DxRiRGEFUjPvCGzCXhDHV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/CJoTEu7K6tqDlDEbyZp6M.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/v92OfyqClUuZv3VVfINrQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
-                  ]
-                }
-              ],
-              "description": "Dieses leichte Drill-Oberteil wurde für das Fußballtraining entwickelt. Die seitlichen Mesh-Einsätze sorgen für zusätzliche Luftzirkulation und damit für ein kühles, luftiges Tragegefühl. Dank schweißableitendem Dri-FIT-Material, schmaler Passform und Design mit Viertelreißverschluss kannst du bei jeder Übung und jedem Trainingsspiel dein Tempo ohne Ablenkung erhöhen. Vorteile:Nike Dri-FIT-Technologie leitet Schweiß von der Haut ab, wodurch er schneller verdunstet, und ermöglicht so trockenen Tragekomfort. Das geschmeidige Strickmaterial ist leicht und atmungsaktiv. Mesh-Seiteneinsätze sorgen für zusätzliche Belüftung. Daumenöffnungen sorgen für mehr Abdeckung und verhindern ein Verrutschen der Ärmel bei Bewegungen.",
-              "brand": "Nike",
-              "custom_label_0": "HJ3783-410",
-              "custom_label_1": "Clothes",
-              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
-              "custom_label_3": "#8FFFE1",
-              "custom_label_4": "Dein Code: VDAY24",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Blue"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Men > Football > Clothes > Tops & T-Shirts"
-              ],
-              "size": "SPARE 40 %",
-              "title": "Nike Academy",
-              "link": "https://www.nike.com/de/t/academy-dri-fit-fussball-drill-oberteil-Fsg7FLzE/HJ3783-410&dplnk=member"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/DO8JWnTBkg391TYZYDriK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/HKOjtA17sYiXrZVXhoYoQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/LptM5zR1OhjMeuUmUSk5I.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/4g3qYUWJat1QEDJ5Kspvu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5a53813d-8976-4941-b964-0abb2dae05a9"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/vw6RVV1IIVhXdhFwdwkyo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/OCdU6QhCYdgi17s20WD22.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ee8735d3-8424-4c81-b21b-739e64083a91"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/e9z0muLRdM3bM5ABV3YZU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/iVrllz0l3ihjFGawcIbxa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/0c1bB4cMSVu13h7QI6JGj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/uhzCYWJzF0TN3A2iUirg3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "c045987d-0744-4733-b9d8-617b39953338"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/V6E8Ev2W9iQnpSrRGkrJn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e79b99db-c491-4696-9871-c06f8b80035f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/SFXq4csDLpfs9E2FRohqK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/XeGBaA0Iv9pf6sgxEu82o.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b2622564-3897-4533-9495-4a02e8e5a210"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RBmB2SxkaX4goKxYqWSRT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/n79t01wDW9Nux1mwyguXD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b85881c7-3123-4512-909e-cb033b8395fd"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Q6rtmkQvPbgRdyISdd3Px.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/GhJXk08EgPx1TIA0V4ooS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/yjYKYvsaY389WfGUnNCUo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Er4KurphMNpjDJ1fuJ9Os.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/3rlRH7rIJvkqTa7mjfoK4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
-                  ]
-                }
-              ],
-              "description": "Der Spizike kombiniert Elemente von fünf klassischen Jordan-Modellen. Das Ergebnis ist ein außergewöhnlicher Sneaker. Er ist eine Hommage an Spike Lee, der Hollywood und Basketball in einem kulturellen Moment offiziell zusammenführte. Du bekommst also einen stylishen Schuh mit etwas Geschichte. Was kann man mehr verlangen? Gefällt er dir? Vorteile:Das Obermaterial aus echtem Leder, Kunstleder und Textil sorgt für zusätzliche Strapazierfähigkeit. Nike Air Technologie bietet Aufprallschutz und Dämpfung bei jedem Schritt. Die Gummi-Außensohle gewährleistet Strapazierfähigkeit und Traktion.",
-              "brand": "Nike",
-              "custom_label_0": "FQ3950-007",
-              "custom_label_1": "Shoes",
-              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
-              "custom_label_3": "#F6FF88",
-              "custom_label_4": "Dein Code: VDAY24",
-              "age_group": "KIDS",
-              "availability": "IN STOCK",
-              "color": [
-                "Green"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "Kids > Shoes > Casualwear"
-              ],
-              "size": "",
-              "title": "Nike Produkte für Kinder",
-              "link": "https://www.nike.com/de/t/jordan-spizike-low-schuh-fur-altere-eDxUHnz8/FQ3950-007&dplnk=member"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/H3wE7cBjgnVki4XaxYOZK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/DJmUrWL189elXS6qbSqVD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/8bMv6ip5afBZwvctU22nI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/PpJ6n0xj37Z1Fv898p499.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UauEOB8TmLzT5pNMQ0xLg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5a53813d-8976-4941-b964-0abb2dae05a9"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/0t3ZEVItAZeP5XBw5jvvv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/fQ4AosPxmypK3clTwCnqe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ftmyy6hdOV1dCprOkO0fF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qRawxuKQleqlQ5HzZsJwn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e79b99db-c491-4696-9871-c06f8b80035f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/tdMMpUM7AqzzCTCKVoyHZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b2622564-3897-4533-9495-4a02e8e5a210"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/wZfmPhoOGRpbsHUGpnqhD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "c045987d-0744-4733-b9d8-617b39953338"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/lSvCpvIXMK8qTD5aV1Ohr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/aSO6mHf0Am7FL5INWoKqC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b85881c7-3123-4512-909e-cb033b8395fd"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/BeprkfxXle3Ar8IrFUEG1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/JvgPIGGTAJQSHkLhDkJLy.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ee8735d3-8424-4c81-b21b-739e64083a91"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Y6CzLR5KYZwT317EWhbmu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/xM4qguPSlpZDSn2BNLtd9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/NLqw2uur6uiAqgWpapXSY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/yaZtIzw5zPA9aFbXUA0Nn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/4s9FNbnoJTEGOqexwZirf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
-                  ]
-                }
-              ],
-              "description": "Mit dem Downshifter 14 kannst du einen Gang zulegen. Wir haben die Dämpfung in der Mittelsohle erhöht, um mehr Tragekomfort und Reaktionsfreudigkeit als beim Vorgängermodell zu bieten. Außerdem besteht das Obermaterial aus offenmaschigem Mesh für optimale Atmungsaktivität und ein Mittelfußband sorgt für ein sicheres Tragegefühl. Vorteile:Das speziell entwickelte, offenmaschige Mesh im Obermaterial bietet Atmungsaktivität. Wir haben die Dämpfung in der Mittelsohle erhöht, um mehr Tragekomfort und Sprungkraft zu bieten. Das interne Passformband sorgt für Halt im Mittelfußbereich und ein sicheres Tragegefühl.",
-              "brand": "Nike",
-              "custom_label_0": "IB1899-002",
-              "custom_label_1": "Shoes",
-              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
-              "custom_label_3": "#9AEBF3",
-              "custom_label_4": "Dein Code: VDAY24",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Khaki"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Running"
-              ],
-              "size": "",
-              "title": "Nike Downshifter 14",
-              "link": "https://www.nike.com/de/t/downshifter-14-strassenlaufschuh-xlVjA3vQ/IB1899-002&dplnk=member"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/EXGujs7wOr9R7P4cHIL7N.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/vMhUDd6Lu9fxRAXmhrgCn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e79b99db-c491-4696-9871-c06f8b80035f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/PqhoJh8o0F8BliUCmcUq2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/LMffBjmSqRna4JJRe6gJW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Z1tt6BTBSW6bmQAF7c4j3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/hrjsXKaiB8RdqICECE5f6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/eS7GdtWxWzTmCPg1CMmgX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ee8735d3-8424-4c81-b21b-739e64083a91"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/PU8suUB3DJAxG0OvFca7x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/8AmGwNG5S9QT4w1XCm0cq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/tQP3ORC0GDmVlpsx2s81A.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/XjGBgmxm0Ou0tvMDvePXy.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/oZ4R9slq17J1wsmXkpZ5A.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/m5fols9haIF6y8lMTPezb.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b2622564-3897-4533-9495-4a02e8e5a210"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/D5uGMRl4KF8bGYas3De3i.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/asE1t1B92svOcyx7E3wob.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/SxjbNFpLKcn6FSDpYrJ2z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ZMCLNVvnHlUD6CvyTNuMX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "c045987d-0744-4733-b9d8-617b39953338"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/yoQsJ2HCAQdYBrHE3psnY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5a53813d-8976-4941-b964-0abb2dae05a9"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/frYNQgzUUSentMvorgIxn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/HB8KNeb9n0ukmmOaSiHiT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b85881c7-3123-4512-909e-cb033b8395fd"
-                  ]
-                }
-              ],
-              "description": "Du möchtest noch schneller unterwegs sein? Wir haben diese Academy Fußballschuhe mit einem verbesserten Air Zoom-Element in der Ferse ausgestattet. Es gibt dir das dynamische Laufgefühl, das du brauchst, um die hintere Linie zu durchbrechen. Das Ergebnis ist der reaktionsfreudigste Mercurial, den wir je entwickelt haben. Damit kannst du Tempo geben und den nächsten Hattrick anvisieren. Eng anliegende Passform:Die Fersenschlaufen und ein Riemen sorgen für ein Design, das Schnürsenkel überflüssig macht, damit du jederzeit schnell spielbereit bist. Wir haben das elastische Mesh der vorherigen Generation außerdem zu einem anpassungsfähigen Strickmaterial verbessert, das extra Flexibilität und Halt bietet und dich näher an den Ball bringt. Ein Dynamic Fit-Schuhkragen aus weichem, elastischem Material umschließt den Knöchel und sorgt so für ein sicheres Tragegefühl.",
-              "brand": "Nike",
-              "custom_label_0": "FQ8308-001",
-              "custom_label_1": "Shoes",
-              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
-              "custom_label_3": "#F6FF88",
-              "custom_label_4": "Dein Code: VDAY24",
-              "age_group": "KIDS",
-              "availability": "IN STOCK",
-              "color": [
-                "Yellow"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "Kids > Shoes > Football"
-              ],
-              "size": "SPARE 50 %",
-              "title": "Nike Produkte für Kinder",
-              "link": "https://www.nike.com/de/t/jr-mercurial-superfly-10-academy-high-top-fussballschuh-fur-kunstrasen-jnk49z/FQ8308-001&dplnk=member"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/Y30Dofz7Qtkg6QQR4poPK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/riLK7pA2WDslZviplgbgM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qohAisIIwnumy0sOEpetx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e79b99db-c491-4696-9871-c06f8b80035f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UxUrX1Hk9r2Kno5LSyWg5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b85881c7-3123-4512-909e-cb033b8395fd"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/nsuiEIE4Y3JJ7SzHE5kD0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/QU3qxVj1bJMpgW3TdGzHv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Z8fzwNwALlUFUmnM35zMp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/6JeG16rAPd0LzNdDbtyBo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/LhYayvP6k02IbTv2Bh5VR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5a53813d-8976-4941-b964-0abb2dae05a9"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/BJO7cWbbbndZ5mhcMCR8V.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "c045987d-0744-4733-b9d8-617b39953338"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/6qfdIpjvvzqJUDzvx3zkM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ee8735d3-8424-4c81-b21b-739e64083a91"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/91j7BRFuiDpaEGuI4o3hC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mvKP3EARZKXwY4HwHRFaN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/USOf2V42oZj0sz3OVtPVm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/8yARg2s73XQ290Da5X9rM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/NuNLgCP3GRb0gRokWRPrH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b2622564-3897-4533-9495-4a02e8e5a210"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UnMeLr8LhUUlD4DlRLOr9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/zLMJnrwHXUc1PFVEMoN8d.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/lFo0LdYOyLqastQcacepr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/PjxkPPPLEqCLRUj9l8kiz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
-                  ]
-                }
-              ],
-              "description": "Authentischer Fußball-Style für jeden Tag. Der Total 90 ist zurück und sorgt mit seinem originalen gesteppten Obermaterial und der asymmetrischen Schnürung für Y2K-Vibes. Wir haben die Stollensohle durch eine straßentaugliche flache Gummisohle ersetzt und auf eine traditionelle Farbpalette zurückgegriffen, die viele Stylingmöglichkeiten bietet. Vorteile:Das Obermaterial aus Kunstleder ist auf jeder Seite mit einem Total 90-Logo versehen. Die Gummi-Außensohle sorgt für Grip und Strapazierfähigkeit.",
-              "brand": "Nike",
-              "custom_label_0": "IB5666-100",
-              "custom_label_1": "Shoes",
-              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
-              "custom_label_3": "#FFC792",
-              "custom_label_4": "Dein Code: VDAY24",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Brown"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Women > Shoes > Casualwear"
-              ],
-              "size": "SPARE 40 %",
-              "title": "Nike Total 90",
-              "link": "https://www.nike.com/de/t/total-90-schuh-q09id5md/IB5666-100&dplnk=member"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/W7q282Ip2JgsPJ6zWb51w.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qMyhGzPRSZ1magyrnctOz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/BIuFJqJdeSnUNZYVzJkIh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e79b99db-c491-4696-9871-c06f8b80035f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/rYcf0mMmt7QLidd0buva8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/MeZlrw8rwrCFk6kiGG4tC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5a53813d-8976-4941-b964-0abb2dae05a9"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ABNvGLZjBT1YidFNu0qJa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "c045987d-0744-4733-b9d8-617b39953338"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/IWoYIxfchT3XAK7d9VRTI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/EnsispqPY78r1T5gi4yvP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ee8735d3-8424-4c81-b21b-739e64083a91"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/sktpS6tNk3LDGHPWMxV0W.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b2622564-3897-4533-9495-4a02e8e5a210"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/AATdsPKlIhoTW6AXHP9Ow.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/MWUdzysspuVPIbGDfiUG7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UufWLLrUagODLGPafAemK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/baKm0zH2j57AkhJKsxZQU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/wbU3jqDbBVBUWqECeHO9C.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/pPkkMu5C0hrwEP2tRJbHu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b85881c7-3123-4512-909e-cb033b8395fd"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/X3rAonGRIAOOfc5W1ihwC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/rhCEJ2WZqKhjSF41atpbE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/GGbU2oKi0yn05OouJWWX7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qbIANQpWVUDwByPEJuaLM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/q8PtWemU2HZYu4gf9w9dZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
-                  ]
-                }
-              ],
-              "description": "Diese FC Chelsea Trainingsjacke greift die Vibes der legendären Nike Fußballtrikots aus den frühen 2000er Jahren auf und ergänzt sie mit funktionalem Style. Die kurvigen, asymmetrischen Linien in Kombination mit der wasserabweisenden Außenschicht sorgen für einen Look, der sowohl auf die Tribüne als auch auf die Straße passt. Behind the Design:Total 90:Die Total 90-Kollektion wurde entwickelt, um die vollen 90 Minuten eines Spiels für Tragekomfort zu sorgen. Die geschwungenen Linien, das asymmetrische Design und der Materialmix machen die Trikots zu echten Klassikern der 2000er-Jahre. Diese Neuauflage gibt diese Energie an eine neue Generation von Spieler:innen und Fans weiter.",
-              "brand": "Nike",
-              "custom_label_0": "HQ9733-010",
-              "custom_label_1": "Clothes",
-              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
-              "custom_label_3": "#83FFF0",
-              "custom_label_4": "Dein Code: VDAY24",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Green"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Chelsea > Men > Clothes > Jackets & Gilets"
-              ],
-              "size": "",
-              "title": "FC Chelsea",
-              "link": "https://www.nike.com/de/t/fc-chelsea-football-total-90-fussball-trainingsjacke-8HDvD9/HQ9733-010&dplnk=member"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/9tMTLnn4GaoY4cmewtcpS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/TwQ1YjLcqYxmeWWKxyAt3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/fX3kvLSD6UDiCS5rxHfjx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/QOsQbUIYBcNlKutyAEU4U.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/quYb1fc9yHuELUcfUJTxw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/PS8MU5N1Yiqk1WmKywHau.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/BiQMqKC6JzYwojQywB0xG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ff1YaIvIm7SXZ6br7ThiC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b2622564-3897-4533-9495-4a02e8e5a210"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/vJjS7idI06ekeOCY1yuog.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/b1CG5rgi6jvK4sFEGNQq6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ee8735d3-8424-4c81-b21b-739e64083a91"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/otUKpBNfObxn3zpouvNRf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/SM0kas2bPb2T3RUO3jH6G.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b85881c7-3123-4512-909e-cb033b8395fd"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/JFyHs76qBgWmTlHsvOsUp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/kyRCVxTCCX0pXP4kfJom7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e79b99db-c491-4696-9871-c06f8b80035f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/tCr1OboiYP5WSKjaPxZnl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/GVRXfXlQtHNDdHUzxsJ0h.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5a53813d-8976-4941-b964-0abb2dae05a9"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/0wZCXpacreCQUDTPQBKkr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/hTKUut8JgPTVvCiy39oDP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "c045987d-0744-4733-b9d8-617b39953338"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/BTfnDET5GlX7u7cJqTVUc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/KGBeHeKf3JB8F9adqtO6v.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
-                  ]
-                }
-              ],
-              "description": "Man wird nicht \"The One\" genannt, es sei denn, man tut etwas Besonderes, oder? Unser One Bra ist atmungsaktiv, kaum spürbar und sorgt für Tragekomfort, egal ob in der Schule, auf Tanzpartys am Wochenende und bei allem, was du sonst noch machst. Das leichte, elastische Material hält dich dank unserer schweißableitenden Technologie angenehm trocken. Vorteile:Nike Dri-FIT-Technologie leitet Schweiß von der Haut ab, wodurch er schneller verdunstet, und ermöglicht so trockenen Tragekomfort. Ein hoher Ausschnitt sorgt für zusätzliche Abdeckung. Ein bedrucktes, elastisches Band verhindert ein Verrutschen deines BHs.",
-              "brand": "Nike",
-              "custom_label_0": "FD2276-010",
-              "custom_label_1": "Clothes",
-              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
-              "custom_label_3": "#FD84B5",
-              "custom_label_4": "Dein Code: VDAY24",
-              "age_group": "KIDS",
-              "availability": "IN STOCK",
-              "color": [
-                "Olive"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Girls > Training > Clothes > Sports Bra"
-              ],
-              "size": "",
-              "title": "Nike Produkte für Kinder",
-              "link": "https://www.nike.com/de/t/one-sport-bh-WXWWJpLX/FD2276-010&dplnk=member"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/q4DDWelIHg6zDkM5FkgLe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Kp4mOy3MFP6K7g2vjh0PY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b85881c7-3123-4512-909e-cb033b8395fd"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/hy71Fz3ZD8xOhCN6LMtRL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mdCoMBanUhkiTuwZwIaac.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/FHEKoICyPgVNVvjcuATs5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/KYV0Pi3LxuUXuPrTQt5fh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ee8735d3-8424-4c81-b21b-739e64083a91"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/95M01lMjnavvqtrZ93U1p.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b2622564-3897-4533-9495-4a02e8e5a210"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/C6IpKXEUoNXCbV9uQFmBF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/DCroDfTlIGLfUwetNDgbI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/GOirAOPieBJKRQ61Jk9pZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/azyK4NtgOw8LfrgVJApnj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "c045987d-0744-4733-b9d8-617b39953338"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/8E3EJkvKlqGBJL6MLW1hZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mXZQdI3O6niFM5Rf5LG7h.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e79b99db-c491-4696-9871-c06f8b80035f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/mNsBWDQjJfS7mZjXkqpw9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/5lwtr7hw901DUDrnX4yt9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/P9g2JHQVXydXLCCnCONhz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/tpzcHUNZOtumckaGcCGxn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/cxq8srtrLXJlkUN3ME0Ks.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/QBlwp4qjjZm8qpKa1qYbU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "5a53813d-8976-4941-b964-0abb2dae05a9"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/EY0qNo7FmsyCsU2PWztcv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
-                  ]
-                }
-              ],
-              "description": "Du bist in den klassischen Look des Basketballs der 80er Jahre verliebt, magst aber auch die rasante Kultur des heutigen Spiels. Hier ist der Nike Court Vision Mid. Ein Klassiker in Neuauflage aus mindestens 20% (Gewichtsanteil) Recyclingmaterialien. Das Leder wurde mit recycelten und synthetischen Materialien ersetzt, die die Seele des originalen Styles behalten. Das geschmeidige Obermaterial und die genähten Überzüge bleiben den Wurzeln treu. Der weiche Schuhkragen sorgt für modischen Tragekomfort. Vorteile:Es besteht zu mindestens 20% (gemessen am Gewicht) aus Recyclingmaterialien. Das Design besticht mit Synthetik-Materialien, die an die Basketballschuhe der Mitte der 1980er Jahre erinnern. Der gepolsterte Schuhkragen sieht elegant aus und sorgt für ein tolles Tragegefühl. Perforationen an den Zehen und Seiten sorgen für Tragekomfort und Atmungsaktivität.",
-              "brand": "Nike",
-              "custom_label_0": "DN3577-100",
-              "custom_label_1": "Shoes",
-              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
-              "custom_label_3": "#FE9F87",
-              "custom_label_4": "Dein Code: VDAY24",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Brown"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Men > Shoes > Casualwear"
-              ],
-              "size": "SPARE 40 %",
-              "title": "Nike Court Vision Mid",
-              "link": "https://www.nike.com/de/t/court-vision-mid-next-nature-herrenschuh-lw3R5k/DN3577-100&dplnk=member"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "CRS1DDUS4MJX_Evergreen_Evergreen_Mixed_Unisex_EMEA_Mixed_Mixed_X_X_FR_DPA_Feed_Mixed_Cell B",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "layout": "FILL_HEIGHT",
-            "text_fields": [
-              "title",
-              "price"
-            ],
-            "preferred_image_tags": [
-              "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
-            ]
-          },
-          "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -5703,23 +3804,1924 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "6c5abec3-851b-4a22-9303-47895f416b8b",
-        "name": "CR3IVU70Q7V3_Product Experiment_Maxxed Out_Mixed_Unisex_EMEA_Video_Story_:15_1080x1920_Yuto AV - DE",
+        "id": "82064a14-0958-406e-9d9e-dc6ea693727a",
+        "name": "CR99RYBEHUJS_Evergreen_Evergreen_Mixed_Female_EMEA_Mixed_Mixed_X_X_DE_Feed",
+        "ad_account_name": "Nike EMEA - Initiative - Marketplace",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Jetzt auf Nike.com",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2024-11-12T23:00:00.000Z",
+        "impressions_total": 17296498,
+        "impressions_map": {
+          "de": 17296498,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "de"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Nike, Inc. ",
+        "profile_name": "Nike",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/T3mnon7exH95AQsA1Q1Vo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/2FpqfP8fGTtOUUIrzU5IH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/sW14ZUbsCIrM6e8dKgYm3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ee8735d3-8424-4c81-b21b-739e64083a91"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/RI0bN09lfFeT6f7GFgBOG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/joLKx6ZmiHbpdgFs9J9jW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/2jO0lWkNMS0bxwiatEaYk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mDrKsxoJCZlnGJncDApSl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wV6aywNj7BkOwXAtXEpdE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/YHgJCBLPLBB2drAHogUuo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/KOhn39pYrs3HhddtUzT3Y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/dzmVy4HAdy8Iyvd5UAagm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/C6fkJ1ZQ7fBIH5KCmbGXc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/PGJfNPA2v1wqf8Veqdwme.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b85881c7-3123-4512-909e-cb033b8395fd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/i9THKakexO9ECea8RalOO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e79b99db-c491-4696-9871-c06f8b80035f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/uZgCOzeFGaisE3AZVPgFB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5a53813d-8976-4941-b964-0abb2dae05a9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Jg3y7nCMFGBeGvvhoE12f.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/osF8dQQUz7S7Z5oO1LpbS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "c045987d-0744-4733-b9d8-617b39953338"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LieFkgIkSdp9mUQVuvenF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b2622564-3897-4533-9495-4a02e8e5a210"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hM1g6gIM6w8EFbm0XuXbE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mDTUrGNieDqtQih27mmZQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
+                  ]
+                }
+              ],
+              "description": "Der zeitlose Stil des Air Jordan 1 Low wird mit einem Obermaterial aus Vollleder überarbeitet, das ihm einen robusten Look verleiht. Farbakzente heben klassische Details hervor. Vorteile:Das Obermaterial aus Leder gewährt Strapazierfähigkeit und Struktur. Das gekapselte Nike Air-Sole-Element sorgt für Dämpfung bei geringem Gewicht. Gummi in der Außensohle bietet zuverlässige Traktion.",
+              "brand": "Nike",
+              "custom_label_0": "IQ9701-010",
+              "custom_label_1": "Shoes",
+              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
+              "custom_label_3": "#8FFFE1",
+              "custom_label_4": "Dein Code: VDAY24",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Khaki"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Casualwear"
+              ],
+              "size": "",
+              "title": "Air Jordan 1 Low SE",
+              "link": "https://www.nike.com/de/t/air-jordan-1-low-se-damenschuh-00YHFVXH/IQ9701-010&dplnk=member"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/kORsdOmOn4zn0XEU7yLjc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/QgO0Dj4V9PQayctYvytQL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/tGo00FgPvqB1yjBf13Ped.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mCKuvfZ6xVXS6MX1zrRsV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/yuYwpSQPKsfUjZIvG7lrq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e79b99db-c491-4696-9871-c06f8b80035f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/GLV8JfaIOzzGrLDf9ugjE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LBL5Oq6X3ZhoovJMNSzQU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/nWRWaUAWDdezvw1Y64zjx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/1vBKeDcaVvw7rTPfheg3h.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wkOL9PMmGJJNVxDajYbVR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b85881c7-3123-4512-909e-cb033b8395fd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/w6HAJNq3Xnmf5lTHjM3Tf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5a53813d-8976-4941-b964-0abb2dae05a9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/zZO4EpgUTm1xriinzI6kG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/i8dQZ22Moxh8wjVW1nXbW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "c045987d-0744-4733-b9d8-617b39953338"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/pLRcuYnrA8Rmbqdt3kJnr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Uw43yYmtsXXWAmVdmrHSL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wdQqSKu2ax49O43FGoB8l.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/rBwjEU0OHAxlRUSLUPH6X.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ee8735d3-8424-4c81-b21b-739e64083a91"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/5wkWYkciVnb4nwBqPjXOV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/WjJXVqh1Bi0bFGNbu4cqS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/pPf4hXyoKmDC5OXHgCnsh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b2622564-3897-4533-9495-4a02e8e5a210"
+                  ]
+                }
+              ],
+              "description": "Nike Life eignet sich perfekt für den Alltag. Das Oberteil ist strapazierfähig und vielseitig und eine Neuinterpretation der ikonischen Herrenmode. Dieses lässige Oberteil hat eine großzügig geschnittene Passform für einen kastenförmigen Look. Die weiche, mittelschwere Baumwolle fällt locker über den Körper.",
+              "brand": "Nike",
+              "custom_label_0": "II4379-010",
+              "custom_label_1": "Clothes",
+              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
+              "custom_label_3": "#FD84B5",
+              "custom_label_4": "Dein Code: VDAY24",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Red"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Men > Casualwear > Clothes > Tops & T-Shirts"
+              ],
+              "size": "",
+              "title": "Nike Life",
+              "link": "https://www.nike.com/de/t/lockeres-strick-kurzarmoberteil-von-life-jY5ivQNr/II4379-010&dplnk=member"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/EuQXaTHAvzyGHrABsa4wF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/PWDnQVNC2MN66ftOeeB2x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b85881c7-3123-4512-909e-cb033b8395fd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/y6o7TJvDfE0yLrdQnMorq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e79b99db-c491-4696-9871-c06f8b80035f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/yY9MXqwsuPlHIfRiZYscS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/MNPBJyVSvovKf1KwwbfdN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/TVjVfW2t0BK4943OudmzQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5a53813d-8976-4941-b964-0abb2dae05a9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/cmC9O6Ox4E8GBJPMkitGr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/68pORgeZW9bMqlG0mFPlK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/bKSYTvJwYQOLbWcsHlIYs.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/6aguqcUH1e5sUZhHqAlNo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/F17Qqnd6jVURmAIAAAF4y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "c045987d-0744-4733-b9d8-617b39953338"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Vo01e6Fs9yWh2teijAWT7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ee8735d3-8424-4c81-b21b-739e64083a91"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/bC1ksWJkJLOM6rCaw0A2i.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b2622564-3897-4533-9495-4a02e8e5a210"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/vXbKTxnt8hkHSPbvZddP3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/DieMqzDqKmZ2dekIvUgMn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/OPZxnH0ChMwXP393oYp3g.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/pbciJXFS4lVp6I4cq5ThH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/DxRiRGEFUjPvCGzCXhDHV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/CJoTEu7K6tqDlDEbyZp6M.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/v92OfyqClUuZv3VVfINrQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
+                  ]
+                }
+              ],
+              "description": "Dieses leichte Drill-Oberteil wurde für das Fußballtraining entwickelt. Die seitlichen Mesh-Einsätze sorgen für zusätzliche Luftzirkulation und damit für ein kühles, luftiges Tragegefühl. Dank schweißableitendem Dri-FIT-Material, schmaler Passform und Design mit Viertelreißverschluss kannst du bei jeder Übung und jedem Trainingsspiel dein Tempo ohne Ablenkung erhöhen. Vorteile:Nike Dri-FIT-Technologie leitet Schweiß von der Haut ab, wodurch er schneller verdunstet, und ermöglicht so trockenen Tragekomfort. Das geschmeidige Strickmaterial ist leicht und atmungsaktiv. Mesh-Seiteneinsätze sorgen für zusätzliche Belüftung. Daumenöffnungen sorgen für mehr Abdeckung und verhindern ein Verrutschen der Ärmel bei Bewegungen.",
+              "brand": "Nike",
+              "custom_label_0": "HJ3783-410",
+              "custom_label_1": "Clothes",
+              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
+              "custom_label_3": "#8FFFE1",
+              "custom_label_4": "Dein Code: VDAY24",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blue"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Men > Football > Clothes > Tops & T-Shirts"
+              ],
+              "size": "SPARE 40 %",
+              "title": "Nike Academy",
+              "link": "https://www.nike.com/de/t/academy-dri-fit-fussball-drill-oberteil-Fsg7FLzE/HJ3783-410&dplnk=member"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/DO8JWnTBkg391TYZYDriK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/HKOjtA17sYiXrZVXhoYoQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LptM5zR1OhjMeuUmUSk5I.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/4g3qYUWJat1QEDJ5Kspvu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5a53813d-8976-4941-b964-0abb2dae05a9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/vw6RVV1IIVhXdhFwdwkyo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/OCdU6QhCYdgi17s20WD22.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ee8735d3-8424-4c81-b21b-739e64083a91"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/e9z0muLRdM3bM5ABV3YZU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/iVrllz0l3ihjFGawcIbxa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/0c1bB4cMSVu13h7QI6JGj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/uhzCYWJzF0TN3A2iUirg3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "c045987d-0744-4733-b9d8-617b39953338"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/V6E8Ev2W9iQnpSrRGkrJn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e79b99db-c491-4696-9871-c06f8b80035f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/SFXq4csDLpfs9E2FRohqK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/XeGBaA0Iv9pf6sgxEu82o.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b2622564-3897-4533-9495-4a02e8e5a210"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/RBmB2SxkaX4goKxYqWSRT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/n79t01wDW9Nux1mwyguXD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b85881c7-3123-4512-909e-cb033b8395fd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Q6rtmkQvPbgRdyISdd3Px.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/GhJXk08EgPx1TIA0V4ooS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/yjYKYvsaY389WfGUnNCUo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Er4KurphMNpjDJ1fuJ9Os.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/3rlRH7rIJvkqTa7mjfoK4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
+                  ]
+                }
+              ],
+              "description": "Der Spizike kombiniert Elemente von fünf klassischen Jordan-Modellen. Das Ergebnis ist ein außergewöhnlicher Sneaker. Er ist eine Hommage an Spike Lee, der Hollywood und Basketball in einem kulturellen Moment offiziell zusammenführte. Du bekommst also einen stylishen Schuh mit etwas Geschichte. Was kann man mehr verlangen? Gefällt er dir? Vorteile:Das Obermaterial aus echtem Leder, Kunstleder und Textil sorgt für zusätzliche Strapazierfähigkeit. Nike Air Technologie bietet Aufprallschutz und Dämpfung bei jedem Schritt. Die Gummi-Außensohle gewährleistet Strapazierfähigkeit und Traktion.",
+              "brand": "Nike",
+              "custom_label_0": "FQ3950-007",
+              "custom_label_1": "Shoes",
+              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
+              "custom_label_3": "#F6FF88",
+              "custom_label_4": "Dein Code: VDAY24",
+              "age_group": "KIDS",
+              "availability": "IN STOCK",
+              "color": [
+                "Green"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Kids > Shoes > Casualwear"
+              ],
+              "size": "",
+              "title": "Nike Produkte für Kinder",
+              "link": "https://www.nike.com/de/t/jordan-spizike-low-schuh-fur-altere-eDxUHnz8/FQ3950-007&dplnk=member"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/H3wE7cBjgnVki4XaxYOZK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/DJmUrWL189elXS6qbSqVD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8bMv6ip5afBZwvctU22nI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/PpJ6n0xj37Z1Fv898p499.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/UauEOB8TmLzT5pNMQ0xLg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5a53813d-8976-4941-b964-0abb2dae05a9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/0t3ZEVItAZeP5XBw5jvvv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/fQ4AosPxmypK3clTwCnqe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Ftmyy6hdOV1dCprOkO0fF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qRawxuKQleqlQ5HzZsJwn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e79b99db-c491-4696-9871-c06f8b80035f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/tdMMpUM7AqzzCTCKVoyHZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b2622564-3897-4533-9495-4a02e8e5a210"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wZfmPhoOGRpbsHUGpnqhD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "c045987d-0744-4733-b9d8-617b39953338"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/lSvCpvIXMK8qTD5aV1Ohr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/aSO6mHf0Am7FL5INWoKqC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b85881c7-3123-4512-909e-cb033b8395fd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/BeprkfxXle3Ar8IrFUEG1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/JvgPIGGTAJQSHkLhDkJLy.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ee8735d3-8424-4c81-b21b-739e64083a91"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Y6CzLR5KYZwT317EWhbmu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/xM4qguPSlpZDSn2BNLtd9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/NLqw2uur6uiAqgWpapXSY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/yaZtIzw5zPA9aFbXUA0Nn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/4s9FNbnoJTEGOqexwZirf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
+                  ]
+                }
+              ],
+              "description": "Mit dem Downshifter 14 kannst du einen Gang zulegen. Wir haben die Dämpfung in der Mittelsohle erhöht, um mehr Tragekomfort und Reaktionsfreudigkeit als beim Vorgängermodell zu bieten. Außerdem besteht das Obermaterial aus offenmaschigem Mesh für optimale Atmungsaktivität und ein Mittelfußband sorgt für ein sicheres Tragegefühl. Vorteile:Das speziell entwickelte, offenmaschige Mesh im Obermaterial bietet Atmungsaktivität. Wir haben die Dämpfung in der Mittelsohle erhöht, um mehr Tragekomfort und Sprungkraft zu bieten. Das interne Passformband sorgt für Halt im Mittelfußbereich und ein sicheres Tragegefühl.",
+              "brand": "Nike",
+              "custom_label_0": "IB1899-002",
+              "custom_label_1": "Shoes",
+              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
+              "custom_label_3": "#9AEBF3",
+              "custom_label_4": "Dein Code: VDAY24",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Khaki"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Running"
+              ],
+              "size": "",
+              "title": "Nike Downshifter 14",
+              "link": "https://www.nike.com/de/t/downshifter-14-strassenlaufschuh-xlVjA3vQ/IB1899-002&dplnk=member"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/EXGujs7wOr9R7P4cHIL7N.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/vMhUDd6Lu9fxRAXmhrgCn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e79b99db-c491-4696-9871-c06f8b80035f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/PqhoJh8o0F8BliUCmcUq2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LMffBjmSqRna4JJRe6gJW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Z1tt6BTBSW6bmQAF7c4j3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hrjsXKaiB8RdqICECE5f6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/eS7GdtWxWzTmCPg1CMmgX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ee8735d3-8424-4c81-b21b-739e64083a91"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/PU8suUB3DJAxG0OvFca7x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8AmGwNG5S9QT4w1XCm0cq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/tQP3ORC0GDmVlpsx2s81A.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/XjGBgmxm0Ou0tvMDvePXy.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/oZ4R9slq17J1wsmXkpZ5A.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/m5fols9haIF6y8lMTPezb.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b2622564-3897-4533-9495-4a02e8e5a210"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/D5uGMRl4KF8bGYas3De3i.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/asE1t1B92svOcyx7E3wob.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/SxjbNFpLKcn6FSDpYrJ2z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ZMCLNVvnHlUD6CvyTNuMX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "c045987d-0744-4733-b9d8-617b39953338"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/yoQsJ2HCAQdYBrHE3psnY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5a53813d-8976-4941-b964-0abb2dae05a9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/frYNQgzUUSentMvorgIxn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/HB8KNeb9n0ukmmOaSiHiT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b85881c7-3123-4512-909e-cb033b8395fd"
+                  ]
+                }
+              ],
+              "description": "Du möchtest noch schneller unterwegs sein? Wir haben diese Academy Fußballschuhe mit einem verbesserten Air Zoom-Element in der Ferse ausgestattet. Es gibt dir das dynamische Laufgefühl, das du brauchst, um die hintere Linie zu durchbrechen. Das Ergebnis ist der reaktionsfreudigste Mercurial, den wir je entwickelt haben. Damit kannst du Tempo geben und den nächsten Hattrick anvisieren. Eng anliegende Passform:Die Fersenschlaufen und ein Riemen sorgen für ein Design, das Schnürsenkel überflüssig macht, damit du jederzeit schnell spielbereit bist. Wir haben das elastische Mesh der vorherigen Generation außerdem zu einem anpassungsfähigen Strickmaterial verbessert, das extra Flexibilität und Halt bietet und dich näher an den Ball bringt. Ein Dynamic Fit-Schuhkragen aus weichem, elastischem Material umschließt den Knöchel und sorgt so für ein sicheres Tragegefühl.",
+              "brand": "Nike",
+              "custom_label_0": "FQ8308-001",
+              "custom_label_1": "Shoes",
+              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
+              "custom_label_3": "#F6FF88",
+              "custom_label_4": "Dein Code: VDAY24",
+              "age_group": "KIDS",
+              "availability": "IN STOCK",
+              "color": [
+                "Yellow"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Kids > Shoes > Football"
+              ],
+              "size": "SPARE 50 %",
+              "title": "Nike Produkte für Kinder",
+              "link": "https://www.nike.com/de/t/jr-mercurial-superfly-10-academy-high-top-fussballschuh-fur-kunstrasen-jnk49z/FQ8308-001&dplnk=member"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/Y30Dofz7Qtkg6QQR4poPK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/riLK7pA2WDslZviplgbgM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qohAisIIwnumy0sOEpetx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e79b99db-c491-4696-9871-c06f8b80035f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/UxUrX1Hk9r2Kno5LSyWg5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b85881c7-3123-4512-909e-cb033b8395fd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/nsuiEIE4Y3JJ7SzHE5kD0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/QU3qxVj1bJMpgW3TdGzHv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Z8fzwNwALlUFUmnM35zMp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/6JeG16rAPd0LzNdDbtyBo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LhYayvP6k02IbTv2Bh5VR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5a53813d-8976-4941-b964-0abb2dae05a9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/BJO7cWbbbndZ5mhcMCR8V.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "c045987d-0744-4733-b9d8-617b39953338"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/6qfdIpjvvzqJUDzvx3zkM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ee8735d3-8424-4c81-b21b-739e64083a91"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/91j7BRFuiDpaEGuI4o3hC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mvKP3EARZKXwY4HwHRFaN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/USOf2V42oZj0sz3OVtPVm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8yARg2s73XQ290Da5X9rM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/NuNLgCP3GRb0gRokWRPrH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b2622564-3897-4533-9495-4a02e8e5a210"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/UnMeLr8LhUUlD4DlRLOr9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/zLMJnrwHXUc1PFVEMoN8d.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/lFo0LdYOyLqastQcacepr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/PjxkPPPLEqCLRUj9l8kiz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
+                  ]
+                }
+              ],
+              "description": "Authentischer Fußball-Style für jeden Tag. Der Total 90 ist zurück und sorgt mit seinem originalen gesteppten Obermaterial und der asymmetrischen Schnürung für Y2K-Vibes. Wir haben die Stollensohle durch eine straßentaugliche flache Gummisohle ersetzt und auf eine traditionelle Farbpalette zurückgegriffen, die viele Stylingmöglichkeiten bietet. Vorteile:Das Obermaterial aus Kunstleder ist auf jeder Seite mit einem Total 90-Logo versehen. Die Gummi-Außensohle sorgt für Grip und Strapazierfähigkeit.",
+              "brand": "Nike",
+              "custom_label_0": "IB5666-100",
+              "custom_label_1": "Shoes",
+              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
+              "custom_label_3": "#FFC792",
+              "custom_label_4": "Dein Code: VDAY24",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Brown"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Casualwear"
+              ],
+              "size": "SPARE 40 %",
+              "title": "Nike Total 90",
+              "link": "https://www.nike.com/de/t/total-90-schuh-q09id5md/IB5666-100&dplnk=member"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/W7q282Ip2JgsPJ6zWb51w.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qMyhGzPRSZ1magyrnctOz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/BIuFJqJdeSnUNZYVzJkIh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e79b99db-c491-4696-9871-c06f8b80035f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/rYcf0mMmt7QLidd0buva8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/MeZlrw8rwrCFk6kiGG4tC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5a53813d-8976-4941-b964-0abb2dae05a9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ABNvGLZjBT1YidFNu0qJa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "c045987d-0744-4733-b9d8-617b39953338"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/IWoYIxfchT3XAK7d9VRTI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/EnsispqPY78r1T5gi4yvP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ee8735d3-8424-4c81-b21b-739e64083a91"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/sktpS6tNk3LDGHPWMxV0W.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b2622564-3897-4533-9495-4a02e8e5a210"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/AATdsPKlIhoTW6AXHP9Ow.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/MWUdzysspuVPIbGDfiUG7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/UufWLLrUagODLGPafAemK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/baKm0zH2j57AkhJKsxZQU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wbU3jqDbBVBUWqECeHO9C.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/pPkkMu5C0hrwEP2tRJbHu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b85881c7-3123-4512-909e-cb033b8395fd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/X3rAonGRIAOOfc5W1ihwC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/rhCEJ2WZqKhjSF41atpbE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/GGbU2oKi0yn05OouJWWX7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qbIANQpWVUDwByPEJuaLM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/q8PtWemU2HZYu4gf9w9dZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
+                  ]
+                }
+              ],
+              "description": "Diese FC Chelsea Trainingsjacke greift die Vibes der legendären Nike Fußballtrikots aus den frühen 2000er Jahren auf und ergänzt sie mit funktionalem Style. Die kurvigen, asymmetrischen Linien in Kombination mit der wasserabweisenden Außenschicht sorgen für einen Look, der sowohl auf die Tribüne als auch auf die Straße passt. Behind the Design:Total 90:Die Total 90-Kollektion wurde entwickelt, um die vollen 90 Minuten eines Spiels für Tragekomfort zu sorgen. Die geschwungenen Linien, das asymmetrische Design und der Materialmix machen die Trikots zu echten Klassikern der 2000er-Jahre. Diese Neuauflage gibt diese Energie an eine neue Generation von Spieler:innen und Fans weiter.",
+              "brand": "Nike",
+              "custom_label_0": "HQ9733-010",
+              "custom_label_1": "Clothes",
+              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
+              "custom_label_3": "#83FFF0",
+              "custom_label_4": "Dein Code: VDAY24",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Green"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Chelsea > Men > Clothes > Jackets & Gilets"
+              ],
+              "size": "",
+              "title": "FC Chelsea",
+              "link": "https://www.nike.com/de/t/fc-chelsea-football-total-90-fussball-trainingsjacke-8HDvD9/HQ9733-010&dplnk=member"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/9tMTLnn4GaoY4cmewtcpS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/TwQ1YjLcqYxmeWWKxyAt3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/fX3kvLSD6UDiCS5rxHfjx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/QOsQbUIYBcNlKutyAEU4U.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/quYb1fc9yHuELUcfUJTxw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/PS8MU5N1Yiqk1WmKywHau.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/BiQMqKC6JzYwojQywB0xG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Ff1YaIvIm7SXZ6br7ThiC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b2622564-3897-4533-9495-4a02e8e5a210"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/vJjS7idI06ekeOCY1yuog.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/b1CG5rgi6jvK4sFEGNQq6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ee8735d3-8424-4c81-b21b-739e64083a91"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/otUKpBNfObxn3zpouvNRf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/SM0kas2bPb2T3RUO3jH6G.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b85881c7-3123-4512-909e-cb033b8395fd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/JFyHs76qBgWmTlHsvOsUp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/kyRCVxTCCX0pXP4kfJom7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e79b99db-c491-4696-9871-c06f8b80035f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/tCr1OboiYP5WSKjaPxZnl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/GVRXfXlQtHNDdHUzxsJ0h.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5a53813d-8976-4941-b964-0abb2dae05a9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/0wZCXpacreCQUDTPQBKkr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hTKUut8JgPTVvCiy39oDP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "c045987d-0744-4733-b9d8-617b39953338"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/BTfnDET5GlX7u7cJqTVUc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/KGBeHeKf3JB8F9adqtO6v.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
+                  ]
+                }
+              ],
+              "description": "Man wird nicht \"The One\" genannt, es sei denn, man tut etwas Besonderes, oder? Unser One Bra ist atmungsaktiv, kaum spürbar und sorgt für Tragekomfort, egal ob in der Schule, auf Tanzpartys am Wochenende und bei allem, was du sonst noch machst. Das leichte, elastische Material hält dich dank unserer schweißableitenden Technologie angenehm trocken. Vorteile:Nike Dri-FIT-Technologie leitet Schweiß von der Haut ab, wodurch er schneller verdunstet, und ermöglicht so trockenen Tragekomfort. Ein hoher Ausschnitt sorgt für zusätzliche Abdeckung. Ein bedrucktes, elastisches Band verhindert ein Verrutschen deines BHs.",
+              "brand": "Nike",
+              "custom_label_0": "FD2276-010",
+              "custom_label_1": "Clothes",
+              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
+              "custom_label_3": "#FD84B5",
+              "custom_label_4": "Dein Code: VDAY24",
+              "age_group": "KIDS",
+              "availability": "IN STOCK",
+              "color": [
+                "Olive"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Girls > Training > Clothes > Sports Bra"
+              ],
+              "size": "",
+              "title": "Nike Produkte für Kinder",
+              "link": "https://www.nike.com/de/t/one-sport-bh-WXWWJpLX/FD2276-010&dplnk=member"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/q4DDWelIHg6zDkM5FkgLe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Kp4mOy3MFP6K7g2vjh0PY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b85881c7-3123-4512-909e-cb033b8395fd"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hy71Fz3ZD8xOhCN6LMtRL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "d1fce041-ea17-43f8-887e-5bbe6b73e141"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mdCoMBanUhkiTuwZwIaac.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "50d87ede-0de1-4d98-ba0f-50af34789e06"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/FHEKoICyPgVNVvjcuATs5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "48cf7f98-bb1b-4da8-bcbc-958b032d69b1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/KYV0Pi3LxuUXuPrTQt5fh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ee8735d3-8424-4c81-b21b-739e64083a91"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/95M01lMjnavvqtrZ93U1p.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b2622564-3897-4533-9495-4a02e8e5a210"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/C6IpKXEUoNXCbV9uQFmBF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ce5abe98-3cff-4dff-a2cb-dd5b6ab27e8b"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/DCroDfTlIGLfUwetNDgbI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/GOirAOPieBJKRQ61Jk9pZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "bda8ebe9-fc3e-4230-8c20-8f7d45bd9ef3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/azyK4NtgOw8LfrgVJApnj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "c045987d-0744-4733-b9d8-617b39953338"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/8E3EJkvKlqGBJL6MLW1hZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed8a1267-ca5c-47f5-89e5-1558f27fa698"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mXZQdI3O6niFM5Rf5LG7h.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e79b99db-c491-4696-9871-c06f8b80035f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mNsBWDQjJfS7mZjXkqpw9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "ed569dc4-9c77-4377-8528-ccc939fdb23f"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/5lwtr7hw901DUDrnX4yt9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "f7756685-6c11-4bfe-b463-6b45aefb2d51"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/P9g2JHQVXydXLCCnCONhz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "e7217b9d-b458-4e3a-9978-7ac3424412df"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/tpzcHUNZOtumckaGcCGxn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7ae31b01-df0c-4e49-aacb-6dc927c7f489"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/cxq8srtrLXJlkUN3ME0Ks.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5af1e2bb-5c9c-48c5-ba55-917d1acffb1e"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/QBlwp4qjjZm8qpKa1qYbU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "5a53813d-8976-4941-b964-0abb2dae05a9"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/EY0qNo7FmsyCsU2PWztcv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "9903fe25-6d1a-4656-a855-6f7b5853d073"
+                  ]
+                }
+              ],
+              "description": "Du bist in den klassischen Look des Basketballs der 80er Jahre verliebt, magst aber auch die rasante Kultur des heutigen Spiels. Hier ist der Nike Court Vision Mid. Ein Klassiker in Neuauflage aus mindestens 20% (Gewichtsanteil) Recyclingmaterialien. Das Leder wurde mit recycelten und synthetischen Materialien ersetzt, die die Seele des originalen Styles behalten. Das geschmeidige Obermaterial und die genähten Überzüge bleiben den Wurzeln treu. Der weiche Schuhkragen sorgt für modischen Tragekomfort. Vorteile:Es besteht zu mindestens 20% (gemessen am Gewicht) aus Recyclingmaterialien. Das Design besticht mit Synthetik-Materialien, die an die Basketballschuhe der Mitte der 1980er Jahre erinnern. Der gepolsterte Schuhkragen sieht elegant aus und sorgt für ein tolles Tragegefühl. Perforationen an den Zehen und Seiten sorgen für Tragekomfort und Atmungsaktivität.",
+              "brand": "Nike",
+              "custom_label_0": "DN3577-100",
+              "custom_label_1": "Shoes",
+              "custom_label_2": "Kostenlose Lieferung und Rücksendung",
+              "custom_label_3": "#FE9F87",
+              "custom_label_4": "Dein Code: VDAY24",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Brown"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Men > Shoes > Casualwear"
+              ],
+              "size": "SPARE 40 %",
+              "title": "Nike Court Vision Mid",
+              "link": "https://www.nike.com/de/t/court-vision-mid-next-nature-herrenschuh-lw3R5k/DN3577-100&dplnk=member"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "CRS1DDUS4MJX_Evergreen_Evergreen_Mixed_Unisex_EMEA_Mixed_Mixed_X_X_FR_DPA_Feed_Mixed_Cell B",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "FILL_HEIGHT",
+            "text_fields": [
+              "title",
+              "price"
+            ],
+            "preferred_image_tags": [
+              "9e23b21d-6eaa-4b0a-82c4-405944d57f41"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "700dfe36-fa0b-4c5f-b3c1-7010f5df20d9",
+        "name": "CRMH31G0HE12_Product Experiment_Maxxed Out_Mixed_Unisex_EMEA_Static_Post_X_X_Kobbie Static  - DE",
         "ad_account_name": "Nike EMEA - Initiative Mens",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "en"
         ],
         "headline": "unreal motion powered by 8",
         "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YGgknByW5dkiRB38Gmq36.380?mo=GjsaFDIBBDoBfUIGCO6r9r4GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
         "start_date": "2025-03-26T08:00:59.000Z",
-        "impressions_total": 14330,
+        "impressions_total": 79491,
         "impressions_map": {
-          "de": 14330,
+          "de": 79491,
           "be": 0,
           "fi": 0,
           "pt": 0,
@@ -5765,23 +5767,81 @@
         "paying_advertiser_name": "Nike, Inc. ",
         "profile_name": "Nike",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
+        "web_view_properties": {
+          "url": "https://www.nike.com/de/air-max?cp=92051924407_brs_CRMH31G0HE12"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "bf0322e0-099f-4a53-b187-32244e4354b7",
+        "name": "CRLJ4M8WGTTR_Air Max DN8_Maxxed Out_Mixed_Unisex_EMEA_Static_Post_X_X_Rayssa Leal x Elizaveta product experiment - Static Snap Ads",
+        "ad_account_name": "Nike EMEA - Initiative Mens",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "unreal motion powered by 8",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TKlTZgnrKn0ikRmo023ov.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-03-26T08:00:59.000Z",
+        "impressions_total": 1879845,
+        "impressions_map": {
+          "de": 1879845,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
             {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "unreal motion powered by 8",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4G5WeaEuCinDAZ3Xe3Rzr.67?mo=GukBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIjuRuIAFKDgoJFRMZJThEUDk-EPQDaAIiBgoCSAUSAKIBJwi6ChIaChgI3N9JIAFKDgoJFhIVGikwMUAxEPQDaAIiBgoCSAISAKIBJgh_EhoKGAi-90MgAUoOCgkWGBcfNUA5KykQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjpsUYgAUoOCgkXFhseNTg-LSkQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiB3yUgAUoOCgkTDAsPGyIYHhcQ9ANoAiIGCgJIAhIAkAP2hgE%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.nike.com/de/air-max?cp=92051924407_brs_CR3IVU70Q7V3"
-              }
+              "min_age": "18",
+              "max_age": "27",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
             }
-          ]
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Nike, Inc. ",
+        "profile_name": "Nike",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.nike.com/de/air-max?cp=92051924407_brs_CRLJ4M8WGTTR"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -5941,259 +6001,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "551bb6bf-53c6-4f3d-b54a-ed338804d2f9",
-        "name": "CRAK76SQOUL4_Product Experiment_Maxxed Out_Mixed_Unisex_EMEA_Static_Post_X_X_Masai Static - DE",
+        "id": "ebaa8011-0eef-431c-a2dd-bcfbd795abd9",
+        "name": "CRH8VDMHGRSH_Air Max DN8_Maxxed Out_Mixed_Unisex_EMEA_Video_Post_:20_1080x1920_Nico Williams AV - DE",
         "ad_account_name": "Nike EMEA - Initiative Mens",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "unreal motion powered by 8",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Bmaf5T16xdK8W7tQtUFBM.380?mo=GjsaFDIBBDoBfUIGCK_gir8GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
-        "start_date": "2025-03-26T08:00:59.000Z",
-        "impressions_total": 282795,
-        "impressions_map": {
-          "de": 282795,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "27",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nike, Inc. ",
-        "profile_name": "Nike",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.nike.com/de/air-max?cp=92051924407_brs_CRAK76SQOUL4"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "eabe803a-455f-42bc-a3e5-0652fbfaffab",
-        "name": "CRX3ORNIGT8R_Product Experiment_Maxxed Out_Mixed_Unisex_EMEA_Static_Post_X_X_Yuto Static - DE",
-        "ad_account_name": "Nike EMEA - Initiative Mens",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "unreal motion powered by 8",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vjurrHgqgQR4zkGEa9kqa.380?mo=GjsaFDIBBDoBfUIGCLfeir8GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
-        "start_date": "2025-03-26T08:00:59.000Z",
-        "impressions_total": 168637,
-        "impressions_map": {
-          "de": 168637,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "27",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nike, Inc. ",
-        "profile_name": "Nike",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.nike.com/de/air-max?cp=92051924407_brs_CRX3ORNIGT8R"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ef962dd7-6f8e-42a3-a1e4-c8ced921dd2d",
-        "name": "CR7D197MH9L1_Product Experiment_Maxxed Out_Mixed_Unisex_EMEA_Video_Story_:15_1080x1920_Salma AV - DE",
-        "ad_account_name": "Nike EMEA - Initiative Mens",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "unreal motion powered by 8",
-        "call_to_action": "MORE",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-26T08:00:59.000Z",
-        "impressions_total": 84062,
-        "impressions_map": {
-          "de": 84062,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "27",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nike, Inc. ",
-        "profile_name": "Nike",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "unreal motion powered by 8",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZHtaGQyNW4Y5fMF3q5ShI.67?mo=GpMCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLwhDEhsKGQiqj2cgAUoPCgqCAU5DKx0pMkhHEPQDaAIiDgoKQgYIxN2KvwZIAxIAogEvCLoKEhoKGAiC-0YgAUoOCgluNyYZFxkhMS4Q9ANoAiIOCgpCBgix3oq_BkgDEgCiAS4IfxIaChgI_OI3IAFKDgoJUikbFw8VGSUmEPQDaAIiDgoKQgYIsd6KvwZIAhIAogEvCJIKEhoKGAiurTogAUoOCglLMR4ZDhgaJyUQ9ANoAiIOCgpCBgix3oq_BkgCEgCiAS8IxAoSGgoYCO2NLSABSg4KCUgcFxEOEBYgHRD0A2gCIg4KCkIGCLHeir8GSAISAJAD2Hw%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.nike.com/de/air-max?cp=92051924407_brs_CR7D197MH9L1"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "17686a5c-f461-4766-8485-4bd8bc8c0234",
-        "name": "CRI0DL239ZUC_Air Max DN8_Maxxed Out_Mixed_Unisex_EMEA_Video_Story_:20_X_Rayssa Leal x Elizaveta product experiment - AV Stories",
-        "ad_account_name": "Nike EMEA - Initiative Mens",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [],
         "headline": "unreal motion powered by 8",
         "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qexbYuZuzjZg2ZkgK5Ljv.67?mo=GpMCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLghDEhoKGAj601sgAUoOCgk9MC4xFicnN0EQ9ANoAiIOCgpCBgiW6Km_BkgDEgCiAS8IugoSGgoYCKyJQSABSg4KCS0eISQTGxsiMRD0A2gCIg4KCkIGCMfoqb8GSAISAKIBLgh_EhoKGAiEoS8gAUoOCgkiFRYYDBQSGiMQ9ANoAiIOCgpCBgjH6Km_BkgCEgCiAS8IkgoSGgoYCJTFMiABSg4KCSQWGBgNFRMdJBD0A2gCIg4KCkIGCMfoqb8GSAISAKIBLwjEChIaChgI7dEpIAFKDgoJIhQVGAsREhUeEPQDaAIiDgoKQgYIx-ipvwZIAhIAkAP4jAE%3D&uc=15",
         "start_date": "2025-03-26T08:00:59.000Z",
-        "impressions_total": 38336,
+        "impressions_total": 63668,
         "impressions_map": {
-          "de": 38336,
+          "de": 63668,
           "be": 0,
           "fi": 0,
           "pt": 0,
@@ -6239,22 +6063,158 @@
         "paying_advertiser_name": "Nike, Inc. ",
         "profile_name": "Nike",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
+        "web_view_properties": {
+          "url": "https://www.nike.com/de/air-max?cp=92051924407_brs_CRH8VDMHGRSH"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "8b19cc5e-a622-4a26-9f63-1401cc554fb6",
+        "name": "CRF62IDHKY7W_Air Max DN8_Maxxed Out_Mixed_Unisex_EMEA_Static_Post_X_1080x1920_Nico Williams Static - DE",
+        "ad_account_name": "Nike EMEA - Initiative Mens",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "unreal motion powered by 8",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vpMtSXo1e6wjW4JN5wRZk.380?mo=GjsaFDIBBDoBfUIGCKzpqb8GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+        "start_date": "2025-03-26T08:00:59.000Z",
+        "impressions_total": 47895,
+        "impressions_map": {
+          "de": 47895,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
             {
-              "type": "WEB_VIEW",
-              "headline": "unreal motion powered by 8",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YgSjN6uU7a9582rlBfTrN.67?mo=GukBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIxvs8IAFKDgoJOBoeGSctJx0REPQDaAIiBgoCSAUSAKIBJwi6ChIaChgIxJYrIAFKDgoJKg8WEhggGhgPEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAirhR4gAUoOCgkgCw8LExkQEAoQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAis_h4gAUoOCgkhDA4MFBoREAoQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjh8BsgAUoOCgkgCQ8LEBQREAkQ9ANoAiIGCgJIAhIAkAOihAE%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.nike.com/de/air-max?cp=92051924407_brs_CRI0DL239ZUC"
-              }
+              "min_age": "18",
+              "max_age": "27",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
             }
-          ]
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Nike, Inc. ",
+        "profile_name": "Nike",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.nike.com/de/air-max?cp=92051924407_brs_CRF62IDHKY7W"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "94588a74-d131-4b71-b0ff-edb298c9fd54",
+        "name": "CRX3VGUYV7OC_Air Max DN8_Maxxed Out_Mixed_Unisex_EMEA_Video_Post_:23_1080x1920_Ja Morant AV - DE",
+        "ad_account_name": "Nike EMEA - Initiative Mens",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "unreal motion powered by 8",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1WQo3LqpSg7Ta5CTyASUG.67?mo=GpMCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLghDEhoKGAiR8l0gAUoOCgkdDQsIBwciIiYQ9ANoAiIOCgpCBgit6am_BkgCEgCiAS8IugoSGgoYCNTwPiABSg4KCRsICQcHCBMbFhD0A2gCIg4KCkIGCLDqqb8GSAMSAKIBLgh_EhoKGAie2zEgAUoOCgkZBwYEBQUPEQ8Q9ANoAiIOCgpCBgiw6qm_BkgCEgCiAS8IkgoSGgoYCPrWNSABSg4KCRoHBgUFBhASERD0A2gCIg4KCkIGCLDqqb8GSAISAKIBLwjEChIaChgI-usoIAFKDgoJFwYFBQQFDBEPEPQDaAIiDgoKQgYIsOqpvwZIAhIAkAPYswE%3D&uc=15",
+        "start_date": "2025-03-26T08:00:59.000Z",
+        "impressions_total": 50370,
+        "impressions_map": {
+          "de": 50370,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "27",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Nike, Inc. ",
+        "profile_name": "Nike",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ0xpSzhleEdEUVA3VDJJek1qOXRmP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.nike.com/de/air-max?cp=92051924407_brs_CRX3VGUYV7OC"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

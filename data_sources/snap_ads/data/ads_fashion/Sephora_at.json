@@ -1,280 +1,59 @@
 {
   "brand": "Sephora",
   "country": "at",
-  "fetched_at": "2026-04-09T13:31:03.288Z",
+  "fetched_at": "2026-04-10T07:43:24.906Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "901e4b8a-03fe-4135-9d10-15f389d38f9b",
-        "name": "PSP_EVG_SNAP_DPA_English_DEI|March-BIPOC-Female-Founded-Brands|V1|NA_Local-Snap-Ad_20250304_F0006A8G",
+        "id": "ee637e77-f406-46ff-9997-9f29317e9da4",
+        "name": "PSP_EVG_SNAP_Static_French_CS|May/June-Skincare-under-35|V1-FRE|NA_Local-Snap-Ad_20250506_F0006RL0",
         "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
         "status": "PAUSED",
         "creative_type": "AD_TO_PLACE",
         "ad_type": "AD_TO_PLACE",
         "ad_render_type": "STATIC",
         "languages": [
-          "en"
+          "fr"
         ],
-        "headline": "Women-Owned Brands",
+        "headline": "Favoris à moins de 35 $",
         "call_to_action": "SEE PLACE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/djlNNYv6YVDWqYDVGgltF.67?mo=GvECGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogFBCEMSLwotCIi-HyABSiMKHiQXCAooDgwQChUhEA0PCQcKJw8cCQgHJw0SDAoHBhD0A2gCIgwKCEIGCLfvgb4GEgCiAUEIugoSLgosCKKgFiABSiIKHSgMCA4eCwwLCgcLCgsKBwYHDgoNBxIIEQkOCggHEPQDaAIiDAoIQgYI5--BvgYSAKIBQQh_Ei8KLQiYmxcgAUojCh4oEgkNGwwICQcFGQ0KBwUFCRoIFAYFBCQJCwgHBQUQ9ANoAiIMCghCBgjn74G-BhIAogFCCJIKEi8KLQi07xkgAUojCh4oFQkOGwwJCggGGxEKCAcFCSAKFAYGCikKDAkIBgUQ9ANoAiIMCghCBgjn74G-BhIAogFBCMQKEi4KLAj13g8gAUoiCh0eCwcJEwkICAcECAcHBwUEBA4ICwYFBwoHCgcFBRD0A2gCIgwKCEIGCOfvgb4GEgCQA5h1&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Luvt9NdGG4PW18Ye5096h.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI29MJIAFKDgoJJwQDHQMEAw4DEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIxLULIAFKDgoJOwUFFgUFBg8GEPQDaAIiBgoCSAISAKIBJgh_EhoKGAjisQcgAUoOCgkeBAQOBAQECwQQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiH7wcgAUoOCgkeBAQQBQQEDAQQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiu_AcgAUoOCgkmAwMPAwMECgMQ9ANoAiIGCgJIAhIAkAPAPg%3D%3D&uc=15",
         "start_date": "2025-01-01T17:00:00.000Z",
-        "impressions_total": 527,
+        "impressions_total": 827,
         "impressions_map": {
-          "de": 38,
-          "be": 12,
+          "de": 6,
+          "be": 13,
           "fi": 0,
-          "pt": 6,
-          "bg": 3,
+          "pt": 4,
+          "bg": 0,
           "dk": 0,
-          "lt": 255,
+          "lt": 1,
           "lu": 1,
           "hr": 0,
           "lv": 0,
-          "fr": 66,
-          "hu": 0,
-          "se": 19,
-          "si": 0,
-          "sk": 1,
-          "ie": 2,
-          "ee": 0,
-          "el": 5,
-          "mt": 0,
-          "it": 63,
-          "es": 15,
-          "at": 11,
-          "cy": 0,
-          "cz": 1,
-          "pl": 4,
-          "ro": 2,
-          "nl": 9,
-          "tr": 14
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Sephora",
-        "brand_name": "Sephora",
-        "profile_name": "sephora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQlN4WFNpSXhaeXZaWDJqeDIxVjhlP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {},
-          "vertical": "PLACES"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "43940e62-ae4b-4476-a2e0-228537c891a8",
-        "name": "PSP_EVG_SNAP_DPA_English_DEI|March-BIPOC-Female-Founded-Brands|V1|NA_Local-Snap-Ad_20250304_F0006A8G",
-        "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
-        "status": "PAUSED",
-        "creative_type": "AD_TO_PLACE",
-        "ad_type": "AD_TO_PLACE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Women-Owned Brands",
-        "call_to_action": "SEE PLACE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/djlNNYv6YVDWqYDVGgltF.67?mo=GvECGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogFBCEMSLwotCIi-HyABSiMKHiQXCAooDgwQChUhEA0PCQcKJw8cCQgHJw0SDAoHBhD0A2gCIgwKCEIGCLfvgb4GEgCiAUEIugoSLgosCKKgFiABSiIKHSgMCA4eCwwLCgcLCgsKBwYHDgoNBxIIEQkOCggHEPQDaAIiDAoIQgYI5--BvgYSAKIBQQh_Ei8KLQiYmxcgAUojCh4oEgkNGwwICQcFGQ0KBwUFCRoIFAYFBCQJCwgHBQUQ9ANoAiIMCghCBgjn74G-BhIAogFCCJIKEi8KLQi07xkgAUojCh4oFQkOGwwJCggGGxEKCAcFCSAKFAYGCikKDAkIBgUQ9ANoAiIMCghCBgjn74G-BhIAogFBCMQKEi4KLAj13g8gAUoiCh0eCwcJEwkICAcECAcHBwUEBA4ICwYFBwoHCgcFBRD0A2gCIgwKCEIGCOfvgb4GEgCQA5h1&uc=15",
-        "start_date": "2025-01-01T17:00:00.000Z",
-        "impressions_total": 287,
-        "impressions_map": {
-          "de": 9,
-          "be": 3,
-          "fi": 0,
-          "pt": 2,
-          "bg": 2,
-          "dk": 0,
-          "lt": 117,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 39,
-          "hu": 0,
-          "se": 16,
+          "fr": 739,
+          "hu": 1,
+          "se": 0,
           "si": 0,
           "sk": 0,
-          "ie": 2,
+          "ie": 5,
           "ee": 0,
-          "el": 0,
+          "el": 1,
           "mt": 0,
-          "it": 64,
-          "es": 13,
-          "at": 3,
+          "it": 15,
+          "es": 7,
+          "at": 18,
           "cy": 0,
-          "cz": 0,
-          "pl": 1,
-          "ro": 1,
-          "nl": 5,
-          "tr": 10
+          "cz": 2,
+          "pl": 6,
+          "ro": 0,
+          "nl": 7,
+          "tr": 1
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -283,7 +62,7 @@
               "min_age": "18",
               "age_groups": [],
               "languages": [
-                "en"
+                "fr"
               ],
               "operation": "INCLUDE",
               "advanced_demographics": []
@@ -450,229 +229,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "f23854c1-d751-4e21-a39e-571261b32a04",
-        "name": "PSP_EVG_SNAP_Static_English_CS|Aug/Sept-Value-Sets-Under-50|V1|NA_Local-Snap-Ad_20250801_F0007CW5",
-        "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
-        "status": "PAUSED",
-        "creative_type": "AD_TO_PLACE",
-        "ad_type": "AD_TO_PLACE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "$50 & Under Must-Haves",
-        "call_to_action": "SEE PLACE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/7ws5r0a0IzgyVQ3oAYtWk.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIqdwIIAEw4AM41AZAAUoOCgkgEAsRDBEEBAMQ9ANQwD5oAiIGCgJIAhIAogEyCLoKEiUKIwig-gkgATDQBTiACkACSg4KCSMPCw8PEQYGBRD0A1DAPmgCIgYKAkgDEgCiATEIfxIlCiMIv5IIIAEw4AM41AZAAkoOCgkcCwsPCxIEBAMQ9ANQwD5oAiIGCgJIAhIAogEyCJIKEiUKIwjotQggATDgAzjUBkACSg4KCRwLCw4LEwUEBBD0A1DAPmgCIgYKAkgCEgCiATIIxAoSJQojCKXeBiABMOADONYGQAJKDgoJGgkHCgsNBAQDEPQDUMA-aAIiBgoCSAISAKIBMgjSChIlCiMIjPQGIAEw4AM41AZAAkoOCgkbCQgKCw4EBAMQ9ANQwD5oAiIGCgJIAhIAkAPAPg%3D%3D&uc=15",
-        "start_date": "2025-01-01T17:00:00.000Z",
-        "impressions_total": 141,
-        "impressions_map": {
-          "de": 4,
-          "be": 4,
-          "fi": 0,
-          "pt": 12,
-          "bg": 8,
-          "dk": 1,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 9,
-          "hu": 0,
-          "se": 3,
-          "si": 0,
-          "sk": 0,
-          "ie": 3,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 8,
-          "es": 12,
-          "at": 5,
-          "cy": 0,
-          "cz": 0,
-          "pl": 23,
-          "ro": 1,
-          "nl": 6,
-          "tr": 42
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Sephora",
-        "brand_name": "Sephora",
-        "profile_name": "sephora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQlN4WFNpSXhaeXZaWDJqeDIxVjhlP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {},
-          "vertical": "PLACES"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "1f199f2a-f8d6-4c36-887f-6edeb4e4bbcc",
-        "name": "PSP_EVG_SNAP_Static_English_CS|March/April-Makeup-under-35|V1|NA_Local-Snap-Ad_20250306_F0006BIK",
+        "id": "a31a7dd3-5771-4d1d-8248-8fa682e25be5",
+        "name": "PSP_EVG_SNAP_Static_English_CS|March/April-Skincare-under-35|V1|NA_Local-Snap-Ad_20250306_F0006BIM",
         "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
         "status": "PAUSED",
         "creative_type": "AD_TO_PLACE",
@@ -685,38 +243,38 @@
         "call_to_action": "SEE PLACE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/lYK2Ia4ay0kvX0JSRlqdk.67?mo=GrACGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNAhDEiAKHgj6ugggAUoUCg8lBAMNBAQDDgMEAx8DBAMQ9ANoAiIOCgpCBgicy6K-BkgEEgCiATUIugoSIAoeCJalCiABShQKDzUFBQ8FBQUOBgUFFwUFBRD0A2gCIg4KCkIGCMHLor4GSAMSAKIBNAh_EiAKHgjugAcgAUoUCg8cBAQLBAQECgMEBBIEBAMQ9ANoAiIOCgpCBgjBy6K-BkgCEgCiATUIkgoSIAoeCOewByABShQKDxwEBA0EBAQLBQQEEgQEBBD0A2gCIg4KCkIGCMHLor4GSAISAKIBNQjEChIgCh4Is6wHIAFKFAoPIwMDCwQDAwoDBAMYAwQDEPQDaAIiDgoKQgYIwcuivgZIAhIAkAP6PQ%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/az47trGLTWFM8qnzMEvFT.67?mo=GrACGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNAhDEiAKHgi73gggAUoUCg8kAwQWAwQDDQQDBBwDBAMQ9ANoAiIOCgpCBgi80qK-BkgEEgCiATUIugoSIAoeCIWNCyABShQKDzMFBRkGBAYQBQYFFwYGBRD0A2gCIg4KCkIGCNPSor4GSAISAKIBNAh_EiAKHgivhAcgAUoUCg8dAwQMBAQECwQDBBAEBAQQ9ANoAiIOCgpCBgjT0qK-BkgCEgCiATUIkgoSIAoeCITHByABShQKDx0EBA0FBAQMBAQFEQQEBRD0A2gCIg4KCkIGCNPSor4GSAISAKIBNQjEChIgCh4IjNEHIAFKFAoPIgMDEQMDAwsDAwQXAwQDEPQDaAIiDgoKQgYI09KivgZIAhIAkAPAPg%3D%3D&uc=15",
         "start_date": "2025-01-01T17:00:00.000Z",
-        "impressions_total": 129,
+        "impressions_total": 195,
         "impressions_map": {
           "de": 7,
-          "be": 2,
+          "be": 5,
           "fi": 0,
-          "pt": 1,
-          "bg": 0,
+          "pt": 0,
+          "bg": 1,
           "dk": 0,
-          "lt": 55,
+          "lt": 79,
           "lu": 0,
-          "hr": 0,
+          "hr": 1,
           "lv": 0,
-          "fr": 25,
+          "fr": 30,
           "hu": 0,
           "se": 4,
           "si": 0,
           "sk": 0,
-          "ie": 0,
+          "ie": 1,
           "ee": 0,
           "el": 0,
           "mt": 0,
-          "it": 15,
-          "es": 11,
-          "at": 1,
+          "it": 27,
+          "es": 21,
+          "at": 7,
           "cy": 0,
-          "cz": 0,
+          "cz": 1,
           "pl": 1,
           "ro": 0,
-          "nl": 4,
-          "tr": 3
+          "nl": 5,
+          "tr": 5
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -892,8 +450,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c109321d-a760-4e07-b36a-35af29e815de",
-        "name": "PSP_EVG_SNAP_Static_English_CS|March/April-Makeup-under-35|V1|NA_Local-Snap-Ad_20250306_F0006BIK",
+        "id": "65686c71-15cc-4117-bdd3-8396a08f2638",
+        "name": "PSP_EVG_SNAP_Static_English_Multi-Brand|Q2-Frag-MBC|V1|NA_Local-Snap-Ad_20250418_F0006NI4",
         "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
         "status": "PAUSED",
         "creative_type": "AD_TO_PLACE",
@@ -902,42 +460,484 @@
         "languages": [
           "en"
         ],
-        "headline": "$35 & Under",
+        "headline": "Find your scent",
         "call_to_action": "SEE PLACE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/lYK2Ia4ay0kvX0JSRlqdk.67?mo=GrACGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNAhDEiAKHgj6ugggAUoUCg8lBAMNBAQDDgMEAx8DBAMQ9ANoAiIOCgpCBgicy6K-BkgEEgCiATUIugoSIAoeCJalCiABShQKDzUFBQ8FBQUOBgUFFwUFBRD0A2gCIg4KCkIGCMHLor4GSAMSAKIBNAh_EiAKHgjugAcgAUoUCg8cBAQLBAQECgMEBBIEBAMQ9ANoAiIOCgpCBgjBy6K-BkgCEgCiATUIkgoSIAoeCOewByABShQKDxwEBA0EBAQLBQQEEgQEBBD0A2gCIg4KCkIGCMHLor4GSAISAKIBNQjEChIgCh4Is6wHIAFKFAoPIwMDCwQDAwoDBAMYAwQDEPQDaAIiDgoKQgYIwcuivgZIAhIAkAP6PQ%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CRGsNeql7Fi5uZnXEo5xv.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIpJkTIAFKDgoJPwQaBARAAwQbEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgI1dYXIAFKDgoJbwUiBgVIBgUlEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiGzg4gAUoOCgkvBBUEBBcHBBUQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi5kw8gAUoOCgktBBYEBBgHBRQQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAj68A8gAUoOCgk-AxcDAyoEBBgQ9ANoAiIGCgJIAhIAkAOoRg%3D%3D&uc=15",
         "start_date": "2025-01-01T17:00:00.000Z",
-        "impressions_total": 334,
+        "impressions_total": 335,
         "impressions_map": {
-          "de": 27,
-          "be": 4,
+          "de": 19,
+          "be": 16,
           "fi": 0,
-          "pt": 1,
-          "bg": 1,
+          "pt": 3,
+          "bg": 2,
           "dk": 0,
-          "lt": 116,
-          "lu": 2,
+          "lt": 103,
+          "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 32,
+          "fr": 65,
           "hu": 0,
-          "se": 5,
+          "se": 11,
           "si": 0,
-          "sk": 1,
-          "ie": 3,
+          "sk": 0,
+          "ie": 1,
           "ee": 0,
-          "el": 9,
+          "el": 1,
           "mt": 0,
-          "it": 73,
-          "es": 17,
-          "at": 15,
+          "it": 40,
+          "es": 34,
+          "at": 6,
           "cy": 0,
-          "cz": 0,
-          "pl": 3,
+          "cz": 3,
+          "pl": 2,
+          "ro": 1,
+          "nl": 6,
+          "tr": 22
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Sephora",
+        "brand_name": "Sephora",
+        "profile_name": "sephora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQlN4WFNpSXhaeXZaWDJqeDIxVjhlP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {},
+          "vertical": "PLACES"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "cd322fdc-ef3f-4e61-ace6-3489ce570c9e",
+        "name": "RTG_EVG_SNAP_Static_English_Multi-Brand|Q1-Frag-by-Price|V1|FY254015_Local-Snap-Ad_20250123_F0005V5T",
+        "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
+        "status": "PAUSED",
+        "creative_type": "AD_TO_PLACE",
+        "ad_type": "AD_TO_PLACE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "$40 and Under Fragrance",
+        "call_to_action": "SEE PLACE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0OpmXWxxUZ4hb7mB6fKrm.67?mo=GpwCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBMAhDEhwKGgjj9AYgAUoQCgsvBAoEBBIECQMEAxD0A2gCIg4KCkIGCNu9lbwGSAISAKIBMQi6ChIcChoItoEJIAFKEAoLPAULBgUaBQULBQUQ9ANoAiIOCgpCBgjrvZW8BkgDEgCiATAIfxIcChoIyJgFIAFKEAoLGgQIBAQOBAcEBAQQ9ANoAiIOCgpCBgjrvZW8BkgCEgCiATEIkgoSHAoaCOCiBSABShAKCxkECAUEDgQECAQEEPQDaAIiDgoKQgYI672VvAZIAhIAogExCMQKEhwKGgiQvAUgAUoQCgsjAwcEAxADBAYEAxD0A2gCIg4KCkIGCOu9lbwGSAISAJAD4Cs%3D&uc=15",
+        "start_date": "2025-01-01T17:00:00.000Z",
+        "impressions_total": 499,
+        "impressions_map": {
+          "de": 40,
+          "be": 52,
+          "fi": 4,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 202,
+          "lu": 0,
+          "hr": 1,
+          "lv": 0,
+          "fr": 52,
+          "hu": 0,
+          "se": 8,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 5,
+          "mt": 0,
+          "it": 42,
+          "es": 31,
+          "at": 18,
+          "cy": 0,
+          "cz": 1,
+          "pl": 6,
           "ro": 3,
           "nl": 14,
-          "tr": 8
+          "tr": 20
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Sephora",
+        "brand_name": "Sephora",
+        "profile_name": "sephora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQlN4WFNpSXhaeXZaWDJqeDIxVjhlP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {},
+          "vertical": "PLACES"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "0501aa5d-bf29-4cfa-b9e9-2442aa6f1524",
+        "name": "PSP_EVG_SNAP_Static_English_Multi-Brand|Mothers-Day|V1|NA_Local-Snap-Ad_20250501_F0006PU5",
+        "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
+        "status": "PAUSED",
+        "creative_type": "AD_TO_PLACE",
+        "ad_type": "AD_TO_PLACE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "The Best Fragrance Gifts",
+        "call_to_action": "SEE PLACE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fzmx42i6XlZHFXJkY8BN2.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI94QiIAFKDgoJNh8XCgsLFxcSEPQDaAIiBgoCSAUSAKIBJwi6ChIaChgIqZIcIAFKDgoJLRcUCgoJEhMUEPQDaAIiBgoCSAISAKIBJgh_EhoKGAi7ixUgAUoOCgkjFQ4IBQgODQ8Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi6mxYgAUoOCgkiFRIIBgcQDg8Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiFmxMgAUoOCgkkERAGBwYMDA4Q9ANoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-01-01T17:00:00.000Z",
+        "impressions_total": 106,
+        "impressions_map": {
+          "de": 1,
+          "be": 2,
+          "fi": 0,
+          "pt": 5,
+          "bg": 0,
+          "dk": 0,
+          "lt": 28,
+          "lu": 6,
+          "hr": 1,
+          "lv": 0,
+          "fr": 19,
+          "hu": 0,
+          "se": 1,
+          "si": 0,
+          "sk": 1,
+          "ie": 1,
+          "ee": 0,
+          "el": 3,
+          "mt": 0,
+          "it": 16,
+          "es": 9,
+          "at": 5,
+          "cy": 0,
+          "cz": 0,
+          "pl": 1,
+          "ro": 2,
+          "nl": 3,
+          "tr": 2
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -1334,8 +1334,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "a31a7dd3-5771-4d1d-8248-8fa682e25be5",
-        "name": "PSP_EVG_SNAP_Static_English_CS|March/April-Skincare-under-35|V1|NA_Local-Snap-Ad_20250306_F0006BIM",
+        "id": "ebc3b8ee-53f2-4fa2-96f7-92d981b8c625",
+        "name": "RTG_EVG_SNAP_Static_English_Promo|Long-Weekend-Sale-Memorial-Day|V1|NA_Local-Snap-Ad_20250522_F0006ULE",
         "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
         "status": "PAUSED",
         "creative_type": "AD_TO_PLACE",
@@ -1344,484 +1344,42 @@
         "languages": [
           "en"
         ],
-        "headline": "$35 & Under",
+        "headline": "Get up to 50% OffΔ",
         "call_to_action": "SEE PLACE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/az47trGLTWFM8qnzMEvFT.67?mo=GrACGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNAhDEiAKHgi73gggAUoUCg8kAwQWAwQDDQQDBBwDBAMQ9ANoAiIOCgpCBgi80qK-BkgEEgCiATUIugoSIAoeCIWNCyABShQKDzMFBRkGBAYQBQYFFwYGBRD0A2gCIg4KCkIGCNPSor4GSAISAKIBNAh_EiAKHgivhAcgAUoUCg8dAwQMBAQECwQDBBAEBAQQ9ANoAiIOCgpCBgjT0qK-BkgCEgCiATUIkgoSIAoeCITHByABShQKDx0EBA0FBAQMBAQFEQQEBRD0A2gCIg4KCkIGCNPSor4GSAISAKIBNQjEChIgCh4IjNEHIAFKFAoPIgMDEQMDAwsDAwQXAwQDEPQDaAIiDgoKQgYI09KivgZIAhIAkAPAPg%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3eWKsQ1wqpRUpcGwtEThZ.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAjnuwogAUoOCgkmBBAEBAkEAxoQ9ANoAiICEgCiASMIugoSGgoYCI2GDSABSg4KCTgFFwUGCQYGEhD0A2gCIgISAKIBIgh_EhoKGAiZ7wkgAUoOCgkgBA8EBAgEBA0Q9ANoAiICEgCiASMIkgoSGgoYCJbwCiABSg4KCSAEEgQFCgQEEBD0A2gCIgISAKIBIwjEChIaChgI_9kJIAFKDgoJJgMPAwQGBAMOEPQDaAIiAhIAkAOoRg%3D%3D&uc=15",
         "start_date": "2025-01-01T17:00:00.000Z",
-        "impressions_total": 195,
+        "impressions_total": 19,
         "impressions_map": {
-          "de": 7,
-          "be": 5,
+          "de": 1,
+          "be": 1,
           "fi": 0,
           "pt": 0,
-          "bg": 1,
-          "dk": 0,
-          "lt": 79,
-          "lu": 0,
-          "hr": 1,
-          "lv": 0,
-          "fr": 30,
-          "hu": 0,
-          "se": 4,
-          "si": 0,
-          "sk": 0,
-          "ie": 1,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 27,
-          "es": 21,
-          "at": 7,
-          "cy": 0,
-          "cz": 1,
-          "pl": 1,
-          "ro": 0,
-          "nl": 5,
-          "tr": 5
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Sephora",
-        "brand_name": "Sephora",
-        "profile_name": "sephora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQlN4WFNpSXhaeXZaWDJqeDIxVjhlP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {},
-          "vertical": "PLACES"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f26cd07f-ac2f-49b1-94b4-9e8f3009fdba",
-        "name": "PSP_EVG_SNAP_Static_English_CS|May/June-Makeup-under-35|V1|NA_Local-Snap-Ad_20250506_F0006RII",
-        "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
-        "status": "PAUSED",
-        "creative_type": "AD_TO_PLACE",
-        "ad_type": "AD_TO_PLACE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Must-Have Makeup: $35 & Under",
-        "call_to_action": "SEE PLACE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/L0wN8OMJEnj48Ws5tWZUN.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIk6oJIAFKDgoJJQQEGgMDBA4EEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgI77cKIAFKDgoJNAUFEAYFBRAFEPQDaAIiBgoCSAISAKIBJgh_EhoKGAji_AYgAUoOCgkcBAQMAwQEDAMQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjLrwcgAUoOCgkcBAQMBQQEDAQQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAj9pgcgAUoOCgkiAwQLAwMECgMQ9ANoAiIGCgJIAhIAkAPAPg%3D%3D&uc=15",
-        "start_date": "2025-01-01T17:00:00.000Z",
-        "impressions_total": 395,
-        "impressions_map": {
-          "de": 30,
-          "be": 8,
-          "fi": 4,
-          "pt": 12,
-          "bg": 3,
-          "dk": 0,
-          "lt": 6,
-          "lu": 1,
-          "hr": 2,
-          "lv": 0,
-          "fr": 79,
-          "hu": 1,
-          "se": 23,
-          "si": 0,
-          "sk": 1,
-          "ie": 18,
-          "ee": 0,
-          "el": 21,
-          "mt": 0,
-          "it": 54,
-          "es": 37,
-          "at": 25,
-          "cy": 0,
-          "cz": 4,
-          "pl": 10,
-          "ro": 6,
-          "nl": 23,
-          "tr": 27
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Sephora",
-        "brand_name": "Sephora",
-        "profile_name": "sephora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQlN4WFNpSXhaeXZaWDJqeDIxVjhlP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {},
-          "vertical": "PLACES"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "0e17d92a-b4b3-4ae1-ba06-bc01d39e3827",
-        "name": "PSP_EVG_SNAP_Static_English_CS|May/June-Makeup-under-35|V1|NA_Local-Snap-Ad_20250506_F0006RII",
-        "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
-        "status": "PAUSED",
-        "creative_type": "AD_TO_PLACE",
-        "ad_type": "AD_TO_PLACE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Must-Have Makeup: $35 & Under",
-        "call_to_action": "SEE PLACE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/L0wN8OMJEnj48Ws5tWZUN.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIk6oJIAFKDgoJJQQEGgMDBA4EEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgI77cKIAFKDgoJNAUFEAYFBRAFEPQDaAIiBgoCSAISAKIBJgh_EhoKGAji_AYgAUoOCgkcBAQMAwQEDAMQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjLrwcgAUoOCgkcBAQMBQQEDAQQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAj9pgcgAUoOCgkiAwQLAwMECgMQ9ANoAiIGCgJIAhIAkAPAPg%3D%3D&uc=15",
-        "start_date": "2025-01-01T17:00:00.000Z",
-        "impressions_total": 162,
-        "impressions_map": {
-          "de": 5,
-          "be": 9,
-          "fi": 3,
-          "pt": 10,
           "bg": 0,
           "dk": 0,
-          "lt": 4,
+          "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 72,
+          "fr": 1,
           "hu": 0,
-          "se": 4,
+          "se": 0,
           "si": 0,
           "sk": 0,
-          "ie": 3,
+          "ie": 0,
           "ee": 0,
-          "el": 2,
+          "el": 0,
           "mt": 0,
-          "it": 17,
-          "es": 3,
-          "at": 3,
+          "it": 4,
+          "es": 2,
+          "at": 7,
           "cy": 0,
-          "cz": 1,
-          "pl": 6,
-          "ro": 1,
-          "nl": 9,
-          "tr": 10
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 3,
+          "tr": 0
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -1997,8 +1555,450 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "3df226c7-5424-4919-ad6d-22560654033d",
-        "name": "PSP_EVG_SNAP_Static_English_CS|May/June-Skincare-under-35|V1|NA_Local-Snap-Ad_20250506_F0006RGQ",
+        "id": "687b3b51-e9e2-4d5f-9bba-9ff5f45be0d1",
+        "name": "RTG_EVG_SNAP_Static_French_Multi-Brand|Mothers-Day|V1-FRE|NA_Local-Snap-Ad_20250501_F0006PX4",
+        "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
+        "status": "PAUSED",
+        "creative_type": "AD_TO_PLACE",
+        "ad_type": "AD_TO_PLACE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Les plus beaux cadeaux parfums",
+        "call_to_action": "SEE PLACE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0OJPSPNM3yvaLu67Ip6DC.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI68ckIAFKDgoJMiQaDAoLGRccEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgI5OMdIAFKDgoJLhoWCgoIFBQWEPQDaAIiBgoCSAISAKIBJgh_EhoKGAidkBcgAUoOCgklGBAHBwcQDhIQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAixoxggAUoOCgklGhIKBwcQDxMQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiH3RQgAUoOCgklFRAHBgYNDRAQ9ANoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-01-01T17:00:00.000Z",
+        "impressions_total": 61,
+        "impressions_map": {
+          "de": 0,
+          "be": 1,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 56,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 1,
+          "es": 0,
+          "at": 1,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 1,
+          "tr": 1
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Sephora",
+        "brand_name": "Sephora",
+        "profile_name": "sephora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQlN4WFNpSXhaeXZaWDJqeDIxVjhlP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {},
+          "vertical": "PLACES"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "02129c25-127c-4192-901d-e399bbaf5c9a",
+        "name": "PSP_EVG_SNAP_Static_French_Omni|Flexible-Payments-Q2|V2-FRE|NA_Local-Snap-Ad_20250415_F0006L9V",
+        "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
+        "status": "PAUSED",
+        "creative_type": "AD_TO_PLACE",
+        "ad_type": "AD_TO_PLACE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Versements flexibles",
+        "call_to_action": "SEE PLACE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NFsN6QsuGkI3Ne5k9fhuD.67?mo=GukBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIj6w7IAFKDgoJZC4yMycuLTwoEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIjLw3IAFKDgoJXiojKyQkISsiEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjP0y0gAUoOCglJIiAjHB0eJhsQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjn-zAgAUoOCglMJR8jHCMfKBwQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjZlSggAUoOCglEHhgdGRkXHBYQ9ANoAiIGCgJIAhIAkAOmiwE%3D&uc=15",
+        "start_date": "2025-01-01T17:00:00.000Z",
+        "impressions_total": 9271,
+        "impressions_map": {
+          "de": 35,
+          "be": 199,
+          "fi": 1,
+          "pt": 24,
+          "bg": 13,
+          "dk": 5,
+          "lt": 101,
+          "lu": 26,
+          "hr": 14,
+          "lv": 0,
+          "fr": 8098,
+          "hu": 4,
+          "se": 14,
+          "si": 0,
+          "sk": 2,
+          "ie": 27,
+          "ee": 0,
+          "el": 2,
+          "mt": 0,
+          "it": 249,
+          "es": 107,
+          "at": 136,
+          "cy": 0,
+          "cz": 14,
+          "pl": 53,
+          "ro": 15,
+          "nl": 107,
+          "tr": 25
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Sephora",
+        "brand_name": "Sephora",
+        "profile_name": "sephora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQlN4WFNpSXhaeXZaWDJqeDIxVjhlP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/m0bEzwvu8iS6LNxiMmWVz.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "link": "https://www.sephora.com/happening/stores/sephora-near-me"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {},
+          "vertical": "PLACES"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d76b2302-b25b-429b-ac65-08985f3a0f54",
+        "name": "PSP_EVG_SNAP_Static_English_Multi-Brand|July-Complexion|V1|NA_Local-Snap-Ad_20250724_F0007B29",
         "ad_account_name": "Sephora_SR_CA_Evergreen2024_Social-Snap_NA_USD_LVMH",
         "status": "PAUSED",
         "creative_type": "AD_TO_PLACE",
@@ -2007,42 +2007,42 @@
         "languages": [
           "en"
         ],
-        "headline": "Must-Have Skincare: $35 & Under",
+        "headline": "Shop Complexion Favourites",
         "call_to_action": "SEE PLACE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/i5i0cw0jN1guVIpoWiVlJ.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI5MUJIAFKDgoJJwMEGwQDAw4EEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIoqkLIAFKDgoJOwUFFAYEBg8GEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjosAcgAUoOCgkeBAQOBAQECwQQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjF6gcgAUoOCgkeBAQPBQQEDAUQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjb9wcgAUoOCgkmAwMOBAMDCwMQ9ANoAiIGCgJIAhIAkAPAPg%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/DnhqNIF176U6jdqHKG4UG.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI5LURIAEw4AM41AZAAUoOCgkdDQsGBAsIBgUQ9ANQmHVoAiIGCgJIBBIAogEyCLoKEiUKIwi5-BMgATDQBTiACkACSg4KCSENCgYIDQsGBxD0A1CYdWgCIgYKAkgDEgCiATEIfxIlCiMIgY8OIAEw4AM41AZAAkoOCgkaCgkFBAoHBQUQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwj5gxAgATDgAzjUBkACSg4KCRwMCgUGDQcGBRD0A1CYdWgCIgYKAkgCEgCiATIIxAoSJQojCNeIDiABMOADONYGQAJKDgoJHAsHBAQKBwQEEPQDUJh1aAIiBgoCSAISAKIBMgjSChIlCiMIuJAOIAEw4AM41AZAAkoOCgkaCQkEBQoHBAQQ9ANQmHVoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
         "start_date": "2025-01-01T17:00:00.000Z",
-        "impressions_total": 331,
+        "impressions_total": 89,
         "impressions_map": {
-          "de": 14,
-          "be": 16,
-          "fi": 2,
-          "pt": 10,
-          "bg": 2,
-          "dk": 1,
-          "lt": 6,
-          "lu": 2,
-          "hr": 1,
+          "de": 1,
+          "be": 12,
+          "fi": 0,
+          "pt": 1,
+          "bg": 1,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
           "lv": 0,
-          "fr": 66,
-          "hu": 1,
-          "se": 5,
+          "fr": 13,
+          "hu": 0,
+          "se": 2,
           "si": 0,
           "sk": 0,
-          "ie": 17,
+          "ie": 2,
           "ee": 0,
-          "el": 16,
+          "el": 0,
           "mt": 0,
-          "it": 39,
-          "es": 54,
-          "at": 12,
+          "it": 5,
+          "es": 1,
+          "at": 1,
           "cy": 0,
-          "cz": 3,
-          "pl": 11,
-          "ro": 1,
-          "nl": 27,
-          "tr": 25
+          "cz": 0,
+          "pl": 12,
+          "ro": 0,
+          "nl": 5,
+          "tr": 33
         },
         "targeting_v2": {
           "regulated_content": false,

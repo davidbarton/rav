@@ -1,30 +1,29 @@
 {
   "brand": "Essence",
   "country": "fr",
-  "fetched_at": "2026-04-09T19:20:28.667Z",
+  "fetched_at": "2026-04-10T07:39:11.818Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "835517c5-1149-424c-9fbf-8f4fe46a48e7",
-        "name": "(OPID-4455577)_Pixel-4-CB7_BR_ESS01_EMEA_FR_FR_Snapchat_Social_Snapchat_Hyb_HYB_None_SnapAd_1x1_No-fixed-size_H2-2025_NonRMKT_AV_na_Video_Brand_Paris-With-Veo3-Piglets-None-V1-EMEA-6s-mp4-9:16_NA_Video-Views_Broad_Snap-AV_Imp",
-        "ad_account_name": "Google | EMEA | USD | Pixel | Self Serve",
+        "id": "78629b2a-ce51-454f-aea4-447414db7782",
+        "name": "17/02/26 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
         "ad_render_type": "STATIC",
         "languages": [
           "fr"
         ],
-        "headline": "Nouveau Google Pixel 10",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nykjuC4XPeIWrrjXZipcL.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIlskMIAEw4AM41AZAAUoOCgksBhMMBQYkEQoQ9ANQ8C5oAiIGCgJIAhIAogEyCLoKEiUKIwjF0QsgATDQBTiACkACSg4KCSgFFQoHBhgPCxD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMI3ZcKIAEw4AM41AZAAkoOCgkfBRYKBgcWEAoQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwia-wogATDgAzjUBkACSg4KCSEGFwsGCRgRCxD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCObmCCABMOADONYGQAJKDgoJHwQOCAQFGwoIEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMI-ZIJIAEw4AM41AZAAkoOCgkfBA8JBQUZDAkQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-08-25T16:00:00.000Z",
-        "impressions_total": 932354,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RGlL5CYqS7bo8sYxSOfpZ.380.IRZXSOY?mo=Gj0aCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2026-02-17T23:00:00.000Z",
+        "impressions_total": 9526,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -36,7 +35,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 932354,
+          "fr": 9526,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -59,37 +58,22 @@
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "29",
-              "max_age": "44",
+              "min_age": "18",
               "age_groups": [],
               "languages": [],
-              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
+          "devices": []
         },
-        "paying_advertiser_name": "Essence Digital Limited",
-        "brand_name": "Google Pixel",
-        "profile_name": "Google",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTFBCTnY0WkU0eUpublRwa251eWRDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://store.google.com/?hl=fr"
+        "paying_advertiser_name": "Essence D’or",
+        "profile_name": "Essence D’or",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvelVJdnJHdktNVkJvT3paRDlxZVhyP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/essence.dor",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvelVJdnJHdktNVkJvT3paRDlxZVhyP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "playable_media_properties": {}
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -99,8 +83,180 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "51f86fe8-7d25-40a3-b878-99d193667178",
-        "name": "(OPID-4451770)_Pixel-4-CB7_BR_ESS01_EMEA_FR_FR_Snapchat_Social_Snapchat_Hyb_HYB_HYB_SnapAd_1x1_No-fixed-size_H2-2025_NonRMKT_AV_na_Video_Brand_PFC-Launch-30s_NA_R/F-Awareness_Brand_Snap-FR_Imp",
+        "id": "c1fee19b-ce07-4443-8585-eedf385b3b85",
+        "name": "Baklava Bliss 2",
+        "ad_account_name": "Paressence",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Baklava Bliss",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6yDOtEUHE7KzyRC78SadK.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-10-07T12:36:19.000Z",
+        "impressions_total": 9474,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 9474,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "22",
+              "max_age": "50",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Paressence",
+        "brand_name": "Ideo Parfumeurs",
+        "profile_name": "Ideo Parfumeurs",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvT3JkeHBPZDZJVGlNU3FWMTQ5NDdoP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://www.ideoparfumeurs.com/fr/collections/body-perfumes/products/baklava-bliss-eau-de-parfum"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c11b4ad8-be82-4c65-a77e-e14f648bfdc5",
+        "name": "fr_wav_airwaves-p8_fr_snap_sna_bid-adr_interest_18-34_groupchat-b_v1_video_9x16_6s_snap_shop-now_amazon_#205616 (OPID-4416744)",
+        "ad_account_name": "FR_ESS_MARS_MW_AIRWAVES_EUR",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Prêt pour une vague de fraîcheur ?",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TBgCDHr52oCm2Fxignj8J.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI-YkaIAEw4AM41AZAAUoOCgkzGBgpPS0nNTkQ9ANQ8C5oAiIGCgJIBBIAogEyCLoKEiUKIwjNrBggATDQBTiACkACSg4KCUETFSA6IysrNhD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMIv6APIAEw4AM41AZAAkoOCgkhDw4XIhgYHSIQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwiQjBAgATDgAzjUBkACSg4KCSESDRklGRogIhD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCImmECABMOADONYGQAJKDgoJKw0PFiYYHRslEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMIssUQIAEw4AM41AZAAkoOCgksDhAWJxkfGiMQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-08-04T13:00:29.000Z",
+        "impressions_total": 245053,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 245053,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Essence Digital Limited",
+        "brand_name": "Airwaves",
+        "profile_name": "Airwaves",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaDYwSmMzdVl2V1A4THdkVlgxR3RGP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.amazon.fr/stores/page/966BBBC8-DEC6-4B81-BB04-0FB9C3552E9D/?_encoding=UTF8&store_ref=SB_A05507952935I1TCZ3D6J-A05081842MSZ34O4K8LAJ&pd_rd_plhdr=t&aaxitk=7af30442a28eee1974b39152a50afcd6&hsa_cr_id=0&lp_asins=B014TB3R8C%2CB00XDBDSH0%2CB017RM1C78&lp_query=freedent&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_lsi4d_cta&pd_rd_w=d4C65&content-id=amzn1.sym.0e3f1520-1703-4b02-aca5-e91f8ebd6d0a%3Aamzn1.sym.0e3f1520-1703-4b02-aca5-e91f8ebd6d0a&pf_rd_p=0e3f1520-1703-4b02-aca5-e91f8ebd6d0a&pf_rd_r=2TTNX25MHE9HMVV6V0ZY&pd_rd_wg=4IgNK&pd_rd_r=acac1895-59e5-4aa4-8072-b73251adcf3a&utm_source=snapchat&utm_medium=paid_social&utm_campaign=fr_wav_p8-airwaves-snapads_mw_eur_gum_brand_social_views_bid-adr_0825_205616&utm_id=%23205616&utm_term=french&utm_content=groupchat-b"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ea7129a0-a87f-44a0-b6ff-be59d14db421",
+        "name": "(OPID-4451762)_Pixel-4-CB7_BR_ESS01_EMEA_FR_FR_Snapchat_Social_Snapchat_Hyb_HYB_HYB_SnapAd_1x1_No-fixed-size_H2-2025_NonRMKT_AV_na_Video_Brand_PFC-Launch-10s_NA_R/F-Awareness_Brand_Snap-FR_Imp",
         "ad_account_name": "Google | EMEA | USD | Pixel | Self Serve",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -113,9 +269,9 @@
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nqDoIfYDTV7gHtGCKbJ1w.67?mo=GsUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLghDEiYKJAibm24gATDgAzjUBkABSg4KCWo3LjAuLSdOKBD0A1DE6gFoAiICEgCiAS8IugoSJgokCJvrVyABMNAFOIAKQAJKDgoJXyQnIywjGUYhEPQDUMTqAWgCIgISAKIBLgh_EiYKJAiF1kUgATDgAzjUBkACSg4KCVMiIiIhIhs1GhD0A1DE6gFoAiICEgCiAS8IkgoSJgokCO_FSSABMOADONQGQAJKDgoJViQjJCMgHTYbEPQDUMTqAWgCIgISAKIBLwjEChImCiQIw7E9IAEw4AM41gZAAkoOCglJGBoYHhkRMRYQ9ANQxOoBaAIiAhIAogEvCNIKEiYKJAiU2j4gATDgAzjUBkACSg4KCUwaHRggGRMyFxD0A1DE6gFoAiICEgCQA8TqAQ%3D%3D&uc=15",
-        "start_date": "2025-08-26T20:00:33.000Z",
-        "impressions_total": 1809542,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KVJ0XaKe89S7mleX37Fro.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIu7sfIAEw4AM41AZAAUoOCglILyIrLCAYGhwQ9ANQmk5oAiIGCgJIAxIAogEyCLoKEiUKIwjJthwgATDQBTiACkACSg4KCVcgJx8kGxQXFxD0A1CaTmgCIgYKAkgDEgCiATEIfxIlCiMI3JEVIAEw4AM41AZAAkoOCgk3IhgeHhIPEBAQ9ANQmk5oAiIGCgJIAhIAogEyCJIKEiUKIwipzhYgATDgAzjUBkACSg4KCTgkGiAgFREQEhD0A1CaTmgCIgYKAkgCEgCiATIIxAoSJQojCIqNFCABMOADONYGQAJKDgoJSBgWFhoSDRAPEPQDUJpOaAIiBgoCSAISAKIBMgjSChIlCiMIg8kTIAEw4AM41AZAAkoOCgk3FxgWGxIOEBAQ9ANQmk5oAiIGCgJIAhIAkAOaTg%3D%3D&uc=15",
+        "start_date": "2025-09-04T09:00:17.000Z",
+        "impressions_total": 309329,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -127,7 +283,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 1809542,
+          "fr": 309329,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -192,501 +348,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "82c8b284-cab3-42b7-811a-2e22534672db",
-        "name": "(OPID-4455581)_Pixel-4-CB7_BR_ESS01_EMEA_FR_FR_Snapchat_Social_Snapchat_Hyb_HYB_None_SnapAd_1x1_No-fixed-size_H2-2025_NonRMKT_AV_na_Video_Brand_Paris-Au-revoir-None-V1-EMEA-6s-mp4-9:16_NA_Traffic_Broad_Snap-AV_Imp",
-        "ad_account_name": "Google | EMEA | USD | Pixel | Self Serve",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Nouveau Google Pixel 10",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tRcYljQp5t1KgoAQNab04.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI3tIPIAEw4AM41AZAAUoOCgkjHjQeDAgMJQ0Q9ANQ8C5oAiIGCgJIBBIAogEyCLoKEiUKIwitmg0gATDQBTiACkACSg4KCSAVIBkPCw8VDBD0A1DwLmgCIgYKAkgCEgCiATEIfxIlCiMIssQMIAEw4AM41AZAAkoOCgkjFSkSCwkTEgkQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwiM9wwgATDgAzjUBkACSg4KCSMVKBMLCBQXChD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCIKYCiABMOADONYGQAJKDgoJGRIcFgoHCxEIEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMIkYULIAEw4AM41AZAAkoOCgkbFB4ZCwcMEgkQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-08-25T16:00:48.000Z",
-        "impressions_total": 344668,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 344668,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "29",
-              "max_age": "44",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Essence Digital Limited",
-        "brand_name": "Google Pixel",
-        "profile_name": "Google",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTFBCTnY0WkU0eUpublRwa251eWRDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://store.google.com/?hl=fr"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f9201c6c-cd27-44e9-a3f4-e31ec0b69ff2",
-        "name": "fr_mms_more-fun_fr_snap_sna_bid-adr_interest_18-44_stj-baking-c_v1_video_9x16_6s_think_shop-now_mars_#202066 (OPID-4396000)",
-        "ad_account_name": "FR_ESS_MARS_MW_M&Ms_EUR",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "M&M'S, Ensemble c'est plus fun !",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/u3ghUHoxLnH1wfRXDFXLl.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI-LsQIAEw4AM41AZAAUoOCgk1CxcrGg4TMwgQ9ANQ8C5oAiIGCgJIAxIAogEyCLoKEiUKIwjTvBAgATDQBTiACkACSg4KCTcKFC4XDRMwChD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMIo7cMIAEw4AM41AZAAkoOCgkkCRAXFQoPLgcQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwjigQ0gATDgAzjUBkACSg4KCSUJERsVDA4tCBD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCPmYCyABMOADONYGQAJKDgoJKQYNHg8IDSEHEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMI0oUMIAEw4AM41AZAAkoOCgksBw4gEAkOIgkQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-06-30T13:00:24.000Z",
-        "impressions_total": 1307450,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1307450,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Essence Digital Limited",
-        "brand_name": "N/A",
-        "profile_name": "M&M'S",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTHp3S0dydVlTbVBrdkU4Y011aVBjP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.mms.com/fr-fr?utm_source=snapchat&utm_medium=paid_social&utm_campaign=brand-core-fr-newcomms-2025p6"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "e241599d-6eea-4ab3-88fb-f971a6117937",
-        "name": "fr_mms_more-fun_fr_snap_sna_bid-adr_interest_18-44_peanut-a_v1_video_9x16_6s_snap-ads_shop-now_mars_202066 (OPID-4385923)",
-        "ad_account_name": "FR_ESS_MARS_MW_M&Ms_EUR",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "M&M'S Peanut",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Bp2bKkTMcD3ijU0nJW4Oo.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIxtUMIAEw4AM41AZAAUoOCgkpFRAOEBELDA8Q9ANQ-i5oAiIGCgJIAhIAogEyCLoKEiUKIwjP7AwgATDQBTiACkACSg4KCTEUEhEODQ8MDxD0A1D6LmgCIgYKAkgDEgCiATEIfxIlCiMIzZ0KIAEw4AM41AZAAkoOCgkkEg4NCw0ICgwQ9ANQ-i5oAiIGCgJIAhIAogEyCJIKEiUKIwi5_gogATDgAzjUBkACSg4KCSQSDw4NDgkLDRD0A1D6LmgCIgYKAkgCEgCiATIIxAoSJQojCJ6fCSABMOADONYGQAJKDgoJIhAMCQoJCAgMEPQDUPouaAIiBgoCSAISAKIBMgjSChIlCiMI75IJIAEw4AM41AZAAkoOCgkgDQwKCgoICQsQ9ANQ-i5oAiIGCgJIAhIAkAP6Lg%3D%3D&uc=15",
-        "start_date": "2025-06-19T11:00:49.000Z",
-        "impressions_total": 5886067,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 5886067,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Essence Digital Limited",
-        "profile_name": "M&M'S",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTHp3S0dydVlTbVBrdkU4Y011aVBjP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.mms.com/fr-fr?utm_source=snapchat&utm_medium=social&utm_campaign=more-fun-together&utm_term=p6&utm_content=peanut"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "6dda549c-6f1f-4248-99f9-356e6759d972",
-        "name": "(OPID-4455570)_Pixel-4-CB7_BR_ESS01_EMEA_FR_FR_Snapchat_Social_Snapchat_Hyb_HYB_None_SnapAd_1x1_No-fixed-size_H2-2025_NonRMKT_AV_na_Video_Brand_Paris-Beauty-Phone-shot-None-V1-EMEA-6s-mp4-9:16_NA_Awareness_Broad_Snap-AV_Imp",
-        "ad_account_name": "Google | EMEA | USD | Pixel | Self Serve",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Nouveau Google Pixel 10",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/yeLJKPwBUC5DCb0qIWgpP.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwjY5AwgATDgAzjUBkABSg4KCSoUDhgeFhoJBBD0A1DwLmgCIgISAKIBLgi6ChIlCiMIvYoMIAEw0AU4gApAAkoOCgkvFBEQGg4VCgUQ9ANQ8C5oAiICEgCiAS0IfxIlCiMIkMYJIAEw4AM41AZAAkoOCgkkDwoTFQwQBwQQ9ANQ8C5oAiICEgCiAS4IkgoSJQojCIn3CSABMOADONQGQAJKDgoJJRAKExcODwcEEPQDUPAuaAIiAhIAogEuCMQKEiUKIwjaxwcgATDgAzjWBkACSg4KCRwKCQsSCg8GAxD0A1DwLmgCIgISAKIBLgjSChIlCiMItZwIIAEw4AM41AZAAkoOCgkeCwsNFQoOBwQQ9ANQ8C5oAiICEgCQA_Au&uc=15",
-        "start_date": "2025-08-25T16:00:40.000Z",
-        "impressions_total": 1039140,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1039140,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "29",
-              "max_age": "44",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Essence Digital Limited",
-        "brand_name": "Google Pixel",
-        "profile_name": "Google",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTFBCTnY0WkU0eUpublRwa251eWRDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://store.google.com/?hl=fr"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "820c19f2-5c95-4368-802f-1d6f2b2bfee3",
-        "name": "12/12/25 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "call_to_action": "VIEW PROFILE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sN9QYAHsAiwJAT5CQNUNu.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-        "start_date": "2025-12-26T00:55:10.000Z",
-        "impressions_total": 3247,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 3247,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Essence de luxe ",
-        "profile_name": "Essence de luxe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ3Z2Z1FjY1pOd3ZQYU1wZW1zS2dPP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/edl.parfumerie",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ3Z2Z1FjY1pOd3ZQYU1wZW1zS2dPP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "0f6926a7-4847-41a2-bd08-ab6df6fb461a",
-        "name": "Dark_MG2_crt.Video_crn.Pre Release Time_dur.20s_cta.Watch Trailer_cou.FR_null_des.Trailer_grp.",
-        "ad_account_name": "UPI AD ACCOUNT (M3GAN)",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "RÉSERVEZ VOS PLACES",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rmhENr3vrzjSJrK0znTQy.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIz7diIAEw4AM41AZAAUoOCglgKgYFFxcMDwwQ9ANQ4KgBaAIiBgoCSAISAKIBMwi6ChImCiQIj8BEIAEw0AU4gApAAkoOCglXIAYFDRAJCwkQ9ANQ4KgBaAIiBgoCSAMSAKIBMgh_EiYKJAikhzYgATDgAzjUBkACSg4KCUQaBQUKDwgKBxD0A1DgqAFoAiIGCgJIAhIAogEzCJIKEiYKJAiX4zkgATDgAzjUBkACSg4KCUIYBQURDwoKCBD0A1DgqAFoAiIGCgJIAhIAogEzCMQKEiYKJAi8ky4gATDgAzjWBkACSg4KCUIWBAQICgcHBhD0A1DgqAFoAiIGCgJIAhIAogEzCNIKEiYKJAjQoS8gATDgAzjUBkACSg4KCUUaAwMJCwcIBhD0A1DgqAFoAiIGCgJIAhIAkAPgqAE%3D&uc=15",
-        "start_date": "2025-06-16T07:01:47.000Z",
-        "impressions_total": 2366283,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 2366283,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Essence Global (Universal Pictures)",
-        "brand_name": "M3GAN 2.0",
-        "profile_name": "Universal Pictures",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ1Z1bDk2VEpkcXdzS3FscDlkNlk0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://M3gan-lefilm.com"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "e797b2f4-3ddc-4662-98ea-ef0873b3eb7a",
-        "name": "fr_fre_p6-7_fr_snap_sna_bid-adr_interest_18-44_travel-b_v1_video_9x16_6s_traffic_learn-more_amazon_198321 (OPID-4387465)",
+        "id": "437c7e9c-b75f-40c3-b542-3947b0d166ec",
+        "name": "fr_fre_p6-7_fr_snap_sna_bid-adr_interest_18-44_entertainment-d_v1_video_9x16_6s_traffic_learn-more_amazon_198321 (OPID-4387463)",
         "ad_account_name": "FR_ESS_MARS_MW_FREEDENT_EUR",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -695,13 +358,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "Profite du goût à grande vitesse",
+        "headline": "Monte le goût à fond",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/iXQpknVisdw0LVB82p80g.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI788hIAEw4AM41AZAAUoOCglXLxUjHyEaImsQ9ANQ8C5oAiIGCgJIAxIAogEyCLoKEiUKIwjKiBsgATDQBTiACkACSg4KCVgqERweGQ8jTBD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMIxIoXIAEw4AM41AZAAkoOCgk-Gg0aExkOHE8Q9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwjOuhggATDgAzjUBkACSg4KCUAdDRsWGxAcTRD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCNLwEiABMOADONYGQAJKDgoJPhwLExYTChgxEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMI3M0VIAEw4AM41AZAAkoOCglCIA8WGRcNFjMQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bTI5G2gfYikhzpkO6P3WU.67?mo=GtYCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIhrknIAEw4AM41AZAAUoPCgqSAT44FjUaHRNEEPQDUPAuaAIiBgoCSAISAKIBMwi6ChImCiQI-8EfIAEw0AU4gApAAkoPCgqNASc4FScXFhQzEPQDUPAuaAIiBgoCSAMSAKIBMQh_EiUKIwj62hkgATDgAzjUBkACSg4KCWEmHg0iERIOMhD0A1DwLmgCIgYKAkgCEgCiATIIkgoSJQojCNn9GiABMOADONQGQAJKDgoJYCogDCQSFBA0EPQDUPAuaAIiBgoCSAISAKIBMgjEChIlCiMI_-0VIAEw4AM41gZAAkoOCglhFyQPHBAQDiYQ9ANQ8C5oAiIGCgJIAhIAogEyCNIKEiUKIwjTwRggATDgAzjUBkACSg4KCWUaJhAfExQOKBD0A1DwLmgCIgYKAkgCEgCQA_Au&uc=15",
         "start_date": "2025-06-19T13:00:18.000Z",
-        "impressions_total": 585913,
+        "impressions_total": 182637,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -713,7 +376,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 585913,
+          "fr": 182637,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -761,9 +424,9 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "09506cb8-2546-4a64-8449-d2f582a8c404",
-        "name": "fr_twx_timto-p9_fr_snap_sna_bid-adr_interest_18-34_eba-travel-a_v1_video_9x16_10s_snapchat_learn-more_mars_#206944 (OPID-4439498)",
-        "ad_account_name": "FR_ESS_MARS_MW_TWIX_EUR",
+        "id": "b2598508-30fb-48ff-baca-fe5a83dea83f",
+        "name": "(OPID-4455567)_Pixel-4-CB7_BR_ESS01_EMEA_FR_FR_Snapchat_Social_Snapchat_Hyb_HYB_None_SnapAd_1x1_No-fixed-size_H2-2025_NonRMKT_AV_na_Video_Brand_Paris-With-Veo3-Piglets-None-V1-EMEA-6s-mp4-9:16_NA_R/F-Awareness_Broad_Snap-AV_Imp",
+        "ad_account_name": "Google | EMEA | USD | Pixel | Self Serve",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
@@ -771,13 +434,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "Tentez de gagner des vacances !",
+        "headline": "Nouveau Google Pixel 10",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4rw4wI8QQnlBJrw6er8BM.67?mo=GtYCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI-vZCIAEw4AM41AZAAUoPCgqaATwuLVAsUCcmEPQDUJBOaAIiBgoCSAMSAKIBMwi6ChImCiQIy6A2IAEw0AU4gApAAkoPCgqIASskHVgfQCgXEPQDUJBOaAIiBgoCSAISAKIBMQh_EiUKIwi32SkgATDgAzjUBkACSg4KCW4iIhU2HDQcFhD0A1CQTmgCIgYKAkgCEgCiATIIkgoSJQojCIKPKyABMOADONQGQAJKDgoJbCsbGjkdMyMXEPQDUJBOaAIiBgoCSAISAKIBMgjEChIlCiMI3YIhIAEw4AM41gZAAkoOCglXGhcRNhIoGg8Q9ANQkE5oAiIGCgJIAhIAogEyCNIKEiUKIwiPiiMgATDgAzjUBkACSg4KCVseGRI4FCkbEBD0A1CQTmgCIgYKAkgCEgCQA5BO&uc=15",
-        "start_date": "2025-08-18T07:00:23.000Z",
-        "impressions_total": 11418626,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3l6Jw6eL8qcwjhAVZBuN2.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIlskMIAEw4AM41AZAAUoOCgksBhMMBQYkEQoQ9ANQ8C5oAiIGCgJIAhIAogEyCLoKEiUKIwjF0QsgATDQBTiACkACSg4KCSgFFQoHBhgPCxD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMI3ZcKIAEw4AM41AZAAkoOCgkfBRYKBgcWEAoQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwia-wogATDgAzjUBkACSg4KCSEGFwsGCRgRCxD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCObmCCABMOADONYGQAJKDgoJHwQOCAQFGwoIEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMI-ZIJIAEw4AM41AZAAkoOCgkfBA8JBQUZDAkQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-09-04T09:00:17.000Z",
+        "impressions_total": 1773996,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -789,7 +452,100 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 11418626,
+          "fr": 1773996,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "29",
+              "max_age": "44",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Essence Digital Limited",
+        "brand_name": "Google Pixel",
+        "profile_name": "Google",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTFBCTnY0WkU0eUpublRwa251eWRDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://store.google.com/?hl=fr"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "5c8979e2-a513-43a7-886f-ce9d0f3eac09",
+        "name": "fr_wav_airwaves-p8_fr_snap_sna_bid-adr_interest_18-34_groupchat-c_v1_video_9x16_6s_snap_shop-now_amazon_#205616 (OPID-4416745)",
+        "ad_account_name": "FR_ESS_MARS_MW_AIRWAVES_EUR",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Prêt pour une vague de fraîcheur ?",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JVaRLjnoMAVKCahCoWivg.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwiKjxogATDgAzjUBkABSg4KCTMYFyk9Lic2OBD0A1DwLmgCIgISAKIBLgi6ChIlCiMI2akYIAEw0AU4gApAAkoOCglAExYgOSMrKzcQ9ANQ8C5oAiICEgCiAS0IfxIlCiMI-qkPIAEw4AM41AZAAkoOCgkhDw8WIhkYHSIQ9ANQ8C5oAiICEgCiAS4IkgoSJQojCIGYECABMOADONQGQAJKDgoJIhEPGCQaGyAiEPQDUPAuaAIiAhIAogEuCMQKEiUKIwibnxAgATDgAzjWBkACSg4KCSsODhYoGB0aIxD0A1DwLmgCIgISAKIBLgjSChIlCiMIr9AQIAEw4AM41AZAAkoOCgksDg8XJxkfGiUQ9ANQ8C5oAiICEgCQA_Au&uc=15",
+        "start_date": "2025-08-04T13:00:29.000Z",
+        "impressions_total": 4485804,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 4485804,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -825,11 +581,249 @@
           "devices": []
         },
         "paying_advertiser_name": "Essence Digital Limited",
-        "brand_name": "Twix",
-        "profile_name": "Twix",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZFExVGdYM0xvT1Z2dWg2RE5rZDRrP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "brand_name": "Airwaves",
+        "profile_name": "Airwaves",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaDYwSmMzdVl2V1A4THdkVlgxR3RGP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
         "web_view_properties": {
-          "url": "https://www.twix.com/win-two/fr-fr?utm_source=paid+social&utm_medium=snapchat&utm_campaign=fr_twx_timto-p9_mw_eur_cho_brand_social_awareness_bid-adr_0825_206944&utm_id=206944&utm_content=travel-a-10s-9x16"
+          "url": "https://www.amazon.fr/stores/page/966BBBC8-DEC6-4B81-BB04-0FB9C3552E9D/?_encoding=UTF8&store_ref=SB_A05507952935I1TCZ3D6J-A05081842MSZ34O4K8LAJ&pd_rd_plhdr=t&aaxitk=7af30442a28eee1974b39152a50afcd6&hsa_cr_id=0&lp_asins=B014TB3R8C%2CB00XDBDSH0%2CB017RM1C78&lp_query=freedent&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_lsi4d_cta&pd_rd_w=d4C65&content-id=amzn1.sym.0e3f1520-1703-4b02-aca5-e91f8ebd6d0a%3Aamzn1.sym.0e3f1520-1703-4b02-aca5-e91f8ebd6d0a&pf_rd_p=0e3f1520-1703-4b02-aca5-e91f8ebd6d0a&pf_rd_r=2TTNX25MHE9HMVV6V0ZY&pd_rd_wg=4IgNK&pd_rd_r=acac1895-59e5-4aa4-8072-b73251adcf3a&utm_source=snapchat&utm_medium=paid_social&utm_campaign=fr_wav_p8-airwaves-snapads_mw_eur_gum_brand_social_views_bid-adr_0825_205616&utm_id=%23205616&utm_term=french&utm_content=groupchat-c"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "7f5b43f1-a955-445d-994d-cbfbeada7d47",
+        "name": "27/08/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vqfpiGFOQxSAQV2ptquYl.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2025-08-28T22:00:00.000Z",
+        "impressions_total": 7450,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 7450,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Mystique Essences",
+        "profile_name": "Mystique Essences",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWGVJcTJ3RXRsMXlQM205ZG9PNVpLP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/mystik_essences",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWGVJcTJ3RXRsMXlQM205ZG9PNVpLP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c1cbbc77-c542-4e23-8dfb-430f8539d52c",
+        "name": "(OPID-4451769)_Pixel-4-CB7_BR_ESS01_EMEA_FR_FR_Snapchat_Social_Snapchat_Hyb_HYB_HYB_SnapAd_1x1_No-fixed-size_H2-2025_NonRMKT_AV_na_Video_Brand_PFC-Launch-30s_NA_Auction-Video-Views_Brand_Snap-FR_Imp",
+        "ad_account_name": "Google | EMEA | USD | Pixel | Self Serve",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Google Pixel 10",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nqDoIfYDTV7gHtGCKbJ1w.67?mo=GsUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLghDEiYKJAibm24gATDgAzjUBkABSg4KCWo3LjAuLSdOKBD0A1DE6gFoAiICEgCiAS8IugoSJgokCJvrVyABMNAFOIAKQAJKDgoJXyQnIywjGUYhEPQDUMTqAWgCIgISAKIBLgh_EiYKJAiF1kUgATDgAzjUBkACSg4KCVMiIiIhIhs1GhD0A1DE6gFoAiICEgCiAS8IkgoSJgokCO_FSSABMOADONQGQAJKDgoJViQjJCMgHTYbEPQDUMTqAWgCIgISAKIBLwjEChImCiQIw7E9IAEw4AM41gZAAkoOCglJGBoYHhkRMRYQ9ANQxOoBaAIiAhIAogEvCNIKEiYKJAiU2j4gATDgAzjUBkACSg4KCUwaHRggGRMyFxD0A1DE6gFoAiICEgCQA8TqAQ%3D%3D&uc=15",
+        "start_date": "2025-08-25T16:00:00.000Z",
+        "impressions_total": 829352,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 829352,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "29",
+              "max_age": "44",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Essence Digital Limited",
+        "brand_name": "Google Pixel",
+        "profile_name": "Google",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTFBCTnY0WkU0eUpublRwa251eWRDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://store.google.com/?hl=fr"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "82ccb1e5-3c79-4de8-a3c3-7733506d5716",
+        "name": "Video_C4_9-16_6s_FR_FV",
+        "ad_account_name": " 3M_PostIt_EssenceMediacom",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Exprime ton côté unique",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/d52jpNU6Krv1kO6SPyDjp.67?mo=Gp8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMItKEZIAEw4AM41AZAAUoOCgkzFSUcExwiG0kQ9ANQ8C5oAiIGCgJIAxIAogEyCLoKEiUKIwiamxggATDQBTiACkACSg4KCUkQIBoRFh8cOxD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMIl_AUIAEw4AM41AZAAkoOCgklEBkcDBgbE00Q9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwjPhBggATDgAzjUBkACSg4KCSQSIBsSHB4XUhD0A1DwLmgCIgYKAkgCEgCiATII0goSJQojCM_oEiABMOADONQGQAJKDgoJNgsYEQ0QFBY3EPQDUPAuaAIiBgoCSAISAJAD8C4%3D&uc=15",
+        "start_date": "2025-09-09T23:01:50.000Z",
+        "impressions_total": 720729,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 720729,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "24",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "EssenceMediacom North",
+        "brand_name": "Post-it®",
+        "web_view_properties": {
+          "url": "https://www.lyreco.com/webshop/FRFR/post-it-3m-landingpage-19966.html"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

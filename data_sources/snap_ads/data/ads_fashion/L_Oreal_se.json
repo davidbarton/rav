@@ -1,30 +1,29 @@
 {
   "brand": "L'Oreal",
   "country": "se",
-  "fetched_at": "2026-04-09T22:56:55.846Z",
+  "fetched_at": "2026-04-10T07:52:06.309Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "db32c8e0-3332-4961-9207-2a9717f3796e",
-        "name": "post3_dmiedit_mix-collectionad_x_shop-now_e-apotea_x_na_multi",
+        "id": "57883d11-9be3-4b0b-bd2a-f1562653aa82",
+        "name": "post3_dmiedit_mix-storyad_x_shop-now_e-lyko_x_na_other-mm-unt",
         "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
         "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [
-          "sv"
+          "no",
+          "en"
         ],
-        "headline": "Upplev en magisk duo 💖 Köp nu!",
+        "headline": "Ge bort ett gåvoset till henne",
         "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vl65ACUHfnsc1t7Y7Ro06.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIiuQIIAEw4AM41AZAAUoOCglDBAQFBRIRBAMQ9ANQ8C5oAiIGCgJIAhIAogEyCLoKEiUKIwiU6gogATDQBTiACkACSg4KCVgGBgYHDhEHBRD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMI0twGIAEw4AM41AZAAkoOCgkpBAQFBQwOBAMQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwjG-AYgATDgAzjUBkACSg4KCSkEBAYGCw4FBBD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCIbYBiABMOADONYGQAJKDgoJMwQDBAUKDAQDEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMIjOwGIAEw4AM41AZAAkoOCgk1AwQDBgkMBQMQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-09-09T09:00:05.000Z",
-        "impressions_total": 125002,
+        "start_date": "2025-12-08T10:00:28.000Z",
+        "impressions_total": 50944,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -38,7 +37,122 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 125002,
+          "se": 50944,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "L'Oreal",
+        "profile_name": "L’Oreal Paris",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Ge bort ett gåvoset till henne",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Til deg eller noen du er glad i",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/pBppGKLGvRJukqp9HCYYS.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQi04RIgATDgAzjUBkABSg4KCUQTGiIaHBcVERD0A1DwLmgCdffzgkB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQiOyxAgATDQBTiACkACSg4KCUYKIxATGRcPEBD0A1DwLmgCdZQdhkB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQic3w4gATDgAzjUBkACSg4KCSwQERwUDh8MEBD0A1DwLmgCdUYygUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjhzAwgATDgAzjUBkACSg4KCTMKFw4REBMMCxD0A1DwLmgCdUrJgkB9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://lyko.com/sv/deals-fynd/kampanjer/xmas"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Julens skjønnhetsfavoritter",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/kf6PpmljU0cAHe2xr9Byf.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAj68hIgATDgAzjUBkABSg4KCUIQIxQWEBwWExD0A1DwLmgCdZ0_gUAiBgoCSAISAKIBNwi6ChIqCigI3tcQIAEw0AU4gApAAkoOCgk_CyEPEhYXDhEQ9ANQ8C5oAnUh5oVAIgYKAkgDEgCiATwIkgoSLwotCKngDiABMOADONQGQAJKDgoJKQ0QGBAMHA8QEPQDUPAuaAJ1X7J-QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCOyKDSABMOADONQGQAJKDgoJMwoWDA4OFA0MEPQDUPAuaAJ1REWCQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://lyko.com/sv/deals-fynd/kampanjer/xmas"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Julens skjønnhetsfavoritter",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4bc6tbZjsp8plOw3mZZoa.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://lyko.com/sv/deals-fynd/kampanjer/xmas"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "00512256-ead9-474b-a8a9-92f090acd483",
+        "name": "post2_dmiedit_mix-storyad_x_shop-now_e-apotea_x_na_multi",
+        "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "headline": "Upplev en magisk duo 💖 Köp nu!",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-09-09T09:00:05.000Z",
+        "impressions_total": 199200,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 199200,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -73,38 +187,48 @@
         "brand_name": "Bättre tillsammans",
         "profile_name": "L’Oreal Paris",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://www.apotea.se/loreal-paris-maybelline-nyx-garnier-essie?utm_source=snapchat&utm_medium=social_video_paid&utm_content=all_all_cpd_video_cv&utm_campaign=all_all_cpd_better-together-vol-2_none"
-          },
-          "collection_creative_element_attachment": [
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Upplev en magisk duo 💖 Köp nu!",
+          "ad_snaps": [
             {
-              "app_install_properties": {},
-              "web_view_properties": {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Upplev en magisk duo 💖 Köp nu!",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9xufMlBni8Up2xaZ58F6F.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "brand_name": "For the love of beauty",
+              "web_view_preview": {
                 "url": "https://www.apotea.se/loreal-paris-maybelline-nyx-garnier-essie?utm_source=snapchat&utm_medium=social_video_paid&utm_content=all_all_cpd_video_cv&utm_campaign=all_all_cpd_better-together-vol-2_none"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/b714e987-7f10-4257-b64e-e5c25b515e79/f925b932-0633-4b41-a5ce-a0fb1076364f.jpg"
+              }
             },
             {
-              "app_install_properties": {},
-              "web_view_properties": {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Upplev en magisk duo 💖 Köp nu!",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nwGNjhd1sPzDkHrOMo837.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwjY1QggATDgAzjUBkABSg4KCT0EAwUFEhYEAxD0A1DwLmgCIgISAKIBLgi6ChIlCiMIiPwKIAEw0AU4gApAAkoOCglXBQYFCBESBwUQ9ANQ8C5oAiICEgCiAS0IfxIlCiMI6dIGIAEw4AM41AZAAkoOCgkkBAQFBQ0SAwQQ9ANQ8C5oAiICEgCiAS4IkgoSJQojCPblBiABMOADONQGQAJKDgoJJAQEBQYNEQQEEPQDUPAuaAIiAhIAogEuCMQKEiUKIwjl3AYgATDgAzjWBkACSg4KCTEEAwQFCw0FAxD0A1DwLmgCIgISAKIBLgjSChIlCiMIlPwGIAEw4AM41AZAAkoOCgk2AwMEBQsNBAMQ9ANQ8C5oAiICEgCQA_Au&uc=15",
+              "brand_name": "For the love of beauty",
+              "web_view_preview": {
                 "url": "https://www.apotea.se/loreal-paris-maybelline-nyx-garnier-essie?utm_source=snapchat&utm_medium=social_video_paid&utm_content=all_all_cpd_video_cv&utm_campaign=all_all_cpd_better-together-vol-2_none"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/1117ff98-b70c-42e7-868d-5119be8f271f/20d3b8be-0eaf-48f6-844d-8604fe9a1309.jpg"
+              }
             },
             {
-              "app_install_properties": {},
-              "web_view_properties": {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Upplev en magisk duo 💖 Köp nu!",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/5C7E6ONPUM3qouAarwhki.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIgsUIIAEw4AM41AZAAUoOCgk9BAMFBRQSBAMQ9ANQ8C5oAiIGCgJIAxIAogEyCLoKEiUKIwia1wogATDQBTiACkACSg4KCVIGBQYIEhEHBRD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMIosEGIAEw4AM41AZAAkoOCgknBAQEBgwNBAQQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwii1AYgATDgAzjUBkACSg4KCScEBAUGCg8EBBD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCNPRBiABMOADONYGQAJKDgoJMAQDBAUMDAQDEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMIuOIGIAEw4AM41AZAAkoOCgkzAwMEBQsNBAMQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+              "brand_name": "For the love of beauty",
+              "web_view_preview": {
                 "url": "https://www.apotea.se/loreal-paris-maybelline-nyx-garnier-essie?utm_source=snapchat&utm_medium=social_video_paid&utm_content=all_all_cpd_video_cv&utm_campaign=all_all_cpd_better-together-vol-2_none"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/5f405eee-378a-4d39-af69-57eef3a24d92/7801b2a1-5470-4686-85ff-4e7fda730087.jpg"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.apotea.se/loreal-paris-maybelline-nyx-garnier-essie?utm_source=snapchat&utm_medium=social_video_paid&utm_content=all_all_cpd_video_cv&utm_campaign=all_all_cpd_better-together-vol-2_none"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/e24c8901-0310-429f-acc4-b27a297aeb0b/cdf393fc-4aa5-4884-bb21-fa6ed1cbd1e9.jpg"
+              }
             }
           ]
         },
@@ -116,21 +240,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b419f60d-107c-4657-abef-252f23f353d9",
-        "name": "post1_dmiedit_mix-storyad_x_shop-now_e-lyko_x_na_other-mm-unt",
+        "id": "f6503fee-e470-4031-8f62-579a31c99629",
+        "name": "post4_dmiedit_image-snapad_x_shop-now_e-lyko_x_na",
         "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "sv"
         ],
-        "headline": "Upp till 40% på skönhetsprodukter",
-        "call_to_action": "SHOP_NOW",
+        "headline": "Upplev en magisk duo 💖 Köp nu!",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-11-24T10:00:47.000Z",
-        "impressions_total": 77728,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CiYcW2IhvdUWb4SGxJJov.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-04-14T07:00:01.000Z",
+        "impressions_total": 131494,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -144,7 +270,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 77728,
+          "se": 131494,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -167,7 +293,81 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "gender": "MALE",
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "L'Oreal",
+        "brand_name": "For The Love Of Beauty",
+        "profile_name": "L’Oreal Paris",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.vita.no/bedre-sammen?utm_source=snapchat&utm_medium=social_video_paid&utm_content=all_multi_bettertogether_video_cv&utm_campaign=all_multi_bettertogether_bettertogether_convcom&utm_term=storyad"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "61c81a74-509a-4518-8bb9-4c601619c289",
+        "name": "post1_dmiedit_mix-storyad_x_shop-now_e-lyko_x_na_other-mm-unt",
+        "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "headline": "Upp till 40% på skönhetsprodukter",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-11-24T10:00:47.000Z",
+        "impressions_total": 366550,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 366550,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
               "languages": [],
               "advanced_demographics": []
             }
@@ -197,9 +397,9 @@
               "type": "WEB_VIEW",
               "headline": "Upp till 40% på skönhetsprodukter",
               "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
+              "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gipyPsv2Zpts3eZWGbK7j.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjUnQwgATDgAzjUBkABSg4KCTwYGQ4LDAcGERD0A1DwLmgCdVBXXEB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQi_qgsgATDQBTiACkACSg4KCSkXGwsNCwoHDxD0A1DwLmgCdWIlYkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQi9twkgATDgAzjUBkACSg4KCSkSEwkKCwYGDBD0A1DwLmgCdehoUUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiL_wcgATDgAzjUBkACSg4KCSEQEwgJBwYECxD0A1DwLmgCdbq1XUB9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nHWqPYaWfbAoKUPK1NzLF.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
               "brand_name": "L'Oréal",
               "web_view_preview": {
                 "url": "https://lyko.com/sv/deals-fynd/kampanjer/bfloreal?utm_source=Snapchat&utm_medium=Video&utm_campaign=loreal_cpd_BlackFriday"
@@ -209,411 +409,13 @@
               "type": "WEB_VIEW",
               "headline": "Upp till 40% på skönhetsprodukter",
               "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
+              "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nHWqPYaWfbAoKUPK1NzLF.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gipyPsv2Zpts3eZWGbK7j.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjUnQwgATDgAzjUBkABSg4KCTwYGQ4LDAcGERD0A1DwLmgCdVBXXEB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQi_qgsgATDQBTiACkACSg4KCSkXGwsNCwoHDxD0A1DwLmgCdWIlYkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQi9twkgATDgAzjUBkACSg4KCSkSEwkKCwYGDBD0A1DwLmgCdehoUUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiL_wcgATDgAzjUBkACSg4KCSEQEwgJBwYECxD0A1DwLmgCdbq1XUB9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
               "brand_name": "L'Oréal",
               "web_view_preview": {
                 "url": "https://lyko.com/sv/deals-fynd/kampanjer/bfloreal?utm_source=Snapchat&utm_medium=Video&utm_campaign=loreal_cpd_BlackFriday"
               }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "af627871-2f46-4788-ab7c-88f2c2dd7fe7",
-        "name": "post6_dmiedit_video-commercial_7s-15s_more_non-d2c_x_na_multi",
-        "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "headline": "Upptäck magin med L’Oréal Paris",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/u773Xyf9KLFMjNnmvDU2y.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQi5zFggATDgAzjUBkABSg4KCTESDR8TGw0JCRD0A1CYdWgCdXgkTkB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQjMiUMgATDQBTiACkACSg4KCTQPDhgRFwwIBxD0A1CYdWgCdR_YXUB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQinhjsgATDgAzjUBkACSg4KCSIKCBIMEAkGBRD0A1CYdWgCdRB7R0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQj_lisgATDgAzjUBkACSg4KCSQKCBIMEAgGBBD0A1CYdWgCdRTZVUB9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
-        "start_date": "2025-12-01T10:00:59.000Z",
-        "impressions_total": 114782,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 114782,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "L'Oreal",
-        "profile_name": "L’Oreal Paris",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.lorealparis.se/guide-till-att-hitta-julklappar?utm_source=snapchat&utm_medium=social&utm_campaign=holiday-2025&utm_content=learn-more&utm_term=commercials-post-3"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d76de687-31f2-43e0-8f8a-b3c232d8a388",
-        "name": "post2_dmiedit_mix-collectionad_x_shop-now_e-apotea_x_na_multi",
-        "ad_account_name": "Maybelline_Nordic_Wavemaker_OA_(DKK)",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "headline": "These are real reviews. Really! 🎉",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rAHir3gdFoLUNKWiZHKzo.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIoMcyIAEw4AM41AZAAUoOCgk5GxYZEBkZFR8Q9ANQ0KoBaAIiBgoCSAMSAKIBMwi6ChImCiQI_JI5IAEw0AU4gApAAkoOCglHGSIfGRgfGSAQ9ANQ0KoBaAIiBgoCSAISAKIBMgh_EiYKJAjAyCMgATDgAzjUBkACSg4KCSsQExILEREPGRD0A1DQqgFoAiIGCgJIAhIAogEzCJIKEiYKJAjEnCUgATDgAzjUBkACSg4KCSwSExQKEhIQGxD0A1DQqgFoAiIGCgJIAhIAogEzCMQKEiYKJAi4ziQgATDgAzjWBkACSg4KCTIRFhYPDhMRFRD0A1DQqgFoAiIGCgJIAhIAogEzCNIKEiYKJAj7wiYgATDgAzjUBkACSg4KCTMRFxUQDxQRFhD0A1DQqgFoAiIGCgJIAhIAkAPQqgE%3D&uc=15",
-        "start_date": "2025-08-11T09:00:00.000Z",
-        "impressions_total": 784534,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 784534,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "L'Oreal",
-        "brand_name": "Maybelline New York",
-        "profile_name": "Maybelline New York",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQUpkNnF3WGd1dmNLTDZYRnlwUDVnP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://www.apotea.se/maybelline?utm_source={{site_source_name}}&utm_medium=snap_ads&utm_campaign=MNY_Monobrand_2025"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.apotea.se/maybelline?utm_source={{site_source_name}}&utm_medium=snap_ads&utm_campaign=MNY_Monobrand_2025"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/26f29ceb-266e-45b7-b8de-8c1abafd1810/e2272425-7a4a-4a9f-93c7-083f82d8b434.jpg"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.apotea.se/maybelline?utm_source={{site_source_name}}&utm_medium=snap_ads&utm_campaign=MNY_Monobrand_2025"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/7342aa12-c3b0-45c8-979a-0dfb4a78b797/d3f9e711-f8fb-4c0f-800b-3f09e41d2f82.jpg"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.apotea.se/maybelline?utm_source={{site_source_name}}&utm_medium=snap_ads&utm_campaign=MNY_Monobrand_2025"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/5385793b-ee30-44fb-875c-72a0254a63e9/3b9b8c9e-0566-452a-89ea-617ddc967b16.jpg"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://www.apotea.se/maybelline?utm_source={{site_source_name}}&utm_medium=snap_ads&utm_campaign=MNY_Monobrand_2025"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ccab896d-d96d-4b65-a8ba-ef9434761365/203cfcc8-47a9-4282-ac66-991dac1701fd.jpg"
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "570cce5a-9e51-4a3c-9068-46422ca5aa5f",
-        "name": "post2_dmiedit_mix-collectionad_x_shop-now_e-lyko_x_na_multi",
-        "ad_account_name": "Maybelline_Nordic_Wavemaker_OA_(DKK)",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "headline": "These are real reviews. Really! 🎉",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rAHir3gdFoLUNKWiZHKzo.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIoMcyIAEw4AM41AZAAUoOCgk5GxYZEBkZFR8Q9ANQ0KoBaAIiBgoCSAMSAKIBMwi6ChImCiQI_JI5IAEw0AU4gApAAkoOCglHGSIfGRgfGSAQ9ANQ0KoBaAIiBgoCSAISAKIBMgh_EiYKJAjAyCMgATDgAzjUBkACSg4KCSsQExILEREPGRD0A1DQqgFoAiIGCgJIAhIAogEzCJIKEiYKJAjEnCUgATDgAzjUBkACSg4KCSwSExQKEhIQGxD0A1DQqgFoAiIGCgJIAhIAogEzCMQKEiYKJAi4ziQgATDgAzjWBkACSg4KCTIRFhYPDhMRFRD0A1DQqgFoAiIGCgJIAhIAogEzCNIKEiYKJAj7wiYgATDgAzjUBkACSg4KCTMRFxUQDxQRFhD0A1DQqgFoAiIGCgJIAhIAkAPQqgE%3D&uc=15",
-        "start_date": "2025-08-25T09:00:00.000Z",
-        "impressions_total": 191188,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 191188,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "L'Oreal",
-        "brand_name": "Maybelline New York",
-        "profile_name": "Maybelline New York",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQUpkNnF3WGd1dmNLTDZYRnlwUDVnP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://lyko.com/sv/maybelline-new-york?utm_source={{site_source_name}}&utm_medium=snap_ads_video&utm_campaign=MNY_Monobrand_2025"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://lyko.com/sv/maybelline-new-york?utm_source={{site_source_name}}&utm_medium=snap_ads_video&utm_campaign=MNY_Monobrand_2025"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/26f29ceb-266e-45b7-b8de-8c1abafd1810/e2272425-7a4a-4a9f-93c7-083f82d8b434.jpg"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://lyko.com/sv/maybelline-new-york?utm_source={{site_source_name}}&utm_medium=snap_ads_video&utm_campaign=MNY_Monobrand_2025"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ccab896d-d96d-4b65-a8ba-ef9434761365/203cfcc8-47a9-4282-ac66-991dac1701fd.jpg"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://lyko.com/sv/maybelline-new-york?utm_source={{site_source_name}}&utm_medium=snap_ads_video&utm_campaign=MNY_Monobrand_2025"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/5385793b-ee30-44fb-875c-72a0254a63e9/3b9b8c9e-0566-452a-89ea-617ddc967b16.jpg"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://lyko.com/sv/maybelline-new-york?utm_source={{site_source_name}}&utm_medium=snap_ads_video&utm_campaign=MNY_Monobrand_2025"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/7342aa12-c3b0-45c8-979a-0dfb4a78b797/d3f9e711-f8fb-4c0f-800b-3f09e41d2f82.jpg"
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "b9c1ee0e-0803-4e6f-9f7c-18f43af091b6",
-        "name": "post3_dmiedit_mix-collectionad_x_shop-now_e-lyko_x_na_other-mm-unt",
-        "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sv"
-        ],
-        "headline": "Upp till 40% på skönhetsprodukter",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Ps3udwdVMdsMaWByIYG9G.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQiwkg0gATDgAzjUBkABSg4KCTkfGwsMFggGERD0A1DwLmgCddBQXUB9AACAPyIGCgJIAhIAogE8CLoKEi8KLQiLlwwgATDQBTiACkACSg4KCSkdGwsPDQ0IDxD0A1DwLmgCdaOXYkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjw_gkgATDgAzjUBkACSg4KCSkXEAkKEAYHCxD0A1DwLmgCdd5YUkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQie1gggATDgAzjUBkACSg4KCSEVEggKCggFCxD0A1DwLmgCdddJXUB9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-11-24T10:00:47.000Z",
-        "impressions_total": 78181,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 78181,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "L'Oreal",
-        "brand_name": "L'Oréal",
-        "profile_name": "L’Oreal Paris",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://lyko.com/sv/deals-fynd/kampanjer/bfloreal?utm_source=Snapchat&utm_medium=Video&utm_campaign=loreal_cpd_BlackFriday"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://lyko.com/sv/deals-fynd/kampanjer/bfloreal?utm_source=Snapchat&utm_medium=Video&utm_campaign=loreal_cpd_BlackFriday"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/3f116bb5-d352-46c1-b377-f008a8254245/f91241a6-67fc-42d7-9b5f-32c525ee7804.jpg"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://lyko.com/sv/deals-fynd/kampanjer/bfloreal?utm_source=Snapchat&utm_medium=Video&utm_campaign=loreal_cpd_BlackFriday"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/6dc10067-408d-49b2-9a3f-0d6ec6190b7b/fcee1203-02ce-439d-8d8c-beff62947600.jpg"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://lyko.com/sv/deals-fynd/kampanjer/bfloreal?utm_source=Snapchat&utm_medium=Video&utm_campaign=loreal_cpd_BlackFriday"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/e991b4f5-f23a-4cc0-af3c-3f5ef075302a/16925119-7182-4d65-853a-c05fb8a3a264.jpg"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://lyko.com/sv/deals-fynd/kampanjer/bfloreal?utm_source=Snapchat&utm_medium=Video&utm_campaign=loreal_cpd_BlackFriday"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/c55f5fff-9a42-453b-9f91-8975c76bf552/5839d3e6-bf9d-4f73-b70c-3292cb781704.jpg"
             }
           ]
         },
@@ -701,8 +503,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "275e8de6-e3d1-48a5-a213-d3219a828aad",
-        "name": "post4_dmiedit_video-commercial_7s-15s_more_non-d2c_x_na_multi",
+        "id": "0dd4f0ad-386c-416b-9662-f8fc7af85a05",
+        "name": "post5_dmiedit_video-commercial_7s-15s_more_non-d2c_x_na_multi",
         "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -715,9 +517,9 @@
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cNpZZxohx2t8jp46gdbIm.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjmumAgATDgAzjUBkABSg4KCTkbIRAeJBgLCRD0A1CYdWgCdfLvUkB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQja3UQgATDQBTiACkACSg4KCTIYGAwYFxcKBxD0A1CYdWgCdaXBWUB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQj6hjwgATDgAzjUBkACSg4KCScQFAsSFREHBhD0A1CYdWgCdVC-SUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjVqiwgATDgAzjUBkACSg4KCSYQEggSERAHBRD0A1CYdWgCdbpeVUB9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/e72nXGOwroiCVrMOQ4azY.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAir-lQgATDgAzjUBkABSg4KCUAjHiAMCQkrFxD0A1CYdWgCdfJoWUAiBgoCSAMSAKIBNwi6ChIqCigIiqJCIAEw0AU4gApAAkoOCgk9IR4gDAcHIx0Q9ANQmHVoAnU-1GJAIgYKAkgDEgCiATwIkgoSLwotCL_NNyABMOADONQGQAJKDgoJLhUSFAgGBhsOEPQDUJh1aAJ1CGVNQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCLiJKiABMOADONQGQAJKDgoJLhcVFggFBBoREPQDUJh1aAJ1xphWQH0AAIA_IgYKAkgCEgCQA5h1&uc=15",
         "start_date": "2025-12-01T10:00:59.000Z",
-        "impressions_total": 203673,
+        "impressions_total": 160379,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -731,7 +533,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 203673,
+          "se": 160379,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -766,7 +568,7 @@
         "profile_name": "L’Oreal Paris",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.lorealparis.se/guide-till-att-hitta-julklappar?utm_source=snapchat&utm_medium=social&utm_campaign=holiday-2025&utm_content=learn-more&utm_term=commercials-post-1"
+          "url": "https://www.lorealparis.se/guide-till-att-hitta-julklappar?utm_source=snapchat&utm_medium=social&utm_campaign=holiday-2025&utm_content=learn-more&utm_term=commercials-post-2"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -776,8 +578,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "7148ed25-79ef-4f85-91b5-d9c12bbbf206",
-        "name": "post3_dmiedit_video-snapad_6s-or-less_more_non-d2c_x_na_multi",
+        "id": "562e15e6-abc9-4b12-a6ab-d9266cae1aa0",
+        "name": "post5_dmiedit_video-commercial_7s-15s_more_non-d2c_x_na_multi",
         "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -790,9 +592,9 @@
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1D46Kiysc3sUpU1vLWOxr.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiW6z0gATDgAzjUBkABSg4KCSkaFCp_XDR9cBD0A1DwLmgCdfJwVUAiBgoCSAQSAKIBNwi6ChIqCigIvZcuIAEw0AU4gApAAkoOCgkoEBEaajkpaVMQ9ANQ8C5oAnWZdWNAIgYKAkgCEgCiATwIkgoSLwotCOacKyABMOADONQGQAJKDgoJHhERHVU3IlRWEPQDUPAuaAJ1QhxLQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCNzvHSABMOADONQGQAJKDgoJIQwMEkooHUgvEPQDUPAuaAJ1ylRXQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/e72nXGOwroiCVrMOQ4azY.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAir-lQgATDgAzjUBkABSg4KCUAjHiAMCQkrFxD0A1CYdWgCdfJoWUAiBgoCSAMSAKIBNwi6ChIqCigIiqJCIAEw0AU4gApAAkoOCgk9IR4gDAcHIx0Q9ANQmHVoAnU-1GJAIgYKAkgDEgCiATwIkgoSLwotCL_NNyABMOADONQGQAJKDgoJLhUSFAgGBhsOEPQDUJh1aAJ1CGVNQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCLiJKiABMOADONQGQAJKDgoJLhcVFggFBBoREPQDUJh1aAJ1xphWQH0AAIA_IgYKAkgCEgCQA5h1&uc=15",
         "start_date": "2025-12-01T10:00:59.000Z",
-        "impressions_total": 1142487,
+        "impressions_total": 174486,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -806,7 +608,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 1142487,
+          "se": 174486,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -841,7 +643,7 @@
         "profile_name": "L’Oreal Paris",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.lorealparis.se/guide-till-att-hitta-julklappar?utm_source=snapchat&utm_medium=social&utm_campaign=holiday-2025&utm_content=learn-more&utm_term=snapads-post-3"
+          "url": "https://www.lorealparis.se/guide-till-att-hitta-julklappar?utm_source=snapchat&utm_medium=social&utm_campaign=holiday-2025&utm_content=learn-more&utm_term=commercials-post-2"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -851,23 +653,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "a40a18f4-ab09-4097-908a-05a5b4ea9d6f",
-        "name": "post2_dmiedit_video-snapad_6s-or-less_shop-now_e-lyko_x_na_other-mm-unt",
+        "id": "9d0d915e-170d-43c9-a428-0661a066b5e8",
+        "name": "alicia_dmiedit__x_shop-now_non-d2c_x_na_oap-vmlp",
         "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [
           "sv"
         ],
-        "headline": "Upp till 40% på skönhetsprodukter",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
+        "headline": "Upptäck magin med L’Oréal Paris",
+        "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OSclHGi2cTh5ACVuQsEUl.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjUnQwgATDgAzjUBkABSg4KCTwYGQ4LDAcGERD0A1DwLmgCdVBXXEAiBgoCSAMSAKIBNwi6ChIqCigIv6oLIAEw0AU4gApAAkoOCgkpFxsLDQsKBw8Q9ANQ8C5oAnViJWJAIgYKAkgCEgCiATwIkgoSLwotCL23CSABMOADONQGQAJKDgoJKRITCQoLBgYMEPQDUPAuaAJ16GhRQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCIv_ByABMOADONQGQAJKDgoJIRATCAkHBgQLEPQDUPAuaAJ1urVdQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
-        "start_date": "2025-11-24T10:00:47.000Z",
-        "impressions_total": 474269,
+        "start_date": "2025-12-17T15:30:21.000Z",
+        "impressions_total": 2893198,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -881,7 +681,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 474269,
+          "se": 2893198,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -906,17 +706,243 @@
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
         "paying_advertiser_name": "L'Oreal",
-        "brand_name": "L'Oréal",
         "profile_name": "L’Oreal Paris",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://lyko.com/sv/deals-fynd/kampanjer/bfloreal?utm_source=Snapchat&utm_medium=Video&utm_campaign=loreal_cpd_BlackFriday"
+        "creator_profile_name": "Alicia Lauterbach",
+        "creator_profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYWdSWFNyck5va3ZtUFZ4cGx5c0V2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "tagged_headline_profile_name": "L’Oreal Paris",
+        "tagged_headline_profile_logo_url": "L’Oreal Paris",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Upptäck magin med L’Oréal Paris",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ibDpnuw5xQUVPV75ziDdO.67?mo=GpgCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwiJ9Z0DIAEw4AM41AZAAUoPCgrIAVNbPSwjGy0eEPQDUIaVBGgCdVieUEAiBgoCSAQSAKIBOgi6ChItCisI6O6vAiABMOADONQGQAJKDwoKtQFILCcbGhEeFxD0A1CGlQRoAnXvhUlAIgYKAkgCEgCiAT8IkgoSMgowCPqs1gIgATDgAzjUBkACSg8KCsMBU10sHhkUIBcQ9ANQhpUEaAJ1RDVDQH0AAIA_IgYKAkgCEgCiAT8I0goSMgowCP6T1gIgATDgAzjUBkACSg8KCrwBTDIqHhwRIBgQ9ANQhpUEaAJ1HB1RQH0AAIA_IgYKAkgCEgCQA4aVBA%3D%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://lyko.com/sv/loreal-paris?utm_source=loreal&utm_medium=cpc&utm_campaign=lorealparis_christmas_2026"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "86fa2a04-d6d3-4976-87e7-43c179cdf6d0",
+        "name": "post8_dmiedit_mix-collectionad_x_shop-now_e-lyko_x_na_other-mm-unt",
+        "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "headline": "Gåvoset för män",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/m5PAnbraNdSZIOyhp5vsb.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAih1RIgATDgAzjUBkABSg4KCUsXEhofFxYZFxD0A1DwLmgCdSH0gUAiBgoCSAQSAKIBNwi6ChIqCigI4IYSIAEw0AU4gApAAkoOCglxDg4WGhAQGQ4Q9ANQ8C5oAnUi6YdAIgYKAkgDEgCiATwIkgoSLwotCM-YDiABMOADONQGQAJKDgoJLhEPEh0PERAYEPQDUPAuaAJ1xI9_QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCPqHDSABMOADONQGQAJKDgoJQw0MDxYNDhENEPQDUPAuaAJ1djyCQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
+        "start_date": "2025-12-08T10:00:28.000Z",
+        "impressions_total": 197721,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 197721,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "L'Oreal",
+        "profile_name": "L’Oreal Paris",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://lyko.com/sv/deals-fynd/kampanjer/xmas"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://lyko.com/sv/deals-fynd/kampanjer/xmas"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/7399f4cc-e38f-4b0e-a117-21857c847a55/e9329a6f-fefc-4d4e-85c6-67f7cc8582dd.jpg"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://lyko.com/sv/deals-fynd/kampanjer/xmas"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/cd3fefb6-f89b-42a4-a301-285b552f7b3c/075168df-8d65-4adf-b602-3e7947683065.jpg"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://lyko.com/sv/deals-fynd/kampanjer/xmas"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/988473d2-4b16-4554-935a-02d040dac420/511a730b-b77e-4d54-9315-1a40e36c6456.jpg"
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1eec55a3-ef44-42a3-adc4-8b3dc83827a7",
+        "name": "post3_dmiedit_mix-collectionad_x_shop-now_e-apotea_x_na_multi",
+        "ad_account_name": "Maybelline_Nordic_Wavemaker_OA_(DKK)",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sv"
+        ],
+        "headline": "These are real reviews. Really! 🎉",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qJfo9prpglVNcA98dJ4ec.67?mo=GsUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLghDEiYKJAivgE8gATDgAzjUBkABSg4KCT0XFhIQIR4SGhD0A1C46QFoAiICEgCiAS8IugoSJgokCKO3XiABMNAFOIAKQAJKDgoJSRsTHx0kGhgdEPQDULjpAWgCIgISAKIBLgh_EiYKJAjU-TUgATDgAzjUBkACSg4KCS8QCRMNGA4MFRD0A1C46QFoAiICEgCiAS8IkgoSJgokCIXnOCABMOADONQGQAJKDgoJMBILEw0WFA4XEPQDULjpAWgCIgISAKIBLwjEChImCiQI3ak-IAEw4AM41gZAAkoOCgk3Ew0SESESDxQQ9ANQuOkBaAIiAhIAogEvCNIKEiYKJAjhrUEgATDgAzjUBkACSg4KCTUTDRIRGBIQFRD0A1C46QFoAiICEgCQA7jpAQ%3D%3D&uc=15",
+        "start_date": "2025-08-11T09:00:00.000Z",
+        "impressions_total": 185462,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 185462,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "L'Oreal",
+        "brand_name": "Maybelline New York",
+        "profile_name": "Maybelline New York",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQUpkNnF3WGd1dmNLTDZYRnlwUDVnP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://www.apotea.se/maybelline?utm_source={{site_source_name}}&utm_medium=snap_ads&utm_campaign=MNY_Monobrand_2025"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://www.apotea.se/maybelline?utm_source={{site_source_name}}&utm_medium=snap_ads&utm_campaign=MNY_Monobrand_2025"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ad71801f-ddab-4dfb-98ed-29c01351b9f9/cd7c5c7e-d3d8-4408-b184-07860a9b133c.jpg"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://www.apotea.se/maybelline?utm_source={{site_source_name}}&utm_medium=snap_ads&utm_campaign=MNY_Monobrand_2025"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/d0705f13-12d0-4794-bc4e-3a967a323abd/bdd4dae5-56fd-4c99-ace6-70d5a05bc84b.jpg"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://www.apotea.se/maybelline?utm_source={{site_source_name}}&utm_medium=snap_ads&utm_campaign=MNY_Monobrand_2025"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/6bbf5142-6ed6-42d1-8de6-5b2e9054b00a/618c6a68-8ab3-4964-bbe2-ef5278a9ecd6.jpg"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://www.apotea.se/maybelline?utm_source={{site_source_name}}&utm_medium=snap_ads&utm_campaign=MNY_Monobrand_2025"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/54611acb-340d-42c6-afaf-8ce36ca3756f/ecc39099-d488-4644-a9f2-5359454f51c6.jpg"
+            }
+          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

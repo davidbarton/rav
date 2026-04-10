@@ -1,10 +1,159 @@
 {
   "brand": "L'Oreal",
   "country": "fi",
-  "fetched_at": "2026-04-09T22:56:31.384Z",
+  "fetched_at": "2026-04-10T07:13:26.839Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c56054e2-bae1-40f4-9e31-ec2be87d651c",
+        "name": "post1_dmiedit_video-snapad_7s-15s_more_non-d2c_x_na_oap-vmlp",
+        "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fi"
+        ],
+        "headline": "Koe taika L’Oréal Paris'n kanssa",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/p1IC46l7yga4WJWiaO9EF.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiQoDIgATDgAzjUBkABSg4KCTYXIBskMSNVfhD0A1DwLmgCdZSBR0AiBgoCSAISAKIBNwi6ChIqCigIx6AmIAEw0AU4gApAAkoOCgkwEBcWHichTU8Q9ANQ8C5oAnUvWVZAIgYKAkgDEgCiATwIkgoSLwotCKzvIiABMOADONQGQAJKDgoJIQ8UEhoeFDRXEPQDUPAuaAJ1a2Q-QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCKz6FyABMOADONQGQAJKDgoJJAsRERYdFyowEPQDUPAuaAJ1_OJMQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
+        "start_date": "2025-12-01T10:00:57.000Z",
+        "impressions_total": 193127,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 193127,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "L'Oreal",
+        "profile_name": "L’Oreal Paris",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.lorealparis.fi/joululahjaopas?utm_source=snapchat&utm_medium=social&utm_campaign=holiday-2025&utm_content=learn-more&utm_term=snapads-post-1"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "97aa2a49-d4f9-422a-96e8-26ced0d5e26c",
+        "name": "post1_dmiedit_video-snapad_6s-or-less_shop-now_non-d2c_x_na_other-gar-vic",
+        "ad_account_name": "Garnier_Nordic_Wavemaker_OA_(DKK) ",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Vitamin C* Glow Boost Serum",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/jEN5EW0YgTmLtZg4RKFw5.67?mo=GokCGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigIptcfIAEw4AM41AZAAUoOCgkdDEEiJjAjMjEQ9ANQ8C5oAnUtmnhAIgYKAkgEEgCiATcIugoSKgooCLfEGiABMNAFOIAKQAJKDgoJHQc4HiIjHCcuEPQDUPAuaAJ1akuBQCIGCgJIAhIAogE8CJIKEi8KLQjS8xQgATDgAzjUBkACSg4KCRYHIxcTIhMkJRD0A1DwLmgCdRC8YkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiuvhAgATDgAzjUBkACSg4KCRcFHRUYFhMYGhD0A1DwLmgCdW1mc0B9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-09-29T09:00:44.000Z",
+        "impressions_total": 879288,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 879288,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "49",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "L'Oreal",
+        "profile_name": "Garnier Global",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTGllT3JsbFg5SFJYUjdKdTRqTFpOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.garnier.fi/kasvojenhoito/vitamin-c/glow-boost-serum?utm_source=meta&utm_medium=social_video_paid&utm_content=gar_skfc_vitamin-c_video_aw&utm_campaign=gar_skfc_vitamin-c_burst_none"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -74,309 +223,6 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://www.lorealparis.fi/joululahjaopas?utm_source=snapchat&utm_medium=social&utm_campaign=holiday-2025&utm_content=learn-more&utm_term=commercials-post-3"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c6c6acc2-f8c2-4b4b-b988-8b1cffdb0ba2",
-        "name": "post5_dmiedit_video-commercial_7s-15s_more_non-d2c_x_na_oap-vmlp",
-        "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fi"
-        ],
-        "headline": "Koe taika L’Oréal Paris'n kanssa",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cdLn9Q0xoavMg1d137Wd0.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAir-lQgATDgAzjUBkABSg4KCUAjHiAMCQkrFxD0A1CYdWgCdfJoWUAiBgoCSAQSAKIBNwi6ChIqCigIiqJCIAEw0AU4gApAAkoOCgk9IR4gDAcHIx0Q9ANQmHVoAnU-1GJAIgYKAkgCEgCiATwIkgoSLwotCLfNNyABMOADONQGQAJKDgoJLhUSFAgGBhsOEPQDUJh1aAJ1CGVNQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCLiJKiABMOADONQGQAJKDgoJLhcVFggFBBoREPQDUJh1aAJ1xphWQH0AAIA_IgYKAkgCEgCQA5h1&uc=15",
-        "start_date": "2025-12-01T10:00:57.000Z",
-        "impressions_total": 289871,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 289871,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "L'Oreal",
-        "profile_name": "L’Oreal Paris",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.lorealparis.fi/joululahjaopas?utm_source=snapchat&utm_medium=social&utm_campaign=holiday-2025&utm_content=learn-more&utm_term=commercials-post-2"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "3743279f-f57a-4360-89c8-a1a46eeee1a9",
-        "name": "post2_dmiedit_video-commercial_6s-or-less_more_e-lyko_x_na_ess-epg",
-        "ad_account_name": "Essie_Nordic_Wavemaker_OA_(DKK)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "dopamine rush, midsummer lush",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/iWb5z1PcVS7NmEMuaGzOL.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI6Zw-IAFKDgoJZD4VIiApSBEsEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgI8ak3IAFKDgoJWS4VKx8hLxUfEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiTxScgAUoOCglGJA8XFhsmBxwQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjiiikgAUoOCglHKA8YFhwoBx0Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjZwiUgAUoOCglBHw4fFBYiBhkQ9ANoAiIGCgJIAhIAkAOidQ%3D%3D&uc=15",
-        "start_date": "2025-05-19T09:00:22.000Z",
-        "impressions_total": 330093,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 330093,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "L'Oreal",
-        "brand_name": "gel couture by essie",
-        "profile_name": "essie polish",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYnp6WDlkSlZsejFRUzBPRmdjOVZDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://lyko.com/fi/essie/essie-gel-couture-nail-polish-557-dopamine-rush-135-ml?fromsearch=essie+dopamine&utm_source=snapchat&utm_medium=video&utm_campaign=loreal_cpd_essiemidsummer2025&utm_id=essie+midsummer+2025"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "efd30b17-525e-4a1c-8ebe-1d37ad8da538",
-        "name": "post2_dmiedit_video-snapad_6s-or-less_shop-now_non-d2c_x_na_other-gar-vic",
-        "ad_account_name": "Garnier_Nordic_Wavemaker_OA_(DKK) ",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fi"
-        ],
-        "headline": "Vitamin C* Glow Boost Serum",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ywhaIQCcgMJ16jG9FK4HT.67?mo=Go4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigIwPwZIAEw4AM41AZAAUoOCgkvIR4LBzQYKB0Q9ANQ8C5oAnV0kmZAIgYKAkgEEgCiATwIugoSLwotCPHjFiABMNAFOIAKQAJKDgoJKh0aDQcvGTAUEPQDUPAuaAJ10kdxQH0AAIA_IgYKAkgDEgCiATwIkgoSLwotCMTFESABMOADONQGQAJKDgoJIhQSCgYfERoREPQDUPAuaAJ1dslYQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCPiNDyABMOADONQGQAJKDgoJIRMSCQUhESMNEPQDUPAuaAJ1WylkQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
-        "start_date": "2025-09-29T09:00:44.000Z",
-        "impressions_total": 585529,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 585529,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "49",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "L'Oreal",
-        "profile_name": "Garnier Global",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTGllT3JsbFg5SFJYUjdKdTRqTFpOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.garnier.fi/kasvojenhoito/vitamin-c/glow-boost-serum?utm_source=meta&utm_medium=social_video_paid&utm_content=gar_skfc_vitamin-c_video_aw&utm_campaign=gar_skfc_vitamin-c_burst_none"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a446af20-6f48-4412-ace0-3bb39a5d992d",
-        "name": "post3_dmiedit_video-snapad_7s-15s_read_non-d2c_x_na_oap-vmlp",
-        "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fi"
-        ],
-        "headline": "Koe taika L’Oréal Paris'n kanssa",
-        "call_to_action": "READ",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/14AxLC5WkZY0yHyZ0pCIU.67?mo=GocCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE3CEMSLwotCJbrPSABMOADONQGQAFKDgoJKRoUKn9cNH1wEPQDUPAuaAJ18nBVQH0AAIA_IgISAKIBOAi6ChIvCi0IvZcuIAEw0AU4gApAAkoOCgkoEBEaajkpaVMQ9ANQ8C5oAnWZdWNAfQAAgD8iAhIAogE4CJIKEi8KLQjYnCsgATDgAzjUBkACSg4KCR4RER1VNyJUVhD0A1DwLmgCdUIcS0B9AACAPyICEgCiATgI0goSLwotCNzvHSABMOADONQGQAJKDgoJIQwMEkooHUgvEPQDUPAuaAJ1ylRXQH0AAIA_IgISAJAD8C4%3D&uc=15",
-        "start_date": "2025-12-01T10:00:57.000Z",
-        "impressions_total": 1357373,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 1357373,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "L'Oreal",
-        "profile_name": "L’Oreal Paris",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.lorealparis.fi/joululahjaopas?utm_source=snapchat&utm_medium=social&utm_campaign=holiday-2025&utm_content=learn-more&utm_term=snapads-post-3"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -464,25 +310,27 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "97aa2a49-d4f9-422a-96e8-26ced0d5e26c",
-        "name": "post1_dmiedit_video-snapad_6s-or-less_shop-now_non-d2c_x_na_other-gar-vic",
+        "id": "efd30b17-525e-4a1c-8ebe-1d37ad8da538",
+        "name": "post2_dmiedit_video-snapad_6s-or-less_shop-now_non-d2c_x_na_other-gar-vic",
         "ad_account_name": "Garnier_Nordic_Wavemaker_OA_(DKK) ",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
+        "languages": [
+          "fi"
+        ],
         "headline": "Vitamin C* Glow Boost Serum",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/jEN5EW0YgTmLtZg4RKFw5.67?mo=GokCGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigIptcfIAEw4AM41AZAAUoOCgkdDEEiJjAjMjEQ9ANQ8C5oAnUtmnhAIgYKAkgEEgCiATcIugoSKgooCLfEGiABMNAFOIAKQAJKDgoJHQc4HiIjHCcuEPQDUPAuaAJ1akuBQCIGCgJIAhIAogE8CJIKEi8KLQjS8xQgATDgAzjUBkACSg4KCRYHIxcTIhMkJRD0A1DwLmgCdRC8YkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiuvhAgATDgAzjUBkACSg4KCRcFHRUYFhMYGhD0A1DwLmgCdW1mc0B9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ywhaIQCcgMJ16jG9FK4HT.67?mo=Go4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigIwPwZIAEw4AM41AZAAUoOCgkvIR4LBzQYKB0Q9ANQ8C5oAnV0kmZAIgYKAkgEEgCiATwIugoSLwotCPHjFiABMNAFOIAKQAJKDgoJKh0aDQcvGTAUEPQDUPAuaAJ10kdxQH0AAIA_IgYKAkgDEgCiATwIkgoSLwotCMTFESABMOADONQGQAJKDgoJIhQSCgYfERoREPQDUPAuaAJ1dslYQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCPiNDyABMOADONQGQAJKDgoJIRMSCQUhESMNEPQDUPAuaAJ1WylkQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
         "start_date": "2025-09-29T09:00:44.000Z",
-        "impressions_total": 879288,
+        "impressions_total": 585529,
         "impressions_map": {
           "de": 0,
           "be": 0,
-          "fi": 879288,
+          "fi": 585529,
           "pt": 0,
           "bg": 0,
           "dk": 0,
@@ -538,27 +386,27 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "61299aea-888b-4d17-b874-c1e20cc78b8d",
-        "name": "post1_dmiedit_video-snapad_6s-or-less_more_e-lyko_x_na_ess-epg",
-        "ad_account_name": "Essie_Nordic_Wavemaker_OA_(DKK)",
+        "id": "c6c6acc2-f8c2-4b4b-b988-8b1cffdb0ba2",
+        "name": "post5_dmiedit_video-commercial_7s-15s_more_non-d2c_x_na_oap-vmlp",
+        "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "en"
+          "fi"
         ],
-        "headline": "dopamine rush, midsummer lush",
+        "headline": "Koe taika L’Oréal Paris'n kanssa",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/196IwhVunt3UEx1bG8xnY.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI2-odIAFKDgoJTR4zPjQyEREKEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIwvwaIAFKDgoJRRUmMDIfHh0JEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAj28RIgAUoOCgkwEx4qHx0MDQYQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiMhxQgAUoOCgk1Ex8lJiEEDA8Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjhzxEgAUoOCgkyDhgdIBQUEwUQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-05-19T09:00:22.000Z",
-        "impressions_total": 739856,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cdLn9Q0xoavMg1d137Wd0.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAir-lQgATDgAzjUBkABSg4KCUAjHiAMCQkrFxD0A1CYdWgCdfJoWUAiBgoCSAQSAKIBNwi6ChIqCigIiqJCIAEw0AU4gApAAkoOCgk9IR4gDAcHIx0Q9ANQmHVoAnU-1GJAIgYKAkgCEgCiATwIkgoSLwotCLfNNyABMOADONQGQAJKDgoJLhUSFAgGBhsOEPQDUJh1aAJ1CGVNQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCLiJKiABMOADONQGQAJKDgoJLhcVFggFBBoREPQDUJh1aAJ1xphWQH0AAIA_IgYKAkgCEgCQA5h1&uc=15",
+        "start_date": "2025-12-01T10:00:57.000Z",
+        "impressions_total": 289871,
         "impressions_map": {
           "de": 0,
           "be": 0,
-          "fi": 739856,
+          "fi": 289871,
           "pt": 0,
           "bg": 0,
           "dk": 0,
@@ -590,7 +438,6 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "44",
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [],
@@ -601,119 +448,10 @@
           "devices": []
         },
         "paying_advertiser_name": "L'Oreal",
-        "brand_name": "gel couture by essie",
-        "profile_name": "essie polish",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYnp6WDlkSlZsejFRUzBPRmdjOVZDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "profile_name": "L’Oreal Paris",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://lyko.com/fi/essie/essie-gel-couture-nail-polish-557-dopamine-rush-135-ml?fromsearch=essie+dopamine&utm_source=snapchat&utm_medium=video&utm_campaign=loreal_cpd_essiemidsummer2025&utm_id=essie+midsummer+2025"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "2c695ad9-2ab6-429a-b5e5-f6305c391c3b",
-        "name": "post3_dmiedit_mix-collectionad_x_shop-now_e-lyko_x_na_other-gar-vic",
-        "ad_account_name": "Garnier_Nordic_Wavemaker_OA_(DKK) ",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fi"
-        ],
-        "headline": "Vitamin C* Glow Boost Serum",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WlWqcBFgNJyfdtmWrncSf.67?mo=GtECGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0I3ZgcIAEw4AM41AZAAUoOCgkhBhA8Gz0dKjwQ9ANQ8C5oAnWsJIJAfQAAgD8iBgoCSAQSAKIBPAi6ChIvCi0IvPIaIAEw0AU4gApAAkoOCgkkBwdCHioZJDcQ9ANQ8C5oAnWdyopAfQAAgD8iBgoCSAISAKIBOwh_Ei8KLQiUjxIgATDgAzjUBkACSg4KCRgFBS0VGhIVKRD0A1DwLmgCdeYvdkB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQjx6BIgATDgAzjUBkACSg4KCRkFBS0WHhMWKhD0A1DwLmgCdawec0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiDwRIgATDgAzjUBkACSg4KCRoEBC8UJg8YJhD0A1DwLmgCdbK0gkB9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-10-13T09:00:53.000Z",
-        "impressions_total": 498830,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 498830,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "49",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "L'Oreal",
-        "profile_name": "Garnier Global",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTGllT3JsbFg5SFJYUjdKdTRqTFpOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://lyko.com/fi/garnier/garnier-skin-active-anti-dark-spot-serum-vitamin-c--30-ml?utm_source=meta&utm_medium=social_video_paid&utm_content=gar_skin_vitamin-c_video_eg&utm_campaign=gar_skin_vitamin-c_vitamin-c-burst-3_none"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://lyko.com/fi/garnier/garnier-skin-active-anti-dark-spot-serum-vitamin-c--30-ml?utm_source=meta&utm_medium=social_video_paid&utm_content=gar_skin_vitamin-c_video_eg&utm_campaign=gar_skin_vitamin-c_vitamin-c-burst-3_none"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/a0b583c1-250b-4cfa-9d99-e9de4eea0521/4534c58c-8f8e-4a47-be2d-ba65982e3e74.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://lyko.com/fi/garnier/garnier-skin-active-anti-dark-spot-serum-vitamin-c--30-ml?utm_source=meta&utm_medium=social_video_paid&utm_content=gar_skin_vitamin-c_video_eg&utm_campaign=gar_skin_vitamin-c_vitamin-c-burst-3_none"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ff1e3ab2-2fea-46d6-9b1e-dcc8ad9b16ad/43fab353-8b2e-4332-b607-8acad57176cc.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://lyko.com/fi/garnier/garnier-skin-active-anti-dark-spot-serum-vitamin-c--30-ml?utm_source=meta&utm_medium=social_video_paid&utm_content=gar_skin_vitamin-c_video_eg&utm_campaign=gar_skin_vitamin-c_vitamin-c-burst-3_none"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/489aa841-9b60-448d-b3f4-3077fab7bce4/32225358-8ddb-4c0a-9b66-ddcc344343df.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://lyko.com/fi/garnier/garnier-skin-active-anti-dark-spot-serum-vitamin-c--30-ml?utm_source=meta&utm_medium=social_video_paid&utm_content=gar_skin_vitamin-c_video_eg&utm_campaign=gar_skin_vitamin-c_vitamin-c-burst-3_none"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/d020cb83-46f7-46ac-95af-5f0bb4350214/f92f12ac-0f6a-4dd3-a4a8-7880f360edbe.png"
-            }
-          ]
+          "url": "https://www.lorealparis.fi/joululahjaopas?utm_source=snapchat&utm_medium=social&utm_campaign=holiday-2025&utm_content=learn-more&utm_term=commercials-post-2"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -822,6 +560,234 @@
               "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/39a2ccc5-4b4a-4e81-9e76-d5d2a58f5534/33139d63-1baa-4f48-a972-69defb7c9e75.png"
             }
           ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "7248a1fa-b246-43b7-ba66-bf59d3cde550",
+        "name": "post2_dmiedit_video-commercial_6s-or-less_shop-now_non-d2c_x_na_other-gar-vic",
+        "ad_account_name": "Garnier_Nordic_Wavemaker_OA_(DKK) ",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fi"
+        ],
+        "headline": "Vitamin C* Glow Boost Serum",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6wASDvUTRzdwLkrTdzCDw.67?mo=GtECGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0IwPwZIAEw4AM41AZAAUoOCgkvIR4LBzQYKB0Q9ANQ8C5oAnV0kmZAfQAAgD8iBgoCSAQSAKIBPAi6ChIvCi0I8eMWIAEw0AU4gApAAkoOCgkqHRoNBy8ZMBQQ9ANQ8C5oAnXSR3FAfQAAgD8iBgoCSAISAKIBOwh_Ei8KLQi1thAgATDgAzjUBkACSg4KCSETEAkGHhAZERD0A1DwLmgCdVJZXkB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQjExREgATDgAzjUBkACSg4KCSIUEgoGHxEaERD0A1DwLmgCdXbJWEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQj4jQ8gATDgAzjUBkACSg4KCSETEgkFIREjDRD0A1DwLmgCdVspZEB9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-09-29T09:00:44.000Z",
+        "impressions_total": 241751,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 241751,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "49",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "L'Oreal",
+        "profile_name": "Garnier Global",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTGllT3JsbFg5SFJYUjdKdTRqTFpOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.garnier.fi/kasvojenhoito/vitamin-c/glow-boost-serum?utm_source=meta&utm_medium=social_video_paid&utm_content=gar_skfc_vitamin-c_video_aw&utm_campaign=gar_skfc_vitamin-c_burst_none"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "15b31bd3-ae0f-4a12-8e1a-3e6cc466afc9",
+        "name": "post2_dmiedit_video-snapad_7s-15s_more_non-d2c_x_na_oap-vmlp",
+        "ad_account_name": "L'Oréal Paris_Nordic_Wavemaker_OA_(DKK)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fi"
+        ],
+        "headline": "Koe taika L’Oréal Paris'n kanssa",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9g3eCSeK12yXrLjz5tyOt.67?mo=GpYCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgizqTIgATDgAzjUBkABSg8KCj0XJCxBIyQXiwEQ9ANQ8C5oAnXOt01AfQAAgD8iBgoCSAQSAKIBPAi6ChIvCi0I68kmIAEw0AU4gApAAkoOCgk8ERYaMyIgFHAQ9ANQ8C5oAnV0uF1AfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0I45AiIAEw4AM41AZAAkoOCgkqEBQXJRkWDF4Q9ANQ8C5oAnWtdT5AfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IxbEYIAEw4AM41AZAAkoOCgksDRARIxgVDkYQ9ANQ8C5oAnVoI0hAfQAAgD8iBgoCSAISAJAD8C4%3D&uc=15",
+        "start_date": "2025-12-01T10:00:57.000Z",
+        "impressions_total": 281667,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 281667,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "L'Oreal",
+        "profile_name": "L’Oreal Paris",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU0d6MlZQOHhScFVKSWVXUTh3ZVFuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.lorealparis.fi/joululahjaopas?utm_source=snapchat&utm_medium=social&utm_campaign=holiday-2025&utm_content=learn-more&utm_term=snapads-post-2"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "61299aea-888b-4d17-b874-c1e20cc78b8d",
+        "name": "post1_dmiedit_video-snapad_6s-or-less_more_e-lyko_x_na_ess-epg",
+        "ad_account_name": "Essie_Nordic_Wavemaker_OA_(DKK)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "dopamine rush, midsummer lush",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/196IwhVunt3UEx1bG8xnY.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI2-odIAFKDgoJTR4zPjQyEREKEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIwvwaIAFKDgoJRRUmMDIfHh0JEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAj28RIgAUoOCgkwEx4qHx0MDQYQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiMhxQgAUoOCgk1Ex8lJiEEDA8Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjhzxEgAUoOCgkyDhgdIBQUEwUQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-05-19T09:00:22.000Z",
+        "impressions_total": 739856,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 739856,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "L'Oreal",
+        "brand_name": "gel couture by essie",
+        "profile_name": "essie polish",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYnp6WDlkSlZsejFRUzBPRmdjOVZDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://lyko.com/fi/essie/essie-gel-couture-nail-polish-557-dopamine-rush-135-ml?fromsearch=essie+dopamine&utm_source=snapchat&utm_medium=video&utm_campaign=loreal_cpd_essiemidsummer2025&utm_id=essie+midsummer+2025"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

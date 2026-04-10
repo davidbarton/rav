@@ -1,245 +1,10 @@
 {
   "brand": "Arket",
   "country": "hr",
-  "fetched_at": "2026-04-09T19:44:28.366Z",
+  "fetched_at": "2026-04-10T07:27:49.099Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "04cd80bc-0fdd-47a6-b0bb-6d70478d6905",
-        "name": "App Installs 06/25",
-        "ad_account_name": "Httpool CH - CHXXXXXXXX - Direkt - ThorWallet",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "The ultimate Crypto Wallet",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cnVDpvNYB9l0uIyswnqMr.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-06-17T12:18:50.000Z",
-        "impressions_total": 446555,
-        "impressions_map": {
-          "de": 4972,
-          "be": 101720,
-          "fi": 0,
-          "pt": 0,
-          "bg": 216910,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 82573,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 11989,
-          "cy": 0,
-          "cz": 28391,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "en"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": []
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "Httpool Online Marketing GmbH",
-        "brand_name": "THORWallet",
-        "deep_link_properties": {
-          "deep_link_uri": "thorwallet://wallet?utm_source={{site_source_name}}",
-          "icon_media_url": "https://cf-st.sc-cdn.net/d/jlhhYLs8JSU7y70O3I4YN.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "754f1a53-2d90-4610-aa17-f9a436da6df1",
-        "name": "Copy of Copy of video 1",
-        "ad_account_name": "OT_sleekselect-SN",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Damn",
-        "call_to_action": "GET NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HRFpJ3cC00YgACn0qnTq0.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIup5RIAEw4AM41AZAAUoOCglEBiERDRcOHhAQ9ANQtugBaAIiBgoCSAUSAKIBMwi6ChImCiQI3ZBJIAEw0AU4gApAAkoOCglRCRsSDRkKGg8Q9ANQtugBaAIiBgoCSAISAKIBMgh_EiYKJAirlDggATDgAzjUBkACSg4KCTkFFw0KEQgTCxD0A1C26AFoAiIGCgJIAhIAogEzCJIKEiYKJAjGyDcgATDgAzjUBkACSg4KCTgFDRcKEQgTDBD0A1C26AFoAiIGCgJIAhIAogEzCMQKEiYKJAiZ-zAgATDgAzjWBkACSg4KCToGEgsJEwYSChD0A1C26AFoAiIGCgJIAhIAogEzCNIKEiYKJAi2zzUgATDgAzjUBkACSg4KCTwGEw0KFAcUDBD0A1C26AFoAiIGCgJIAhIAkAO26AE%3D&uc=15",
-        "start_date": "2025-05-25T10:54:29.000Z",
-        "impressions_total": 74,
-        "impressions_map": {
-          "de": 0,
-          "be": 1,
-          "fi": 0,
-          "pt": 6,
-          "bg": 18,
-          "dk": 1,
-          "lt": 0,
-          "lu": 1,
-          "hr": 1,
-          "lv": 0,
-          "fr": 0,
-          "hu": 1,
-          "se": 0,
-          "si": 4,
-          "sk": 0,
-          "ie": 1,
-          "ee": 0,
-          "el": 13,
-          "mt": 0,
-          "it": 4,
-          "es": 1,
-          "at": 1,
-          "cy": 0,
-          "cz": 1,
-          "pl": 5,
-          "ro": 5,
-          "nl": 0,
-          "tr": 10
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Full Spice Digital Marketing",
-        "profile_name": "Aora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZnRoQnVyRE53VEhhaVpjMlNtUVVvP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://sleekselect.store"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "2a5fa103-2160-4060-8991-df2c72690dca",
-        "name": "Video 1",
-        "ad_account_name": "OT_sleekselect-SN",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Get yours now",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0WMjiRnIRbZCBiOPElW15.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIw9weIAEw4AM41AZAAUoOCglmDTIpJhQbHjsQ9ANQ4DBoAiIGCgJIAxIAogEyCLoKEiUKIwjuvR8gATDQBTiACkACSg4KCXscICklFBkcLxD0A1DgMGgCIgYKAkgCEgCiATEIfxIlCiMIvoETIAEw4AM41AZAAkoOCglKCh4cGA4TFR4Q9ANQ4DBoAiIGCgJIAhIAogEyCJIKEiUKIwjDxhMgATDgAzjUBkACSg4KCUsJHxoXDhYVJBD0A1DgMGgCIgYKAkgCEgCiATIIxAoSJQojCMCREyABMOADONYGQAJKDgoJTRAWGBcMEBEdEPQDUOAwaAIiBgoCSAISAKIBMgjSChIlCiMIk_MTIAEw4AM41AZAAkoOCglPERYaFw4QEh4Q9ANQ4DBoAiIGCgJIAhIAkAPgMA%3D%3D&uc=15",
-        "start_date": "2025-05-26T22:01:29.000Z",
-        "impressions_total": 15280,
-        "impressions_map": {
-          "de": 55,
-          "be": 432,
-          "fi": 143,
-          "pt": 1192,
-          "bg": 2083,
-          "dk": 69,
-          "lt": 414,
-          "lu": 833,
-          "hr": 1053,
-          "lv": 0,
-          "fr": 2,
-          "hu": 523,
-          "se": 126,
-          "si": 1436,
-          "sk": 44,
-          "ie": 603,
-          "ee": 0,
-          "el": 1611,
-          "mt": 0,
-          "it": 433,
-          "es": 415,
-          "at": 296,
-          "cy": 0,
-          "cz": 223,
-          "pl": 474,
-          "ro": 957,
-          "nl": 102,
-          "tr": 1761
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Full Spice Digital Marketing",
-        "profile_name": "Aora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZnRoQnVyRE53VEhhaVpjMlNtUVVvP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://sleekselect.store/products/pillow-sac"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -307,6 +72,225 @@
         "profile_name": "Starsbooster LTD",
         "web_view_properties": {
           "url": "https://starsbooster.io"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "8b3d35d9-3ec5-4291-bd83-3562ddbdebd3",
+        "name": "Video 3",
+        "ad_account_name": "OT_sleekselect-SN",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Check it out",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RRdq22rNZ5WegDzarSwpZ.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI-MdwIAEw4AM41AZAAUoOCglYM2cXTVBNQkkQ9ANQ6nFoAiIGCgJIAxIAogEyCLoKEiUKIwiTl2ggATDQBTiACkACSg4KCWEnNz9RUVc1QBD0A1DqcWgCIgYKAkgCEgCiATEIfxIlCiMIleVVIAEw4AM41AZAAkoOCglFJEwUQTI_NDcQ9ANQ6nFoAiIGCgJIAhIAogEyCJIKEiUKIwiKhlYgATDgAzjUBkACSg4KCUclUBU5Njw5NxD0A1DqcWgCIgYKAkgCEgCiATIIxAoSJQojCMjzQiABMOADONYGQAJKDgoJRBolJjgpMCgoEPQDUOpxaAIiBgoCSAISAKIBMgjSChIlCiMI7v1HIAEw4AM41AZAAkoOCglHGycmPCwyLCoQ9ANQ6nFoAiIGCgJIAhIAkAPqcQ%3D%3D&uc=15",
+        "start_date": "2025-06-23T22:00:54.000Z",
+        "impressions_total": 12825,
+        "impressions_map": {
+          "de": 56,
+          "be": 173,
+          "fi": 214,
+          "pt": 0,
+          "bg": 1910,
+          "dk": 132,
+          "lt": 143,
+          "lu": 111,
+          "hr": 1764,
+          "lv": 0,
+          "fr": 1,
+          "hu": 476,
+          "se": 231,
+          "si": 0,
+          "sk": 0,
+          "ie": 915,
+          "ee": 0,
+          "el": 3353,
+          "mt": 0,
+          "it": 901,
+          "es": 818,
+          "at": 168,
+          "cy": 0,
+          "cz": 0,
+          "pl": 510,
+          "ro": 827,
+          "nl": 122,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Full Spice Digital Marketing",
+        "profile_name": "Aora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZnRoQnVyRE53VEhhaVpjMlNtUVVvP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://linkly.link/23H7s"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "187afd30-2fd6-4f89-8323-e67b7b7cd020",
+        "name": "Ads1",
+        "ad_account_name": "SB",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Buy Real Google Maps Reviews",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cbnpZnqYv0og8bFJjI8y6.67?mo=GoUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBNwhDEi8KLQjK7QMgATDgAzjUBkABSg4KCSADBAMDBAMEAxD0A1CIJ2gCdVt6h0B9AACAPyICEgCiATgIugoSLwotCMHVBSABMNAFOIAKQAJKDgoJLgUFBQYEBgUFEPQDUIgnaAJ1xEqLQH0AAIA_IgISAKIBOAiSChIvCi0IvNcDIAEw4AM41AZAAkoOCgkXBAQEBAUEBAQQ9ANQiCdoAnVr0IVAfQAAgD8iAhIAogE4CNIKEi8KLQipjwQgATDgAzjUBkACSg4KCScDAwMDAwMEAxD0A1CIJ2gCdXzgiEB9AACAPyICEgCQA4gn&uc=15",
+        "start_date": "2025-10-18T14:28:57.000Z",
+        "impressions_total": 92369,
+        "impressions_map": {
+          "de": 34,
+          "be": 241,
+          "fi": 65,
+          "pt": 1086,
+          "bg": 12872,
+          "dk": 26,
+          "lt": 214,
+          "lu": 375,
+          "hr": 1973,
+          "lv": 0,
+          "fr": 5,
+          "hu": 292,
+          "se": 15,
+          "si": 904,
+          "sk": 29,
+          "ie": 86,
+          "ee": 0,
+          "el": 2332,
+          "mt": 0,
+          "it": 4442,
+          "es": 1346,
+          "at": 56,
+          "cy": 0,
+          "cz": 366,
+          "pl": 586,
+          "ro": 1525,
+          "nl": 32,
+          "tr": 63467
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Oasthouse Marketing",
+        "profile_name": "Starsbooster LTD",
+        "web_view_properties": {
+          "url": "https://starsbooster.io"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4a2a856f-fe16-4edb-94e2-2a16b65c7dc8",
+        "name": "Video 2",
+        "ad_account_name": "OT_sleekselect-SN",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Check it out",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/PMsdVhGcpWTtZuB4azJn0.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI09FyIAEw4AM41AZAAUoOCgl0OB02JjgrLxgQ9ANQzsIBaAIiBgoCSAMSAKIBMwi6ChImCiQI485mIAEw0AU4gApAAkoOCgltNhA1IzkWKxYQ9ANQzsIBaAIiBgoCSAISAKIBMgh_EiYKJAikt00gATDgAzjUBkACSg4KCVolEiUaJB0iEBD0A1DOwgFoAiIGCgJIAhIAogEzCJIKEiYKJAihsFAgATDgAzjUBkACSg4KCVwmFCodJh4kERD0A1DOwgFoAiIGCgJIAhIAogEzCMQKEiYKJAiZ3EggATDgAzjWBkACSg4KCVUmDCQZKQ8hDxD0A1DOwgFoAiIGCgJIAhIAogEzCNIKEiYKJAiurkwgATDgAzjUBkACSg4KCVgmDSYXKxAkEBD0A1DOwgFoAiIGCgJIAhIAkAPOwgE%3D&uc=15",
+        "start_date": "2025-06-23T22:00:54.000Z",
+        "impressions_total": 42400,
+        "impressions_map": {
+          "de": 509,
+          "be": 2059,
+          "fi": 1822,
+          "pt": 0,
+          "bg": 6415,
+          "dk": 1237,
+          "lt": 562,
+          "lu": 1125,
+          "hr": 2960,
+          "lv": 0,
+          "fr": 4,
+          "hu": 1090,
+          "se": 1505,
+          "si": 0,
+          "sk": 0,
+          "ie": 6052,
+          "ee": 0,
+          "el": 4712,
+          "mt": 0,
+          "it": 2139,
+          "es": 2135,
+          "at": 1404,
+          "cy": 0,
+          "cz": 0,
+          "pl": 2260,
+          "ro": 3152,
+          "nl": 1258,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Full Spice Digital Marketing",
+        "profile_name": "Aora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZnRoQnVyRE53VEhhaVpjMlNtUVVvP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://linkly.link/23H7s"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -390,6 +374,153 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
+        "id": "a6fc20e7-b67d-4000-81ff-36df17995eb6",
+        "name": "Hiring Meta Clients",
+        "ad_account_name": "Sahadev Marketing Agencys Self Service",
+        "status": "ACTIVE",
+        "creative_type": "LEAD_GENERATION",
+        "ad_type": "LEAD_GENERATION",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Boost Your Sales and Leads",
+        "call_to_action": "APPLY NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fxjV01ksH8h3e1dwrPth3.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-03-30T04:00:00.000Z",
+        "impressions_total": 36,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 1,
+          "bg": 1,
+          "dk": 0,
+          "lt": 5,
+          "lu": 0,
+          "hr": 1,
+          "lv": 0,
+          "fr": 0,
+          "hu": 1,
+          "se": 0,
+          "si": 3,
+          "sk": 0,
+          "ie": 1,
+          "ee": 0,
+          "el": 6,
+          "mt": 0,
+          "it": 4,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 2,
+          "pl": 1,
+          "ro": 3,
+          "nl": 0,
+          "tr": 7
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Sahadev Marketing Agencys",
+        "profile_name": "Sahadev Marketing Agency",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d4079686-3584-4d9e-80ef-5ae5858da4f8",
+        "name": "Reimbursement Up To €600 - Ad",
+        "ad_account_name": "Travel - Affiliate Marketer Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Reimbursement Up To €600",
+        "call_to_action": "APPLY NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/jxUuNN7S9FHLzZTQfY9r6.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-03-24T07:00:00.000Z",
+        "impressions_total": 301,
+        "impressions_map": {
+          "de": 0,
+          "be": 2,
+          "fi": 0,
+          "pt": 12,
+          "bg": 11,
+          "dk": 0,
+          "lt": 71,
+          "lu": 1,
+          "hr": 26,
+          "lv": 0,
+          "fr": 0,
+          "hu": 3,
+          "se": 0,
+          "si": 80,
+          "sk": 2,
+          "ie": 16,
+          "ee": 0,
+          "el": 36,
+          "mt": 0,
+          "it": 6,
+          "es": 2,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 20,
+          "nl": 0,
+          "tr": 13
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "languages": [
+                "en"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Travel - Affiliate Marketer",
+        "profile_name": "Travel - Affiliate Marketer",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVG5ObHZVY1hCcDBLRmFteXhXUFpiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://compensair.tp.st/qFqL17Z9"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
         "id": "89183030-8d19-43d1-88d1-4c6c4c60109c",
         "name": "Video 2",
         "ad_account_name": "OT_sleekselect-SN",
@@ -463,80 +594,7 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "ae928562-0d3b-45b9-bcf4-5eb691be1ea8",
-        "name": "Copy of Copy of Copy of video 1",
-        "ad_account_name": "OT_sleekselect-SN",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Damn",
-        "call_to_action": "GET NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0WMjiRnIRbZCBiOPElW15.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIw9weIAEw4AM41AZAAUoOCglmDTIpJhQbHjsQ9ANQ4DBoAiIGCgJIAxIAogEyCLoKEiUKIwjuvR8gATDQBTiACkACSg4KCXscICklFBkcLxD0A1DgMGgCIgYKAkgCEgCiATEIfxIlCiMIvoETIAEw4AM41AZAAkoOCglKCh4cGA4TFR4Q9ANQ4DBoAiIGCgJIAhIAogEyCJIKEiUKIwjDxhMgATDgAzjUBkACSg4KCUsJHxoXDhYVJBD0A1DgMGgCIgYKAkgCEgCiATIIxAoSJQojCMCREyABMOADONYGQAJKDgoJTRAWGBcMEBEdEPQDUOAwaAIiBgoCSAISAKIBMgjSChIlCiMIk_MTIAEw4AM41AZAAkoOCglPERYaFw4QEh4Q9ANQ4DBoAiIGCgJIAhIAkAPgMA%3D%3D&uc=15",
-        "start_date": "2025-05-25T10:54:29.000Z",
-        "impressions_total": 146,
-        "impressions_map": {
-          "de": 0,
-          "be": 1,
-          "fi": 0,
-          "pt": 8,
-          "bg": 28,
-          "dk": 0,
-          "lt": 5,
-          "lu": 2,
-          "hr": 9,
-          "lv": 0,
-          "fr": 0,
-          "hu": 3,
-          "se": 0,
-          "si": 26,
-          "sk": 1,
-          "ie": 3,
-          "ee": 0,
-          "el": 27,
-          "mt": 0,
-          "it": 2,
-          "es": 4,
-          "at": 1,
-          "cy": 0,
-          "cz": 0,
-          "pl": 2,
-          "ro": 14,
-          "nl": 0,
-          "tr": 10
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Full Spice Digital Marketing",
-        "profile_name": "Aora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZnRoQnVyRE53VEhhaVpjMlNtUVVvP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://sleekselect.store"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4a2a856f-fe16-4edb-94e2-2a16b65c7dc8",
+        "id": "37bdb296-872a-417d-95fb-e6437a210156",
         "name": "Video 2",
         "ad_account_name": "OT_sleekselect-SN",
         "status": "ACTIVE",
@@ -550,186 +608,37 @@
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/PMsdVhGcpWTtZuB4azJn0.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI09FyIAEw4AM41AZAAUoOCgl0OB02JjgrLxgQ9ANQzsIBaAIiBgoCSAMSAKIBMwi6ChImCiQI485mIAEw0AU4gApAAkoOCgltNhA1IzkWKxYQ9ANQzsIBaAIiBgoCSAISAKIBMgh_EiYKJAikt00gATDgAzjUBkACSg4KCVolEiUaJB0iEBD0A1DOwgFoAiIGCgJIAhIAogEzCJIKEiYKJAihsFAgATDgAzjUBkACSg4KCVwmFCodJh4kERD0A1DOwgFoAiIGCgJIAhIAogEzCMQKEiYKJAiZ3EggATDgAzjWBkACSg4KCVUmDCQZKQ8hDxD0A1DOwgFoAiIGCgJIAhIAogEzCNIKEiYKJAiurkwgATDgAzjUBkACSg4KCVgmDSYXKxAkEBD0A1DOwgFoAiIGCgJIAhIAkAPOwgE%3D&uc=15",
-        "start_date": "2025-06-23T22:00:54.000Z",
-        "impressions_total": 42400,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BfxxpAsH7RvfCZpb9EpoG.67?mo=GuQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATQIQxIoCiYIr7XVASABMOADONQGQAFKDwoKjAFRXlpMdiUUOBD0A1CGtwFoAiIGCgJIAhIAogE1CLoKEigKJgja388BIAEw0AU4gApAAkoPCgqfAT0_XDxtGh4wEPQDUIa3AWgCIgYKAkgDEgCiATMIfxInCiUI26-fASABMOADONQGQAJKDgoJfypIRjdDGxYgEPQDUIa3AWgCIgYKAkgCEgCiATUIkgoSKAomCNvLoQEgATDgAzjUBkACSg8KCoABLEpNNEcbFyEQ9ANQhrcBaAIiBgoCSAISAKIBNAjEChInCiUI166GASABMOADONYGQAJKDgoJbygpPCZKERUhEPQDUIa3AWgCIgYKAkgCEgCiATQI0goSJwolCIHRiQEgATDgAzjUBkACSg4KCW8oKTomSxIWIxD0A1CGtwFoAiIGCgJIAhIAkAOGtwE%3D&uc=15",
+        "start_date": "2025-06-23T22:00:20.000Z",
+        "impressions_total": 34172,
         "impressions_map": {
-          "de": 509,
-          "be": 2059,
-          "fi": 1822,
+          "de": 49,
+          "be": 302,
+          "fi": 187,
           "pt": 0,
-          "bg": 6415,
-          "dk": 1237,
-          "lt": 562,
-          "lu": 1125,
-          "hr": 2960,
-          "lv": 0,
-          "fr": 4,
-          "hu": 1090,
-          "se": 1505,
-          "si": 0,
-          "sk": 0,
-          "ie": 6052,
-          "ee": 0,
-          "el": 4712,
-          "mt": 0,
-          "it": 2139,
-          "es": 2135,
-          "at": 1404,
-          "cy": 0,
-          "cz": 0,
-          "pl": 2260,
-          "ro": 3152,
-          "nl": 1258,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Full Spice Digital Marketing",
-        "profile_name": "Aora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZnRoQnVyRE53VEhhaVpjMlNtUVVvP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://linkly.link/23H7s"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "18de50f9-dcb5-4edf-977a-19fb7d10bc75",
-        "name": "Get Travelers Health Insurance  - Ad",
-        "ad_account_name": "Travel - Affiliate Marketer Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Get Travelers Health Insurance",
-        "call_to_action": "GET NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nYet86JasQvVr8AmE2j1U.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-02-09T08:00:00.000Z",
-        "impressions_total": 1990,
-        "impressions_map": {
-          "de": 0,
-          "be": 33,
-          "fi": 0,
-          "pt": 128,
-          "bg": 148,
-          "dk": 0,
-          "lt": 196,
-          "lu": 14,
-          "hr": 264,
+          "bg": 3008,
+          "dk": 85,
+          "lt": 398,
+          "lu": 151,
+          "hr": 5103,
           "lv": 0,
           "fr": 1,
-          "hu": 39,
-          "se": 0,
-          "si": 293,
-          "sk": 19,
-          "ie": 54,
-          "ee": 0,
-          "el": 255,
-          "mt": 0,
-          "it": 143,
-          "es": 60,
-          "at": 10,
-          "cy": 0,
-          "cz": 17,
-          "pl": 30,
-          "ro": 209,
-          "nl": 0,
-          "tr": 77
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "53",
-              "age_groups": [],
-              "languages": [
-                "en"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Travel - Affiliate Marketer",
-        "profile_name": "Travel - Affiliate Marketer",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVG5ObHZVY1hCcDBLRmFteXhXUFpiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://ektatraveling.tpo.lv/53F4f3NF"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c7bba56d-19e7-4678-8149-52c569c646cf",
-        "name": "Video 3",
-        "ad_account_name": "OT_sleekselect-SN",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Check it out",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/kSzp8wNrp2axvqS285e5n.67?mo=GtYCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIw7laIAEw4AM41AZAAUoPCgqFASBUWEdIQTFiEPQDUKRiaAIiBgoCSAMSAKIBMwi6ChImCiQIvJhVIAEw0AU4gApAAkoPCgqnATRkXURJMylIEPQDUKRiaAIiBgoCSAISAKIBMQh_EiUKIwiXzDogATDgAzjUBkACSg4KCVAdK1MvKisjPxD0A1CkYmgCIgYKAkgCEgCiATIIkgoSJQojCOCkPSABMOADONQGQAJKDgoJUiBMQjIwLiJAEPQDUKRiaAIiBgoCSAISAKIBMgjEChIlCiMI88A1IAEw4AM41gZAAkoOCglqHz88KS0gGS8Q9ANQpGJoAiIGCgJIAhIAogEyCNIKEiUKIwiPoDcgATDgAzjUBkACSg4KCWkcPjYqLiEaMRD0A1CkYmgCIgYKAkgCEgCQA6Ri&uc=15",
-        "start_date": "2025-06-23T22:00:20.000Z",
-        "impressions_total": 23103,
-        "impressions_map": {
-          "de": 57,
-          "be": 272,
-          "fi": 219,
-          "pt": 0,
-          "bg": 2367,
-          "dk": 77,
-          "lt": 686,
-          "lu": 145,
-          "hr": 3808,
-          "lv": 0,
-          "fr": 5,
-          "hu": 1207,
-          "se": 250,
+          "hu": 1473,
+          "se": 199,
           "si": 0,
           "sk": 0,
-          "ie": 1402,
+          "ie": 725,
           "ee": 0,
-          "el": 6800,
+          "el": 9137,
           "mt": 0,
-          "it": 1777,
-          "es": 2205,
-          "at": 211,
+          "it": 5685,
+          "es": 5491,
+          "at": 160,
           "cy": 0,
           "cz": 0,
-          "pl": 1509,
+          "pl": 1918,
           "ro": 0,
-          "nl": 106,
+          "nl": 100,
           "tr": 0
         },
         "targeting_v2": {
@@ -749,6 +658,79 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZnRoQnVyRE53VEhhaVpjMlNtUVVvP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://linkly.link/23H7s"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "9a055279-bea3-46a7-8307-81eafd646d8f",
+        "name": "Destockage  - Publicité",
+        "ad_account_name": "discount market  Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Destockage",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/l20upObE5RF839yGN2fRP.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-09-10T07:00:06.000Z",
+        "impressions_total": 5997,
+        "impressions_map": {
+          "de": 0,
+          "be": 914,
+          "fi": 2,
+          "pt": 1468,
+          "bg": 94,
+          "dk": 0,
+          "lt": 31,
+          "lu": 758,
+          "hr": 99,
+          "lv": 0,
+          "fr": 27,
+          "hu": 31,
+          "se": 0,
+          "si": 2,
+          "sk": 6,
+          "ie": 1,
+          "ee": 0,
+          "el": 627,
+          "mt": 0,
+          "it": 258,
+          "es": 1240,
+          "at": 1,
+          "cy": 0,
+          "cz": 41,
+          "pl": 42,
+          "ro": 54,
+          "nl": 4,
+          "tr": 297
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "discount market ",
+        "profile_name": "discount market",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.discountmarket.net"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

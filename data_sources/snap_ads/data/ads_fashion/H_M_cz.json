@@ -1,10 +1,262 @@
 {
   "brand": "H&M",
   "country": "cz",
-  "fetched_at": "2026-04-09T19:18:14.273Z",
+  "fetched_at": "2026-04-10T07:14:26.196Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1d5331a4-89ab-42f6-8542-551c6a81ead6",
+        "name": "cn_summer-fy25|cc_brand|cy_video|crn_10b|ci_xxxx",
+        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "cs"
+        ],
+        "headline": "H&M Léto 2025",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/M6uehgeZMAgl1Qokbj4yz.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIo7BHIAFKDgoJMjYkE1c5TDlYEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIq68sIAFKDgoJLB8ZDjYdJiw2EPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiQgyMgAUoOCgkfIA8JJhUiHiwQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAje1SQgAUoOCgkgIBAKKRcmICoQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjb2x0gAUoOCgkgFREJIhMYHSgQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-05-15T21:00:44.000Z",
+        "impressions_total": 44156,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 44156,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1031a-summer-2025-drop-1.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_1031-a~cn_summer~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=10b"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "87213fb4-137e-4e24-bc36-fb516186e6f5",
+        "name": "cn_spring-fy25-drop-1|cc_brand|cy_video|crn_6a|ci_4vq6bv0ed4nl",
+        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "cs"
+        ],
+        "headline": "Notes on Being — H&M S/S 2025.",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-03-19T23:00:10.000Z",
+        "impressions_total": 52148,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 52148,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Notes on Being — H&M S/S 2025.",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LyUi5cGdKANJ2ax49zY1z.67?mo=GpcCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogEvCEMSHQobCNKDHiABShEKDDk_LyUbLBwiJC0lGhD0A2gCIgwKCEIGCNfm3r4GEgCiAS8IugoSHAoaCLuNFyABShAKCyUjHhkUJRoeICgoEPQDaAIiDAoIQgYI6ebevgYSAKIBLwh_Eh0KGwii4hAgAUoRCgwcEh0UDRgUGRcdGBAQ9ANoAiIMCghCBgjp5t6-BhIAogEwCJIKEh0KGwiMiREgAUoRCgwcFBgVEBgVGRgdGRAQ9ANoAiIMCghCBgjp5t6-BhIAogEvCMQKEhwKGgjojhAgAUoQCgseFxUQDRkRFRccHRD0A2gCIgwKCEIGCOnm3r4GEgCQA_Au&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1011a-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_ai1011a~~cn_spring~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=6a"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "0d2bd9bd-8401-4ecb-9e97-7560d7977539",
+        "name": "cn_spring-fy25-drop-1|cc_brand|cy_video|crn_6c|ci_4vq6bv0ed4nl",
+        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "cs"
+        ],
+        "headline": "Notes on Being — H&M S/S 2025.",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-03-19T23:00:10.000Z",
+        "impressions_total": 51284,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 51284,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Notes on Being — H&M S/S 2025.",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/2th4nfdHItcojE1aKsMu7.67?mo=Gp8CGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBMQhDEh0KGwijoBcgAUoRCgwxMRgXFSUQDUYjFg0Q9ANoAiIOCgpCBgiW896-BkgEEgCiATEIugoSHAoaCL-4FiABShAKCyQjFBMVGxAMVywbEPQDaAIiDgoKQgYIxfPevgZIAxIAogExCH8SHQobCKGgDSABShEKDBsVDQ0MEQoGLxoOBhD0A2gCIg4KCkIGCMXz3r4GSAISAKIBMgiSChIdChsIoOkNIAFKEQoMHBQMEBESCggtGBAHEPQDaAIiDgoKQgYIxfPevgZIAhIAogExCMQKEhwKGgiEhA8gAUoQCgscGA0NDhMKCDocEhD0A2gCIg4KCkIGCMXz3r4GSAISAJAD8C4%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1011a-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_ai1011a~~cn_spring~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=6c"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -84,21 +336,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "0a68d03c-6d86-4f46-920b-6c8170c0ae7a",
-        "name": "cn_spring-fy25-drop-1|cc_brand|cy_video|crn_10a|ci_4vq6bv0ed4nl",
+        "id": "984a2301-756a-4ce3-96ec-3d801705d6fa",
+        "name": "cn_spring-drop-2--|cc_brand|cy_video|crn_10b|ci_xxxx",
         "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
-        "status": "PAUSED",
+        "status": "ACTIVE",
         "creative_type": "COMPOSITE",
         "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [
           "cs"
         ],
-        "headline": "Notes on Being — H&M S/S 2025.",
+        "headline": "Romantický minimalismus S/S 2025.",
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2025-03-19T23:00:10.000Z",
-        "impressions_total": 51040,
+        "impressions_total": 76687,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -123,7 +375,7 @@
           "es": 0,
           "at": 0,
           "cy": 0,
-          "cz": 51040,
+          "cz": 76687,
           "pl": 0,
           "ro": 0,
           "nl": 0,
@@ -152,14 +404,14 @@
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "Notes on Being — H&M S/S 2025.",
+              "headline": "Romantický minimalismus S/S 2025.",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NzqUzSZSDtsgWFuk24pSb.67?mo=GscCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBOQhDEiUKIwj51S8gAUoZChQ7ExQvGxpELSMgHBwgIh4cPzU0JRD0A2gCIg4KCkIGCPn13r4GSAMSAKIBOQi6ChIkCiII5OYnIAFKGAoTPQ0QIRwXLiIaFhkXIBwcFzQtLxD0A2gCIg4KCkIGCNb23r4GSAMSAKIBOQh_EiUKIwiwgxsgAUoZChQhBwkUEA0jGhURERAWGhcXHx4bFRD0A2gCIg4KCkIGCNb23r4GSAISAKIBOgiSChIlCiMIme4bIAFKGQoUHwoIFBEOIhoYDxMQFxsYFx8iHBYQ9ANoAiIOCgpCBgjW9t6-BkgCEgCiATkIxAoSJAoiCJbXGSABShgKEyUHCBcTDx8XEg4QDxQSEg8jHh0Q9ANoAiIOCgpCBgjW9t6-BkgCEgCQA5BO&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Y8Xza71ddPT8FWQGFsnat.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIvoAkIAFKDgoJKhUdORQUHRcXEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgI4_4cIAFKDgoJIwwRJQ0PFRIVEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAj26RIgAUoOCgkbCw0YCwkQDg8Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAir2BMgAUoOCgkbCxAXCg0ODxAQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiakBMgAUoOCgkcCAsaCQoODQ4Q9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1011a-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_ai1011a~~cn_spring~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=10a"
+                "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1011b-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-drop2~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=video_10b"
               }
             }
           ]
@@ -172,10 +424,10 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "09ac5bce-f754-48d4-9892-63f5db78bfee",
-        "name": "cn_summer-fy25|cc_brand|cy_video|crn_6g-drop2|ci_xxxx",
+        "id": "7bf331bd-fa2c-4209-99d8-6faa5a703dd9",
+        "name": "cn_summer-fy25|cc_brand|cy_video|crn_6b|ci_xxxx",
         "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
-        "status": "ACTIVE",
+        "status": "PAUSED",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
@@ -183,12 +435,12 @@
           "cs"
         ],
         "headline": "H&M Léto 2025",
-        "call_to_action": "VIEW",
+        "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vGPAUFhMot3LFEewaNqXv.67?mo=GpICGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIrKIlIAFKDgoJQjxDSBIQDDlIEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIkN0YIAFKDgoJLiEoLhYLCSMqEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjYkBIgAUoOCgkiGx8jDQYGGyEQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi1kBMgAUoOCgklHSEjCwkHHCQQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjWrxAgAUoOCgkhFhseDwcGFxwQ9ANoAiIGCgJIAhIAogEnCNIKEhoKGAjzvRAgAUoOCgkhFhoeEQgGFxsQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ShDOrM8Wz0Cym4RHBKBOO.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIhK4kIAFKDgoJLz0nLikrJDBfEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgI4_UWIAFKDgoJKSUZIh0cGxw3EPQDaAIiBgoCSAISAKIBJgh_EhoKGAjJzREgAUoOCgkcIQ8YFxoVGCoQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjHzhIgAUoOCgkdIhAYFxgZGC0Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAi84w8gAUoOCgkeGRIXFBITFyEQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
         "start_date": "2025-05-15T21:00:44.000Z",
-        "impressions_total": 143050,
+        "impressions_total": 38696,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -213,7 +465,7 @@
           "es": 0,
           "at": 0,
           "cy": 0,
-          "cz": 143050,
+          "cz": 38696,
           "pl": 0,
           "ro": 0,
           "nl": 0,
@@ -238,7 +490,95 @@
         "profile_name": "H&M",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1031b-summer-2025-drop-2.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_1031-a~cn_summer~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=6g"
+          "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1031a-summer-2025-drop-1.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_1031-a~cn_summer~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=6b"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "17c1dc3a-ee43-4bd8-a820-b2aee31123d6",
+        "name": "cn_spring-drop-2--|cc_brand|cy_video|crn_6e|ci_xxxx",
+        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "cs"
+        ],
+        "headline": "Romantický minimalismus S/S 2025.",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-03-19T23:00:10.000Z",
+        "impressions_total": 76241,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 76241,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Romantický minimalismus S/S 2025.",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4uLIRMeEXwNmDN3oC5fo7.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIvogYIAFKDgoJOyQQGwsYGCk3EPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIyvEUIAFKDgoJNiAOGgsRFyIzEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiX0A8gAUoOCgkmFA4SCBARHCIQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiM9A8gAUoOCgklFg0TCQ8SHiEQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjHkg4gAUoOCgknFQkSCAwPGSIQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1011b-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-drop2~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=video_6e"
+              }
+            }
+          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -336,335 +676,6 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "1d5331a4-89ab-42f6-8542-551c6a81ead6",
-        "name": "cn_summer-fy25|cc_brand|cy_video|crn_10b|ci_xxxx",
-        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "cs"
-        ],
-        "headline": "H&M Léto 2025",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/M6uehgeZMAgl1Qokbj4yz.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIo7BHIAFKDgoJMjYkE1c5TDlYEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIq68sIAFKDgoJLB8ZDjYdJiw2EPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiQgyMgAUoOCgkfIA8JJhUiHiwQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAje1SQgAUoOCgkgIBAKKRcmICoQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjb2x0gAUoOCgkgFREJIhMYHSgQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-05-15T21:00:44.000Z",
-        "impressions_total": 44156,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 44156,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "profile_name": "H&M",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1031a-summer-2025-drop-1.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_1031-a~cn_summer~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=10b"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4a2d82c7-838c-4e78-b044-2d7bf8cc75e9",
-        "name": "cn_spring-drop-2--|cc_brand|cy_video|crn_6c|ci_xxxx",
-        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "cs"
-        ],
-        "headline": "Romantický minimalismus S/S 2025.",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-19T23:00:10.000Z",
-        "impressions_total": 76909,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 76909,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "profile_name": "H&M",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Romantický minimalismus S/S 2025.",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/S3dwXolQwMNVqu7p1eaGK.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAiIqRogAUoOCgkyOR4iFiQxJCMQ9ANoAiICEgCiASMIugoSGgoYCLaUEiABSg4KCSMYFBMTEyQbHBD0A2gCIgISAKIBIgh_EhoKGAj8-QsgAUoOCgkXDg8QCw0RFRIQ9ANoAiICEgCiASMIkgoSGgoYCOfYDCABSg4KCRcPDBIMDxYUFBD0A2gCIgISAKIBIwjEChIaChgIz5EMIAFKDgoJFhENDg0PFhITEPQDaAIiAhIAkAPwLg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1011b-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-drop2~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=video_6c"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "e5d1d978-4471-4cbd-8ce7-2e172cccf20b",
-        "name": "cn_summer-fy25|cc_brand|cy_video|crn_10h-drop2|ci_xxxx",
-        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "cs"
-        ],
-        "headline": "H&M Léto 2025",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/w8lro2yNY57FKUj9tuGWT.67?mo=GvwBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAj-3jEgAUoOCglAJy9BSDAcGRoQ9ANoAiICEgCiASMIugoSGgoYCJXtISABSg4KCSccIyguIhcVGBD0A2gCIgISAKIBIgh_EhoKGAjqxBggAUoOCgkbFxscIRsSERIQ9ANoAiICEgCiASMIkgoSGgoYCKfJGSABSg4KCRwYGyEhGxIRERD0A2gCIgISAKIBIwjEChIaChgIlo8WIAFKDgoJHBMXGh0XEQ4QEPQDaAIiAhIAogEjCNIKEhoKGAiesxYgAUoOCgkcFBcaHBgREBAQ9ANoAiICEgCQA5BO&uc=15",
-        "start_date": "2025-05-15T21:00:44.000Z",
-        "impressions_total": 120458,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 120458,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "profile_name": "H&M",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1031b-summer-2025-drop-2.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_1031-a~cn_summer~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=10h"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "bccf54e4-e238-412d-bab4-58bde5d8f957",
-        "name": "cn_spring-drop-2--|cc_brand|cy_video|crn_10a|ci_xxxx",
-        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "cs"
-        ],
-        "headline": "Romantický minimalismus S/S 2025.",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-19T23:00:10.000Z",
-        "impressions_total": 76249,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 76249,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "profile_name": "H&M",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Romantický minimalismus S/S 2025.",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/48RTBISIiire0D7u7Qt3z.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIsKooIAFKDgoJXjc2NA0RDBgXEPQDaAIiBgoCSAISAKIBJwi6ChIaChgIvYMjIAFKDgoJUCUoKg4PDBMXEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAi41BggAUoOCgk7ICIdCgwIEREQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjPyRkgAUoOCgk8IiIdCwwKEBIQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjh2BcgAUoOCgk7GhwdCQoIDRAQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1011b-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-drop2~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=video_10a"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
         "id": "d4a159b4-7c91-4202-b98b-38a702cfb969",
         "name": "cn_summer-fy25|cc_brand|cy_video|crn_6h-drop2|ci_xxxx",
         "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
@@ -741,23 +752,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "e9e4e58e-c27c-435b-af31-d28532b8c89d",
-        "name": "cn_summer-fy25|cc_brand|cy_video|crn_10a|ci_xxxx",
+        "id": "0a68d03c-6d86-4f46-920b-6c8170c0ae7a",
+        "name": "cn_spring-fy25-drop-1|cc_brand|cy_video|crn_10a|ci_4vq6bv0ed4nl",
         "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
         "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [
           "cs"
         ],
-        "headline": "H&M Léto 2025",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
+        "headline": "Notes on Being — H&M S/S 2025.",
+        "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/z7m0EgswRF9qJsg4I2b9p.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI1rY8IAFKDgoJRjoyQjQpKjwcEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgInsQnIAFKDgoJNSQgKCIaGyUREPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjzsSEgAUoOCgkrHh4lGRYTIA4Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjD3CMgAUoOCgkuIiAqGhgUIQ8Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjttRogAUoOCgknGRYbFhISGQoQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-05-15T21:00:44.000Z",
-        "impressions_total": 35368,
+        "start_date": "2025-03-19T23:00:10.000Z",
+        "impressions_total": 51040,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -782,7 +791,7 @@
           "es": 0,
           "at": 0,
           "cy": 0,
-          "cz": 35368,
+          "cz": 51040,
           "pl": 0,
           "ro": 0,
           "nl": 0,
@@ -806,8 +815,22 @@
         "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
         "profile_name": "H&M",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1031a-summer-2025-drop-1.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_1031-a~cn_summer~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=10a"
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Notes on Being — H&M S/S 2025.",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NzqUzSZSDtsgWFuk24pSb.67?mo=GscCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBOQhDEiUKIwj51S8gAUoZChQ7ExQvGxpELSMgHBwgIh4cPzU0JRD0A2gCIg4KCkIGCPn13r4GSAMSAKIBOQi6ChIkCiII5OYnIAFKGAoTPQ0QIRwXLiIaFhkXIBwcFzQtLxD0A2gCIg4KCkIGCNb23r4GSAMSAKIBOQh_EiUKIwiwgxsgAUoZChQhBwkUEA0jGhURERAWGhcXHx4bFRD0A2gCIg4KCkIGCNb23r4GSAISAKIBOgiSChIlCiMIme4bIAFKGQoUHwoIFBEOIhoYDxMQFxsYFx8iHBYQ9ANoAiIOCgpCBgjW9t6-BkgCEgCiATkIxAoSJAoiCJbXGSABShgKEyUHCBcTDx8XEg4QDxQSEg8jHh0Q9ANoAiIOCgpCBgjW9t6-BkgCEgCQA5BO&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www2.hm.com/cs_cz/zeny/vybrat-podle-stylu/1011a-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_cz~pl_snapchat~bg_global-brand~ai_ai1011a~~cn_spring~tn_xxxx~bu_ladies~pi_czf20aod1af214&utm_term=cz&utm_content=10a"
+              }
+            }
+          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

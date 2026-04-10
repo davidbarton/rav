@@ -1,30 +1,30 @@
 {
   "brand": "Mango",
   "country": "nl",
-  "fetched_at": "2026-04-09T21:08:49.571Z",
+  "fetched_at": "2026-04-10T07:00:56.684Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "6f419ba5-e7b8-4f34-9826-fc5190192750",
-        "name": "V20-45_Commercial_10sec",
-        "ad_account_name": "GH_EMC - ICI Paris XL",
+        "id": "60448a70-1c4b-46db-85fb-e06c39efe54b",
+        "name": "Commercial - Brand - 16x - 15s",
+        "ad_account_name": "GH_MS - NS_NSI",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "en"
+          "nl"
         ],
-        "headline": "Spray. Voel. Energy. Repeat.",
-        "call_to_action": "SHOP NOW",
+        "headline": "Eurocity Direct 16x naar België.",
+        "call_to_action": "VIEW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZqCufEZzllEC1nZfY0MOr.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwiNpTEgATDgAzjUBkABSg4KCXJnIxlpXSgXIxD0A1CqR2gCIgISAKIBLgi6ChIlCiMI_YAlIAEw0AU4gApAAkoOCglTWhoQQzQlFhcQ9ANQqkdoAiICEgCiAS0IfxIlCiMIhOIZIAEw4AM41AZAAkoOCglBMRYPODETCwwQ9ANQqkdoAiICEgCiAS4IkgoSJQojCJjQGyABMOADONQGQAJKDgoJRTgXCUU1FAsOEPQDUKpHaAIiAhIAogEuCMQKEiUKIwjomxggATDgAzjWBkACSg4KCTg4DworIxcODxD0A1CqR2gCIgISAKIBLgjSChIlCiMIn4EYIAEw4AM41AZAAkoOCgk3NhAKKiMVDw4Q9ANQqkdoAiICEgCQA6pH&uc=15",
-        "start_date": "2025-06-02T07:00:47.000Z",
-        "impressions_total": 139180,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VBMJNpuTrngxmIBHsSyTM.67?mo=GokCGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigIyLE0IAEw4AM41AZAAUoOCgkgBAMDBAYpPSgQ9ANQmHVoAnXrvm9AIgYKAkgDEgCiATcIugoSKgooCPfpKiABMNAFOIAKQAJKDgoJLQUFBgUHGi0gEPQDUJh1aAJ1pRJvQCIGCgJIAhIAogE8CJIKEi8KLQiZhiEgATDgAzjUBkACSg4KCR4EBAQEBxciHRD0A1CYdWgCdRqIa0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQj-gh4gATDgAzjUBkACSg4KCSgDAwQDBRIfFhD0A1CYdWgCdRava0B9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2025-11-03T07:00:30.000Z",
+        "impressions_total": 146268,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -52,15 +52,91 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 139180,
+          "nl": 146268,
           "tr": 0
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "20",
-              "max_age": "45",
+              "min_age": "25",
+              "max_age": "50",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Blue Mango Interactive B.V.",
+        "brand_name": "NS International",
+        "profile_name": "NS International",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvM1laZUJyRjVIV3ZqVUVOSEVOWEJDP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "HIDE",
+        "web_view_properties": {
+          "url": "https://www.nsinternational.com/nl/eropuit/eurocity-direct?utm_source=Snapchat_tell_leisure_commercial&utm_medium=Paid_Social_Snapchat&utm_campaign=direct_2025_04&utm_content=video_brand_16x_15s&utm_term=tell&utm_id=96296"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "aff5a0df-7d50-4477-bce2-9e5df87e0441",
+        "name": "Zomer - 10s",
+        "ad_account_name": "GH_MS - NLO - Winnitt",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Speel Winnitt Bingo!",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BMuDH1sVePM18hi9rLpPi.67?mo=GtcCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIqZ4vIAEw4AM41AZAAUoOCglnExAVMk0rIRcQ9ANQkE5oAiIGCgJIBBIAogEzCLoKEiYKJAi-xDIgATDQBTiACkACSg8KCoIBExIXMEAiIhQQ9ANQkE5oAiIGCgJIAhIAogExCH8SJQojCMyKIiABMOADONQGQAJKDgoJSRAOECIvHhcOEPQDUJBOaAIiBgoCSAISAKIBMgiSChIlCiMIur4iIAEw4AM41AZAAkoOCglFEQ0SITMjEw4Q9ANQkE5oAiIGCgJIAhIAogEzCMQKEiYKJAjFpyQgATDgAzjWBkACSg8KCoEBDAwOHywXFg0Q9ANQkE5oAiIGCgJIAhIAogEzCNIKEiYKJAiO6CUgATDgAzjUBkACSg8KCoQBDg0PIS8ZFw0Q9ANQkE5oAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-06-17T14:00:05.000Z",
+        "impressions_total": 70373,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 70373,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "25",
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [],
@@ -71,10 +147,10 @@
           "devices": []
         },
         "paying_advertiser_name": "Blue Mango Interactive B.V.",
-        "profile_name": "ICI PARIS XL Nederland",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva2xIdVg5eG0yV1oyTmZWc0ZBSlBwP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "brand_name": "Winnitt",
+        "favorite_display_mode": "HIDE",
         "web_view_properties": {
-          "url": "https://www.iciparisxl.nl/intimacy/energy/eau-de-parfum/p/BP_1339743?utm_source=snapchat&utm_medium=paid-social&utm_campaign=GOB_Intimacy_wk23-24&utm_content=commercial_10sec_vrouwen&utm_id=78593"
+          "url": "https://casino.toto.nl/winn-itt/bingo?utm_source=tot-win-br-sc-touch&utm_medium=smc&utm_campaign=tot-win-ongoing-q2-2025&utm_content=touch-video-boodschappen-6s&utm_term=bingolaunch-6s-snapad&utm_id=snapchat_{{adSet.id}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -84,23 +160,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "350f9de4-3235-4510-b5e5-8a80868c6acc",
-        "name": "TT-B2C-A-Linkad-Sketch4-For the Vibes",
-        "ad_account_name": "GH_WM - TempoTeam",
-        "status": "ACTIVE",
+        "id": "10876d8a-994e-44bd-a34e-de1a7d35b261",
+        "name": "Old- Skateboard - 6s",
+        "ad_account_name": "GH_MS - NLO - Lotto",
+        "status": "PAUSED",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "nl"
         ],
-        "headline": "Werkplezier is een vibe!",
-        "call_to_action": "MORE",
+        "headline": "Uiterlijk 31 mei valt de Jackpot!",
+        "call_to_action": "VIEW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZrBhSY5neHuMSRUOGWngG.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI8_5iIAEw4AM41AZAAUoOCglwU046SEE5PzkQ9ANQ1GFoAiIGCgJIBBIAogEyCLoKEiUKIwjg0VIgATDQBTiACkACSg4KCXI_Qzw-LTM3NRD0A1DUYWgCIgYKAkgCEgCiATEIfxIlCiMIuppJIAEw4AM41AZAAkoOCglYNT0uOjIsMi0Q9ANQ1GFoAiIGCgJIAhIAogEyCJIKEiUKIwidjUsgATDgAzjUBkACSg4KCVg1PDYyNio1LRD0A1DUYWgCIgYKAkgCEgCiATIIxAoSJQojCMeLOCABMOADONYGQAJKDgoJUiovKiseJiYlEPQDUNRhaAIiBgoCSAISAKIBMgjSChIlCiMIjqE7IAEw4AM41AZAAkoOCglXLjMtLh8oJiYQ9ANQ1GFoAiIGCgJIAhIAkAPUYQ%3D%3D&uc=15",
-        "start_date": "2025-08-18T07:00:31.000Z",
-        "impressions_total": 1880199,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hnTwZmCcL7VTPtfF8Va7c.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIjtgPIAFKDgoJJyMXFxUwDwwNEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIi-EOIAFKDgoJLBcVFBQtDg0MEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAivngsgAUoOCgkbFw4QDh4MDQwQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAibmgwgAUoOCgkcFw8RESAPDwsQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiwlAogAUoOCgkdEBANDiIJCAgQ9ANoAiIGCgJIAhIAkAPALw%3D%3D&uc=15",
+        "start_date": "2025-05-19T11:00:33.000Z",
+        "impressions_total": 42233,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -128,7 +204,82 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 1880199,
+          "nl": 42233,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "35",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Blue Mango Interactive B.V.",
+        "profile_name": "Lotto",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFlNZDVlakpBYmZDY2ZPcmMxS2NJP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://lotto.nederlandseloterij.nl/?&utm_source=lot-br-sc&utm_medium=smc&utm_campaign=lot-br-jackpotcampagne&utm_content=skteboard-6s"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b4020e9b-b21a-49e4-bc43-373fcf1f92f9",
+        "name": "Vid_9s_9x16_StevenBerghuis",
+        "ad_account_name": "GH_MS - Skechers",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Control the game like Steven. 🪄",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XBkEcf8vCpcNKdTqmEmkB.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwiU_j0gATDgAzjUBkABSg4KCV4rJR5SHydZPxD0A1DQRmgCIgISAKIBLgi6ChIlCiMIlLoxIAEw0AU4gApAAkoOCglPIhoVWRQgTysQ9ANQ0EZoAiICEgCiAS0IfxIlCiMIj7AmIAEw4AM41AZAAkoOCgk-GxcTMRIZNSMQ9ANQ0EZoAiICEgCiAS4IkgoSJQojCLygKCABMOADONQGQAJKDgoJOiMWFC4VGTcmEPQDUNBGaAIiAhIAogEuCMQKEiUKIwiIqB8gATDgAzjWBkACSg4KCTcUEA8yDRUxGxD0A1DQRmgCIgISAKIBLgjSChIlCiMIvbYfIAEw4AM41AZAAkoOCgk4FRIOMg0WMRoQ9ANQ0EZoAiICEgCQA9BG&uc=15",
+        "start_date": "2025-08-25T06:00:00.000Z",
+        "impressions_total": 570063,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 570063,
           "tr": 0
         },
         "targeting_v2": {
@@ -143,20 +294,15 @@
               "advanced_demographics": []
             }
           ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
+          "devices": []
         },
         "paying_advertiser_name": "Blue Mango Interactive B.V.",
-        "profile_name": "Tempo-Team",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcFVadU9RamVwYnRFWjh1UTVBc0c2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "brand_name": "Skechers Football",
+        "profile_name": "Skechers Benelux",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRmZKSWFZVkdLMUQ1VWh4TGpLS3FUP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "HIDE",
         "web_view_properties": {
-          "url": "https://www.tempo-team.nl/werknemers/werkplezier?utm_source=snapchat&utm_medium=cpm&utm_campaign=tt-snp-b2c-a-cmp-vibes-wm&utm_content=snapads&utm_term=sketch4-forthevibes&utm_id=80393"
+          "url": "https://www.skechers.nl/football/?utm_source=Snapchat&utm_medium=Social&utm_campaign=Skechers_Football_Steven_Berghuis"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -166,9 +312,9 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b21a4b49-ad19-4e86-b264-357cc016200c",
-        "name": "Deken - SnapAd - 13s",
-        "ad_account_name": "GH_MS - CZ Just",
+        "id": "7729bc03-8c18-4ed2-b6d8-3b5eb18064ca",
+        "name": "Broad-18-49_SnapAd",
+        "ad_account_name": "GH_MS - Burger King",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
@@ -176,13 +322,13 @@
         "languages": [
           "nl"
         ],
-        "headline": "Mental breakdown?",
+        "headline": "Ontdek de Eurovlammers nu!",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zqy9jOULSVzny7S08e1Rp.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiG-CggATDgAzjUBkABSg4KCTALCwkNFg0QCBD0A1DIZWgCdZeRXUAiBgoCSAMSAKIBNwi6ChIqCigI19IiIAEw0AU4gApAAkoOCgkoBwcHExALDAkQ9ANQyGVoAnWnsWVAIgYKAkgDEgCiATwIkgoSLwotCOHcGiABMOADONQGQAJKDgoJJQYGBQoPCAYJEPQDUMhlaAJ1I29HQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCM7xFyABMOADONQGQAJKDgoJKAQFBQkPCAgGEPQDUMhlaAJ10QpYQH0AAIA_IgYKAkgCEgCQA8hl&uc=15",
-        "start_date": "2025-11-24T07:00:58.000Z",
-        "impressions_total": 45528,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/AFyJJIVPK0P8kD8vXVdWO.67?mo=GoICGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCLjTDyABMOADONQGQAFKDgoJOhImDgQOTggFEPQDUPAuaAJ1-muAQCICEgCiATgIugoSLwotCNeHGSABMNAFOIAKQAJKDgoJOx9eFgUUfhUGEPQDUPAuaAJ1bZyEQH0AAIA_IgISAKIBOAiSChIvCi0I-YMOIAEw4AM41AZAAkoOCgk0Dx0OBQxDCwUQ9ANQ8C5oAnUMkH1AfQAAgD8iAhIAogE4CNIKEi8KLQi75g0gATDgAzjUBkACSg4KCSsRHxcDDD0QBBD0A1DwLmgCdVy_fUB9AACAPyICEgCQA_Au&uc=15",
+        "start_date": "2026-01-16T07:00:17.000Z",
+        "impressions_total": 1316769,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -210,7 +356,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 45528,
+          "nl": 1316769,
           "tr": 0
         },
         "targeting_v2": {
@@ -218,7 +364,7 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "30",
+              "max_age": "49",
               "age_groups": [],
               "languages": [],
               "operation": "INCLUDE",
@@ -228,10 +374,11 @@
           "devices": []
         },
         "paying_advertiser_name": "Blue Mango Interactive B.V.",
-        "brand_name": "Just Zorgverzekering",
+        "profile_name": "Burger King Nederland",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3RJZW50VGVFSEl2SHo3ZlM0aDRFP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
         "favorite_display_mode": "HIDE",
         "web_view_properties": {
-          "url": "https://just.nl/moetje-wilje?utm_id=snapchat_{{adSet.id}}&pk_cid=snapchat_{{adSet.id}}&utm_source=snapchat&utm_medium=smc&utm_campaign=25_JUST_NEXTGEN_AWA_TE_TELL_PR&utm_content=snapad-13s-deken&utm_term=tell"
+          "url": "https://www.burgerking.nl"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -241,20 +388,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "8976b312-4508-45e9-86ef-3daebe5007ec",
-        "name": "M/V18+_Snapad_price",
-        "ad_account_name": "GM_EMC - ICI Paris XL - Smartly",
+        "id": "79545776-4a79-41fa-8fda-e71f96c29430",
+        "name": "V20-45_Video_6sec",
+        "ad_account_name": "GH_EMC - ICI Paris XL",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Shop voordelig bij ICI PARIS XL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Voor haar, met liefde💖",
         "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "DYNAMIC",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-10-01T12:00:00.000Z",
-        "impressions_total": 200100,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/x8jZVgl9QK2XSKWZPAXBr.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAiPsB4gAUoOCglDUSQuKzk4Jx4Q9ANoAiICEgCiASMIugoSGgoYCO_6GCABSg4KCURAJiMgKSUdGBD0A2gCIgISAKIBIgh_EhoKGAjstBAgAUoOCgknLBAXFx8gFQ8Q9ANoAiICEgCiASMIkgoSGgoYCJSbESABSg4KCSgqFRgXISIWDxD0A2gCIgISAKIBIwjEChIaChgItf8PIAFKDgoJKyoWFxUbGREQEPQDaAIiAhIAkAPoNA%3D%3D&uc=15",
+        "start_date": "2025-04-28T12:00:09.000Z",
+        "impressions_total": 1489439,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -282,7 +432,79 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 200100,
+          "nl": 1489439,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "20",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Blue Mango Interactive B.V.",
+        "profile_name": "ICI PARIS XL Nederland",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qva2xIdVg5eG0yV1oyTmZWc0ZBSlBwP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.iciparisxl.nl/intimacy/grace/eau-de-parfum/p/BP_1339729535?utm_source=snapchat&utm_medium=paid-social&utm_campaign=GOB_Intimacy_wk18_19&utm_content=snapad_6sec&utm_id=73534"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "8a057118-660e-4907-a638-874c313893c1",
+        "name": "M/V18+_Snapad_ongoing_discount",
+        "ad_account_name": "GH_EMC - ICI Paris XL",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Jouw favoriete beauty producten",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-01-02T14:00:00.000Z",
+        "impressions_total": 1550095,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 1550095,
           "tr": 0
         },
         "targeting_v2": {
@@ -1996,16 +2218,16 @@
           ],
           "template": {},
           "dynamic_template": {
-            "name": "Smartly Image Template - IPXL 41-44_Ongoing campagnes_geuren_Social_Snapchat_9x16 DPA GOB",
+            "name": "Smartly Image Template - Price-ICI Ongoing_RT_2025_SNAPCHAT_stories Vaderdag",
             "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "layout": "FILL_HEIGHT",
             "text_fields": [
-              "``",
-              "``"
+              "title",
+              "price"
             ],
             "preferred_image_tags": [
-              "01c6d7e6-224d-46a5-a51c-bce82df738c9"
+              "18fd042e-e364-495d-9b07-58b09747ff6e"
             ]
           },
           "vertical": "COMMERCE"
@@ -2018,310 +2240,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "a04dfe37-1820-4c6d-80c7-fac9d8de4d58",
-        "name": "Wachtkamer - Commercial - 13s",
-        "ad_account_name": "GH_MS - CZ Just",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Altijd een online dokter op zak",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/E4ViJYxbYceiMZO0t3Xlh.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjGxDkgATDgAzjUBkABSg4KCUwbGiEWIiAqPhD0A1DIZWgCdZRsbkAiBgoCSAMSAKIBPAi6ChIvCi0I5ZwwIAEw0AU4gApAAkoOCglFFBcXGx0ZIzcQ9ANQyGVoAnWqcntAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0IvcElIAEw4AM41AZAAkoOCgk2EhESFRgWGi4Q9ANQyGVoAnXAIldAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IiNkhIAEw4AM41AZAAkoOCgk2EBAQExUSGCcQ9ANQyGVoAnUKlmdAfQAAgD8iBgoCSAISAJADyGU%3D&uc=15",
-        "start_date": "2025-11-24T07:00:58.000Z",
-        "impressions_total": 401010,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 401010,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "30",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Blue Mango Interactive B.V.",
-        "brand_name": "Just Zorgverzekering",
-        "favorite_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://just.nl/moetje-wilje?utm_id=snapchat_{{adSet.id}}&pk_cid=snapchat_{{adSet.id}}&utm_source=snapchat&utm_medium=smc&utm_campaign=25_JUST_NEXTGEN_AWA_TE_TELL_PR&utm_content=commercial-13s-wachtkamer&utm_term=tell"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4a109016-6c3e-4013-ae62-728658b8ef0e",
-        "name": "STL - 10mrt26 - Commercial - 6s - Reg",
-        "ad_account_name": "GH_MS - NLO - Staatsloterij - Smartly",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Kans op €18.400.000 belastingvrij",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Yz68268ZDVgVJUYnUILjo.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiQqBUgATDgAzjUBkABSg4KCWsWEhkTERMZFxD0A1DwLmgCdYjQZ0AiBgoCSAISAKIBPAi6ChIvCi0I3LYVIAEw0AU4gApAAkoOCglzExQVFhAUGRcQ9ANQ8C5oAnVaKXdAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0ImJURIAEw4AM41AZAAkoOCglLEQ4VEQ8QFhUQ9ANQ8C5oAnWkY1tAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I6r0PIAEw4AM41AZAAkoOCglVDQ4PEAsOExAQ9ANQ8C5oAnXAI2hAfQAAgD8iBgoCSAISAJAD8C4%3D&uc=15",
-        "start_date": "2026-03-06T07:00:34.000Z",
-        "impressions_total": 62351,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 62351,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "30",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Blue Mango Interactive B.V.",
-        "profile_name": "Staatsloterij",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNUtLTEhPekxnTEI4YXNNQ2cyUUQ5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://staatsloterij.nederlandseloterij.nl/loten?utm_source=stl-aw-sc&utm_medium=smc&utm_campaign=stl-aw-10&utm_content=commercial-olv-6sec&utm_id=snapchat_{{adSet.id}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "73296b47-70a0-40ef-a72e-32a20176a64c",
-        "name": "Old - Static JP gevallen",
-        "ad_account_name": "GH_MS - NLO - Lotto",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "De Lotto jackpot is gevallen!",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ur96ntVeJ0uENSvYFs7uz.67?mo=GpICGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLghDEhoKGAj-zxUgAUoOCgkrIR0dHBgaFxUQ9ANoAiIOCgpCBgiZoam_BkgDEgCiAS8IugoSGgoYCP6cFSABSg4KCS8gGh8gGRQYFRD0A2gCIg4KCkIGCNOhqb8GSAISAKIBLgh_EhoKGAjC2RAgAUoOCgkiGhYWFBQTEREQ9ANoAiIOCgpCBgjToam_BkgCEgCiAS8IkgoSGgoYCLnpESABSg4KCSIdGBgYExUTERD0A2gCIg4KCkIGCNOhqb8GSAISAKIBLwjEChIaChgIiekOIAFKDgoJIxoSFRUTDg8NEPQDaAIiDgoKQgYI06GpvwZIAhIAkAOQNQ%3D%3D&uc=15",
-        "start_date": "2025-03-31T15:30:56.000Z",
-        "impressions_total": 944775,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 944775,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "35",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Blue Mango Interactive B.V.",
-        "profile_name": "Lotto",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFlNZDVlakpBYmZDY2ZPcmMxS2NJP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://lotto.nederlandseloterij.nl/vaakst-vallende-jackpot?&utm_source=lot-br-sc&utm_medium=smc&utm_campaign=lot-br-jackpotcampagne&utm_content=static"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "25221033-d577-4adb-873e-5469f45c4909",
-        "name": "Video - 6s - 2 weken - Geel",
-        "ad_account_name": "GH_MS - NLO - Lotto",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Uiterlijk 31 mei valt de Jackpot!",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ktODH7953AbSrHCi5X8zo.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIs94OIAFKDgoJMxoSDxkTDg4NEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgI99kNIAFKDgoJMRUQDhYTDBAMEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiM7QsgAUoOCgkpFA4MExIJDAsQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjLtAwgAUoOCgkrFQ8NFBELCwwQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAj49wkgAUoOCgklDwwMDw0JDAgQ9ANoAiIGCgJIAhIAkAOYLw%3D%3D&uc=15",
-        "start_date": "2025-05-19T11:00:38.000Z",
-        "impressions_total": 44179,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 44179,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "35",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Blue Mango Interactive B.V.",
-        "profile_name": "Lotto",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRFlNZDVlakpBYmZDY2ZPcmMxS2NJP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://lotto.nederlandseloterij.nl/?&utm_source=lot-br-sc&utm_medium=smc&utm_campaign=lot-br-jackpotcampagne-1b&utm_content=t13_vara"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c0d5fce3-06e8-4718-8bf6-8daeb937a93c",
-        "name": "SnapAd - Boodschappen - 6s",
+        "id": "3833a7fc-3856-47e3-af39-278cc13890b3",
+        "name": "Boodschappen - 6s",
         "ad_account_name": "GH_MS - NLO - Winnitt",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -2335,8 +2255,8 @@
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
         "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZniYzMnum4eeBls9Jntah.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIv8keIAEw4AM41AZAAUoOCglnOCU8LDsdHhAQ9ANQmC9oAiIGCgJIAxIAogEyCLoKEiUKIwjkzxsgATDQBTiACkACSg4KCVMoIjIoSx0ZGhD0A1CYL2gCIgYKAkgCEgCiATEIfxIlCiMIgvoUIAEw4AM41AZAAkoOCglEIxglGykWFgwQ9ANQmC9oAiIGCgJIAhIAogEyCJIKEiUKIwiLqRYgATDgAzjUBkACSg4KCUgkGysaKhYXDhD0A1CYL2gCIgYKAkgCEgCiATIIxAoSJQojCMeTEiABMOADONYGQAJKDgoJPBwXIxwkERIOEPQDUJgvaAIiBgoCSAISAKIBMgjSChIlCiMIhKsTIAEw4AM41AZAAkoOCgk-HxkkHSYSExAQ9ANQmC9oAiIGCgJIAhIAkAOYLw%3D%3D&uc=15",
-        "start_date": "2026-01-02T10:00:27.000Z",
-        "impressions_total": 158856,
+        "start_date": "2025-07-01T11:15:00.000Z",
+        "impressions_total": 243136,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -2364,7 +2284,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 158856,
+          "nl": 243136,
           "tr": 0
         },
         "targeting_v2": {
@@ -2383,9 +2303,9 @@
         },
         "paying_advertiser_name": "Blue Mango Interactive B.V.",
         "brand_name": "Winnitt",
-        "favorite_display_mode": "HIDE",
+        "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://casino.toto.nl/winn-itt/bingo?utm_source=win-wv-sc-pr&utm_medium=smc&utm_campaign=win-aw-ao&utm_content=snapad-video-boodschappen-6s&utm_id=snapchat_{{adSet.id}}"
+          "url": "https://casino.toto.nl/winn-itt/bingo?utm_source=tot-win-br-sc-touch&utm_medium=smc&utm_campaign=tot-win-ongoing-q3-2025&utm_content=touch-video-boodschappen-6s&utm_term=boodschappen-6s-snapad&utm_id=snapchat_{{adSet.id}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -2395,21 +2315,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "46457ce1-fae3-464b-be55-e46c8ab022c3",
-        "name": "Geo-18-49_Storyad_Nugget",
-        "ad_account_name": "GH_MS - Burger King",
+        "id": "55cf0ec5-85de-4fad-bc5b-b6ec288c9934",
+        "name": "Boodschappen - 10s",
+        "ad_account_name": "GH_MS - NLO - Winnitt",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "nl"
         ],
-        "headline": "Ontdek de Eurovlammers nu!",
+        "headline": "Speel Winnitt Bingo!",
         "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-23T07:00:17.000Z",
-        "impressions_total": 938150,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XpcZuZUdhGVflkIvxSIDt.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIsdsrIAEw4AM41AZAAUoOCglLKyQkPShALSgQ9ANQkE5oAiIGCgJIBBIAogEyCLoKEiUKIwje6CcgATDQBTiACkACSg4KCU4fHx43HjAqIhD0A1CQTmgCIgYKAkgCEgCiATEIfxIlCiMIqK0eIAEw4AM41AZAAkoOCgk2HxsaJBwiIRkQ9ANQkE5oAiIGCgJIAhIAogEyCJIKEiUKIwiB7x8gATDgAzjUBkACSg4KCTQjGxonGikiGxD0A1CQTmgCIgYKAkgCEgCiATIIxAoSJQojCOfpGyABMOADONYGQAJKDgoJQhUVFCYUIhwYEPQDUJBOaAIiBgoCSAISAKIBMgjSChIlCiMIz9wdIAEw4AM41AZAAkoOCglDFxcUJxckHhgQ9ANQkE5oAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-07-01T11:15:00.000Z",
+        "impressions_total": 334541,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -2437,16 +2359,16 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 938150,
+          "nl": 334541,
           "tr": 0
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "18",
-              "max_age": "49",
+              "min_age": "25",
               "age_groups": [],
+              "gender": "FEMALE",
               "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
@@ -2455,24 +2377,83 @@
           "devices": []
         },
         "paying_advertiser_name": "Blue Mango Interactive B.V.",
-        "profile_name": "Burger King Nederland",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3RJZW50VGVFSEl2SHo3ZlM0aDRFP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
+        "brand_name": "Winnitt",
+        "web_view_properties": {
+          "url": "https://casino.toto.nl/winn-itt/bingo?utm_source=tot-win-br-sc-touch&utm_medium=smc&utm_campaign=tot-win-ongoing-q2-2025&utm_content=touch-video-boodschappen-10s&utm_term=10s-snapad&utm_id=snapchat_{{adSet.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "9f11351c-670b-4ede-8fe4-912d62a189ea",
+        "name": "TT-B2C-B-Linkad-Leadad1-Kok",
+        "ad_account_name": "GH_WM - TempoTeam",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Werkplezier is een vibe!",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WFm7cPbkorP5XhKG3dbHt.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI3K4LIAEw4AM41AZAAUoOCgkvFg0MCw8KDQsQ9ANQ8C5oAiIGCgJIBBIAogEyCLoKEiUKIwiBggogATDQBTiACkACSg4KCToOCggJDQkKCBD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMI1fgGIAEw4AM41AZAAkoOCgkgDQcHBgkIBwYQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwiLjwcgATDgAzjUBkACSg4KCSANCAcGCQgHBxD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCMiLByABMOADONYGQAJKDgoJKAoHBgYLBwcFEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMIoswHIAEw4AM41AZAAkoOCgkrCggGBwsICAUQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-05-30T07:15:00.000Z",
+        "impressions_total": 95667,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 95667,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
             {
-              "type": "WEB_VIEW",
-              "headline": "Ontdek de Eurovlammers nu!",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/s26PXbsU1ULCgEWauWKnD.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiSmgsgATDgAzjUBkABSg4KCTkMBAQEDTsHBhD0A1DwLmgCdcPyeUAiBgoCSAISAKIBNwi6ChIqCigItrYRIAEw0AU4gApAAkoOCglbDQYHBRVfEgYQ9ANQ8C5oAnW2B4JAIgYKAkgDEgCiATwIkgoSLwotCKiVCiABMOADONQGQAJKDgoJMgoEBQQNMQkFEPQDUPAuaAJ1lo13QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCP6SCiABMOADONQGQAJKDgoJLhMDAwQKMA8EEPQDUPAuaAJ1uvt3QH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.burgerking.nl"
-              }
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
             }
-          ]
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Blue Mango Interactive B.V.",
+        "profile_name": "Tempo-Team",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcFVadU9RamVwYnRFWjh1UTVBc0c2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.tempo-team.nl/vacatures?zoekterm=kok&locatie=&afstand=20&utm_source=snapchat&utm_medium=cpm&utm_campaign=tt-snp-b2c-b-cmp-vibes-wm&utm_content=leadad&utm_term=leadad1-kok"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

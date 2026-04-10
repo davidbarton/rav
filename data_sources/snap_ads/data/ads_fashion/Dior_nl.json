@@ -1,10 +1,88 @@
 {
   "brand": "Dior",
   "country": "nl",
-  "fetched_at": "2026-04-09T22:28:42.099Z",
+  "fetched_at": "2026-04-10T07:45:08.195Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e2a514ae-45b1-4e4a-893f-8e9d70a0c7b9",
+        "name": "SUMMERCOLLECTION26_LENS_LENS_NO_LEARN_MCOP_JETT",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "LENS_WEB_VIEW",
+        "ad_type": "LENS_REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Dior",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "LENS_PACKAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/bc524ee4-9727-4fd3-b0fd-c84ed8185c43.lens",
+        "start_date": "2026-03-04T23:00:38.000Z",
+        "impressions_total": 198398,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 198398,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "50",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "lens_preview": {
+          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/JkmebbaAJ9CDjxolMXRdP?bo=EhQyAX06AQRCBgjZo_rKBkgCUBJgAQ%3D%3D&uc=18",
+          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/d1f79383-3d83-4be9-b109-bf8825fc8b19.mp4",
+          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/d1f79383-3d83-4be9-b109-bf8825fc8b19.webp"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -117,21 +195,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "5d09a429-b3d9-4e27-ba4e-e5c272de59d1",
-        "name": "visual ",
-        "ad_account_name": "PCD_PC_NLD_EMEA_SOCIAL-SNAPCHAT_PML_EUR_LVMH_",
+        "id": "b74b03f4-793f-4356-bbee-637581d10919",
+        "name": "MENFALL26COLLECTION_STA_SIF_NO_LEARN_MCOP_MAIN_LOOK_10_LOOK30_PPL",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "DIORSHOW",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Herfst 2026",
         "call_to_action": "MORE",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sVrK7kuTWvlH1qcU7meQp.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-05-15T11:36:56.000Z",
-        "impressions_total": 624668,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FhBYTwBEWT2YLVIC3Zv97.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-04-02T10:00:33.000Z",
+        "impressions_total": 520,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -159,17 +239,16 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 624668,
+          "nl": 520,
           "tr": 0
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "18",
-              "max_age": "45",
+              "min_age": "25",
+              "max_age": "54",
               "age_groups": [],
-              "gender": "FEMALE",
               "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
@@ -178,11 +257,83 @@
           "devices": []
         },
         "paying_advertiser_name": "Dior",
-        "brand_name": "Dior",
         "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.dior.com/nl_nl/beauty/makeup/explore-the-latest-diorshow-eye-makeup-releases.html?utm_medium=VID&utm_campaign=PCD-PC-NLD-DIORSHOW-WOM-MKU-202505-FF-VID-EUR-DiorShow&utm_term=DIORSHOW-Snapvhat&dclid=CPK37sPIpY0DFU6Hgwcd7JQJoQ&gad_source=7"
+          "url": "https://www.dior.com/en_int/fashion/mens-fashion/fall-collection?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "fdd30b39-be23-431b-91c3-fa2921d4b248",
+        "name": "SUMMERCOLLECTION26_VID_SVF_NO_LEARN_MCOP_PPV_MODELS",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Zomer 2026",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/kJWaoh5wBDX6g6QFDvSIo.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgjdpGQgATDgAzjUBkABSg4KCT4cHz02NREfKBD0A1DwqwFoAnWyMj1AfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4IvOhAIAEw0AU4gApAAkoOCgk0ExYjKB4MExcQ9ANQ8KsBaAJ1HI5KQH0AAIA_IgYKAkgCEgCiAT0IkgoSMAouCPvHMyABMOADONQGQAJKDgoJKxAQHycZCA4SEPQDUPCrAWgCdTZWMUB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgjxmysgATDgAzjUBkACSg4KCSgMDxcbFQgMDhD0A1DwqwFoAnXyKT5AfQAAgD8iBgoCSAISAJAD8KsB&uc=15",
+        "start_date": "2026-02-19T09:00:57.000Z",
+        "impressions_total": 34210,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 34210,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_int/fashion/womens-fashion/spring-summer-collection?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -270,386 +421,6 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "75a23d74-3f6a-46c1-a223-45547294f1e3",
-        "name": "carrousel 24H - SNAPCHAT_DIORSHOW_Snapchat_PAID-SOCIAL_LPVI_CPVL_TRA_BRO_1x1_CPA_CRD_Y_Snapchat_OSD0009UXS",
-        "ad_account_name": "PCD_PC_NLD_EMEA_SOCIAL-SNAPCHAT_PML_EUR_LVMH_",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "DIORSHOW",
-        "call_to_action": "MORE",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-05-27T06:00:00.000Z",
-        "impressions_total": 503677,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 503677,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "brand_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "DIORSHOW",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gLUHwWUZOuDr7RWegvAxm.67?mo=Gp8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI0YokIAEw4AM41AZAAUoOCglJfFM0LzgzMRkQ9ANQ0ChoAiIGCgJIBBIAogEyCLoKEiUKIwi9nxsgATDQBTiACkACSg4KCTZRQiooJyQmExD0A1DQKGgCIgYKAkgCEgCiATEIfxIlCiMI7b8WIAEw4AM41AZAAkoOCgktSzUoGR8hHRIQ9ANQ0ChoAiIGCgJIAhIAogEyCJIKEiUKIwiAjRcgATDgAzjUBkACSg4KCS5VLCccISEeEhD0A1DQKGgCIgYKAkgCEgCiATIIxAoSJQojCOG1EiABMOADONYGQAJKDgoJKDUrHh0aFhoNEPQDUNAoaAIiBgoCSAISAJAD0Cg%3D&uc=15",
-              "brand_name": "Dior",
-              "web_view_preview": {
-                "url": "https://www.dior.com/nl_nl/beauty/products/diorshow-overvolume-Y0000002.html?utm_medium=VID&utm_campaign=PCD-PC-NLD-DIORSHOW-WOM-MKU-202505-FF-VID-EUR-DiorShow&utm_term=DIORSHOW-Snapchat&dclid=CL2_xLDDuY0DFQGqgwcdY_o4og&gad_source=7"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "DIORSHOW",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OhCbx021WPtyn7X5b4AEH.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "Dior",
-              "web_view_preview": {
-                "url": "https://www.dior.com/nl_nl/beauty/products/diorshow-overvolume-Y0000002.html?utm_medium=VID&utm_campaign=PCD-PC-NLD-DIORSHOW-WOM-MKU-202505-FF-VID-EUR-DiorShow&utm_term=DIORSHOW-Snapchat&dclid=CL2_xLDDuY0DFQGqgwcdY_o4og&gad_source=7"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "DIORSHOW",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/lQYmOWng3cTilPz94Yqnh.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "Dior",
-              "web_view_preview": {
-                "url": "https://www.dior.com/nl_nl/beauty/products/diorshow-overvolume-Y0000002.html?utm_medium=VID&utm_campaign=PCD-PC-NLD-DIORSHOW-WOM-MKU-202505-FF-VID-EUR-DiorShow&utm_term=DIORSHOW-Snapchat&dclid=CL2_xLDDuY0DFQGqgwcdY_o4og&gad_source=7"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "39501516-06a9-464b-9268-e2cc23ba0855",
-        "name": "22-10-25 - Advertentie",
-        "ad_account_name": "iOS in-app promoties",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "MORE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rDogS6LcDh8suc6jHOTo9.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-10-22T22:00:00.000Z",
-        "impressions_total": 5164,
-        "impressions_map": {
-          "de": 0,
-          "be": 4911,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 76,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 102,
-          "hu": 0,
-          "se": 9,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 66,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Maison Diorama",
-        "profile_name": "Maison Diorama",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVGE2RVJoSGdLV0FPM2E4NnV6Mm0wP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://maisondiorama.nl"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a3d00aa9-672c-4174-ada3-7f99ec621c0d",
-        "name": "MENFALL26COLLECTION_VID_SVF_NO_LEARN_MCOP_MAIN_30SEC_PPV",
-        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Herfst 2026",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tOgql2yo6Z5Ou2TlK9WEs.67?mo=GpsCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwji34YBIAEw4AM41AZAAUoOCglEDigdGh0jHiEQ9ANQsOoBaAJ1DPZOQH0AAIA_IgYKAkgCEgCiAT0IugoSMAouCMbhZyABMNAFOIAKQAJKDgoJQAgiERkUFRwQEPQDULDqAWgCdbSyWUB9AACAPyIGCgJIAxIAogE9CJIKEjAKLgjF3E0gATDgAzjUBkACSg4KCTQHFA8RDxEWDhD0A1Cw6gFoAnXdqD5AfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I9q9KIAEw4AM41AZAAkoOCgkzBhkMEw4QFAsQ9ANQsOoBaAJ1knBRQH0AAIA_IgYKAkgCEgCQA7DqAQ%3D%3D&uc=15",
-        "start_date": "2026-04-02T10:00:33.000Z",
-        "impressions_total": 1288,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 1288,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "25",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.dior.com/en_int/fashion/mens-fashion/fall-collection?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "36b48f96-0231-48b9-b3d2-7dd95b170ecd",
-        "name": "SUMMERCOLLECTION26_STA_SCL_NO_LEARN_MCOP_STORYAD2",
-        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "Zomer 2026",
-        "call_to_action": "VIEW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-02-19T09:00:57.000Z",
-        "impressions_total": 19514667,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 19514667,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Zomer 2026",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Zomer 2026",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rHTAhSkt04Gb0jkwfsFCt.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Zomer 2026",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Uy6Jk5N6sMVh18HybUocD.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Zomer 2026",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/2FwUqcniAgQ9WREsNK8Xr.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Zomer 2026",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dKe9VxJiBMEhdBvGAWvfO.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
         "id": "f0f98bab-f30d-4f9b-bf2a-f18e03c17e02",
         "name": "video",
         "ad_account_name": "PCD_PC_NLD_EMEA_SOCIAL-SNAPCHAT_PML_EUR_LVMH_",
@@ -725,8 +496,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b74b03f4-793f-4356-bbee-637581d10919",
-        "name": "MENFALL26COLLECTION_STA_SIF_NO_LEARN_MCOP_MAIN_LOOK_10_LOOK30_PPL",
+        "id": "92421e65-05ac-4ec3-af5e-450f49424a10",
+        "name": "SUMMERCOLLECTION26_STA_SIF_NO_LEARN_MCOP_ROADIE",
         "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -735,13 +506,13 @@
         "languages": [
           "nl"
         ],
-        "headline": "Herfst 2026",
+        "headline": "Zomer 2026 Accessoires",
         "call_to_action": "MORE",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FhBYTwBEWT2YLVIC3Zv97.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-04-02T10:00:33.000Z",
-        "impressions_total": 482,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/u7dkOS2a61yWC8BuONhOz.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-03-04T23:00:19.000Z",
+        "impressions_total": 147977,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -769,15 +540,15 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 482,
+          "nl": 147977,
           "tr": 0
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "25",
-              "max_age": "54",
+              "min_age": "18",
+              "max_age": "50",
               "age_groups": [],
               "languages": [],
               "operation": "INCLUDE",
@@ -790,7 +561,7 @@
         "profile_name": "Dior",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.dior.com/en_int/fashion/mens-fashion/fall-collection?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+          "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -869,6 +640,205 @@
           "icon_url": "https://bolt-gcdn.sc-cdn.net/3/9eiA2TDf9zhryCJv8AmbV?bo=EhQyAX06AQRCBgjC9L3LBkgCUBJgAQ%3D%3D&uc=18",
           "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/400c37a5-07d5-49ba-aa4d-f647a84a0942.mp4",
           "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/400c37a5-07d5-49ba-aa4d-f647a84a0942.webp"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "85df7e54-54c6-4d31-9ea7-ea16e3c6d4d0",
+        "name": "MENFALL26COLLECTION_STA_SIF_NO_LEARN_MCOP_MAIN_LOOK30_PPL",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Herfst 2026",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/geDr1EUQs4NroRsFGlKha.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-04-02T10:00:33.000Z",
+        "impressions_total": 2093,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 2093,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "25",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_int/fashion/mens-fashion/fall-collection?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2dd3c46e-a361-4aff-b5d0-8621b8400a68",
+        "name": "SUMMERCOLLECTION26_STA_SCL_NO_LEARN_MCOP_STORYAD1",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "nl"
+        ],
+        "headline": "Zomer 2026",
+        "call_to_action": "VIEW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-02-19T09:00:57.000Z",
+        "impressions_total": 1793861,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 1793861,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvY1B3aW1zNElpVXBUWVE0ZUg5WUw5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "Zomer 2026",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Zomer 2026",
+              "call_to_action": "VIEW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FbpsjAyp0sLFAXPOvWRMC.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "Zomer 2026",
+              "call_to_action": "VIEW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Q7vU73OH0toG6CKmswWgc.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "Zomer 2026",
+              "call_to_action": "VIEW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9bJKkYDvXzEMXPyoNLdxs.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "Zomer 2026",
+              "call_to_action": "VIEW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ecfakqagLZIVbuOW0sX7t.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/summer-2026-campaign?utm_medium=social-paid-branding&utm_term={{adSet.name}}&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+              }
+            }
+          ]
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

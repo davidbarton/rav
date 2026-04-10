@@ -1,109 +1,37 @@
 {
   "brand": "Arket",
   "country": "dk",
-  "fetched_at": "2026-04-09T22:38:40.154Z",
+  "fetched_at": "2026-04-10T07:17:22.029Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b6ebd502-0f2e-49b2-b7f2-4920daa1dcd2",
-        "name": "B3 - Lumi Ad 13",
-        "ad_account_name": "GetLumi",
+        "id": "e8397cdd-8e46-464b-8203-ade0101d8f33",
+        "name": "7/0 - SNAD - Sweet Bonanza - noCatch - Static - V1 -  DepWO - Install Now",
+        "ad_account_name": "LV-DK-RMG",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "70% Off Sale Ends Tonight",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LspvrPBrpSt9lIMggmcXM.67?mo=GukBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgInttpIAFKDgoJZiknKCEjKickEPQDaAIiBgoCSAUSAKIBJwi6ChIaChgIwalSIAFKDgoJVCMaGxgaGSAfEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjU7TwgAUoOCglJGRYTDxIUFRgQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiN1kAgAUoOCglLGxcTEBMVGBkQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAj2ljcgAUoOCglCGBIREBEQFBUQ9ANoAiIGCgJIAhIAkAPq1QE%3D&uc=15",
-        "start_date": "2025-04-08T04:00:27.000Z",
-        "impressions_total": 25938,
-        "impressions_map": {
-          "de": 1671,
-          "be": 0,
-          "fi": 2353,
-          "pt": 0,
-          "bg": 0,
-          "dk": 811,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 94,
-          "hu": 0,
-          "se": 1287,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 7681,
-          "es": 3958,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 2627,
-          "ro": 5456,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Full Spice Digital Marketing",
-        "brand_name": "Lumi",
-        "web_view_properties": {
-          "url": "https://getlumi.co/products/order-now?utm_campaign={{campaign.name}}&utm_term={{adSet.name}}&utm_content={{creative.name}}&utm_source={{site_source_name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a1338c23-726e-4111-a341-45eead419bf7",
-        "name": "13/06 / Lens / food story",
-        "ad_account_name": "Marketing CoOp A/S",
-        "status": "ACTIVE",
-        "creative_type": "LENS",
-        "ad_type": "LENS",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
         "ad_render_type": "STATIC",
         "languages": [
           "da"
         ],
-        "headline": "McDonald’s Danmark",
-        "top_snap_media_type": "LENS_PACKAGE",
+        "headline": "Hent vores app",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/b73d65ec-6ca3-4479-870f-eda96e63264b.lens",
-        "start_date": "2025-06-13T06:00:48.000Z",
-        "impressions_total": 2448381,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/AT6sCNMHfTtU66p7lgG1G.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-08-20T13:32:13.000Z",
+        "impressions_total": 107903,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 2448381,
+          "dk": 107903,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -131,21 +59,32 @@
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "18",
+              "min_age": "21",
+              "max_age": "54",
               "age_groups": [],
               "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
-          "devices": []
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
         },
-        "paying_advertiser_name": "Marketing CoOp DK A/S",
-        "brand_name": "McDonald’s Danmark",
-        "profile_name": "McDonald’s Danmark",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc1UzRUMxS2xGS1lVTVN0T3pDeWsxP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "lens_preview": {
-          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/QzaOlGGe05q36I4b9MYbj?bo=EhQyAX06AQRCBgjalaXCBkgCUBJgAQ%3D%3D&uc=18"
+        "paying_advertiser_name": "GameTech Marketing Limited",
+        "profile_name": "LeoVegas DK",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUTE4V2M3cndKSFhnaG15cUhtZkI0P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "app_install_preview": {
+          "app_name": "LeoVegas DK Online Casino Spil",
+          "ios_app_id": "6738275064",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/IiG6udjL0WwxsHNp1dLhv.438?mo=Gi4aGBoAGgAyAQQ6AX1CBgjY2Yz1BUgCUA9gAVoIQWRzSW1hZ2WiAQcItgMiAhIA&uc=15",
+          "playable_media_properties": {}
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -155,28 +94,30 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "5ab0ad66-d65d-43db-abd9-425f0f4a8caf",
-        "name": "SNAD  - Catch - Video - V2 - 6sec - 100FS Big Bass Splash - LP - Sign Up - 3792295",
-        "ad_account_name": "LV-DK-RMG",
+        "id": "5c1f3d8e-1c5f-4483-9522-a298cc2ac52c",
+        "name": "SP - SNAD - Broad - SU - 21-54 | Static - V1 - Tottenham - 1000kr WO - 3790954",
+        "ad_account_name": "EX-DK-RMG",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "da"
         ],
-        "headline": "Få 100 freespins i velkomstbonus",
-        "call_to_action": "VIEW",
+        "headline": "Få op til 1.000 kr. til Sport!",
+        "call_to_action": "SIGN UP",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-11-01T13:00:33.000Z",
-        "impressions_total": 682549,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hBL0j7KT5bs9poSKB4phB.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-09-01T07:20:13.000Z",
+        "impressions_total": 24599,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 682549,
+          "dk": 24599,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -204,34 +145,21 @@
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "25",
-              "max_age": "44",
+              "min_age": "21",
+              "max_age": "54",
               "age_groups": [],
               "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
         "paying_advertiser_name": "GameTech Marketing Limited",
-        "profile_name": "LeoVegas DK",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUTE4V2M3cndKSFhnaG15cUhtZkI0P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Få 100 freespins i velkomstbonus",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rWiLKzcxzLaN349VpdFDo.67?mo=GpMCGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0IgvMJIAEw4AM41AZAAUoOCgkvCAcKCQoYDAkQ9ANQ8C5oAnXoTWtAfQAAgD8iBgoCSAQSAKIBPAi6ChIvCi0IzJsMIAEw0AU4gApAAkoOCglPCAgKDBoJDAkQ9ANQ8C5oAnXS_X5AfQAAgD8iBgoCSAISAKIBPAiSChIvCi0IkKkHIAEw4AM41AZAAkoOCgkjBgcICQkOBgcQ9ANQ8C5oAnXSmV9AfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I3r4IIAEw4AM41AZAAkoOCgk7BQYGCBEHCAUQ9ANQ8C5oAnXs0m1AfQAAgD8iBgoCSAISAJAD8C4%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://casino.leovegas.dk/redirect.aspx?pid=3792295&lpid=5136&bid=20382&utm_medium=social-paid&utm_source=snapchat&utm_campaign=SOC-DK-LV-AWRN---CS-SNAP-P2P--LeavesTVC&utm_content=Leaves_Video"
-              }
-            }
-          ]
+        "profile_name": "Expekt DK",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSjB6R0ZKb3Nwbkd0ZXFmeWtvS1EyP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://ntrfr.expekt.dk/redirect.aspx?pid=3790954&lpid=4188&bid=20383&utm_medium=social-paid&utm_source=snapchat&utm_campaign=SOC-DK-EX-CNVR--ALL-SNAP-P2P--WO&utm_content=1000WO_Static_V1"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -241,29 +169,30 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "2b14aa9f-ebca-4040-b0cf-3e3dae3849ee",
-        "name": "Big Bag",
+        "id": "04f3320c-e756-4344-9c4c-db95bc5f20d2",
+        "name": "12/09 / Video link / DrivingLesson 10s",
         "ad_account_name": "Marketing CoOp A/S",
         "status": "ACTIVE",
-        "creative_type": "SNAP_AD",
-        "ad_type": "SNAP_AD",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "da"
         ],
-        "headline": "Noget STORT er på vej",
+        "headline": "Mellem Latte til kun 29 kr. ☕️",
+        "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/P7nkw2nZjskOxhuAF9HMo.67?mo=Go4CGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiT5SggATDgAzjUBkABSg8KCoUCNygmMBw1LSkQ9ANQmCpoAnWJtlpAIgYKAkgEEgCiATgIugoSKwopCJ_bJCABMNAFOIAKQAJKDwoK2AE3ICgsIi8iLRD0A1CYKmgCdWi4Y0AiBgoCSAMSAKIBPQiSChIwCi4IxpIZIAEw4AM41AZAAkoPCgqSASUcFx8WHhwdEPQDUJgqaAJ1rW9TQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCMGPFSABMOADONQGQAJKDgoJaCEXGhsXHBgcEPQDUJgqaAJ1XkdXQH0AAIA_IgYKAkgCEgCQA5gq&uc=15",
-        "start_date": "2026-03-06T10:46:58.000Z",
-        "impressions_total": 129779,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1GBNZRVnOlrK5uMUuYZlm.67?mo=GtECGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0IpaowIAEw4AM41AZAAUoOCglaMyEoISAuNSwQ9ANQkE5oAnVilGdAfQAAgD8iBgoCSAMSAKIBPAi6ChIvCi0I_uggIAEw0AU4gApAAkoOCgk7ExMTFhMkIBcQ9ANQkE5oAnXqdWBAfQAAgD8iBgoCSAMSAKIBOwh_Ei8KLQi8mxggATDgAzjUBkACSg4KCS4PDhEPDxYZExD0A1CQTmgCdURMUkB9AACAPyIGCgJIAhIAogE8CJIKEi8KLQjrphkgATDgAzjUBkACSg4KCS4RDhIQERcZERD0A1CQTmgCdd5MUEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQihthcgATDgAzjUBkACSg4KCSwNDQ0QDBgTDxD0A1CQTmgCdRcLWEB9AACAPyIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2026-01-01T08:01:58.000Z",
+        "impressions_total": 331928,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 129779,
+          "dk": 331928,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -303,78 +232,8 @@
         "paying_advertiser_name": "Marketing CoOp DK A/S",
         "profile_name": "McDonald’s Danmark",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc1UzRUMxS2xGS1lVTVN0T3pDeWsxP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ad039fb3-85b5-4b82-87b0-733fae90ea72",
-        "name": "Liquidation avant fermeture  - Publicité",
-        "ad_account_name": "discount market  Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Liquidation avant fermeture",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/h9lV9VlKCqttIhkduvgVM.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-09-11T07:00:04.000Z",
-        "impressions_total": 9265,
-        "impressions_map": {
-          "de": 2,
-          "be": 2645,
-          "fi": 0,
-          "pt": 2499,
-          "bg": 0,
-          "dk": 1,
-          "lt": 0,
-          "lu": 1369,
-          "hr": 0,
-          "lv": 0,
-          "fr": 157,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 1108,
-          "mt": 0,
-          "it": 445,
-          "es": 1039,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "discount market ",
-        "profile_name": "discount market",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
         "web_view_properties": {
-          "url": "https://www.discountmarket.net"
+          "url": "https://www.mcdonalds.com/dk/da-dk/vores-menu/winnin-deals.html"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -384,164 +243,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "cf7c595a-0c2d-4a55-bed5-ee5201422e8b",
-        "name": "10/3 - Big Arch Lens",
-        "ad_account_name": "Marketing CoOp A/S",
-        "status": "ACTIVE",
-        "creative_type": "LENS",
-        "ad_type": "LENS",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "McDonald's Danmark",
-        "top_snap_media_type": "LENS_PACKAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/f350c374-7ba8-4515-b52e-f87acf532b24.lens",
-        "start_date": "2026-03-10T12:35:49.000Z",
-        "impressions_total": 1447623,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 1447623,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Marketing CoOp DK A/S",
-        "brand_name": "McDonald's Danmark",
-        "profile_name": "McDonald’s Danmark",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc1UzRUMxS2xGS1lVTVN0T3pDeWsxP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "lens_preview": {
-          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/gki9MOh7WbAFoqKKQ0eXX?bo=EhQyAX06AQRCBgjM35XNBkgCUBJgAQ%3D%3D&uc=18",
-          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/37f52530-69f0-476b-8752-1a7a49fb0d0f.mp4",
-          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/37f52530-69f0-476b-8752-1a7a49fb0d0f.webp"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "2db548eb-a485-4e94-8900-061e7f3a3911",
-        "name": "12/06 / first story / Nuggets ",
-        "ad_account_name": "Marketing CoOp A/S",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "no",
-          "da"
-        ],
-        "headline": "Mere end en craving",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-06-11T22:00:00.000Z",
-        "impressions_total": 537649,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 537649,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Marketing CoOp DK A/S",
-        "profile_name": "McDonald’s Danmark",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc1UzRUMxS2xGS1lVTVN0T3pDeWsxP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "SNAP_AD",
-              "render_type": "STATIC",
-              "headline": "xxxx",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3dGctVkgOctwzyjf1co1l.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI1p80IAEw4AM41AZAAUoOCgliNVFdUFgFAyEQ9ANQ6E1oAiIGCgJIBBIAogEyCLoKEiUKIwi3sicgATDQBTiACkACSg4KCVUjMjo0OwYGHRD0A1DoTWgCIgYKAkgDEgCiATEIfxIlCiMIqdAbIAEw4AM41AZAAkoOCgk_GykpISUEAxAQ9ANQ6E1oAiIGCgJIAhIAogEyCJIKEiUKIwipjx0gATDgAzjUBkACSg4KCUEcKyglKQUEEBD0A1DoTWgCIgYKAkgCEgCiATIIxAoSJQojCPqWGSABMOADONYGQAJKDgoJOxYdIh4kBAMVEPQDUOhNaAIiBgoCSAISAKIBMgjSChIlCiMI7ZMaIAEw4AM41AZAAkoOCgk-GB4hHiUFAxYQ9ANQ6E1oAiIGCgJIAhIAkAPoTQ%3D%3D&uc=15",
-              "brand_name": ""
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "9e7d5419-a391-41a8-833c-935d9c43d4ec",
-        "name": "12/08 / Video Link ad / Big mac sauce recipe",
+        "id": "f01fbba6-4914-49e7-b79c-4e2ee3481212",
+        "name": "24/02 - Story / Arbejdspladsen / 10 sek. B",
         "ad_account_name": "Marketing CoOp A/S",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -550,20 +253,20 @@
         "languages": [
           "da"
         ],
-        "headline": "Prøv selv den nye Big Mac® Dip!",
+        "headline": "Det her kunne være dig!👀",
         "call_to_action": "VIEW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/wtyXCCKRRvRhW3z000ctS.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIoM4WIAEw4AM41AZAAUoOCgk1Nx0dFh4NDwkQ9ANQkE5oAiIGCgJIBBIAogEyCLoKEiUKIwibuBAgATDQBTiACkACSg4KCTklEw0LCgoOCBD0A1CQTmgCIgYKAkgDEgCiATEIfxIlCiMIzbcSIAEw4AM41AZAAkoOCgk7LSMdFAgKCgYQ9ANQkE5oAiIGCgJIAhIAogEyCJIKEiUKIwj30hIgATDgAzjUBkACSg4KCTU8FiYRCAgNBxD0A1CQTmgCIgYKAkgCEgCiATIIxAoSJQojCKPqDCABMOADONYGQAJKDgoJKx0UDgsGBwsGEPQDUJBOaAIiBgoCSAISAKIBMgjSChIlCiMIwYAPIAEw4AM41AZAAkoOCgkxJRoSEAYICwcQ9ANQkE5oAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-08-12T05:30:27.000Z",
-        "impressions_total": 1290138,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/D29ZXpwtOFlJnKTEPEPn3.67?mo=GogCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE4CEMSMAouCKjoNCABMOADONQGQAFKDwoKjQEXGBkRDA8EAxD0A1CQTmgCdfLJcUB9AACAPyICEgCiATgIugoSLwotCPvvKiABMNAFOIAKQAJKDgoJfhQVFBMMDQYFEPQDUJBOaAJ1T-V2QH0AAIA_IgISAKIBOAiSChIvCi0I3OwhIAEw4AM41AZAAkoOCglWEQwPCwwQBAQQ9ANQkE5oAnWPBGdAfQAAgD8iAhIAogE4CNIKEi8KLQierB0gATDgAzjUBkACSg4KCVAPCwwOCQkEAxD0A1CQTmgCdT_ybUB9AACAPyICEgCQA5BO&uc=15",
+        "start_date": "2026-02-24T13:44:26.000Z",
+        "impressions_total": 609282,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 1290138,
+          "dk": 609282,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -593,9 +296,7 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "languages": [
-                "da"
-              ],
+              "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
             }
@@ -606,7 +307,7 @@
         "profile_name": "McDonald’s Danmark",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc1UzRUMxS2xGS1lVTVN0T3pDeWsxP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.mcdonalds.com/dk/da-dk/product/chicken-big-mac"
+          "url": "https://www.mcdonalds.com/dk/da-dk/job-og-fremtid.html"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -616,84 +317,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "595a51fb-df3c-46a7-bf8f-07723805954f",
-        "name": "12/08 / Video link ad / Big Mac Sauce",
-        "ad_account_name": "Marketing CoOp A/S",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "da"
-        ],
-        "headline": "Prøv selv den nye Big Mac® Dip!",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YhwhRPWdsRXESPM1tsHjQ.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI77ENIAEw4AM41AZAAUoOCgkdDgkEQSsdCQMQ9ANQ8C5oAiIGCgJIBBIAogEyCLoKEiUKIwiZ5QwgATDQBTiACkACSg4KCRULCwU7HhkXBRD0A1DwLmgCIgYKAkgCEgCiATEIfxIlCiMI47QKIAEw4AM41AZAAkoOCgkOCwcEMSIXCwQQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwja6gogATDgAzjUBkACSg4KCQ4MCAQuJhoLBBD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCIXcCCABMOADONYGQAJKDgoJEAcHBCgUEhADEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMI6rcJIAEw4AM41AZAAkoOCgkQCAcELRgSEQMQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-08-12T05:30:27.000Z",
-        "impressions_total": 1306205,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 1306205,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "da"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Marketing CoOp DK A/S",
-        "profile_name": "McDonald’s Danmark",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc1UzRUMxS2xGS1lVTVN0T3pDeWsxP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.mcdonalds.com/dk/da-dk/product/chicken-big-mac"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8a8bcd56-1586-4b4c-af65-3d2be8f33ea6",
-        "name": "OFFRE ELIAS EN SKC",
+        "id": "3ed728f2-71d0-445f-bd0c-c832c8cf16e2",
+        "name": "Kenn_BFNotProfit_Cutdown.mp4",
         "ad_account_name": "Market D LLC Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -702,27 +327,27 @@
         "languages": [
           "en"
         ],
-        "headline": "Satin lined Skull Cap Buy 2 get 2",
+        "headline": "BLACK FRIDAY SALE - UP TO 70% OFF",
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VjqO1j2WJ9uPwMGLTZG2R.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAi0jg4gAUoOCgkpDQ0RFAsJCAoQ9ANoAiICEgCiASMIugoSGgoYCKnWCiABSg4KCR4JCg0MCQcIBxD0A2gCIgISAKIBIgh_EhoKGAj_4AggAUoOCgkcCAcLDQYFBgUQ9ANoAiICEgCiASMIkgoSGgoYCKv6CSABSg4KCR4ICQ0PBwcGBhD0A2gCIgISAKIBIwjEChIaChgI978HIAFKDgoJGAYGCQoGBAUFEPQDaAIiAhIAkAPnPg%3D%3D&uc=15",
-        "start_date": "2025-05-15T12:05:08.000Z",
-        "impressions_total": 63,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QWR64Z9tPqo5zSCUGpCP9.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQjknkogATDgAzjUBkABSg4KCX8wKCIOBAMpBBD0A1DukQFoAnWOH2JAIgYKAkgDEgCiATgIugoSKwopCMnbOyABMNAFOIAKQAJKDgoJaCkYFw0GBSIGEPQDUO6RAWgCdcvTZ0AiBgoCSAISAKIBPQiSChIwCi4Iw5k0IAEw4AM41AZAAkoOCglYIBoUCgUEIwUQ9ANQ7pEBaAJ1lNlWQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCLGfKiABMOADONQGQAJKDgoJTh0RDwgEAxsEEPQDUO6RAWgCdRorWUB9AACAPyIGCgJIAhIAkAPukQE%3D&uc=15",
+        "start_date": "2025-11-27T23:24:35.000Z",
+        "impressions_total": 181,
         "impressions_map": {
-          "de": 16,
+          "de": 0,
           "be": 0,
-          "fi": 6,
+          "fi": 80,
           "pt": 0,
           "bg": 0,
-          "dk": 1,
+          "dk": 5,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 3,
+          "se": 32,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -736,7 +361,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 37,
+          "nl": 64,
           "tr": 0
         },
         "targeting_v2": {
@@ -758,7 +383,376 @@
         "profile_name": "Satyn",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvd1k2N1JNQldQVGRtbkJNejhhT2FqP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://satyn.fr/products/skull-cap-interieur-satin"
+          "url": "https://us.satyn.fr/products/skull-cap-interieur-satin?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ad89e77e-5441-4c61-82ba-af84fe56fe8a",
+        "name": "SP - SNAD - Broad - SU - 21-54 | TVC Video - 1000kr WO - 3790954",
+        "ad_account_name": "EX-DK-RMG",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Få op til 1.000 kr. til Sport!",
+        "call_to_action": "SIGN UP",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ioDpX8ubxMXaseik9gSYQ.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwiV4zcgATDgAzjUBkABSg4KCV4VDhwjJBwaJBD0A1CYdWgCIgISAKIBLgi6ChIlCiMIo94uIAEw0AU4gApAAkoOCglWFQ8UHxkVFxsQ9ANQmHVoAiICEgCiAS0IfxIlCiMI3u0kIAEw4AM41AZAAkoOCglHEQoVExURDxYQ9ANQmHVoAiICEgCiAS4IkgoSJQojCOjlJiABMOADONQGQAJKDgoJRBMLFRUVExAXEPQDUJh1aAIiAhIAogEuCMQKEiUKIwiw6B8gATDgAzjWBkACSg4KCUAPCg4WDg8OEhD0A1CYdWgCIgISAKIBLgjSChIlCiMI48EiIAEw4AM41AZAAkoOCglEEgsQFhAPDxQQ9ANQmHVoAiICEgCQA5h1&uc=15",
+        "start_date": "2025-09-01T07:20:13.000Z",
+        "impressions_total": 2698,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 2698,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "21",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "GameTech Marketing Limited",
+        "profile_name": "Expekt DK",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSjB6R0ZKb3Nwbkd0ZXFmeWtvS1EyP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://ntrfr.expekt.dk/redirect.aspx?pid=3790954&lpid=4188&bid=20383&utm_medium=social-paid&utm_source=snapchat&utm_campaign=SOC-DK-EX-CNVR--ALL-SNAP-P2P--WO&utm_content=TVC_Video"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "83fb5964-ba04-4f33-94e7-7279643d6810",
+        "name": "02/02 - Hero",
+        "ad_account_name": "Marketing CoOp A/S",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "McCafé",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mywBX4TV7wivyuBgSCXUf.67?mo=Gv0BGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEyCEMSKgooCISIQSABMOADONQGQAFKDgoJSxQeIjgiMCo4EPQDUJh1aAJ1LZJVQCICEgCiATMIugoSKgooCM2ZNSABMNAFOIAKQAJKDgoJRhAZGzEbJCIzEPQDUJh1aAJ1-ABqQCICEgCiATgIkgoSLwotCLPqKSABMOADONQGQAJKDgoJNwsXFyATHBsnEPQDUJh1aAJ1c0JMQH0AAIA_IgISAKIBOAjSChIvCi0IxNgmIAEw4AM41AZAAkoOCgk3CxISIhMaGCQQ9ANQmHVoAnVg71dAfQAAgD8iAhIAkAOYdQ%3D%3D&uc=15",
+        "start_date": "2026-02-03T10:00:04.000Z",
+        "impressions_total": 3416601,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 3416601,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Marketing CoOp DK A/S",
+        "profile_name": "McDonald’s Danmark",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc1UzRUMxS2xGS1lVTVN0T3pDeWsxP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.youtube.com/watch?v=-9C1FhfVczA"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "dd33c78e-897f-447c-bb56-55385c45b18c",
+        "name": "Video 1",
+        "ad_account_name": "OT_sleekselect-SN",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Check this out",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TcxQQx4VlprzbF7QBNXgT.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIm7BYIAEw4AM41AZAAUoOCglVJhcUFxksIhgQ9ANQpI8BaAIiBgoCSAUSAKIBMwi6ChImCiQI3PlLIAEw0AU4gApAAkoOCglYHhMXFhsiIB0Q9ANQpI8BaAIiBgoCSAISAKIBMgh_EiYKJAjKzjkgATDgAzjUBkACSg4KCUAYEA4REB4YERD0A1CkjwFoAiIGCgJIAhIAogEzCJIKEiYKJAjAiTsgATDgAzjUBkACSg4KCT8YEQ4RFh8YERD0A1CkjwFoAiIGCgJIAhIAogEzCMQKEiYKJAjqsDMgATDgAzjWBkACSg4KCUEUCw4PExgWEhD0A1CkjwFoAiIGCgJIAhIAogEzCNIKEiYKJAj22zUgATDgAzjUBkACSg4KCUIWDA8OExgbEhD0A1CkjwFoAiIGCgJIAhIAkAOkjwE%3D&uc=15",
+        "start_date": "2025-06-10T07:23:51.000Z",
+        "impressions_total": 10644,
+        "impressions_map": {
+          "de": 112,
+          "be": 602,
+          "fi": 133,
+          "pt": 0,
+          "bg": 5402,
+          "dk": 202,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1,
+          "hu": 0,
+          "se": 131,
+          "si": 0,
+          "sk": 0,
+          "ie": 489,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 1307,
+          "es": 516,
+          "at": 301,
+          "cy": 0,
+          "cz": 507,
+          "pl": 755,
+          "ro": 0,
+          "nl": 186,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Full Spice Digital Marketing",
+        "profile_name": "Aora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZnRoQnVyRE53VEhhaVpjMlNtUVVvP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://2ly.link/23H7s"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "8d3731f1-05d6-41c5-adf0-67f2cdf82302",
+        "name": "09/02 / Snap ad / Driving Lesson 10s reversed",
+        "ad_account_name": "Marketing CoOp A/S",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "Mellem Latte til kun 29 kr hos McD",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4qvtzQYjXKhfT5LdX64YE.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjj-DQgATDgAzjUBkABSg4KCVA3JztAOTNGQBD0A1CQTmgCdZQaX0AiBgoCSAMSAKIBPAi6ChIvCi0I3dUjIAEw0AU4gApAAkoOCgk1HBcmIyAeMCkQ9ANQkE5oAnWqJF5AfQAAgD8iBgoCSAISAKIBPAiSChIvCi0IgZ0dIAEw4AM41AZAAkoOCgkpGhQiGx4bKB4Q9ANQkE5oAnVEwElAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IsdYZIAEw4AM41AZAAkoOCgklERAYGBUVJRsQ9ANQkE5oAnW4VldAfQAAgD8iBgoCSAISAJADkE4%3D&uc=15",
+        "start_date": "2026-02-09T06:30:35.000Z",
+        "impressions_total": 1089017,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 1089017,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Marketing CoOp DK A/S",
+        "profile_name": "McDonald’s Danmark",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc1UzRUMxS2xGS1lVTVN0T3pDeWsxP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.mcdonalds.com/dk/da-dk/product/caf-latte-mellem-mccafe.html"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a1a9cdca-2996-4aa9-aada-5828e4dac102",
+        "name": "Broad - Static - Gates of LeoVegas 1000 - 200FS -  Sign Up - LP",
+        "ad_account_name": "LV-DK-RMG",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "da"
+        ],
+        "headline": "200 freespins i velkomstsbonus",
+        "call_to_action": "SIGN UP",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/DjphpoR4gDuAakLBz8Ran.380?mo=GjsaFDIBBDoBfUIGCMi3rr8GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+        "start_date": "2025-04-01T09:00:00.000Z",
+        "impressions_total": 178355,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 178355,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "GameTech Marketing Limited",
+        "profile_name": "LeoVegas DK",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUTE4V2M3cndKSFhnaG15cUhtZkI0P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://ntrfr.leovegas.com/redirect.aspx?pid=3788046&lpid=4462&bid=20382&utm_source=snapchat&utm_medium=social-paid&utm_campaign=SOC-DK-LV-CNVR---CS-SNAP-P2P--FSOffer&utm_content=GatesofLeoVegas_200FS_Static_BEAVER"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

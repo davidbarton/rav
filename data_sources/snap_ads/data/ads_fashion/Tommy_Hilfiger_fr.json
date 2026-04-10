@@ -1,14 +1,166 @@
 {
   "brand": "Tommy Hilfiger",
   "country": "fr",
-  "fetched_at": "2026-04-09T01:04:51.951Z",
+  "fetched_at": "2026-04-10T07:54:57.047Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "4ab53c1c-58c2-48ac-8b88-e60e8a03f343",
-        "name": "link-video_m1_6s_PSTI-FRA-XXX_del1",
+        "id": "7cc79f1b-cdee-41bb-b27c-777feaddec8a",
+        "name": "link-video_u1_17s_PSMG-XXX-XXX_del1",
+        "ad_account_name": " Tommy Hilfiger Europe B.V (Line of Credit)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Les festivités chez Tommy",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/u8WAZ2LZ86M8VnrdNDSfE.67?mo=Go4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATcIQxIrCikIvOQ5IAEw4AM41AZAAUoOCgk3FRwdFiQdGyoQ9ANQ2oIBaAJ1CDtMQCIGCgJIAxIAogE4CLoKEisKKQjOqzcgATDQBTiACkACSg4KCUcUGRcMMB4VGhD0A1DaggFoAnV0YE9AIgYKAkgCEgCiAT0IkgoSMAouCMnvJyABMOADONQGQAJKDgoJKhAUFg8YFhAREPQDUNqCAWgCdZlzQEB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgjyiSQgATDgAzjUBkACSg4KCTANEA8JIRUPDxD0A1DaggFoAnUaZUJAfQAAgD8iBgoCSAISAJAD2oIB&uc=15",
+        "start_date": "2025-10-20T18:00:00.000Z",
+        "impressions_total": 11689405,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 11689405,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Tommy Hilfiger Europe B.V.",
+        "profile_name": "Tommy Hilfiger",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ3J5ZFRGUWRjZE5RcVBVRnFEajJDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://fr.tommy.com/tendances-femme?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=fw25_th_brand_holiday_fr&utm_term=fr_attract_broad_female_th&utm_content=link-video_u1_17s_PSMG-XXX-XXX_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:fw25_th_brand_holiday_fr%7C_co:fr%7C_cj:fr_attract_broad_female_th%7Cts:broad_female%7Cag:u%7C_cr:link-video_u1_17s_PSMG-XXX-XXX_del1"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4dc63641-ce35-4f9d-93b3-4530c1347c3c",
+        "name": "link-video_u3_15s_PSTG-CLA-NIC_del1",
+        "ad_account_name": " Tommy Hilfiger Europe B.V (Line of Credit)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Le Hilfiger Racing Club",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HtIfXFaGnU82mHe7M2yzE.67?mo=Gp8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIoqFEIAEw4AM41AZAAUoOCgk4JTcuJS4XJDgQ9ANQmHVoAiIGCgJIAxIAogEyCLoKEiUKIwi80y4gATDQBTiACkACSg4KCSsaMyMeJhEaIRD0A1CYdWgCIgYKAkgCEgCiATEIfxIlCiMI6PkhIAEw4AM41AZAAkoOCgkhEyMbFhgOExsQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwiD7CMgATDgAzjUBkACSg4KCSIUJxwXGA4UHRD0A1CYdWgCIgYKAkgCEgCiATII0goSJQojCIaTICABMOADONQGQAJKDgoJIRMlGBYcCxEXEPQDUJh1aAIiBgoCSAISAJADmHU%3D&uc=15",
+        "start_date": "2025-09-11T16:00:00.000Z",
+        "impressions_total": 2547961,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 2547961,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Tommy Hilfiger Europe B.V.",
+        "profile_name": "Tommy Hilfiger",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ3J5ZFRGUWRjZE5RcVBVRnFEajJDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://fr.tommy.com/tendance-homme?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=fa25_th_brand_halo_fr&utm_term=fr_attract_broad_male_th&utm_content=link-video_u3_15s_PSTG-CLA-NIC_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:fa25_th_brand_halo_fr%7C_co:fr%7C_cj:fr_attract_broad_male_th%7Cts:broad_male%7Cag:u%7C_cr:link-video_u3_15s_PSTG-CLA-NIC_del1"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "fd796396-bd5c-42fc-af0c-cef575dca06a",
+        "name": "link-video_w1_15s_PSTG-XXX-XXX_del1",
         "ad_account_name": " Tommy Hilfiger Europe B.V (Line of Credit)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -21,9 +173,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CxyUiGS2SA9cDLPEAlsHa.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjKsR0gATDgAzjUBkABSg4KCUYxKTE7NjspJhD0A1DwLmgCdYSXQkAiBgoCSAQSAKIBNwi6ChIqCigI3JMWIAEw0AU4gApAAkoOCgk8JB4iLSklHhoQ9ANQ8C5oAnVAnkNAIgYKAkgDEgCiATwIkgoSLwotCICYEiABMOADONQGQAJKDgoJLRsWHCYjJBoWEPQDUPAuaAJ1AoIzQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCPbLDyABMOADONQGQAJKDgoJLRkUFyAeGxQSEPQDUPAuaAJ1Ock8QH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6ebkIloCKaT5DwET8DPiY.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQiiyEIgATDgAzjUBkABSg4KCTQfKhUtHikxJxD0A1C8aWgCdQTqTUB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQivrzEgATDQBTiACkACSg4KCTMcExciHR0kIBD0A1C8aWgCdTCZWEB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQi3oyggATDgAzjUBkACSg4KCSMQFBEZFhgcFRD0A1C8aWgCdTfpRUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjttyMgATDgAzjUBkACSg4KCScUDQ8aFRQYFRD0A1C8aWgCdQ3hUUB9AACAPyIGCgJIAhIAkAO8aQ%3D%3D&uc=15",
         "start_date": "2026-03-03T17:00:00.000Z",
-        "impressions_total": 6009764,
+        "impressions_total": 2590068,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -35,7 +187,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 6009764,
+          "fr": 2590068,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -72,7 +224,7 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ3J5ZFRGUWRjZE5RcVBVRnFEajJDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://fr.tommy.com/tommy-jeans?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=sp26_tj_brand_halo_fr&utm_term=fr_attract_broad_dual_th&utm_content=link-video_m1_6s_PSTI-FRA-XXX_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:sp26_tj_brand_halo_fr%7C_co:fr%7C_cj:fr_attract_broad_dual_th%7Cts:broad_dual%7Cag:m%7C_cr:link-video_m1_6s_PSTI-FRA-XXX_del1"
+          "url": "https://fr.tommy.com/tommy-jeans?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=sp26_tj_brand_halo_fr&utm_term=fr_attract_broad_dual_th&utm_content=link-video_w1_15s_PSTG-XXX-XXX_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:sp26_tj_brand_halo_fr%7C_co:fr%7C_cj:fr_attract_broad_dual_th%7Cts:broad_dual%7Cag:w%7C_cr:link-video_w1_15s_PSTG-XXX-XXX_del1"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -82,23 +234,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c4f350d7-75e0-4966-ac33-ac3f57b90ee6",
-        "name": "link-video_u4_15s_PSTG-CLA-NIC_del1",
+        "id": "2ce57e93-0b17-44da-b25f-5a6711857972",
+        "name": "link-video_u3_10s_PSTG-CLA-NIC_del1",
         "ad_account_name": " Tommy Hilfiger Europe B.V (Line of Credit)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
+        "languages": [],
         "headline": "Le Hilfiger Racing Club",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Fm7Zv3Ns5K0xTyX7MIPif.67?mo=Gp8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIwaY8IAEw4AM41AZAAUoOCglRLiwjHBkjLC4Q9ANQmHVoAiIGCgJIBRIAogEyCLoKEiUKIwjD4C4gATDQBTiACkACSg4KCU0hIxwVERsjJhD0A1CYdWgCIgYKAkgDEgCiATEIfxIlCiMIjZcjIAEw4AM41AZAAkoOCgk6HBwUEw4UFh0Q9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwi5xiQgATDgAzjUBkACSg4KCTsbHhcRDxgXGhD0A1CYdWgCIgYKAkgCEgCiATII0goSJQojCOygISABMOADONQGQAJKDgoJPBcaFA8MEhkZEPQDUJh1aAIiBgoCSAISAJADmHU%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/G9jKX3YTmLRYZdjvKZB23.67?mo=Gp8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIm4IvIAEw4AM41AZAAUoOCgk0JSEZKhwqKTkQ9ANQkE5oAiIGCgJIBBIAogEyCLoKEiUKIwiyoiAgATDQBTiACkACSg4KCSUZHhsVHBYaIhD0A1CQTmgCIgYKAkgDEgCiATEIfxIlCiMI1dcWIAEw4AM41AZAAkoOCgkbExMQDgwWExoQ9ANQkE5oAiIGCgJIAhIAogEyCJIKEiUKIwirkRggATDgAzjUBkACSg4KCRwTEhIPDBcVGxD0A1CQTmgCIgYKAkgCEgCiATII0goSJQojCNytFSABMOADONQGQAJKDgoJHBETEQ0QEBIWEPQDUJBOaAIiBgoCSAISAJADkE4%3D&uc=15",
         "start_date": "2025-09-11T16:00:00.000Z",
-        "impressions_total": 4910271,
+        "impressions_total": 2402217,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -110,7 +260,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 4910271,
+          "fr": 2402217,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -147,7 +297,7 @@
         "profile_name": "Tommy Hilfiger",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ3J5ZFRGUWRjZE5RcVBVRnFEajJDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://fr.tommy.com/tendance-homme?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=fa25_th_brand_halo_fr&utm_term=fr_attract_broad_male_th&utm_content=link-video_u4_15s_PSTG-CLA-NIC_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:fa25_th_brand_halo_fr%7C_co:fr%7C_cj:fr_attract_broad_male_th%7Cts:broad_male%7Cag:u%7C_cr:link-video_u4_15s_PSTG-CLA-NIC_del1"
+          "url": "https://fr.tommy.com/tendance-homme?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=fa25_th_brand_halo_fr&utm_term=fr_attract_broad_male_th&utm_content=link-video_u3_10s_PSTG-CLA-NIC_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:fa25_th_brand_halo_fr%7C_co:fr%7C_cj:fr_attract_broad_male_th%7Cts:broad_male%7Cag:u%7C_cr:link-video_u3_10s_PSTG-CLA-NIC_del1"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -157,8 +307,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "84ef80cf-47a0-487f-b2ae-33ea2c3f387c",
-        "name": "link-video_u2_6s_PSTG-SER-XXX_del1",
+        "id": "5fcb59d9-850e-4f0e-989e-1c1116415610",
+        "name": "link-video_u1_15s_PSTG-CLA-NIC_del1",
         "ad_account_name": " Tommy Hilfiger Europe B.V (Line of Credit)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -167,13 +317,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "Vivre avec style",
+        "headline": "Le Hilfiger Racing Club",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/o8OA1xkya9uECU9Aim4nt.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiqkyMgATDgAzjUBkABSg4KCV8qKioTFzMkKBD0A1DwLmgCdRaRUEAiBgoCSAQSAKIBPAi6ChIvCi0Ip50fIAEw0AU4gApAAkoOCglQIB0hFhQsGyUQ9ANQ8C5oAnU0hFxAfQAAgD8iBgoCSAISAKIBPAiSChIvCi0I8J8XIAEw4AM41AZAAkoOCgk_HBkXDw4gFhwQ9ANQ8C5oAnXxWUJAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I7rYWIAEw4AM41AZAAkoOCgk7FxQYDw4gFBsQ9ANQ8C5oAnXNNkpAfQAAgD8iBgoCSAISAJAD8C4%3D&uc=15",
-        "start_date": "2026-02-24T19:00:00.000Z",
-        "impressions_total": 2230965,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LtJ0j9Y2ItiDyzdYPfFE2.67?mo=Gp8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIj4JQIAEw4AM41AZAAUoOCglINiMbHikyOi0Q9ANQmHVoAiIGCgJIAxIAogEyCLoKEiUKIwjh6DggATDQBTiACkACSg4KCTYfIBAXHR4jGhD0A1CYdWgCIgYKAkgCEgCiATEIfxIlCiMIs9EtIAEw4AM41AZAAkoOCgkuHBILERUYGxYQ9ANQmHVoAiIGCgJIAhIAogEyCJIKEiUKIwiRpDAgATDgAzjUBkACSg4KCTAfFAwRFxsdFhD0A1CYdWgCIgYKAkgCEgCiATII0goSJQojCLTFJyABMOADONQGQAJKDgoJLBQWCw8TFBgREPQDUJh1aAIiBgoCSAISAJADmHU%3D&uc=15",
+        "start_date": "2025-09-11T16:00:00.000Z",
+        "impressions_total": 2537881,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -185,7 +335,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 2230965,
+          "fr": 2537881,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -211,6 +361,7 @@
               "min_age": "18",
               "max_age": "45",
               "age_groups": [],
+              "gender": "MALE",
               "languages": [],
               "advanced_demographics": []
             }
@@ -220,9 +371,8 @@
         "paying_advertiser_name": "Tommy Hilfiger Europe B.V.",
         "profile_name": "Tommy Hilfiger",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ3J5ZFRGUWRjZE5RcVBVRnFEajJDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
         "web_view_properties": {
-          "url": "https://fr.tommy.com/tommy-stories?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=sp26_th_brand_halo_fr&utm_term=fr_attract_broad_dual_th&utm_content=link-video_u2_6s_PSTG-SER-XXX_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:sp26_th_brand_halo_fr%7C_co:fr%7C_cj:fr_attract_broad_dual_th%7Cts:broad_dual%7Cag:u%7C_cr:link-video_u2_6s_PSTG-SER-XXX_del1"
+          "url": "https://fr.tommy.com/tendance-homme?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=fa25_th_brand_halo_fr&utm_term=fr_attract_broad_male_th&utm_content=link-video_u1_15s_PSTG-CLA-NIC_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:fa25_th_brand_halo_fr%7C_co:fr%7C_cj:fr_attract_broad_male_th%7Cts:broad_male%7Cag:u%7C_cr:link-video_u1_15s_PSTG-CLA-NIC_del1"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -232,7 +382,7 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "41ee0504-d83c-4dd4-b243-fbfdfa3306d2",
+        "id": "43dad1b0-aaf1-40ea-9ab6-9cfd2d8b2ffe",
         "name": "dynamic-content_m1_daba-bau",
         "ad_account_name": " Tommy Hilfiger Europe B.V (Line of Credit)",
         "status": "ACTIVE",
@@ -244,8 +394,8 @@
         "call_to_action": "SHOP_NOW",
         "top_snap_media_type": "DYNAMIC",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-03-02T15:11:06.000Z",
-        "impressions_total": 4561819,
+        "start_date": "2026-02-06T13:07:47.000Z",
+        "impressions_total": 3860898,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -257,7 +407,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 4561819,
+          "fr": 3860898,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -392,21 +542,13 @@
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/jKMPHFjgXLJFALR7ZpwpA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/ZUCyIE8jaJaL9sJ7fwh92.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/aEVadBwdRtw2it615Nvq9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/GKUyhNrwMLTrNAKXgL9Mv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/kpUJEAIsnabacSUarMuq0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "418a0269-bf32-4011-a078-50294f66407c"
@@ -414,7 +556,7 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UnWv5XIaE6SCvfKTMHbA6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/qpvTLGsvxF0bHWNWUDQ1s.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
@@ -422,51 +564,51 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ioI8UZepHf8ncCczNjVIf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/jD7eVNqMrHrltPL3GiUgt.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/2Wv5Fu6LSRePWG9SSisNv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "7fc77f0b-0427-438b-b855-eb2d2ab75152"
                   ]
                 }
               ],
-              "description": "Ce T-shirt en jersey de pur coton ne passe pas inaperçu. Ce modèle à col ras-du-cou soigné est rehaussé d'un grand logo brodé.<BR><BR>Points forts<BR><BR>• Jersey de pur coton<BR>• Col ras-du-cou<BR>• Bande emblématique à l'intérieur du col<BR>• Logo Tommy Hilfiger NYC brodé sur la poitrine<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• Standard<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
-              "brand": "Tommy Hilfiger",
+              "description": "Avec sa taille mi-haute et sa coupe légèrement fuselée, le jean Sonny permet de composer facilement une multitude de looks.<BR><BR>Ce jean au délavage stone-wash donnera un coup de frais à votre collection de pièces en denim. Parfait pour le quotidien, il adopte une coupe standard confortable à la jambe fuselée épurée.<BR><BR>Points forts<BR><BR>• Denim de coton extensible<BR>• Stone-wash<BR>• Fermeture avec zip et bouton<BR>• Modèle à cinq poches<BR>• Branding Tommy Jeans<BR>• Drapeau Tommy brodé sur la poche gousset et la poche arrière<BR><BR>Coupe et taille<BR><BR>• Coupe standard<BR>• Jambe fuselée<BR><BR>Composition et entretien<BR><BR>• 99 % coton, 1 % élasthanne<BR>• Denim 14,16 oz",
+              "brand": "Tommy Jeans",
               "custom_label_0": "",
               "custom_label_1": "",
-              "custom_label_2": "T-shirts Male",
-              "custom_label_3": "sale",
+              "custom_label_2": "Jeans Male",
+              "custom_label_3": "fullprice",
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "BLACK"
+                "DENIM DARK"
               ],
               "condition": "NEW",
               "gender": "MALE",
               "product_type": [
-                "Mens > Clothing > T-shirts"
+                "Mens > Clothing > Jeans > Jeans"
               ],
-              "size": "XS",
-              "title": "T-shirt à col ras-du-cou et logo brodé",
-              "link": "http://fr.tommy.com/t-shirt-%C3%A0-col-ras-du-cou-et-logo-brod%C3%A9-mw0mw42736bds"
+              "size": "2830",
+              "title": "Jean coupe standard fuselé Sonny stone-wash",
+              "link": "http://fr.tommy.com/jean-coupe-standard-fusel%C3%A9-sonny-stone-wash-dm0dm221861bk"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/9ly2WgsVEmDRcK3MLGmUq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/dqL9wdhCkHr9O9wnrUXRO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/CxWL1TzBbcJge54hq7VVS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/MKLG1ifxmJQ2wkGbv9I5F.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/l4khrkUwopBrQIuCAff0w.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "418a0269-bf32-4011-a078-50294f66407c"
@@ -474,7 +616,7 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/hJPRl2GjJQqqxq472LHod.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/UDUFJI4CCQhRikwoYG0mn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
@@ -482,18 +624,26 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/t1tmI1xpNlrwE5USwQ5Mk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/vvi8JgqUftrlNmKnB80WN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hSF5Oxqw6ZqARSCXTyiBu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "7fc77f0b-0427-438b-b855-eb2d2ab75152"
                   ]
                 }
               ],
-              "description": "Ce T-shirt en jersey de pur coton est rehaussé d'un logo Heritage revisité sur la poitrine.<BR><BR>Points forts<BR><BR>• Jersey de pur coton<BR>• Col ras-du-cou<BR>• Bande emblématique à l'intérieur du col<BR>• Logo Tommy Hilfiger sur la poitrine<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la manche<BR><BR>Coupe et taille<BR><BR>• Coupe standard<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
-              "brand": "Tommy Hilfiger",
+              "description": "Protégez vos essentiels de l'humidité grâce à ce sac à dos pratique à rabat roulé. Son tissu en ripstop texturé est imperméable.<BR><BR>Points forts<BR><BR>• Tissu ripstop<BR>• Finition texturée<BR>• Imperméable<BR>• Rabat roulé avec fermoirs à clip<BR>• Une poignée<BR>• Bretelles ajustables matelassées<BR>• Un compartiment principal<BR>• Deux poches pour bouteilles<BR>• Une poche extérieure à fermeture Éclair<BR>• Badge Tommy en caoutchouc à l'avant<BR>• Branding Tommy Jeans<BR><BR>Coupe et taille<BR><BR>• 42 x 15 x 47 cm<BR>• Capacité 20 L<BR><BR>Composition et entretien<BR><BR>• 100 % polyester",
+              "brand": "Tommy Jeans",
               "custom_label_0": "",
               "custom_label_1": "",
-              "custom_label_2": "Sweatshirts Male",
+              "custom_label_2": "Backpacks Male",
               "custom_label_3": "fullprice",
               "custom_label_4": "",
               "availability": "IN STOCK",
@@ -503,38 +653,22 @@
               "condition": "NEW",
               "gender": "MALE",
               "product_type": [
-                "Mens > Clothing > Sweatshirts & Hoodies > Sweatshirts"
+                "Mens > Bags & Accessories > Bags > Backpacks"
               ],
-              "size": "XS",
-              "title": "T-shirt en jersey à logo",
-              "link": "http://fr.tommy.com/t-shirt-en-jersey-%C3%A0-logo-mw0mw42365bds"
+              "size": "One Size",
+              "title": "Sac à dos technique à rabat roulé en ripstop",
+              "link": "http://fr.tommy.com/sac-%C3%A0-dos-technique-%C3%A0-rabat-roul%C3%A9-en-ripstop-am0am13893bds"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/AcKkABP6IWyC2eGT9euhQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/1UUUIVwdQdxjXhNFxxVTW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/p33MhpGvTt5zFINUAtNdI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2DgoXLoOAp17TzDQfjXqQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/vCe5zm21R9g7Fz3HbWfIw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/BUWKDGpOvWMgWV7CcXWXq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "418a0269-bf32-4011-a078-50294f66407c"
@@ -542,14 +676,150 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/G0gU4a0uhb4JPOvUS9VOu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/BXbD32yOlaVQ3earg56gf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/FDtNX0wCNFFuuKFFUZxxw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Zdis0I1Fn3ffjBIy27667.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
+                  ]
+                }
+              ],
+              "description": "Ce jean droit en denim rigide affiche un superbe look vintage avec ses moustaches et son effet délavé.<BR><BR>Points forts<BR><BR>• Denim rigide<BR>• Moustaches et effet délavé à l'avant et à l'arrière<BR>• Fermeture Éclair et à bouton<BR>• Modèle à cinq poches<BR>• Bande emblématique sur la poche gousset<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la poche arrière<BR><BR>Coupe et taille<BR><BR>• Standard<BR>• Jambe droite<BR>• Le modèle mesure 1m86 et porte une taille 32/34<BR><BR>Composition et entretien<BR><BR>• 100 % coton<BR>• Denim 12,75 oz",
+              "brand": "Tommy Hilfiger",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Jeans Male",
+              "custom_label_3": "fullprice",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [
+                "FIENE INDIGO"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Mens > Clothing > Jeans > Jeans"
+              ],
+              "size": "2930",
+              "title": "Jean droit coupe standard Dover à moustaches",
+              "link": "http://fr.tommy.com/jean-droit-coupe-standard-dover-%C3%A0-moustaches-mw0mw418881bc"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/oZkvoKCvAuj8bWUlfKMLA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/HIo6oCURY7U7idvJrois5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/7eyAoubWgvwg2izxRtPSh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LE58mIUreeOi3RbzuiGo1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/48uxoVX532CUK4oZ38C4q.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "418a0269-bf32-4011-a078-50294f66407c"
+                  ]
+                }
+              ],
+              "description": "Renouvelez votre garde-robe professionnelle avec cette chemise classique en popeline. Retroussez ses manches pour adopter un look plus décontracté.<BR><BR>Points forts<BR><BR>• Popeline de pur coton<BR>• Col semi-italien<BR>• Poignets resserrés<BR>• Branding Tommy Jeans<BR>• Drapeau Tommy brodé sur la poitrine<BR><BR>Coupe et taille<BR><BR>• Coupe standard<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
+              "brand": "Tommy Jeans",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Regular Shirts Male",
+              "custom_label_3": "fullprice",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [
+                "SWEET BLUE"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Mens >  Clothing > Shirts > Regular Shirts"
+              ],
+              "size": "XS",
+              "title": "Chemise coupe standard en popeline à drapeau",
+              "link": "http://fr.tommy.com/chemise-coupe-standard-en-popeline-%C3%A0-drapeau-dm0dm22026c3q"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/KeYBSgb4mJVeREw7u7h5v.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/VHJfYQu7syfb8hfBlFmsh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ayrCmCZc6JVoQbWy8wUr2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/JbGWfdNHlXPeqs0gpjhVA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "418a0269-bf32-4011-a078-50294f66407c"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/2DusGVPOu39ss2lRa1rkn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
                   ]
                 }
               ],
-              "description": "Qu'il pleuve ou qu'il vente, gardez votre style avec cette doudoune légère déperlante. Sa doublure isolante vous gardera bien au chaud.<BR><BR>Points forts<BR><BR>• Léger<BR>• Déperlante<BR>• Rembourrée<BR>• Thermo-isolante<BR>• Capuche fixe à cordon de serrage élastique<BR>• Fermeture Éclair<BR>• Deux poches obliques à fermeture Éclair à l'avant<BR>• Une poche intérieure à fermeture Éclair<BR>• Poignets tempête à scratch<BR>• Logo Tommy Hilfiger sur la capuche<BR>• Écusson logo Tommy Hilfiger sur la manche<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• Décontractée<BR>• Manches raglan<BR><BR>Composition et entretien<BR><BR>• 100 % polyester<BR>• Garnissage en polyester<BR>• Doublure en polyester",
+              "description": "Conçue pour une vie à cent à l'heure, la collection Performance associe notre style emblématique à des matériaux de qualité. Elle présente des pièces phares qui tiennent la distance.<BR><BR>Coupe-vent et déperlante, cette veste innovante en tissu ripstop vous gardera au sec et à l'abri lors de vos aventures en plein air.<BR><BR>Points forts<BR><BR>• Tissu ripstop<BR>• Imperméable<BR>• Coupe-vent<BR>• Compressible<BR>• Col haut<BR>• Capuche fixe à cordon de serrage avec stoppeurs<BR>• Fermeture Éclair<BR>• Deux poches fendues à l'avant<BR>• Femeture à scratch aux poignets<BR>• Écusson logo Tommy Hilfiger en caoutchouc sur la manche<BR>• Logo Tommy Hilfiger sur la capuche<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• Standard<BR><BR>Composition et entretien<BR><BR>• 100 % nylon",
               "brand": "Tommy Hilfiger",
               "custom_label_0": "",
               "custom_label_1": "",
@@ -558,7 +828,7 @@
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "HIGHLAND KHAKI"
+                "NAVY BLUE"
               ],
               "condition": "NEW",
               "gender": "MALE",
@@ -566,19 +836,19 @@
                 "Mens > Clothing > Coats & Jackets > Jackets"
               ],
               "size": "XS",
-              "title": "Doudoune Performance déperlante",
-              "link": "http://fr.tommy.com/doudoune-performance-d%C3%A9perlante-mw0mw41792gwp"
+              "title": "Veste Tech en ripstop déperlante compressible",
+              "link": "http://fr.tommy.com/veste-tech-en-ripstop-d%C3%A9perlante-compressible-mw0mw40635dw5"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/Knegilcva6tcOErKXAh5f.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/tTDWvqn0aIa90WGhu9AQK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/jcWF0Mxq5jf07JZ6ZKN5B.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/weIh65Iz3CewcyNFhtcuW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
@@ -586,7 +856,15 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/LkBK9v4ZKYhNOk6liBLnM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/cZzq7hN01EAFVdk6qLU3M.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "418a0269-bf32-4011-a078-50294f66407c"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/eEIh2VD3SEWIyz5VVrc9L.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "7fc77f0b-0427-438b-b855-eb2d2ab75152"
@@ -594,7 +872,43 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/nQhwkxeF8CthqkWA4AlHE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/gKut55ekcnXNbm1FInGkO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                  ]
+                }
+              ],
+              "description": "Ce jean bootcut classique présente un effet délavé sur les cuisses et un aspect usé sur les poches pour une allure brute authentique.<BR><BR>Points forts<BR><BR>• Denim de coton extensible<BR>• Effet usé sur les poches<BR>• Effet délavé à l'avant et à l'arrière<BR>• Fermeture avec zip et bouton<BR>• Modèle à cinq poches<BR>• Boutons et rivets métalliques estampés<BR>• Branding Tommy Jeans<BR>• Drapeau Tommy brodé sur la poche gousset et la poche arrière<BR><BR>Coupe et taille<BR><BR>• Coupe bootcut<BR><BR>Composition et entretien<BR><BR>• 99 % coton, 1 % élasthanne<BR>• Denim 12,3 oz",
+              "brand": "Tommy Jeans",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Jeans Male",
+              "custom_label_3": "fullprice",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [
+                "DENIM MEDIUM"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Mens > Clothing > Jeans > Jeans"
+              ],
+              "size": "2830",
+              "title": "Jean bootcut délavé à effet usé",
+              "link": "http://fr.tommy.com/jean-bootcut-d%C3%A9lav%C3%A9-%C3%A0-effet-us%C3%A9-dm0dm230371a5"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/eb0anIwSaES2TkLQjgCJz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/27BuS98La7ARer8HaRy8n.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "768c4a8a-2be5-4859-bd78-1a07b6a83081"
@@ -602,52 +916,119 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2N1laHyTYBfBXB1fO9mpr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/XUmkzpxBNDKWct34KQzen.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/AMLUGTuGpD343nsktKk9L.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "418a0269-bf32-4011-a078-50294f66407c"
                   ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/bNPhIcZtsqTJKoaXiKH11.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
+                  ]
                 }
               ],
-              "description": "Cette chemise décontractée à boutons est sublimée par son pur coton à toucher papier et son logo brodé.<BR><BR>Points forts<BR><BR>• Pur coton toucher papier<BR>• Col boutonné<BR>• Une poche poitrine plaquée<BR>• Poignets arrondis à deux boutons<BR>• Pli plat au dos<BR>• Ourlet de chemise<BR>• Bande emblématique à l'intérieur du col<BR>• Logo cursive Tommy Hilfiger brodé sur la poche<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• Coupe classique<BR>• Épaules légèrement tombantes<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
-              "brand": "Tommy Hilfiger",
+              "description": "Avec sa taille mi-haute et sa coupe légèrement fuselée, le jean Sonny permet de composer facilement une multitude de looks.<BR><BR>Ce chino présente une coupe slim contemporaine. Il est réalisé en coton extensible légèrement texturé pour garantir une grande liberté de mouvement.<BR><BR>Points forts<BR><BR>• Coton extensible<BR>• Fermeture Éclair et à bouton<BR>• Deux poches fendues obliques à la taille<BR>• Deux poches arrière passepoilées<BR>• Branding Tommy Jeans<BR>• Écusson drapeau Tommy Jeans sur la poche<BR><BR>Coupe et taille<BR><BR>• Ajustée<BR>• Le modèle mesure 1m86 et porte une taille 32/34<BR><BR>Composition et entretien<BR><BR>• 98 % coton, 2 % élasthanne",
+              "brand": "Tommy Jeans",
               "custom_label_0": "",
               "custom_label_1": "",
-              "custom_label_2": "Shirts Male",
-              "custom_label_3": "fullprice",
+              "custom_label_2": "Chinos Male",
+              "custom_label_3": "sale",
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "BLUE SPELL",
-                "STRIPE"
+                "BLACK"
               ],
               "condition": "NEW",
               "gender": "MALE",
               "product_type": [
-                "Mens > Clothing > Shirts > Shirts"
+                "Mens > Clothing > Trousers > Chinos"
+              ],
+              "size": "3032",
+              "title": "Chino slim Sonny",
+              "link": "http://fr.tommy.com/chino-slim-sonny-dm0dm22001bds"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/9iMX1OtYgBGEFcoB8JJrz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/rWzqFnc3nmXpElfVRliCj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "418a0269-bf32-4011-a078-50294f66407c"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ADsTbOoRTK6gyrg0Y0iq2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/r2cLnpeJPO8tgR7E4FTRT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/gNZHukcJLIfVphIYNMGB4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
+                  ]
+                }
+              ],
+              "description": "Ce cardigan zippé s'inspire du polo intemporel. La maille texturée offre une sensation de confort.<BR><BR>Points forts<BR><BR>• Pur coton peigné<BR>• Maille texturée<BR>• Col polo<BR>• Fermeture Éclair<BR>• Col, poignets et ourlet côtelés<BR>• Bande emblématique à l'intérieur du col<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la poitrine<BR><BR>Coupe et taille<BR><BR>• Standard<BR>• Épaules légèrement tombantes<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
+              "brand": "Tommy Hilfiger",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Cardigans Male",
+              "custom_label_3": "fullprice",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [
+                "BLACK"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Mens > Clothing > Jumpers & Cardigans > Cardigans"
               ],
               "size": "XS",
-              "title": "Chemise coupe classique en coton toucher papier à logo brodé",
-              "link": "http://fr.tommy.com/chemise-coupe-classique-en-coton-toucher-papier-%C3%A0-logo-brod%C3%A9-mw0mw429850a4"
+              "title": "Cardigan à col polo zippé en maille texturée",
+              "link": "http://fr.tommy.com/cardigan-%C3%A0-col-polo-zipp%C3%A9-en-maille-textur%C3%A9e-mw0mw41645bds"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/G0qzZ8Sy4WP2nZ1AfbUDv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/VbCi6lyaleDrTqrC9DUfW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/QB6qt9WWCsUzAY2wLYzhU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/iGU8QtkwJT3m6mnSk0Z3H.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/d1eZv4iXzUnpXPKSA4HSi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "768c4a8a-2be5-4859-bd78-1a07b6a83081"
@@ -655,59 +1036,7 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/PJ0pcBDMrorEL0LpzcN0w.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/1vSYv7AxGFu1EhjSIeXbo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                }
-              ],
-              "description": "Inspiré des archives, ce short de bain se distingue par son motif colour-block emblématique et ses logos raffinés.<BR><BR>Points forts<BR><BR>• Tissu pour la nage en microfibre de polyester<BR>• Motif colour-block emblématique<BR>• Deux poches fendues sur les côtés<BR>• Une poche arrière plaquée<BR>• Badge Tommy sur l'ourlet<BR>• Logo signature Tommy jeans brodé à l'avant<BR>• Branding Tommy Jeans<BR><BR>Coupe et taille<BR><BR>• Couture intérieure 12,5 cm, couture extérieure 40,5 cm<BR><BR>Composition et entretien<BR><BR>• 100 % polyester",
-              "brand": "Tommy Hilfiger",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Swimwear Male",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "DEEP CRIMSON"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Mens > Clothing > Swimwear > Swimwear"
-              ],
-              "size": "S",
-              "title": "Short de bain mi-long colour-block",
-              "link": "http://fr.tommy.com/short-de-bain-mi-long-colour-block-um0um03861xnl"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/kkh3Uc56bAwxYgUAvddgZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/eTneljUNmW2rQCwe6Izxl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/7eEawaaYK1e8vOVJkPswU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/0BvJ4NeqUuiLYgxsZsmb2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
@@ -715,59 +1044,7 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/B4dORh1naPnPcrdYDLm6o.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/A5anQQrfK9Ie8LFPMEeyD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                }
-              ],
-              "description": "Ce bracelet inspiré du thème nautique se compose de deux liens en cuir tressé bleu. Il apportera une touche de couleur à vos tenues.<BR><BR>Points forts<BR><BR>• Cuir bleu<BR>• Tressé<BR>• Bracelet double<BR>• Fermeture à bouton<BR>• Breloque en acier inoxydable avec ancre et corde plaqué or<BR>• Fixations emblématiques<BR>• Logo Tommy Hilfiger sur la breloque<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• Circonférence intérieure 17,5 ou 19 cm<BR>• Largeur 6,5 mm<BR><BR>Composition et entretien<BR><BR>• Cuir et acier inoxydable",
-              "brand": "Tommy Hilfiger",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Jewellery Male",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "MULTI"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Mens > Bags & Accessories > Accessories > Jewellery"
-              ],
-              "size": "One Size",
-              "title": "Bracelet en cuir bleu à breloque nautique",
-              "link": "http://fr.tommy.com/bracelet-en-cuir-bleu-%C3%A0-breloque-nautique-mjm2790691000"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/CNlXhiYrOfdpYD5RniphV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/s4JBPyENEXEVLUr0rPmZ8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UM0orRNYqlxEELPy3ywgz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/R8JwlGIdX7IdBmhXdFSlc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "418a0269-bf32-4011-a078-50294f66407c"
@@ -775,204 +1052,14 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/jFxtMuZ9kLOpSkkIdjnUd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ISmLXqJvInOfahe65uHBn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                }
-              ],
-              "description": "Cette cravate en jacquard de pure soie présente un motif à larges rayures diagonales. C'est un accessoire classique qui complète les tenues élégantes.<BR><BR>Points forts<BR><BR>• Jacquard en pure soie tissée<BR>• Motif à rayures diagonales<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur l'envers<BR><BR>Composition et entretien<BR><BR>• 100 % soie",
-              "brand": "Tommy Hilfiger",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Accessories Male",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "SANDALWOOD",
-                "STRIPE"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Mens > Bags & Accessories > Accessories > Accessories"
-              ],
-              "size": "One Size",
-              "title": "Cravate à rayures en jacquard de pure soie",
-              "link": "http://fr.tommy.com/cravate-%C3%A0-rayures-en-jacquard-de-pure-soie-mw0mw392850aa"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/8RahiPgXjZEgdy9qfxcgK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ZvsyGG6k6HyOY0FaZNC8Z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qui6Tsi5A9y5dELxLPjNa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/1DRhprgiVPxKmsd32vHXS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Hpjwiroe34LShN4jJbeIl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/Nzta1LchhpLQnMGOPVngm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "7fc77f0b-0427-438b-b855-eb2d2ab75152"
                   ]
                 }
               ],
-              "description": "Cette chemise à manches courtes bénéficie de la technologie Flex. Elle associe col boutonné, pli plat au dos et motif à rayures pour accompagner vos activités quotidiennes.<BR><BR>Points forts<BR><BR>• Popeline de pur coton effet peau de pêche<BR>• Technologie Flex<BR>• Motif à rayures verticales<BR>• Col boutonné<BR>• Pli plat au dos<BR>• Ourlet de chemise<BR>• Bande emblématique à l'intérieur du col<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la poitrine<BR><BR>Coupe et taille<BR><BR>• Coupe standard<BR>• Manches courtes<BR><BR>Composition et entretien<BR><BR>• 100 % coton<BR><BR>Vidéo générée par l'IA",
-              "brand": "Tommy Hilfiger",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Regular Shirts Male",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "WEDGE BLUE",
-                "STRIPE"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Mens >  Clothing > Shirts > Regular Shirts"
-              ],
-              "size": "XS",
-              "title": "Chemise à manches courtes TH Flex",
-              "link": "http://fr.tommy.com/chemise-%C3%A0-manches-courtes-th-flex-mw0mw428600a4"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/FAmd8bom21bTwCEy6zirB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/TzGe2yEeZDSpxSVhil74S.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/xEegkEVITpgaFnkJZQc8g.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/iEvKHjKASTdlq1cLH3DBz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Fd1z0DWvoqjW9DikvtO9R.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                }
-              ],
-              "description": "Ce bracelet en nylon tressé évoque l'esprit d'exploration. Il possède un fermoir sécurisé à nœud coulissant, rehaussé d'un fil à bande emblématique.<BR><BR>Points forts<BR><BR>• Nylon tressé noir<BR>• Fermoir à noeud coulissant ajustable<BR>• Perle hexagonale en acier inoxydable<BR>• Fil à bande emblématique sur le fermoir<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• Circonférence intérieure 19 cm<BR>• Taille des perles 5,6 x 5 mm<BR><BR>Composition et entretien<BR><BR>• Nylon et acier inoxydable",
-              "brand": "Tommy Hilfiger",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Jewellery Male",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "MULTI"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Mens > Bags & Accessories > Accessories > Jewellery"
-              ],
-              "size": "One Size",
-              "title": "Bracelet noir à nœud coulissant ajustable",
-              "link": "http://fr.tommy.com/bracelet-noir-%C3%A0-n%C5%93ud-coulissant-ajustable-mjm2790681000"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/yKodHbxkWfa0xJchkbBOB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/geRMYPxcneqEfHu6L5JE0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/EOBJydD9OXIlc7f8DeaHX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/YMvA9dQuhy4IdsfNufLNe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/nyTmGllk6ZOimzEyoGhrG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                }
-              ],
-              "description": "Ce polo en pur coton piqué apportera une note haut de gamme à toutes les tenues. Il se distingue par une texture alvéolée sophistiquée et un logo appliqué.<BR><BR>Points forts<BR><BR>• Piqué de pur coton<BR>• Texture alvéolée<BR>• Col polo et patte de boutonnage en maille<BR>• Patte à deux boutons<BR>• Bande emblématique à l'intérieur du col<BR>• Drapeau Tommy Hilfiger appliqué sur la poitrine<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• Coupe classique<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
+              "description": "Ce polo coupe standard intemporel en piqué de coton bio se distingue par son liseré sur le col et les manches.<BR><BR>Points forts<BR><BR>• Piqué de pur coton<BR>• Liseré sur le col polo et le bord des manches<BR>• Patte à deux boutons<BR>• Bande emblématique à l'intérieur du col<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la poitrine<BR><BR>Coupe et taille<BR><BR>• Coupe standard<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
               "brand": "Tommy Hilfiger",
               "custom_label_0": "",
               "custom_label_1": "",
@@ -981,7 +1068,7 @@
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "NOCTURNAL GREEN"
+                "BLACK"
               ],
               "condition": "NEW",
               "gender": "MALE",
@@ -989,8 +1076,68 @@
                 "Mens > Clothing > Polos"
               ],
               "size": "XS",
-              "title": "Polo coupe classique à col en maille",
-              "link": "http://fr.tommy.com/polo-coupe-classique-%C3%A0-col-en-maille-mw0mw42740mbn"
+              "title": "Polo coupe standard en piqué à liserés",
+              "link": "http://fr.tommy.com/polo-coupe-standard-en-piqu%C3%A9-%C3%A0-liser%C3%A9s-mw0mw42748bds"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/MYTEOKZ33w0Ktz7bGWzEt.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/iQz8J9KWZue2hHSEzIS3L.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Ct8KlUmYcynif6Qc5X98z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/dIVxm8vWI57Nnk2GJc4mP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "418a0269-bf32-4011-a078-50294f66407c"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/M1PvaXqiIUhJ45KAtuWKQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                  ]
+                }
+              ],
+              "description": "Ce T-shirt en jersey de pur coton épais doté d'une coupe décontractée confortable a tout pour devenir une pièce phare de vos tenues du week-end.<BR><BR>Points forts<BR><BR>• Jersey de pur coton épais<BR>• Col ras-du-cou<BR>• Bande emblématique à l'intérieur du col<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la poitrine<BR><BR>Coupe et taille<BR><BR>• Coupe décontractée<BR>• Épaules légèrement tombantes<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
+              "brand": "Tommy Hilfiger",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Sweatshirts Male",
+              "custom_label_3": "fullprice",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [
+                "REGATTA RED"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Mens > Clothing > Sweatshirts & Hoodies > Sweatshirts"
+              ],
+              "size": "XS",
+              "title": "T-shirt décontracté en jersey à drapeau brodé",
+              "link": "http://fr.tommy.com/t-shirt-d%C3%A9contract%C3%A9-en-jersey-%C3%A0-drapeau-brod%C3%A9-mw0mw42382xit"
             }
           ],
           "template": {},
@@ -1014,8 +1161,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "272c8214-47d0-4c25-ab32-ca1b08b6d7f4",
-        "name": "link-video_u1_6s_PSTG-PAT-ABB_del1",
+        "id": "00ee75b5-8c86-4b46-a102-f1a3616ad179",
+        "name": "link-video_u1_17s_PSMG-XXX-XXX_del1",
         "ad_account_name": " Tommy Hilfiger Europe B.V (Line of Credit)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -1024,13 +1171,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "Vivre avec style",
+        "headline": "Les festivités chez Tommy",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WMeo5l9wkCWvwZNImkscI.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi-xScgATDgAzjUBkABSg4KCU1OMh4uM0UrJxD0A1DwLmgCdQOGQUAiBgoCSAMSAKIBNwi6ChIqCigI4ZshIAEw0AU4gApAAkoOCglMQyMcICwyKB0Q9ANQ8C5oAnUUsE5AIgYKAkgCEgCiATwIkgoSLwotCKWQGiABMOADONQGQAJKDgoJODQcFhkhLx0YEPQDUPAuaAJ1Xg4tQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCMG9FyABMOADONQGQAJKDgoJOS4YFRgeIhwTEPQDUPAuaAJ14nc9QH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
-        "start_date": "2026-02-24T19:00:00.000Z",
-        "impressions_total": 4556425,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/aP555PavuGiv6u4VkKbUS.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjfhy8gATDgAzjUBkABSg4KCTQdFRcpIBstDhD0A1CgamgCddHmVEAiBgoCSAMSAKIBNwi6ChIqCigIq7stIAEw0AU4gApAAkoOCglEGhEULB0YGRIQ9ANQoGpoAnWq5FNAIgYKAkgCEgCiATwIkgoSLwotCN3RHyABMOADONQGQAJKDgoJKBYPEhwXERELEPQDUKBqaAJ10J9EQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCMzcHSABMOADONQGQAJKDgoJLhEMDB4UEQ8MEPQDUKBqaAJ1DChLQH0AAIA_IgYKAkgCEgCQA6Bq&uc=15",
+        "start_date": "2025-10-20T18:00:00.000Z",
+        "impressions_total": 3137124,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -1042,7 +1189,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 4556425,
+          "fr": 3137124,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -1068,6 +1215,7 @@
               "min_age": "18",
               "max_age": "45",
               "age_groups": [],
+              "gender": "FEMALE",
               "languages": [],
               "advanced_demographics": []
             }
@@ -1077,9 +1225,9 @@
         "paying_advertiser_name": "Tommy Hilfiger Europe B.V.",
         "profile_name": "Tommy Hilfiger",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ3J5ZFRGUWRjZE5RcVBVRnFEajJDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
+        "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://fr.tommy.com/tommy-stories?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=sp26_th_brand_halo_fr&utm_term=fr_attract_broad_dual_th&utm_content=link-video_u1_6s_PSTG-PAT-ABB_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:sp26_th_brand_halo_fr%7C_co:fr%7C_cj:fr_attract_broad_dual_th%7Cts:broad_dual%7Cag:u%7C_cr:link-video_u1_6s_PSTG-PAT-ABB_del1"
+          "url": "https://fr.tommy.com/tendances-femme?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=fw25_th_brand_holiday_fr&utm_term=fr_attract_broad_female_th&utm_content=link-video_u1_17s_PSMG-XXX-XXX_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:fw25_th_brand_holiday_fr%7C_co:fr%7C_cj:fr_attract_broad_female_th%7Cts:broad_female%7Cag:u%7C_cr:link-video_u1_17s_PSMG-XXX-XXX_del1"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -1089,20 +1237,20 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c793a314-4e91-4d40-8636-0181468927f1",
-        "name": "dynamic-content_w1_daba-bau",
-        "ad_account_name": " Tommy Hilfiger Europe B.V (Line of Credit)",
+        "id": "2410d204-1b42-431a-9d2f-7ff1b275bd77",
+        "name": "dynamic-content_d1_DPAnewtemplate_image",
+        "ad_account_name": "Tommy Hilfiger Ecom",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "DYNAMIC",
         "languages": [],
-        "headline": "Vos prochains coups de cœur",
-        "call_to_action": "SHOP_NOW",
+        "headline": "Vos vêtements préférés",
+        "call_to_action": "SHOP NOW",
         "top_snap_media_type": "DYNAMIC",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-07-07T16:00:00.000Z",
-        "impressions_total": 4386169,
+        "start_date": "2026-03-17T09:15:07.000Z",
+        "impressions_total": 180126,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -1114,7 +1262,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 4386169,
+          "fr": 180126,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -1139,7 +1287,6 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "gender": "FEMALE",
               "languages": [],
               "advanced_demographics": []
             }
@@ -1147,131 +1294,21 @@
           "devices": []
         },
         "paying_advertiser_name": "Tommy Hilfiger Europe B.V.",
+        "brand_name": "Tommy Hilfiger",
         "profile_name": "Tommy Hilfiger",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ3J5ZFRGUWRjZE5RcVBVRnFEajJDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": false,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            }
-          ]
-        },
         "dpa_preview": {
           "items": [
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/lg2KA9MBleTVwK91xasYV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/8VMrrXSObkmxYrGhnTmrW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/VHPtWc8B750OCEBbx4R6v.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ZWnrOFxYVKBnXGg5Qn5nd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/9BHQITXsKRhcPMMcswyIg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/foG0l9gGr3JopRICR400Y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "418a0269-bf32-4011-a078-50294f66407c"
@@ -1279,51 +1316,15 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/AJ1fCmMt5rqbQ3cUZI8kA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/LPEZKrJshQ2325cLvfJC2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
                   ]
-                }
-              ],
-              "description": "Cette veste trucker en denim délavé affiche un style vintage discret. Elle combine un branding ton sur ton au dos, une coupe oversize et des épaules tombantes.<BR><BR>Points forts<BR><BR>• Denim de coton mélangé<BR>• Effet délavé<BR>• Pattes ajustables à la taille<BR>• Col semi-italien<BR>• Fermeture à boutons<BR>• Deux poches poitrine à rabat boutonnées<BR>• Deux poches latérales passepoilées<BR>• Badge drapeau Tommy ton sur ton au dos<BR>• Branding Tommy Jeans<BR><BR>Coupe et taille<BR><BR>• Oversize<BR>• Épaules tombantes<BR>• Le premier modèle mesure 1m76 et porte une taille S<BR>• Le deuxième modèle mesure 1m80 et porte une taille 2XL<BR><BR>Composition et entretien<BR><BR>• 57 % coton, 43 % lyocell<BR>• Denim 13,7 oz",
-              "brand": "Tommy Jeans",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Jackets Female",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "DENIM BLACK"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Womens > Clothing > Coats & Jackets > Jackets"
-              ],
-              "size": "XS",
-              "title": "Veste Trucker oversize en denim à logo",
-              "link": "http://fr.tommy.com/veste-trucker-oversize-en-denim-%C3%A0-logo-dw0dw226021bz"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/61PXiMVqq9RUb97OZzclc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/TcazijF9N8tefDt3yoAp1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/LZTjZTVHLcdd1G3E9NDml.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/RF0BOmv2bplSaOWcjuDMt.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "768c4a8a-2be5-4859-bd78-1a07b6a83081"
@@ -1331,51 +1332,51 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/jiCfRMTCp8ERx9SQehNa4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/jn9Ii8Kj6PCaYgIVUwFOT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2L7gdepH03IaK6wWkrbfg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
+                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
                   ]
                 }
               ],
-              "description": "Ajoutez une touche de féminité à vos tenues d'intérieur avec ce débardeur de pyjama doté d'un décolleté flatteur et habillé d'un motif accrocheur.<BR><BR>Points forts<BR><BR>• Coton modal extensible<BR>• Motif imprimé<BR>• Décolleté<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger contrasté brodé sur la poitrine<BR><BR>Composition et entretien<BR><BR>• 57 % coton, 38 % modal, 5 % élasthanne",
+              "description": "Ces tongs moulées par injection présentent une finition irisée qui scintille discrètement. Elles apporteront une touche chic à vos looks de piscine pendant les vacances.<BR><BR>Points forts<BR><BR>• Tige en EVA<BR>• Semelle extérieure en EVA<BR>• Finition irisée<BR>• Design moulé par injection<BR>• Assise plantaire contourée<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger en émail sur la bride<BR><BR>Coupe et taille<BR><BR>• Hauteur de la semelle 3,3 cm<BR><BR>Composition et entretien<BR><BR>• 100 % EVA",
               "brand": "Tommy Hilfiger",
               "custom_label_0": "",
               "custom_label_1": "",
-              "custom_label_2": "Pyjamas Female",
+              "custom_label_2": "Flip Flops Female",
               "custom_label_3": "fullprice",
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "BELIEZE FLORAL ECRU"
+                "SAFARI CANVAS PEARLIZED"
               ],
               "condition": "NEW",
               "gender": "FEMALE",
               "product_type": [
-                "Womens > Clothing > Lounge & Sleepwear > Pyjamas"
+                "Womens > Shoes > Flip Flops"
               ],
-              "size": "XS",
-              "title": "Débardeur de pyjama Essential à motif",
-              "link": "http://fr.tommy.com/d%C3%A9bardeur-de-pyjama-essential-%C3%A0-motif-uw0uw062950f9"
+              "size": "EU35/36",
+              "title": "Tongs moulées irisées",
+              "link": "http://fr.tommy.com/tongs-moul%C3%A9es-iris%C3%A9es-fw0fw092010ht"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/YJYZGemQbeo3gzrI1lOnC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/PvoeEotAi26e8yLteO1nZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/hTdpzsqh3Y42j2INN9JkE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/NeoTVpIcLvAXmwco1kHBr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/GXtrMAliJMOXK1lZdAuu1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "7fc77f0b-0427-438b-b855-eb2d2ab75152"
@@ -1383,15 +1384,7 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/FIGAjYWl9Yg3Yn5cQHp1Y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/jnQqTYQ4DgHGCfJ6PLYnR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/F1wkg1rLQLTsPUSFCTn42.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
@@ -1399,103 +1392,43 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/m0MxaS0j4NsTTpwQYhtTW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                }
-              ],
-              "description": "Cette ceinture en poils de veau apporte de la texture à votre tenue. Elle s'accompagne d'une boucle abstraite originale et d'un logo estampé.<BR><BR>Points forts<BR><BR>• Poils de veau<BR>• Motif vache<BR>• Finition texturée<BR>• Boucle en métal abstraite<BR>• Extrémité en métal<BR>• Logo Tommy Jeans estampé sur la boucle<BR>• Branding Tommy Jeans<BR><BR>Coupe et taille<BR><BR>• Largeur 3 cm<BR><BR>Composition et entretien<BR><BR>• 100 % poils de vache",
-              "brand": "Tommy Jeans",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Belts Female",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "BLACK WALNUT"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Womens > Bags & Accessories > Accessories > Belts"
-              ],
-              "size": "EU75cm",
-              "title": "Ceinture à motif vache et boucle abstraite",
-              "link": "http://fr.tommy.com/ceinture-%C3%A0-motif-vache-et-boucle-abstraite-aw0aw18259gw1"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/8XPUdauhKCDLgwZ4U8uxC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/64vN7yQ3Q7yIh29T4sjT8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/V9J8VlxTe4JvFqQzcVlks.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/WgWIV5c02qyLnJjH4M4NN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "418a0269-bf32-4011-a078-50294f66407c"
                   ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/aFXNRwybWTjbbmWFEHk8y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/dkhk9nC76mzYdVaWAwFlS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
                 }
               ],
-              "description": "Apportez une touche classique à vos tenues du quotidien avec ce cabas structuré. Il comprend une bandoulière ajustable en toile et des détails emblématiques.<BR><BR>Points forts<BR><BR>• Effet grain fin<BR>• Fermoir aimanté<BR>• Deux poignées<BR>• Bandoulière amovible ajustable en toile<BR>• Un compartiment principal<BR>• Une poche intérieure à fermeture Éclair<BR>• Motif logo Tommy Hilfiger ton sur ton sur la bandoulière<BR>• Logo Tommy Hilfiger métallisé à l'avant<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• 40 x 14 x 30 cm<BR>• Capacité 12 L<BR><BR>Composition et entretien<BR><BR>• 100 % polyuréthane",
+              "description": "Ce débardeur côtelé en coton extensible est un atout polyvalent pour votre collection de vêtements de plage. Il se distingue par un grand logo cursive brodé.<BR><BR>Points forts<BR><BR>• Coton extensible<BR>• Texture côtelée<BR>• Col rond<BR>• Logo cursive Tommy Hilfiger brodé sur la poitrine<BR>• Branding Tommy Hilfiger<BR><BR>Composition et entretien<BR><BR>• 95 % coton, 5 % élasthanne",
               "brand": "Tommy Hilfiger",
               "custom_label_0": "",
               "custom_label_1": "",
-              "custom_label_2": "Bags Female",
+              "custom_label_2": "Tops Male",
               "custom_label_3": "fullprice",
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "CLASSIC BEIGE"
+                "KEEPSAKE BLUE"
               ],
               "condition": "NEW",
-              "gender": "FEMALE",
+              "gender": "MALE",
               "product_type": [
-                "Womens > Bags & Accessories > Bags > Bags"
+                "Mens > Clothing > Tops"
               ],
-              "size": "One Size",
-              "title": "Cabas Casual à bandoulière en toile à logo",
-              "link": "http://fr.tommy.com/cabas-casual-%C3%A0-bandouli%C3%A8re-en-toile-%C3%A0-logo-aw0aw17971aci"
+              "size": "S",
+              "title": "Débardeur côtelé à logo brodé",
+              "link": "http://fr.tommy.com/d%C3%A9bardeur-c%C3%B4tel%C3%A9-%C3%A0-logo-brod%C3%A9-um0um03841cyr"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/iMl1Rqtlm4yG3LneevaTE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/QrGkaRw2x7qACZlPSJsM3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/wuHoEM2Ts16OmFSSwwjQm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/8hfBY7gAUDtoUDHtaBCHs.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "768c4a8a-2be5-4859-bd78-1a07b6a83081"
@@ -1503,15 +1436,15 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/4hoAjHoVzsauXxIM3dyRz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/x63b5IspIqsHWknt706QR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
+                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
                   ]
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/H7yCrvqVuNh1felmT4FmQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/JT5zzIp3WPGGS3hYfBazb.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "418a0269-bf32-4011-a078-50294f66407c"
@@ -1519,119 +1452,43 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/PwSdoAsIDni9b5rBs6S9z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/Lb7pF4lr974T6gwxePzhe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
+                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
                   ]
                 }
               ],
-              "description": "Gardez vos cartes et billets ensemble dans ce portefeuille trois volets à la finition lisse. Il est rehaussé d'une plaque monogramme TH.<BR><BR>Points forts<BR><BR>• Finition lisse<BR>• Trois volets<BR>• Fermeture à rabat<BR>• Une poche extérieure à fermeture Éclair<BR>• Plaque monogramme TH à l'avant<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• 12 x 3 x 9 cm<BR><BR>Composition et entretien<BR><BR>• 100 % polyuréthane",
+              "description": "Ce pantalon ample en pur lin haut de gamme adopte une coupe décontractée. Son fil tissé teint offre des couleurs profondes.<BR><BR>Points forts<BR><BR>• Pur lin<BR>• Fil tissé teint<BR>• Taille élastique à cordon de serrage<BR>• Deux poches fendues sur les côtés<BR>• Deux poches arrière plaquées<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la poche arrière<BR><BR>Coupe et taille<BR><BR>• Coupe décontractée<BR>• Jambe ample<BR><BR>Composition et entretien<BR><BR>• 100 % lin",
               "brand": "Tommy Hilfiger",
               "custom_label_0": "",
               "custom_label_1": "",
-              "custom_label_2": "Wallets Female",
+              "custom_label_2": "Trousers Female",
               "custom_label_3": "fullprice",
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "SANDALWOOD"
+                "LEGACY BROWN"
               ],
               "condition": "NEW",
               "gender": "FEMALE",
               "product_type": [
-                "Womens > Bags & Accessories > Wallets & Keyrings > Wallets"
-              ],
-              "size": "One Size",
-              "title": "Portefeuille trois volets à monogramme TH",
-              "link": "http://fr.tommy.com/portefeuille-trois-volets-%C3%A0-monogramme-th-aw0aw17737rbt"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/d4IviUEJnf98i844ylc2j.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/t8QP7HMp0TUdRshGKAg4s.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/u5TcZGHEPOiTPg2v6E9Ih.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qvqRQwSkM9znmGEnL27by.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RTkedirMyuFOKVU9xbNXk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                }
-              ],
-              "description": "Renouvelez votre collection d'essentiels athleisure avec ce sweat à capuche décontracté. Il est rehaussé de galons contrastés qui lui prêtent une allure sportive et chic.<BR><BR>Points forts<BR><BR>• Pur coton bouclé brossé<BR>• Galons contrastés<BR>• Encolure à capuche<BR>• Poignets et ourlet côtelés<BR>• Badge Tommy sur la poitrine<BR>• Branding Tommy Jeans<BR><BR>Coupe et taille<BR><BR>• Décontractée<BR>• Manches raglan<BR>• Le premier modèle mesure 1m76 et porte une taille S<BR>• Le deuxième modèle mesure 1m80 et porte une taille 2XL<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
-              "brand": "Tommy Jeans",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Hoodies Female",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "ECRU"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Womens > Clothing > Sweatshirts & Hoodies > Hoodies"
+                "Womens > Clothing > Trousers > Trousers"
               ],
               "size": "XXS",
-              "title": "Sweat à capuche décontracté Tommy Badge",
-              "link": "http://fr.tommy.com/sweat-%C3%A0-capuche-d%C3%A9contract%C3%A9-tommy-badge-dw0dw22544ybl"
+              "title": "Pantalon décontracté jambe ample en pur lin",
+              "link": "http://fr.tommy.com/pantalon-d%C3%A9contract%C3%A9-jambe-ample-en-pur-lin-ww0ww48970gv0"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/Yi4jjM9jMlDfvJlw7EMbM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/4Jo85HcxRlGaCi4kYZreZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/hNz962lTAGxVnilUbDfYm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/MaKGWxNo0qF6ElvEaEBaw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/fkyxgyB2ggGwtYHLqvklB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/cKf91gAkM4Qst68xu6LP3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "418a0269-bf32-4011-a078-50294f66407c"
@@ -1639,19 +1496,35 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/6qOARg24NT8W8Yhdvjimo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/lh5wyHxTyOxWuMGSLNgO0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hq1XfCLAyvOLaBSBO9EEM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/UVYIb3sxgkIS7YClKUT7b.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "768c4a8a-2be5-4859-bd78-1a07b6a83081"
                   ]
                 }
               ],
-              "description": "Ce sweat en tissu éponge effet peau de pêche marie esthétique sportive et style streetwear. Il se dote d'un col entonnoir à la fermeture zippée quart de longueur et d'un logo brodé inspiré des universités américaines.<BR><BR>Points forts<BR><BR>• Tissu éponge en pur coton effet peau de pêche<BR>• Col entonnoir<BR>• Fermeture zippée quart de longueur<BR>• Empiècements aux épaules et poignets côtelés<BR>• Logo Tommy Jeans brodé sur la poitrine<BR>• Branding Tommy Jeans<BR>• Drapeau Tommy brodé sur la manche<BR><BR>Coupe et taille<BR><BR>• Coupe décontractée<BR>• Épaules tombantes<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
+              "description": "Cette brassière courte est un indispensable contemporain qui s'accordera avec de nombreuses tenues. Elle est réalisée en tissu éponge côtelé et présente un branding sportif sur la basque.<BR><BR>Points forts<BR><BR>• Tissu éponge en coton mélangé extensible<BR>• Texture côtelée<BR>• Décolletée<BR>• Dos nageur<BR>• Bande à motif logo Tommy Jeans sur la basque élastique<BR>• Branding Tommy Jeans<BR>• Drapeau Tommy brodé sur la poitrine<BR><BR>Coupe et taille<BR><BR>• Moulante<BR>• Courte<BR>• À enfiler<BR><BR>Composition et entretien<BR><BR>• 50 % coton, 44 % polyester, 6 % élasthanne",
               "brand": "Tommy Jeans",
               "custom_label_0": "",
               "custom_label_1": "",
-              "custom_label_2": "Sweatshirts Female",
-              "custom_label_3": "fullprice",
+              "custom_label_2": "Tops Female",
+              "custom_label_3": "sale",
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
@@ -1660,22 +1533,22 @@
               "condition": "NEW",
               "gender": "FEMALE",
               "product_type": [
-                "Womens > Clothing > Sweatshirts & Hoodies > Sweatshirts"
+                "Womens > Clothing > Tops"
               ],
               "size": "XXS",
-              "title": "Sweat décontracté zippé à logo brodé",
-              "link": "http://fr.tommy.com/sweat-d%C3%A9contract%C3%A9-zipp%C3%A9-%C3%A0-logo-brod%C3%A9-dw0dw22364ybh"
+              "title": "Brassière courte moulante dos nageur",
+              "link": "http://fr.tommy.com/brassi%C3%A8re-courte-moulante-dos-nageur-dw0dw22537ybh"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/kzVDf3rNDS2MRYdwxJAg4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/S01rS4ypxVDB0GekmR5iM.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/xSo4nYzFH2MqRJVkxkDeR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/gJcvn0cJQEHnJmyQrz9eJ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "418a0269-bf32-4011-a078-50294f66407c"
@@ -1683,15 +1556,7 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/f9gjbuNrQFKmgejBEhnC1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ZIbWbeRoeMmX4ASiktyL7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/hDdcJNvqONN60bNl3AfyF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "7fc77f0b-0427-438b-b855-eb2d2ab75152"
@@ -1699,479 +1564,51 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/v021BLo1GphiTSKvXSM82.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/zm5vzcCXsNOPLKVmcKPN3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/cGirruLjWa0pOwxTZYTs0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
                   ]
                 }
               ],
-              "description": "Lancez la fête avec ces bottines à motif léopard des neiges. Ce modèle texturé en poils de vache adopte une forme à bout pointu élégante.<BR><BR>Points forts<BR><BR>• Tige en poils de vache<BR>• Doublure en cuir nappa<BR>• Semelle extérieure en TPU<BR>• Motif léopard des neiges<BR>• Petit talon carré<BR>• Plaque monogramme TH sur la tige<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• Bottines<BR>• Fermeture Éclair<BR>• Bout pointu carré<BR>• Hauteur de tige 14 cm<BR>• Hauteur du talon 5 cm<BR><BR>Composition et entretien<BR><BR>• 100 % poils de vache",
+              "description": "Cette casquette en pur coton à finition satinée présente une version chic d'un accessoire du quotidien.<BR><BR>Points forts<BR><BR>• Pur coton<BR>• Finition satinée<BR>• Six panneaux<BR>• Bouton sur la couronne<BR>• Œillets d'aération<BR>• Ajusteur en métal à l'arrière<BR>• Coutures texturées sur la visière<BR>• Détail emblématique sur la visière<BR>• Bande emblématique à l'arrière<BR>• Drapeau Tommy Hilfiger en relief sur l'ajusteur<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger en émail à l'avant<BR><BR>Coupe et taille<BR><BR>• Circonférence 58 cm<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
               "brand": "Tommy Hilfiger",
               "custom_label_0": "",
               "custom_label_1": "",
-              "custom_label_2": "Boots Female",
+              "custom_label_2": "Hats Male",
               "custom_label_3": "sale",
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "BLACK"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Womens > Shoes > Boots"
-              ],
-              "size": "EU36",
-              "title": "Bottines à motif léopard des neiges",
-              "link": "http://fr.tommy.com/bottines-%C3%A0-motif-l%C3%A9opard-des-neiges-fw0fw09014bds"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/0PDCs8fdaJqv7Qh3LmANr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/flH4urFuutUWve3a7IBFh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/o8noBHM3lAtp1p2JPM4SU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/7aRgw5gj8XrRI1WIIniTl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/7BP4n1VaY78LAq3lpF7rr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                }
-              ],
-              "description": "Enfilez facilement ces mules chics en cuir souple. Leur silhouette minimaliste est rehaussée d'une élégante plaque monogramme TH.<BR><BR>Points forts<BR><BR>• Tige en cuir nappa<BR>• Doublure en cuir nappa<BR>• Semelle extérieure en caoutchouc thermoplastique<BR>• Plaque monogramme TH sur la bride<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• Mules<BR>• À enfiler<BR>• Bout ouvert<BR><BR>Composition et entretien<BR><BR>• 100 % cuir",
-              "brand": "Tommy Hilfiger",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Moccasins & Loafers Female",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "BLACK"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Womens > Shoes > Moccasins & Loafers"
-              ],
-              "size": "EU36",
-              "title": "Mules en cuir à bride et monogramme TH",
-              "link": "http://fr.tommy.com/mules-en-cuir-%C3%A0-bride-et-monogramme-th-fw0fw09292bds"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/lrfWAFwtyPQYPV9haQUjv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/u4Bos3qinRKuecNzoHYpR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/hAcUmdCAQP01zINLVSQhE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/bik34zZtLL8U9S1UXmX34.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/sCaYvHKL0JKa7Sinhugfd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                }
-              ],
-              "description": "Ce haut de bikini triangle ajustable en tissu côtelé et rayures nautiques s'inspire des maillots de bain vintage classiques.<BR><BR>Points forts<BR><BR>• Nylon mélangé extensible<BR>• Texture côtelée<BR>• Motif à rayures horizontales<BR>• Dos nu à nouer<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger métallique à l'avant<BR><BR>Coupe et taille<BR><BR>• Bonnets triangle<BR>• Rembourrage amovible, sans armature<BR><BR>Composition et entretien<BR><BR>• 43 % nylon, 41 % polyester, 16 % élasthanne",
-              "brand": "Tommy Hilfiger",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Bikinis Female",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "STRIPE FIREWORKS",
-                "CALICO"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Womens > Clothing > Swimwear > Bikinis"
-              ],
-              "size": "XS",
-              "title": "Haut de bikini triangle dos nu rayé côtelé",
-              "link": "http://fr.tommy.com/haut-de-bikini-triangle-dos-nu-ray%C3%A9-c%C3%B4tel%C3%A9-uw0uw064060kp"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "Smartly Image Template - 9x16_DABA_BAU",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "layout": "FILL_HEIGHT",
-            "text_fields": [
-              "title",
-              "price"
-            ],
-            "preferred_image_tags": [
-              "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-            ]
-          },
-          "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "27ae4318-8f9c-4bc8-b306-54abb4454ae5",
-        "name": "link-video_u3_10s_PSTG-CLA-NIC_del1",
-        "ad_account_name": " Tommy Hilfiger Europe B.V (Line of Credit)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Le Hilfiger Racing Club",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/G9jKX3YTmLRYZdjvKZB23.67?mo=Gp8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIm4IvIAEw4AM41AZAAUoOCgk0JSEZKhwqKTkQ9ANQkE5oAiIGCgJIBBIAogEyCLoKEiUKIwiyoiAgATDQBTiACkACSg4KCSUZHhsVHBYaIhD0A1CQTmgCIgYKAkgDEgCiATEIfxIlCiMI1dcWIAEw4AM41AZAAkoOCgkbExMQDgwWExoQ9ANQkE5oAiIGCgJIAhIAogEyCJIKEiUKIwirkRggATDgAzjUBkACSg4KCRwTEhIPDBcVGxD0A1CQTmgCIgYKAkgCEgCiATII0goSJQojCNytFSABMOADONQGQAJKDgoJHBETEQ0QEBIWEPQDUJBOaAIiBgoCSAISAJADkE4%3D&uc=15",
-        "start_date": "2025-09-11T16:00:00.000Z",
-        "impressions_total": 2615312,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 2615312,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Tommy Hilfiger Europe B.V.",
-        "profile_name": "Tommy Hilfiger",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ3J5ZFRGUWRjZE5RcVBVRnFEajJDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://fr.tommy.com/tendance-femme?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=fa25_th_brand_halo_fr&utm_term=fr_attract_broad_female_th&utm_content=link-video_u3_10s_PSTG-CLA-NIC_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:fa25_th_brand_halo_fr%7C_co:fr%7C_cj:fr_attract_broad_female_th%7Cts:broad_female%7Cag:u%7C_cr:link-video_u3_10s_PSTG-CLA-NIC_del1"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d4662b3f-607c-4886-b0a4-dda985dc5d30",
-        "name": "dynamic-content_m1_daba-bau",
-        "ad_account_name": " Tommy Hilfiger Europe B.V (Line of Credit)",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Vos prochains coups de cœur",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "DYNAMIC",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-07-07T16:00:00.000Z",
-        "impressions_total": 1120509,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1120509,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Tommy Hilfiger Europe B.V.",
-        "profile_name": "Tommy Hilfiger",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ3J5ZFRGUWRjZE5RcVBVRnFEajJDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": false,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "DYNAMIC",
-              "headline": "Vos prochains coups de cœur",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "DYNAMIC",
-              "top_snap_crop_position": "MIDDLE",
-              "brand_name": ""
-            }
-          ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/Akg83qbFE8non6ggKj9et.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/CBeQiK4vLs7MeWtJyGC3M.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2gcKnTwGwPewR98d19eGr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/bcQXuuQ2BKYOjsKrHTF4x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/pg9fXZ3hQeEfcgGGOGsZt.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                }
-              ],
-              "description": "Adoptez le look bord du terrain avec ces chaussures de basket légères. Leur tige multitextures et leurs empiècements en daim créent un style sportif authentique.<BR><BR>Points forts<BR><BR>• Tige en cuir mélangé<BR>• Doublure en polyester<BR>• Semelle intérieure amovible en polyuréthane, autres textiles et caoutchouc thermoplastique<BR>• Semelle extérieure bicolore en caoutchouc<BR>• Légères<BR>• Empiècements en daim<BR>• Contrefort contrasté<BR>• Aérations sur la tige<BR>• Logo Tommy Hilfiger gaufré sur le côté<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger en caoutchouc sur le talon<BR><BR>Coupe et taille<BR><BR>• À lacets<BR>• Basse<BR><BR>Composition et entretien<BR><BR>• 90 % cuir, 10 % polyuréthane",
-              "brand": "Tommy Hilfiger",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Trainers Male",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "DRIFTWOOD TAUPE"
+                "ROUGE"
               ],
               "condition": "NEW",
               "gender": "MALE",
               "product_type": [
-                "Mens > Shoes > Trainers"
+                "Mens > Bags & Accessories > Hats & Scarves > Hats"
               ],
-              "size": "EU40",
-              "title": "Chaussures de basket avec cuir multitextures",
-              "link": "http://fr.tommy.com/chaussures-de-basket-avec-cuir-multitextures-fm0fm05714aei"
+              "size": "One Size",
+              "title": "Casquette Corporate à bande emblématique",
+              "link": "http://fr.tommy.com/casquette-corporate-%C3%A0-bande-embl%C3%A9matique-am0am12035xjs"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/QxmSuM79rjOlUAgQtHsTi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/9UfKeNwXBTP4arsuTW4pk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/FFCUWgDjk74gjVl6G5Oh0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/o2NqPc2wNaaFjhi895Kul.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "768c4a8a-2be5-4859-bd78-1a07b6a83081"
@@ -2179,15 +1616,7 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ydMH588c3mw5htEa7dRMx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/wZST32wvcDFUaLx4WMpow.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/qYkofcHzPVFNDjtYWVnhX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
@@ -2195,291 +1624,51 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/JTF3sYS0KgP1wVc8WJzou.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/hh7WY7b0A7dA9yBnuvFQT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "418a0269-bf32-4011-a078-50294f66407c"
                   ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/6dRbqheUDmG8ehr7sLvaU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
+                  ]
                 }
               ],
-              "description": "Cette chemise polyvalente adopte une coupe standard classique. Sa confection en dobby de pur coton apportera de la texture à vos ensembles.<BR><BR>Points forts<BR><BR>• Dobby de pur coton<BR>• Col semi-italien<BR>• Poignets arrondis à un bouton<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la poitrine<BR><BR>Coupe et taille<BR><BR>• Standard<BR>• Le modèle mesure 1m86 et porte une taille M<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
+              "description": "Cette nouvelle interprétation du style traditionnel allie une confection intemporelle à des innovations modernes dans un esprit typiquement new-yorkais.<BR><BR>Ce blazer boxy revisite les tenues habillées avec une touche de modernité décontractée. Son tissu ripstop air dot révèle un effet texturé à carreaux.<BR><BR>Points forts<BR><BR>• Tissu ripstop<BR>• Air dot<BR>• Revers crantés<BR>• Fermeture à deux boutons<BR>• Trois poches plaquées à l'avant<BR>• Poignets à un bouton<BR>• Boucle de suspension emblématique<BR>• Branding Tommy Hilfiger<BR>• Épingle de revers à drapeau Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• Coupe boxy<BR><BR>Composition et entretien<BR><BR>• 100 % polyester",
               "brand": "Tommy Hilfiger",
               "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Regular Shirts Male",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "SWEET BLUE"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Mens >  Clothing > Shirts > Regular Shirts"
-              ],
-              "size": "XXXL",
-              "title": "Chemise coupe standard en dobby",
-              "link": "http://fr.tommy.com/chemise-coupe-standard-en-dobby-mw0mw39446c3q"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/SY3D30rKwBxDFhOedLWja.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/EVn3SkpFA941DJa1mHG5t.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2s6MDbd8DV2lWA60lTvUA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UAzGDhQ3USMkTLaY4Wwpi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/nun6thdWCz694VTiWdOLy.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                }
-              ],
-              "description": "Ce pull à capuche en molleton de pur coton affiche un style décontracté. Il est rehaussé d'un grand logo à l'arrière et d'un petit logo sur la poitrine.<BR><BR>Points forts<BR><BR>• Tissu éponge en pur coton<BR>• Encolure à capuche avec cordon de serrage<BR>• Poche kangourou<BR>• Poignets et ourlet côtelés<BR>• Imprimé Tommy Hilfiger sur la poitrine<BR>• Motif Tommy Hilfiger NYC au dos<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• Standard<BR>• Le modèle mesure 1m86 et porte une taille M<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
-              "brand": "Tommy Hilfiger",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Hoodies Male",
-              "custom_label_3": "sale",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "ORNAMENTAL GREEN"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Mens > Clothing > Sweatshirts & Hoodies > Hoodies"
-              ],
-              "size": "S",
-              "title": "Pull à capuche Back Graphic en molleton",
-              "link": "http://fr.tommy.com/pull-%C3%A0-capuche-back-graphic-en-molleton-mw0mw40065l6k"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/S1UHxvNOTz5s0VTJp38dr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/KcPVQVNA11pRR2LmeUlR1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/cV4UgdvJ41ECChLqGxj8Y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Zz8f9q4vBwk4xqewgwWRW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/y43QKY4mGlaZaPHRdXKPf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                }
-              ],
-              "description": "Cette ceinture en cuir lisse rehaussée d’un passant à badge Tommy apportera une note emblématique à vos tenues.<BR><BR>Points forts<BR><BR>• Cuir<BR>• Finition lisse<BR>• Boucle carrée arrondie en métal<BR>• Badge Tommy sur le passant<BR>• Logo Tommy Jeans en relief sur la boucle<BR>• Branding Tommy Jeans<BR><BR>Coupe et taille<BR><BR>• Largeur 3,5 cm<BR><BR>Composition et entretien<BR><BR>• 100 % cuir",
-              "brand": "Tommy Jeans",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Belts Male",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "DARK BLUE"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Mens > Bags & Accessories > Accessories > Belts"
-              ],
-              "size": "EU80cm",
-              "title": "Ceinture Ryan en cuir à passant à logo",
-              "link": "http://fr.tommy.com/ceinture-ryan-en-cuir-%C3%A0-passant-%C3%A0-logo-am0am13688c1g"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/ugpuGwHu85PocVToXHw3q.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/uxtY0vR4ZzCoKdkw2GMkn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Zi3zy588wz4wKBJ0bj0nY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/pnqSVmoAMOzYg0YIGjtCH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Fmw3fusW2BVXXoefQymMO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                }
-              ],
-              "description": "Découvrez une nouvelle génération de costumes avec des pièces élégantes et faciles à porter, quelles que soient les occasions. <BR><BR>Confectionné en sergé de laine mélangée extensible, ce blazer élégant complétera à merveille vos tenues habillées au bureau comme en soirée.<BR><BR>Points forts<BR><BR>• Sergé de laine mélangé extensible<BR>• Revers crantés<BR>• Droit<BR>• Fermeture à deux boutons<BR>• Poignets à quatre boutons<BR>• Une poche poitrine passepoilée<BR>• Deux poches à rabat à l'avant<BR>• Entièrement doublé<BR>• Branding Tommy Hilfiger<BR><BR>Coupe et taille<BR><BR>• Entoilage intégral<BR>• Le modèle mesure 1m86 et porte une taille 50<BR><BR>Composition et entretien<BR><BR>• 54 % polyester, 44 % laine, 2 % élasthanne",
-              "brand": "Tommy Hilfiger",
-              "custom_label_0": "",
-              "custom_label_1": "",
+              "custom_label_1": "/ new",
               "custom_label_2": "Blazers Male",
-              "custom_label_3": "sale",
+              "custom_label_3": "fullprice",
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "GREY"
+                "NAVY IRIS"
               ],
               "condition": "NEW",
               "gender": "MALE",
               "product_type": [
                 "Mens > Clothing > Tailored > Blazers"
               ],
-              "size": "48",
-              "title": "Blazer droit en sergé de laine mélangée",
-              "link": "http://fr.tommy.com/blazer-droit-en-serg%C3%A9-de-laine-m%C3%A9lang%C3%A9e-thr5538403950"
+              "size": "44",
+              "title": "Blazer boxy New York Label Performance Air Dot",
+              "link": "http://fr.tommy.com/blazer-boxy-new-york-label-performance-air-dot-mw0mw42660dca"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/cBrDwYoUh2g8dP0lMZPuP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/kAAjhzvMbOzVaEpPJyGC2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/yBSADRoVONADeM3CvJapv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/vXBcjykEaKUzhr98LsiXT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/iy0MhhWyWrq2m7cdSW4Z3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/9AkzAD1BXBMkK6oLgUKPF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                }
-              ],
-              "description": "Complétez votre collection de manteaux avec cette veste de travail en denim rigide. Elle comporte plusieurs poches plaquées dans un style utilitaire.<BR><BR>Points forts<BR><BR>• Denim rigide<BR>• Col semi-italien<BR>• Fermeture à boutons<BR>• Poche poitrine plaquée contrastée<BR>• Deux poches obliques plaquées à la taille<BR>• Poignets à deux boutons<BR>• Logo Tommy Jeans en relief sur la poitrine<BR>• Branding Tommy Jeans<BR><BR>Coupe et taille<BR><BR>• Décontractée<BR>• Épaules légèrement tombantes<BR>• Le premier modèle mesure 1m86 et porte une taille M<BR>• Le second modèle mesure 1m90 et porte une taille 3XL<BR><BR>Composition et entretien<BR><BR>• 100 % coton<BR>• Denim 12,09 oz",
-              "brand": "Tommy Jeans",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Jackets Male",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "DENIM DARK"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Mens > Clothing > Coats & Jackets > Jackets"
-              ],
-              "size": "XS",
-              "title": "Veste workwear décontractée en denim",
-              "link": "http://fr.tommy.com/veste-workwear-d%C3%A9contract%C3%A9e-en-denim-dm0dm224191bk"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/Omc8iwIJbHiBbtS8sDpTZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/b2CwKKVTAGlrx1Ulb8rFn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/8ostaP0uOp9xVVe0E2Rxd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/JFTI6Yu8vgbSPTorSOu1M.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
@@ -2487,7 +1676,7 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/dpq6ybSTfXUj2ZgwNQoM7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/wQs2tU54WblJwK3tJpT10.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "768c4a8a-2be5-4859-bd78-1a07b6a83081"
@@ -2495,51 +1684,51 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RRaZK6LsgOwnajtXKvbXG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/0vpQsu5P1xR6KyFYZNgko.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "7fc77f0b-0427-438b-b855-eb2d2ab75152"
                   ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/KMg8R7VH7lKbikzeNiL4X.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "418a0269-bf32-4011-a078-50294f66407c"
+                  ]
                 }
               ],
-              "description": "Apportez une note de style intemporel à votre garde-robe grâce à cette chemise en pur coton Oxford rehaussée de détails emblématiques.<BR><BR>Points forts<BR><BR>• Pur coton Oxford<BR>• Col boutonné<BR>• Poignets arrondis à un bouton<BR>• Une poche poitrine plaquée<BR>• Ourlet de chemise<BR>• Bande emblématique à l'intérieur du col<BR>• Détail emblématique sur la poche et à l'intérieur des poignets<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur le poignet<BR><BR>Coupe et taille<BR><BR>• Coupe standard<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
+              "description": "Avec son haut à manches longues et son bas à chevilles resserrées, cet ensemble de pyjama en coton extensible tiendra les enfants bien au chaud pendant les nuits les plus fraîches.<BR><BR>Points forts<BR><BR>• Coton extensible<BR><BR>Haut<BR><BR>• Motif imprimé<BR>• Col ras-du-cou<BR>• Bande emblématique à l'intérieur du col<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la poitrine<BR><BR>Bas<BR><BR>• À enfiler<BR>• Ceinture élastique à motif logo Tommy Hilfiger<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la hanche<BR><BR>Coupe et taille<BR><BR>• Manches longues<BR>• Chevilles resserrées<BR><BR>Composition et entretien<BR><BR>• 95 % coton, 5 % élasthanne",
               "brand": "Tommy Hilfiger",
               "custom_label_0": "",
               "custom_label_1": "",
-              "custom_label_2": "Regular Shirts Male",
-              "custom_label_3": "fullprice",
+              "custom_label_2": "Pyjamas Garçons",
+              "custom_label_3": "sale",
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "SHIRT BLUE"
+                "BRETTON STP",
+                "NAVY BLUE"
               ],
               "condition": "NEW",
-              "gender": "MALE",
               "product_type": [
-                "Mens >  Clothing > Shirts > Regular Shirts"
+                "Kids > Clothing > Lounge & Sleepwear > Pyjamas"
               ],
-              "size": "XS",
-              "title": "Chemise Oxford coupe standard emblématique",
-              "link": "http://fr.tommy.com/chemise-oxford-coupe-standard-embl%C3%A9matique-mw0mw424290gy"
+              "size": "4-5",
+              "title": "Pyjama Essential imprimé à manches longues",
+              "link": "http://fr.tommy.com/pyjama-essential-imprim%C3%A9-%C3%A0-manches-longues-ub0ub005860y2"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/6vLqOecuByKgtdhx8agrv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/k5AlkPlafYoo6ZugTpgz9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/uM4My6ILD1nfKCki4RXb0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UspecLfYx8BjE8VK5GMLE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/Fn2MOThWNcnc1nB9L0U41.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "7fc77f0b-0427-438b-b855-eb2d2ab75152"
@@ -2547,7 +1736,7 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/tCUi02Ag3rOKmgAMD7ASd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/N2ofkZKs6m0RRNINTTS6y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
@@ -2555,112 +1744,59 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/NeLNRARTqcZN8ehjr62U2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/vhGeYUJ6RvijsnCUPQcEA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LzdToaxzelUXKymLR5xXr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "418a0269-bf32-4011-a078-50294f66407c"
                   ]
                 }
               ],
-              "description": "Cette chemise boutonnée se distingue par ses rayures originales. Sa matière en popeline de pur coton dotée de la technologie Flex garantit un confort optimal.<BR><BR>Points forts<BR><BR>• Popeline de pur coton effet peau de pêche<BR>• Technologie Flex<BR>• Motif à rayures verticales<BR>• Col boutonné<BR>• Poignets arrondis à un bouton<BR>• Pli plat au dos<BR>• Ourlet de chemise<BR>• Bande emblématique à l'intérieur du col<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la poitrine<BR><BR>Coupe et taille<BR><BR>• Coupe standard<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
+              "description": "Cette montre chronographe multifonction se distingue par un cadran vert et un style bicolore raffiné en acier inoxydable plaqué or.<BR><BR>Points forts<BR><BR>• Boîtier et lunette en acier inoxydable plaqué or<BR>• Résistance à l'eau de 5 ATM<BR>• Bracelet à maillons en acier inoxydable bicolore<BR>• Cadran chronographe rond vert semi-brillant<BR>• Couronne oversize<BR>• Deux boutons de chronographe<BR>• Trois aiguilles pour les heures, les minutes et les secondes<BR>• Trotteuse contrastée<BR>• Trois sous-cadrans<BR>• Fenêtre de date<BR>• Fermoir déployant à bouton poussoir<BR>• Logo Tommy Hilfiger sur le cadran<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger sur le cadran<BR><BR>Coupe et taille<BR><BR>• Diamètre du boîtier 43 mm<BR>• Épaisseur du boîtier 11 mm<BR><BR>Composition et entretien<BR><BR>• Acier inoxydable",
               "brand": "Tommy Hilfiger",
               "custom_label_0": "",
               "custom_label_1": "",
-              "custom_label_2": "Regular Shirts Male",
+              "custom_label_2": "Accessories Male",
               "custom_label_3": "fullprice",
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "WHITE",
-                "STRIPE"
+                "MULTI"
               ],
               "condition": "NEW",
               "gender": "MALE",
               "product_type": [
-                "Mens >  Clothing > Shirts > Regular Shirts"
-              ],
-              "size": "XS",
-              "title": "Chemise coupe standard à rayures TH Flex",
-              "link": "http://fr.tommy.com/chemise-coupe-standard-%C3%A0-rayures-th-flex-mw0mw424410fa"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/9gmasC3v7HrnIImdZkxJV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/244xC6XpPIcs1kW4DIMij.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/e8D89lffD8nHa0idPyQjw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/QBdVxZ5QZBZLzE2QJEk2W.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/DRLHp8Mcu9Fx4Sx6Ng8TP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
-                  ]
-                }
-              ],
-              "description": "Avec son badge Tommy oversize à l'avant, cette casquette en ripstop évoque le style des années 90. L'ajusteur à l'arrière est en métal estampé.<BR><BR>Points forts<BR><BR>• Tissu ripstop<BR>• Finition texturée<BR>• Bouton sur la couronne<BR>• Œillets de ventilation<BR>• Coutures texturées sur la visière<BR>• Ajusteur en métal à l'arrière<BR>• Badge Tommy estampé sur l'ajusteur<BR>• Badge Tommy oversize à l'avant<BR>• Branding Tommy Jeans<BR><BR>Coupe et taille<BR><BR>• Circonférence 58 cm<BR><BR>Composition et entretien<BR><BR>• 100 % polyester",
-              "brand": "Tommy Jeans",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "Tops Male",
-              "custom_label_3": "fullprice",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "BLACK"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Mens > Clothing > Tops"
+                "Mens > Bags & Accessories > Accessories > Accessories"
               ],
               "size": "One Size",
-              "title": "Casquette Archive en ripstop à logo",
-              "link": "http://fr.tommy.com/casquette-archive-en-ripstop-%C3%A0-logo-am0am13851bds"
+              "title": "Montre chronographe bicolore à cadran vert",
+              "link": "http://fr.tommy.com/montre-chronographe-bicolore-%C3%A0-cadran-vert-mwm1710754000"
             },
             {
               "main_image": {
                 "image_links": [
-                  "https://cf-st.sc-cdn.net/d/Hyl1BWo1sgqdf9gggKQz7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  "https://cf-st.sc-cdn.net/d/cwBXh2eAopMT5Xxifs2Eq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                 ]
               },
               "additional_media": [
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qwn53MAP3AYNEd4zbbVdx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/YctcM9YNBRkfvSM3fjxbd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
-                    "418a0269-bf32-4011-a078-50294f66407c"
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
                   ]
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/giRqZ2FKwm6c82JDwwQAi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/pbgz1TTv33ytlAY8e9Nis.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
                     "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
@@ -2668,22 +1804,22 @@
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/N3OWS25mEZHVZ5nb250UQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/A0U96zPjm0TBWkP0GrE4M.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
-                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
+                    "418a0269-bf32-4011-a078-50294f66407c"
                   ]
                 },
                 {
                   "image_links": [
-                    "https://cf-st.sc-cdn.net/d/C763g8y80ecVpkUrnlyrg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                    "https://cf-st.sc-cdn.net/d/5uNIjwx58JyOkPbhNjYrl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
                   ],
                   "tags": [
-                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
                   ]
                 }
               ],
-              "description": "Ce pull élégant en pure laine d'agneau offre une sensation haut de gamme. Le drapeau discret lui apporte une touche emblématique.<BR><BR>Points forts<BR><BR>• Pure laine d'agneau<BR>• Col ras-du-cou<BR>• Col, poignets et ourlet côtelés<BR>• Bande emblématique à l'intérieur du col<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la poitrine<BR><BR>Coupe et taille<BR><BR>• Standard<BR>• Le modèle mesure 1m86 et porte une taille M<BR><BR>Composition et entretien<BR><BR>• 100 % laine d'agneau",
+              "description": "Parfait pour se couvrir par temps frais, ce pull confortable à col cheminée classique est composé de pur coton peigné. Sa fermeture zippée quart de longueur permet de le porter de différentes façons.<BR><BR>Points forts<BR><BR>• Pur coton peigné<BR>• Fermeture zippée quart de longueur<BR>• Col cheminée<BR>• Col, poignets et ourlet côtelés<BR>• Branding Tommy Hilfiger<BR>• Drapeau Tommy Hilfiger brodé sur la poitrine<BR><BR>Coupe et taille<BR><BR>• Standard<BR>• Épaules légèrement tombantes<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
               "brand": "Tommy Hilfiger",
               "custom_label_0": "",
               "custom_label_1": "",
@@ -2692,30 +1828,90 @@
               "custom_label_4": "",
               "availability": "IN STOCK",
               "color": [
-                "LIGHT GREY HEATHER"
+                "AEGEAN SEA"
               ],
               "condition": "NEW",
               "gender": "MALE",
               "product_type": [
                 "Mens > Clothing > Jumpers & Cardigans > Jumpers"
               ],
-              "size": "XXL",
-              "title": "Pull en pure laine d'agneau à col ras-du-cou",
-              "link": "http://fr.tommy.com/pull-en-pure-laine-dagneau-%C3%A0-col-ras-du-cou-mw0mw36535p61"
+              "size": "XS",
+              "title": "Pull zippé à col cheminée",
+              "link": "http://fr.tommy.com/pull-zipp%C3%A9-%C3%A0-col-chemin%C3%A9e-mw0mw44249dbz"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/qCjm4ijl9puOaE2yHkYwV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/KM2DzrQNdFVUyggPeF21a.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "418a0269-bf32-4011-a078-50294f66407c"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/DaHJUqWZpIGCTHted12dh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "860eaac2-f97b-4c70-b1e1-5ba63b4230d3"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/b6Zs4cqIK914mGn1ETKd1.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "768c4a8a-2be5-4859-bd78-1a07b6a83081"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/lOCKY2ePTvrMxhHLWmZ8Z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "7fc77f0b-0427-438b-b855-eb2d2ab75152"
+                  ]
+                }
+              ],
+              "description": "Égayez vos tenues avec cette minijupe en chambray de pur coton à volants.<BR><BR>Points forts<BR><BR>• Chambray de pur coton<BR>• Effet délavé sur les coutures<BR>• Fronces sur la partie supérieure<BR>• À volants<BR>• Surpiqûres contrastées<BR>• Branding Tommy Jeans<BR>• Drapeau Tommy brodé sur l'ourlet<BR><BR>Coupe et taille<BR><BR>• Courte<BR>• 42 cm de la taille à l'ourlet (pour la taille S)<BR><BR>Composition et entretien<BR><BR>• 100 % coton",
+              "brand": "Tommy Jeans",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Skirts Female",
+              "custom_label_3": "fullprice",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [
+                "DENIM MEDIUM"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Womens > Clothing > Skirts > Skirts"
+              ],
+              "size": "XXS",
+              "title": "Minijupe slim en chambray à volants",
+              "link": "http://fr.tommy.com/minijupe-slim-en-chambray-%C3%A0-volants-dw0dw222951a5"
             }
           ],
           "template": {},
           "dynamic_template": {
-            "name": "Smartly Image Template - 9x16_DABA_BAU",
+            "name": "Smartly Image Template - 9x16_DPA_BAU",
             "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "layout": "FILL_HEIGHT",
             "text_fields": [
-              "title",
-              "price"
+              "``",
+              "``"
             ],
             "preferred_image_tags": [
-              "7fc77f0b-0427-438b-b855-eb2d2ab75152"
+              "418a0269-bf32-4011-a078-50294f66407c"
             ]
           },
           "vertical": "COMMERCE"
@@ -2801,23 +1997,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "7891eaa2-716e-430b-bb55-fb452517a85c",
-        "name": "link-video_u2_10s_PSTG-PAT-ABB_del1",
+        "id": "3e804b30-49c1-4490-9bb3-40dc2cddf4e5",
+        "name": "link-video_u4_6s_PSTG-CLA-NIC_del1",
         "ad_account_name": " Tommy Hilfiger Europe B.V (Line of Credit)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Vivre avec style",
+        "languages": [],
+        "headline": "Le Hilfiger Racing Club",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JnBHbRFilKtQr09XQF0sp.67?mo=GoACGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE1CEMSLQorCOeiVCABMOADONQGQAFKEQoMOySPAaEBkwFSJDkqEPQDUJBOaAJ12MVYQCICEgCiATMIugoSKgooCJv3RyABMNAFOIAKQAJKDgoJKxZ_ZH5AHzArEPQDUJBOaAJ1jxZZQCICEgCiATgIkgoSLwotCMn3MyABMOADONQGQAJKDgoJJxRWVVAtFiUeEPQDUJBOaAJ1l3I-QH0AAIA_IgISAKIBOAjSChIvCi0Inu4wIAEw4AM41AZAAkoOCgkiD0k4SSgUIx4Q9ANQkE5oAnXWoVBAfQAAgD8iAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2026-02-24T19:00:00.000Z",
-        "impressions_total": 6424813,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/R1eDrsAwmzqjCEpsKuQR8.67?mo=Gp8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIj7sbIAEw4AM41AZAAUoOCglMJh8kFi0rFhcQ9ANQ8C5oAiIGCgJIBBIAogEyCLoKEiUKIwjZkhMgATDQBTiACkACSg4KCUIaFBIQIyESDxD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMI8pQOIAEw4AM41AZAAkoOCgkzFREOCRwVDg0Q9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwiS8w4gATDgAzjUBkACSg4KCTMXEg0LHRgPDRD0A1DwLmgCIgYKAkgCEgCiATII0goSJQojCJKNDSABMOADONQGQAJKDgoJMRMNDQoaGAwKEPQDUPAuaAIiBgoCSAISAJAD8C4%3D&uc=15",
+        "start_date": "2025-09-11T16:00:00.000Z",
+        "impressions_total": 5021412,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -2829,7 +2023,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 6424813,
+          "fr": 5021412,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -2855,6 +2049,7 @@
               "min_age": "18",
               "max_age": "45",
               "age_groups": [],
+              "gender": "MALE",
               "languages": [],
               "advanced_demographics": []
             }
@@ -2864,9 +2059,8 @@
         "paying_advertiser_name": "Tommy Hilfiger Europe B.V.",
         "profile_name": "Tommy Hilfiger",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ3J5ZFRGUWRjZE5RcVBVRnFEajJDP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
         "web_view_properties": {
-          "url": "https://fr.tommy.com/tommy-stories?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=sp26_th_brand_halo_fr&utm_term=fr_attract_broad_dual_th&utm_content=link-video_u2_10s_PSTG-PAT-ABB_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:sp26_th_brand_halo_fr%7C_co:fr%7C_cj:fr_attract_broad_dual_th%7Cts:broad_dual%7Cag:u%7C_cr:link-video_u2_10s_PSTG-PAT-ABB_del1"
+          "url": "https://fr.tommy.com/tendance-homme?utm_medium=social_marketing&utm_source=snapchat&utm_campaign=fa25_th_brand_halo_fr&utm_term=fr_attract_broad_male_th&utm_content=link-video_u4_6s_PSTG-CLA-NIC_del1&cmpid=ch:social_marketing%7Cso:snapchat%7C_cp:fa25_th_brand_halo_fr%7C_co:fr%7C_cj:fr_attract_broad_male_th%7Cts:broad_male%7Cag:u%7C_cr:link-video_u4_6s_PSTG-CLA-NIC_del1"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

@@ -1,89 +1,14 @@
 {
   "brand": "MAC",
   "country": "fr",
-  "fetched_at": "2026-04-09T00:48:51.301Z",
+  "fetched_at": "2026-04-10T07:16:01.270Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "76d87c99-c491-4ea6-b080-39c102b13fc0",
-        "name": "Ad 5",
-        "ad_account_name": "Compte Pub Principal",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "❄️ PROMOS D'HIVER -50%",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GutL0ME2iIcDRAwbozV8K.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwjXuI8CIAEw4AM41AZAAUoPCgqOASMiIh0nJSUjEPQDUL7_A2gCddmYV0AiBgoCSAQSAKIBOQi6ChIsCioIrozoASABMMAEOIAIQAJKDgoJbxwXGhgbGR0aEPQDUL7_A2gCdSwfXEAiBgoCSAISAKIBPgiSChIxCi8IlOmpASABMOADONQGQAJKDgoJdRYWFhIYFxcVEPQDUL7_A2gCdZQ2REB9AACAPyIGCgJIAhIAogE-CNIKEjEKLwi9trcBIAEw4AM41AZAAkoOCgllFhIVEhYTFxQQ9ANQvv8DaAJ1_JVVQH0AAIA_IgYKAkgCEgCQA77_Aw%3D%3D&uc=15",
-        "start_date": "2026-03-03T23:04:06.000Z",
-        "impressions_total": 110319,
-        "impressions_map": {
-          "de": 0,
-          "be": 19177,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 1641,
-          "hr": 0,
-          "lv": 0,
-          "fr": 89501,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Luca da Palma Ferramacho",
-        "profile_name": "Expert Blancheur",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2l2U0UwVlVGYnJoMmVZVlNCS2RvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://expertblancheur.com/products/bandes-blanchissantes-correctrices-de-couleur-1"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "15845ed9-b5a5-4374-b262-68fd60427d88",
+        "id": "00b3da44-4a3e-4c0b-9f7f-ca8804a968d2",
         "name": "video_recrutement_T1",
         "ad_account_name": "Macif_By_Novad",
         "status": "ACTIVE",
@@ -93,13 +18,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "Découvrez nos offres à Toulouse",
+        "headline": "Découvrez nos offres à Lille",
         "call_to_action": "VIEW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
         "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/IsIRo0CvzlFMduZntLZZM.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQif_2wgATDgAzjUBkABSg4KCU5NPhUfIickMhD0A1DgsgFoAnXsvV5AIgYKAkgDEgCiAT0IugoSMAouCMzYYCABMNAFOIAKQAJKDgoJQzY2FygcJh4tEPQDUOCyAWgCdSQoY0B9AACAPyIGCgJIAxIAogE9CJIKEjAKLgjV_0ggATDgAzjUBkACSg4KCTsxLBAXGCIaJRD0A1DgsgFoAnWuLVFAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4InLlFIAEw4AM41AZAAkoOCgk0JScPHBUaFB4Q9ANQ4LIBaAJ1CO9YQH0AAIA_IgYKAkgCEgCQA-CyAQ%3D%3D&uc=15",
         "start_date": "2026-02-03T07:00:38.000Z",
-        "impressions_total": 1169622,
+        "impressions_total": 1356518,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -111,7 +36,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 1169622,
+          "fr": 1356518,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -148,7 +73,7 @@
         "profile_name": "Macif Assurances",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUjFVQ3F0RW5HWGlFQkN2ZnVjc0lHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.macif.fr/assurance/la-macif/ressources-humaines/catalogue-des-offres?at_medium=social&at_campaign=2026_ADHOC_RECRUTEMENT_ALTRNANTS_T1_Macif&at_produit=Macif&at_univers=macif&at_obj=branding&at_plateform_diffusion=Snapchat&at_format=Video&at_agence=Novad&at_variant=2025_11_MACIF_CAPSULES_RH_KERENE_V04_VERTICAL_ST_TOULOUSE&at_type_diffusion=darkPost&page=1&type-contrat=7291&wiz_medium=social&wiz_source=snapchat&wiz_campaign=%7B%7Bcampaign.name%7D%7D&wiz_content=%7B%7Bcreative.name%7D%7D&wiz_term=%7B%7BadSet.name%7D%7D"
+          "url": "https://www.macif.fr/assurance/la-macif/ressources-humaines/catalogue-des-offres?at_medium=social&at_campaign=2026_ADHOC_RECRUTEMENT_ALTRNANTS_T1_Macif&at_produit=Macif&at_univers=macif&at_obj=branding&at_plateform_diffusion=Snapchat&at_format=Video&at_agence=Novad&at_variant=2025_11_MACIF_CAPSULES_RH_KERENE_V04_VERTICAL_ST_LILLE&at_type_diffusion=darkPost&page=1&type-contrat=7291&wiz_medium=social&wiz_source=snapchat&wiz_campaign=%7B%7Bcampaign.name%7D%7D&wiz_content=%7B%7Bcreative.name%7D%7D&wiz_term=%7B%7BadSet.name%7D%7D"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -158,257 +83,9 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "64f412e3-dc70-4b28-ac02-8baa8ce45c6f",
-        "name": "macadam_maxime_lesObjetsParlent_fr",
-        "ad_account_name": "MACADAM TECHNOLOGIES SL Self Service",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "L'app qui te paie pour marcher",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Ndp6BVi3etHEkFnom0z7W.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgiF-0MgATDgAzjUBkABSg4KCT0MCxgPCwsJGRD0A1CMxAFoAnU0WHRAfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4IwKQ9IAEw0AU4gApAAkoOCglADAoXDw0LDBkQ9ANQjMQBaAJ1K713QH0AAIA_IgYKAkgCEgCiAT0IkgoSMAouCIXvOCABMOADONQGQAJKDgoJMgkJEwoKCggOEPQDUIzEAWgCdUpLbkB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiD0SwgATDgAzjUBkACSg4KCTMIBxIKCQcIDxD0A1CMxAFoAnU5AnZAfQAAgD8iBgoCSAISAJADjMQB&uc=15",
-        "start_date": "2026-01-15T10:40:30.000Z",
-        "impressions_total": 434999,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 434999,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "15.1",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "MACADAM TECHNOLOGIES SL",
-        "profile_name": "Macadam",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvenN5Tk12WUVkZm5uY3ZrMlphVXhqP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "app_install_preview": {
-          "app_name": "Macadam",
-          "ios_app_id": "1633296501",
-          "android_app_url": "com.macadamapp",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/WJ5o54hXF5CrLHGan1qAm.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "66c3acd0-8f33-416a-9422-495e95d0d2b5",
-        "name": "2025_11_MACIF_CAPSULES_RH_OLIVIER_V04_VERTICAL_ST",
-        "ad_account_name": "Macif_By_Novad",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Découvrez nos offres à Niort",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CasZsfVufgyvA8I5Dl8FD.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgjB0EcgATDgAzjUBkABSg4KCTksLgwJDA4KCBD0A1D41wFoAnXwJl5AfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4I5Iw_IAEw0AU4gApAAkoOCgkvHiINCw0NCgkQ9ANQ-NcBaAJ1atFnQH0AAIA_IgYKAkgCEgCiAT0IkgoSMAouCL3OLSABMOADONQGQAJKDgoJKxoaCAcICgcGEPQDUPjXAWgCdZocTkB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiJ3C4gATDgAzjUBkACSg4KCSgXGQkHCQkHBhD0A1D41wFoAnWwv11AfQAAgD8iBgoCSAISAJAD-NcB&uc=15",
-        "start_date": "2026-01-01T08:30:00.000Z",
-        "impressions_total": 201435,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 201435,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "MACIF",
-        "profile_name": "Macif Assurances",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUjFVQ3F0RW5HWGlFQkN2ZnVjc0lHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.macif.fr/assurance/la-macif/ressources-humaines/catalogue-des-offres?at_medium=social&at_campaign=DRH_CAMPAGNE_RECRUTEMENT_2025_S2_RH&at_produit=RH&at_univers=macif&at_obj=trafic&at_date_campagne=2025-12-09&at_plateform_diffusion=Snapchat&at_format=Video&at_agence=Novad&at_variant=1125_DRH_RECRUTEMENT_VIDEO_SNAPCHAT_NIORT&at_type_diffusion=darkPost&page=1&wiz_medium=social&wiz_source=snapchat&wiz_campaign=%7B%7Bcampaign.name%7D%7D&wiz_content=%7B%7Bcreative.name%7D%7D&wiz_term=%7B%7BadSet.name%7D%7D"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "83be57ed-b584-42e0-a744-857b5f04a468",
-        "name": "Vidéo Capsule 50s",
-        "ad_account_name": "Macif_By_Novad",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Vous savez qui appeler 😉",
-        "call_to_action": "VIEW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-09-20T07:30:00.000Z",
-        "impressions_total": 436113,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 436113,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "30",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "MACIF",
-        "profile_name": "Macif Assurances",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUjFVQ3F0RW5HWGlFQkN2ZnVjc0lHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Vous savez qui appeler 😉",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LwugTaCmLJEk1FVnYKyyJ.67?mo=GoICGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBNAhDEiwKKgilrMoBIAEw4AM41AZAAUoOCglsHh4nNiwkPikQ9ANQ2oYDaAJ1INlfQCICEgCiATUIugoSLAoqCKLRrQEgATDQBTiACkACSg4KCWAaGiQvIBo3IxD0A1DahgNoAnXD82RAIgISAKIBOQiSChIwCi4IgLJ_IAEw4AM41AZAAkoOCglaFBQaHx4VJxkQ9ANQ2oYDaAJ1lmpKQH0AAIA_IgISAKIBOQjSChIwCi4I8ax7IAEw4AM41AZAAkoOCglSERIYIBYSJhcQ9ANQ2oYDaAJ1WjZZQH0AAIA_IgISAJAD2oYD&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.macif.fr/assurance/particuliers/solutions-jeunes/?at_medium=social&at_campaign=Prank_Jeune_Macif&at_produit=Macif&at_univers=macif&at_obj=branding&at_date_campagne=2025-09-20&at_plateform_diffusion=Snapchat&at_format=Video&at_agence=Novad&at_variant=Prank_Jeune_Capsule_50s&at_type_diffusion=postSponso&wiz_medium=social&wiz_source=snapchat&wiz_campaign=%7B%7Bcampaign.name%7D%7D&wiz_content=%7B%7Bcreative.name%7D%7D&wiz_term=%7B%7BadSet.name%7D%7D"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "919cb4f8-5996-4464-927a-270c17473bb0",
-        "name": "ad5",
-        "ad_account_name": "bodyslimsFR test",
+        "id": "f9a1d7b2-eccf-45c3-9b50-67c1184c9ee8",
+        "name": "Ad 6",
+        "ad_account_name": "Compte Pub Principal",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
@@ -420,21 +97,21 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nkZjLt3oOU8z87QVVdK5m.67?mo=GpICGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgif7KwBIAEw4AM41AZAAUoOCglUHyMhGyo0EhwQ9ANQprUCaAJ1eMJVQCIGCgJIBBIAogE5CLoKEiwKKgj63aMBIAEw0AU4gApAAkoOCglcGyIhGSksERwQ9ANQprUCaAJ103FbQCIGCgJIAxIAogE9CJIKEjAKLgiQ1mggATDgAzjUBkACSg4KCUQSFhQQFxoKEBD0A1CmtQJoAnXf6ktAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I5ox5IAEw4AM41AZAAkoOCglJEhcXEBseDBIQ9ANQprUCaAJ1G9lWQH0AAIA_IgYKAkgCEgCQA6a1Ag%3D%3D&uc=15",
-        "start_date": "2026-02-05T05:00:00.000Z",
-        "impressions_total": 37338,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1m4ThW8PDPudhxD7m5GDH.67?mo=GpICGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgizj8UBIAEw4AM41AZAAUoOCglqRCkhNi0wLzMQ9ANQqIQCaAJ1XO5GQCIGCgJIBBIAogE5CLoKEiwKKgjH3K8BIAEw0AU4gApAAkoOCgltMigeLCssLSMQ9ANQqIQCaAJ13G5DQCIGCgJIAxIAogE9CJIKEjAKLgju-XUgATDgAzjUBkACSg4KCU4pHBQgGx0fHxD0A1CohAJoAnU8rjZAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I1_J1IAEw4AM41AZAAkoOCglSIRkTHSAeHxgQ9ANQqIQCaAJ1F_Q9QH0AAIA_IgYKAkgCEgCQA6iEAg%3D%3D&uc=15",
+        "start_date": "2026-02-11T23:00:00.000Z",
+        "impressions_total": 363638,
         "impressions_map": {
           "de": 0,
-          "be": 7617,
+          "be": 62497,
           "fi": 0,
           "pt": 0,
           "bg": 0,
           "dk": 0,
           "lt": 0,
-          "lu": 990,
+          "lu": 4269,
           "hr": 0,
           "lv": 0,
-          "fr": 28731,
+          "fr": 296872,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -462,6 +139,7 @@
               "languages": [
                 "fr"
               ],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -481,35 +159,35 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "335a4b61-6f95-462a-aedd-cbd4751d56f7",
-        "name": "macadam_maxime_lesObjetsParlent_fr",
-        "ad_account_name": "MACADAM TECHNOLOGIES SL Self Service",
+        "id": "10edb076-98a6-4b96-8533-264753c8d32a",
+        "name": "ad 5",
+        "ad_account_name": "Compte Pub Principal",
         "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "fr"
         ],
-        "headline": "L'app qui te paie pour marcher",
-        "call_to_action": "INSTALL NOW",
+        "headline": "-50% OFFRE DE PRINTEMPS 🌿",
+        "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Ndp6BVi3etHEkFnom0z7W.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgiF-0MgATDgAzjUBkABSg4KCT0MCxgPCwsJGRD0A1CMxAFoAnU0WHRAfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4IwKQ9IAEw0AU4gApAAkoOCglADAoXDw0LDBkQ9ANQjMQBaAJ1K713QH0AAIA_IgYKAkgCEgCiAT0IkgoSMAouCIXvOCABMOADONQGQAJKDgoJMgkJEwoKCggOEPQDUIzEAWgCdUpLbkB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiD0SwgATDgAzjUBkACSg4KCTMIBxIKCQcIDxD0A1CMxAFoAnU5AnZAfQAAgD8iBgoCSAISAJADjMQB&uc=15",
-        "start_date": "2026-01-08T17:06:14.000Z",
-        "impressions_total": 13336,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/suEdUD8f7cIJ9IpmeKl9X.67?mo=GpQCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgitxMQBIAEw4AM41AZAAUoOCglkISAZFgwUFhAQ9ANQ1OoCaAJ1ljBjQCIGCgJIAxIAogE5CLoKEiwKKgj--uABIAEw0AU4gApAAkoOCgldIBoZFw8OFRAQ9ANQ1OoCaAJ1gidvQCIGCgJIAxIAogE-CJIKEjEKLwj_6oQBIAEw4AM41AZAAkoOCglWFRcRDwkMDgsQ9ANQ1OoCaAJ1qo5VQH0AAIA_IgYKAkgCEgCiAT4I0goSMQovCIrLkgEgATDgAzjUBkACSg4KCVIWEhAPCgoODBD0A1DU6gJoAnU0L2FAfQAAgD8iBgoCSAISAJAD1OoC&uc=15",
+        "start_date": "2026-03-21T06:30:51.000Z",
+        "impressions_total": 105148,
         "impressions_map": {
           "de": 0,
-          "be": 0,
+          "be": 20058,
           "fi": 0,
           "pt": 0,
           "bg": 0,
           "dk": 0,
           "lt": 0,
-          "lu": 0,
+          "lu": 2623,
           "hr": 0,
           "lv": 0,
-          "fr": 13336,
+          "fr": 82467,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -535,29 +213,245 @@
               "min_age": "18",
               "age_groups": [],
               "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Luca da Palma Ferramacho",
+        "profile_name": "Expert Blancheur",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2l2U0UwVlVGYnJoMmVZVlNCS2RvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://expertblancheur.com/products/bandes-blanchissantes-correctrices-de-couleur-1"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d884fb12-15e2-436b-a0fe-17be6cece062",
+        "name": "Capsule 1",
+        "ad_account_name": "Macif Assurances ",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Qui bluffe, qui dit vrai ?",
+        "call_to_action": "WATCH",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NFBGifO1NQiDSrYNNa6Q1.67?mo=GpUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATgIQxIsCioIyK2oASABMOADONQGQAFKDgoJYSEPHQ4qHC8lEPQDUICdAmgCdbMwYkAiBgoCSAMSAKIBPgi6ChIxCi8IqKOVASABMNAFOIAKQAJKDgoJWx0VJRQiHjEjEPQDUICdAmgCdfZaaEB9AACAPyIGCgJIAhIAogE9CJIKEjAKLgjeq2ogATDgAzjUBkACSg4KCU0WCxIKGRIbGBD0A1CAnQJoAnXJ6UxAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4IwN1oIAEw4AM41AZAAkoOCglFEw8bDhgTHxYQ9ANQgJ0CaAJ1H1hfQH0AAIA_IgYKAkgCEgCQA4CdAg%3D%3D&uc=15",
+        "start_date": "2025-09-17T07:00:02.000Z",
+        "impressions_total": 77947,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 77947,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "25",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
               "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "8.0",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
+          "devices": []
         },
-        "paying_advertiser_name": "MACADAM TECHNOLOGIES SL",
-        "profile_name": "Macadam",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvenN5Tk12WUVkZm5uY3ZrMlphVXhqP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "app_install_preview": {
-          "app_name": "Macadam",
-          "ios_app_id": "1633296501",
-          "android_app_url": "com.macadamapp",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/WJ5o54hXF5CrLHGan1qAm.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+        "paying_advertiser_name": "Macif Assurances",
+        "profile_name": "Macif Assurances",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUjFVQ3F0RW5HWGlFQkN2ZnVjc0lHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.youtube.com/watch?v=zWwCW10WUdU"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "5153b5b8-4cf2-46e7-8c20-b49d8c994d7d",
+        "name": "Appel-vote-affiche_A",
+        "ad_account_name": "Macif Assurances ",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "🔥 Qui ira en finale ?",
+        "call_to_action": "VOTE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9XH7GDEn9Ox8pUWIiFSdl.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-08-29T12:00:00.000Z",
+        "impressions_total": 342925,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 342925,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "40",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Macif Assurances",
+        "profile_name": "Macif Assurances",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUjFVQ3F0RW5HWGlFQkN2ZnVjc0lHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.nrj.fr/actus/evenements-nrj/nouvel-air-par-macif-devenez-la-nouvelle-voix-engagee-de-la-scene-francaise-71364791?utm_source=snapchat&utm_medium=cpc&utm_campaign=vks-nouvel-air-macif-vague2"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "8f353d39-9659-4b38-ad93-e5ab9b02bab9",
+        "name": "16/06/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sjlsChsBMGWlQyznQT8w5.67?mo=Gv8CGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogE5CEMSJwolCKCmYiABMOADONQGQAFKEAoLjQFLR0qHAQQqREAQ9ANQpmNoAiIMCghCBgiO88HCBhIAogE5CLoKEiYKJAiXpWEgATDQBTiACkACSg8KCmE3NDedAQYlOjkQ9ANQpmNoAiIMCghCBgjn88HCBhIAogE3CH8SJQojCNO1PiABMOADONQGQAJKDgoJXS4vMUsKGyokEPQDUKZjaAIiDAoIQgYI5_PBwgYSAKIBOAiSChIlCiMI0ZZAIAEw4AM41AZAAkoOCgliLy4zTBYdKSEQ9ANQpmNoAiIMCghCBgjn88HCBhIAogE4CMQKEiUKIwjnxzUgATDgAzjWBkACSg4KCUknMiZLAxsmIhD0A1CmY2gCIgwKCEIGCOfzwcIGEgCiATgI0goSJQojCNHFNiABMOADONQGQAJKDgoJSiglJ08DHCgmEPQDUKZjaAIiDAoIQgYI5_PBwgYSAJADpmM%3D&uc=15",
+        "start_date": "2025-06-16T22:00:00.000Z",
+        "impressions_total": 3022,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 3022,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "🌌MACHINE🌌🎛🇨🇫",
+        "profile_name": "🌌BiG🤖 MACHINE🌌🎛🇨🇫👽",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNjY4OUJ5VXhtR2ZsdUpqenZQbXBpP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/xslaqometh",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNmc3bndQRk1JbE90ODdwOTdtWGRjP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -568,9 +462,9 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "d78581ae-f314-41b9-9e11-67a330ed62d1",
-        "name": "Ad 3",
-        "ad_account_name": "Compte Pub Principal",
+        "id": "0a9dfb29-8972-46f4-8691-29c5b0a3693c",
+        "name": "video_recrutement",
+        "ad_account_name": "Macif_By_Novad",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
@@ -578,25 +472,97 @@
         "languages": [
           "fr"
         ],
-        "headline": "❄️ PROMOS D'HIVER -50%",
-        "call_to_action": "ORDER NOW",
+        "headline": "Découvrez nos offres à Vendin",
+        "call_to_action": "VIEW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mUT59f2PA3Ndf2DRYEKYc.67?mo=GpkCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgjc-YgCIAEw4AM41AZAAUoOCgl5ISAqIR4vHigQ9ANQjqYDaAJ1UsI2QCIGCgJIAxIAogE-CLoKEjEKLwjSj-kBIAEw0AU4gApAAkoOCgllGx8lGhwjIh0Q9ANQjqYDaAJ1zts8QH0AAIA_IgYKAkgDEgCiAT4IkgoSMQovCOb-pQEgATDgAzjUBkACSg4KCWIVFBsUExwTGBD0A1COpgNoAnUR-ipAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8IgOeuASABMOADONQGQAJKDgoJVhQVGxERGBcTEPQDUI6mA2gCdQfAOEB9AACAPyIGCgJIAhIAkAOOpgM%3D&uc=15",
-        "start_date": "2026-03-03T23:04:06.000Z",
-        "impressions_total": 79078,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/IsIRo0CvzlFMduZntLZZM.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQif_2wgATDgAzjUBkABSg4KCU5NPhUfIickMhD0A1DgsgFoAnXsvV5AIgYKAkgDEgCiAT0IugoSMAouCMzYYCABMNAFOIAKQAJKDgoJQzY2FygcJh4tEPQDUOCyAWgCdSQoY0B9AACAPyIGCgJIAxIAogE9CJIKEjAKLgjV_0ggATDgAzjUBkACSg4KCTsxLBAXGCIaJRD0A1DgsgFoAnWuLVFAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4InLlFIAEw4AM41AZAAkoOCgk0JScPHBUaFB4Q9ANQ4LIBaAJ1CO9YQH0AAIA_IgYKAkgCEgCQA-CyAQ%3D%3D&uc=15",
+        "start_date": "2026-02-03T09:15:09.000Z",
+        "impressions_total": 106105,
         "impressions_map": {
           "de": 0,
-          "be": 14055,
+          "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
           "dk": 0,
           "lt": 0,
-          "lu": 1205,
+          "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 63818,
+          "fr": 106105,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "MACIF",
+        "profile_name": "Macif Assurances",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUjFVQ3F0RW5HWGlFQkN2ZnVjc0lHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.macif.fr/assurance/la-macif/ressources-humaines/catalogue-des-offres?at_medium=social&at_campaign=2026_ADHOC_RECRUTEMENT_ALTRNANTS_T1_Macif&at_produit=Macif&at_univers=macif&at_obj=trafic&at_plateform_diffusion=Snapchat&at_format=Video&at_agence=Novad&at_variant=2025_11_MACIF_CAPSULES_RH_KERENE_V04_VERTICAL_ST_VENDIN&at_type_diffusion=darkPost&page=1&type-contrat=7291&wiz_medium=social&wiz_source=snapchat&wiz_campaign=%7B%7Bcampaign.name%7D%7D&wiz_content=%7B%7Bcreative.name%7D%7D&wiz_term=%7B%7BadSet.name%7D%7D"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "f3e4bbbf-d3b5-4298-a990-fd0891b41aec",
+        "name": "14/09/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/yyYPBnT8RIOk6HwtGWA1i.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2025-09-14T08:20:19.000Z",
+        "impressions_total": 6339,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 6339,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -621,20 +587,20 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
+              "languages": [],
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Luca da Palma Ferramacho",
-        "profile_name": "Expert Blancheur",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2l2U0UwVlVGYnJoMmVZVlNCS2RvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://expertblancheur.com/products/bandes-blanchissantes-correctrices-de-couleur-1"
+        "paying_advertiser_name": "MacBab TpsRosette🚛❄️",
+        "profile_name": "El Niglo🦔✝️ TpsRosette🚛❄️",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYTVhalh1M2hUUk5JbVgwdEh0UVRKP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/maximezoo49",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYTVhalh1M2hUUk5JbVgwdEh0UVRKP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "playable_media_properties": {}
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -644,8 +610,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "9d81814f-aa21-4b5b-9c99-ad3dae15d074",
-        "name": "Ad4",
+        "id": "3103fd35-d27d-466e-b8b6-e6d97b57d34b",
+        "name": "Ad1",
         "ad_account_name": "bodyslimsFR test",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -658,21 +624,21 @@
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8J4hmKjBtnoZfVEG3STXq.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiwg1cgATDgAzjUBkABSg4KCXEeQD07Qi8wNhD0A1C2YWgCdSwHaUAiBgoCSAISAKIBNwi6ChIqCigIkP9RIAEw0AU4gApAAkoOCgl5EUcsPTkwKjAQ9ANQtmFoAnVmtnZAIgYKAkgDEgCiATwIkgoSLwotCI3MOSABMOADONQGQAJKDgoJVxY5KSsnHx4cEPQDULZhaAJ1oqddQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCP-1OCABMOADONQGQAJKDgoJVw8xHygmHxofEPQDULZhaAJ18oJqQH0AAIA_IgYKAkgCEgCQA7Zh&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zXlFCSg9qc86ferzEmEat.67?mo=GpwCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwjqqrIBIAEw4AM41AZAAUoOCgleLjYtIjchISwQ9ANQvt0BaAJ18tJWQH0AAIA_IgYKAkgDEgCiAT4IugoSMQovCNW3oAEgATDQBTiACkACSg4KCVwnLCkeRBshJBD0A1C-3QFoAnXBn15AfQAAgD8iBgoCSAMSAKIBPQiSChIwCi4IuJpzIAEw4AM41AZAAkoOCglJHyUgGCAZFRsQ9ANQvt0BaAJ1HoFFQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCJr8cyABMOADONQGQAJKDgoJRRofHRYtFBYZEPQDUL7dAWgCdY-lVUB9AACAPyIGCgJIAhIAkAO-3QE%3D&uc=15",
         "start_date": "2026-01-13T11:00:00.000Z",
-        "impressions_total": 479,
+        "impressions_total": 368,
         "impressions_map": {
           "de": 0,
-          "be": 231,
+          "be": 176,
           "fi": 0,
           "pt": 0,
           "bg": 0,
           "dk": 0,
           "lt": 0,
-          "lu": 97,
+          "lu": 87,
           "hr": 0,
           "lv": 0,
-          "fr": 151,
+          "fr": 105,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -718,23 +684,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "a27869b2-b593-4829-8a99-cb5338c40238",
-        "name": "video_recrutement_T1",
-        "ad_account_name": "Macif_By_Novad",
-        "status": "ACTIVE",
+        "id": "533ab136-d9cb-4a30-bc51-23fbb4c970fc",
+        "name": "Appel-vote-affiche_A",
+        "ad_account_name": "Macif Assurances ",
+        "status": "PAUSED",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "fr"
         ],
-        "headline": "Découvrez nos offres à Lille",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
+        "headline": "🔥 Qui ira en finale ?",
+        "call_to_action": "VOTE",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/IsIRo0CvzlFMduZntLZZM.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQif_2wgATDgAzjUBkABSg4KCU5NPhUfIickMhD0A1DgsgFoAnXsvV5AIgYKAkgDEgCiAT0IugoSMAouCMzYYCABMNAFOIAKQAJKDgoJQzY2FygcJh4tEPQDUOCyAWgCdSQoY0B9AACAPyIGCgJIAxIAogE9CJIKEjAKLgjV_0ggATDgAzjUBkACSg4KCTsxLBAXGCIaJRD0A1DgsgFoAnWuLVFAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4InLlFIAEw4AM41AZAAkoOCgk0JScPHBUaFB4Q9ANQ4LIBaAJ1CO9YQH0AAIA_IgYKAkgCEgCQA-CyAQ%3D%3D&uc=15",
-        "start_date": "2026-02-03T09:15:09.000Z",
-        "impressions_total": 110080,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9XH7GDEn9Ox8pUWIiFSdl.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-08-29T12:00:10.000Z",
+        "impressions_total": 375517,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -746,7 +712,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 110080,
+          "fr": 375517,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -770,19 +736,22 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "45",
+              "max_age": "40",
               "age_groups": [],
-              "languages": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
-        "paying_advertiser_name": "MACIF",
+        "paying_advertiser_name": "Macif Assurances",
         "profile_name": "Macif Assurances",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUjFVQ3F0RW5HWGlFQkN2ZnVjc0lHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.macif.fr/assurance/la-macif/ressources-humaines/catalogue-des-offres?at_medium=social&at_campaign=2026_ADHOC_RECRUTEMENT_ALTRNANTS_T1_Macif&at_produit=Macif&at_univers=macif&at_obj=trafic&at_plateform_diffusion=Snapchat&at_format=Video&at_agence=Novad&at_variant=2025_11_MACIF_CAPSULES_RH_KERENE_V04_VERTICAL_ST_LILLE&at_type_diffusion=darkPost&page=1&type-contrat=7291&wiz_medium=social&wiz_source=snapchat&wiz_campaign=%7B%7Bcampaign.name%7D%7D&wiz_content=%7B%7Bcreative.name%7D%7D&wiz_term=%7B%7BadSet.name%7D%7D"
+          "url": "https://www.nrj.fr/actus/evenements-nrj/nouvel-air-par-macif-devenez-la-nouvelle-voix-engagee-de-la-scene-francaise-71364791?utm_source=snapchat&utm_medium=cpc&utm_campaign=vks-nouvel-air-macif-vague2"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

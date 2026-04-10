@@ -1,192 +1,30 @@
 {
   "brand": "Dr. Martens",
   "country": "fr",
-  "fetched_at": "2026-04-09T19:22:07.592Z",
+  "fetched_at": "2026-04-10T05:57:11.616Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "acc6b472-974d-4e62-9ac8-7c50bda7711d",
-        "name": "Midfunnel_Traffic_DrMartens_Q32026_Wednesday_HeroVideo_Prospecting_Snapchat_FR",
+        "id": "01225ef4-2cfa-4f56-832e-447838da781c",
+        "name": "Midfunnel_Traffic_DrMartens_Q42026_AlwaysOn_ToteBagStatic_Prospecting_Snapchat_FR",
         "ad_account_name": "Dr. Martens EMEA",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
         "ad_render_type": "STATIC",
         "languages": [
           "fr"
         ],
-        "headline": "Découvrez votre côté sombre",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/seWTSkvPEPLAF8WSvxXkG.67?mo=GoUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBNwhDEi8KLQiIjz0gATDgAzjUBkABSg4KCSsbMhc5QT8HExD0A1D4fWgCddleSkB9AACAPyICEgCiATgIugoSLwotCOXSMSABMNAFOIAKQAJKDgoJJBMnDzg3LgcVEPQDUPh9aAJ1xEpPQH0AAIA_IgISAKIBOAiSChIvCi0I6vIoIAEw4AM41AZAAkoOCgkeExsNKC0sBRQQ9ANQ-H1oAnUE2D1AfQAAgD8iAhIAogE4CNIKEi8KLQjg7x4gATDgAzjUBkACSg4KCR0NGgokIBwFDRD0A1D4fWgCdWudREB9AACAPyICEgCQA_h9&uc=15",
-        "start_date": "2025-10-17T09:00:29.000Z",
-        "impressions_total": 63116,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 63116,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "50",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dr. Martens",
-        "profile_name": "Dr. Martens",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.drmartens.com/fr/fr/unisex/wednesday/c/04a600130?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "987106e1-a73b-42fb-854f-beb639cfbdf9",
-        "name": "Upperfunnel_Awareness_DrMartens_Q42026_AlwaysOn_FlowerSinclairStatic_Prospecting_Snapchat_FR",
-        "ad_account_name": "Dr. Martens EMEA",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Le pas fleuri",
-        "call_to_action": "VIEW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-15T10:00:09.000Z",
-        "impressions_total": 3745000,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 3745000,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "50",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dr. Martens",
-        "profile_name": "Dr. Martens",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Le pas fleuri",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ltMBQjpacB0BB8MgY2UoP.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.drmartens.com/fr/fr/womens/platforms/platform-boots/c/01052500?utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=paidprospecting&utm_term={{adSet.name}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f4a5c750-dec8-4dc8-8b50-9363806d8496",
-        "name": "Midfunnel_Traffic_DrMartens_Q42026_Students_Students1460Static_Prospecting_Snapchat_FR",
-        "ad_account_name": "Dr. Martens EMEA",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "-20 % pour les étudiants",
+        "headline": "Voir les accessoires",
         "call_to_action": "VIEW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fzguGtsOWpXskHTa9BlDT.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-01-19T10:00:48.000Z",
-        "impressions_total": 814510,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EgsmYaZYp7oHzUNKBDrwj.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-15T10:00:48.000Z",
+        "impressions_total": 321541,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -198,7 +36,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 814510,
+          "fr": 321541,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -222,7 +60,194 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "35",
+              "max_age": "50",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dr. Martens",
+        "profile_name": "Dr. Martens",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://www.drmartens.com/fr/fr/accessories/bags/c/07570000?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://www.drmartens.com/fr/fr/sac-en-cuir-kiev-%C3%A0-anses-sup%C3%A9rieures-noir/p/40758001?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/bd049f98-9d4a-4a48-945a-8ad1dd851f0a/d530d13c-27df-494e-8e6a-f8d03e6e172c.png"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://www.drmartens.com/fr/fr/sac-en-cuir-noir/p/41460001?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/b2c42a1a-4467-4843-957a-e44198917674/2ebd5bc6-9f6e-457a-8df0-000949949303.png"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://www.drmartens.com/fr/fr/petit-sac-en-cuir-noir/p/42710001?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/537b1c73-f2e7-481d-8e1f-9b930cb516cf/f9f9b327-c3dc-477b-ba14-cdf68b0cfdfb.png"
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3a5c7ef0-1193-4b1f-9757-f1a48ca453fa",
+        "name": "Upperfunnel_Awareness_DrMartens_Q42026_AlwaysOn_AdrianBenCherryVideo_Prospecting_Snapchat_FR",
+        "ad_account_name": "Dr. Martens EMEA",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Une icône qui évolue",
+        "call_to_action": "VIEW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-01-15T10:00:09.000Z",
+        "impressions_total": 3674803,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 3674803,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "50",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dr. Martens",
+        "profile_name": "Dr. Martens",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Une icône qui évolue",
+              "call_to_action": "VIEW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XscME6SXaawv84DSGkgfr.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjMgQogATDgAzjUBkABSg4KCSgXExQJCgcHChD0A1CYL2gCdXKxSEAiBgoCSAISAKIBNwi6ChIqCigI5_IHIAEw0AU4gApAAkoOCgkfCgwSCAgIBQsQ9ANQmC9oAnXJv1FAIgYKAkgDEgCiATwIkgoSLwotCNnLBSABMOADONQGQAJKDgoJFwkJCgcGBQQGEPQDUJgvaAJ1LHdJQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCKK-BSABMOADONQGQAJKDgoJGAcIDQUHBAQHEPQDUJgvaAJ1TOJQQH0AAIA_IgYKAkgCEgCQA5gv&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.drmartens.com/fr/fr/unisex/moc-toe-boots-shoes/c/04092000?utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=paidprospecting&utm_term={{adSet.name}}"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "25e0a485-4adc-470e-86be-91df89b86fcf",
+        "name": "Upperfunnel_Awareness_DrMartens_Q12026_AlwaysOn_ZebzagAnywair_Prospecting_Snapchat_FR",
+        "ad_account_name": "Dr. Martens EMEA",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Nouveautés Dr. Martens",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ro9iBvPJqiTTsOuzhZ20V.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-03T09:40:00.000Z",
+        "impressions_total": 1470800,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1470800,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "40",
               "age_groups": [],
               "languages": [],
               "operation": "INCLUDE",
@@ -235,270 +260,7 @@
         "profile_name": "Dr. Martens",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.drmartens.com/fr/fr/unisex/student-styles/c/04ha3000?utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=paidprospecting&utm_term={{adSet.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d8bb2553-24dd-458a-bd3d-0eaedaa56931",
-        "name": "Upperfunnel_Awareness_DrMartens_Q42026_AlwaysOn_ToteBagStatic_Prospecting_Snapchat_FR",
-        "ad_account_name": "Dr. Martens EMEA",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Voir les accessoires",
-        "call_to_action": "VIEW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-15T10:00:09.000Z",
-        "impressions_total": 12343402,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 12343402,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "50",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dr. Martens",
-        "profile_name": "Dr. Martens",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Voir les accessoires",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EgsmYaZYp7oHzUNKBDrwj.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.drmartens.com/fr/fr/accessories/bags/c/07570000?utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=paidprospecting&utm_term={{adSet.name}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c86c06f4-b101-4239-a8ba-6bc5c8670d20",
-        "name": "Upperfunnel_Awareness_DrMartens_Q42026_AlwaysOn_RejenaMJStatic_Prospecting_Snapchat_FR",
-        "ad_account_name": "Dr. Martens EMEA",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Adoptez un nouvel angle",
-        "call_to_action": "VIEW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-15T10:00:09.000Z",
-        "impressions_total": 3833909,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 3833909,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "50",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dr. Martens",
-        "profile_name": "Dr. Martens",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Adoptez un nouvel angle",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/94v5ophIMfq4wjZoBov81.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.drmartens.com/fr/fr/womens/shoes/mary-jane-shoes/c/01021200?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "fcebd589-dc2a-4d9c-ae55-c0e0b8143313",
-        "name": "Upperfunnel_Awareness_DrMartens_Q42026_AlwaysOn_TopHandleBagStatic_Prospecting_Snapchat_FR",
-        "ad_account_name": "Dr. Martens EMEA",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Voir les accessoires",
-        "call_to_action": "VIEW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-15T10:00:09.000Z",
-        "impressions_total": 9314097,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 9314097,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "50",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dr. Martens",
-        "profile_name": "Dr. Martens",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Voir les accessoires",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/lVgKMlVnPGDaNRTXgzZSb.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.drmartens.com/fr/fr/accessories/bags/c/07570000?utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=paidprospecting&utm_term={{adSet.name}}"
-              }
-            }
-          ]
+          "url": "https://www.drmartens.com/fr/fr/unisex/zebzag/c/08450000?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -583,21 +345,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "ef9833c1-9a1f-473b-ae6c-f261fe38074f",
-        "name": "Upperfunnel_Awareness_DrMartens_Q42026_AlwaysOn_LowellVideo_Prospecting_Snapchat_FR",
+        "id": "a441c6b1-7a22-4213-bbb0-2a60a682ffae",
+        "name": "Upperfunnel_Awareness_DrMartens_Q42026_AlwaysOn_AdrianBenButterscotchVideo_Prospecting_Snapchat_FR",
         "ad_account_name": "Dr. Martens EMEA",
-        "status": "ACTIVE",
+        "status": "PAUSED",
         "creative_type": "COMPOSITE",
         "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [
           "fr"
         ],
-        "headline": "Inspirées des archives Doc's",
+        "headline": "Mocassins Adrian Ben à pampilles",
         "call_to_action": "VIEW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2026-01-15T10:00:09.000Z",
-        "impressions_total": 6093987,
+        "impressions_total": 847843,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -609,7 +371,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 6093987,
+          "fr": 847843,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -650,14 +412,14 @@
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "Inspirées des archives Doc's",
+              "headline": "Mocassins Adrian Ben à pampilles",
               "call_to_action": "VIEW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XeYqskoKD6nXxBISHCV3F.67?mo=GogCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE3CEMSLwotCJmALCABMOADONQGQAFKDgoJYyMhFXYzNi4lEPQDULI8aAJ12k1vQH0AAIA_IgISAKIBOQi6ChIwCi4I_bklIAEw0AU4gApAAkoPCgpkGhUQlAEWGiIeEPQDULI8aAJ1xOR7QH0AAIA_IgISAKIBOAiSChIvCi0IrP4aIAEw4AM41AZAAkoOCgk9GxcNSBchGxgQ9ANQsjxoAnVu2GlAfQAAgD8iAhIAogE4CNIKEi8KLQjurhggATDgAzjUBkACSg4KCUISDgpZDxIUDxD0A1CyPGgCdX76cUB9AACAPyICEgCQA7I8&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EDyeWzerMjrHs4Z6Nwmha.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAidsQcgATDgAzjUBkABSg4KCRMICBYJCAkICxD0A1CYL2gCdSKlSEAiBgoCSAMSAKIBPAi6ChIvCi0IttUGIAEw0AU4gApAAkoOCgkSBgYYBwYHBgsQ9ANQmC9oAnXsiVFAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0Is9cEIAEw4AM41AZAAkoOCgkOBQUNBQUFBAcQ9ANQmC9oAnUsOURAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IssEEIAEw4AM41AZAAkoOCgkOBAQRBQQEBAcQ9ANQmC9oAnV32E1AfQAAgD8iBgoCSAISAJADmC8%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.drmartens.com/fr/fr/unisex/moc-toe-boots-shoes/c/04092000?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
+                "url": "https://www.drmartens.com/fr/fr/unisex/moc-toe-boots-shoes/c/04092000?utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=paidprospecting&utm_term={{adSet.name}}"
               }
             }
           ]
@@ -670,21 +432,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "d60ce590-7980-428f-856c-c82bab75545a",
-        "name": "Upperfunnel_Awareness_DrMartens_Q12026_AlwaysOn_Anistone_Prospecting_Snapchat_FR",
+        "id": "6ec3cb72-e48c-4a9d-bcef-5144491bd908",
+        "name": "Midfunnel_Traffic_DrMartens_Q42026_AlwaysOn_LowellPinkStatic_Prospecting_Snapchat_FR",
         "ad_account_name": "Dr. Martens EMEA",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Des biker boots Doc's rebelles",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Inspirées des archives Doc's",
         "call_to_action": "VIEW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9aV0jpfHlGH3CjkImp2bJ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-06-03T09:40:00.000Z",
-        "impressions_total": 1185053,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/wU0eJcmzm2fJ4fE3gRlxR.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-15T10:00:48.000Z",
+        "impressions_total": 565599,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -696,7 +460,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 1185053,
+          "fr": 565599,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -720,7 +484,7 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "40",
+              "max_age": "50",
               "age_groups": [],
               "languages": [],
               "operation": "INCLUDE",
@@ -733,7 +497,7 @@
         "profile_name": "Dr. Martens",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.drmartens.com/fr/fr/unisex/biker-boots-and-shoes/c/04290000?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
+          "url": "https://www.drmartens.com/fr/fr/unisex/moc-toe-boots-shoes/c/04092000?utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=paidprospecting&utm_term={{adSet.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -743,21 +507,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "19fa07de-e384-4857-938a-03371d353239",
-        "name": "Upperfunnel_Awareness_DrMartens_Q42026_AlwaysOn_LowellVideo_Prospecting_Snapchat_FR",
+        "id": "d9157e1a-1d6d-40a4-a7ab-efc1812c2019",
+        "name": "Midfunnel_Traffic_DrMartens_Q42026_Students_Students1460ModelStatic_Prospecting_Snapchat_FR",
         "ad_account_name": "Dr. Martens EMEA",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "fr"
         ],
-        "headline": "Des nouveautés Dr. Martens",
+        "headline": "-20 % pour les étudiants",
         "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-15T10:00:09.000Z",
-        "impressions_total": 10180065,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/U433i5fiv6mxUxleAOTr9.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-19T10:00:48.000Z",
+        "impressions_total": 23570,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -769,7 +535,80 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 10180065,
+          "fr": 23570,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dr. Martens",
+        "profile_name": "Dr. Martens",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.drmartens.com/fr/fr/unisex/student-styles/c/04ha3000?utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=paidprospecting&utm_term={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "5a075fae-86f8-4a60-ba75-334cc4f23391",
+        "name": "Upperfunnel_Awareness_DrMartens_Q42026_AlwaysOn_1460RainGreenUGCStatic_Prospecting_Snapchat_FR",
+        "ad_account_name": "Dr. Martens EMEA",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Il ne manque plus que la pluie",
+        "call_to_action": "VIEW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-01-15T10:00:09.000Z",
+        "impressions_total": 403139,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 403139,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -810,14 +649,175 @@
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "Des nouveautés Dr. Martens",
+              "headline": "Il ne manque plus que la pluie",
               "call_to_action": "VIEW",
-              "top_snap_media_type": "VIDEO",
+              "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hUyfdaHrznlsNdFoYHAYd.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAj1qRogATDgAzjUBkABSg4KCSwyHjYfNSIhHRD0A1C4OmgCdbZOTEAiBgoCSAISAKIBPAi6ChIvCi0Iga4VIAEw0AU4gApAAkoOCgkiIBskISEaGB0Q9ANQuDpoAnVM-1BAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0IoZQQIAEw4AM41AZAAkoOCgkdHRIdGiQSDhAQ9ANQuDpoAnUeHkFAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IwtUOIAEw4AM41AZAAkoOCgkaFBIYGRgRERUQ9ANQuDpoAnV5IUpAfQAAgD8iBgoCSAISAJADuDo%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/kaXEce73rprBTBF4NFMxv.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www.drmartens.com/fr/fr/unisex/moc-toe-boots-shoes/c/04092000?utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=paidprospecting&utm_term={{adSet.name}}"
+                "url": "https://www.drmartens.com/fr/fr/unisex/waterproof-boots/c/04330000?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "90120379-2fc5-4b25-b711-c3d2ef5e3cc5",
+        "name": "Midfunnel_Traffic_DrMartens_Q22026_AlwaysOn_BuzzHi_Prospecting_Snapchat_FR",
+        "ad_account_name": "Dr. Martens EMEA",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Faites le Buzz",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YR4jaVXItFRhvsY0PZUUA.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-03T09:40:15.000Z",
+        "impressions_total": 6021,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 6021,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dr. Martens",
+        "profile_name": "Dr. Martens",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.drmartens.com/fr/fr/unisex/buzz/c/08470000?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=prospecting&utm_term={{adSet.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "afe57154-c9d3-4ae5-b1ce-6dbd50f979c7",
+        "name": "Upperfunnel_Awareness_DrMartens_Q42026_AlwaysOn_BuzzBrownStrapStatic_Prospecting_Snapchat_FR",
+        "ad_account_name": "Dr. Martens EMEA",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Le confort, au quotidien",
+        "call_to_action": "VIEW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-01-15T10:00:09.000Z",
+        "impressions_total": 4374157,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 4374157,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "50",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dr. Martens",
+        "profile_name": "Dr. Martens",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3BFb2pEUmNlRldrOGhoNGx6b3ZNP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Le confort, au quotidien",
+              "call_to_action": "VIEW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/D5WxFbWhvhPXVRoaf77pA.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.drmartens.com/fr/fr/unisex/buzz/c/08470000?utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{ad.id}}&utm_medium=paidprospecting&utm_term={{adSet.name}}"
               }
             }
           ]

@@ -1,59 +1,58 @@
 {
   "brand": "MAC",
   "country": "lu",
-  "fetched_at": "2026-04-09T12:07:15.360Z",
+  "fetched_at": "2026-04-10T07:40:37.077Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "d46f1fee-d1b6-4ddf-8e91-74642ee99044",
-        "name": "Ad5",
-        "ad_account_name": "bodyslimsFR test",
+        "id": "dcf9e0b1-0ddf-4c11-8271-561c8cb704b0",
+        "name": "7/27/25 - Ad",
+        "ad_account_name": "iOS In-App Promotions",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "fr"
+          "en"
         ],
-        "headline": "Soldes -60%",
-        "call_to_action": "ORDER NOW",
+        "call_to_action": "VIEW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sbvBuCJAx0Aq05glZ7fAg.67?mo=Gp0CGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwjx6rABIAEw4AM41AZAAUoOCglrNjYyLD4qMSAQ9ANQ7O8BaAJ1HKtdQH0AAIA_IgYKAkgEEgCiAT4IugoSMQovCKiOqQEgATDQBTiACkACSg4KCWItKSouPyo-IRD0A1Ds7wFoAnWMgGtAfQAAgD8iBgoCSAISAKIBPgiSChIxCi8ItaSBASABMOADONQGQAJKDgoJVScnIyMtIiIZEPQDUOzvAWgCdc7fTkB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiEm3sgATDgAzjUBkACSg4KCUwcHRwhKx0qFhD0A1Ds7wFoAnWwiFxAfQAAgD8iBgoCSAISAJAD7O8B&uc=15",
-        "start_date": "2026-01-13T11:00:00.000Z",
-        "impressions_total": 530,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qJclSglmpZOMWOd7r2CvZ.67?mo=Go0DGgcyAQRQD2ABWghBZHNNZWRpYaIBNAhDEiUKIwjYgSwgATDgAzjUBkABSg4KCWFWTAYFAwU5CRD0A1CQTmgCIgkKBTIBfUgEEgCiAT0IugoSJQojCIizHyABMNAFOIAKQAJKDgoJVDAoCwUGBh8JEPQDUJBOaAIiEQoNOgF9QgYI_p77wwZIAxIAogE8CH8SJQojCOa_FSABMOADONQGQAJKDgoJMSMcBAQEBRoEEPQDUJBOaAIiEQoNOgF9QgYI_p77wwZIAhIAogE9CJIKEiUKIwi0qRYgATDgAzjUBkACSg4KCTIlGwQFBAUaBBD0A1CQTmgCIhEKDToBfUIGCP6e-8MGSAISAKIBPQjEChIlCiMIg78TIAEw4AM41gZAAkoOCgk3HxwGAwQDFgYQ9ANQkE5oAiIRCg06AX1CBgj-nvvDBkgCEgCiAT0I0goSJQojCJnQEiABMOADONQGQAJKDgoJOhobBgQDBBYGEPQDUJBOaAIiEQoNOgF9QgYI_p77wwZIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-07-27T21:00:00.000Z",
+        "impressions_total": 1812,
         "impressions_map": {
-          "de": 0,
-          "be": 236,
+          "de": 1,
+          "be": 10,
           "fi": 0,
-          "pt": 0,
+          "pt": 109,
           "bg": 0,
           "dk": 0,
           "lt": 0,
-          "lu": 78,
-          "hr": 0,
+          "lu": 41,
+          "hr": 115,
           "lv": 0,
-          "fr": 216,
+          "fr": 0,
           "hu": 0,
-          "se": 0,
+          "se": 2,
           "si": 0,
           "sk": 0,
-          "ie": 0,
+          "ie": 6,
           "ee": 0,
-          "el": 0,
+          "el": 528,
           "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
+          "it": 176,
+          "es": 116,
+          "at": 8,
           "cy": 0,
           "cz": 0,
-          "pl": 0,
-          "ro": 0,
+          "pl": 121,
+          "ro": 232,
           "nl": 0,
-          "tr": 0
+          "tr": 347
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -61,18 +60,18 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "gender": "FEMALE",
               "languages": [],
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Luca da Palma Ferramacho",
-        "profile_name": "Ayris",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZEZLWm5CR0Z5Q2J0NFo2TENyQjRZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "paying_advertiser_name": "Cute pharmacist blog",
+        "profile_name": "Cute Pharmacist",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTVp4S2hKdHl6SXpzWWhiSnY1NldFP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
         "web_view_properties": {
-          "url": "https://ayris.fr/products/ayris-airstyler-one?pb=0"
+          "url": "https://cutepharmacist.blogspot.com/?m=1"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -82,8 +81,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c7aa301f-12be-4427-954d-e65675e19492",
-        "name": "Ad 3",
+        "id": "76d87c99-c491-4ea6-b080-39c102b13fc0",
+        "name": "Ad 5",
         "ad_account_name": "Compte Pub Principal",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -96,21 +95,21 @@
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mUT59f2PA3Ndf2DRYEKYc.67?mo=GpkCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgjc-YgCIAEw4AM41AZAAUoOCgl5ISAqIR4vHigQ9ANQjqYDaAJ1UsI2QCIGCgJIAxIAogE-CLoKEjEKLwjSj-kBIAEw0AU4gApAAkoOCgllGx8lGhwjIh0Q9ANQjqYDaAJ1zts8QH0AAIA_IgYKAkgDEgCiAT4IkgoSMQovCOb-pQEgATDgAzjUBkACSg4KCWIVFBsUExwTGBD0A1COpgNoAnUR-ipAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8IgOeuASABMOADONQGQAJKDgoJVhQVGxERGBcTEPQDUI6mA2gCdQfAOEB9AACAPyIGCgJIAhIAkAOOpgM%3D&uc=15",
-        "start_date": "2026-03-02T03:00:26.000Z",
-        "impressions_total": 149432,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GutL0ME2iIcDRAwbozV8K.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwjXuI8CIAEw4AM41AZAAUoPCgqOASMiIh0nJSUjEPQDUL7_A2gCddmYV0AiBgoCSAQSAKIBOQi6ChIsCioIrozoASABMMAEOIAIQAJKDgoJbxwXGhgbGR0aEPQDUL7_A2gCdSwfXEAiBgoCSAISAKIBPgiSChIxCi8IlOmpASABMOADONQGQAJKDgoJdRYWFhIYFxcVEPQDUL7_A2gCdZQ2REB9AACAPyIGCgJIAhIAogE-CNIKEjEKLwi9trcBIAEw4AM41AZAAkoOCgllFhIVEhYTFxQQ9ANQvv8DaAJ1_JVVQH0AAIA_IgYKAkgCEgCQA77_Aw%3D%3D&uc=15",
+        "start_date": "2026-03-03T23:04:06.000Z",
+        "impressions_total": 110319,
         "impressions_map": {
           "de": 0,
-          "be": 27340,
+          "be": 19177,
           "fi": 0,
           "pt": 0,
           "bg": 0,
           "dk": 0,
           "lt": 0,
-          "lu": 2426,
+          "lu": 1641,
           "hr": 0,
           "lv": 0,
-          "fr": 119666,
+          "fr": 89501,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -174,19 +173,19 @@
         "top_snap_crop_position": "MIDDLE",
         "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BXvhS6ucL2Rz6mhSfP2Y5.67?mo=GpgCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiT7rcBIAEw4AM41AZAAUoOCglbKB8eGSIdKBwQ9ANQqssCaAJ1KOhMQCIGCgJIAhIAogE-CLoKEjEKLwjAtrEBIAEw0AU4gApAAkoOCglVIhoaFSAhLxgQ9ANQqssCaAJ1jC1QQH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCIaSdCABMOADONQGQAJKDgoJTBkUEQ8WExcSEPQDUKrLAmgCdZQ9QkB9AACAPyIGCgJIAhIAogE-CNIKEjEKLwiY9YQBIAEw4AM41AZAAkoOCglIGBITDBYWIREQ9ANQqssCaAJ19DlPQH0AAIA_IgYKAkgCEgCQA6rLAg%3D%3D&uc=15",
         "start_date": "2026-03-09T23:00:34.000Z",
-        "impressions_total": 78177,
+        "impressions_total": 80701,
         "impressions_map": {
           "de": 0,
-          "be": 14912,
+          "be": 15376,
           "fi": 0,
           "pt": 0,
           "bg": 0,
           "dk": 0,
           "lt": 0,
-          "lu": 1992,
+          "lu": 2046,
           "hr": 0,
           "lv": 0,
-          "fr": 61273,
+          "fr": 63279,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -223,301 +222,6 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2l2U0UwVlVGYnJoMmVZVlNCS2RvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://expertblancheur.com/products/bandes-blanchissantes-correctrices-de-couleur-1"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "1eb8e947-fc26-4149-8a04-beb046c73cfa",
-        "name": "Ad 3",
-        "ad_account_name": "Compte Pub Principal",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "❄️ PROMOS D'HIVER -50%",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/m4LhD89SqeuS9uWjJOYdY.67?mo=GpQCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgjAjJcCIAEw4AM41AZAAUoOCglzIh4cHygcIhwQ9ANQku4DaAJ1pldkQCIGCgJIAxIAogE5CLoKEiwKKgiM9KwCIAEw0AU4gApAAkoOCglpHhsaGCIeIBcQ9ANQku4DaAJ1AF9oQCIGCgJIAxIAogE-CJIKEjEKLwilo7MBIAEw4AM41AZAAkoOCgllFxQRFBoSFhIQ9ANQku4DaAJ13hFPQH0AAIA_IgYKAkgCEgCiAT4I0goSMQovCOan0gEgATDgAzjUBkACSg4KCVsUFBIQGRQXERD0A1CS7gNoAnXHuV9AfQAAgD8iBgoCSAISAJADku4D&uc=15",
-        "start_date": "2026-03-09T23:00:34.000Z",
-        "impressions_total": 303164,
-        "impressions_map": {
-          "de": 0,
-          "be": 56414,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 4529,
-          "hr": 0,
-          "lv": 0,
-          "fr": 242221,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Luca da Palma Ferramacho",
-        "profile_name": "Expert Blancheur",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2l2U0UwVlVGYnJoMmVZVlNCS2RvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://expertblancheur.com/products/bandes-blanchissantes-correctrices-de-couleur-1"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "da87c24a-07e2-4653-95a8-c65cc2d01125",
-        "name": "ad 3",
-        "ad_account_name": "Compte Pub Principal",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "-50% OFFRE DE PRINTEMPS 🌿",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BZliE0Y316IWTNLKvPxR8.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiX8F4gATDgAzjUBkABSg4KCU0UGyEiIDM5NxD0A1DahwFoAnV7qU5AIgYKAkgCEgCiAT0IugoSMAouCJC2UiABMNAFOIAKQAJKDgoJVBkYICAeIzItEPQDUNqHAWgCdQm4UkB9AACAPyIGCgJIAxIAogE9CJIKEjAKLgjJxjkgATDgAzjUBkACSg4KCTgLERITEiAlJBD0A1DahwFoAnXIiUBAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I0K84IAEw4AM41AZAAkoOCgk8EBAUExMaIh0Q9ANQ2ocBaAJ1ahhKQH0AAIA_IgYKAkgCEgCQA9qHAQ%3D%3D&uc=15",
-        "start_date": "2026-03-21T06:30:51.000Z",
-        "impressions_total": 23141,
-        "impressions_map": {
-          "de": 0,
-          "be": 4375,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 573,
-          "hr": 0,
-          "lv": 0,
-          "fr": 18193,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Luca da Palma Ferramacho",
-        "profile_name": "Expert Blancheur",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2l2U0UwVlVGYnJoMmVZVlNCS2RvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://expertblancheur.com/products/bandes-blanchissantes-correctrices-de-couleur-1"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "84867c1f-f8d6-457e-9e7a-a2b40e84e52f",
-        "name": "Ad2",
-        "ad_account_name": "bodyslimsFR test",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Soldes -60%",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OSNL3GkJC5pUJRo4lIORm.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiUmHggATDgAzjUBkABSg4KCVIdHiQaHBcSGhD0A1DW5AFoAnUcbDNAIgYKAkgCEgCiATgIugoSKwopCMSDayABMNAFOIAKQAJKDgoJRhcVIhUXFBATEPQDUNbkAWgCdQqSNUAiBgoCSAMSAKIBPQiSChIwCi4IycRMIAEw4AM41AZAAkoOCglAERIVDxEODBAQ9ANQ1uQBaAJ1OE4sQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCKH8TCABMOADONQGQAJKDgoJOhAOFw4RDQoNEPQDUNbkAWgCdRLdMUB9AACAPyIGCgJIAhIAkAPW5AE%3D&uc=15",
-        "start_date": "2026-01-13T11:00:00.000Z",
-        "impressions_total": 10496,
-        "impressions_map": {
-          "de": 0,
-          "be": 3960,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 646,
-          "hr": 0,
-          "lv": 0,
-          "fr": 5890,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Luca da Palma Ferramacho",
-        "profile_name": "Ayris",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZEZLWm5CR0Z5Q2J0NFo2TENyQjRZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://ayris.fr/products/ayris-airstyler-one?pb=0"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "9d81814f-aa21-4b5b-9c99-ad3dae15d074",
-        "name": "Ad4",
-        "ad_account_name": "bodyslimsFR test",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Soldes -60%",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8J4hmKjBtnoZfVEG3STXq.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiwg1cgATDgAzjUBkABSg4KCXEeQD07Qi8wNhD0A1C2YWgCdSwHaUAiBgoCSAISAKIBNwi6ChIqCigIkP9RIAEw0AU4gApAAkoOCgl5EUcsPTkwKjAQ9ANQtmFoAnVmtnZAIgYKAkgDEgCiATwIkgoSLwotCI3MOSABMOADONQGQAJKDgoJVxY5KSsnHx4cEPQDULZhaAJ1oqddQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCP-1OCABMOADONQGQAJKDgoJVw8xHygmHxofEPQDULZhaAJ18oJqQH0AAIA_IgYKAkgCEgCQA7Zh&uc=15",
-        "start_date": "2026-01-13T11:00:00.000Z",
-        "impressions_total": 479,
-        "impressions_map": {
-          "de": 0,
-          "be": 231,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 97,
-          "hr": 0,
-          "lv": 0,
-          "fr": 151,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Luca da Palma Ferramacho",
-        "profile_name": "Ayris",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZEZLWm5CR0Z5Q2J0NFo2TENyQjRZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://ayris.fr/products/ayris-airstyler-one?pb=0"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -601,6 +305,382 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
+        "id": "7f60b110-b32e-406e-96fa-9636d6ce0a45",
+        "name": "Ad 4",
+        "ad_account_name": "Compte Pub Principal",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "❄️ PROMOS D'HIVER -50%",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ubVHwjMvJrUjLVFmjkm6n.67?mo=GpkCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgjL4-wBIAEw4AM41AZAAUoOCglvGBwnISMYGhcQ9ANQpssDaAJ11upqQCIGCgJIAxIAogE-CLoKEjEKLwiM344CIAEw0AU4gApAAkoOCglzExojICQZGhUQ9ANQpssDaAJ16FJ0QH0AAIA_IgYKAkgDEgCiAT4IkgoSMQovCO2enQEgATDgAzjUBkACSg4KCWEPEhoWFhERDhD0A1CmywNoAnWG81dAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8Ix6HBASABMOADONQGQAJKDgoJXw4SGBUZEhMPEPQDUKbLA2gCde4ma0B9AACAPyIGCgJIAhIAkAOmywM%3D&uc=15",
+        "start_date": "2026-03-02T03:00:26.000Z",
+        "impressions_total": 463331,
+        "impressions_map": {
+          "de": 0,
+          "be": 69866,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 5616,
+          "hr": 0,
+          "lv": 0,
+          "fr": 387849,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Luca da Palma Ferramacho",
+        "profile_name": "Expert Blancheur",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2l2U0UwVlVGYnJoMmVZVlNCS2RvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://expertblancheur.com/products/bandes-blanchissantes-correctrices-de-couleur-1"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1b853d85-700a-4f1f-8eb5-dfcdf799cac8",
+        "name": "ad 1",
+        "ad_account_name": "Compte Pub Principal",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "-50% PROMO DE PRINTEMPS 🌸",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/PGdlMYy0NShwCqRtk7Fgd.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiupHYgATDgAzjUBkABSg4KCVAUDysSHDMzLhD0A1D-vAFoAnWzAGFAIgYKAkgDEgCiATgIugoSKwopCIPJfCABMNAFOIAKQAJKDgoJURgLNBYfKjs_EPQDUP68AWgCdZ9YbUAiBgoCSAMSAKIBPQiSChIwCi4I_LNQIAEw4AM41AZAAkoOCgk_DQkbDA8jIiEQ9ANQ_rwBaAJ1tNdSQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCIHhTCABMOADONQGQAJKDgoJOQwHGwoVGiQoEPQDUP68AWgCdcLCXUB9AACAPyIGCgJIAhIAkAP-vAE%3D&uc=15",
+        "start_date": "2026-03-21T06:30:51.000Z",
+        "impressions_total": 25189,
+        "impressions_map": {
+          "de": 0,
+          "be": 4769,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 699,
+          "hr": 0,
+          "lv": 0,
+          "fr": 19721,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Luca da Palma Ferramacho",
+        "profile_name": "Expert Blancheur",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2l2U0UwVlVGYnJoMmVZVlNCS2RvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://expertblancheur.com/products/bandes-blanchissantes-correctrices-de-couleur-1"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2a631f61-4e38-472f-9dc7-608125c2bd72",
+        "name": "Ad 5",
+        "ad_account_name": "Compte Pub Principal",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "❄️ Soldes -50%",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LlQ71oz6VURmnSCDHfla8.67?mo=Gp4CGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwiQ3PgBIAEw4AM41AZAAUoOCgl4JCMeGiIXFhEQ9ANQhqcDaAJ1gPlNQH0AAIA_IgYKAkgDEgCiAT4IugoSMQovCK_8-AEgATDQBTiACkACSg4KCXUjHhsZHxAUERD0A1CGpwNoAnW0Ql1AfQAAgD8iBgoCSAISAKIBPgiSChIxCi8IwtagASABMOADONQGQAJKDgoJZhkZEhQTDw8NEPQDUIanA2gCdUYqRkB9AACAPyIGCgJIAhIAogE-CNIKEjEKLwjBnLIBIAEw4AM41AZAAkoOCglgGRQUExcNEAsQ9ANQhqcDaAJ1_EZUQH0AAIA_IgYKAkgCEgCQA4anAw%3D%3D&uc=15",
+        "start_date": "2026-02-11T23:00:00.000Z",
+        "impressions_total": 1011302,
+        "impressions_map": {
+          "de": 0,
+          "be": 163685,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 14204,
+          "hr": 0,
+          "lv": 0,
+          "fr": 833413,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Luca da Palma Ferramacho",
+        "profile_name": "Expert Blancheur",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2l2U0UwVlVGYnJoMmVZVlNCS2RvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://expertblancheur.com/products/bandes-blanchissantes-correctrices-de-couleur-1"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d78581ae-f314-41b9-9e11-67a330ed62d1",
+        "name": "Ad 3",
+        "ad_account_name": "Compte Pub Principal",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "❄️ PROMOS D'HIVER -50%",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mUT59f2PA3Ndf2DRYEKYc.67?mo=GpkCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgjc-YgCIAEw4AM41AZAAUoOCgl5ISAqIR4vHigQ9ANQjqYDaAJ1UsI2QCIGCgJIAxIAogE-CLoKEjEKLwjSj-kBIAEw0AU4gApAAkoOCgllGx8lGhwjIh0Q9ANQjqYDaAJ1zts8QH0AAIA_IgYKAkgDEgCiAT4IkgoSMQovCOb-pQEgATDgAzjUBkACSg4KCWIVFBsUExwTGBD0A1COpgNoAnUR-ipAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8IgOeuASABMOADONQGQAJKDgoJVhQVGxERGBcTEPQDUI6mA2gCdQfAOEB9AACAPyIGCgJIAhIAkAOOpgM%3D&uc=15",
+        "start_date": "2026-03-03T23:04:06.000Z",
+        "impressions_total": 79078,
+        "impressions_map": {
+          "de": 0,
+          "be": 14055,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 1205,
+          "hr": 0,
+          "lv": 0,
+          "fr": 63818,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Luca da Palma Ferramacho",
+        "profile_name": "Expert Blancheur",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2l2U0UwVlVGYnJoMmVZVlNCS2RvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://expertblancheur.com/products/bandes-blanchissantes-correctrices-de-couleur-1"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "919cb4f8-5996-4464-927a-270c17473bb0",
+        "name": "ad5",
+        "ad_account_name": "bodyslimsFR test",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "❄️ Soldes -50%",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nkZjLt3oOU8z87QVVdK5m.67?mo=GpICGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgif7KwBIAEw4AM41AZAAUoOCglUHyMhGyo0EhwQ9ANQprUCaAJ1eMJVQCIGCgJIBBIAogE5CLoKEiwKKgj63aMBIAEw0AU4gApAAkoOCglcGyIhGSksERwQ9ANQprUCaAJ103FbQCIGCgJIAxIAogE9CJIKEjAKLgiQ1mggATDgAzjUBkACSg4KCUQSFhQQFxoKEBD0A1CmtQJoAnXf6ktAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I5ox5IAEw4AM41AZAAkoOCglJEhcXEBseDBIQ9ANQprUCaAJ1G9lWQH0AAIA_IgYKAkgCEgCQA6a1Ag%3D%3D&uc=15",
+        "start_date": "2026-02-05T05:00:00.000Z",
+        "impressions_total": 37338,
+        "impressions_map": {
+          "de": 0,
+          "be": 7617,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 990,
+          "hr": 0,
+          "lv": 0,
+          "fr": 28731,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "fr"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Luca da Palma Ferramacho",
+        "profile_name": "Expert Blancheur",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2l2U0UwVlVGYnJoMmVZVlNCS2RvP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://expertblancheur.com/products/bandes-blanchissantes-correctrices-de-couleur-1"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
         "id": "84f78dfd-1150-4342-8db9-c6ed7595cf70",
         "name": "Ad6",
         "ad_account_name": "bodyslimsFR test",
@@ -666,81 +746,6 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZEZLWm5CR0Z5Q2J0NFo2TENyQjRZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://ayris.fr/products/ayris-airstyler-one?pb=0"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "7f99c96f-7d35-4f92-8bff-1b4af4acafad",
-        "name": "Food 2",
-        "ad_account_name": "Machad ksa Self Service",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Huge encouragement",
-        "call_to_action": "VIEW PROFILE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RIKyajdRir8sYOFI1qw9M.67?mo=GooCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE1CEMSLQorCJzR0wYgATDgAzjUBkABSg8KCsICI08sOSo2P1QQ9ANQluIGaAJ1WqhoQCICEgCiATYIugoSLQorCNDKlwYgATDQBTiACkACSg8KCuYCGFknNiktNk8Q9ANQluIGaAJ1-AF1QCICEgCiATsIkgoSMgowCNSZuQQgATDgAzjUBkACSg8KCpECIjMeJh0pLEAQ9ANQluIGaAJ1-mdhQH0AAIA_IgISAKIBOwjSChIyCjAIqPbiAyABMOADONQGQAJKDwoK6AEQQhghGRsiMBD0A1CW4gZoAnUQpWRAfQAAgD8iAhIAkAOW4gY%3D&uc=15",
-        "start_date": "2025-11-23T16:24:37.000Z",
-        "impressions_total": 1705,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 1705,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Machad ksa",
-        "profile_name": "MachadKSA",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRlZRVzl6eDgwWDFWQWFTV2k3bDVTP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/machadksa",
-          "icon_media_url": "https://cf-st.sc-cdn.net/d/s69lISBDzTfA428ukA2yc.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {}
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

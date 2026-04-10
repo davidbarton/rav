@@ -45,13 +45,13 @@ All five are answerable from DSA-mandated impression data without a single euro 
 | Geofilters | — | €5-10 | baoliba.uk |
 | Global average (all formats) | ~€7.50 | ~€7.50 | adcredits.expert, stewartgauld.com |
 
-Two key pricing dynamics: a **3-5x format spread** (Commercials at €25-40 vs Snap Ads at €8-15 in the same market) and a **2-3x geographic spread** (France €3-8 vs Netherlands €8-15 for the same format). Q4 seasonal surge adds ~40% to base CPMs. Both effects compound — a Commercial in Netherlands during Q4 could cost 10x a Snap Ad in France in Q2.
+Two key pricing dynamics: a **3-5x format spread** (Commercials at €25-40 vs Snap Ads at €8-15 in the same market) and a **2-3x geographic spread** (France €3-8 vs Netherlands €8-15 for the same format). Q4 seasonal surge adds ~29% to base CPMs based on our political ad data ($6.51 vs $5.06 CPM), consistent with industry estimates of 25-40%. Both effects compound — a Commercial in Netherlands during Q4 could cost 8-10x a Snap Ad in France in Q2.
 
 **Validation from real Snapchat spend data** (see `experiments/02_political_cpm_validation.sql`):
 
 Our political ads dataset (74,609 ads, $117.5M total disclosed spend) provides ground-truth CPM. EUR-denominated ads show median CPM of **€2.43** (P75 €4.30, P90 €6.88). In fact, 72% of EUR political ads have CPM *below* €4 — political ads are cheap due to broad targeting and simpler creatives. USD political ads are more expensive (median $8.21), closer to published commercial benchmarks. Our assumed **€4-9 band** for commercial fashion/luxury ads is intentionally above the political floor — commercial campaigns involve narrower audiences, higher-quality creatives, and more competitive auctions. The band is conservative and defensible.
 
-No other Snapchat competitive intelligence provider has this cross-validation path.
+We have not identified another Snapchat competitive intelligence provider with this cross-validation path.
 
 ### Use cases
 
@@ -158,12 +158,12 @@ Cross-platform ratios serve as plausibility tests. Meta's EU Ad Library disclose
 
 | Tool | Snapchat Depth | Method | Cost |
 | --- | --- | --- | --- |
-| **Pathmatics** (Sensor Tower) | Shallow (thin panel) | Browser/app panel estimation | $10-50K/yr |
+| **Pathmatics** (Sensor Tower) | Expanding (Snap added in 2.0, March 2025) | Browser/app panel estimation | $10-50K/yr |
 | **AdClarity** (BIScience) | Shallow (30M panel) | Panel-based | $5-30K/yr |
 | **Nielsen** | None (aggregate only) | Survey + modeling | Custom $$$ |
 | **Our approach** | **Deep** (DSA-mandated) | Real impression disclosure + CPM | Included |
 
-Our differentiator: **DSA-mandated impression data from Snapchat's own EU Ad Library** — real disclosure, not panel estimation. Per-country granularity. Format-aware. Cross-validated against the only Snapchat dataset with actual spend disclosure (political ads). Enriched with sponsored content signals invisible to ad-library tools.
+Our differentiator: **DSA-mandated impression data from Snapchat's own EU Ad Library** — real disclosure, not panel estimation. Per-country granularity. Format-aware. Cross-validated against the only Snapchat dataset with actual spend disclosure (political ads). Enriched with sponsored content signals invisible to ad-library tools. Note: Pathmatics 2.0 (March 2025) added some Snapchat coverage — the competitive gap is narrowing, but their panel-based approach still cannot provide DSA-level transparency data.
 
 ### What this means for a Beiersdorf or Philips
 
@@ -200,9 +200,9 @@ A marketing director at Beiersdorf (Nivea, Eucerin) uses this to:
 
 ### The key insight: Snapchat is the last platform with no good influencer competitive intelligence
 
-Every major influencer intelligence platform — Traackr, HypeAuditor, CreatorIQ, Modash — covers Instagram, TikTok, and YouTube thoroughly. **Snapchat is a blind spot.** Snap Inc. launched its Creator Discovery API in 2024 (partnering with Captiv8, Traackr, Tagger), but these tools focus on campaign *execution* (finding creators, measuring your own campaigns), not *competitive intelligence* (seeing who your competitors work with).
+Every major influencer intelligence platform — Traackr, HypeAuditor, CreatorIQ, Modash — covers Instagram, TikTok, and YouTube thoroughly. **Snapchat is a blind spot.** Snap Inc. launched its Creator Discovery API in 2023-2024 (partnering with Captiv8 in Oct 2023, Traackr in Feb 2024, and CreatorIQ), but these tools focus on campaign *execution* (finding creators, measuring your own campaigns), not *competitive intelligence* (seeing who your competitors work with).
 
-Snapchat's Sponsored Content API — a DSA-mandated transparency feed — changes this. It discloses every creator-sponsor relationship for content labeled as sponsored. No other platform provides this level of competitive visibility into influencer partnerships at scale.
+Snapchat's Sponsored Content API — a DSA-mandated transparency feed — changes this. It discloses every creator-sponsor relationship for content labeled as sponsored. Other VLOPs (TikTok, Meta) also have DSA-mandated transparency feeds, but Snapchat's provides unusually structured creator-sponsor pair data that is particularly amenable to competitive analysis.
 
 **What marketing directors actually want to know:**
 
@@ -214,7 +214,7 @@ Snapchat's Sponsored Content API — a DSA-mandated transparency feed — change
 
 ### What our data reveals
 
-**Sponsored Content dataset:** 230,267 content pieces from 61,761 distinct creators. Of these, 26,540 pieces (11.5%) carry a named sponsor, linking 3,415 unique creators to 2,987 distinct sponsor brands via 3,897 unique creator-sponsor pairings.
+**Sponsored Content dataset:** 230,267 content pieces from 61,761 distinct creators. Of these, 26,540 pieces (11.5%) carry a named sponsor, linking 3,484 unique creators to 3,039 distinct sponsor brands via 3,982 unique creator-sponsor pairings.
 
 **Content format split:**
 
@@ -258,7 +258,7 @@ Note: The current sample is dominated by MENA-region and Turkish sponsors (refle
 | 3-5 | 84 | 2.5% |
 | 6+ | 10 | 0.3% |
 
-**Caveat on the 91.9% figure:** 1,824 of the 3,415 creators (53%) have only a single content piece — they are "exclusive" by definition. Among creators with 6-20 pieces, exclusivity drops to 81.2%. Among creators with 20+ pieces (the strongest signal), exclusivity is 62.7%. Still significantly higher than Instagram/TikTok norms, but the headline 91.9% overstates the strength of the finding. The honest framing: **Snapchat creator-brand relationships skew heavily exclusive — roughly 63-82% among active creators — substantially different from multi-platform norms.**
+**Caveat on the 91.9% figure:** 1,824 of the 3,484 creators (52%) have only a single content piece — they are "exclusive" by definition. Among creators with 6-20 pieces, exclusivity drops to 81.2%. Among creators with 20+ pieces (the strongest signal), exclusivity is 62.7%. Still significantly higher than Instagram/TikTok norms, but the headline 91.9% overstates the strength of the finding. The honest framing: **Snapchat creator-brand relationships skew heavily exclusive — roughly 63-82% among active creators — substantially different from multi-platform norms.**
 
 The 10 multi-brand creators (6+ sponsors) are the platform's "professional influencers" — working across categories from beauty to home goods to charity. They represent recruitment opportunities for brands entering the platform.
 
@@ -337,7 +337,7 @@ This metadata enables automated competitive content categorization:
 
 This finding (validated in `experiments/04_sponsor_advertiser_overlap.sql`) is itself one of the most valuable influencer insights:
 
-- **For brands in the paid-ads-only camp:** Snapchat creator collaborations are an untapped channel. Every competitor ignoring it is an opportunity.
+- **For brands in the paid-ads-only camp:** Snapchat creator collaborations are an untapped channel. Competitors not investing here represent an opportunity.
 - **For brands already using creators:** The absence of major luxury brands from creator sponsorships means less competition for top Snapchat creators.
 - **For platforms like Ravineo:** This gap means two completely independent datasets with zero overlap — each reveals a dimension of competitor activity invisible to the other. A client using only ad-library tools sees nothing about creator strategy; a client using only influencer tools misses the paid spend picture.
 
@@ -388,11 +388,11 @@ Many brands encode actual creator identities in ad naming conventions. By parsin
 
 Each naming convention reveals the brand's internal taxonomy: HUGO BOSS uses `BLACK/COLLAB/SPTL/30_SEC/9X16/SOCI/INFL/JAYDE_PIERCE` (product line / campaign type / format / duration / aspect / channel / type / creator). Wild Cosmetics uses `UGCPOD_GRETA` — suggesting an organized "UGC Pod" of named creators. CAIAcosmetics encodes everything: `s:creator | c:biancaingrosso | p:liquid_blush | h:productdemonstration | af:tutorial`.
 
-This is a novel competitive intelligence method: **extracting creator identities from DSA-mandated ad naming conventions.** No other tool does this because it requires parsing the internal naming structure of individual advertisers from a public transparency feed.
+This is a novel competitive intelligence method: **extracting creator identities from DSA-mandated ad naming conventions.** We are not aware of any other tool doing this — it requires parsing the internal naming structure of individual advertisers from a public transparency feed.
 
 **Cross-platform verification confirms these are real, high-profile creators:**
 
-- **Bianca Ingrosso** (CAIA, 845K impressions): Swedish influencer with 1.4M Instagram followers, **co-founder of CAIA Cosmetics itself** — so CAIA's "creator ads" feature their own founder/face of brand. Revenue >$50M.
+- **Bianca Ingrosso** (CAIA, 845K impressions): Swedish influencer with 1.3M Instagram followers, **co-founder of CAIA Cosmetics itself** — so CAIA's "creator ads" feature their own founder/face of brand. Revenue >$50M (526M SEK in 2023).
 - **Jayde Pierce** (HUGO BOSS, 80K impressions): UK beauty/fashion influencer with 1.3M followers, active on Snapchat (@jaydepierce), partnerships with Pandora, ASOS, Burberry Beauty. **The HUGO BOSS collaboration is not publicly documented anywhere** — this DSA data reveals it before any press announcement.
 
 The Jayde Pierce finding illustrates the competitive intelligence value: a brand monitoring HUGO BOSS would discover their Snapchat creator partnership through ad library data before it's announced on any other channel.
@@ -438,7 +438,7 @@ This creates a three-layer intelligence stack for Ravineo's clients:
 2. **Layer 2: Paid creator amplification** (Ad Library ad name parsing) — Brands boosting creator content as paid ads, with spend/impression data
 3. **Layer 3: Undisclosed partnerships** (Ravineo's AI video analysis) — Brands appearing in creator content without disclosure
 
-No competitor offers all three layers. Ravineo is uniquely positioned to deliver the complete picture because they already have Layer 3 for Instagram/TikTok, and Layers 1-2 are now accessible for Snapchat via public DSA feeds.
+We have not found a competitor offering all three layers. Ravineo is uniquely positioned to deliver the complete picture because they already have Layer 3 for Instagram/TikTok, and Layers 1-2 are now accessible for Snapchat via public DSA feeds.
 
 ### Honest limitations
 
@@ -460,7 +460,7 @@ The influencer intelligence offering is **architecturally strong but data-thin t
 
 Three concrete steps, all using infrastructure we already have:
 
-**Step 1: Profile scraping for all 3,415 sponsored creators (~45 min)**
+**Step 1: Profile scraping for all 3,484 sponsored creators (~45 min)**
 
 We have a working profile scraper (`data_sources/snap_profiles/`). Running it on all sponsored creator usernames would add: follower count, bio, category (LIFESTYLE_INFLUENCER, FITNESS_PRO, etc.), spotlight engagement metrics (views, shares, boosts per video), related accounts (network graph), and account age. This transforms bare `creator_name` strings into rich creator profiles and enables creator tier analysis (mega/macro/mid/micro/nano) for each sponsor's creator portfolio.
 
@@ -484,11 +484,11 @@ See `experiments/08_influencer_enrichment_potential.sql` for quantified enrichme
 | --- | --- | --- | --- |
 | **Traackr** | Campaign management (with Snap API) | Creator Discovery API | Requires brand's own account; no competitor visibility |
 | **HypeAuditor** | Limited Snapchat coverage | AI + panel | Focuses on Instagram/TikTok; Snapchat is minimal |
-| **Modash** | No Snapchat | API + scraping | Instagram, TikTok, YouTube only |
-| **CreatorIQ** | Snap integration (2024) | Creator Discovery API | Execution tool, not competitive intelligence |
+| **Modash** | Minimal Snapchat (content library only) | API + scraping | Core database: Instagram, TikTok, YouTube |
+| **CreatorIQ** | Snap integration (2023-2024) | Creator Discovery API | Execution tool, not competitive intelligence |
 | **Our approach** | **Sponsored content graph + profile enrichment** | DSA-mandated disclosure + public scraping | Covers all DSA-disclosed sponsorships; enrichment pipeline ready but not yet run at scale |
 
-Our differentiator: **Every other tool helps you manage your own creator campaigns. We show you your competitors' creator campaigns.** The Sponsored Content API provides a competitive intelligence layer that campaign management platforms do not and cannot offer — because they rely on the brand's own API access, not public transparency data. The enrichment pipeline (Steps 1-2 above) is what transforms this from a name-and-URL directory into a full intelligence product.
+Our differentiator: **The tools we evaluated help you manage your own creator campaigns. We show you your competitors' creator campaigns.** The Sponsored Content API provides a competitive intelligence layer that campaign management platforms generally do not offer — because they rely on the brand's own API access, not public transparency data. The enrichment pipeline (Steps 1-2 above) is what transforms this from a name-and-URL directory into a full intelligence product.
 
 ### What this means for a Beiersdorf or Philips
 
@@ -501,7 +501,7 @@ The influencer offering has two tiers of value:
 3. **Content format intelligence** — "Gymshark gets 118K avg views per owned Spotlight. Stories carry sponsor tags 21% of the time vs 8% for Spotlights."
 4. **Competitive content benchmarking** — "How does our Spotlight strategy compare to Dior's 16 videos at 14K avg views?"
 5. **Paid creator intelligence** — "HUGO BOSS tested Jayde Pierce on Snapchat for one day in November 2025 — they're barely experimenting. Birkenstock is more mature with 6 countries."
-6. **Ravineo synergy** — Three-layer intelligence stack: disclosed (Sponsored Content), paid amplification (ad name parsing), and undisclosed detection (Ravineo AI). No competitor offers all three.
+6. **Ravineo synergy** — Three-layer intelligence stack: disclosed (Sponsored Content), paid amplification (ad name parsing), and undisclosed detection (Ravineo AI). We have not found a competitor offering all three.
 
 **Available after enrichment (Steps 1-2, ~4 hours of compute):**
 
@@ -517,8 +517,8 @@ The influencer offering has two tiers of value:
 
 | Use Case | Table | Key Fields | Status |
 | --- | --- | --- | --- |
-| Creator Network | `sponsored_content` | `sponsor_name`, `creator_name`, `creator_url` | 26,540 sponsored pieces, 3,897 unique pairs |
-| Exclusivity | `sponsored_content` | `sponsor_name`, `creator_name` | 3,415 creators, 2,987 sponsors |
+| Creator Network | `sponsored_content` | `sponsor_name`, `creator_name`, `creator_url` | 26,540 sponsored pieces, 3,982 unique pairs |
+| Exclusivity | `sponsored_content` | `sponsor_name`, `creator_name` | 3,484 creators, 3,039 sponsors |
 | Content Volume | `sponsored_content` | `creator_name`, `content_type`, `content_url` | 230,267 total pieces |
 | Brand Spotlights | `brand_profile_spotlights` | `brand`, `view_count`, `boost_count`, `hashtags` | 328 videos, 29 brands |
 | Creator Discovery | `explore_spotlight_creators` | `creator_username`, `view_count`, `keyword` | 312 videos, 234 creators |
@@ -529,7 +529,7 @@ The influencer offering has two tiers of value:
 | Creator Name Extraction | `brand_ads_fashion` | `ad_name` parsed for embedded creator names | 13 brand-creator pairs, 7 brands, 5.1M impressions |
 | Creator Database | `sponsored_content` | All `creator_name` + `creator_url` entries | 61,761 unique creators, 230K content pieces |
 | Ravineo Synergy | All layers combined | Disclosed + paid amplification + undisclosed detection | Three-layer intelligence stack |
-| **Enrichment potential** | `sponsored_content` → profile scraper | 3,415 sponsored + 58K unsponsored creator usernames | **Not yet run** — ~45 min (sponsored) or ~14h (all) |
+| **Enrichment potential** | `sponsored_content` → profile scraper | 3,484 sponsored + 58K unsponsored creator usernames | **Not yet run** — ~45 min (sponsored) or ~14h (all) |
 | **Engagement potential** | `sponsored_content` → spotlight scraper | 13,876 Spotlight URLs | **Not yet run** — ~3 hours to execute |
 
 ---
@@ -542,9 +542,9 @@ The influencer offering has two tiers of value:
 
 On Instagram, TikTok, and YouTube, any competitor can visit a brand's profile and see follower count, post history, engagement, and content strategy in seconds. Tools like Socialinsider, Sprout Social, and Rival IQ automate this at scale.
 
-**Snapchat is fundamentally different.** Public profiles exist, but the platform's design prioritizes privacy and ephemerality. Stories disappear. Spotlight content is surfaced algorithmically, not through profile browsing. There is no public follower count on most profiles. No third-party tool monitors Snapchat organic brand presence at scale because the data is hard to collect and the platform discourages competitive browsing.
+**Snapchat is fundamentally different.** Public profiles exist, but the platform's design prioritizes privacy and ephemerality. Stories disappear. Spotlight content is surfaced algorithmically, not through profile browsing. There is no public follower count on most profiles. No major third-party tool that we've identified monitors Snapchat organic brand presence at scale — the data is hard to collect and the platform discourages competitive browsing.
 
-Our profile scraper changes this. By systematically collecting public profile data, Spotlight content, and engagement metrics for 100 fashion/luxury brands, we've built the first competitive organic intelligence dataset for Snapchat.
+Our profile scraper changes this. By systematically collecting public profile data, Spotlight content, and engagement metrics for 100 fashion/luxury brands, we've built what appears to be the first publicly documented competitive organic intelligence dataset for Snapchat.
 
 **What marketing directors actually want to know:**
 
@@ -858,7 +858,7 @@ Early adopters (2019-2021) average 36K subscribers. Brands that joined in 2022+ 
 
 > *"Balenciaga has 16 AR lenses including 'Fitting Room' (virtual try-on) and 'Triple S2 Sneakers'. Nike has 16 including 'Nike Running' and 'Nike By You'. Gucci has 16. 339 brand AR lenses across 61 brands — completely unanalyzed until now."*
 
-Snapchat is THE AR platform — 250 million users interact with AR lenses daily. Brand AR lenses are a major organic investment that no competitive tool monitors. Our profile scraper already collects lens data:
+Snapchat is THE AR platform — over 350 million users interact with AR lenses daily, generating 8 billion lens plays per day (Q3 2025 investor letter). Brand AR lenses are a major organic investment that, to our knowledge, no competitive tool monitors. Our profile scraper already collects lens data:
 
 | Brand | AR Lenses | Examples |
 | --- | ---: | --- |
@@ -970,7 +970,7 @@ The organic presence section is the **weakest of the three sections** in data de
 | **Manual research** | Visit each profile one at a time | Browser | Doesn't scale; no engagement data; no historical tracking |
 | **Our approach** | **Systematic competitive profiling** | Public profile scraping + Spotlight engagement | Covers all target brands; engagement data where available; repeatable |
 
-The fundamental gap: **every existing tool gives you analytics for your own Snapchat account.** None provides competitive visibility into other brands' organic presence, content strategy, or engagement performance. Our scraper fills this gap entirely.
+The fundamental gap: **the tools we evaluated give you analytics for your own Snapchat account.** None we found provides competitive visibility into other brands' organic presence, content strategy, or engagement performance at scale. Our scraper fills this gap.
 
 ### What this means for a Beiersdorf or Philips
 
@@ -1017,11 +1017,11 @@ The fundamental gap: **every existing tool gives you analytics for your own Snap
 
 *Original brief question: Potential misuse (disinformation, scam ads, fake influencers).*
 
-### The key insight: Snapchat discloses more platform safety data than any other social platform — and nobody is using it for brand intelligence
+### The key insight: Snapchat's DSA disclosures contain unusually granular platform safety data — and nobody is using it for brand intelligence
 
 Under the DSA, Snapchat (as a Very Large Online Platform with 97.2M EU monthly active users) is required to publish granular moderation data. Our database contains **11.1 million individual content moderation decisions** from the EC DSA Statement of Reasons repository — every enforcement action taken on the platform, with category, content type, automation status, source, and date. On top of this, Snapchat publishes semi-annual transparency reports with enforcement statistics, proactive detection rates, user report breakdowns, appeal outcomes, and per-country user base data.
 
-No B2C brand safety tool currently mines this data for competitive intelligence. Existing tools (DoubleVerify, IAS, Zefr) focus on *your own* ad adjacency — did your ad appear next to harmful content? They don't answer the strategic question: **how risky is this platform for my brand, and how is that risk changing over time?**
+To our knowledge, no B2C brand safety tool currently mines DSA transparency data for competitive intelligence. Existing tools (DoubleVerify, IAS, Zefr) focus on *your own* ad adjacency — did your ad appear next to harmful content? They don't answer the strategic question: **how risky is this platform for my brand, and how is that risk changing over time?**
 
 **What marketing directors actually want to know:**
 
@@ -1090,7 +1090,7 @@ Two numbers stand out: **745,874 impersonation reports** with a 0.1% enforcement
 
 #### 4.2 Brand Impersonation Monitoring
 
-> *"28 of 100 tracked brand usernames are squatted by personal accounts. 8 of those are actively paying Snapchat for ads — Canada Goose (€364K spend while '𝒶𝓎𝒹𝑒𝓃' holds @canadagoose). Globally, 745,874 impersonation reports are filed but only 7,138 (0.1%) result in enforcement."*
+> *"28 of 100 tracked brand usernames are squatted by personal accounts. 8 of those are actively paying Snapchat for ads — Canada Goose (€364K spend while '𝒶𝓎𝒹𝑒𝓃' holds @canadagoose). Globally, 745,874 impersonation reports are filed but only 7,086 (0.1%) result in enforcement."*
 
 This use case cross-references three data sources:
 
@@ -1389,7 +1389,7 @@ The `vvr_pct` field in Snapchat's transparency data quantifies how much violatin
 | Impersonation | 0.009% | 1 in 11,111 views |
 | False Information | 0.002% | 1 in 50,000 views |
 
-**This is a directly quantifiable brand safety metric.** If a brand's Snapchat campaign generates 10M views, statistically ~48,200 of those views occur alongside sexual content violations, ~9,600 alongside threats/violence, and ~960 alongside CSEA content. No competing brand safety tool provides this level of platform-wide exposure quantification.
+**This is a directly quantifiable platform-level brand safety metric.** At a platform-wide level, for every 10M content views on Snapchat, statistically ~48,200 involve sexual content violations, ~9,600 involve threats/violence, and ~960 involve CSEA content. This does not mean brand ads are directly adjacent to this content (Snapchat claims 99%+ brand safety for ad placements — see Honest Limitation #11), but it quantifies the overall platform risk environment. To our knowledge, no competing brand safety tool provides this level of platform-wide risk quantification derived from DSA transparency data.
 
 #### 4.7b Cross-Platform Comparison (Snapchat vs TikTok)
 
@@ -1437,7 +1437,7 @@ CSEA has a 4.7% appeal overturn rate — meaning **4,179 pieces of content flagg
 
 #### 4.9 Child Safety & Platform Existential Risk
 
-> *"2.71 million moderation decisions for sexual content and protection of minors — 24.4% of all Snapchat moderation. In H1 2025 alone, Snapchat enforced 5.46M sexual content violations and 1.10M CSEA (Child Sexual Exploitation & Abuse) violations. Snapchat faces simultaneous investigations from the EU, Australia, and UK — the first platform to be under child safety pressure from three major jurisdictions at once."*
+> *"2.71 million moderation decisions for sexual content and protection of minors — 24.4% of all Snapchat moderation. In H1 2025 alone, Snapchat enforced 5.46M sexual content violations and 1.10M CSEA (Child Sexual Exploitation & Abuse) violations. Snapchat faces simultaneous investigations from the EU, Australia, and UK — making it one of multiple platforms currently under concurrent child safety pressure from three or more major jurisdictions."*
 
 This is the issue that keeps platform executives awake at night — and increasingly, brand CMOs too.
 
@@ -1479,7 +1479,7 @@ Over half of "protection of minors" decisions involve no content removal — the
 | Jurisdiction | Action | Date | Focus | Penalty |
 | --- | --- | --- | --- | --- |
 | **EU** | DSA formal investigation | March 2026 | Age verification, grooming, illegal goods | Up to 6% of global annual revenue |
-| **Australia** | eSafety Commissioner investigation | Dec 2025 | Under-16 ban compliance, age verification loopholes | Enforcement notices, fines |
+| **Australia** | eSafety Commissioner investigation | March 2026 | Under-16 ban compliance (ban effective Dec 2025), age verification loopholes | Up to AUD $49.5M per violation |
 | **UK** | Ofcom + ICO joint demand | March 2026 | Stranger contact restrictions, age checks by April 30, 2026 | Online Safety Act penalties |
 | **US (Utah)** | State complaint filed | June 2025 | Design features causing addiction in minors | State-level litigation |
 
@@ -1536,7 +1536,7 @@ Snapchat faces a unique vulnerability beyond generic child safety. New Mexico's 
 | Kuwait | 1,779 | $702,007 | 289M | 309 |
 | Denmark | 339 | $553,000 | 85M | 25 |
 
-Norway's #2 position ($19.5M) is remarkable for a 5.4M-population country — **$3.60 per capita, or $4.34 per Snapchat user**. Norwegian political parties treat Snapchat as a primary campaign channel. In Q3 2025 alone (the parliamentary election quarter), Høyre spent $1.82M and Arbeiderpartiet $1.80M — near-parity between the two main parties. Even the Labor Party youth wing (AUF) spent $109K, and the election directorate (Valgdirektoratet) ran 172 ads for voter mobilization. This reflects Snapchat's dominance among Nordic youth voters and makes Norway a case study for political advertising on the platform.
+Norway's #2 position ($19.5M) is remarkable for a 5.4M-population country — **$3.60 per capita, or ~$5.43 per Snapchat user** (based on Statista's 3.58M Norwegian users, Feb 2025). Norwegian political parties treat Snapchat as a primary campaign channel. In Q3 2025 alone (the parliamentary election quarter), Høyre spent $1.82M and Arbeiderpartiet $1.80M — near-parity between the two main parties. Even the Labor Party youth wing (AUF) spent $109K, and the election directorate (Valgdirektoratet) ran 172 ads for voter mobilization. This reflects Snapchat's dominance among Nordic youth voters and makes Norway a case study for political advertising on the platform.
 
 **Election cycle patterns (quarterly spend, 2022-2026):**
 
@@ -1669,7 +1669,7 @@ This use case synthesizes findings from all sections into a unified brand risk p
 | **Trusted Flagger void** | §4 Misuse | Only 3,642 TF decisions out of 11.1M (0.033%); zero for IP | Critical |
 | **Political CPM premium** | §4 Misuse | Norway $22.23 CPM vs US $5.72 — 3.9x geographic premium | Medium |
 
-This integrated view is Ravineo's differentiator: no competitor tool connects ad spend monitoring, influencer verification, organic presence tracking, platform safety data, child safety metrics, political ad intelligence, moderation staffing analysis, cross-platform comparison, and Trusted Flagger strategy into a single brand risk dashboard.
+This integrated view is Ravineo's differentiator: we have not found a competitor tool that connects ad spend monitoring, influencer verification, organic presence tracking, platform safety data, child safety metrics, political ad intelligence, moderation staffing analysis, cross-platform comparison, and Trusted Flagger strategy into a single brand risk dashboard.
 
 ### Honest limitations
 
@@ -1677,7 +1677,7 @@ This integrated view is Ravineo's differentiator: no competitor tool connects ad
 
 2. **Our local ec_dsa_sor has no brand linkage.** Individual moderation records have UUID, category, content type, date, and automation status — but no brand name, advertiser name, or content description. The EC Research API partially solves this by allowing keyword searches, though results are capped at 1,000 per query and cover only a 6-month rolling window.
 
-3. **Snapchat faces multi-jurisdictional investigation.** EU (DSA proceedings, March 2026), Australia (under-16 ban compliance, December 2025), and UK (Ofcom/ICO demands, deadline April 30, 2026) are all investigating simultaneously. The combined regulatory pressure could lead to rapid, uncoordinated platform changes affecting brand campaigns. Additionally, the EU's legal basis for CSAM scanning expired April 3, 2026 — creating a detection gap that Snap has pledged to cover voluntarily.
+3. **Snapchat faces multi-jurisdictional investigation.** EU (DSA proceedings, March 2026), Australia (under-16 ban compliance investigation, March 2026; ban effective December 2025), and UK (Ofcom/ICO demands, deadline April 30, 2026) are all investigating simultaneously. The combined regulatory pressure could lead to rapid, uncoordinated platform changes affecting brand campaigns. Additionally, the EU's legal basis for CSAM scanning expired April 3, 2026 — creating a detection gap that Snap has pledged to cover voluntarily.
 
 4. **Political ad data has currency mixing.** Political ads report actual spend, but in 11 different currencies (USD, EUR, NOK, AUD, CAD, INR, GBP, DKK, AED, etc.). Cross-country spend comparisons require currency normalization. The $117.5M total is a nominal sum across currencies, not a purchasing-power-adjusted figure.
 
@@ -1711,7 +1711,7 @@ This integrated view is Ravineo's differentiator: no competitor tool connects ad
 | **Starseed** | Counterfeit intelligence | Flagged 310M+ counterfeits globally | Revenue-focused ($162M impact measured); no platform risk analysis |
 | **Our approach** | **Platform-wide risk intelligence** | DSA moderation data + ad library + profile scraping + EC Research API | Covers all platform safety dimensions; no brand-specific content linkage in local DSA data |
 
-The brand protection market is significant — Starseed alone reports top clients saving an average of $90.5M annually, and platforms like NexifyAI claim 99.9% protection rates. But these tools are built for **e-commerce takedowns** (marketplace listings, fake websites). None of them offer what the DSA transparency data enables: **platform-level risk quantification for social advertising platforms**.
+The brand protection market is significant — Starseed alone reports top clients saving an average of $90.5M annually, and platforms like NexifyAI claim 99.9% protection rates. But these tools are built for **e-commerce takedowns** (marketplace listings, fake websites). To our knowledge, none of them offer what the DSA transparency data enables: **platform-level risk quantification for social advertising platforms**.
 
 The fundamental gap: **existing tools protect your own ads. We quantify the platform-wide risk environment.** A DoubleVerify dashboard says "your Nike ad was 99% brand-safe." We say "Snapchat processes 40,000 scam decisions per month, impersonation enforcement is 0.1%, and someone called 'Jordan ✨💯🎶' is running DEEP\_LINK ads using Nike's Jordan brand name across 6 EU countries — here's the systemic risk picture."
 
@@ -1721,7 +1721,7 @@ The fundamental gap: **existing tools protect your own ads. We quantify the plat
 
 1. **Risk briefing** — "Here's Snapchat's safety profile: 11.1M moderation decisions, 2.71M child-safety-related (24.4%), 1.26M scam-related, impersonation poorly enforced. This is how it compares to TikTok (20x more content removed, 7x higher automation)."
 2. **Brand-specific alerts** — "Your username is available / squatted. No third-party ads using your brand name detected. Your influencer partners show no promotion-mill red flags."
-3. **Brand exposure quantification** — "For every 10M views your campaign generates, statistically ~48,200 occur alongside sexual content violations (VVR 0.482%) and ~960 alongside CSEA content. Here's your platform-wide adjacency risk."
+3. **Brand exposure quantification** — "At the platform level, 1 in 207 Snapchat views involves sexual content violations (VVR 0.482%). This is the environment your ads run in — here's how it compares to TikTok and what it means for your risk tolerance."
 4. **Child safety risk assessment** — "Snapchat faces simultaneous investigations from EU, Australia, and UK for child safety failures. 321,587 NCMEC submissions in H1 2025 alone. Here's how this affects your advertising strategy."
 5. **IP enforcement reality check** — "If you file an IP notice, expect a 5-day wait. If actioned, there's only a 3.3% chance the infringer's account is suspended. Here's what that means for your protection strategy."
 6. **Regulatory context** — "EU opened DSA proceedings in March 2026. Australia is investigating under-16 ban compliance. UK demands age check changes by April 30, 2026. Here's the timeline and impact assessment."
@@ -1748,7 +1748,7 @@ The fundamental gap: **existing tools protect your own ads. We quantify the plat
 | Platform Risk Scorecard | `ec_dsa_sor` | `category`, `content_type`, `application_date` | 11.1M decisions, 16 categories |
 | Brand Impersonation | `brand_profiles` + `brand_ads_fashion` + `ec_dsa_sor` | Cross-reference profile, ad names, impersonation stats | 28 squatted + ad name scanning |
 | Scam Trends | `ec_dsa_sor` | `category`, `application_date` | Monthly trends, Sep 2023 - Apr 2026 |
-| Fake Influencer Flags | `sponsored_content` | `creator_name`, `sponsor_name`, `content_type` | 3,415 sponsored creators, pattern analysis |
+| Fake Influencer Flags | `sponsored_content` | `creator_name`, `sponsor_name`, `content_type` | 3,484 sponsored creators, pattern analysis |
 | Disinformation Risk | `global_user_reports_by_policy` + `ec_dsa_sor` | `policy`, `reports`, `enforcements` | 607K reports, near-zero enforcement |
 | Legal Ground Classification | `ec_dsa_sor` | `decision_ground` | 99.97% T&C vs 0.03% illegal — DSA implications |
 | Automation Gap | `ec_dsa_sor` | `automated_detection`, `automated_decision` | Detection and decision automation rates |

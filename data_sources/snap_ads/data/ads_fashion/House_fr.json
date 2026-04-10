@@ -1,15 +1,1477 @@
 {
   "brand": "House",
   "country": "fr",
-  "fetched_at": "2026-04-09T22:24:54.782Z",
+  "fetched_at": "2026-04-10T05:29:31.349Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "377de6f9-05ad-4764-922b-9ce986de814c",
-        "name": "NMY871------SKOverlay",
+        "id": "216dd587-c16b-4569-b0d5-8a0c03c3558d",
+        "name": "GOTZR192_AR_FZT2-AR-赛车哥缩中部版_1080x1920.mp4",
+        "ad_account_name": "appKingshot-diandianhudong-/-MH-ZT-Gaming-GOT_AND_02",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "ar"
+        ],
+        "headline": "تحذير: سوف تدمن هذه اللعبة.",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9lcVYZQNkCvPA6seQffhm.67?mo=GuECGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUIm_nMASABMOADONQGQAFKDgoJdBorMB4nIh0hEPQDUPawAmgCIgYKAkgEEgCiATQIugoSJwolCInNyQEgATDQBTiACkACSg4KCXMeLSsiLB8nIxD0A1D2sAJoAiIGCgJIAxIAogEzCH8SJwolCLfVjwEgATDgAzjUBkACSg4KCV4UHx0VFx0UGBD0A1D2sAJoAiIGCgJIAhIAogE0CJIKEicKJQjFh5gBIAEw4AM41AZAAkoOCglfECYfGxwbHRkQ9ANQ9rACaAIiBgoCSAISAKIBNAjEChInCiUIu_-CASABMOADONYGQAJKDgoJWBIeHRUcFBgWEPQDUPawAmgCIgYKAkgCEgCiATQI0goSJwolCImcjQEgATDgAzjUBkACSg4KCVwTIB0XHxUcFxD0A1D2sAJoAiIGCgJIAhIAkAP2sAI%3D&uc=15",
+        "start_date": "2025-06-13T13:13:35.000Z",
+        "impressions_total": 16183,
+        "impressions_map": {
+          "de": 1065,
+          "be": 253,
+          "fi": 119,
+          "pt": 31,
+          "bg": 2295,
+          "dk": 61,
+          "lt": 19,
+          "lu": 57,
+          "hr": 29,
+          "lv": 0,
+          "fr": 909,
+          "hu": 24,
+          "se": 362,
+          "si": 12,
+          "sk": 20,
+          "ie": 95,
+          "ee": 0,
+          "el": 396,
+          "mt": 0,
+          "it": 970,
+          "es": 386,
+          "at": 187,
+          "cy": 0,
+          "cz": 189,
+          "pl": 249,
+          "ro": 135,
+          "nl": 942,
+          "tr": 7378
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "19",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [
+                "ar"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "os_version_min": "6.0.0",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "profile_name": "Kingshot",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNzNvNHdGOXlxZjdDWHNVeFh3cERrP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "app_install_preview": {
+          "app_name": "Kingshot",
+          "ios_app_id": "6739554056",
+          "android_app_url": "com.run.tower.defense",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/DvExmekhGuFmag0hPdbB5.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "268c1cff-f09f-4c53-a590-6ff7a6dd3269",
+        "name": "四格collection_EN",
+        "ad_account_name": "DHgate-DHgate APP-MH-DT-EC-06",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Find Your Joy, Shop Now!",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-03-20T03:58:28.000Z",
+        "impressions_total": 549,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 549,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "brand_name": "dhgate",
+        "profile_name": "DHgateOfficial",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRzVBSVZPZGtsejd1Q1h6cTZrUDZHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "collection_preview": {
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/wweLSCgRbdkmpuAXEiblG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "All pictures are taken in kind, please rest assured to buy, if you need physical pictures, please contact us. We will deliver the goods to you as quickly as possible after you place the order. If you have any questions, you can ask our customer service gym set delivery time: about 15 days. Service method: ePacket, DHL, UPS, TNT, China Post Air Mail. Professional e-commerce services and high-quality products, you will be satisfied in ourstore. This store mainly wholesales and sells, and all products are high-quality products provided by our factory Welcome to the ksysy store!. All products in our store are photographed in real life.Due to the monitor, lighting conditions, or different batches,here may be slight color differences.lf you have special requirements,please contact customer service..syi",
+              "brand": "ksysy",
+              "custom_label_0": "Sports & Outdoors > Fitness Supplies",
+              "custom_label_1": "",
+              "custom_label_2": "024 > 024064",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Sports & Outdoors > Fitness Supplies > Yoga"
+              ],
+              "size": "",
+              "title": "10A Bra leggings Set Women Soft Elastic Yoga Pants Gym Set Bag Pants Outfits Lady Sports Pants Fitness Supplies Bra Set Sports Bra Shorts sets Yoga Women Clothes",
+              "link": "https://www.dhgate.com/dmarket/channelLP.html?f=yf%7Cignore%7Ck-zone%7C2-ppc-snapchat%7CO23-S8aaac2ad919357620191adeb8aac0d9d-D024064004-I1069511485-Fhttp%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7C&itemCode=&linkPage=channelSale"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/s9TPsqkLRSOX2Ct0qzVSu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Product dimensions are measured by manually and may vary,As the shooting light, angle and color displays, physical some differences! Kind prevail. if you mind, please buy with caution.",
+              "brand": "outdoorsyoga",
+              "custom_label_0": "Sports & Outdoors > Fitness Supplies",
+              "custom_label_1": "",
+              "custom_label_2": "024 > 024064",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Sports & Outdoors > Fitness Supplies > Yoga"
+              ],
+              "size": "",
+              "title": "Christmas Limited Edition Dfynes Set News Yoga Dfynes Set For Women Seamless Zipper Top Quick Drying Sports Yoga Bra Fitness Running Running Dfynes Legging Yoga 8Ae",
+              "link": "https://www.dhgate.com/dmarket/channelLP.html?f=yf%7Cignore%7Ck-zone%7C2-ppc-snapchat%7CO23-S8aaad512984fe6f9019853ce0ad9214f-D024064004-I1086405421-Fhttp%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7C&itemCode=&linkPage=channelSale"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/yPRgItcPyL3qOfUEkrXsP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "shipping time is about 10-15 days. All with tag and symbol Due to shooting light, angle and color display, the actual object is slightly different! The actual product shall prevail. We accept mixed order, Please leave massage in the order. we are professional clothing supplier for Men and Women jacket. Just Choose What you want to wear, welcome to ksysy store Variety meets durability: Available in multiple sizes catering to diverse body types, these garments withstand rigorous physical demands yet remain stylish enough for post-workout casual outings too..syi",
+              "brand": "ksysy",
+              "custom_label_0": "Sports & Outdoors > Fitness Supplies",
+              "custom_label_1": "",
+              "custom_label_2": "024 > 024064",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Sports & Outdoors > Fitness Supplies > Yoga"
+              ],
+              "size": "",
+              "title": "10A Hot Sweatshirt Sale Breathable Sweatshirts Sports Top Matching Sweatpants Daliy Wear Casual leggings yoga Soft pant sets gym set gym clothing women sweatpants",
+              "link": "https://www.dhgate.com/dmarket/channelLP.html?f=yf%7Cignore%7Ck-zone%7C2-ppc-snapchat%7CO23-S8aaac2ad919357620191adeb8aac0d9d-D024064004-I1074844987-Fhttp%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7C&itemCode=&linkPage=channelSale"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/eNIBV66jfAckvxDruNDEj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Product dimensions are measured by manually and may vary,As the shooting light, angle and color displays, physical some differences! Kind prevail. if you mind, please buy with caution.",
+              "brand": "outdoorsyoga",
+              "custom_label_0": "Sports & Outdoors > Fitness Supplies",
+              "custom_label_1": "",
+              "custom_label_2": "024 > 024064",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Sports & Outdoors > Fitness Supplies > Yoga"
+              ],
+              "size": "",
+              "title": "Dfynes Dyfne Set Short Alternative Candy Color Three-Section Waist Hip-Lifting Seamless Low-Waist Three-Quarter Leggings Pants Fiess Yoga Shorts Womens Yoga 41B",
+              "link": "https://www.dhgate.com/dmarket/channelLP.html?f=yf%7Cignore%7Ck-zone%7C2-ppc-snapchat%7CO23-S8aaad512984fe6f9019853ce0ad9214f-D024064004-I1088587848-Fhttp%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7C&itemCode=&linkPage=channelSale"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/2RXihwVbGLoX1lawA9pRB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "High comfort: Yoga clothing has a soft texture, comfortable to wear, and can meet the needs of yoga exercise. Good breathability: The yoga suit material has good breathability, which can help sweat and keep the body dry. Tight fit design: Yoga clothing usually adopts a tight fit design, which can better showcase body lines and reduce friction and resistance during exercise. High elasticity: Yoga clothing has high elasticity and can adapt to various stretches and movements, making it convenient to perform various yoga movements. Vivid colors: Yoga clothing usually uses bright colors, which can increase the pleasure during exercise and also better showcase personal charm.",
+              "brand": "outdoorsyoga",
+              "custom_label_0": "Sports & Outdoors > Fitness Supplies",
+              "custom_label_1": "",
+              "custom_label_2": "024 > 024064",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Sports & Outdoors > Fitness Supplies > Yoga"
+              ],
+              "size": "",
+              "title": "Dfynes Dyfne Set Short Alternative Candy Color Three-Section Waist Hip-Lifting Seamless Low-Waist Three-Quarter Leggings Pants Fiess Yoga Shorts 4D3",
+              "link": "https://www.dhgate.com/dmarket/channelLP.html?f=yf%7Cignore%7Ck-zone%7C2-ppc-snapchat%7CO23-S8aaad512984fe6f9019853ce0ad9214f-D024064004-I1081851005-Fhttp%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7C&itemCode=&linkPage=channelSale"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/NrsfIxAHDZ1kLedt49oPO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Thank you very much for your browsing, I hope our products will not let you down",
+              "brand": "outdoorsyoga",
+              "custom_label_0": "Sports & Outdoors > Fitness Supplies",
+              "custom_label_1": "",
+              "custom_label_2": "024 > 024064",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Sports & Outdoors > Fitness Supplies > Yoga"
+              ],
+              "size": "",
+              "title": "2025 10A Yoga Leggings Women Pants Outfits Lady Sports Hoodie Yoga Fashion Ladies Exercise Fiess Wear Girls Running Ninth Pants Leggings Adanolas C80",
+              "link": "https://www.dhgate.com/dmarket/channelLP.html?f=yf%7Cignore%7Ck-zone%7C2-ppc-snapchat%7CO23-S8aaad512984fe6f9019853ce0ad9214f-D024064004-I1082520712-Fhttp%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7C&itemCode=&linkPage=channelSale"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ossvFpNV51tqvxnaclOx9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "shipping time is about 10-15 days. All with tag and symbol We will deliver the goods to you as quickly as possible after you place the order. If you have any questions, you can ask our customer service The quality of our products is very good. The quality and style of the sets you see are the products and quality you will receive. Welcome to upfit store to place your order. Here, we will provide you with the most favorable prices and the best quality service ggfsd store Anti-friction design, soft and skin-friendly, reduces friction with the skin during exercise. Long-term exercise won't burn your skin, allowing you to fully devote yourself to it. welcome to ksysy store.syi",
+              "brand": "ksysy",
+              "custom_label_0": "Sports & Outdoors > Fitness Supplies",
+              "custom_label_1": "",
+              "custom_label_2": "024 > 024064",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Sports & Outdoors > Fitness Supplies > Yoga"
+              ],
+              "size": "",
+              "title": "10A Top Breathable Men Solid Fall Full Zipper Hoodie Coat Athletic Casual T-shirt Basic Underwear Comfort Sports Lounge Socks Pants sets aloness Men Hoodie Jacket",
+              "link": "https://www.dhgate.com/dmarket/channelLP.html?f=yf%7Cignore%7Ck-zone%7C2-ppc-snapchat%7CO23-S8aaac2ad919357620191adeb8aac0d9d-D024064004-I1071127054-Fhttp%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7C&itemCode=&linkPage=channelSale"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/9zyOXEEl2iHNzNOsTXL5x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "shipping time is about 10-15 days. All with tag and symbol We will deliver the goods to you as quickly as possible after you place the order. If you have any questions, you can ask our customer service The quality of our products is very good. The quality and style of the sets you see are the products and quality you will receive. Welcome to upfit store to place your order. Here, we will provide you with the most favorable prices and the best quality service ggfsd store.syi",
+              "brand": "cozyworld",
+              "custom_label_0": "Sports & Outdoors > Fitness Supplies",
+              "custom_label_1": "",
+              "custom_label_2": "024 > 024064",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Sports & Outdoors > Fitness Supplies > Yoga"
+              ],
+              "size": "",
+              "title": "2026 10A Quality New Hot sale Zipper Coat Basic yoga Suit Gym Tracksuit Hooded sweater clothes Comfort Athletic Lounge set Pants Hoodie men women",
+              "link": "https://www.dhgate.com/dmarket/channelLP.html?f=yf%7Cignore%7Ck-zone%7C2-ppc-snapchat%7CO23-S8aaadd9694f3bbc601950311268562ec-D024064004-I1089566117-Fhttp%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7C&itemCode=&linkPage=channelSale"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/JUsC33iU07V0NVLzlgaa3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Experience ultimate comfort with our No-Show Seam Peach Butt Yoga Pants, designed to enhance your natural curves while providing a smooth silhouette during all your workouts. Achieve a flattering silhouette with the High-Waisted Lift feature that accentuates your waist and offers superior support for high-intensity activities, making these leggings perfect for running or gym sessions. Crafted from high-stretch materials, these High Elastic Bare Feel Running and Fitness Pants ensure unrestricted movement, allowing you to perform your workouts with confidence and ease..syi",
+              "brand": "ksysy",
+              "custom_label_0": "Sports & Outdoors > Fitness Supplies",
+              "custom_label_1": "",
+              "custom_label_2": "024 > 024064",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Sports & Outdoors > Fitness Supplies > Yoga"
+              ],
+              "size": "",
+              "title": "High Waist Yoga 5A quality Leggings Women Push-up Soft Align Elastic Hip Lift Sports Pants Running Training Lady legging",
+              "link": "https://www.dhgate.com/dmarket/channelLP.html?f=yf%7Cignore%7Ck-zone%7C2-ppc-snapchat%7CO23-S8aaac2ad919357620191adeb8aac0d9d-D024064004-I1038721133-Fhttp%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7C&itemCode=&linkPage=channelSale"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ahhpOKM7xbHm2uQ9OOmQp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Thank you very much for your browsing, I hope our products will not let you down.Welcome to the mmhsgs store shipping time is about 10-15 days.We hope that our products will satisfy you. Our product quality assurance, our company's slogan is: not the pursuit of lower prices, but the pursuit of the highest Welcome to our shop, we will provide you with quality products and the most preferential price high quality goods wholesale, good work. Crafted from thick steel and brass materials, these durable brass knuckles offer superior protection during self-defense situations. Designed for universal compatibility, whether worn by women or men, making them an inclusive tool for personal security enthusiasts..syi",
+              "brand": "ksysy",
+              "custom_label_0": "Sports & Outdoors > Fitness Supplies",
+              "custom_label_1": "",
+              "custom_label_2": "024 > 024064",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Sports & Outdoors > Fitness Supplies > Boxing"
+              ],
+              "size": "",
+              "title": "knuckle dusters 2026 5A TOP Thick Steel Boxing Brass Knuckle Dusters with Rope Self Defense Personal Security Women and Men Fitness Supplies Pendant Gym Workout Sets",
+              "link": "https://www.dhgate.com/dmarket/channelLP.html?f=yf%7Cignore%7Ck-zone%7C2-ppc-snapchat%7CO23-S8aaac2ad919357620191adeb8aac0d9d-D024064003-I1075275705-Fhttp%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7C&itemCode=&linkPage=channelSale"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "四格collection_EN",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "AUTOMATIC",
+            "text_fields": [
+              "title",
+              "price"
+            ],
+            "price_display_type": "STRIKETHROUGH"
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d95fd0aa-2c61-480c-8fc7-f13a87b586a1",
+        "name": "809731",
+        "ad_account_name": "md_AppLandsofJail-aileyou_SG骏游_android_Lands of Jail_Social_snap_abing03-01",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "The latest prison crime theme RPG",
+        "call_to_action": "PLAY GAME",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dTVBYy5hXtndXUDe91sBs.67?mo=Go8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATcIQxIrCikIuchQIAEw4AM41AZAAUoOCgltMiEvHzsoIiYQ9ANQ9IABaAJ1_oVCQCIGCgJIBBIAogE5CLoKEiwKKgjAhHAgATDQBTiACkACSg8KCrsBO1Q0PERDRD0Q9ANQ9IABaAJ1zIFYQCIGCgJIAhIAogE9CJIKEjAKLgj4-TggATDgAzjUBkACSg4KCVUgIyUaLB0YGxD0A1D0gAFoAnVR-jlAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4It8s9IAEw4AM41AZAAkoOCglsIiodHUAVIh0Q9ANQ9IABaAJ1jnpHQH0AAIA_IgYKAkgCEgCQA_SAAQ%3D%3D&uc=15",
+        "start_date": "2025-10-13T10:13:38.000Z",
+        "impressions_total": 379223,
+        "impressions_map": {
+          "de": 6602,
+          "be": 7100,
+          "fi": 3273,
+          "pt": 2263,
+          "bg": 1850,
+          "dk": 2243,
+          "lt": 12292,
+          "lu": 1128,
+          "hr": 1588,
+          "lv": 0,
+          "fr": 289181,
+          "hu": 1242,
+          "se": 5809,
+          "si": 2294,
+          "sk": 5277,
+          "ie": 6307,
+          "ee": 0,
+          "el": 2102,
+          "mt": 0,
+          "it": 1335,
+          "es": 1344,
+          "at": 3429,
+          "cy": 0,
+          "cz": 917,
+          "pl": 5967,
+          "ro": 2154,
+          "nl": 7923,
+          "tr": 5603
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "20",
+              "max_age": "50",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "os_version_min": "10.1",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "brand_name": "Lands of Jail",
+        "app_install_preview": {
+          "app_name": "Lands of Jail",
+          "ios_app_id": "6738469826",
+          "android_app_url": "com.justgame.jails",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/uYhc1p7vdJtaIx6JvdaUH.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1410dcd3-9a36-4cea-8ba0-c69c202cd1e9",
+        "name": "Static_Generic_Wimbledon_Outright",
+        "ad_account_name": "FR_Betclic_Sportsbook",
+        "status": "PAUSED",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Jusqu'à 100€ reversés en Freebets*",
+        "call_to_action": "DOWNLOAD",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QSFlmaWJPOJcdpgJ8SXQV.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2024-08-07T12:27:14.000Z",
+        "impressions_total": 142428,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 142428,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "os_version_min": "7.1",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Equinox Limited, Suite 2B, Mansion House",
+        "brand_name": "Betclic Paris Sportifs & Poker",
+        "profile_name": "Betclic",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3NOTTQwbGw1dGhXZXpzRjNsN0hLP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "app_install_preview": {
+          "app_name": "Betclic Paris Sportifs & Poker",
+          "ios_app_id": "441081528",
+          "android_app_url": "sport.android.betclic.fr",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/4DI00aakL3FjsMwwDexTm.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjwlem4BkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "enable_skoverlay": false,
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d02511ff-9b88-476d-a1fd-1babf963419c",
+        "name": "video+collection_EN",
+        "ad_account_name": "DHgate-DHgate APP-MH-DT-EC-04",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Make Today a Shopping Day",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2024-07-19T07:31:46.000Z",
+        "impressions_total": 19861,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 18709,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 1152,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "collection_preview": {
+          "deep_link_properties": {
+            "deep_link_uri": "https://dhgate.onelink.me/YKj4?af_web_dp=https%3A%2F%2Fwww.dhgate.com%2Fproduct%2Finfo%2F811950962.html%3Ff%3Dbm%257csnapcchat%257c&af_xp=custom&pid=Snapchat&c=SNS_APP_Snapchat_CFF&deep_link_value=dhgate%3A%2F%2Fvirtual%3Fdes%3DitemDetail%26itemcode%3D911975467%26d1code%3Dbm%257csnapchat%257cRoselin%257ccreator05%257cRMKT%257cvideo%257c70%257c{{campaign.id}}%257c{{adSet.id}}%257c{{ad.id}}%257c&af_dp=dhgate%3A%2F%2Fvirtual%3Fdes%3DitemDetail%26itemcode%3D911975467%26d1code%3Dbm%257csnapchat%257cRoselin%257ccreator05%257cRMKT%257cvideo%257c70%257c{{campaign.id}}%257c{{adSet.id}}%257c{{ad.id}}%257c"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/BVTn4UIfQ3DWwGsbd1qUX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Expertly crafted using premium cotton fibers these designer knitting patterns ensure your little o",
+              "brand": "trendyclothes01",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Baby Kids & Maternity > Nursery Bedding > Blankets & Swaddling"
+              ],
+              "size": "",
+              "title": "Newborn babies girl boy fashion soft knit blankets designer knitted wrapping blanket crochet blanket swaddling nursing bedding wraps brown swaddle",
+              "link": "https://www.dhgate.com/product/newborn-babies-girl-boy-fashion-soft-knit/916379733.html?f=bm%7Csnapchat%7CtopGMV200BabyMaternity%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7c"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/PnIXeL1zOSOdYDxe6oTnI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Cute Bear Bookworm Graphic T Shirt Past My Bedtime Book Lover Funny Meme T-Shirts Women Unisex Short Sleeve Book Lover Tees Tops",
+              "brand": "ddmyfeb",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Baby Kids & Maternity > Maternity Supplies > Maternity Clothing > Maternity Sweaters"
+              ],
+              "size": "",
+              "title": "Cute Bear Bookworm Graphic T Shirt Past My Bedtime Book Lover Funny Meme T-Shirts Women Unisex Short Sleeve Book Lover Tees Tops",
+              "link": "https://www.dhgate.com/product/cute-bear-bookworm-graphic-t-shirt-past-my/996802758.html?f=bm%7Csnapchat%7CtopGMV200BabyMaternity%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7c"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/RgYEphaGhoOFL4WNuGSaZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "sale_price_effective_start_date": 1756998000000,
+              "sale_price_effective_end_date": 1759276740000,
+              "description": "Our packages are wrapped in soft foam bags ensuring that the shoes remain undamaged during the tra",
+              "brand": "fashion_luxury8",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Baby Kids & Maternity > Shoes > Athletic & Outdoor"
+              ],
+              "size": "",
+              "title": "2025 Kids TN Plus Kid DN Basketball Shoes Game Infants Royal Scotts Obsidian Chicago Bred Sneakers Melody Mid Multi Kids Casual shoes Size 10C-3Y",
+              "link": "https://www.dhgate.com/product/2025-kids-tn-plus-kid-dn-basketball-shoes/1055042135.html?f=bm%7Csnapchat%7CtopGMV200BabyMaternity%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7c"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ArqsAuTTGwiVHu44K658S.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Women s Summer Slim Tube Tops Solid Color 3D Flower Bandeau Croset Tops Streetwear",
+              "brand": "ddmyfeb",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Baby Kids & Maternity > Maternity Supplies > Breast Feeding# > Breast Pads"
+              ],
+              "size": "",
+              "title": "Women s Summer Slim Tube Tops Solid Color 3D Flower Bandeau Croset Tops Streetwear",
+              "link": "https://www.dhgate.com/product/women-s-summer-slim-tube-tops-solid-color/996825922.html?f=bm%7Csnapchat%7CtopGMV200BabyMaternity%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7c"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ajTvL6fW1dJ4MZ9RdgtDX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "sale_price_effective_start_date": 1757203200000,
+              "sale_price_effective_end_date": 1759276740000,
+              "description": "none",
+              "brand": "kuo07",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Baby Kids & Maternity > Baby Feeding > Baby Bottles#"
+              ],
+              "size": "",
+              "title": "Silicone Baby Feeding Bottle Cute Cow Imitating Breast Milk For born Infant Anti-colic Anti-choking Milk Feeding Supplies 220512",
+              "link": "https://www.dhgate.com/product/silicone-baby-feeding-bottle-cute-cow-imitating/764743382.html?f=bm%7Csnapchat%7CtopGMV200BabyMaternity%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7c"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/DM7u1ACBev4l4nNfWEnP0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "sale_price_effective_start_date": 1757203200000,
+              "sale_price_effective_end_date": 1759276740000,
+              "description": "none",
+              "brand": "qiyuan06",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Baby Kids & Maternity > Nursery Bedding > Blankets & Swaddling"
+              ],
+              "size": "",
+              "title": "Style Simple Winter Accessories Cotton For Baby Swaddle Thick Warmer Boys Girls Unisex born Blankets Wrap Holiday Gifts 240701",
+              "link": "https://www.dhgate.com/product/style-simple-winter-accessories-cotton-for/998178347.html?f=bm%7Csnapchat%7CtopGMV200BabyMaternity%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7c"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/gmLbDMvSn6aiuhrzIPrEQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "sale_price_effective_start_date": 1756684800000,
+              "sale_price_effective_end_date": 1759276740000,
+              "description": "none",
+              "brand": "xpreal",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Baby Kids & Maternity > Baby & Kids Clothing > Hoodies & Sweatshirts"
+              ],
+              "size": "",
+              "title": "Hoodies Sweatshirts Ghostbusters Kids zipper hoodie Cartoon print Autumn Winter Long sleeve sweatshirt Casual top Boys Girls clothing sweater WX6.4",
+              "link": "https://www.dhgate.com/product/hoodies-sweatshirts-ghostbusters-kids-zipper/999201226.html?f=bm%7Csnapchat%7CtopGMV200BabyMaternity%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7c"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/uC0emRKZDFRQ62kRtlMot.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "none",
+              "brand": "china_designer",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Baby Kids & Maternity > Baby & Kids Clothing > Girl's Dresses"
+              ],
+              "size": "",
+              "title": "Girl&#039;s Dresses Children&#039;s evening dress princess dress high-end flower girl host piano performance dress long girl dress",
+              "link": "https://www.dhgate.com/product/girl-s-dresses-children-s-evening-dress-princess/987377185.html?f=bm%7Csnapchat%7CtopGMV200BabyMaternity%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7c"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/NIoY02jseoJpF1rt98TDP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "sale_price_effective_start_date": 1756684800000,
+              "sale_price_effective_end_date": 1759276740000,
+              "description": "Thank you very much for your browsing I hope our products will not let you down Welcome to my shop",
+              "brand": "tiktok_online",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Baby Kids & Maternity > Shoes > Sneakers"
+              ],
+              "size": "",
+              "title": "2024 Kids Shoe Italy infant Childrens goldens boys girls Super Star Sneakers Sequin Classic White Do-old Dirty Star Leather goooses toddler shoes",
+              "link": "https://www.dhgate.com/product/2024-kids-shoe-italy-infant-childrens-boys/927476312.html?f=bm%7Csnapchat%7CtopGMV200BabyMaternity%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7c"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/kfzzA9Uk2ocWFbX9PLDBm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "sale_price_effective_start_date": 1757894400000,
+              "sale_price_effective_end_date": 1758499140000,
+              "description": "Designer Tshirt Luxury Kids G Tee Top Quality Tees Children letter print Boys Girls Shirts Baby Tshirts Summer GC Printed Clothes T-shirts CRD2407111F6",
+              "brand": "kalekids",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "NEW",
+              "product_type": [
+                "Baby Kids & Maternity > Baby & Kids Clothing > Tops &Tees > T-shirts"
+              ],
+              "size": "",
+              "title": "Designer Tshirt Luxury Kids G Tee Top Quality Tees Children letter print Boys Girls Shirts Baby Tshirts Summer GC Printed Clothes T-shirts CRD2407111F6",
+              "link": "https://www.dhgate.com/product/designer-tshirt-luxury-kids-g-tee-top-quality/1001882410.html?f=bm%7Csnapchat%7CtopGMV200BabyMaternity%7C{{campaign.id}}%7C{{adSet.id}}%7C{{ad.id}}%7C{{sccid}}%7c"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "video+collection_EN",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "text_fields": [
+              "title",
+              "price"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Ads on Snapchat must not infringe the intellectual property, privacy, publicity, or other legal rights of any person or entity. This means you must have all necessary rights to use each element of your ad, you may not sell counterfeit or unauthorized goods, and you may not falsely imply an endorsement by or partnership with a celebrity or public figure."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "36852a93-e69b-47e6-946d-4184d7a6113a",
+        "name": "20260316-Live-SC-LR-V-bhootd10-WF.mp4",
+        "ad_account_name": "Appblume-ESSENTIALS xu-/-MH-ZT-social-01",
+        "status": "PAUSED",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Video chat",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GVlv3JV63qUxaWKadRkcl.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgjAyUkgATDgAzjUBkABSg4KCU0WFxIkHCUjJxD0A1DEgQFoAnUUVldAfQAAgD8iBgoCSAISAKIBPQi6ChIwCi4IxdpBIAEw0AU4gApAAkoOCglWFg8UIR0ZISIQ9ANQxIEBaAJ1j1tmQH0AAIA_IgYKAkgDEgCiAT0IkgoSMAouCMixLyABMOADONQGQAJKDgoJNw4PDRgTFxgbEPQDUMSBAWgCdXHxRUB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgjszC0gATDgAzjUBkACSg4KCUMQCg4WFBEXGBD0A1DEgQFoAnX3A1dAfQAAgD8iBgoCSAISAJADxIEB&uc=15",
+        "start_date": "2026-03-25T02:32:41.000Z",
+        "impressions_total": 25731,
+        "impressions_map": {
+          "de": 2625,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 1293,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 2240,
+          "hu": 0,
+          "se": 1198,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 16156,
+          "es": 0,
+          "at": 2219,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "os_version_min": "14.0",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "brand_name": "Blume",
+        "profile_name": "Live Girl",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NiZXJ2Y1RsbVFZQTM2Q01nOG4zP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "app_install_preview": {
+          "app_name": "مكالمات الفيديو المباشرة:Blume",
+          "ios_app_id": "6754950869",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/EyuL3nbsgT3Th8B39Qt8k.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e27f59d7-5f65-4b5f-bcd6-6c5717e82d62",
+        "name": " 916-20250806-top-toppy park#高玩展示#fr-dayan-2",
+        "ad_account_name": "APPTopTop-MICO-FR-Snapchat-Mad-ZT-1",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Le meilleur jeu à faire entre amis",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/09tg3NXkFlj5XV2Agi6rj.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQI08I3IAEw4AM41AZAAUoOCgkvCwgHCgoKCwsQ9ANQvL4BaAIiBgoCSAQSAKIBMwi6ChImCiQIxOJAIAEw0AU4gApAAkoOCgkyCgcICwsIChAQ9ANQvL4BaAIiBgoCSAISAKIBMgh_EiYKJAjgzTEgATDgAzjUBkACSg4KCS4KCAcLCgsJChD0A1C8vgFoAiIGCgJIAhIAogEzCJIKEiYKJAiw6TYgATDgAzjUBkACSg4KCTEMCgcNDAwMCxD0A1C8vgFoAiIGCgJIAhIAogEzCMQKEiYKJAjKzi4gATDgAzjWBkACSg4KCS0HBgUICAYHCBD0A1C8vgFoAiIGCgJIAhIAogEzCNIKEiYKJAiF-ikgATDgAzjUBkACSg4KCS4IBgUJCQcHCRD0A1C8vgFoAiIGCgJIAhIAkAO8vgE%3D&uc=15",
+        "start_date": "2025-08-23T07:47:02.000Z",
+        "impressions_total": 108336,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 108336,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "os_version_min": "14.5",
+              "carrier_id": []
+            }
+          ]
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "profile_name": "TopTop FR",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSDltNW14cUZLeFFnRjh2TVdicGF1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "app_install_preview": {
+          "app_name": "TopTop : Jeux & Chat",
+          "ios_app_id": "6748342498",
+          "android_app_url": "com.game.friends.us",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/nbqjjNvfhzkiqSkGjflfN.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "enable_skoverlay": true,
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ffa8dde1-df16-4964-8913-1c3c9302c0f7",
+        "name": "Collection原始无贴片_四宫格",
+        "ad_account_name": "DHgate-zgAPP-MH-DT-EC-05",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Rich options & Good quality",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2024-11-18T12:47:46.000Z",
+        "impressions_total": 1588902,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1588902,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "brand_name": "DHgate",
+        "collection_preview": {
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/dawR4W1CfwJnE8HjVyzPW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Welcome to our store ,Excellent quality makes you more charming. If you have any questions, please contact us.Thank you for your understanding! High-quality, competitive price, providing pre-sale, in-sale, efficient transportation and operation quality; Competitive price; Fast delivery; Direct delivery service; and timely service; 100% satisfaction; Orders can enjoy big discounts. Excellent quality + fast transportation + warm service = 100% satisfaction. Last but not least: we will try our to meet your requirements uv sunglasses for women,shield sunglasses mens,mirror sunglasses designer,retro super sunglasses,mirrored stars,quality of care,nice frames,blue light reflective glasses,steampunk retro.syi",
+              "brand": "danel00",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "INVALID",
+              "product_type": [],
+              "size": "",
+              "title": "Mens Womens Designer Bolle sunglasses sunglasses Sunglasses Red Blue Flower Sun Glasses Round Fashion Gold Frame Glass Lens Eyewear For Man Women",
+              "link": "https://www.dhgate.com/product/classic-luxury-fashion-brand-polarized-sunglasses/752690652.html?f=yf%7Cauto%7Ck-ppc-snapchat%7C2-api%7C-H152831-I752690652-Sff80808178d9cfd80178ee8d52892385-C{{campaign.id}}%7C20260127114106%7CC{{campaign.id}}%7Cdanel00@DHgate%7Csshoes%7Ccatalog%7Cwap%7C"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/iTRjDL987qks9CgPz9AjH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Welcome To Our Store, We Have The Most Affordable Price And No Less Quality Than Others! Believe Us, Choose Us Will Be Your Better Choice, We Sell All Kinds Of Designer Bags,Welcome To Browse More Products In Our Store, The Products In Our Store Are Real,If You Have Any Questions About The Products You Like, Please Contact Us At the same time, it is also a must-have versatile piece for global fashion lovers! this fashionable bag is very suitable for casual parties. Features: different styles, famous designs. Match with various styles to create a look that makes people love it. If You Have Other Styles You Want To Buy, You Can Contact Us.If You Want Any Product, Pls Click Online Chat Or Sned Us A Message In Dhgate..syi",
+              "brand": "danel00",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "INVALID",
+              "product_type": [],
+              "size": "",
+              "title": "1704 FF Top luxury Sunglasses polaroid lens designer womens Mens Goggle senior Eyewear For Women eyeglasses frame Vintage Metal Sun Glasses",
+              "link": "https://www.dhgate.com/product/sunglasses-designer-sunglasses-cycle-luxurious/876541789.html?f=yf%7Cauto%7Ck-ppc-snapchat%7C2-api%7C-H152831-I876541789-Sff80808178d9cfd80178ee8d52892385-C{{campaign.id}}%7C20260127114106%7CC{{campaign.id}}%7Cdanel00@DHgate%7Csshoes%7Ccatalog%7Cwap%7C"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/fw900XtkzQoYVlJsQnaMs.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Cotton baseball cap men and women easy to carry personalized solid color design suitable for a variety of clothing, suitable for parties, decoration, carry.And it doesn#039;t need to be cleaned.It#039;s fun to get dressed for the outdoors.And is pure hand stitching manufacturing. Europe is a style that many young men and women like. It is more worthy of wholesale customers to sell, and there are many color choices. High-grade hat very textured, very versatile style ~ a must-have artifact in autumn and spring,, and very fashion in summer,unisex, must-have for holiday gifts The material is made of high-quality cotton exposed to sunlight for a long time at 45 degrees north latitude, with fine workmanship and hand-sewn. it is the pefect gifts to your wife,girlfriend,friends ect. the simple design of this hats are suit for any occasion and for all kinds of clothing.",
+              "brand": "danel00",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "INVALID",
+              "product_type": [],
+              "size": "",
+              "title": "Winter Hat Wool Ball Cap for Woman Man Faux Fur Designer Baseball Caps with Letters Black White artist",
+              "link": "https://www.dhgate.com/product/designer-fashion-bucket-hat-cap-for-men-woman/875835240.html?f=yf%7Cauto%7Ck-ppc-snapchat%7C2-api%7C-H152831-I875835240-Sff80808178d9cfd80178ee8d52892385-C{{campaign.id}}%7C20260127114106%7CC{{campaign.id}}%7Cdanel00@DHgate%7Csshoes%7Ccatalog%7Cwap%7C"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/No3Ffuy2rcfL5T8SOyom6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "This is a leather mens belt, suitable for adult women and men. If you need the original package, please contact us. We normally dispatch items within 24 hours, if out of stock you will need to be patient for three days, we will check carefully to ensure there are no problems before the item is sent out. Wearing scene: adjustable design is suitable for parties, friends, parties, travel and tourism, very fashionable and versatile. Dimensions: 105cm/Eur90/30-33, 110cm/Eur95/33-35, 115cm/Eur100/35-37, 120cm/Eur105/38-40, 125cm/Eur110/40-42. Please select the size according to your requirements. Package content: 1X belt , 1X free box..",
+              "brand": "danel00",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "INVALID",
+              "product_type": [],
+              "size": "",
+              "title": "Luxury Letter smooth buckle Designer belt Mens belts Womens belt Man belt Classic fashion casual womens mens leather belt",
+              "link": "https://www.dhgate.com/product/luxurys-designer-belt-mens-belt-letter-fashion/894867218.html?f=yf%7Cauto%7Ck-ppc-snapchat%7C2-api%7C-H152831-I894867218-Sff80808178d9cfd80178ee8d52892385-C{{campaign.id}}%7C20260127114106%7CC{{campaign.id}}%7Cdanel00@DHgate%7Csshoes%7Ccatalog%7Cwap%7C"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/GEhc2FO4tfdMQhJp5H3gQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "The frame is made of high-quality TR90&silicone material, The lens is made of high-quality polycarbonate material, Frame color: brown, black, gray and other colors; Lens type: Polarized sunglasses. Colorful coating colors; blue, green, silver...excellent quality Product accessories: portable glasses case, glasses cloth, polarized light test card, product label, complete accessories. We a supplier in China, You know that China's work force are very famous, quality is very rigorous, so lots of famous Brand CO. are choose Chin or a manufacture base,.syi",
+              "brand": "danel00",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "INVALID",
+              "product_type": [],
+              "size": "",
+              "title": "New Polarized Designer Sunglasses for Women Small Lens Womens Sunglasses for Lady Ladies Retro Eyewear Cat Eye Uv400 Protect Lenses Aesthetic Eye Glasses",
+              "link": "https://www.dhgate.com/product/designer-sunglass-women-eyeglasses-outdoor/856902507.html?f=yf%7Cauto%7Ck-ppc-snapchat%7C2-api%7C-H152831-I856902507-Sff80808178d9cfd80178ee8d52892385-C{{campaign.id}}%7C20260127114106%7CC{{campaign.id}}%7Cdanel00@DHgate%7Csshoes%7Ccatalog%7Cwap%7C"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ClfWp7LnqDexSp8XmGIth.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Welcome To Our Store, We Have The Most Affordable Price And No Less Quality Than Others! Believe Us, Choose Us Will Be Your Better Choice, We Sell All Kinds Of Designer Bags,Welcome To Browse More Products In Our Store, The Products In Our Store Are Real,If You Have Any Questions About The Products You Like, Please Contact Us At the same time, it is also a must-have versatile piece for global fashion lovers! this fashionable bag is very suitable for casual parties. Features: different styles, famous designs. Match with various styles to create a look that makes people love it. If You Have Other Styles You Want To Buy, You Can Contact Us.If You Want Any Product, Pls Click Online Chat Or Sned Us A Message In Dhgate.",
+              "brand": "danel00",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "INVALID",
+              "product_type": [],
+              "size": "",
+              "title": "Hot Designer For Women Mens Sunglasses Black Gray Summer Travel Full Frame Flat Sun Glasses Men Fashion Brand Sunglasses Uv Protection",
+              "link": "https://www.dhgate.com/product/large-box-without-borders-top-luxury-polarized/866899108.html?f=yf%7Cauto%7Ck-ppc-snapchat%7C2-api%7C-H152831-I866899108-Sff80808178d9cfd80178ee8d52892385-C{{campaign.id}}%7C20260127114106%7CC{{campaign.id}}%7Cdanel00@DHgate%7Csshoes%7Ccatalog%7Cwap%7C"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/AhDyc9aiOwvnQv6i1SYeK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "All pictures are actual photos of the hat you will get. You can ask us for more detailed pictures before placing your order. You can see and get the same, + quality,now the hat is very popular My shipment is very well packaged and provided with free packaging. The quality is so amazing that it is almost a highly recommended seller on the spot and will order again. All kinds of exquisite clothes radiate warmth and vitality under the collision of beautiful colors. Fashion, trend and classic clothing deduce infinite charm. All pictures are taken in kind, please rest assured of our quality, absolutely high quality, you can definitely choose the products you like. Each order is sent to you by high-quality express, which greatly shortens the transportation time and improves the buyer's shopping experience. I hope to cooperate with you again. Thank you.syi",
+              "brand": "danel00",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "INVALID",
+              "product_type": [],
+              "size": "",
+              "title": "cap autumn and winter hats knitted hats fashion warm and cold wool hats hooded couples embroidered cold hats high quality designer hats mens cap beanie",
+              "link": "https://www.dhgate.com/product/cap-autumn-and-winter-hats-knitted-hats-fashion/1072493683.html?f=yf%7Cauto%7Ck-ppc-snapchat%7C2-api%7C-H152831-I1072493683-Sff80808178d9cfd80178ee8d52892385-C{{campaign.id}}%7C20260127114106%7CC{{campaign.id}}%7Cdanel00@DHgate%7Csshoes%7Ccatalog%7Cwap%7C"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SlLJDUtusateHAAFI2U5G.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "star shades,circle sunglasses,rimless buffalo horn eyeglasses frames,european mirrors,baby sunglasses infant,polarized sports sunglasses for women,cat eye shaped glasses,outdoor metal trees,famous ame Welcome to my shop, the companys product pictures is a professional photographer to adjust, because the display different, may cause the color, please receive the goods.100% photo... Timely service Our product quality assurance, our companys slogan is: not the pursuit of lower prices, but the pursuit of the highest Welcome to our shop, we will provide you with quality products and the most pref.syi",
+              "brand": "danel00",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "INVALID",
+              "product_type": [],
+              "size": "",
+              "title": "2025 New Spring Summer retro party Acetate Women Sunglasses Female Men Brand Designer Futuristic Weird For UV Sun Glasses cat eye 6149 Top Quality",
+              "link": "https://www.dhgate.com/product/designer-for-men-women-sunglasses-oval-frame/943059554.html?f=yf%7Cauto%7Ck-ppc-snapchat%7C2-api%7C-H152831-I943059554-Sff80808178d9cfd80178ee8d52892385-C{{campaign.id}}%7C20260127114106%7CC{{campaign.id}}%7Cdanel00@DHgate%7Csshoes%7Ccatalog%7Cwap%7C"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/DvtEXdnda3u68Wigwkk4p.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "7 colors. A good choice for lovers, friends and family. Exquisite material and exquisite workmanship. Suitable for people: luxury designer works, suitable for adult men and women to wear, and suitable for most face type sunglasses. Wearing scene: suitable for driving, travel, beach, party, street trend wear can be worn, fashionable and versatile sunglasses. Generally, we will ship within 24h. If there is no inventory, wait up to 3 days. Before products are shipped, we will double check to ensure they are all OK. Package content: 1 pair of sunglasses, 1 original glasses case, 1 piece of glasses cloth.",
+              "brand": "danel00",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "INVALID",
+              "product_type": [],
+              "size": "",
+              "title": "for women color blocking designer sunglasses Cat Eye men trend gift glasses Beach shading UV protection polarized with box good",
+              "link": "https://www.dhgate.com/product/luxury-designer-fashion-designer-sunglasses/876581469.html?f=yf%7Cauto%7Ck-ppc-snapchat%7C2-api%7C-H152831-I876581469-Sff80808178d9cfd80178ee8d52892385-C{{campaign.id}}%7C20260127114106%7CC{{campaign.id}}%7Cdanel00@DHgate%7Csshoes%7Ccatalog%7Cwap%7C"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/q0IrwUj92o3gdYRSUOtvz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [],
+              "description": "Before the products are shipped, we will carefully verify to ensure that they are all high-quality with labels and LOGO (if there are unlabeled, only the product itself has no label and logo Product pictures are specially processed, we only sell well-known brand product, please rest assured to buy Black smooth leather square buckle narrow belt women's decorative belt (3CM) Color of button head: bronze silver Leather colors available: black, white, khaki braid belts,elastic girdle belt,mens belt size,jeans with chains,leather belt embossed,women wide leather girdle belt,black leather belt gold buckle,brown vintage belt.syi",
+              "brand": "danel00",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "",
+              "custom_label_3": "",
+              "custom_label_4": "",
+              "availability": "IN STOCK",
+              "color": [],
+              "condition": "INVALID",
+              "product_type": [],
+              "size": "",
+              "title": "designer belt for women mens belt luxury classic belts needle buckle gold buckle head with full of pearls width 2.5cm size 95-115cm New fashion trend",
+              "link": "https://www.dhgate.com/product/designer-belt-for-women-mens-belt-luxury/905297408.html?f=yf%7Cauto%7Ck-ppc-snapchat%7C2-api%7C-H152831-I905297408-Sff80808178d9cfd80178ee8d52892385-C{{campaign.id}}%7C20260127114106%7CC{{campaign.id}}%7Cdanel00@DHgate%7Csshoes%7Ccatalog%7Cwap%7C"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "Collection原始无贴片_四宫格",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "AUTOMATIC",
+            "text_fields": [
+              "title",
+              "price"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b6a39586-878e-45c2-9550-73a30f449937",
+        "name": "WLX369_NMA",
         "ad_account_name": "HS-EU-IOS-NEOMAN-MH-ZT-gaming",
         "status": "ACTIVE",
         "creative_type": "APP_INSTALL",
@@ -22,37 +1484,37 @@
         "call_to_action": "DOWNLOAD",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JVLeZDEbksAIr9k6vKEaz.67?mo=GtYEGg4aABoAMgEEOgF9UA9gAVoIQWRzTWVkaWGiAXAIQxJcCloIg_HDAiABSk8KSosBWDtcKDw8Lm2IAXRnY29FPFNGS2FYPk42TE5LU4MBST9HQUE6NkdTclM-JjI3SFxUR2dTQ0dAKTw3JyleVWRyMUU-ISwtOBwOEPQDaAIiDgoKQgYIgKnxuQZIAxIAogFvCLoKEloKWAifsZgCIAFKTQpI5wFHL1oqNEssV2VhU092Ny9JND4xTjM-K0FBMz96PTA5Ny04Lzo8VE41IDI0N05JOVpIOTk4JiwxJSkkT05cJT46KSc7OSEQEPQDaAIiDgoKQgYIjq3xuQZIAhIAogFtCH8SWQpXCNG8zgEgAUpMCkd1NCQ3GyYtH0VFTUdAOy8jOi4qPzQrKSIwMi00TSwoLS4qJSUuPD5QJhwgJy5EPioxOTInKBwhHxMeIUY8Sx0qJxQgHRoUDBD0A2gCIg4KCkIGCI6t8bkGSAISAKIBbgiSChJZClcIgNrLASABSkwKR3QvKS8aJCwfRUNKQ0I5LiU4KjA7OCQtITEwMjVMMSgtKSglJjA5PUskGSAkMjw4Ly82KiwmGCIfFR0hRz5LHiwpFR8fGhQLEPQDaAIiDgoKQgYIjq3xuQZIAhIAogFuCMQKElkKVwj3wL0BIAFKTApHfy8hPRohLR49R0U6OE8pITQkKyM2ICofLSojK1QqIiklICgjJyw-OigVICUpODEkPjAmKCkaHCMXGxk0Nj8ZJyUWHCMhEA0Q9ANoAiIOCgpCBgiOrfG5BkgCEgCQA-yXAg%3D%3D&uc=15",
-        "start_date": "2024-11-08T10:01:29.000Z",
-        "impressions_total": 59487,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nqPyWuZxTcoUKeQylTHk9.67?mo=GqECGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0I3JfdAiABMOADONQGQAFKEQoM7gGPAVJxlQFTTUtOEPQDUOrGAWgCdbDsQkAiBgoCSAQSAKIBQwi6ChI2CjQI_I-4AyABMNAFOIAKQAJKEwoOoQORAq8BqQGUAVhaT1MQ9ANQ6sYBaAJ1F51UQH0AAIA_IgYKAkgDEgCiAT8IkgoSMgowCOa76QEgATDgAzjUBkACSg8KCqkBYUVOXz44NDgQ9ANQ6sYBaAJ1_xM3QH0AAIA_IgYKAkgCEgCiAT8I0goSMgowCJ3U0QEgATDgAzjUBkACSg8KCq8BXDI-VjAwLS8Q9ANQ6sYBaAJ1uphBQH0AAIA_IgYKAkgCEgCQA-rGAQ%3D%3D&uc=15",
+        "start_date": "2025-10-14T02:30:26.000Z",
+        "impressions_total": 36463,
         "impressions_map": {
-          "de": 2883,
-          "be": 18218,
-          "fi": 1660,
-          "pt": 0,
-          "bg": 0,
-          "dk": 824,
-          "lt": 0,
+          "de": 2267,
+          "be": 7916,
+          "fi": 740,
+          "pt": 1289,
+          "bg": 709,
+          "dk": 1125,
+          "lt": 226,
           "lu": 0,
-          "hr": 0,
+          "hr": 682,
           "lv": 0,
-          "fr": 480,
-          "hu": 0,
-          "se": 2796,
-          "si": 0,
-          "sk": 0,
-          "ie": 9196,
+          "fr": 167,
+          "hu": 899,
+          "se": 1406,
+          "si": 917,
+          "sk": 166,
+          "ie": 6419,
           "ee": 0,
-          "el": 0,
+          "el": 1152,
           "mt": 0,
-          "it": 9179,
-          "es": 11817,
-          "at": 2434,
+          "it": 1366,
+          "es": 1411,
+          "at": 2501,
           "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
+          "cz": 301,
+          "pl": 470,
+          "ro": 1325,
+          "nl": 3009,
           "tr": 0
         },
         "targeting_v2": {
@@ -87,7 +1549,6 @@
           "ios_app_id": "6472705058",
           "android_app_url": "com.europe.huntingsniper",
           "media_download_link": "https://cf-st.sc-cdn.net/d/gP9r8R3sxjnJQjGPWpZdn.438?mo=GjUaGBoAGgAyAQQ6AX1CBgjJnZuvBkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "enable_skoverlay": true,
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -98,367 +1559,9 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "95a6c9f1-5b1a-4b38-ae42-9dbbf04c23dc",
-        "name": "kol_𝔸𝕣𝕥𝕙𝕦𝕣_6828636332433228806",
-        "ad_account_name": "APPTopTop-MICO-FR-Snapchat-Mad-ZT-1",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Trouver un ami",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BIFofDjoyKZF53J4YsGi1.67?mo=GooCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE1CEMSLQorCNiuyQMgATDgAzjUBkABSg8KCr4BWz5KOjw0VVMQ9ANQ-pgEaAJ14GZiQCICEgCiATYIugoSLQorCMSBlQMgATDQBTiACkACSg8KCqwBSTdBPDwkTkIQ9ANQ-pgEaAJ1aKdkQCICEgCiATsIkgoSMgowCLarwQIgATDgAzjUBkACSg8KCp0BQywyMC0hOjYQ9ANQ-pgEaAJ1HkBPQH0AAIA_IgISAKIBOwjSChIyCjAI7_OjAiABMOADONQGQAJKDwoKiQEyJi8qKhg1LhD0A1D6mARoAnWiUVxAfQAAgD8iAhIAkAP6mAQ%3D&uc=15",
-        "start_date": "2025-12-11T07:34:01.000Z",
-        "impressions_total": 12923550,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 12923550,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "11.4",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "profile_name": "TopTop FR",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSDltNW14cUZLeFFnRjh2TVdicGF1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "app_install_preview": {
-          "app_name": "TopTop",
-          "ios_app_id": "6748342498",
-          "android_app_url": "com.game.friends.us",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/nbqjjNvfhzkiqSkGjflfN.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
-          "enable_skoverlay": false,
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a66c8367-1f95-4bd3-bdd8-0cadfe74ec17",
-        "name": "V1242956_E2102630_视频_2D_Ai中国功夫镜头_FR_20251010",
-        "ad_account_name": "appLegend of Elements-4399-/-MH-ZT-gaming-02",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Easy idle adventure RPG!",
-        "call_to_action": "PLAY GAME",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XjLEYVePD73ax2IyiwwPH.67?mo=GpACGggyAgR9UA9gAVoIQWRzTWVkaWGiATcIQxIrCikIy-NKIAEw4AM41AZAAUoOCgl7IBQaGRsYEhMQ9ANQwpkBaAJ15Kt0QCIGCgJIBBIAogE5CLoKEiwKKgifw0cgATDQBTiACkACSg8KCtYBGRoaIRoYFhAQ9ANQwpkBaAJ1EPWGQCIGCgJIAhIAogE9CJIKEjAKLgjv1jIgATDgAzjUBkACSg4KCV4XEhkUFxYPDhD0A1DCmQFoAnUCwm5AfQAAgD8iBgoCSAISAKIBPgjSChIxCi8IvcIxIAEw4AM41AZAAkoPCgqBARMTERcUERAMEPQDUMKZAWgCdZd9eEB9AACAPyIGCgJIAhIAkAPCmQE%3D&uc=15",
-        "start_date": "2025-10-10T12:55:00.000Z",
-        "impressions_total": 40,
-        "impressions_map": {
-          "de": 0,
-          "be": 24,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 16,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "20",
-              "max_age": "49",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "9.0",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "profile_name": "Legend of Elements",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbkxZcWJpOE04dzdkeHphWXU4NFlmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "app_install_preview": {
-          "app_name": "Legend of Elements",
-          "ios_app_id": "6748004801",
-          "android_app_url": "com.zzsjus.google",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/5ElDjgesPdWgfZ4sGYNld.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "5d7b72b0-4538-4f77-a219-dba83efef642",
-        "name": "iGame_V_EN_3D_副本组队_CB_506_1080x1920_53s_250228_NR_860034",
-        "ad_account_name": "AppAFK Journey-lilisiCOD-/-MH-ZT-gaming-01",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "The vast world idle RPG",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8M5IxaXG2EphdGwk95oHl.67?mo=GvABGggyAgR9UA9gAVoIQWRzTWVkaWGiASgIQxIcChoIuv6gAyABSg8KCoEBISEoHjwgNjAQ9ANoAiIGCgJIAxIAogEpCLoKEhwKGgirqb4CIAFKDwoKigEYIiUaPB4mLBD0A2gCIgYKAkgDEgCiAScIfxIbChkI48OWAiABSg4KCW0YGh4WKhonIhD0A2gCIgYKAkgCEgCiASgIkgoSGwoZCP2qpAIgAUoOCglqGxofFisaJyUQ9ANoAiIGCgJIAhIAogEoCMQKEhsKGQi4ns0BIAFKDgoJZhAVFxAoFBodEPQDaAIiBgoCSAISAJADiqQD&uc=15",
-        "start_date": "2025-04-02T10:36:35.000Z",
-        "impressions_total": 10257,
-        "impressions_map": {
-          "de": 389,
-          "be": 217,
-          "fi": 76,
-          "pt": 482,
-          "bg": 922,
-          "dk": 26,
-          "lt": 796,
-          "lu": 96,
-          "hr": 197,
-          "lv": 0,
-          "fr": 686,
-          "hu": 293,
-          "se": 179,
-          "si": 1511,
-          "sk": 199,
-          "ie": 156,
-          "ee": 0,
-          "el": 781,
-          "mt": 0,
-          "it": 990,
-          "es": 396,
-          "at": 99,
-          "cy": 0,
-          "cz": 284,
-          "pl": 201,
-          "ro": 604,
-          "nl": 236,
-          "tr": 441
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "os_version_min": "11.3",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "AFK Journey",
-        "profile_name": "Farlight Games",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
-        "app_install_preview": {
-          "app_name": "AFK Journey",
-          "ios_app_id": "1628970855",
-          "android_app_url": "com.farlightgames.igame.gp",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/Nmn1ZFUzvqRq9JzOTULAg.438?mo=GjEaFDIBBDoBfUIGCIyktL8GSAJQD2ABWg9BZHNJbWFnZUFwcEljb26iAQcItgMiAhIA&uc=15",
-          "enable_skoverlay": true,
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "08ab8703-1126-49bf-ae88-c569363f90f5",
-        "name": "Static_Generic_WelcomeOffer_Feebets",
-        "ad_account_name": "FR_Betclic_Sportsbook",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Jusqu'à 100€ reversés en Feebets*",
-        "call_to_action": "DOWNLOAD",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HpVYx34F40SikxUiTBYS3.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-07-29T16:37:25.000Z",
-        "impressions_total": 350127,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 350127,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "8",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Equinox Limited, Suite 2B, Mansion House",
-        "brand_name": "Betclic Paris Sportifs & Poker",
-        "profile_name": "Betclic",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN3NOTTQwbGw1dGhXZXpzRjNsN0hLP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "app_install_preview": {
-          "app_name": "Betclic Paris Sportifs",
-          "ios_app_id": "441081528",
-          "android_app_url": "sport.android.betclic.fr",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/2UE7WcVSimP1420NDf3FZ.438?mo=GjUaGBoAGgAyAQQ6AX1CBgiCzZW3BkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "enable_skoverlay": false,
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "6e6e7fb0-93d5-4dc0-9fdb-cc4fca77b960",
-        "name": "922_huohuo_JJ_FR_P324_260117",
-        "ad_account_name": "SC-MAD-NS-LR-UTC+0-10",
+        "id": "52baa36e-1781-4f35-8a8d-7a9ee21171bc",
+        "name": "JUNE 22 V8",
+        "ad_account_name": "webglowssip-guangzhoumuxue-/-MH-ZT-EC-01",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
@@ -466,102 +1569,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "CONQUÉRIR LE MONDE AVEC MA LAME",
-        "call_to_action": "GET NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ciKcigjI0Agg7uVjTpFER.67?mo=GpgCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwjrjewlIAEw4AM41AZAAUoPCgqTCTUyTDE2Sj45EPQDULa0PGgCdYQZU0AiBgoCSAQSAKIBOgi6ChItCisI9cmFJyABMNAFOIAKQAJKDwoKkQctMTcnNDo3OBD0A1C2tDxoAnXRyWRAIgYKAkgCEgCiAT8IkgoSMgowCNCKnBkgATDgAzjUBkACSg8KCpUJIyUnHiQsJycQ9ANQtrQ8aAJ1M_xGQH0AAIA_IgYKAkgCEgCiAT8I0goSMgowCJOzxhcgATDgAzjUBkACSg8KCugGGh8hGB4cHxwQ9ANQtrQ8aAJ1YEZVQH0AAIA_IgYKAkgCEgCQA7a0PA%3D%3D&uc=15",
-        "start_date": "2026-01-19T04:00:00.000Z",
-        "impressions_total": 101,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 101,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "55",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": []
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "NetShort-Popular Dramas & TV",
-        "profile_name": "NetShort-Popular Dramas & TV",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR0M0YUMzdXpmejZLZ2s2ZFdBM01yP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://sc.netshort.com/snapchat/wRQDO_xv2Ro.html?pid=snapchat_web&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset_id={{adSet.id}}&af_ad_id={{ad.id}}&af_adset={{adSet.name}}&af_force_deeplink=true&type=1&link_id=2012782064051036161&af_sub2=0"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "3a6cc39b-ef55-48ee-8d1c-9b8b48c560a4",
-        "name": "2",
-        "ad_account_name": "webwqdjjx-yuchongshangmao-/-MH-ZT-EC-01",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Gamme complète de tailles",
+        "headline": "-65%+3 cadeaux: FIN OFFRE À MINUIT",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-04-16T07:00:57.000Z",
-        "impressions_total": 17517,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NotVZVERyG2tZgHPzp3ZX.67?mo=GucCGggyAgR9UA9gAVoIQWRzTWVkaWGiATQIQxIoCiYIwPykBCABMOADONQGQAFKDwoK_QEiJyIeJikYIBD0A1DE_wloAiIGCgJIBBIAogE1CLoKEigKJgj89O8DIAEw0AU4gApAAkoPCgrdARkpIR4dJhwdEPQDUMT_CWgCIgYKAkgCEgCiATQIfxIoCiYI78zfAiABMOADONQGQAJKDwoK8AEWIBcWHB8RGBD0A1DE_wloAiIGCgJIAhIAogE1CJIKEigKJgjX9vECIAEw4AM41AZAAkoPCgrxARcfGRUcHxQXEPQDUMT_CWgCIgYKAkgCEgCiATUIxAoSKAomCNHZ3AIgATDgAzjWBkACSg8KCsUBEx4XFxQbFBUQ9ANQxP8JaAIiBgoCSAISAKIBNQjSChIoCiYIwffuAiABMOADONQGQAJKDwoKywEUHxoYFh4XFxD0A1DE_wloAiIGCgJIAhIAkAPE_wk%3D&uc=15",
+        "start_date": "2025-02-16T01:58:07.000Z",
+        "impressions_total": 1044,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -573,7 +1587,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 17517,
+          "fr": 1044,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -596,264 +1610,20 @@
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "25",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "web_view_properties": {
-          "url": "https://veepee-fr.shop/collections/air-666?token=cf68"
-        },
-        "review_status": "DISAPPROVED",
-        "rejection_reasons": [
-          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
-        ],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f2395456-3119-4d78-9062-a13c4103afb2",
-        "name": "WDY-P-5",
-        "ad_account_name": "webjoyeuxliens-wango-MH-ZT-EC-01",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Cadeaux pour la fête des pères",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ejxZkQSnZUUe20ytO4lAH.67?mo=GtwCGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUI-reDASABMOADONQGQAFKDgoJSyQkPS1GOTRYEPQDUPSeAWgCIgYKAkgEEgCiATMIugoSJgokCPO1YyABMNAFOIAKQAJKDgoJRhwYMB8wMypJEPQDUPSeAWgCIgYKAkgCEgCiATIIfxImCiQIrcJUIAEw4AM41AZAAkoOCgk5ExgmHi4qJzkQ9ANQ9J4BaAIiBgoCSAISAKIBMwiSChImCiQI1sZXIAEw4AM41AZAAkoOCgk7FBklHy8uKzcQ9ANQ9J4BaAIiBgoCSAISAKIBMwjEChImCiQIudo-IAEw4AM41gZAAkoOCgk2EhEcFCAiGy0Q9ANQ9J4BaAIiBgoCSAISAKIBMwjSChImCiQIytBEIAEw4AM41AZAAkoOCgk5FBIfFSInHS8Q9ANQ9J4BaAIiBgoCSAISAJAD9J4B&uc=15",
-        "start_date": "2025-05-26T08:05:57.000Z",
-        "impressions_total": 393,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 393,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "20",
+              "min_age": "35",
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [],
-              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
         "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "profile_name": "joyeuxliens",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNHFQNklDY0xWQXZxZUJZRHA1OWdQP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "profile_name": "Glowssip",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSUw2QmlyY0FKdEVjazRVaGc5UVhVP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://joyeuxliens.com/collections/sweat-shirt-brode-papa?sort_by=sweat-shirt-personnalise-brode-avec-photo-pour-papa-cadeau-de-fete-des-peres,sweat-shirt-personnalise-brode-avec-photo-pour-papa,sweat-shirt-personnalise-brode-avec-photo-pour-papa-papi,sweat-shirt-personnalise-brode-avec-photo-pour-papa-papy&utm_source=snapchat"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "b4264883-e82a-4fa5-a78b-af0c913a3a25",
-        "name": "1_7",
-        "ad_account_name": "appGoodshort-xinyueduanju-MH-ZT-tool-10",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "ar"
-        ],
-        "headline": "اختفت، بعد 5 سنوات مع طفل تتزوج!",
-        "call_to_action": "WATCH",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bSwJcD70cgyiL1ShYM18N.67?mo=GpQCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE6CEMSMgowCITF-h8gATDgAzjUBkABSg8KCtAHGjEaSBEsEBcQ9ANQpPMzaAJ1rXlVQH0AAIA_IgISAKIBOwi6ChIyCjAIgKOQJCABMNAFOIAKQAJKDwoKoQYiHhtWGD0SGhD0A1Ck8zNoAnWS12ZAfQAAgD8iAhIAogE7CJIKEjIKMAjAk9AWIAEw4AM41AZAAkoPCgrkBxIlEi4PGA0PEPQDUKTzM2gCddoMS0B9AACAPyICEgCiATsI0goSMgowCLKrjxggATDgAzjUBkACSg8KCvYFHhUTMxAhDBAQ9ANQpPMzaAJ1ri1aQH0AAIA_IgISAJADpPMz&uc=15",
-        "start_date": "2026-04-04T05:45:00.000Z",
-        "impressions_total": 2389,
-        "impressions_map": {
-          "de": 710,
-          "be": 129,
-          "fi": 59,
-          "pt": 10,
-          "bg": 16,
-          "dk": 83,
-          "lt": 2,
-          "lu": 5,
-          "hr": 0,
-          "lv": 0,
-          "fr": 233,
-          "hu": 3,
-          "se": 234,
-          "si": 0,
-          "sk": 2,
-          "ie": 19,
-          "ee": 0,
-          "el": 27,
-          "mt": 0,
-          "it": 109,
-          "es": 71,
-          "at": 77,
-          "cy": 0,
-          "cz": 6,
-          "pl": 2,
-          "ro": 5,
-          "nl": 138,
-          "tr": 449
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "55",
-              "age_groups": [],
-              "languages": [
-                "ar"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": []
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": []
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "WEB",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "GoodShort",
-        "profile_name": "GoodShort",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR2U2Qll0S05lcWU0NEtkdHNhVDJFP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.fixfs.com/market/goodreels/t18-33-11/18?lpid=45716&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&adset_name={{adSet.name}}&adset_id={{adSet.id}}&ad_id={{ad.id}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ac7d8431-c5de-40bb-a3c9-c983f91f5227",
-        "name": "OLD-8",
-        "ad_account_name": "webObtenircadeau-wango-/-MH-ZT-EC-01",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Cadeau pour la fête des pères !",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ABNI9LaYxVVshAuhwFaqV.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgImcEjIAFKDgoJNxEQGhQfGh4WEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIsdodIAFKDgoJNg8NFRYYEhYWEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiy8hUgAUoOCgkoCwoODhISDxIQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiL2BYgAUoOCgkoCwoQDhISEhEQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjA9BMgAUoOCgkoCwgNDxALDw4Q9ANoAiIGCgJIAhIAkAPwVg%3D%3D&uc=15",
-        "start_date": "2025-05-19T08:20:45.000Z",
-        "impressions_total": 35835,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 35835,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "obtenircadeau",
-        "web_view_properties": {
-          "url": "https://obtenircadeau.com/products/famille-d'ours-c%C3%A2lins---nouvelle-version---puzzle-personnalis%C3%A9-en-bois"
+          "url": "https://glowssip.com/pages/micro-infusion-anti-age?tw_source=snapchat&tw_adid={{ad.id}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

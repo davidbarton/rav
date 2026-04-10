@@ -1,199 +1,15 @@
 {
   "brand": "Coach",
   "country": "pl",
-  "fetched_at": "2026-04-09T18:41:53.427Z",
+  "fetched_at": "2026-04-10T07:32:26.986Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "84612c78-f094-446a-9129-c2329396d579",
-        "name": "BodyScan_ugc_D139_Devlift_GM_30s_AG_9x16_en.mp4",
-        "ad_account_name": "Zing Coach Inc. Self Service",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Get your AI-powered fitness plan💪",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9ewfylq1FAgzTVyiPLOgj.67?mo=GuwBGggyAgR9UA9gAVoIQWRzTWVkaWGiASgIQxIcChoI_7CkASABSg8KCpYBMitOPWMaIRoQ9ANoAiIGCgJIAxIAogEoCLoKEhsKGQiZoH0gAUoPCgqDAScrTyM9GhgfEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjq7HcgAUoOCglwIyA2JTcVGRQQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiltHsgAUoOCglzJSA6KDsTGRYQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiU01ogAUoOCgllGx01GSoQDxQQ9ANoAiIGCgJIAhIAkAOw6gE%3D&uc=15",
-        "start_date": "2025-06-03T21:00:00.000Z",
-        "impressions_total": 3262,
-        "impressions_map": {
-          "de": 124,
-          "be": 115,
-          "fi": 53,
-          "pt": 83,
-          "bg": 41,
-          "dk": 46,
-          "lt": 45,
-          "lu": 33,
-          "hr": 20,
-          "lv": 0,
-          "fr": 116,
-          "hu": 39,
-          "se": 144,
-          "si": 47,
-          "sk": 12,
-          "ie": 1101,
-          "ee": 0,
-          "el": 79,
-          "mt": 0,
-          "it": 101,
-          "es": 106,
-          "at": 57,
-          "cy": 0,
-          "cz": 20,
-          "pl": 45,
-          "ro": 56,
-          "nl": 321,
-          "tr": 458
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Zing Coach Inc.",
-        "profile_name": "Zing Al: Home & Gym Workouts",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://zingcoach.fit/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a3b0efb4-e4ef-4d7e-827f-c785985b16ff",
-        "name": "BodyScan_258_v5_Video_Main_Both_Aleeahy_AR_9x16_en.mp4",
-        "ad_account_name": "Zing Coach Inc. Self Service",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Get your AI-powered fitness plan💪",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9e2BH0EHMPWHA1IsUm5ay.67?mo=Gt4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUI_eeQASABMOADONQGQAFKDgoJdigcFBMQE0tDEPQDUMbXAWgCIgYKAkgEEgCiATUIugoSKAomCIeOiwEgATDQBTiACkACSg8KCscBHhocEBoXSjkQ9ANQxtcBaAIiBgoCSAISAKIBMgh_EiYKJAjIjWsgATDgAzjUBkACSg4KCV8cEBMNDg8qJhD0A1DG1wFoAiIGCgJIAhIAogEzCJIKEiYKJAji5m8gATDgAzjUBkACSg4KCWAXExINDhAsLhD0A1DG1wFoAiIGCgJIAhIAogEzCMQKEiYKJAiC4VggATDgAzjWBkACSg4KCXgSDxEKDw0yIxD0A1DG1wFoAiIGCgJIAhIAogEzCNIKEiYKJAiAtFkgATDgAzjUBkACSg4KCXgTEREKDw01JRD0A1DG1wFoAiIGCgJIAhIAkAPG1wE%3D&uc=15",
-        "start_date": "2025-08-08T21:00:00.000Z",
-        "impressions_total": 4851,
-        "impressions_map": {
-          "de": 117,
-          "be": 107,
-          "fi": 156,
-          "pt": 123,
-          "bg": 46,
-          "dk": 71,
-          "lt": 113,
-          "lu": 17,
-          "hr": 65,
-          "lv": 0,
-          "fr": 118,
-          "hu": 39,
-          "se": 249,
-          "si": 181,
-          "sk": 11,
-          "ie": 1979,
-          "ee": 0,
-          "el": 237,
-          "mt": 0,
-          "it": 126,
-          "es": 207,
-          "at": 77,
-          "cy": 0,
-          "cz": 26,
-          "pl": 79,
-          "ro": 117,
-          "nl": 217,
-          "tr": 373
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Zing Coach Inc.",
-        "profile_name": "Zing Al: Home & Gym Workouts",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://zingcoach.fit/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "607f402b-7fc1-4d12-9e4f-b99a23cfc913",
-        "name": "WallPilates_18_v3_Video_Pilates_Fem_AnimFat_AK_9x16_En.mp4",
+        "id": "5055d43c-7db5-4c18-b65d-927cd6cd3801",
+        "name": "Anna_3_v2_Video_Main_Fem_Devi_AK_9x16_En.mp4",
         "ad_account_name": "Zing Coach Inc. Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -206,38 +22,38 @@
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cy7Eh48D4WuYtUijHthvF.67?mo=GooCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBOAhDEjAKLgjK7jogATDgAzjUBkABSg4KCTYMEBEOGy4KExD0A1COrAFoAnX3U25AfQAAgD8iAhIAogE5CLoKEjAKLgiT4TEgATDQBTiACkACSg4KCTsLEhEQFSgPFBD0A1COrAFoAnVrZXtAfQAAgD8iAhIAogE5CJIKEjAKLgi2ry4gATDgAzjUBkACSg4KCTMMEQ0PFCkJERD0A1COrAFoAnUQ9GtAfQAAgD8iAhIAogE5CNIKEjAKLgjc7iUgATDgAzjUBkACSg4KCTEIDg0MEBwJDBD0A1COrAFoAnVpY3NAfQAAgD8iAhIAkAOOrAE%3D&uc=15",
-        "start_date": "2025-11-04T11:00:00.000Z",
-        "impressions_total": 8029,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zyRtxLi9WCVJeVGlqJ6gv.67?mo=GpACGggyAgR9UA9gAVoIQWRzTWVkaWGiATgIQxIsCioInpyfASABMOADONQGQAFKDgoJXzN0dSEaEVlwEPQDUN7yAWgCdQ0lcEAiBgoCSAISAKIBOQi6ChIsCioI79iIASABMNAFOIAKQAJKDgoJaSdSXCMWF0pKEPQDUN7yAWgCdZbKf0AiBgoCSAMSAKIBPQiSChIwCi4Izo5yIAEw4AM41AZAAkoOCglOI0xRGhUMREcQ9ANQ3vIBaAJ1PrdpQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCPqZWiABMOADONQGQAJKDgoJTxowOxgODy8rEPQDUN7yAWgCdfzqc0B9AACAPyIGCgJIAhIAkAPe8gE%3D&uc=15",
+        "start_date": "2025-10-31T22:00:00.000Z",
+        "impressions_total": 1305,
         "impressions_map": {
-          "de": 184,
-          "be": 448,
-          "fi": 129,
-          "pt": 360,
-          "bg": 232,
-          "dk": 73,
-          "lt": 228,
-          "lu": 121,
-          "hr": 358,
+          "de": 17,
+          "be": 28,
+          "fi": 15,
+          "pt": 67,
+          "bg": 52,
+          "dk": 11,
+          "lt": 63,
+          "lu": 9,
+          "hr": 91,
           "lv": 0,
-          "fr": 333,
-          "hu": 206,
-          "se": 190,
-          "si": 851,
-          "sk": 94,
-          "ie": 1372,
+          "fr": 18,
+          "hu": 36,
+          "se": 21,
+          "si": 215,
+          "sk": 21,
+          "ie": 332,
           "ee": 0,
-          "el": 299,
+          "el": 54,
           "mt": 0,
-          "it": 484,
-          "es": 213,
-          "at": 129,
+          "it": 38,
+          "es": 17,
+          "at": 4,
           "cy": 0,
-          "cz": 53,
-          "pl": 34,
-          "ro": 356,
-          "nl": 502,
-          "tr": 780
+          "cz": 5,
+          "pl": 6,
+          "ro": 66,
+          "nl": 42,
+          "tr": 77
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -283,102 +99,10 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "6abb92aa-0bfb-435e-81f2-01164db62a72",
-        "name": "TextCanvas_125_V4_Video_Main_Fem_DeviVoice_AR_9x16_en.mp4",
+        "id": "f179a474-19dd-4eb3-a343-4659bf503bc9",
+        "name": "BodyScan_255_v4_Video_Main_Male_ImdevBamba_DA_9x16_EN.mp4",
         "ad_account_name": "Zing Coach Inc. Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Get your AI-powered fitness plan!",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SZaBKYL6FSYEARFndU3Ai.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI3NgpIAFKDgoJWiQYFx8jHA8ZEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgItrMoIAFKDgoJaRwYFx4bGxIYEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjx8B8gAUoOCglGHRASGBsUDBcQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjPvCAgAUoOCglFHRIUFxwUDBcQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAionxsgAUoOCglOEw8QExISDBAQ9ANoAiIGCgJIAhIAkAPIUQ%3D%3D&uc=15",
-        "start_date": "2025-04-25T21:00:00.000Z",
-        "impressions_total": 656,
-        "impressions_map": {
-          "de": 5,
-          "be": 4,
-          "fi": 6,
-          "pt": 24,
-          "bg": 9,
-          "dk": 4,
-          "lt": 12,
-          "lu": 5,
-          "hr": 11,
-          "lv": 0,
-          "fr": 21,
-          "hu": 17,
-          "se": 12,
-          "si": 25,
-          "sk": 6,
-          "ie": 103,
-          "ee": 0,
-          "el": 37,
-          "mt": 0,
-          "it": 38,
-          "es": 30,
-          "at": 5,
-          "cy": 0,
-          "cz": 4,
-          "pl": 10,
-          "ro": 8,
-          "nl": 19,
-          "tr": 241
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Zing Coach Inc.",
-        "profile_name": "Zing Al: Home & Gym Workouts",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://zingcoach.fit/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "87f24545-dbac-424e-b1b3-3eb6e9ec74e9",
-        "name": "Max_44.mp4",
-        "ad_account_name": "Zing Coach Inc. Self Service",
-        "status": "ACTIVE",
+        "status": "PAUSED",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
@@ -389,38 +113,38 @@
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WLCYsTwHEIDgRKg6l1fTH.67?mo=Gt8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigI0LR0IAEw4AM41AZAAUoTCg6OAoMBbmllpwGcAYIBXRD0A1Csf2gCIgYKAkgFEgCiATQIugoSJwolCNSBaSABMNAFOIAKQAJKEAoL_wF7XWxZswFmelEQ9ANQrH9oAiIGCgJIAhIAogEyCH8SJgokCPilTiABMOADONQGQAJKDwoKuAFSUjw-cmRRQBD0A1Csf2gCIgYKAkgCEgCiATMIkgoSJgokCNiQUiABMOADONQGQAJKDwoKtwFhSFk8aF9FSBD0A1Csf2gCIgYKAkgCEgCiATMIxAoSJgokCKrvSCABMOADONYGQAJKDwoKrwFPQEZBfkhQNRD0A1Csf2gCIgYKAkgCEgCiATMI0goSJgokCLnhSSABMOADONQGQAJKDwoKqAFNPUdCd0dRNRD0A1Csf2gCIgYKAkgCEgCQA6x_&uc=15",
-        "start_date": "2025-07-15T21:00:00.000Z",
-        "impressions_total": 3466,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HR0Zl1mJBsPMYJUOz1l6W.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQImepwIAEw4AM41AZAAUoOCglHHRUPDh5RPA8Q9ANQguIBaAIiBgoCSAUSAKIBMwi6ChImCiQIvadYIAEw0AU4gApAAkoOCglEDh8MDhdIJRYQ9ANQguIBaAIiBgoCSAMSAKIBMgh_EiYKJAjZ61cgATDgAzjUBkACSg4KCTsTEQkMFCcqCBD0A1CC4gFoAiIGCgJIAhIAogEzCJIKEiYKJAj6nVsgATDgAzjUBkACSg4KCTwUEgsNFS4oChD0A1CC4gFoAiIGCgJIAhIAogEzCMQKEiYKJAjXqUEgATDgAzjWBkACSg4KCTgKFgkKES4YDxD0A1CC4gFoAiIGCgJIAhIAogEzCNIKEiYKJAja3EMgATDgAzjUBkACSg4KCToJGQkKEi8aDxD0A1CC4gFoAiIGCgJIAhIAkAOC4gE%3D&uc=15",
+        "start_date": "2025-07-03T21:00:00.000Z",
+        "impressions_total": 10723,
         "impressions_map": {
-          "de": 68,
-          "be": 86,
-          "fi": 130,
-          "pt": 111,
-          "bg": 52,
-          "dk": 41,
-          "lt": 108,
-          "lu": 32,
-          "hr": 70,
+          "de": 410,
+          "be": 405,
+          "fi": 291,
+          "pt": 347,
+          "bg": 296,
+          "dk": 119,
+          "lt": 300,
+          "lu": 78,
+          "hr": 195,
           "lv": 0,
-          "fr": 70,
-          "hu": 17,
-          "se": 222,
-          "si": 204,
-          "sk": 10,
-          "ie": 1197,
+          "fr": 416,
+          "hu": 77,
+          "se": 673,
+          "si": 436,
+          "sk": 84,
+          "ie": 2877,
           "ee": 0,
-          "el": 169,
+          "el": 533,
           "mt": 0,
-          "it": 87,
-          "es": 153,
-          "at": 55,
+          "it": 649,
+          "es": 369,
+          "at": 152,
           "cy": 0,
-          "cz": 20,
-          "pl": 66,
-          "ro": 52,
-          "nl": 310,
-          "tr": 136
+          "cz": 65,
+          "pl": 161,
+          "ro": 363,
+          "nl": 689,
+          "tr": 738
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -467,53 +191,52 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "cbf223c1-d530-4d0d-90a7-99e16155550f",
-        "name": "TextCanvas_A93_Ugc_NewScript_OK_9x16_de.mov",
+        "id": "49ee8c5b-e851-4cf9-b431-c7c71e5b420e",
+        "name": "BodyScan_Ugc_F154_HotGirl_21s_OK_9x16_Pt.mov",
         "ad_account_name": "Zing Coach Inc. Self Service",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "de",
-          "en"
+          "pt"
         ],
-        "headline": "Dein KI-Fitnessplan 💪",
+        "headline": "Seu plano fitness com IA 💪",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WgtzqbAwFpKUcy3XhRIva.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIsYJHIAFKDgoJfDs4LTA6Qi87EPQDaAIiBgoCSAISAKIBJwi6ChIaChgI3dM_IAFKDgoJdzQqKzEwNDY7EPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjlnTMgAUoOCglcJyYfIiguJSwQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjzhjUgAUoOCgldLCQdJygyJysQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjsuysgAUoOCglXIxwbHyAjJCkQ9ANoAiIGCgJIAhIAkAOKSw%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RDEkAABH8POsiJnsDjqTO.67?mo=GtkBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBJAhDEhwKGgiV_4wBIAFKDwoKXSAcLUONAU4oGxD0A2gCIgISAKIBIwi6ChIaChgI8IhtIAFKDgoJWiAYJjRkMSQgEPQDaAIiAhIAogEiCH8SGgoYCLvjWiABSg4KCUoVFh0pUy8bExD0A2gCIgISAKIBIwiSChIaChgIsqlfIAFKDgoJShcWHitTMB0TEPQDaAIiAhIAogEjCMQKEhoKGAimpkogAUoOCglGFREaIkAhFxQQ9ANoAiICEgCQA-q3AQ%3D%3D&uc=15",
         "start_date": "2025-05-15T21:00:00.000Z",
-        "impressions_total": 3862,
+        "impressions_total": 3203,
         "impressions_map": {
-          "de": 1299,
-          "be": 47,
-          "fi": 14,
-          "pt": 20,
-          "bg": 31,
-          "dk": 30,
-          "lt": 12,
-          "lu": 365,
-          "hr": 98,
+          "de": 13,
+          "be": 94,
+          "fi": 6,
+          "pt": 2037,
+          "bg": 2,
+          "dk": 1,
+          "lt": 0,
+          "lu": 544,
+          "hr": 1,
           "lv": 0,
-          "fr": 172,
-          "hu": 22,
-          "se": 43,
-          "si": 77,
-          "sk": 14,
-          "ie": 47,
+          "fr": 394,
+          "hu": 2,
+          "se": 5,
+          "si": 0,
+          "sk": 0,
+          "ie": 20,
           "ee": 0,
-          "el": 45,
+          "el": 5,
           "mt": 0,
-          "it": 55,
-          "es": 51,
-          "at": 1196,
+          "it": 2,
+          "es": 12,
+          "at": 1,
           "cy": 0,
-          "cz": 4,
-          "pl": 17,
-          "ro": 27,
-          "nl": 125,
-          "tr": 51
+          "cz": 0,
+          "pl": 1,
+          "ro": 4,
+          "nl": 51,
+          "tr": 8
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -521,9 +244,9 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "gender": "MALE",
+              "gender": "FEMALE",
               "languages": [
-                "de"
+                "pt"
               ],
               "operation": "INCLUDE",
               "advanced_demographics": []
@@ -550,7 +273,7 @@
         "profile_name": "Zing Al: Home & Gym Workouts",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://zing-gym.coach/?lng=de&utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+          "url": "https://zingcoach.fit/?lng=pt&utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -560,8 +283,100 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "a90a29e3-31f0-4ddf-8754-d57f7aaad149",
-        "name": "Calisthenics_28_V6_Video_Calist_Fem_ScrReworks_AS_9x16_en.mp4",
+        "id": "7f1ca66b-b83e-46e7-8f29-89bf91fd88cc",
+        "name": "BodyScan_271_v8_Video_MAIN_Fem_ThatWork_OK_9x16_en.mp4",
+        "ad_account_name": "Zing Coach Inc. Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Get your AI-powered fitness plan💪",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ka0eIY2eKJ5pI3txZlo0z.67?mo=GtwCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIrZNWIAEw4AM41AZAAUoOCgl7KjcbGyoiIikQ9ANQuscBaAIiBgoCSAMSAKIBNAi6ChInCiUIlsxSIAEw0AU4gApAAkoPCgqNATI4HhktHCApEPQDULrHAWgCIgYKAkgCEgCiATIIfxImCiQImKg_IAEw4AM41AZAAkoOCglbGSMTEBwXGRkQ9ANQuscBaAIiBgoCSAISAKIBMwiSChImCiQI2elCIAEw4AM41AZAAkoOCglcGyMTEh0ZGhwQ9ANQuscBaAIiBgoCSAISAKIBMwjEChImCiQI7LY1IAEw4AM41gZAAkoOCglkGyQTDxwSFBkQ9ANQuscBaAIiBgoCSAISAKIBMwjSChImCiQI6us3IAEw4AM41AZAAkoOCgllHSMUEB4RFRoQ9ANQuscBaAIiBgoCSAISAJADuscB&uc=15",
+        "start_date": "2025-08-08T21:00:00.000Z",
+        "impressions_total": 53213,
+        "impressions_map": {
+          "de": 666,
+          "be": 708,
+          "fi": 1140,
+          "pt": 1281,
+          "bg": 489,
+          "dk": 583,
+          "lt": 1277,
+          "lu": 261,
+          "hr": 837,
+          "lv": 0,
+          "fr": 786,
+          "hu": 443,
+          "se": 1836,
+          "si": 2453,
+          "sk": 213,
+          "ie": 29785,
+          "ee": 0,
+          "el": 1966,
+          "mt": 0,
+          "it": 689,
+          "es": 1518,
+          "at": 490,
+          "cy": 0,
+          "cz": 287,
+          "pl": 714,
+          "ro": 871,
+          "nl": 1750,
+          "tr": 2170
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Zing Coach Inc.",
+        "profile_name": "Zing Al: Home & Gym Workouts",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://zingcoach.fit/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "39179bb2-8821-474a-8578-f7c80b519ef1",
+        "name": "WeightLoss_18_v1_Video_Pilates_Fem_Tattoo_AS_9x16_En.mp4",
         "ad_account_name": "Zing Coach Inc. Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -574,314 +389,38 @@
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OiehNKGfiVivV2R85b1b5.67?mo=Gp8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIga4mIAEw4AM41AZAAUoOCgk_CxELDgwMEAsQ9ANQunJoAiIGCgJIAxIAogEyCLoKEiUKIwis5SUgATDQBTiACkACSg4KCVEODgsODwkRDhD0A1C6cmgCIgYKAkgDEgCiATEIfxIlCiMIzcwYIAEw4AM41AZAAkoOCgkvBwsGCQgICgcQ9ANQunJoAiIGCgJIAhIAogEyCJIKEiUKIwiAyBkgATDgAzjUBkACSg4KCTAHCwcJCQgLCBD0A1C6cmgCIgYKAkgCEgCiATIIxAoSJQojCJOgGiABMOADONYGQAJKDgoJQAoJCAkKBQwJEPQDULpyaAIiBgoCSAISAJADunI%3D&uc=15",
-        "start_date": "2025-05-05T08:04:08.000Z",
-        "impressions_total": 11658,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XQCYbBIraNK2Wgg8wCGIB.67?mo=Go4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATcIQxIrCikItIhlIAEw4AM41AZAAUoOCglNHx0ZHCssExYQ9ANQ6NQBaAJ1J-FpQCIGCgJIBBIAogE4CLoKEisKKQjS0UwgATDQBTiACkACSg4KCUMXFhMWJRUODhD0A1Do1AFoAnW-B3hAIgYKAkgDEgCiAT0IkgoSMAouCIXwRCABMOADONQGQAJKDgoJPBcTERUbEwsLEPQDUOjUAWgCdWumYEB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgic1zggATDgAzjUBkACSg4KCToREA4QGA8KCxD0A1Do1AFoAnVtuW1AfQAAgD8iBgoCSAISAJAD6NQB&uc=15",
+        "start_date": "2025-11-04T22:00:00.000Z",
+        "impressions_total": 1791,
         "impressions_map": {
-          "de": 194,
-          "be": 458,
-          "fi": 443,
-          "pt": 465,
-          "bg": 227,
-          "dk": 108,
-          "lt": 220,
-          "lu": 109,
-          "hr": 182,
+          "de": 28,
+          "be": 88,
+          "fi": 16,
+          "pt": 86,
+          "bg": 62,
+          "dk": 6,
+          "lt": 61,
+          "lu": 27,
+          "hr": 71,
           "lv": 0,
-          "fr": 291,
-          "hu": 203,
-          "se": 514,
-          "si": 446,
-          "sk": 66,
-          "ie": 3818,
+          "fr": 49,
+          "hu": 40,
+          "se": 24,
+          "si": 136,
+          "sk": 22,
+          "ie": 590,
           "ee": 0,
-          "el": 327,
+          "el": 69,
           "mt": 0,
-          "it": 326,
-          "es": 421,
-          "at": 155,
-          "cy": 0,
-          "cz": 89,
-          "pl": 109,
-          "ro": 210,
-          "nl": 811,
-          "tr": 1466
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Zing Coach Inc.",
-        "profile_name": "Zing Al: Home & Gym Workouts",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://zingcoach.fit/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "b3c009c8-9357-404c-bd4a-d52109a91c25",
-        "name": "BodyScan_A3_Ugc_OK_9x16_sp.mov",
-        "ad_account_name": "Zing Coach Inc. Self Service",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "es"
-        ],
-        "headline": "Tu plan fitness con IA 💪",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RN0DZGvDRA5g72ZZosVEk.67?mo=GtgBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIwhDEhsKGQjploIBIAFKDgoJVyAuOBo1UjYzEPQDaAIiAhIAogEjCLoKEhoKGAjI52IgAUoOCglNGCIyGiw8LikQ9ANoAiICEgCiASIIfxIaChgIkvFiIAFKDgoJRhMbKBUgMyYkEPQDaAIiAhIAogEjCJIKEhoKGAiGkWwgAUoOCglIFR0pEyUuMR4Q9ANoAiICEgCiASMIxAoSGgoYCLiVRSABSg4KCT0RGBwPHikfGxD0A2gCIgISAJADoIAC&uc=15",
-        "start_date": "2025-05-15T21:00:00.000Z",
-        "impressions_total": 5645,
-        "impressions_map": {
-          "de": 89,
-          "be": 398,
-          "fi": 42,
-          "pt": 69,
-          "bg": 34,
-          "dk": 27,
-          "lt": 9,
-          "lu": 57,
-          "hr": 20,
-          "lv": 0,
-          "fr": 1615,
-          "hu": 12,
-          "se": 170,
-          "si": 12,
-          "sk": 12,
-          "ie": 110,
-          "ee": 0,
-          "el": 28,
-          "mt": 0,
-          "it": 110,
-          "es": 2332,
-          "at": 47,
+          "it": 87,
+          "es": 41,
+          "at": 17,
           "cy": 0,
           "cz": 8,
-          "pl": 19,
-          "ro": 47,
-          "nl": 344,
-          "tr": 34
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [
-                "es"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Zing Coach Inc.",
-        "profile_name": "Zing Al: Home & Gym Workouts",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://zing-gym.coach/?lng=es&utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a769a130-51bd-459b-a4cb-20d20d02cd21",
-        "name": "BodyScan_ugc_A107_JacindaAI_SS_9x16.mp4",
-        "ad_account_name": "Zing Coach Inc. Self Service",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Get your AI-powered fitness plan💪",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GvoyeMWPRZlShT10KaNon.67?mo=GpUCGggyAgR9UA9gAVoIQWRzTWVkaWGiASgIQxIcChoIvoWAASABSg8KCoABPy4sNy89ISYQ9ANoAiIGCgJIAxIAogEnCLoKEhoKGAiEzF0gAUoOCglrKiIhJiYtGh8Q9ANoAiIGCgJIAhIAogEmCH8SGgoYCMjIVyABSg4KCVsoHBohGikXGBD0A2gCIgYKAkgCEgCiAScIkgoSGgoYCPa-WyABSg4KCV4sHhwgHisYGRD0A2gCIgYKAkgCEgCiAScIxAoSGgoYCJSkQSABSg4KCVAcFhYbESISFBD0A2gCIgYKAkgCEgCiAScI0goSGgoYCN_3QyABSg4KCVIeFxcdEh8UFRD0A2gCIgYKAkgCEgCQA7DqAQ%3D%3D&uc=15",
-        "start_date": "2025-05-06T21:00:00.000Z",
-        "impressions_total": 392580,
-        "impressions_map": {
-          "de": 7138,
-          "be": 15386,
-          "fi": 11774,
-          "pt": 8250,
-          "bg": 7114,
-          "dk": 4006,
-          "lt": 9262,
-          "lu": 3070,
-          "hr": 6388,
-          "lv": 0,
-          "fr": 17290,
-          "hu": 3289,
-          "se": 12743,
-          "si": 13346,
-          "sk": 1939,
-          "ie": 143052,
-          "ee": 0,
-          "el": 15949,
-          "mt": 0,
-          "it": 11519,
-          "es": 17138,
-          "at": 5534,
-          "cy": 0,
-          "cz": 1695,
-          "pl": 4379,
-          "ro": 6954,
-          "nl": 34215,
-          "tr": 31150
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Zing Coach Inc.",
-        "profile_name": "Zing Al: Home & Gym Workouts",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://zingcoach.fit/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "78af3ee5-68c7-424d-b43b-b1b30def504f",
-        "name": "BodyScan_ugc_C98_Max basa_GM_SS_9x16.mp4",
-        "ad_account_name": "Zing Coach Inc. Self Service",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Get your AI-powered fitness plan!",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SqRHgF4JQGDyoiqsCnhs5.67?mo=Gu4BGggyAgR9UA9gAVoIQWRzTWVkaWGiASgIQxIcChoIm5apASABSg8KCoEBLSUpUkQlJyIQ9ANoAiIGCgJIAxIAogEoCLoKEhsKGQjigoQBIAFKDgoJZiIlIUJUKSkhEPQDaAIiBgoCSAISAKIBJwh_EhsKGQjR4IQBIAFKDgoJXx4cHTMwHhwbEPQDaAIiBgoCSAISAKIBKAiSChIbChkIssiMASABSg4KCWIfHyA5Nh4eHBD0A2gCIgYKAkgCEgCiAScIxAoSGgoYCIe6XiABSg4KCU8YGhcsLiobFRD0A2gCIgYKAkgCEgCQA_7fAQ%3D%3D&uc=15",
-        "start_date": "2025-04-20T21:00:00.000Z",
-        "impressions_total": 20393,
-        "impressions_map": {
-          "de": 279,
-          "be": 579,
-          "fi": 882,
-          "pt": 834,
-          "bg": 558,
-          "dk": 126,
-          "lt": 574,
-          "lu": 404,
-          "hr": 588,
-          "lv": 0,
-          "fr": 551,
-          "hu": 391,
-          "se": 483,
-          "si": 2105,
-          "sk": 154,
-          "ie": 6778,
-          "ee": 0,
-          "el": 557,
-          "mt": 0,
-          "it": 380,
-          "es": 581,
-          "at": 288,
-          "cy": 0,
-          "cz": 121,
-          "pl": 426,
-          "ro": 509,
-          "nl": 834,
-          "tr": 1411
+          "pl": 8,
+          "ro": 69,
+          "nl": 72,
+          "tr": 114
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -918,6 +457,466 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://www.zing-gym.coach/both/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "15ce9807-c20a-4abb-97e0-3e91262a35e0",
+        "name": "BodyScan_UGC_C139_Devlift_AR_9x16_EN.mov",
+        "ad_account_name": "Zing Coach Inc. Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Get your AI-powered fitness plan💪",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3KEu6Yevl8gn0rerF8yId.67?mo=GuoBGggyAgR9UA9gAVoIQWRzTWVkaWGiAScIQxIbChkI_ouFASABSg4KCVIWFBcyXhwcGRD0A2gCIgYKAkgFEgCiAScIugoSGgoYCOeAZiABSg4KCV0WFBksPxUaHRD0A2gCIgYKAkgDEgCiASYIfxIaChgIk9thIAFKDgoJQw4SDx40FhUUEPQDaAIiBgoCSAISAKIBJwiSChIaChgI2dxjIAFKDgoJQxEREiE_FRUUEPQDaAIiBgoCSAISAKIBJwjEChIaChgIv_lJIAFKDgoJRhANEh4sDQ8TEPQDaAIiBgoCSAISAJADtt4B&uc=15",
+        "start_date": "2025-06-17T21:00:00.000Z",
+        "impressions_total": 9819,
+        "impressions_map": {
+          "de": 225,
+          "be": 365,
+          "fi": 297,
+          "pt": 201,
+          "bg": 141,
+          "dk": 85,
+          "lt": 84,
+          "lu": 86,
+          "hr": 71,
+          "lv": 0,
+          "fr": 349,
+          "hu": 94,
+          "se": 368,
+          "si": 103,
+          "sk": 38,
+          "ie": 4330,
+          "ee": 0,
+          "el": 373,
+          "mt": 0,
+          "it": 271,
+          "es": 413,
+          "at": 120,
+          "cy": 0,
+          "cz": 27,
+          "pl": 82,
+          "ro": 78,
+          "nl": 775,
+          "tr": 843
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Zing Coach Inc.",
+        "profile_name": "Zing Al: Home & Gym Workouts",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://zingcoach.fit/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3b0b4bcb-a42b-4734-bc6f-714988217e81",
+        "name": "Max_10.mp4",
+        "ad_account_name": "Zing Coach Inc. Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Get your AI-powered fitness plan💪",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gN7FGN4tOiOQ74qRG6bQp.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwiphzQgATDgAzjUBkABSg4KCU8eGhsWEhcSEhD0A1Cae2gCIgISAKIBLgi6ChIlCiMIu-YqIAEw0AU4gApAAkoOCglXGhgWFBQQEhEQ9ANQmntoAiICEgCiAS0IfxIlCiMIlIklIAEw4AM41AZAAkoOCgk9EhUQDwwQDQsQ9ANQmntoAiICEgCiAS4IkgoSJQojCJrHJyABMOADONQGQAJKDgoJPxQWEQ4PEA0NEPQDUJp7aAIiAhIAogEuCMQKEiUKIwjV2R4gATDgAzjWBkACSg4KCUESEQ8NDgwMDBD0A1Cae2gCIgISAKIBLgjSChIlCiMI0rchIAEw4AM41AZAAkoOCglFExIRDw8NDw0Q9ANQmntoAiICEgCQA5p7&uc=15",
+        "start_date": "2025-06-20T21:00:00.000Z",
+        "impressions_total": 146616,
+        "impressions_map": {
+          "de": 2683,
+          "be": 5234,
+          "fi": 4552,
+          "pt": 5311,
+          "bg": 3031,
+          "dk": 1544,
+          "lt": 2769,
+          "lu": 1676,
+          "hr": 2882,
+          "lv": 0,
+          "fr": 4597,
+          "hu": 998,
+          "se": 5464,
+          "si": 5441,
+          "sk": 1001,
+          "ie": 55779,
+          "ee": 0,
+          "el": 9121,
+          "mt": 0,
+          "it": 4920,
+          "es": 5128,
+          "at": 1749,
+          "cy": 0,
+          "cz": 610,
+          "pl": 1967,
+          "ro": 3084,
+          "nl": 9221,
+          "tr": 7854
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Zing Coach Inc.",
+        "profile_name": "Zing Al: Home & Gym Workouts",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://zing-gym.coach/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "9cbb7475-3dfb-4c55-b95a-432e36413599",
+        "name": "Senior_15_v6_Video_Seniors_Male_GymZdoroviak_AG_9x16_en.mp4",
+        "ad_account_name": "Zing Coach Inc. Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Get your AI-powered fitness plan💪",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JeKar3juaYn5zYOOJHXMZ.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMImbRNIAEw4AM41AZAAUoOCgleIygrHxQYDxAQ9ANQ3G9oAiIGCgJIBBIAogEyCLoKEiUKIwixwT0gATDQBTiACkACSg4KCVIdIiMWDhEMGBD0A1Dcb2gCIgYKAkgCEgCiATEIfxIlCiMIi5ExIAEw4AM41AZAAkoOCglEGBkZEQ0OCQoQ9ANQ3G9oAiIGCgJIAhIAogEyCJIKEiUKIwi32zMgATDgAzjUBkACSg4KCUIdGB0RDg4KCxD0A1Dcb2gCIgYKAkgCEgCiATIIxAoSJQojCLjaKSABMOADONYGQAJKDgoJPBIXGA8JDAgJEPQDUNxvaAIiBgoCSAISAKIBMgjSChIlCiMIysQsIAEw4AM41AZAAkoOCglAFBkaEQoNCREQ9ANQ3G9oAiIGCgJIAhIAkAPcbw%3D%3D&uc=15",
+        "start_date": "2025-07-19T08:43:26.000Z",
+        "impressions_total": 5436,
+        "impressions_map": {
+          "de": 74,
+          "be": 121,
+          "fi": 90,
+          "pt": 259,
+          "bg": 176,
+          "dk": 42,
+          "lt": 134,
+          "lu": 49,
+          "hr": 158,
+          "lv": 0,
+          "fr": 86,
+          "hu": 57,
+          "se": 164,
+          "si": 354,
+          "sk": 83,
+          "ie": 1687,
+          "ee": 0,
+          "el": 365,
+          "mt": 0,
+          "it": 258,
+          "es": 259,
+          "at": 63,
+          "cy": 0,
+          "cz": 70,
+          "pl": 146,
+          "ro": 174,
+          "nl": 224,
+          "tr": 343
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Zing Coach Inc.",
+        "profile_name": "Zing Al: Home & Gym Workouts",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://zing-gym.coach/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b78d387a-3e6c-43fb-9165-1573cf7e52ca",
+        "name": "BodyScan_258_v5_Video_Main_Both_Aleeahy_AR_9x16_en.mp4",
+        "ad_account_name": "Zing Coach Inc. Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Get your AI-powered fitness plan💪",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9e2BH0EHMPWHA1IsUm5ay.67?mo=Gt4CGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUI_eeQASABMOADONQGQAFKDgoJdigcFBMQE0tDEPQDUMbXAWgCIgYKAkgEEgCiATUIugoSKAomCIeOiwEgATDQBTiACkACSg8KCscBHhocEBoXSjkQ9ANQxtcBaAIiBgoCSAISAKIBMgh_EiYKJAjIjWsgATDgAzjUBkACSg4KCV8cEBMNDg8qJhD0A1DG1wFoAiIGCgJIAhIAogEzCJIKEiYKJAji5m8gATDgAzjUBkACSg4KCWAXExINDhAsLhD0A1DG1wFoAiIGCgJIAhIAogEzCMQKEiYKJAiC4VggATDgAzjWBkACSg4KCXgSDxEKDw0yIxD0A1DG1wFoAiIGCgJIAhIAogEzCNIKEiYKJAiAtFkgATDgAzjUBkACSg4KCXgTEREKDw01JRD0A1DG1wFoAiIGCgJIAhIAkAPG1wE%3D&uc=15",
+        "start_date": "2025-08-08T21:00:00.000Z",
+        "impressions_total": 5742,
+        "impressions_map": {
+          "de": 108,
+          "be": 144,
+          "fi": 156,
+          "pt": 196,
+          "bg": 64,
+          "dk": 82,
+          "lt": 130,
+          "lu": 21,
+          "hr": 59,
+          "lv": 0,
+          "fr": 126,
+          "hu": 53,
+          "se": 308,
+          "si": 196,
+          "sk": 15,
+          "ie": 2645,
+          "ee": 0,
+          "el": 220,
+          "mt": 0,
+          "it": 100,
+          "es": 163,
+          "at": 75,
+          "cy": 0,
+          "cz": 25,
+          "pl": 89,
+          "ro": 87,
+          "nl": 272,
+          "tr": 408
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Zing Coach Inc.",
+        "profile_name": "Zing Al: Home & Gym Workouts",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://zingcoach.fit/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "9cbfb8ae-46be-4e27-8e38-3b835622ce0e",
+        "name": "BodyScan_264_v8_Video_MAIN_Fem_WeightLossWomen_AS_9x16_en.mp4",
+        "ad_account_name": "Zing Coach Inc. Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Get your AI-powered fitness plan💪",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/wvrDGlU7LXBCUL22c7mdA.67?mo=Gt0CGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUI0MeiASABMOADONQGQAFKDgoJayIxFzQbNBsgEPQDUMroAWgCIgYKAkgDEgCiATQIugoSJwolCNvhhwEgATDQBTiACkACSg4KCWUcJRIuGikdHhD0A1DK6AFoAiIGCgJIAhIAogEyCH8SJgokCNa5dyABMOADONQGQAJKDgoJUxUfDycSKBMWEPQDUMroAWgCIgYKAkgCEgCiATMIkgoSJgokCKr8fiABMOADONQGQAJKDgoJVBYiECoUKxcVEPQDUMroAWgCIgYKAkgCEgCiATMIxAoSJgokCN_jXiABMOADONYGQAJKDgoJThEaDCERHxMUEPQDUMroAWgCIgYKAkgCEgCiATMI0goSJgokCNqqZCABMOADONQGQAJKDgoJURMdDSMSIRQWEPQDUMroAWgCIgYKAkgCEgCQA8roAQ%3D%3D&uc=15",
+        "start_date": "2025-08-08T21:00:00.000Z",
+        "impressions_total": 6814,
+        "impressions_map": {
+          "de": 180,
+          "be": 102,
+          "fi": 122,
+          "pt": 189,
+          "bg": 73,
+          "dk": 100,
+          "lt": 99,
+          "lu": 25,
+          "hr": 52,
+          "lv": 0,
+          "fr": 166,
+          "hu": 44,
+          "se": 289,
+          "si": 154,
+          "sk": 23,
+          "ie": 3352,
+          "ee": 0,
+          "el": 283,
+          "mt": 0,
+          "it": 150,
+          "es": 282,
+          "at": 78,
+          "cy": 0,
+          "cz": 34,
+          "pl": 129,
+          "ro": 107,
+          "nl": 257,
+          "tr": 524
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Zing Coach Inc.",
+        "profile_name": "Zing Al: Home & Gym Workouts",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://zingcoach.fit/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

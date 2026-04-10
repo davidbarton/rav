@@ -1,167 +1,15 @@
 {
   "brand": "H&M",
   "country": "ro",
-  "fetched_at": "2026-04-09T21:24:20.762Z",
+  "fetched_at": "2026-04-10T07:14:29.161Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b6d8566d-5c03-4780-996a-c69d0c742ee2",
-        "name": "cn_spring-fy25-drop-2|cc_brand|cy_video|crn_6a|ci_xxxx",
-        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "ro"
-        ],
-        "headline": "H&M Summer 2025",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/dvvIqJTSAnJTkg1VpnTBz.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI2OEiIAFKDgoJQTYvSTQ2FRkjEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIz9cXIAFKDgoJMiEjKSceFA8YEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjG2RMgAUoOCgkoHB4qHhcLCxIQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjzgRUgAUoOCgkrICEsGxwMDRMQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAig5g8gAUoOCgkkFhgcGhMNCBAQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-05-14T20:00:46.000Z",
-        "impressions_total": 424892,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 424892,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "profile_name": "H&M",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1031a-summer-2025-drop-1.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-fy25-drop-2-~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=video_6a"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "b429802a-a63e-414e-b68b-e85d0d630aa0",
-        "name": "cn_spring-fy25-drop-2|cc_brand|cy_video|crn_10b|ci_xxxx",
-        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "ro"
-        ],
-        "headline": "H&M Summer 2025",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Zlw84T5Sp00KQ4QPVqN67.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIw_tJIAFKDgoJNjcnElo6TD5aEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgI-YsvIAFKDgoJMCAcDzkgKC46EPQDaAIiBgoCSAISAKIBJgh_EhoKGAjDkyUgAUoOCgkiIBMJJhgkIi4Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi4oCcgAUoOCgkjIRMJKRknJy4Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjrsR8gAUoOCgkjFRMJJRMZHisQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-05-14T20:00:46.000Z",
-        "impressions_total": 521930,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 521930,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "profile_name": "H&M",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1031a-summer-2025-drop-1.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-fy25-drop-2-~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=video_10b"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "21118f05-b0ad-4258-9023-cd1d5e5a48df",
-        "name": "cn_spring-drop-2|cc_brand|cy_video|crn_6b|ci_xxxx",
+        "id": "30807677-d047-4ad7-b60c-1a876ccb9771",
+        "name": "cn_spring-fy25-drop-1|cc_brand|cy_video|crn_6e|ci_4vq6bv0ed4nl",
         "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
         "status": "ACTIVE",
         "creative_type": "COMPOSITE",
@@ -170,11 +18,11 @@
         "languages": [
           "ro"
         ],
-        "headline": "Minimalism romantic în S/S 2025.",
+        "headline": "Reflecții asupra sinelui, S/S 2025",
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2025-03-20T05:30:13.000Z",
-        "impressions_total": 157489,
+        "impressions_total": 330866,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -201,7 +49,7 @@
           "cy": 0,
           "cz": 0,
           "pl": 0,
-          "ro": 157489,
+          "ro": 330866,
           "nl": 0,
           "tr": 0
         },
@@ -228,266 +76,14 @@
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
-              "headline": "Minimalism romantic în S/S 2025.",
+              "headline": "Reflecții asupra sinelui, S/S 2025",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fddbMguCz8IKeZpm714qZ.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI0OYQIAFKDgoJJwsKLhYZEioQEPQDaAIiBgoCSAISAKIBJwi6ChIaChgIzLgNIAFKDgoJNQkMHRERDxIMEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAja4gggAUoOCgkeBgkNDQ0HDwkQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjalwkgAUoOCgkcCQgODg0LDQsQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAj2vwkgAUoOCgkiBwcSDAwKDBEQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JLkj3pWMr3BKHym4p5AD5.67?mo=GpcCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogEvCEMSHQobCPDBFiABShEKDC4bESoZFhMpETwYFBD0A2gCIgwKCEIGCPD23L4GEgCiAS8IugoSHAoaCLvpEiABShAKCycPCSIYFBMlDjMVEPQDaAIiDAoIQgYI_fbcvgYSAKIBLwh_Eh0KGwj0wAsgAUoRCgwZCgcREhANGAsVDAoQ9ANoAiIMCghCBgj-9ty-BhIAogEwCJIKEh0KGwiH1AsgAUoRCgwZCwYREBQMGQoWCg0Q9ANoAiIMCghCBgj99ty-BhIAogEvCMQKEhwKGgjyxQwgAUoQCgscCAcXEA4NFwkgDhD0A2gCIgwKCEIGCP723L4GEgCQA_Au&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1011b-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-drop2~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=video_6b"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "45a5f0bc-f3b2-4d63-8dbf-1a67cee3f6d5",
-        "name": "cn_spring-drop-2|cc_brand|cy_video|crn_6e|ci_xxxx",
-        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "ro"
-        ],
-        "headline": "Minimalism romantic în S/S 2025.",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-20T05:30:13.000Z",
-        "impressions_total": 184724,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 184724,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "profile_name": "H&M",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Minimalism romantic în S/S 2025.",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/kQFNJm5pkhKhH1VuZT09p.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIgsIYIAFKDgoJPR4RHgsWGig6EPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIx4UWIAFKDgoJOSMPHQwRGSUyEPQDaAIiBgoCSAISAKIBJgh_EhoKGAiomxAgAUoOCgkpEw4SCBESHiQQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAit3hAgAUoOCgknFw8SCRMSHyMQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAi36Q4gAUoOCgkoFwoUCAwQGiMQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1011b-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-drop2~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=video_6e"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "62dda907-419e-4603-b3ec-0394fab85265",
-        "name": "cn_spring-fy25-drop-2|cc_brand|cy_video|crn_6b|ci_xxxx",
-        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "H&M Summer 2025",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NRCaInGJAgF2Fb5VIaNRT.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIifYkIAFKDgoJMj8qKyYsJzBgEPQDaAIiBgoCSAISAKIBJwi6ChIaChgI2ZEZIAFKDgoJLiUeIh8eHik1EPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjz3RIgAUoOCgkfIhIWGRoWHCwQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi1yxMgAUoOCgkgIxIWGRkZHC4Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjN6RAgAUoOCgkhGRQYFRQTGyIQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-05-14T20:00:46.000Z",
-        "impressions_total": 418575,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 418575,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "profile_name": "H&M",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1031a-summer-2025-drop-1.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-fy25-drop-2-~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=video_6b"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "fb970733-a944-481c-984e-35e6a1632f3a",
-        "name": "cn_spring-drop-2|cc_brand|cy_video|crn_10a|ci_xxxx",
-        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "ro"
-        ],
-        "headline": "Minimalism romantic în S/S 2025.",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-20T05:30:13.000Z",
-        "impressions_total": 154043,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 154043,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "44",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "profile_name": "H&M",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Minimalism romantic în S/S 2025.",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/x1gfM9OvTJJyC55ctG8RQ.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIxtYpIAFKDgoJYDg5NQ4RDBcYEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIrLIkIAFKDgoJVCcpLg8PDRMYEPQDaAIiBgoCSAISAKIBJgh_EhoKGAiN2xkgAUoOCgk9ISEfCQwJERIQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi72RogAUoOCgk9IyIeCw0KERQQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjRihkgAUoOCgk9Gx0fCgoIDREQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1011b-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-drop2~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=video_10a"
+                "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1011a-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011a~~cn_spring~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=6e"
               }
             }
           ]
@@ -676,21 +272,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "30807677-d047-4ad7-b60c-1a876ccb9771",
-        "name": "cn_spring-fy25-drop-1|cc_brand|cy_video|crn_6e|ci_4vq6bv0ed4nl",
+        "id": "b429802a-a63e-414e-b68b-e85d0d630aa0",
+        "name": "cn_spring-fy25-drop-2|cc_brand|cy_video|crn_10b|ci_xxxx",
         "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "ro"
         ],
-        "headline": "Reflecții asupra sinelui, S/S 2025",
-        "call_to_action": "SHOP_NOW",
+        "headline": "H&M Summer 2025",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-20T05:30:13.000Z",
-        "impressions_total": 330866,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Zlw84T5Sp00KQ4QPVqN67.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIw_tJIAFKDgoJNjcnElo6TD5aEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgI-YsvIAFKDgoJMCAcDzkgKC46EPQDaAIiBgoCSAISAKIBJgh_EhoKGAjDkyUgAUoOCgkiIBMJJhgkIi4Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi4oCcgAUoOCgkjIRMJKRknJy4Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjrsR8gAUoOCgkjFRMJJRMZHisQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-05-14T20:00:46.000Z",
+        "impressions_total": 521930,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -717,7 +315,7 @@
           "cy": 0,
           "cz": 0,
           "pl": 0,
-          "ro": 330866,
+          "ro": 521930,
           "nl": 0,
           "tr": 0
         },
@@ -739,22 +337,8 @@
         "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
         "profile_name": "H&M",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Reflecții asupra sinelui, S/S 2025",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JLkj3pWMr3BKHym4p5AD5.67?mo=GpcCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogEvCEMSHQobCPDBFiABShEKDC4bESoZFhMpETwYFBD0A2gCIgwKCEIGCPD23L4GEgCiAS8IugoSHAoaCLvpEiABShAKCycPCSIYFBMlDjMVEPQDaAIiDAoIQgYI_fbcvgYSAKIBLwh_Eh0KGwj0wAsgAUoRCgwZCgcREhANGAsVDAoQ9ANoAiIMCghCBgj-9ty-BhIAogEwCJIKEh0KGwiH1AsgAUoRCgwZCwYREBQMGQoWCg0Q9ANoAiIMCghCBgj99ty-BhIAogEvCMQKEhwKGgjyxQwgAUoQCgscCAcXEA4NFwkgDhD0A2gCIgwKCEIGCP723L4GEgCQA_Au&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1011a-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011a~~cn_spring~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=6e"
-              }
-            }
-          ]
+        "web_view_properties": {
+          "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1031a-summer-2025-drop-1.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-fy25-drop-2-~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=video_10b"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -764,8 +348,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "04c0e57e-db83-489e-8199-377e51322952",
-        "name": "cn_spring-drop-2|cc_brand|cy_video|crn_6a|ci_xxxx",
+        "id": "fb970733-a944-481c-984e-35e6a1632f3a",
+        "name": "cn_spring-drop-2|cc_brand|cy_video|crn_10a|ci_xxxx",
         "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
         "status": "ACTIVE",
         "creative_type": "COMPOSITE",
@@ -778,7 +362,7 @@
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2025-03-20T05:30:13.000Z",
-        "impressions_total": 154727,
+        "impressions_total": 154043,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -805,7 +389,7 @@
           "cy": 0,
           "cz": 0,
           "pl": 0,
-          "ro": 154727,
+          "ro": 154043,
           "nl": 0,
           "tr": 0
         },
@@ -836,10 +420,438 @@
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/siBj87t5GcaEs6WFCkWL4.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI5rQWIAFKDgoJWyscMxMYFSkJEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIsLMUIAFKDgoJWx8YJxASFC8KEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiTiAwgAUoOCgkwGBAUCg4NFAYQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAj7yQwgAUoOCgkvGA4UDBENFggQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiIkg0gAUoOCgk5ExAZCwwOHQcQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/x1gfM9OvTJJyC55ctG8RQ.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIxtYpIAFKDgoJYDg5NQ4RDBcYEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIrLIkIAFKDgoJVCcpLg8PDRMYEPQDaAIiBgoCSAISAKIBJgh_EhoKGAiN2xkgAUoOCgk9ISEfCQwJERIQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi72RogAUoOCgk9IyIeCw0KERQQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjRihkgAUoOCgk9Gx0fCgoIDREQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
-                "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1011b-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-drop2~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=video_6a"
+                "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1011b-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-drop2~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=video_10a"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "87b39208-6ff8-42dd-847a-882ec16fae4b",
+        "name": "cn_spring-fy25-drop-1|cc_brand|cy_video|crn_6d|ci_4vq6bv0ed4nl",
+        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "ro"
+        ],
+        "headline": "Reflecții asupra sinelui, S/S 2025",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-03-20T05:30:13.000Z",
+        "impressions_total": 333636,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 333636,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Reflecții asupra sinelui, S/S 2025",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/4NghYAQ2QUeGzdpUOIiiY.67?mo=Gp8CGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBMQhDEh0KGwim_BsgAUoRCgw0FRM-KTYoMyElGQ0Q9ANoAiIOCgpCBgjB5dy-BkgCEgCiATEIugoSHAoaCKT-FSABShAKCzMMDS8iIyIlGB4YEPQDaAIiDgoKQgYI7eXcvgZIAxIAogExCH8SHQobCIrQDSABShEKDBwLCBUYHBMWERMOBxD0A2gCIg4KCkIGCO3l3L4GSAISAKIBMgiSChIdChsIraEOIAFKEQoMGwsKGBceFBkSEw4HEPQDaAIiDgoKQgYI7eXcvgZIAhIAogExCMQKEhwKGgi8qQ4gAUoQCgsfCAgfFhkYFw8UEBD0A2gCIg4KCkIGCO3l3L4GSAISAJAD8C4%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1011a-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011a~~cn_spring~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=6d"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "fe7807fe-4cc0-4b8f-a1de-ff280ea2ce5f",
+        "name": "cn_spring-drop-2|cc_brand|cy_video|crn_6c|ci_xxxx",
+        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "ro"
+        ],
+        "headline": "Minimalism romantic în S/S 2025.",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-03-20T05:30:13.000Z",
+        "impressions_total": 158105,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 158105,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Minimalism romantic în S/S 2025.",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xMk1UKvL8RbBNqoxJ7v0Z.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgInuYaIAFKDgoJND8cJhclKCUlEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgI8M8TIAFKDgoJJxwVExQUJiEeEPQDaAIiBgoCSAISAKIBJgh_EhoKGAjO5QwgAUoOCgkZEQ0RCw4TFxYQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiwvw0gAUoOCgkaEQwTCxAYFhUQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjHgA0gAUoOCgkZEw4ODQwZFhQQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1011b-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-drop2~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=video_6c"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d802ecfe-45d9-4741-b016-85eee3c04ff0",
+        "name": "cn_spring-fy25-drop-2|cc_brand|cy_video|crn_10a|ci_xxxx",
+        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "ro"
+        ],
+        "headline": "H&M Summer 2025",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LDP4HQWeb2XDPdQQDEG1a.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIza4-IAFKDgoJSjcvSDswKTobEPQDaAIiBgoCSAISAKIBJwi6ChIaChgI7owqIAFKDgoJPSUhLSYcHSYREPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjt7SIgAUoOCgkuHx0qGhgSIg0Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiYliUgAUoOCgkxIyEqHBoUIw8Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiH3BsgAUoOCgkrGRYdGRMSGQoQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-05-14T20:00:46.000Z",
+        "impressions_total": 414538,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 414538,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1031a-summer-2025-drop-1.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011b~~cn_spring-fy25-drop-2-~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=video_10a"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b11f2448-a59b-477a-87a1-bb990cad9bef",
+        "name": "cn_spring-fy25-drop-1|cc_brand|cy_video|crn_6f|ci_4vq6bv0ed4nl",
+        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "ro"
+        ],
+        "headline": "Reflecții asupra sinelui, S/S 2025",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-03-20T05:30:13.000Z",
+        "impressions_total": 150455,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 150455,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Reflecții asupra sinelui, S/S 2025",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/aDDXJBW2pOfnNnDJU3c82.67?mo=GpcCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogEvCEMSHQobCJjrHSABShEKDEM7GxkgNhYvDzwtGRD0A2gCIgwKCEIGCMj33L4GEgCiAS8IugoSHAoaCOSZHiABShAKCz4wHRYfOB8yE0AuEPQDaAIiDAoIQgYI8PfcvgYSAKIBLwh_Eh0KGwjUmhIgAUoRCgwnHhUOGCAPFQgkIhIQ9ANoAiIMCghCBgjw99y-BhIAogEwCJIKEh0KGwiqixMgAUoRCgwpHRcQGSARFQonIxIQ9ANoAiIMCghCBgjv99y-BhIAogEvCMQKEhwKGgi44hMgAUoQCgsoIBMPFSAXIgwrHhD0A2gCIgwKCEIGCPD33L4GEgCQA_Au&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1011a-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011a~~cn_spring~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=6f"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "50263ef5-9c60-4233-a0c0-26afac4f97b9",
+        "name": "cn_spring-fy25-drop-1|cc_brand|cy_video|crn_6a|ci_4vq6bv0ed4nl",
+        "ad_account_name": "H&M Hennes and Mauritz GBC Self Service",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "ro"
+        ],
+        "headline": "Reflecții asupra sinelui, S/S 2025",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-03-20T05:30:13.000Z",
+        "impressions_total": 188925,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 188925,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "44",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Reflecții asupra sinelui, S/S 2025",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xSMCJzhetowllZpJoGRu9.67?mo=Gp8CGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBMQhDEh0KGwiRlB8gAUoRCgw7QTElGzAcIiYvJxwQ9ANoAiIOCgpCBgiP49y-BkgDEgCiATEIugoSHAoaCKPHGSABShAKCygpIxwVLBsfIyosEPQDaAIiDgoKQgYI5OPcvgZIAhIAogExCH8SHQobCJPuESABShEKDB4UHBUQGhUaGB4ZExD0A2gCIg4KCkIGCOXj3L4GSAISAKIBMgiSChIdChsI8psSIAFKEQoMHhYZFxAcFRkZIBoTEPQDaAIiDgoKQgYI5OPcvgZIAhIAogExCMQKEhwKGgjEyBEgAUoQCgseHBYSDh4TFRgeHxD0A2gCIg4KCkIGCOXj3L4GSAISAJAD8C4%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www2.hm.com/ro_ro/femei/cumparaturi-sortate-dupa-tema/1011a-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_ro~pl_snapchat~bg_global-brand~ai_ai1011a~~cn_spring~tn_xxxx~bu_ladies~pi_rof20aod1af214&utm_term=ro&utm_content=6a"
               }
             }
           ]

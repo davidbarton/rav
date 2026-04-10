@@ -1,10 +1,161 @@
 {
   "brand": "Axe",
   "country": "be",
-  "fetched_at": "2026-04-09T17:21:48.494Z",
+  "fetched_at": "2026-04-10T06:38:23.873Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2ea905ea-42cb-44a4-99b8-96871a72f04d",
+        "name": "27/04/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EgUd0RESt93OiVSj2A5cw.67.IRZXSOY?mo=GsACGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNwhDEhoKGAi3kWcgAUoOCglNEAYWIA8VFSQQ9ANoAiIXCgpCBgjEt7jABkgEEgAqB0lSWlhTT1miATgIugoSGgoYCOGsXCABSg4KCUEMBhUXDg4SFxD0A2gCIhcKCkIGCOm4uMAGSAISACoHSVJaWFNPWaIBNwh_EhoKGAiKgT8gAUoOCglDCAUMEQkMDBIQ9ANoAiIXCgpCBgjpuLjABkgCEgAqB0lSWlhTT1miATgIkgoSGgoYCJHjPyABSg4KCUQIBQ0SCgwNExD0A2gCIhcKCkIGCOm4uMAGSAISACoHSVJaWFNPWaIBOAjEChIaChgItc47IAFKDgoJOgcEDg8JCQsQEPQDaAIiFwoKQgYI6bi4wAZIAhIAKgdJUlpYU09ZkAPshQM%3D&uc=15",
+        "start_date": "2025-04-27T22:00:00.000Z",
+        "impressions_total": 12,
+        "impressions_map": {
+          "de": 0,
+          "be": 5,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 7,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Axel TATY",
+        "profile_name": "Axel TATY",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ2R6eDFaVkU4aFJTMTlNcDYwY1JBP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/yooocjay",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ2R6eDFaVkU4aFJTMTlNcDYwY1JBP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a9698d88-9cbb-46c3-b5f5-eb117f18c470",
+        "name": "1/14/26 - Ad",
+        "ad_account_name": "iOS In-App Promotions",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gwAt9sdAgUNj8M15xmouG.67?mo=Gr0CGgoyAQQ6AX1QD2ABUIsCWghBZHNNZWRpYaIBRAhDEjAKLgi94mUgATDgAzjUBkABSg4KCXEuKSotJDUfKRD0A1DilQFoAnXYr0NAfQAAgD8iDgoKQgYIgOCcywZIAhIAogFFCLoKEjAKLgin33ggATDQBTiACkACSg4KCXAzMTs5LTc-NhD0A1DilQFoAnX6x0xAfQAAgD8iDgoKQgYIq-CcywZIAxIAogFFCJIKEjAKLgi01lggATDgAzjUBkACSg4KCVUoKCgpHjAkKRD0A1DilQFoAnXu-T1AfQAAgD8iDgoKQgYIq-CcywZIAhIAogFFCNIKEjAKLgjjvkQgATDgAzjUBkACSg4KCU0dGiMjGiIbIRD0A1DilQFoAnV4qURAfQAAgD8iDgoKQgYIq-CcywZIAhIAkAPilQE%3D&uc=15",
+        "start_date": "2026-01-28T11:46:54.000Z",
+        "impressions_total": 6807,
+        "impressions_map": {
+          "de": 0,
+          "be": 6807,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "37",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "NoFaxe",
+        "profile_name": "NoFaxe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc2pkVVczS09JZlFsaWNDSGVWSWRhP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/nofaxe200",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc2pkVVczS09JZlFsaWNDSGVWSWRhP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -157,83 +308,6 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "a9698d88-9cbb-46c3-b5f5-eb117f18c470",
-        "name": "1/14/26 - Ad",
-        "ad_account_name": "iOS In-App Promotions",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gwAt9sdAgUNj8M15xmouG.67?mo=Gr0CGgoyAQQ6AX1QD2ABUIsCWghBZHNNZWRpYaIBRAhDEjAKLgi94mUgATDgAzjUBkABSg4KCXEuKSotJDUfKRD0A1DilQFoAnXYr0NAfQAAgD8iDgoKQgYIgOCcywZIAhIAogFFCLoKEjAKLgin33ggATDQBTiACkACSg4KCXAzMTs5LTc-NhD0A1DilQFoAnX6x0xAfQAAgD8iDgoKQgYIq-CcywZIAxIAogFFCJIKEjAKLgi01lggATDgAzjUBkACSg4KCVUoKCgpHjAkKRD0A1DilQFoAnXu-T1AfQAAgD8iDgoKQgYIq-CcywZIAhIAogFFCNIKEjAKLgjjvkQgATDgAzjUBkACSg4KCU0dGiMjGiIbIRD0A1DilQFoAnV4qURAfQAAgD8iDgoKQgYIq-CcywZIAhIAkAPilQE%3D&uc=15",
-        "start_date": "2026-01-28T11:46:54.000Z",
-        "impressions_total": 6807,
-        "impressions_map": {
-          "de": 0,
-          "be": 6807,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "37",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "NoFaxe",
-        "profile_name": "NoFaxe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc2pkVVczS09JZlFsaWNDSGVWSWRhP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/nofaxe200",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc2pkVVczS09JZlFsaWNDSGVWSWRhP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
         "id": "49e165bb-5e50-47e0-8b44-0e07bf5b73a7",
         "name": "16/03/26 - Publicité",
         "ad_account_name": "Promotions Android in-app",
@@ -300,226 +374,6 @@
         "deep_link_properties": {
           "deep_link_uri": "snapchat://add/axel_1095",
           "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QveWhRS3BwWGNoaTNqTnFzazQ4aTNhP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ab175a9c-29b9-44ef-95c8-1d2a102bd03e",
-        "name": "04/09/2025 - Publicité",
-        "ad_account_name": "CamAxe 🍒🍒 libre-service",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "VIEW PROFILE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3B62AW800vk2DkpXRF7rk.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-        "start_date": "2025-09-04T22:00:00.000Z",
-        "impressions_total": 11879,
-        "impressions_map": {
-          "de": 145,
-          "be": 1563,
-          "fi": 60,
-          "pt": 192,
-          "bg": 1921,
-          "dk": 3,
-          "lt": 35,
-          "lu": 713,
-          "hr": 200,
-          "lv": 0,
-          "fr": 3781,
-          "hu": 8,
-          "se": 21,
-          "si": 39,
-          "sk": 42,
-          "ie": 1273,
-          "ee": 0,
-          "el": 432,
-          "mt": 0,
-          "it": 383,
-          "es": 534,
-          "at": 16,
-          "cy": 0,
-          "cz": 23,
-          "pl": 27,
-          "ro": 163,
-          "nl": 33,
-          "tr": 272
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "13",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CamAxe 🍒🍒",
-        "profile_name": "CamAxe 🍒🍒",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvajFraHJERDhKMXlMc0tPVGJsVFRCP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/camaxe13",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvajFraHJERDhKMXlMc0tPVGJsVFRCP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "2ea905ea-42cb-44a4-99b8-96871a72f04d",
-        "name": "27/04/25 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EgUd0RESt93OiVSj2A5cw.67.IRZXSOY?mo=GsACGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNwhDEhoKGAi3kWcgAUoOCglNEAYWIA8VFSQQ9ANoAiIXCgpCBgjEt7jABkgEEgAqB0lSWlhTT1miATgIugoSGgoYCOGsXCABSg4KCUEMBhUXDg4SFxD0A2gCIhcKCkIGCOm4uMAGSAISACoHSVJaWFNPWaIBNwh_EhoKGAiKgT8gAUoOCglDCAUMEQkMDBIQ9ANoAiIXCgpCBgjpuLjABkgCEgAqB0lSWlhTT1miATgIkgoSGgoYCJHjPyABSg4KCUQIBQ0SCgwNExD0A2gCIhcKCkIGCOm4uMAGSAISACoHSVJaWFNPWaIBOAjEChIaChgItc47IAFKDgoJOgcEDg8JCQsQEPQDaAIiFwoKQgYI6bi4wAZIAhIAKgdJUlpYU09ZkAPshQM%3D&uc=15",
-        "start_date": "2025-04-27T22:00:00.000Z",
-        "impressions_total": 12,
-        "impressions_map": {
-          "de": 0,
-          "be": 5,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 7,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Axel TATY",
-        "profile_name": "Axel TATY",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ2R6eDFaVkU4aFJTMTlNcDYwY1JBP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/yooocjay",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZ2R6eDFaVkU4aFJTMTlNcDYwY1JBP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "32374356-661d-44bd-ab5f-179ce84235d4",
-        "name": "11/08/25 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zzEWbGuXpQsG5Ql4DbQNJ.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-08-11T22:00:00.000Z",
-        "impressions_total": 7062,
-        "impressions_map": {
-          "de": 0,
-          "be": 7062,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Axel",
-        "profile_name": "Axel",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvd3RUNW1CZHlBSWRQNW1lZTVNWjlCP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/axellenaerts",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTkMzQkRrdjB5OVptTk9sS01Odks5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -603,49 +457,121 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "7cb86a7c-304d-4440-9c03-2d863ef52ee3",
-        "name": "Sales__DOTW__W17__Mule__F3195002__Single-image__CampaignLP__Product-focused__Rabbit__Still-life__Man__20250502__Design__MULES-SHOOT__v1",
-        "ad_account_name": "Axel Arigato Self Service",
+        "id": "ab175a9c-29b9-44ef-95c8-1d2a102bd03e",
+        "name": "04/09/2025 - Publicité",
+        "ad_account_name": "CamAxe 🍒🍒 libre-service",
         "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
         "languages": [],
-        "headline": "'Not A Slide' -Explore Pillow Mule",
-        "call_to_action": "SHOP_NOW",
+        "call_to_action": "VIEW PROFILE",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FY6Zw0eXLLdVAjQUxYYJn.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2024-10-30T11:53:28.000Z",
-        "impressions_total": 1529515,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3B62AW800vk2DkpXRF7rk.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2025-09-04T22:00:00.000Z",
+        "impressions_total": 11879,
         "impressions_map": {
-          "de": 34825,
-          "be": 194130,
+          "de": 145,
+          "be": 1563,
+          "fi": 60,
+          "pt": 192,
+          "bg": 1921,
+          "dk": 3,
+          "lt": 35,
+          "lu": 713,
+          "hr": 200,
+          "lv": 0,
+          "fr": 3781,
+          "hu": 8,
+          "se": 21,
+          "si": 39,
+          "sk": 42,
+          "ie": 1273,
+          "ee": 0,
+          "el": 432,
+          "mt": 0,
+          "it": 383,
+          "es": 534,
+          "at": 16,
+          "cy": 0,
+          "cz": 23,
+          "pl": 27,
+          "ro": 163,
+          "nl": 33,
+          "tr": 272
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "13",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CamAxe 🍒🍒",
+        "profile_name": "CamAxe 🍒🍒",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvajFraHJERDhKMXlMc0tPVGJsVFRCP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/camaxe13",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvajFraHJERDhKMXlMc0tPVGJsVFRCP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "32374356-661d-44bd-ab5f-179ce84235d4",
+        "name": "11/08/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zzEWbGuXpQsG5Ql4DbQNJ.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2025-08-11T22:00:00.000Z",
+        "impressions_total": 7062,
+        "impressions_map": {
+          "de": 0,
+          "be": 7062,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 13118,
+          "dk": 0,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 871987,
+          "fr": 0,
           "hu": 0,
-          "se": 105052,
+          "se": 0,
           "si": 0,
           "sk": 0,
-          "ie": 80315,
+          "ie": 0,
           "ee": 0,
           "el": 0,
           "mt": 0,
           "it": 0,
           "es": 0,
-          "at": 15467,
+          "at": 0,
           "cy": 0,
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 214621,
+          "nl": 0,
           "tr": 0
         },
         "targeting_v2": {
@@ -654,7 +580,81 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "gender": "MALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Axel",
+        "profile_name": "Axel",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvd3RUNW1CZHlBSWRQNW1lZTVNWjlCP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/axellenaerts",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTkMzQkRrdjB5OVptTk9sS01Odks5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "163ed7bc-e566-4470-90c5-bd6230b115d1",
+        "name": "Sales__DOTW__W17__Mule__f3198002,f3198001,f3200001__Single-image__CategoryLP__Product-focused__Rabbit__Still-life__Women__20250509__Design__Story__MULES-SHOOT__v1",
+        "ad_account_name": "Axel Arigato Self Service",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "'Not A Slide' -Explore Pillow Mule",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2020-11-20T09:15:49.000Z",
+        "impressions_total": 90211,
+        "impressions_map": {
+          "de": 1077,
+          "be": 24667,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 1547,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 25868,
+          "si": 0,
+          "sk": 0,
+          "ie": 19271,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 6823,
+          "es": 8939,
+          "at": 2019,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
               "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
@@ -665,341 +665,47 @@
         "paying_advertiser_name": "Axel Arigato",
         "profile_name": "Axel Arigato",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdkMyOHMxZ3I5UVpNMHAyMm9DbWl3P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://axelarigato.com/the-pillow-mule-not-a-slide-men?utm_source=snapchat&utm_medium=cpc&utm_campaign=catalogsales"
-          },
-          "collection_creative_element_attachment": [
+        "composite_preview": {
+          "should_loop": true,
+          "title_headline": "'Not A Slide' -Explore the Pillow Mule",
+          "ad_snaps": [
             {
-              "app_install_properties": {}
+              "type": "WEB_VIEW",
+              "headline": "'Not A Slide' -Explore Pillow Mule",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FdgbeBkDYYAHCYO3JON7e.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://axelarigato.com/the-pillow-mule-not-a-slide-women?utm_source=snapchat&utm_medium=cpc&utm_campaign=catalogsales"
+              }
             },
             {
-              "app_install_properties": {}
+              "type": "WEB_VIEW",
+              "headline": "'Not A Slide' -Explore Pillow Mule",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BCLqxRP3XhiYZhk4d2Yyp.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://axelarigato.com/the-pillow-mule-not-a-slide-women?utm_source=snapchat&utm_medium=cpc&utm_campaign=catalogsales"
+              }
             },
             {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
+              "type": "WEB_VIEW",
+              "headline": "'Not A Slide' -Explore Pillow Mule",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qIuos4qnayIFn2cBLP6sz.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://axelarigato.com/the-pillow-mule-not-a-slide-women?utm_source=snapchat&utm_medium=cpc&utm_campaign=catalogsales"
+              }
             }
           ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/M1TbhFhb3xmhRW95SkLV6.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Dice Lo sneaker combines vintage and modern design details for a timeless, easy-to-style silhouette. Handcrafted from premium leather, suede and recycled polyester, it has paneled uppers finished with perforations and a gold logo.\n\nThe surface of the vintage effect leather will wear off and expose the natural base leather for a worn effect. Rubbing while cleaning, in particular if wet, will accentuate the worn effect. If this is not desired, clean gently with dabbing movements and dry cloth to avoid abrasion on the surface.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Beige",
-                "Light Grey"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "men > footwear > dice"
-              ],
-              "size": "39",
-              "title": "Dice Lo Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/dice/dice-lo-sneaker-f1697006"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/7hxxtkWKWocnUFCKq8wpq.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "sale_price_effective_start_date": 1766458800000,
-              "sale_price_effective_end_date": 1769983200000,
-              "description": "The handcrafted Dice-A sneaker features an abstract ‘A’ sweeping across the sidewall. Combining vintage and modern design details, its nubuck, leather and SEAQUAL® YARN upper is paneled and perforated.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "sale",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Black",
-                "Black"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "men > footwear > dice"
-              ],
-              "size": "39",
-              "title": "Dice-A Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/dice/dice-a-sneaker-f2774001"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/Hkbduug9BGuEH2Bk4dulP.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "sale_price_effective_start_date": 1766458800000,
-              "sale_price_effective_end_date": 1769983200000,
-              "description": "The Dice Lo sneaker combines vintage and modern design details for a timeless, easy-to-style silhouette. Handcrafted from premium suede, nubuck and leather, it has paneled uppers finished with perforations and a gold logo.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "sale",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Grey",
-                "Light Blue"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "men > footwear > dice"
-              ],
-              "size": "40",
-              "title": "Dice Lo Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/dice/dice-lo-sneaker-f2770001"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/I4K1TUnCpX9zpKicoUpcj.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "sale_price_effective_start_date": 1766458800000,
-              "sale_price_effective_end_date": 1769983200000,
-              "description": "The handcrafted Dice-A sneaker features an abstract ‘A’ sweeping across the sidewall. Combining vintage and modern design details, its leather and recycled polyester profile is paneled and perforated.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "sale",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "White",
-                "Blue"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "men > footwear > dice"
-              ],
-              "size": "39",
-              "title": "Dice-A Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/dice/dice-stripe-sneaker-f1641002"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/b21i7blGsR3r6Kx6GvqMW.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Dice T-Toe sneaker draws from dual sources of inspiration, nodding to ‘70s track and field runners, as well as ‘90s skate shoes. It has contrasting uppers that are handcrafted from leather, suede and recycled polyester.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Black",
-                "Gum"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "men > footwear > dice"
-              ],
-              "size": "40",
-              "title": "Dice T-Toe Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/dice/dice-t-toe-sneaker-f3032002"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/ipppzAlPKzCMUICnfapKD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Slow Shearling Runner’s layered, low-profile silhouette takes on a new dimension with an all-over suede construction and real shearling lining — a first for the style. Inspired by the Marathon Runner, the upper is built from rich suede panels with knit-inspired details that nod to our ready-to-wear collections. Handmade in Portugal, it’s finished with debossed bubble branding, a 7mm rubber sole, and European sizing. The shearling-lined interior brings added warmth and comfort to the deconstructed design.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Brown",
-                "Gum"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "men > footwear > slow"
-              ],
-              "size": "40",
-              "title": "Slow Shearling Runner",
-              "link": "https://axelarigato.com/en/men/footwear/slow/slow-shearling-runner-f3995002"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/Q9SiIr0lfWDkgmT0rFcRi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "sale_price_effective_start_date": 1766458800000,
-              "sale_price_effective_end_date": 1769983200000,
-              "description": "The Dice Lo sneaker combines vintage and modern design details for a timeless, easy-to-style silhouette. Handcrafted from premium leather, suede and recycled polyester, it features tonal, decorative stitching and is set on lightly distressed soles.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "sale",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Off White",
-                "Beige"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "men > footwear > dice"
-              ],
-              "size": "39",
-              "title": "Dice Lo Stitch Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/dice/dice-lo-sneaker-f2772002"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/4GxW2gPvzw00fumBHkVX5.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "description": "The Dice Laceless is a minimal interpretation of an Axel Arigato icon. Featuring sleek, simplified uppers, this model is handcrafted from LWG-certified suede that’s backed with a comfortable leather, microfiber and recycled polyester lining. They’re set on branded soles that incorporate recycled rubber.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Black",
-                "White"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "men > footwear > dice-laceless"
-              ],
-              "size": "41",
-              "title": "Dice Laceless Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/dice-laceless/dice-lo-laceless-sneaker-f2307001"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/PZdB6sP71RPWM4cPVVcQS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "sale_price_effective_start_date": 1766458800000,
-              "sale_price_effective_end_date": 1769983200000,
-              "description": "The leather Dice Laceless is a sleek take on an Axel Arigato signature. Its streamlined silhouette is crafted by hand and features a few custom finishes, including a gold logo and grooved soles.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "sale",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Off White",
-                "White"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "men > footwear > dice-laceless"
-              ],
-              "size": "40",
-              "title": "Dice Laceless Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/dice-laceless/dice-laceless-sneaker-f3053003"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/RKJHWYErWVnEDuLij1WS0.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [],
-              "sale_price_effective_start_date": 1766458800000,
-              "sale_price_effective_end_date": 1769983200000,
-              "description": "The Dice Lo Bee Bird sneaker is embroidered with our signature winged motif – a symbol of freedom, it debuted in a 2017 collection. Handcrafted from premium leather, suede and SEAQUAL® YARN, this model has paneled uppers finished with perforations and a gold logo.",
-              "brand": "Axel Arigato",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "sale",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Dark Beige",
-                "White"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "men > footwear > dice"
-              ],
-              "size": "42",
-              "title": "Dice Lo Bee Bird Sneaker",
-              "link": "https://axelarigato.com/en/men/footwear/dice/dice-lo-bee-bird-sneaker-f2778002"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "Sales__DOTW__W17__Mule__F3195002__Single-image__CampaignLP__Product-focused__Rabbit__Still-life__Man__20250502__Design__MULES-SHOOT__v1",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "text_fields": [
-              "title",
-              "brand"
-            ]
-          },
-          "vertical": "COMMERCE"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

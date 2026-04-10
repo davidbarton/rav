@@ -1,28 +1,31 @@
 {
   "brand": "Calzedonia",
   "country": "se",
-  "fetched_at": "2026-04-09T17:27:16.784Z",
+  "fetched_at": "2026-04-10T06:58:59.211Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c55d3a72-859f-4fb7-8f88-f3da8b0beb63",
-        "name": "image 1",
-        "ad_account_name": "CALZEDONIA",
+        "id": "d1516849-2526-4988-90d4-10e52c00c1e7",
+        "name": "video beige New",
+        "ad_account_name": "INTIMISSIMI",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Calzedonia",
+        "languages": [
+          "en",
+          "it"
+        ],
+        "headline": "Intimissimi",
         "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JvUvl9mvdAQDNRWl4vliL.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-04-01T14:30:58.000Z",
-        "impressions_total": 48978,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SDNCzmZMUiPz21ZqePUX9.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAj4ohYgATDgAzjUBkABSg4KCSYLCQwzHBcTNBD0A1CoN2gCdUA_XUAiBgoCSAMSAKIBNwi6ChIqCigIhvwVIAEw0AU4gApAAkoOCgkwCQoJMxYUED4Q9ANQqDdoAnWue39AIgYKAkgDEgCiATwIkgoSLwotCNbvDSABMOADONQGQAJKDgoJGggHByASEAscEPQDUKg3aAJ1cvpLQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCKLzDiABMOADONQGQAJKDgoJIgYHBiMODQsnEPQDUKg3aAJ1cXVrQH0AAIA_IgYKAkgCEgCQA6g3&uc=15",
+        "start_date": "2026-03-09T07:00:34.000Z",
+        "impressions_total": 35331,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -36,7 +39,194 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 48978,
+          "se": 35331,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CALZEDONIA SVERIGE AB",
+        "profile_name": "INTIMISSIMI",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVTVsekFWRVRlQ0VWVm5KR1NoQ1dHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=body"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "02ad4739-2a12-465c-ba70-83d5470c85e0",
+        "name": "story ads- carousel 1 blue New",
+        "ad_account_name": "INTIMISSIMI",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en",
+          "it"
+        ],
+        "headline": "Intimissimi",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-03-09T08:30:34.000Z",
+        "impressions_total": 324264,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 324264,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CALZEDONIA SVERIGE AB",
+        "profile_name": "INTIMISSIMI",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVTVsekFWRVRlQ0VWVm5KR1NoQ1dHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Intimissimi",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zf73LSswCqIhLslzk01CK.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=blue"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "Intimissimi",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Oiz8mz6hZaUMG18ot0Ktw.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiu6xEgATDgAzjUBkABSg4KCTkRDxArDA0PDBD0A1CoN2gCdQE_YEAiBgoCSAISAKIBNwi6ChIqCigIrsoTIAEw0AU4gApAAkoOCgleDhAONQkKCwkQ9ANQqDdoAnVwuYJAIgYKAkgDEgCiATwIkgoSLwotCJONCiABMOADONQGQAJKDgoJJAoKCBUGCAkGEPQDUKg3aAJ13JFRQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCOKTDCABMOADONQGQAJKDgoJNQoMByAGBggFEPQDUKg3aAJ1dYtuQH0AAIA_IgYKAkgCEgCQA6g3&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=blue"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "Intimissimi",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tLENmxD5vb62Qx6oLAaUh.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=blue"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "0a28f3f4-c479-4b36-9d3c-3382ee06d671",
+        "name": "images body clean g1",
+        "ad_account_name": "INTIMISSIMI",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Intimissimi",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ttMxBcfmfoRHpUy6u3cSz.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-03-09T07:00:34.000Z",
+        "impressions_total": 28193,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 28193,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -72,7 +262,157 @@
         "profile_name": "CALZEDONIA",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNFVSTlRhN0U5SXZMRGdQWmYweUJZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
         "web_view_properties": {
-          "url": "https://www.calzedonia.com/se/dam/bianca_s_picks/?utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Calzedonia_Bianca_Summer26_AWA_awareness&utm_content=metallic_glow"
+          "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=body"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "103b7b66-8b6f-464f-95e1-6a4bab64480f",
+        "name": "BTS",
+        "ad_account_name": "CALZEDONIA",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Lady, wear Calzedonia tonight!",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZQdE2rDOnhfX6EiyLZUv2.67?mo=GpMCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgiQybcBIAEw4AM41AZAAUoOCglfBwcJCAgMLS4Q9ANQ8I8CaAJ1-pdQQCIGCgJIAhIAogE6CLoKEi0KKwi17o8BIAEw0AU4gApAAkoPCgqGAQgKCQwLDh8mEPQDUPCPAmgCdeJZVkAiBgoCSAMSAKIBPQiSChIwCi4I_N1uIAEw4AM41AZAAkoOCglHBwcHCQkKGB4Q9ANQ8I8CaAJ1bt8-QH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCLGeYSABMOADONQGQAJKDgoJYQYGBggHCBUYEPQDUPCPAmgCdWBNREB9AACAPyIGCgJIAhIAkAPwjwI%3D&uc=15",
+        "start_date": "2025-12-01T17:30:33.000Z",
+        "impressions_total": 210131,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 210131,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CALZEDONIA SVERIGE AB",
+        "profile_name": "CALZEDONIA",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNFVSTlRhN0U5SXZMRGdQWmYweUJZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.calzedonia.com/se/dam/bianca_s_picks/?utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Calzedonia_Bianca_Party_Tights25_AWA_awareness&utm_content=all"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4439d7c7-f77a-4a45-b355-c28d112e2f4f",
+        "name": "images blue clean b2 New",
+        "ad_account_name": "INTIMISSIMI",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "Intimissimi",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/AlEmEAAUTGPWZ7AhCvvWT.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-03-09T07:00:34.000Z",
+        "impressions_total": 70031,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 70031,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CALZEDONIA SVERIGE AB",
+        "profile_name": "INTIMISSIMI",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVTVsekFWRVRlQ0VWVm5KR1NoQ1dHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=blue"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -158,23 +498,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "ddc9ed8d-d459-4407-ba86-7b184fe033d2",
-        "name": "Light Blue | 14th of April",
-        "ad_account_name": "CALZEDONIA",
+        "id": "c7d5019d-7709-4768-80ed-1b6145a022cc",
+        "name": "story ads- carousel4 bts + mix New",
+        "ad_account_name": "INTIMISSIMI",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [
           "en"
         ],
-        "headline": "Iconic Shiny Satin: a must have",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
+        "headline": "Intimissimi",
+        "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bXdQysjCvMTyjuTkgZfIJ.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIqugtIAFKDgoJLREpMy8sGhsgEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgInZ8kIAFKDgoJJg0dJyMdEhIbEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAihnxsgAUoOCgkeCRUdGxUPDRQQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiytBwgAUoOCgkdDBceHRYODhUQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjthxcgAUoOCgkdCRMZFhEMDBEQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-04-12T08:13:50.000Z",
-        "impressions_total": 470251,
+        "start_date": "2026-03-09T08:30:34.000Z",
+        "impressions_total": 11443,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -188,7 +526,234 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 470251,
+          "se": 11443,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CALZEDONIA SVERIGE AB",
+        "profile_name": "INTIMISSIMI",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVTVsekFWRVRlQ0VWVm5KR1NoQ1dHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Intimissimi",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/O1Z7d2u7Hgye91aYVBGPR.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiolUkgATDgAzjUBkABSg4KCTcdIBsaIB8aHBD0A1C4sgFoAnWwLVJAIgYKAkgDEgCiATgIugoSKwopCIG3PiABMNAFOIAKQAJKDgoJNBQZFxsXGBgWEPQDULiyAWgCdV7_YkAiBgoCSAMSAKIBPQiSChIwCi4I8vUvIAEw4AM41AZAAkoOCgktFhcUExYWExIQ9ANQuLIBaAJ1895HQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCOLYKiABMOADONQGQAJKDgoJKg4SEBMQERAPEPQDULiyAWgCddoWT0B9AACAPyIGCgJIAhIAkAO4sgE%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=all"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "Intimissimi",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QqvqNFGxOwSFDhlyBrubB.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=all"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "Intimissimi",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CS0FYVojXVOW9nTuTi6f3.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=all"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "0e420f0e-2dcc-49a9-b36b-c208d40ac16a",
+        "name": "story ads- carousel 2 beige New",
+        "ad_account_name": "INTIMISSIMI",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en",
+          "it"
+        ],
+        "headline": "Intimissimi",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-03-09T08:30:34.000Z",
+        "impressions_total": 156198,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 156198,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "CALZEDONIA SVERIGE AB",
+        "profile_name": "INTIMISSIMI",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVTVsekFWRVRlQ0VWVm5KR1NoQ1dHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Intimissimi",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/whd1JfSBmz3ZByZlZhPdr.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjwyRUgATDgAzjUBkABSg4KCSUKCgsyGhYTMhD0A1CoN2gCdXP1WEAiBgoCSAMSAKIBPAi6ChIvCi0Iy44XIAEw0AU4gApAAkoOCgkzCQoKNBgUEkIQ9ANQqDdoAnVTK4FAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0I_bINIAEw4AM41AZAAkoOCgkZCAcHHxAQCxsQ9ANQqDdoAnW6kUxAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I3MMOIAEw4AM41AZAAkoOCgkiBgcGIg0NCicQ9ANQqDdoAnXkvGhAfQAAgD8iBgoCSAISAJADqDc%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=body"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "Intimissimi",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/imktka4bQxkbPgwyPcfVW.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=body"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "headline": "Intimissimi",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QeiHiNS4lZuhPLDDcC0UW.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=body"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "17d2b763-8db7-4da8-aae2-00e75ae940ff",
+        "name": "Dark Pink | 28th of April",
+        "ad_account_name": "CALZEDONIA",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Iconic Shiny Satin: a must have",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1gOJPdbhXTehmzMgM1Rlq.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI-tcnIAFKDgoJQRsqJBs4HxssEPQDaAIiBgoCSAISAKIBJwi6ChIaChgI2I0iIAFKDgoJOBYiHxUkIBkkEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAjHvRUgAUoOCgkoEBUVERwVEBUQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiIhBYgAUoOCgkoERYYEB0UFBMQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiVghYgAUoOCgkpDhYVDhYUEBYQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-04-12T08:13:50.000Z",
+        "impressions_total": 174947,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 174947,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -234,431 +799,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "31caa75e-0e5a-4a0d-8b36-f469c7fc1a28",
-        "name": "story ads carousel gold",
-        "ad_account_name": "CALZEDONIA",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "it"
-        ],
-        "headline": "Calzedonia",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-04-01T14:30:58.000Z",
-        "impressions_total": 199,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 199,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CALZEDONIA SVERIGE AB",
-        "profile_name": "CALZEDONIA",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNFVSTlRhN0U5SXZMRGdQWmYweUJZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Calzedonia",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TXbT8CfbepY3egVh2J0Io.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.calzedonia.com/se/dam/bianca_s_picks/?utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Calzedonia_Bianca_Summer26_AWA_awareness&utm_content=metallic_glow"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Calzedonia",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vJwoTfLHd6xfbrbCIveJC.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.calzedonia.com/se/dam/bianca_s_picks/?utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Calzedonia_Bianca_Summer26_AWA_awareness&utm_content=metallic_glow"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "Calzedonia",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1SnMEab5vq6ZSk81Eh4am.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.calzedonia.com/se/dam/bianca_s_picks/?utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Calzedonia_Bianca_Summer26_AWA_awareness&utm_content=metallic_glow"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "42c19256-55cc-480f-adc6-838d82b078de",
-        "name": "images blue clean b1 New",
-        "ad_account_name": "INTIMISSIMI",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Intimissimi",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/k9EO0Z8VEaWd1ZzpP5EPb.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-03-09T07:00:34.000Z",
-        "impressions_total": 54220,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 54220,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CALZEDONIA SVERIGE AB",
-        "profile_name": "INTIMISSIMI",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVTVsekFWRVRlQ0VWVm5KR1NoQ1dHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=blue"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4439d7c7-f77a-4a45-b355-c28d112e2f4f",
-        "name": "images blue clean b2 New",
-        "ad_account_name": "INTIMISSIMI",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Intimissimi",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/AlEmEAAUTGPWZ7AhCvvWT.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-03-09T07:00:34.000Z",
-        "impressions_total": 70031,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 70031,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CALZEDONIA SVERIGE AB",
-        "profile_name": "INTIMISSIMI",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVTVsekFWRVRlQ0VWVm5KR1NoQ1dHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=blue"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "87c7ef6d-1fdd-4cf3-96f5-5e184d88cd3c",
-        "name": "video 3",
+        "id": "d517dd8f-23a8-4392-aaae-b66a1dfbb709",
+        "name": "Black | 9th of May",
         "ad_account_name": "CALZEDONIA",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "it"
+          "en"
         ],
-        "headline": "Calzedonia",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/D5pUzi9feV5emqea0Y1tM.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAii3SMgATDgAzjUBkABSg4KCTIdGSU1Ki8yJRD0A1CoRmgCdXtUVkAiBgoCSAQSAKIBPAi6ChIvCi0IgMIbIAEw0AU4gApAAkoOCgkvExMhKBshGxgQ9ANQqEZoAnVudGhAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0Iu4AUIAEw4AM41AZAAkoOCgkfEAwaGxUcFxIQ9ANQqEZoAnXcZ0ZAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0InvcRIAEw4AM41AZAAkoOCgkhDAwUGBETDxMQ9ANQqEZoAnUK4VJAfQAAgD8iBgoCSAISAJADqEY%3D&uc=15",
-        "start_date": "2026-04-01T14:30:58.000Z",
-        "impressions_total": 8,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 8,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CALZEDONIA SVERIGE AB",
-        "profile_name": "CALZEDONIA",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNFVSTlRhN0U5SXZMRGdQWmYweUJZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.calzedonia.com/se/dam/bianca_s_picks/?utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Calzedonia_Bianca_Summer26_AWA_awareness&utm_content=metallic_glow"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "41ce5e73-3b5f-4632-92b4-c28248ca24fe",
-        "name": "images body clean g1 New",
-        "ad_account_name": "INTIMISSIMI",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "Intimissimi",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1QbPmUIqTI2jmsfoxQmW8.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-03-09T07:00:34.000Z",
-        "impressions_total": 110128,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 110128,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CALZEDONIA SVERIGE AB",
-        "profile_name": "INTIMISSIMI",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVTVsekFWRVRlQ0VWVm5KR1NoQ1dHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.intimissimi.com/on/demandware.store/Sites-intimissimi-se-Site/sv_SE/Search-Show?cgid=INT_Woman_SilkyFlowers&utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Intimissimi_Bianca_PrettyFlowers_AWA_awareness&utm_content=body"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "204cc62c-4650-4d03-b012-0b75a25a6722",
-        "name": "Purple | 9th of May",
-        "ad_account_name": "CALZEDONIA",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
         "headline": "New Limited Edition Capsule",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/5lFffsUWg0XGV4rZA29gB.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAit-B8gAUoOCglOMx4WEhQbFxYQ9ANoAiICEgCiASMIugoSGgoYCMbHGCABSg4KCUMkGQ4NDREODxD0A2gCIgISAKIBIgh_EhoKGAjumREgAUoOCgkwGBMKCAoNCgsQ9ANoAiICEgCiASMIkgoSGgoYCIDbESABSg4KCS8bEgoJCw0KCxD0A2gCIgISAKIBIwjEChIaChgIgp4QIAFKDgoJMBYQCQkIDAgLEPQDaAIiAhIAkAPAUg%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/IvZXfP6VXleZnaTavofB2.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIodASIAFKDgoJKAweDg8iEBAiEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgIprQNIAFKDgoJIgcaDgsSDQsPEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAi62QggAUoOCgkXBg8IBwsJCAkQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAj0-QggAUoOCgkXBw4KBwwJBgsQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiq4wggAUoOCgkaBRAJBwsIBwkQ9ANoAiIGCgJIAhIAkAPgNQ%3D%3D&uc=15",
         "start_date": "2025-04-12T08:13:50.000Z",
-        "impressions_total": 30795,
+        "impressions_total": 30611,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -672,7 +829,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 30795,
+          "se": 30611,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -709,82 +866,6 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNFVSTlRhN0U5SXZMRGdQWmYweUJZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
         "web_view_properties": {
           "url": "https://www.calzedonia.com/se/dam/bianca_s_picks/minimal_chic/?utm_medium=social_adv&utm_source=snapchat&utm_campaign=%5BSE_ADV%5D_Calzedonia_Bianca_Ingrosso_AWA_Summer_Campaign_SS25"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "29991530-995b-4c98-9438-b188ec209253",
-        "name": "video 2",
-        "ad_account_name": "CALZEDONIA",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "it"
-        ],
-        "headline": "Calzedonia",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sVc1aLjjireBXXpXwniJc.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiYiGMgATDgAzjUBkABSg4KCS0PDhEPIyInIRD0A1DQ3AFoAnWm51lAIgYKAkgEEgCiAT0IugoSMAouCILqSCABMNAFOIAKQAJKDgoJLAoLCw0ZFhkYEPQDUNDcAWgCdY-iZUB9AACAPyIGCgJIAhIAogE9CJIKEjAKLgjh8zUgATDgAzjUBkACSg4KCSUICAkJExQQFRD0A1DQ3AFoAnW4A0VAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I0pQyIAEw4AM41AZAAkoOCgkkBggHCBIOEQ8Q9ANQ0NwBaAJ1hj5VQH0AAIA_IgYKAkgCEgCQA9DcAQ%3D%3D&uc=15",
-        "start_date": "2026-04-01T14:30:58.000Z",
-        "impressions_total": 6,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 6,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "CALZEDONIA SVERIGE AB",
-        "profile_name": "CALZEDONIA",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNFVSTlRhN0U5SXZMRGdQWmYweUJZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.calzedonia.com/se/dam/bianca_s_picks/?utm_medium=social_adv&utm_source=snapchat&utm_campaign=[SE_ADV]_Calzedonia_Bianca_Summer26_AWA_awareness&utm_content=metallic_glow"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

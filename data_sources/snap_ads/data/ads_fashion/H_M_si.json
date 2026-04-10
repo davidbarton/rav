@@ -1,16 +1,16 @@
 {
   "brand": "H&M",
   "country": "si",
-  "fetched_at": "2026-04-09T22:40:12.996Z",
+  "fetched_at": "2026-04-10T07:04:08.668Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "cd1a9bf4-ec81-40ec-8ae2-f8ad888382de",
-        "name": "cn_si-spring-drop-1|cc_brand|cy_video|crn_6a-drop2|ci_4iu9xb3uw7yo",
-        "ad_account_name": "H&M CEU Slovenia (SI)",
+        "id": "8d00ebd5-dae5-4d11-82bc-ef7ee24ee282",
+        "name": "mmd_collection-activation-layer|ai_1013|mat_big 4|man_spring-ss-2026|crn_spring-ladies-drop1-video-6a-snap|cps_internal|ast_video|vln_6s|ftx_xxx",
+        "ad_account_name": "[H&M][SI][Central]",
         "status": "ACTIVE",
         "creative_type": "COMPOSITE",
         "ad_type": "STORY",
@@ -18,11 +18,11 @@
         "languages": [
           "sl"
         ],
-        "headline": "Romantični minimalizem za P/P 2025",
+        "headline": "H&M P/P 2026: 1. del zdaj na voljo",
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-20T11:00:21.000Z",
-        "impressions_total": 54203,
+        "start_date": "2026-03-26T10:00:00.000Z",
+        "impressions_total": 38954,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -37,7 +37,97 @@
           "fr": 0,
           "hu": 0,
           "se": 0,
-          "si": 54203,
+          "si": 38954,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "brand_name": "H&M",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": false,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "H&M P/P 2026: 1. del zdaj na voljo",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/w5zv7NQkoU1ST82kDs2y6.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjb3BMgATDgAzjUBkABSg4KCS8WESMcFhAUFRD0A1DwLmgCdVhRUUB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQjrlw8gATDQBTiACkACSg4KCSwMDxoWFBAODxD0A1DwLmgCddoTYkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjjpAsgATDgAzjUBkACSg4KCR8LCRQRDwwLCxD0A1DwLmgCdVAhQUB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQj24gogATDgAzjUBkACSg4KCSIIChQQEAsJChD0A1DwLmgCdXCjV0B9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+              "brand_name": "H&M",
+              "web_view_preview": {
+                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1013a-ss-2026-drop1.html"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "cdea2576-a127-4f9e-a4ba-55983d2749a3",
+        "name": "cn_si-spring-drop-1|cc_brand|cy_static|crn_si3|ci_4jr0bt2or8pi",
+        "ad_account_name": "H&M CEU Slovenia (SI)",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sl"
+        ],
+        "headline": "H&M P/P 2025",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-03-20T11:00:43.000Z",
+        "impressions_total": 95055,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 95055,
           "sk": 0,
           "ie": 0,
           "ee": 0,
@@ -76,14 +166,14 @@
             {
               "type": "WEB_VIEW",
               "render_type": "STATIC",
-              "headline": "Romantični minimalizem za P/P 2025",
+              "headline": "Razmišljanja o obstoju za H&M P/P",
               "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
+              "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xKVQg0woza2D2DNt8ljDP.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIgsoWIAFKDgoJWykdNhMbFSQMEPQDaAIiBgoCSAISAKIBJwi6ChIaChgI0e4UIAFKDgoJYCAaKxIUFR0OEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAj6yAwgAUoOCgk2Fw4SDQ8NFAgQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAj0hQ0gAUoOCgkwGQ4WDA8RFwcQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjqsA0gAUoOCgk8FBEbDA0PEwkQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mMiD134P3hNjOR4cJerY0.380?mo=GjsaFDIBBDoBfUIGCLifhb8GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
               "brand_name": "H&M",
               "web_view_preview": {
-                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1011b-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_ai1011~~cn_drop1-spring~tn_xxxx~bu_ladies~pi_sif20aoz1af214&utm_term=si&utm_content=6a-drop2"
+                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1011a-ss-2025.html?utm_source=paid-social&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_ai1011~~cn_drop1-spring~tn_xxxx~bu_ladies~pi_sif20aod1af214&utm_term=si&utm_content=static-si3"
               }
             }
           ]
@@ -96,8 +186,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "3819558f-c437-4a1b-9847-80059e8966f3",
-        "name": "cn_si-spring-drop2-cons|cc_brand|cy_video|crn_6e|ci_5jz6oq2vt7th",
+        "id": "3eebbc28-7a1d-4338-985a-34d6d0020822",
+        "name": "cn_si-spring-drop2-cons|cc_brand|cy_video|crn_6a|ci_5dy4ri9kj7ha",
         "ad_account_name": "H&M CEU Slovenia (SI)",
         "status": "ACTIVE",
         "creative_type": "COMPOSITE",
@@ -110,7 +200,7 @@
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2025-03-20T11:00:43.000Z",
-        "impressions_total": 2221,
+        "impressions_total": 5213,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -125,7 +215,7 @@
           "fr": 0,
           "hu": 0,
           "se": 0,
-          "si": 2221,
+          "si": 5213,
           "sk": 0,
           "ie": 0,
           "ee": 0,
@@ -167,10 +257,190 @@
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OHUh2igo9IY2IrgUkNjJ2.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIgbUYIAFKDgoJPx0RFw0ZGSc6EPQDaAIiBgoCSAMSAKIBJwi6ChIaChgItrAWIAFKDgoJOyUQFwwSGScxEPQDaAIiBgoCSAISAKIBJgh_EhoKGAjk1RAgAUoOCgkqFA8SCBISICMQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAi7kBEgAUoOCgkoGA8TCRMTICIQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAiCgA8gAUoOCgkqGAsPCQwRGyIQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Tnqa66tMYsSrzVOjB2Ce9.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIgsoWIAFKDgoJWykdNhMbFSQMEPQDaAIiBgoCSAISAKIBJwi6ChIaChgI0e4UIAFKDgoJYCAaKxIUFR0OEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiByQwgAUoOCgk2Fw4SDQ8NFAgQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAj0hQ0gAUoOCgkwGQ4WDA8RFwcQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjqsA0gAUoOCgk8FBEbDA0PEwkQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
               "brand_name": "H&M",
               "web_view_preview": {
-                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1011b-ss-2025.html?utm_source=paid-social&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_ai1011~~cn_drop1-spring~tn_xxxx~bu_ladies~pi_sif20aod1af214&utm_term=si&utm_content=drop2-6e"
+                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1011b-ss-2025.html?utm_source=paid-social&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_ai1011~~cn_drop1-spring~tn_xxxx~bu_ladies~pi_sif20aod1af214&utm_term=si&utm_content=drop2-6a"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "dbe3a447-3525-44c5-bda2-bba40708b6ef",
+        "name": "mmd_collection-activation-layer|ai_1013|mat_big4|man_spring-ss-2026|crn_spring-ladies-drop1-video-10a-snap|cps_internal|ast_video|vln_10s|ftx_xxx",
+        "ad_account_name": "[H&M][SI][Central]",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sl"
+        ],
+        "headline": "H&M P/P 2026: 1. del zdaj na voljo",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-03-26T10:00:00.000Z",
+        "impressions_total": 2854,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 2854,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "brand_name": "H&M",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": false,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "H&M P/P 2026: 1. del zdaj na voljo",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cq2NKvHB4lknLTmu4rPqh.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi49SggATDgAzjUBkABSg4KCWMtQCQYGzAeJhD0A1CQTmgCdaS4U0AiBgoCSAISAKIBNwi6ChIqCigIqMsgIAEw0AU4gApAAkoOCgleJjEaGhQgGxsQ9ANQkE5oAnVr5GRAIgYKAkgDEgCiATwIkgoSLwotCOSYGiABMOADONQGQAJKDgoJSyAwGBARGxgVEPQDUJBOaAJ1EAJCQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCOOkFyABMOADONQGQAJKDgoJRx0jExMNGBITEPQDUJBOaAJ1nJZPQH0AAIA_IgYKAkgCEgCQA5BO&uc=15",
+              "brand_name": "H&M",
+              "web_view_preview": {
+                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1013a-ss-2026-drop1.html"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "60af3a45-5710-44d2-b784-9df83c2271a3",
+        "name": "mmd_collection-activation-layer|ai_1013|mat_big4|man_spring-ss-2026|crn_spring-ladies-drop1-static-2-snap|cps_internal|ast_static|vln_xxxx|ftx_xxx",
+        "ad_account_name": "[H&M][SI][Central]",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sl"
+        ],
+        "headline": "H&M P/P 2026: 1. del zdaj na voljo",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-03-26T10:00:00.000Z",
+        "impressions_total": 19088,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 19088,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "brand_name": "H&M",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": false,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "H&M P/P 2026: 1. del zdaj na voljo",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bfdEaUaBEpvsKUA3EMFwu.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "brand_name": "H&M",
+              "web_view_preview": {
+                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1013a-ss-2026-drop1.html"
               }
             }
           ]
@@ -271,270 +541,6 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b6a9e5f3-2c9d-4c48-a289-83b8a544c075",
-        "name": "cn_1022-fall|cc_brand|cy_video|crn_drop2-6a|ci_xxx",
-        "ad_account_name": "H&M CEU Slovenia (SI)",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sl"
-        ],
-        "headline": "H&M J/Z 2025: 2. del\n",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-09-12T09:00:00.000Z",
-        "impressions_total": 220433,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 220433,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "brand_name": "H&M",
-        "profile_name": "H&M",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": false,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "H&M J/Z 2025: 2. del\n",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/C6aBrr29gzPbSfxIYxwmw.67?mo=GokCGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigIp9cjIAEw4AM41AZAAUoOCglBHysuKDkwMS0Q9ANQ8C5oAnXbJDxAIgYKAkgEEgCiATcIugoSKgooCLzfGyABMNAFOIAKQAJKDgoJRBghICsoKCAeEPQDUPAuaAJ1FT1CQCIGCgJIAhIAogE8CJIKEi8KLQjEohQgATDgAzjUBkACSg4KCSgSGRkWHBkbGhD0A1DwLmgCdWEKJ0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjlrREgATDgAzjUBkACSg4KCS4PFRMZFxUWExD0A1DwLmgCdUgiK0B9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-              "brand_name": "H&M",
-              "web_view_preview": {
-                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1022b-aw-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_1022~cn_fall-awareness~tn_bls~bu_ladies~pi_sif20aod1af214&utm_term=si&utm_content=drop2-6a"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "1d133797-dfdc-4279-bd54-7252650b7ee1",
-        "name": "cn_si-spring-drop2-cons|cc_brand|cy_video|crn_6c|ci_0sq5re8eh2cn",
-        "ad_account_name": "H&M CEU Slovenia (SI)",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en",
-          "sl"
-        ],
-        "headline": "Romantični minimalizem za P/P 2025",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-20T11:00:43.000Z",
-        "impressions_total": 27868,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 27868,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "brand_name": "H&M",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Romantični minimalizem za P/P 2025",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/lvsz6RzUhwUvkGwoTpl3M.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAjhzRsgAUoOCgk1Qh8lFyYnJiQQ9ANoAiICEgCiASMIugoSGgoYCOnIFCABSg4KCSkgFBMUFCciIBD0A2gCIgISAKIBIgh_EhoKGAiAog0gAUoOCgkaEwsSCw8UFhYQ9ANoAiICEgCiASMIkgoSGgoYCIKADiABSg4KCRsTDRELERkXFhD0A2gCIgISAKIBIwjEChIaChgIv9MNIAFKDgoJGhYNDg0NGhYVEPQDaAIiAhIAkAPwLg%3D%3D&uc=15",
-              "brand_name": "H&M",
-              "web_view_preview": {
-                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1011b-ss-2025.html?utm_source=paid-social&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_ai1011~~cn_drop1-spring~tn_xxxx~bu_ladies~pi_sif20aod1af214&utm_term=si&utm_content=drop2-6c"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "de6138a5-624c-4709-bc48-7d7680f06cb2",
-        "name": "cn_1022-fall|cc_brand|cy_static|crn_drop1-static2|ci_7Is3Ca9Dc4Zh",
-        "ad_account_name": "H&M CEU Slovenia (SI)",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "H&M J/Z 2025",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-09-12T09:00:00.000Z",
-        "impressions_total": 53984,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 53984,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "brand_name": "H&M",
-        "profile_name": "H&M",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": false,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "H&M J/Z 2025",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/M6IdE5D4oOpwE8zr5uiWg.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "H&M",
-              "web_view_preview": {
-                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1022a-aw-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_1022~cn_fall-awareness~tn_bls~bu_ladies~pi_sif20aod1af214&utm_term=si&utm_content=drop1-static2"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
         "id": "2ee9df4f-65f0-4233-bad0-38594cc321d1",
         "name": "cn_si-spring-drop-1|cc_brand|cy_video|crn_6-d|ci_7cd5ks7kw2by",
         "ad_account_name": "H&M CEU Slovenia (SI)",
@@ -623,21 +629,19 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c09aaa91-5e24-44ca-86dc-341b0dc09714",
-        "name": "cn_1011-spring|cc_brand|cy_video|crn_6a|ci_8sq7uu7sr6vh",
+        "id": "c647e65f-24fe-4795-ae3d-151fa5fb04e8",
+        "name": "cn_1022-fall|cc_brand|cy_static|crn_drop1-static3|ci_8Fn6Uy0Jo2Ul",
         "ad_account_name": "H&M CEU Slovenia (SI)",
         "status": "PAUSED",
         "creative_type": "COMPOSITE",
         "ad_type": "STORY",
         "ad_render_type": "STATIC",
-        "languages": [
-          "sl"
-        ],
-        "headline": "Projekt radovednosti.",
+        "languages": [],
+        "headline": "H&M J/Z 2025",
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-20T11:00:21.000Z",
-        "impressions_total": 319974,
+        "start_date": "2025-09-12T09:00:00.000Z",
+        "impressions_total": 50272,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -652,7 +656,7 @@
           "fr": 0,
           "hu": 0,
           "se": 0,
-          "si": 319974,
+          "si": 50272,
           "sk": 0,
           "ie": 0,
           "ee": 0,
@@ -677,7 +681,6 @@
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [],
-              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -685,108 +688,22 @@
         },
         "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
         "brand_name": "H&M",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "composite_preview": {
-          "should_loop": true,
+          "should_loop": false,
           "ad_snaps": [
             {
               "type": "WEB_VIEW",
               "render_type": "STATIC",
-              "headline": "Projekt radovednosti.",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/v4e0jVYLH3FX4HwJRbJIh.67?mo=GvUBGggyAgR9UA9gAVoIQWRzTWVkaWGiASkIQxIdChsIjbMfIAFKEQoMO0ExJh0uHSInLycdEPQDaAIiBgoCSAQSAKIBKQi6ChIcChoIneMaIAFKEAoLLSwjHBYuGyElLC0Q9ANoAiIGCgJIAxIAogEpCH8SHQobCL6DEiABShEKDB4bFxURFxYaGR0eEBD0A2gCIgYKAkgCEgCiASoIkgoSHQobCJvPEiABShEKDB4aGRYOHBYaGyAbExD0A2gCIgYKAkgCEgCiASkIxAoSHAoaCJiOEiABShAKCyEdGBINHxIXGB8fEPQDaAIiBgoCSAISAJAD8C4%3D&uc=15",
-              "brand_name": "H&M",
-              "web_view_preview": {
-                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1011a-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_ai1011~~cn_drop1-spring~tn_xxxx~bu_ladies~pi_sif20aoz1af214&utm_term=si&utm_content=6a"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "27168c0d-16d5-4668-8c36-6d0a32056a4f",
-        "name": "cn_si-spring-drop-1|cc_brand|cy_static|crn_si1|ci_8ex6mp1yv3vu",
-        "ad_account_name": "H&M CEU Slovenia (SI)",
-        "status": "PAUSED",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sl"
-        ],
-        "headline": "H&M P/P 2025",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-20T11:00:43.000Z",
-        "impressions_total": 89869,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 89869,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "45",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
-        "brand_name": "H&M",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Razmišljanja o obstoju za H&M P/P",
+              "headline": "H&M J/Z 2025",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EC2664XPHynaYTClsTWF4.380?mo=GjsaFDIBBDoBfUIGCK-ehb8GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6CBVsqSfRHdlt31FRYGbr.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
               "brand_name": "H&M",
               "web_view_preview": {
-                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1011a-ss-2025.html?utm_source=paid-social&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_ai1011~~cn_drop1-spring~tn_xxxx~bu_ladies~pi_sif20aod1af214&utm_term=si&utm_content=static-si1"
+                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1022a-aw-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_1022~cn_fall-awareness~tn_bls~bu_ladies~pi_sif20aod1af214&utm_term=si&utm_content=drop1-static3"
               }
             }
           ]
@@ -799,21 +716,22 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "4843f992-4546-46e3-95d5-47252a6580bd",
-        "name": "cn_si-spring-drop-1|cc_brand|cy_video|crn_6-c|ci_7zl0hs3ls0do",
+        "id": "61a29d60-ba0f-43d3-b926-1170bda93313",
+        "name": "cn_si-spring-drop-1|cc_brand|cy_video|crn_6c-drop2|ci_0dw7nk3fs4eh",
         "ad_account_name": "H&M CEU Slovenia (SI)",
-        "status": "PAUSED",
+        "status": "ACTIVE",
         "creative_type": "COMPOSITE",
         "ad_type": "STORY",
         "ad_render_type": "STATIC",
         "languages": [
+          "en",
           "sl"
         ],
-        "headline": "H&M P/P 2025",
+        "headline": "Romantični minimalizem za P/P 2025",
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-03-20T11:00:43.000Z",
-        "impressions_total": 30418,
+        "start_date": "2025-03-20T11:00:21.000Z",
+        "impressions_total": 296066,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -828,7 +746,7 @@
           "fr": 0,
           "hu": 0,
           "se": 0,
-          "si": 30418,
+          "si": 296066,
           "sk": 0,
           "ie": 0,
           "ee": 0,
@@ -867,14 +785,103 @@
             {
               "type": "WEB_VIEW",
               "render_type": "STATIC",
-              "headline": "Razmišljanja o obstoju za H&M P/P",
+              "headline": "Romantični minimalizem za P/P 2025",
               "call_to_action": "SHOP_NOW",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tDOpvZFQ4ixKz44b7wIWv.67?mo=GpICGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLghDEhoKGAjckRggAUoOCgk0NR0YFSMOD0gQ9ANoAiIOCgpCBgi_m4W_BkgEEgCiAS8IugoSGgoYCLPWGCABSg4KCSoqGBUYGBILXxD0A2gCIg4KCkIGCPWbhb8GSAISAKIBLgh_EhoKGAjMzw0gAUoOCgkeFQ4ODRIKByoQ9ANoAiIOCgpCBgj1m4W_BkgCEgCiAS8IkgoSGgoYCLqQDiABSg4KCR8TDxASEgkJKRD0A2gCIg4KCkIGCPWbhb8GSAISAKIBLwjEChIaChgIopYQIAFKDgoJIBsQDg8RDAc-EPQDaAIiDgoKQgYI9ZuFvwZIAhIAkAPwLg%3D%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nfbJkleYsSPKP818zBMMv.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI4c0bIAFKDgoJNUIfJRcmJyYkEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgI6cgUIAFKDgoJKSAUExQUJyIgEPQDaAIiBgoCSAISAKIBJgh_EhoKGAiAog0gAUoOCgkaEwsSCw8UFhYQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiCgA4gAUoOCgkbEw0RCxEZFxYQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAi_0w0gAUoOCgkaFg0ODQ0aFhUQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
               "brand_name": "H&M",
               "web_view_preview": {
-                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1011a-ss-2025.html?utm_source=paid-social&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_ai1011~~cn_drop1-spring~tn_xxxx~bu_ladies~pi_sif20aod1af214&utm_term=si&utm_content=video-6-c"
+                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1011b-ss-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_ai1011~~cn_drop1-spring~tn_xxxx~bu_ladies~pi_sif20aoz1af214&utm_term=si&utm_content=6c-drop2"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "260c2958-348b-41b3-93ec-9f463af61428",
+        "name": "cn_1022-fall|cc_brand|cy_video|crn_drop2-10d|ci_xxx",
+        "ad_account_name": "H&M CEU Slovenia (SI)",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sl"
+        ],
+        "headline": "H&M J/Z 2025: 2. del\n",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-09-12T09:00:00.000Z",
+        "impressions_total": 11446,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 11446,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "H&M Hennes and Mauritz GBC",
+        "brand_name": "H&M",
+        "profile_name": "H&M",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaE81R1dKTktjVnc2YUZINHVVQng0P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": false,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "H&M J/Z 2025: 2. del\n",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/JGogn29fEfWgN8J2m5yTy.67?mo=GokCGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigI7OVJIAEw4AM41AZAAUoOCglXO0A8NUA-OTUQ9ANQkE5oAnX6vjpAIgYKAkgEEgCiATcIugoSKgooCNfWNiABMNAFOIAKQAJKDgoJTykuLjErLSooEPQDUJBOaAJ1Pjk1QCIGCgJIAxIAogE8CJIKEi8KLQiu5i8gATDgAzjUBkACSg4KCT0kKCkkKiwmIxD0A1CQTmgCdbADJEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiHoyUgATDgAzjUBkACSg4KCTocHx8iHR8dGxD0A1CQTmgCdZhtKEB9AACAPyIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+              "brand_name": "H&M",
+              "web_view_preview": {
+                "url": "https://www2.hm.com/en_eur/ladies/shop-by-feature/1022b-aw-2025.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=mk_si~pl_snapchat~bg_global-brand~ai_1022~cn_fall-awareness~tn_bls~bu_ladies~pi_sif20aod1af214&utm_term=si&utm_content=drop2-10d"
               }
             }
           ]

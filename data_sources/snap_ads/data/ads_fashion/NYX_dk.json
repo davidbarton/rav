@@ -1,329 +1,10 @@
 {
   "brand": "NYX",
   "country": "dk",
-  "fetched_at": "2026-04-09T19:37:07.809Z",
+  "fetched_at": "2026-04-10T05:47:15.159Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ab15c04d-d23f-4efd-8218-eae25e486bcc",
-        "name": "ADS",
-        "ad_account_name": "Nyxgrain Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Your Style, Your SpeeD",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-04-09T01:14:42.000Z",
-        "impressions_total": 442,
-        "impressions_map": {
-          "de": 49,
-          "be": 138,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 15,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 113,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 127,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "22",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "web_view_properties": {
-          "url": "https://dub.sh/Ti1itj4"
-        },
-        "review_status": "DISAPPROVED",
-        "rejection_reasons": [
-          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
-        ],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c5682356-6fe6-43e6-8447-95d68719b9d5",
-        "name": "ad414_singlead_video_kitchen_machine",
-        "ad_account_name": "ONYX Cookware",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "da"
-        ],
-        "headline": "Meget mere end en køkkenmaskine ✨",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/taJWtN4EABJGGoalbQ89u.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQiFyD4gATDgAzjUBkABSg4KCUouCxgQJA8vExD0A1CQTmgCdb5zXkB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQiG2TMgATDQBTiACkACSg4KCUMrCQwcHQwrDxD0A1CQTmgCdTInZ0B9AACAPyIGCgJIAxIAogE8CJIKEi8KLQiJsysgATDgAzjUBkACSg4KCTQbBwgWFw0gDxD0A1CQTmgCdWocV0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiriCUgATDgAzjUBkACSg4KCTIfBgcTFwogCxD0A1CQTmgCdej0YEB9AACAPyIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-12-12T07:52:57.000Z",
-        "impressions_total": 10334,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 10334,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "ONYX COOKWARE",
-        "profile_name": "ONYX COOKWARE",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQU5ieXZOWm5EVUVoV04wS3dxazVNP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://onyxcookware.dk/collections/kokkenapparater/products/onyx-cookware-kokkenmaskine-6l"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "b4005d61-b6e8-4785-b6f2-9e6979a513da",
-        "name": "Ad 1",
-        "ad_account_name": "Nyx Sleep Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "This Sleep Secret is Out",
-        "call_to_action": "GET_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-03-30T07:00:00.000Z",
-        "impressions_total": 4882,
-        "impressions_map": {
-          "de": 27,
-          "be": 348,
-          "fi": 92,
-          "pt": 550,
-          "bg": 477,
-          "dk": 29,
-          "lt": 392,
-          "lu": 286,
-          "hr": 0,
-          "lv": 0,
-          "fr": 2,
-          "hu": 262,
-          "se": 6,
-          "si": 0,
-          "sk": 0,
-          "ie": 480,
-          "ee": 0,
-          "el": 511,
-          "mt": 0,
-          "it": 456,
-          "es": 594,
-          "at": 50,
-          "cy": 0,
-          "cz": 192,
-          "pl": 91,
-          "ro": 0,
-          "nl": 37,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Nyx Sleep",
-        "profile_name": "Nyx Sleep",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZTl0RUY4Z0RmWDRZZjh0NUdPbGRDP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "This Sleep Secret is Out",
-              "call_to_action": "GET_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gr9etVJ0w0w2yTMd0G6Zq.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQi180kgATDgAzjUBkABSg4KCUolDxsOEh8fFhD0A1DihgFoAnVN1EhAIgYKAkgEEgCiAT0IugoSMAouCPKjOyABMNAFOIAKQAJKDgoJPxwMGgoSFhwSEPQDUOKGAWgCdeZGSUB9AACAPyIGCgJIAhIAogE9CJIKEjAKLgjlmS4gATDgAzjUBkACSg4KCTUYCRIHDRMUDhD0A1DihgFoAnVmaTxAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4IyPwnIAEw4AM41AZAAkoOCgkxFAgRBgwPEwwQ9ANQ4oYBaAJ1QCBBQH0AAIA_IgYKAkgCEgCQA-KGAQ%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://shopnyxsleep.com/products/nyx-pillow-lux"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8941159b-5f6f-4bff-94c3-48e282381e6d",
-        "name": "ADS",
-        "ad_account_name": "Nyxgrain Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Your Style, Your SpeeD",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-04-09T01:14:42.000Z",
-        "impressions_total": 1154,
-        "impressions_map": {
-          "de": 118,
-          "be": 512,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 44,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 229,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 251,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "22",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "web_view_properties": {
-          "url": "https://dub.sh/Ti1itj4"
-        },
-        "review_status": "DISAPPROVED",
-        "rejection_reasons": [
-          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
-        ],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -406,7 +87,262 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "54d66e4f-060b-4eb5-921e-9d837ed53f7e",
+        "id": "ee669b3d-aeda-4c73-ae2e-fc1cb66996ae",
+        "name": "ADS",
+        "ad_account_name": "Nyxgrain Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Your Style, Your SpeeD",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-04-09T01:14:42.000Z",
+        "impressions_total": 304,
+        "impressions_map": {
+          "de": 57,
+          "be": 59,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 24,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 93,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 71,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "22",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "web_view_properties": {
+          "url": "https://dub.sh/Ti1itj4"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "0a1dea7b-ebc8-4e9a-990c-23254b142196",
+        "name": "ADS",
+        "ad_account_name": "Vornyxar9 Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "With Fast Shipping In Europe",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GBGRbPTVqBbVyyXDzrKwd.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIk9pLIAEw4AM41AZAAUoOCgleICwVIRMjGxYQ9ANQtqwBaAIiBgoCSAQSAKIBMwi6ChImCiQI2OlAIAEw0AU4gApAAkoOCglaJxgUHBwSFhQQ9ANQtqwBaAIiBgoCSAISAKIBMgh_EiYKJAj8kjIgATDgAzjUBkACSg4KCUYVHw0WDRUSDhD0A1C2rAFoAiIGCgJIAhIAogEzCJIKEiYKJAj1tTMgATDgAzjUBkACSg4KCUcWHw4XDRYTDxD0A1C2rAFoAiIGCgJIAhIAogEzCMQKEiYKJAjWkCwgATDgAzjWBkACSg4KCUQbEAwUEwwPDBD0A1C2rAFoAiIGCgJIAhIAogEzCNIKEiYKJAi04y4gATDgAzjUBkACSg4KCUcbEQ0VFQ0PDhD0A1C2rAFoAiIGCgJIAhIAkAO2rAE%3D&uc=15",
+        "start_date": "2025-07-10T18:38:03.000Z",
+        "impressions_total": 1297,
+        "impressions_map": {
+          "de": 38,
+          "be": 420,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 98,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 432,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 309,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "connection_type": "WIFI",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "connection_type": "WIFI",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Vornyxar9",
+        "profile_name": "Vornyxar9",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQzN3YkhzZ0NqUVV4ZDRIWGRYNjk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://dub.sh/9WeHMaT"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b54c4bde-3eb9-40ec-a229-acf681eb573a",
+        "name": "ADS",
+        "ad_account_name": "Nyxgrain Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Your Style, Your SpeeD",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-04-09T01:14:42.000Z",
+        "impressions_total": 766,
+        "impressions_map": {
+          "de": 74,
+          "be": 361,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 37,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 141,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 153,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "22",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "web_view_properties": {
+          "url": "https://dub.sh/Ti1itj4"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "517ab109-0241-4440-b777-c36eeb25d9e5",
         "name": "ADS",
         "ad_account_name": "Velonyxis15 Self Service",
         "status": "ACTIVE",
@@ -422,21 +358,21 @@
         "top_snap_crop_position": "MIDDLE",
         "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/f5fIgEeqAZCAJQdvkcExf.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIg6kaIAEw4AM41AZAAUoOCgk7GBQQHxsPDyIQ9ANQxkZoAiIGCgJIAxIAogEyCLoKEiUKIwiVjhggATDQBTiACkACSg4KCUoUEBIaFgwOGBD0A1DGRmgCIgYKAkgCEgCiATEIfxIlCiMIwacRIAEw4AM41AZAAkoOCgkqEA4MFBEKChAQ9ANQxkZoAiIGCgJIAhIAogEyCJIKEiUKIwiA6hEgATDgAzjUBkACSg4KCSoPDgwWEQsKERD0A1DGRmgCIgYKAkgCEgCiATIIxAoSJQojCLasECABMOADONYGQAJKDgoJMQ0KCxEQBwkXEPQDUMZGaAIiBgoCSAISAKIBMgjSChIlCiMIzIIRIAEw4AM41AZAAkoOCgkzDgoMEhAICRgQ9ANQxkZoAiIGCgJIAhIAkAPGRg%3D%3D&uc=15",
         "start_date": "2025-07-10T17:13:51.000Z",
-        "impressions_total": 2063,
+        "impressions_total": 1617,
         "impressions_map": {
-          "de": 181,
+          "de": 104,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 122,
+          "dk": 97,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 841,
+          "se": 698,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -450,7 +386,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 919,
+          "nl": 718,
           "tr": 0
         },
         "targeting_v2": {
@@ -500,49 +436,51 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "3dfc71f6-9f72-435e-b999-cffeb220d3d0",
-        "name": "Ad 2",
-        "ad_account_name": "Nyx Sleep Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "id": "c5682356-6fe6-43e6-8447-95d68719b9d5",
+        "name": "ad414_singlead_video_kitchen_machine",
+        "ad_account_name": "ONYX Cookware",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "en"
+          "da"
         ],
-        "headline": "The Pillow They Sleep On..",
-        "call_to_action": "VIEW",
+        "headline": "Meget mere end en køkkenmaskine ✨",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-03-30T07:00:45.000Z",
-        "impressions_total": 4679,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/taJWtN4EABJGGoalbQ89u.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQiFyD4gATDgAzjUBkABSg4KCUouCxgQJA8vExD0A1CQTmgCdb5zXkB9AACAPyIGCgJIBBIAogE8CLoKEi8KLQiG2TMgATDQBTiACkACSg4KCUMrCQwcHQwrDxD0A1CQTmgCdTInZ0B9AACAPyIGCgJIAxIAogE8CJIKEi8KLQiJsysgATDgAzjUBkACSg4KCTQbBwgWFw0gDxD0A1CQTmgCdWocV0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiriCUgATDgAzjUBkACSg4KCTIfBgcTFwogCxD0A1CQTmgCdej0YEB9AACAPyIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-12-12T07:52:57.000Z",
+        "impressions_total": 10334,
         "impressions_map": {
-          "de": 39,
-          "be": 424,
-          "fi": 94,
-          "pt": 486,
-          "bg": 427,
-          "dk": 31,
-          "lt": 265,
-          "lu": 284,
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 10334,
+          "lt": 0,
+          "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 2,
-          "hu": 234,
-          "se": 16,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
           "si": 0,
           "sk": 0,
-          "ie": 606,
+          "ie": 0,
           "ee": 0,
-          "el": 490,
+          "el": 0,
           "mt": 0,
-          "it": 418,
-          "es": 541,
-          "at": 71,
+          "it": 0,
+          "es": 0,
+          "at": 0,
           "cy": 0,
           "cz": 0,
-          "pl": 191,
+          "pl": 0,
           "ro": 0,
-          "nl": 60,
+          "nl": 0,
           "tr": 0
         },
         "targeting_v2": {
@@ -557,25 +495,12 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Nyx Sleep",
-        "profile_name": "Nyx Sleep",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZTl0RUY4Z0RmWDRZZjh0NUdPbGRDP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "The Pillow They Sleep On..",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gi9M18WudabED907ZuA6s.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQi313YgATDgAzjUBkABSg4KCV8WFg8IKA4fKBD0A1C2ygFoAnVMhVRAIgYKAkgEEgCiATgIugoSKwopCLyueiABMNAFOIAKQAJKDgoJVhkUEQwuCx8jEPQDULbKAWgCdWK2YkAiBgoCSAMSAKIBPQiSChIwCi4IxqpNIAEw4AM41AZAAkoOCglGDA8LBhYJFhsQ9ANQtsoBaAJ1CvJLQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCPqERCABMOADONQGQAJKDgoJQQ4MCQYWBxMVEPQDULbKAWgCdU5OVkB9AACAPyIGCgJIAhIAkAO2ygE%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://shopnyxsleep.com/products/nyx-pillow-lux"
-              }
-            }
-          ]
+        "paying_advertiser_name": "ONYX COOKWARE",
+        "profile_name": "ONYX COOKWARE",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQU5ieXZOWm5EVUVoV04wS3dxazVNP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://onyxcookware.dk/collections/kokkenapparater/products/onyx-cookware-kokkenmaskine-6l"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -585,7 +510,179 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "819868d6-1e44-473a-bef5-ec36d8f7dcd8",
+        "id": "bc9582e7-579a-45f2-8bf2-6a55e13a5963",
+        "name": "ADS",
+        "ad_account_name": "Nyxgrain Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Your Style, Your SpeeD",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-04-09T01:14:42.000Z",
+        "impressions_total": 501,
+        "impressions_map": {
+          "de": 96,
+          "be": 143,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 24,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 119,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 119,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "22",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "web_view_properties": {
+          "url": "https://dub.sh/Ti1itj4"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "6d1863a6-bbb7-4c5f-a997-adc39657077d",
+        "name": "ADS",
+        "ad_account_name": "Vornyxar9 Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "With Fast Shipping In Europe",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GBGRbPTVqBbVyyXDzrKwd.67?mo=GtsCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIk9pLIAEw4AM41AZAAUoOCgleICwVIRMjGxYQ9ANQtqwBaAIiBgoCSAQSAKIBMwi6ChImCiQI2OlAIAEw0AU4gApAAkoOCglaJxgUHBwSFhQQ9ANQtqwBaAIiBgoCSAISAKIBMgh_EiYKJAj8kjIgATDgAzjUBkACSg4KCUYVHw0WDRUSDhD0A1C2rAFoAiIGCgJIAhIAogEzCJIKEiYKJAj1tTMgATDgAzjUBkACSg4KCUcWHw4XDRYTDxD0A1C2rAFoAiIGCgJIAhIAogEzCMQKEiYKJAjWkCwgATDgAzjWBkACSg4KCUQbEAwUEwwPDBD0A1C2rAFoAiIGCgJIAhIAogEzCNIKEiYKJAi04y4gATDgAzjUBkACSg4KCUcbEQ0VFQ0PDhD0A1C2rAFoAiIGCgJIAhIAkAO2rAE%3D&uc=15",
+        "start_date": "2025-07-10T18:38:03.000Z",
+        "impressions_total": 1307,
+        "impressions_map": {
+          "de": 46,
+          "be": 402,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 119,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 394,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 346,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "45",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "en"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "connection_type": "WIFI",
+              "carrier_id": []
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "connection_type": "WIFI",
+              "carrier_id": []
+            }
+          ]
+        },
+        "paying_advertiser_name": "Vornyxar9",
+        "profile_name": "Vornyxar9",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQzN3YkhzZ0NqUVV4ZDRIWGRYNjk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://dub.sh/9WeHMaT"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a747e1bd-2315-437e-bdf9-dfa78d5af10b",
         "name": "carousel_dpa_christmas",
         "ad_account_name": "ONYX Cookware",
         "status": "PAUSED",
@@ -598,14 +695,14 @@
         "top_snap_media_type": "DYNAMIC",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2025-12-10T11:39:13.000Z",
-        "impressions_total": 132631,
+        "impressions_total": 110770,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 132631,
+          "dk": 110770,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -1215,7 +1312,7 @@
           ],
           "template": {},
           "dynamic_template": {
-            "name": "Smartly Image Template - ONYX DPA_seasonal",
+            "name": "Smartly Image Template - ONYX_DPA_Snap",
             "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
             "layout": "FILL_HEIGHT",
@@ -1224,7 +1321,7 @@
               "salePrice"
             ],
             "preferred_image_tags": [
-              "2640facd-12fd-463b-81dc-c41a91869066"
+              "c5be8327-c342-48eb-a45c-1b6e502b9754"
             ]
           },
           "vertical": "COMMERCE"
@@ -1237,37 +1334,36 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "36ec6bf5-d790-4775-9781-91bccd6b2756",
-        "name": "ad412_singlead_video_christmas_cooking",
-        "ad_account_name": "ONYX Cookware",
-        "status": "PAUSED",
+        "id": "6317062c-661c-4778-b961-45c4c83d2ef9",
+        "name": "ADS",
+        "ad_account_name": "Nyxgrain Self Service",
+        "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "da"
+          "en"
         ],
-        "headline": "🎄🎅 JULEDEALS 🎅🎄",
+        "headline": "Your Style, Your SpeeD",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Td6wLifQW9T2mtdAXG56s.67?mo=GowCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE4CEMSMAouCO-HPCABMOADONQGQAFKDgoJQBQYBxEJFSEPEPQDUKCcAWgCdV46U0B9AACAPyICEgCiATkIugoSMAouCP7PMCABMNAFOIAKQAJKDgoJNA4WCRARCBwKEPQDUKCcAWgCdSyVW0B9AACAPyICEgCiATkIkgoSMAouCKjkJyABMOADONQGQAJKDgoJNA4UBwwHDBQKEPQDUKCcAWgCdSoiS0B9AACAPyICEgCiATkI0goSMAouCPLEJSABMOADONQGQAJKDgoJLgwRBgwMBhcHEPQDUKCcAWgCdQbBV0B9AACAPyICEgCQA6CcAQ%3D%3D&uc=15",
-        "start_date": "2025-12-12T07:52:57.000Z",
-        "impressions_total": 40031,
+        "start_date": "2025-04-09T01:14:42.000Z",
+        "impressions_total": 281,
         "impressions_map": {
-          "de": 0,
-          "be": 0,
+          "de": 27,
+          "be": 107,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 40031,
+          "dk": 14,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 0,
+          "se": 62,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -1281,104 +1377,36 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 0,
+          "nl": 71,
           "tr": 0
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "18",
+              "min_age": "22",
               "age_groups": [],
+              "gender": "FEMALE",
               "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
-          "devices": []
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": []
+            }
+          ]
         },
-        "paying_advertiser_name": "ONYX COOKWARE",
-        "profile_name": "ONYX COOKWARE",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQU5ieXZOWm5EVUVoV04wS3dxazVNP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://onyxcookware.dk/"
+          "url": "https://dub.sh/Ti1itj4"
         },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "026ecb39-6dd8-41c2-b446-13b7a8faede6",
-        "name": "ad416_singlead_video_coffee_machine",
-        "ad_account_name": "ONYX Cookware",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "da"
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
         ],
-        "headline": "Den perfekte kop kaffe hver dag ☕️",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/jMuEoyIOZhm8T8gcYN6AE.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQj-tyYgATDgAzjUBkABSg4KCSkOCQgIGhQTEhD0A1DohAFoAnUQ-05AIgYKAkgDEgCiATgIugoSKwopCLnLICABMNAFOIAKQAJKDgoJJg0ICAcaDxESEPQDUOiEAWgCdYL-UkAiBgoCSAISAKIBPQiSChIwCi4IvvAbIAEw4AM41AZAAkoOCgkjDgoJBxIPDw4Q9ANQ6IQBaAJ11ApGQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCMOKGCABMOADONQGQAJKDgoJIQoHBwYUCg0NEPQDUOiEAWgCdb59T0B9AACAPyIGCgJIAhIAkAPohAE%3D&uc=15",
-        "start_date": "2025-12-12T07:52:57.000Z",
-        "impressions_total": 41373,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 41373,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "ONYX COOKWARE",
-        "profile_name": "ONYX COOKWARE",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQU5ieXZOWm5EVUVoV04wS3dxazVNP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://onyxcookware.dk/collections/kaffemaskiner/products/onyx-cookware-kapselkaffemaskine"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
         "stickers": []
       }
     }

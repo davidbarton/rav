@@ -1,30 +1,28 @@
 {
   "brand": "adidas",
   "country": "nl",
-  "fetched_at": "2026-04-09T21:57:40.971Z",
+  "fetched_at": "2026-04-10T07:53:59.411Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "75ef9109-2605-4463-84bf-84ba112a46c7",
-        "name": "StoryPPLA|Vertical|NA|Dutch|SignUp|NA|NA|1|PPLA1",
-        "ad_account_name": "adidas eCom Europe (Non-Smartly)",
+        "id": "58f37e25-c0b3-4080-95cd-35cb5bc40c88",
+        "name": "SnapLens|Vertical|NA|Dutch|LearnMore|NA|NA|1",
+        "ad_account_name": "adidas NL",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "LENS_WEB_VIEW",
+        "ad_type": "LENS_REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "VIS L'EXPÉRIENCE EN  🇭🇺",
-        "call_to_action": "SIGN UP",
-        "top_snap_media_type": "IMAGE",
+        "languages": [],
+        "headline": "adidas",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "LENS_PACKAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/s0TNilFV0s4qdXAbISBEz.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-06-16T07:00:40.000Z",
-        "impressions_total": 544,
+        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/c1ec9bc7-13e6-4999-849c-30257e4ca275.lens",
+        "start_date": "2025-08-29T06:00:52.000Z",
+        "impressions_total": 4909710,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -52,7 +50,158 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 544,
+          "nl": 4909710,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "brand_name": "adidas",
+        "web_view_properties": {
+          "url": "https://ad.doubleclick.net/ddm/clk/620264164;427197341;e?https://www.adidas.nl/superstar?cm_mmc=AdiPaidSocial_Snapchat-_-Originals-_-Story-_-3D-_-SnapLens-_-dv:Brand-_-cn:FW25SUPERSTAR_Reach-_-pc:Originals&cm_mmc1=NL&cm_mmc2=adidas-EMEA-Brand-PaidSocial-Originals-Prospecting-NL-FW25SUPERSTAR-2508-5698-NA-SocialBRAND2"
+        },
+        "lens_preview": {
+          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/h2AdnuxLjitwz3FpDxXIj?bo=EhQyAX06AQRCBgiFhrfFBkgCUBJgAQ%3D%3D&uc=18"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "00b54b0f-290f-497b-a316-4b4ca9d4ee90",
+        "name": "SnapLens|Vertical|NA|English|LearnMore|NA|NA|1|WE",
+        "ad_account_name": "adidas NL",
+        "status": "ACTIVE",
+        "creative_type": "LENS_WEB_VIEW",
+        "ad_type": "LENS_REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "adidas",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "LENS_PACKAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/ebbed21f-a3d4-4da5-89c7-b94447a74fb8.lens",
+        "start_date": "2025-06-23T06:00:55.000Z",
+        "impressions_total": 7406347,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 7406347,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "34",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "brand_name": "adidas",
+        "profile_name": "adidas",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://ad.doubleclick.net/ddm/clk/615692146;423161946;l?https://www.adidas.nl/yougotthis?cm_mmc=AdiPaidSocial_Snapchat-_-Brand-_-Feed-_-3D-_-SnapLens-_-dv:Brand-_-cn:BRANDCAMPAIGNFW25BB2_Engage-_-pc:Brand&cm_mmc1=NL&cm_mmc2=adidas-EMEA-Brand-PaidSocial-Brand-Prospecting-NL-BRANDCAMPAIGNFW25BB2-2506-5242-NA-Social"
+        },
+        "lens_preview": {
+          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/9C1CU8ysu3h1yxARBx9am?bo=EhQyAX06AQRCBgjO15TDBkgCUBJgAQ%3D%3D&uc=18"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "59353db9-52dd-4891-a96f-cb017a730cf6",
+        "name": "SnapLens|Vertical|NA|Dutch|ShopNow|NA|NA|1",
+        "ad_account_name": "adidas eCom Europe (Smartly)",
+        "status": "ACTIVE",
+        "creative_type": "LENS_WEB_VIEW",
+        "ad_type": "LENS_REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "adidas",
+        "top_snap_media_type": "LENS_PACKAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/c70de4f3-e69c-4025-a318-2a50670832a7.lens",
+        "start_date": "2025-04-07T07:00:13.000Z",
+        "impressions_total": 9040827,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 9040827,
           "tr": 0
         },
         "targeting_v2": {
@@ -69,11 +218,12 @@
           "devices": []
         },
         "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
         "profile_name": "adidas",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/611525388;419188913;s?https://www.adidas.fr/events/2145926505?cm_mmc=AdiPaidSocial_SNAPCHAT-_-Commercial-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:MotorsportF1SS25_NA-_-pc:Commercial&cm_mmc1=FR&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-SNAPCHAT-Commercial-Multiple_NA-FR-MotorsportF1SS25-2504-5214-CP2Y33G-Global-NA-AcquisitionBelgiumGrandPrixLALPSE8"
+        "lens_preview": {
+          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/0gW8lYaisC7IISmPyDS4d?bo=EhQyAX06AQRCBgjrwd6_BkgCUBJgAQ%3D%3D&uc=18",
+          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/4635cd29-e61f-48e1-8794-1f0511db1baa.mp4",
+          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/4635cd29-e61f-48e1-8794-1f0511db1baa.webp"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -83,98 +233,20 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b51ce6ad-03e8-484c-8151-cf13b2ac1d46",
-        "name": "StoryPPLA|Vertical|NA|Dutch|SignUp|NA|NA|2|PPLA2",
-        "ad_account_name": "adidas eCom Europe (Non-Smartly)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "VIS L'EXPÉRIENCE EN  🇭🇺",
-        "call_to_action": "SIGN UP",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/pQjJDdZuv7sKCKxzzJ1OF.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-06-16T07:00:40.000Z",
-        "impressions_total": 254,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 254,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
-        "profile_name": "adidas",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/611525406;419188931;j?https://www.adidas.fr/events/2145926505?cm_mmc=AdiPaidSocial_SNAPCHAT-_-Commercial-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:MotorsportF1SS25_NA-_-pc:Commercial&cm_mmc1=FR&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-SNAPCHAT-Commercial-Multiple_NA-FR-MotorsportF1SS25-2504-5214-CP2Y33G-Global-NA-AcquisitionBelgiumGrandPrixPSE8"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d8acf98a-ce25-43af-860e-c08eae0fc7d3",
-        "name": "CollectionAd|Square|NA|Dutch|ShopNow|NA|NA|1|CollectionAd1EarlyAccess",
+        "id": "d268296f-1301-4780-801b-ca30b45cfcd5",
+        "name": "CollectionAd|Vertical|NA|Dutch|ShopNow|NA|NA|1|Collection",
         "ad_account_name": "adidas eCom Europe (Smartly)",
         "status": "ACTIVE",
         "creative_type": "COLLECTION",
         "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "adidas Black Friday",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Gratis Bezorging Voor Leden",
         "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
+        "top_snap_media_type": "DYNAMIC",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fluP1uBKa5dSNQtlnyh66.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-11-17T00:30:00.000Z",
-        "impressions_total": 15950,
+        "start_date": "2025-03-01T00:00:00.000Z",
+        "impressions_total": 645431,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -202,7 +274,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 15950,
+          "nl": 645431,
           "tr": 0
         },
         "targeting_v2": {
@@ -211,118 +283,419 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "languages": [],
+              "languages": [
+                "nl"
+              ],
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
         "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
         "profile_name": "adidas",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "collection_preview": {
-          "web_view_properties": {
-            "url": "https://ad.doubleclick.net/ddm/clk/625291334;432177184;h?https://www.adidas.nl/black_friday?cm_mmc=AdiPaidSocial_Snapchat-_-Commercial-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:FW25Holiday_NA-_-pc:Commercial&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-Commercial-Prospecting_NA-NL-FW25Holiday-2511-6061-CP3339X-Global-NA-NAEarlyAccessPSE9"
-          },
           "collection_creative_element_attachment": [
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/625291334;432177184;h?https://www.adidas.nl/courtblock-schoenen/IG6864.html?cm_mmc=AdiPaidSocial_Snapchat-_-Commercial-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:FW25Holiday_NA-_-pc:Commercial&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-Commercial-Prospecting_NA-NL-FW25Holiday-2511-6061-CP3339X-Global-NA-NAEarlyAccessPSE9"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/f7cacda7-81a6-4033-b0b6-e864227b9c51/230181bb-a74b-451a-a9c3-0b2c978f237d.png"
+              "app_install_properties": {}
             },
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/625291334;432177184;h?https://www.adidas.nl/washed-out-boyfriend-fit-hoodie/IW3414.html?cm_mmc=AdiPaidSocial_Snapchat-_-Commercial-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:FW25Holiday_NA-_-pc:Commercial&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-Commercial-Prospecting_NA-NL-FW25Holiday-2511-6061-CP3339X-Global-NA-NAEarlyAccessPSE9"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/e8544b3f-e9a0-4dd2-9a22-eebc35b0c4b3/8e630fbc-846d-4bfc-b3f2-a886f65a196b.png"
+              "app_install_properties": {}
             },
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/625291334;432177184;h?https://www.adidas.nl/adicolor-short-puffer-jack/JD0416.html?cm_mmc=AdiPaidSocial_Snapchat-_-Commercial-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:FW25Holiday_NA-_-pc:Commercial&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-Commercial-Prospecting_NA-NL-FW25Holiday-2511-6061-CP3339X-Global-NA-NAEarlyAccessPSE9"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/94acc633-56cf-4073-9461-66388a53697b/ccf9f6ca-a06b-4c7f-a344-1db134bd7b45.png"
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
             }
           ]
         },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "43e6f929-68a4-4b65-8370-30bd5f1dd80a",
-        "name": "SnapAd|Square|NA|Dutch|ShopNow|NA|NA|1|VideoTemplate1",
-        "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "A PAIR FOR EVERY RUNNER",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/5T8LvLJjOsIBslN69u6Yt.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMItOUOIAEw4AM41AZAAUoOCgloCQEACAEABgEQ9ANQ8khoAiIGCgJIAhIAogEyCLoKEiUKIwiu0QogATDQBTiACkACSg4KCWwKAQEJAQEIABD0A1DySGgCIgYKAkgDEgCiATEIfxIlCiMInbcKIAEw4AM41AZAAkoOCglHBwIABQEBBQEQ9ANQ8khoAiIGCgJIAhIAogEyCJIKEiUKIwjAywogATDgAzjUBkACSg4KCUUHAQIFAgEGARD0A1DySGgCIgYKAkgCEgCiATIIxAoSJQojCLj7BiABMOADONYGQAJKDgoJTAYBBQABAQQAEPQDUPJIaAIiBgoCSAISAKIBMgjSChIlCiMI4LMHIAEw4AM41AZAAkoOCglRBgEGAAEABAEQ9ANQ8khoAiIGCgJIAhIAkAPySA%3D%3D&uc=15",
-        "start_date": "2025-07-07T07:00:00.000Z",
-        "impressions_total": 380180,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 380180,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
+        "dpa_preview": {
+          "items": [
             {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/JHR3HlQDjApEtHEFtW6la.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/VHE963Qnf1oIlHORvHVh0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Dit junior T-shirt, een adidas item voor elke gelegenheid, is perfect om elke dag te dragen. Het is gemaakt van zachte enkele jersey en houdt je comfortabel, of je nu met vrienden afspreekt of thuis relaxt. Een groot 3 Bar Logo op de borst laat zien dat adidas jouw merk is.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Sportswear",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "T-Shirts/Kinderen"
+              ],
+              "size": "",
+              "title": "Essentials T-shirt Kids",
+              "link": "https://www.adidas.nl/essentials-t-shirt-kids/JC9660.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/4NWNBmeEG9xoyDCuWASvN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/25ENzHS4VYU9K4AP4fdjA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Kleed je aan voor winterse avonturen met de adidas x Moon Boot Full Length jas. Omarm de fusie van berg en straat met deze iconische samenwerking. Het ripstop materiaal maakt 'm robuust en gestroomlijnd. De losse pasvorm biedt comfort en bewegingsvrijheid, waardoor hij erg geschikt is om ergens overheen te dragen. Met zijn lange model biedt de jas betrouwbare bedekking en helpt hij je warm te blijven. Of je nu de stad verkent of de bergen in trekt, deze jas past zich aan je leefstijl aan. Voeg een vleugje functionele stijl toe aan je wintergarderobe met dit veelzijdige stuk.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Sportswear",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Jassen/Dames"
+              ],
+              "size": "",
+              "title": "adidas x MOON BOOT Full Length Jack",
+              "link": "https://www.adidas.nl/adidas-x-moon-boot-full-length-jack/JM6490.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/9bjDN7A4QsM54bXP1ZHSg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/04qUUmOuoBzJITwj5KF4C.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Met deze adidas bikini voor kids kunnen jonge zwemmers hun individualiteit laten zien in en buiten het zwembad. Een racerbackmodel zorgt voor volledige bewegingsvrijheid. Een zilveren opdruk en een glinsterend 3 Bar Logo bieden een vleugje glans.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "C46689",
+              "custom_label_4": "Sportswear",
+              "availability": "IN STOCK",
+              "color": [
+                "Roze"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Zwemkleding/Kinderen"
+              ],
+              "size": "",
+              "title": "Glitter Bikini Kids",
+              "link": "https://www.adidas.nl/glitter-bikini-kids/JM8186.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3ENk6duXIH1bXVRcJE1fm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/sTR0ucqdeqqXTfEbrezB3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Legendarische F50-snelheid. Betoverende Messi-skills. Het flexibele HybridTouch-bovenwerk van deze adidas Elite voetbalschoen, die is gemaakt om te voldoen aan wat de GOAT nodig heeft op het veld, is voorzien van een gebreide 'burrito'-tong voor een bredere opening en een comfortabele pasvorm. De Speedframe 360-loopzool houdt je wendbaar op stevige ondergronden. Dit product bestaat voor minstens 20% uit gerecyclede materialen. Door hergebruik van materialen die al eerder zijn gecreëerd, helpen we afval verminderen, en ook onze afhankelijkheid van beperkt beschikbare grondstoffen. Daarnaast verkleint het de voetafdruk van onze producten.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "30",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "B7BABE",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zilver"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Voetbalschoenen/Unisex"
+              ],
+              "size": "",
+              "title": "F50 Elite Messi Firm Ground Voetbalschoenen",
+              "link": "https://www.adidas.nl/f50-elite-messi-firm-ground-voetbalschoenen/IH0915.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/tpRrb4Shph48BWJnDJPw5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ULztzuBDx3NK9hojthF5n.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Je schoenen moeten het laatste zijn waar je aan denkt op het hockeyveld. Daarom hebben deze adidas Flexcloud schoenen een ademend bovenwerk van air-mesh dat vastzit aan een dempende Cloudfoam-middenzool. Een overlay van folie biedt extra ondersteuning en slijtagebestendigheid, en een neuskap van TPU beschermt je tegen de bal. De rubberen loopzool met nopjes houdt je stabiel en beheerst. Dit product is gemaakt met Primegreen: een reeks gerecyclede high-performance materialen. 50% van het bovenwerk bestaat uit hergebruikte grondstoffen. Geen nieuw polyester.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "3A5C9B",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blauw"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Andere Sportschoenen/Unisex"
+              ],
+              "size": "",
+              "title": "Flexcloud 2.1 Hockeyschoenen",
+              "link": "https://www.adidas.nl/flexcloud-2.1-hockeyschoenen/JP9829.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/U0rZrIp9fbiOgZjDvfiK3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hjkKWYhd7Zk04EcTlq3Zk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Op het voetbalveld heeft Jude Bellingham een geheel eigen stijl. Met deze adidas trainingsbroek, die is afgewerkt met het logo van de spelverdeler op de pijp, kun je buiten de witte lijnen die van jou laten zien. Hij is gemaakt voor een losse, relaxte pasvorm van robuuste keperstof, zodat je hem constant kunt dragen.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "30",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "2C3248",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blauw"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Broeken/Heren"
+              ],
+              "size": "",
+              "title": "Jude Bellingham adidas Originals Trainingsbroek",
+              "link": "https://www.adidas.nl/jude-bellingham-adidas-originals-trainingsbroek/JX6336.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SPnu00yrLq1rVDua5SbCl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/p7ZgVkLPCttokfMjYAQjD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "De Stadium Graphic Hoodie is geïnspireerd op de levendige fancultuur rondom Amerikaanse schoolsport en viert de diversiteit en passie die sportliefhebbers verenigen. Of je nu voetbal, basketbal of honkbal support, deze hoodie is ontworpen om je comfortabel te voelen en er goed uit te zien. Hij is gemaakt van interlockstof en heeft een losse pasvorm voor bewegingsvrijheid. Een tonale adidas sportswear graphic en mesh stripes maken het helemaal af. Dit is meer dan zomaar een hoodie: het is een statement van verbondenheid en optimisme. Draag hem met trots en toon je liefde voor sport.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "F5F4E7",
+              "custom_label_4": "Sportswear",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Wit"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Hoodies/Heren"
+              ],
+              "size": "",
+              "title": "STADION GRAPHIC HOODIE",
+              "link": "https://www.adidas.nl/stadion-graphic-hoodie/KD0289.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3kOmSaOtq952mnYH0fKJO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/D8AdaH6qQ7OYxQFEjMVmX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Trek de aandacht met het comfort van dit casual T-shirt. Het brengt een eerbetoon aan de rijke sporthistorie van adidas, die altijd al draaide om grenzen verleggen en durven opvallen. Dankzij het oversized model en de katoenmix kun je vrij bewegen. Het iconische Trefoil-logo maakt een statement over jouw zelfverzekerde stijl. Door te kiezen voor gerecycled materiaal kunnen we materialen hergebruiken die al zijn gemaakt, wat helpt om afval te verminderen. Het kiezen voor hernieuwbare materialen zal ons helpen om onze afhankelijkheid van eindige hulpbronnen te verminderen. Onze producten gemaakt van een mix van gerecyclede en hernieuwbare materialen bevatten in totaal minimaal 70% van deze materialen.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "50",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "3A353D",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Paars"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "T-Shirts/Dames"
+              ],
+              "size": "",
+              "title": "Adicolor Trefoil Boxy T-shirt",
+              "link": "https://www.adidas.nl/adicolor-trefoil-boxy-t-shirt/IY4688.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/wycBBrrJJ25rxd9CL6GyG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qyoYTRoPX34ZLgg42mZLA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Dit frisse, levenslustige Adicolor Firebird sportjack viert de kracht en authenticiteit van het legendarische adidas DNA. Het comfortabele jack trekt niet alleen de aandacht met het moderne tricot, maar ook zeker met onze iconische 3-Stripes langs de mouwen en een geborduurd Trefoil-logo op de borst. Rits 't dicht en laat de wereld jouw zelfverzekerde kant zien. KEN DE VOETAFDRUK: Alle fasen in de levenscyclus zijn meegenomen in onze methode om de CO2-voetafdruk van het product te berekenen, gebaseerd op het formaat van het adidas' prototype. We maten de koolstofvoetafdruk (CO2e) van de grondstofwinning en -verwerking, de productie en assemblage, de verpakking, en het transport en gebruik, helemaal tot het einde van de productlevenscyclus. Dit voldoet aan de internationaal erkende norm: ISO 14067. Om te begrijpen wat het meten en berekenen van de totale CO2-voetafdruk van het product inhoudt, kopieer je deze link naar je browser: https://www.adidas.com/go/campaign/carbon-footprint",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Trainingsjacks/Dames"
+              ],
+              "size": "",
+              "title": "Adicolor Classics Firebird Trainingsjack",
+              "link": "https://www.adidas.nl/adicolor-classics-firebird-trainingsjack/IL8764.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/Qq15RyuK04Ae4g75htGAi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/RdJUNbLzLd1Jo5M9YHhtC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "De Handball Spezial schoenen werden in 1979 voor het eerst geïntroduceerd voor elitehandballers en combineren een vintage stijl met moderne functionaliteit voor een klassieke uitstraling. Het bovenwerk van geolied leer en de leren strepen en hiel geven de schoenen een verfijnde, opvallende look. De voering van synthetisch leer biedt comfort, en de robuuste loopzool van zacht gumrubber zorgt voor meer grip. Dankzij de vetersluiting hebben de schoenen een goede pasvorm. De adidas branding op de hiel en tong voegt een vleugje adidas flair toe. Ga vol vertrouwen op pad in deze tijdloze sportschoenen. Geniet van de mix van klassieke straatstijl en topprestaties met adidas.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "49403C",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Bruin"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Sneakers/Unisex"
+              ],
+              "size": "",
+              "title": "HANDBALL SPEZIAL SCHOENEN",
+              "link": "https://www.adidas.nl/handball-spezial-schoenen/KI8581.html"
             }
           ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
-        "profile_name": "adidas",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/616150769;423960120;d?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-3D-_-VideoTemplate-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
+          "template": {},
+          "dynamic_template": {
+            "name": "Smartly Image Template - NL - Snapchat DPA - Hex Template - Dec24",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "FILL_HEIGHT",
+            "text_fields": [
+              "title",
+              "price"
+            ],
+            "preferred_image_tags": [
+              "95d6d377-cfe7-475d-a084-3f28e40ee78d"
+            ]
+          },
+          "vertical": "COMMERCE"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -332,23 +705,20 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "26b92af5-89f8-4f01-ab0a-3ca54e40a2b8",
-        "name": "CollectionAd|Square|NA|Dutch|ShopNow|NA|NA|2|CollectionAd2",
+        "id": "12841ffa-80eb-478f-a302-e7fab1fe9381",
+        "name": "SnapAd|Vertical|NA|Dutch|ShopNow|NA|NA|1|Single",
         "ad_account_name": "adidas eCom Europe (Smartly)",
         "status": "ACTIVE",
         "creative_type": "COLLECTION",
         "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "A PAIR FOR EVERY RUNNER",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Gratis Bezorging Voor Leden",
         "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
+        "top_snap_media_type": "DYNAMIC",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EDWg9ClzlZOWmxqWs1qdE.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-07-07T07:00:00.000Z",
-        "impressions_total": 11121,
+        "start_date": "2025-03-01T00:00:00.000Z",
+        "impressions_total": 1094368,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -376,7 +746,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 11121,
+          "nl": 1094368,
           "tr": 0
         },
         "targeting_v2": {
@@ -385,44 +755,419 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "languages": [],
+              "languages": [
+                "nl"
+              ],
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
         "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
         "profile_name": "adidas",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
         "collection_preview": {
-          "web_view_properties": {
-            "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-          },
           "collection_creative_element_attachment": [
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/ultraboost-5-schoenen/JQ2911.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ebec7cca-896b-4d7d-a402-4ba73af02e91/d8417cca-517a-46fb-9aa9-dddd77180992.png"
+              "app_install_properties": {}
             },
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/supernova-rise-2-hardloopschoenen/JQ7701.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/642abff0-1baa-4c1f-8f4b-c5e1064a5c74/429a6580-6431-4e6a-ac52-aa8abab127f1.png"
+              "app_install_properties": {}
             },
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/adistar-4-hardloopschoenen/JR0287.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/cf8b45e9-6806-4d7a-af92-51cbe966e88e/25fd82a2-fdcd-4fe5-b04b-f92829a1dd30.png"
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
             }
           ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/JHR3HlQDjApEtHEFtW6la.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/VHE963Qnf1oIlHORvHVh0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Dit junior T-shirt, een adidas item voor elke gelegenheid, is perfect om elke dag te dragen. Het is gemaakt van zachte enkele jersey en houdt je comfortabel, of je nu met vrienden afspreekt of thuis relaxt. Een groot 3 Bar Logo op de borst laat zien dat adidas jouw merk is.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Sportswear",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "T-Shirts/Kinderen"
+              ],
+              "size": "",
+              "title": "Essentials T-shirt Kids",
+              "link": "https://www.adidas.nl/essentials-t-shirt-kids/JC9660.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/4NWNBmeEG9xoyDCuWASvN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/25ENzHS4VYU9K4AP4fdjA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Kleed je aan voor winterse avonturen met de adidas x Moon Boot Full Length jas. Omarm de fusie van berg en straat met deze iconische samenwerking. Het ripstop materiaal maakt 'm robuust en gestroomlijnd. De losse pasvorm biedt comfort en bewegingsvrijheid, waardoor hij erg geschikt is om ergens overheen te dragen. Met zijn lange model biedt de jas betrouwbare bedekking en helpt hij je warm te blijven. Of je nu de stad verkent of de bergen in trekt, deze jas past zich aan je leefstijl aan. Voeg een vleugje functionele stijl toe aan je wintergarderobe met dit veelzijdige stuk.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Sportswear",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Jassen/Dames"
+              ],
+              "size": "",
+              "title": "adidas x MOON BOOT Full Length Jack",
+              "link": "https://www.adidas.nl/adidas-x-moon-boot-full-length-jack/JM6490.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/9bjDN7A4QsM54bXP1ZHSg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/04qUUmOuoBzJITwj5KF4C.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Met deze adidas bikini voor kids kunnen jonge zwemmers hun individualiteit laten zien in en buiten het zwembad. Een racerbackmodel zorgt voor volledige bewegingsvrijheid. Een zilveren opdruk en een glinsterend 3 Bar Logo bieden een vleugje glans.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "C46689",
+              "custom_label_4": "Sportswear",
+              "availability": "IN STOCK",
+              "color": [
+                "Roze"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Zwemkleding/Kinderen"
+              ],
+              "size": "",
+              "title": "Glitter Bikini Kids",
+              "link": "https://www.adidas.nl/glitter-bikini-kids/JM8186.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3ENk6duXIH1bXVRcJE1fm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/sTR0ucqdeqqXTfEbrezB3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Legendarische F50-snelheid. Betoverende Messi-skills. Het flexibele HybridTouch-bovenwerk van deze adidas Elite voetbalschoen, die is gemaakt om te voldoen aan wat de GOAT nodig heeft op het veld, is voorzien van een gebreide 'burrito'-tong voor een bredere opening en een comfortabele pasvorm. De Speedframe 360-loopzool houdt je wendbaar op stevige ondergronden. Dit product bestaat voor minstens 20% uit gerecyclede materialen. Door hergebruik van materialen die al eerder zijn gecreëerd, helpen we afval verminderen, en ook onze afhankelijkheid van beperkt beschikbare grondstoffen. Daarnaast verkleint het de voetafdruk van onze producten.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "30",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "B7BABE",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zilver"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Voetbalschoenen/Unisex"
+              ],
+              "size": "",
+              "title": "F50 Elite Messi Firm Ground Voetbalschoenen",
+              "link": "https://www.adidas.nl/f50-elite-messi-firm-ground-voetbalschoenen/IH0915.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/tpRrb4Shph48BWJnDJPw5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ULztzuBDx3NK9hojthF5n.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Je schoenen moeten het laatste zijn waar je aan denkt op het hockeyveld. Daarom hebben deze adidas Flexcloud schoenen een ademend bovenwerk van air-mesh dat vastzit aan een dempende Cloudfoam-middenzool. Een overlay van folie biedt extra ondersteuning en slijtagebestendigheid, en een neuskap van TPU beschermt je tegen de bal. De rubberen loopzool met nopjes houdt je stabiel en beheerst. Dit product is gemaakt met Primegreen: een reeks gerecyclede high-performance materialen. 50% van het bovenwerk bestaat uit hergebruikte grondstoffen. Geen nieuw polyester.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "3A5C9B",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blauw"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Andere Sportschoenen/Unisex"
+              ],
+              "size": "",
+              "title": "Flexcloud 2.1 Hockeyschoenen",
+              "link": "https://www.adidas.nl/flexcloud-2.1-hockeyschoenen/JP9829.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/U0rZrIp9fbiOgZjDvfiK3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hjkKWYhd7Zk04EcTlq3Zk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Op het voetbalveld heeft Jude Bellingham een geheel eigen stijl. Met deze adidas trainingsbroek, die is afgewerkt met het logo van de spelverdeler op de pijp, kun je buiten de witte lijnen die van jou laten zien. Hij is gemaakt voor een losse, relaxte pasvorm van robuuste keperstof, zodat je hem constant kunt dragen.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "30",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "2C3248",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blauw"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Broeken/Heren"
+              ],
+              "size": "",
+              "title": "Jude Bellingham adidas Originals Trainingsbroek",
+              "link": "https://www.adidas.nl/jude-bellingham-adidas-originals-trainingsbroek/JX6336.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SPnu00yrLq1rVDua5SbCl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/p7ZgVkLPCttokfMjYAQjD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "De Stadium Graphic Hoodie is geïnspireerd op de levendige fancultuur rondom Amerikaanse schoolsport en viert de diversiteit en passie die sportliefhebbers verenigen. Of je nu voetbal, basketbal of honkbal support, deze hoodie is ontworpen om je comfortabel te voelen en er goed uit te zien. Hij is gemaakt van interlockstof en heeft een losse pasvorm voor bewegingsvrijheid. Een tonale adidas sportswear graphic en mesh stripes maken het helemaal af. Dit is meer dan zomaar een hoodie: het is een statement van verbondenheid en optimisme. Draag hem met trots en toon je liefde voor sport.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "F5F4E7",
+              "custom_label_4": "Sportswear",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Wit"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Hoodies/Heren"
+              ],
+              "size": "",
+              "title": "STADION GRAPHIC HOODIE",
+              "link": "https://www.adidas.nl/stadion-graphic-hoodie/KD0289.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3kOmSaOtq952mnYH0fKJO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/D8AdaH6qQ7OYxQFEjMVmX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Trek de aandacht met het comfort van dit casual T-shirt. Het brengt een eerbetoon aan de rijke sporthistorie van adidas, die altijd al draaide om grenzen verleggen en durven opvallen. Dankzij het oversized model en de katoenmix kun je vrij bewegen. Het iconische Trefoil-logo maakt een statement over jouw zelfverzekerde stijl. Door te kiezen voor gerecycled materiaal kunnen we materialen hergebruiken die al zijn gemaakt, wat helpt om afval te verminderen. Het kiezen voor hernieuwbare materialen zal ons helpen om onze afhankelijkheid van eindige hulpbronnen te verminderen. Onze producten gemaakt van een mix van gerecyclede en hernieuwbare materialen bevatten in totaal minimaal 70% van deze materialen.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "50",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "3A353D",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Paars"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "T-Shirts/Dames"
+              ],
+              "size": "",
+              "title": "Adicolor Trefoil Boxy T-shirt",
+              "link": "https://www.adidas.nl/adicolor-trefoil-boxy-t-shirt/IY4688.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/wycBBrrJJ25rxd9CL6GyG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qyoYTRoPX34ZLgg42mZLA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Dit frisse, levenslustige Adicolor Firebird sportjack viert de kracht en authenticiteit van het legendarische adidas DNA. Het comfortabele jack trekt niet alleen de aandacht met het moderne tricot, maar ook zeker met onze iconische 3-Stripes langs de mouwen en een geborduurd Trefoil-logo op de borst. Rits 't dicht en laat de wereld jouw zelfverzekerde kant zien. KEN DE VOETAFDRUK: Alle fasen in de levenscyclus zijn meegenomen in onze methode om de CO2-voetafdruk van het product te berekenen, gebaseerd op het formaat van het adidas' prototype. We maten de koolstofvoetafdruk (CO2e) van de grondstofwinning en -verwerking, de productie en assemblage, de verpakking, en het transport en gebruik, helemaal tot het einde van de productlevenscyclus. Dit voldoet aan de internationaal erkende norm: ISO 14067. Om te begrijpen wat het meten en berekenen van de totale CO2-voetafdruk van het product inhoudt, kopieer je deze link naar je browser: https://www.adidas.com/go/campaign/carbon-footprint",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Trainingsjacks/Dames"
+              ],
+              "size": "",
+              "title": "Adicolor Classics Firebird Trainingsjack",
+              "link": "https://www.adidas.nl/adicolor-classics-firebird-trainingsjack/IL8764.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/Qq15RyuK04Ae4g75htGAi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/RdJUNbLzLd1Jo5M9YHhtC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "De Handball Spezial schoenen werden in 1979 voor het eerst geïntroduceerd voor elitehandballers en combineren een vintage stijl met moderne functionaliteit voor een klassieke uitstraling. Het bovenwerk van geolied leer en de leren strepen en hiel geven de schoenen een verfijnde, opvallende look. De voering van synthetisch leer biedt comfort, en de robuuste loopzool van zacht gumrubber zorgt voor meer grip. Dankzij de vetersluiting hebben de schoenen een goede pasvorm. De adidas branding op de hiel en tong voegt een vleugje adidas flair toe. Ga vol vertrouwen op pad in deze tijdloze sportschoenen. Geniet van de mix van klassieke straatstijl en topprestaties met adidas.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "49403C",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Bruin"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Sneakers/Unisex"
+              ],
+              "size": "",
+              "title": "HANDBALL SPEZIAL SCHOENEN",
+              "link": "https://www.adidas.nl/handball-spezial-schoenen/KI8581.html"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "Smartly Image Template - NL - Snapchat DPA - Hex Template - Dec24",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "FILL_HEIGHT",
+            "text_fields": [
+              "title",
+              "price"
+            ],
+            "preferred_image_tags": [
+              "95d6d377-cfe7-475d-a084-3f28e40ee78d"
+            ]
+          },
+          "vertical": "COMMERCE"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -432,23 +1177,1569 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "3f140757-7eef-46a3-871c-fcf2d312e081",
-        "name": "CollectionAd|Square|NA|Dutch|ShopNow|NA|NA|2|CollectionAd2",
+        "id": "aad6ac00-b84d-4a26-8566-7515787f1cad",
+        "name": "Story|Vertical|NA|Dutch|ShopNow|NA|NA|1|Story",
+        "ad_account_name": "adidas eCom Europe (Smartly)",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Gratis Bezorging Voor Leden",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-03-01T00:00:00.000Z",
+        "impressions_total": 1699599,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 1699599,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "nl"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "profile_name": "adidas",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": false,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/JHR3HlQDjApEtHEFtW6la.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/VHE963Qnf1oIlHORvHVh0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Dit junior T-shirt, een adidas item voor elke gelegenheid, is perfect om elke dag te dragen. Het is gemaakt van zachte enkele jersey en houdt je comfortabel, of je nu met vrienden afspreekt of thuis relaxt. Een groot 3 Bar Logo op de borst laat zien dat adidas jouw merk is.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Sportswear",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "T-Shirts/Kinderen"
+              ],
+              "size": "",
+              "title": "Essentials T-shirt Kids",
+              "link": "https://www.adidas.nl/essentials-t-shirt-kids/JC9660.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/4NWNBmeEG9xoyDCuWASvN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/25ENzHS4VYU9K4AP4fdjA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Kleed je aan voor winterse avonturen met de adidas x Moon Boot Full Length jas. Omarm de fusie van berg en straat met deze iconische samenwerking. Het ripstop materiaal maakt 'm robuust en gestroomlijnd. De losse pasvorm biedt comfort en bewegingsvrijheid, waardoor hij erg geschikt is om ergens overheen te dragen. Met zijn lange model biedt de jas betrouwbare bedekking en helpt hij je warm te blijven. Of je nu de stad verkent of de bergen in trekt, deze jas past zich aan je leefstijl aan. Voeg een vleugje functionele stijl toe aan je wintergarderobe met dit veelzijdige stuk.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Sportswear",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Jassen/Dames"
+              ],
+              "size": "",
+              "title": "adidas x MOON BOOT Full Length Jack",
+              "link": "https://www.adidas.nl/adidas-x-moon-boot-full-length-jack/JM6490.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/9bjDN7A4QsM54bXP1ZHSg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/04qUUmOuoBzJITwj5KF4C.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Met deze adidas bikini voor kids kunnen jonge zwemmers hun individualiteit laten zien in en buiten het zwembad. Een racerbackmodel zorgt voor volledige bewegingsvrijheid. Een zilveren opdruk en een glinsterend 3 Bar Logo bieden een vleugje glans.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "C46689",
+              "custom_label_4": "Sportswear",
+              "availability": "IN STOCK",
+              "color": [
+                "Roze"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Zwemkleding/Kinderen"
+              ],
+              "size": "",
+              "title": "Glitter Bikini Kids",
+              "link": "https://www.adidas.nl/glitter-bikini-kids/JM8186.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3ENk6duXIH1bXVRcJE1fm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/sTR0ucqdeqqXTfEbrezB3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Legendarische F50-snelheid. Betoverende Messi-skills. Het flexibele HybridTouch-bovenwerk van deze adidas Elite voetbalschoen, die is gemaakt om te voldoen aan wat de GOAT nodig heeft op het veld, is voorzien van een gebreide 'burrito'-tong voor een bredere opening en een comfortabele pasvorm. De Speedframe 360-loopzool houdt je wendbaar op stevige ondergronden. Dit product bestaat voor minstens 20% uit gerecyclede materialen. Door hergebruik van materialen die al eerder zijn gecreëerd, helpen we afval verminderen, en ook onze afhankelijkheid van beperkt beschikbare grondstoffen. Daarnaast verkleint het de voetafdruk van onze producten.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "30",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "B7BABE",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zilver"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Voetbalschoenen/Unisex"
+              ],
+              "size": "",
+              "title": "F50 Elite Messi Firm Ground Voetbalschoenen",
+              "link": "https://www.adidas.nl/f50-elite-messi-firm-ground-voetbalschoenen/IH0915.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/tpRrb4Shph48BWJnDJPw5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ULztzuBDx3NK9hojthF5n.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Je schoenen moeten het laatste zijn waar je aan denkt op het hockeyveld. Daarom hebben deze adidas Flexcloud schoenen een ademend bovenwerk van air-mesh dat vastzit aan een dempende Cloudfoam-middenzool. Een overlay van folie biedt extra ondersteuning en slijtagebestendigheid, en een neuskap van TPU beschermt je tegen de bal. De rubberen loopzool met nopjes houdt je stabiel en beheerst. Dit product is gemaakt met Primegreen: een reeks gerecyclede high-performance materialen. 50% van het bovenwerk bestaat uit hergebruikte grondstoffen. Geen nieuw polyester.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "3A5C9B",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blauw"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Andere Sportschoenen/Unisex"
+              ],
+              "size": "",
+              "title": "Flexcloud 2.1 Hockeyschoenen",
+              "link": "https://www.adidas.nl/flexcloud-2.1-hockeyschoenen/JP9829.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/U0rZrIp9fbiOgZjDvfiK3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hjkKWYhd7Zk04EcTlq3Zk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Op het voetbalveld heeft Jude Bellingham een geheel eigen stijl. Met deze adidas trainingsbroek, die is afgewerkt met het logo van de spelverdeler op de pijp, kun je buiten de witte lijnen die van jou laten zien. Hij is gemaakt voor een losse, relaxte pasvorm van robuuste keperstof, zodat je hem constant kunt dragen.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "30",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "2C3248",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blauw"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Broeken/Heren"
+              ],
+              "size": "",
+              "title": "Jude Bellingham adidas Originals Trainingsbroek",
+              "link": "https://www.adidas.nl/jude-bellingham-adidas-originals-trainingsbroek/JX6336.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SPnu00yrLq1rVDua5SbCl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/p7ZgVkLPCttokfMjYAQjD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "De Stadium Graphic Hoodie is geïnspireerd op de levendige fancultuur rondom Amerikaanse schoolsport en viert de diversiteit en passie die sportliefhebbers verenigen. Of je nu voetbal, basketbal of honkbal support, deze hoodie is ontworpen om je comfortabel te voelen en er goed uit te zien. Hij is gemaakt van interlockstof en heeft een losse pasvorm voor bewegingsvrijheid. Een tonale adidas sportswear graphic en mesh stripes maken het helemaal af. Dit is meer dan zomaar een hoodie: het is een statement van verbondenheid en optimisme. Draag hem met trots en toon je liefde voor sport.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "F5F4E7",
+              "custom_label_4": "Sportswear",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Wit"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Hoodies/Heren"
+              ],
+              "size": "",
+              "title": "STADION GRAPHIC HOODIE",
+              "link": "https://www.adidas.nl/stadion-graphic-hoodie/KD0289.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3kOmSaOtq952mnYH0fKJO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/D8AdaH6qQ7OYxQFEjMVmX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Trek de aandacht met het comfort van dit casual T-shirt. Het brengt een eerbetoon aan de rijke sporthistorie van adidas, die altijd al draaide om grenzen verleggen en durven opvallen. Dankzij het oversized model en de katoenmix kun je vrij bewegen. Het iconische Trefoil-logo maakt een statement over jouw zelfverzekerde stijl. Door te kiezen voor gerecycled materiaal kunnen we materialen hergebruiken die al zijn gemaakt, wat helpt om afval te verminderen. Het kiezen voor hernieuwbare materialen zal ons helpen om onze afhankelijkheid van eindige hulpbronnen te verminderen. Onze producten gemaakt van een mix van gerecyclede en hernieuwbare materialen bevatten in totaal minimaal 70% van deze materialen.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "50",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "3A353D",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Paars"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "T-Shirts/Dames"
+              ],
+              "size": "",
+              "title": "Adicolor Trefoil Boxy T-shirt",
+              "link": "https://www.adidas.nl/adicolor-trefoil-boxy-t-shirt/IY4688.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/wycBBrrJJ25rxd9CL6GyG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qyoYTRoPX34ZLgg42mZLA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Dit frisse, levenslustige Adicolor Firebird sportjack viert de kracht en authenticiteit van het legendarische adidas DNA. Het comfortabele jack trekt niet alleen de aandacht met het moderne tricot, maar ook zeker met onze iconische 3-Stripes langs de mouwen en een geborduurd Trefoil-logo op de borst. Rits 't dicht en laat de wereld jouw zelfverzekerde kant zien. KEN DE VOETAFDRUK: Alle fasen in de levenscyclus zijn meegenomen in onze methode om de CO2-voetafdruk van het product te berekenen, gebaseerd op het formaat van het adidas' prototype. We maten de koolstofvoetafdruk (CO2e) van de grondstofwinning en -verwerking, de productie en assemblage, de verpakking, en het transport en gebruik, helemaal tot het einde van de productlevenscyclus. Dit voldoet aan de internationaal erkende norm: ISO 14067. Om te begrijpen wat het meten en berekenen van de totale CO2-voetafdruk van het product inhoudt, kopieer je deze link naar je browser: https://www.adidas.com/go/campaign/carbon-footprint",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Trainingsjacks/Dames"
+              ],
+              "size": "",
+              "title": "Adicolor Classics Firebird Trainingsjack",
+              "link": "https://www.adidas.nl/adicolor-classics-firebird-trainingsjack/IL8764.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/Qq15RyuK04Ae4g75htGAi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/RdJUNbLzLd1Jo5M9YHhtC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "De Handball Spezial schoenen werden in 1979 voor het eerst geïntroduceerd voor elitehandballers en combineren een vintage stijl met moderne functionaliteit voor een klassieke uitstraling. Het bovenwerk van geolied leer en de leren strepen en hiel geven de schoenen een verfijnde, opvallende look. De voering van synthetisch leer biedt comfort, en de robuuste loopzool van zacht gumrubber zorgt voor meer grip. Dankzij de vetersluiting hebben de schoenen een goede pasvorm. De adidas branding op de hiel en tong voegt een vleugje adidas flair toe. Ga vol vertrouwen op pad in deze tijdloze sportschoenen. Geniet van de mix van klassieke straatstijl en topprestaties met adidas.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "49403C",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Bruin"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Sneakers/Unisex"
+              ],
+              "size": "",
+              "title": "HANDBALL SPEZIAL SCHOENEN",
+              "link": "https://www.adidas.nl/handball-spezial-schoenen/KI8581.html"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "Smartly Image Template - NL - Snapchat DPA - Hex Template - Dec24",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "FILL_HEIGHT",
+            "text_fields": [
+              "``",
+              "``"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "7be24062-435e-4a45-8a8f-1a4eeb62450c",
+        "name": "SnapAd|Vertical|NA|Dutch|ShopNow|NA|NA|1|Single",
+        "ad_account_name": "adidas eCom Europe (Smartly)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Gratis Bezorging Voor Leden",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-03-01T00:00:00.000Z",
+        "impressions_total": 5913148,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 5913148,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "nl"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "profile_name": "adidas",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/JHR3HlQDjApEtHEFtW6la.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/VHE963Qnf1oIlHORvHVh0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Dit junior T-shirt, een adidas item voor elke gelegenheid, is perfect om elke dag te dragen. Het is gemaakt van zachte enkele jersey en houdt je comfortabel, of je nu met vrienden afspreekt of thuis relaxt. Een groot 3 Bar Logo op de borst laat zien dat adidas jouw merk is.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Sportswear",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "T-Shirts/Kinderen"
+              ],
+              "size": "",
+              "title": "Essentials T-shirt Kids",
+              "link": "https://www.adidas.nl/essentials-t-shirt-kids/JC9660.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/4NWNBmeEG9xoyDCuWASvN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/25ENzHS4VYU9K4AP4fdjA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Kleed je aan voor winterse avonturen met de adidas x Moon Boot Full Length jas. Omarm de fusie van berg en straat met deze iconische samenwerking. Het ripstop materiaal maakt 'm robuust en gestroomlijnd. De losse pasvorm biedt comfort en bewegingsvrijheid, waardoor hij erg geschikt is om ergens overheen te dragen. Met zijn lange model biedt de jas betrouwbare bedekking en helpt hij je warm te blijven. Of je nu de stad verkent of de bergen in trekt, deze jas past zich aan je leefstijl aan. Voeg een vleugje functionele stijl toe aan je wintergarderobe met dit veelzijdige stuk.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Sportswear",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Jassen/Dames"
+              ],
+              "size": "",
+              "title": "adidas x MOON BOOT Full Length Jack",
+              "link": "https://www.adidas.nl/adidas-x-moon-boot-full-length-jack/JM6490.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/9bjDN7A4QsM54bXP1ZHSg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/04qUUmOuoBzJITwj5KF4C.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Met deze adidas bikini voor kids kunnen jonge zwemmers hun individualiteit laten zien in en buiten het zwembad. Een racerbackmodel zorgt voor volledige bewegingsvrijheid. Een zilveren opdruk en een glinsterend 3 Bar Logo bieden een vleugje glans.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "C46689",
+              "custom_label_4": "Sportswear",
+              "availability": "IN STOCK",
+              "color": [
+                "Roze"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Zwemkleding/Kinderen"
+              ],
+              "size": "",
+              "title": "Glitter Bikini Kids",
+              "link": "https://www.adidas.nl/glitter-bikini-kids/JM8186.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3ENk6duXIH1bXVRcJE1fm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/sTR0ucqdeqqXTfEbrezB3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Legendarische F50-snelheid. Betoverende Messi-skills. Het flexibele HybridTouch-bovenwerk van deze adidas Elite voetbalschoen, die is gemaakt om te voldoen aan wat de GOAT nodig heeft op het veld, is voorzien van een gebreide 'burrito'-tong voor een bredere opening en een comfortabele pasvorm. De Speedframe 360-loopzool houdt je wendbaar op stevige ondergronden. Dit product bestaat voor minstens 20% uit gerecyclede materialen. Door hergebruik van materialen die al eerder zijn gecreëerd, helpen we afval verminderen, en ook onze afhankelijkheid van beperkt beschikbare grondstoffen. Daarnaast verkleint het de voetafdruk van onze producten.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "30",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "B7BABE",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zilver"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Voetbalschoenen/Unisex"
+              ],
+              "size": "",
+              "title": "F50 Elite Messi Firm Ground Voetbalschoenen",
+              "link": "https://www.adidas.nl/f50-elite-messi-firm-ground-voetbalschoenen/IH0915.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/tpRrb4Shph48BWJnDJPw5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ULztzuBDx3NK9hojthF5n.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Je schoenen moeten het laatste zijn waar je aan denkt op het hockeyveld. Daarom hebben deze adidas Flexcloud schoenen een ademend bovenwerk van air-mesh dat vastzit aan een dempende Cloudfoam-middenzool. Een overlay van folie biedt extra ondersteuning en slijtagebestendigheid, en een neuskap van TPU beschermt je tegen de bal. De rubberen loopzool met nopjes houdt je stabiel en beheerst. Dit product is gemaakt met Primegreen: een reeks gerecyclede high-performance materialen. 50% van het bovenwerk bestaat uit hergebruikte grondstoffen. Geen nieuw polyester.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "3A5C9B",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blauw"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Andere Sportschoenen/Unisex"
+              ],
+              "size": "",
+              "title": "Flexcloud 2.1 Hockeyschoenen",
+              "link": "https://www.adidas.nl/flexcloud-2.1-hockeyschoenen/JP9829.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/U0rZrIp9fbiOgZjDvfiK3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hjkKWYhd7Zk04EcTlq3Zk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Op het voetbalveld heeft Jude Bellingham een geheel eigen stijl. Met deze adidas trainingsbroek, die is afgewerkt met het logo van de spelverdeler op de pijp, kun je buiten de witte lijnen die van jou laten zien. Hij is gemaakt voor een losse, relaxte pasvorm van robuuste keperstof, zodat je hem constant kunt dragen.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "30",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "2C3248",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blauw"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Broeken/Heren"
+              ],
+              "size": "",
+              "title": "Jude Bellingham adidas Originals Trainingsbroek",
+              "link": "https://www.adidas.nl/jude-bellingham-adidas-originals-trainingsbroek/JX6336.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SPnu00yrLq1rVDua5SbCl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/p7ZgVkLPCttokfMjYAQjD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "De Stadium Graphic Hoodie is geïnspireerd op de levendige fancultuur rondom Amerikaanse schoolsport en viert de diversiteit en passie die sportliefhebbers verenigen. Of je nu voetbal, basketbal of honkbal support, deze hoodie is ontworpen om je comfortabel te voelen en er goed uit te zien. Hij is gemaakt van interlockstof en heeft een losse pasvorm voor bewegingsvrijheid. Een tonale adidas sportswear graphic en mesh stripes maken het helemaal af. Dit is meer dan zomaar een hoodie: het is een statement van verbondenheid en optimisme. Draag hem met trots en toon je liefde voor sport.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "F5F4E7",
+              "custom_label_4": "Sportswear",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Wit"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Hoodies/Heren"
+              ],
+              "size": "",
+              "title": "STADION GRAPHIC HOODIE",
+              "link": "https://www.adidas.nl/stadion-graphic-hoodie/KD0289.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3kOmSaOtq952mnYH0fKJO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/D8AdaH6qQ7OYxQFEjMVmX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Trek de aandacht met het comfort van dit casual T-shirt. Het brengt een eerbetoon aan de rijke sporthistorie van adidas, die altijd al draaide om grenzen verleggen en durven opvallen. Dankzij het oversized model en de katoenmix kun je vrij bewegen. Het iconische Trefoil-logo maakt een statement over jouw zelfverzekerde stijl. Door te kiezen voor gerecycled materiaal kunnen we materialen hergebruiken die al zijn gemaakt, wat helpt om afval te verminderen. Het kiezen voor hernieuwbare materialen zal ons helpen om onze afhankelijkheid van eindige hulpbronnen te verminderen. Onze producten gemaakt van een mix van gerecyclede en hernieuwbare materialen bevatten in totaal minimaal 70% van deze materialen.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "50",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "3A353D",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Paars"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "T-Shirts/Dames"
+              ],
+              "size": "",
+              "title": "Adicolor Trefoil Boxy T-shirt",
+              "link": "https://www.adidas.nl/adicolor-trefoil-boxy-t-shirt/IY4688.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/wycBBrrJJ25rxd9CL6GyG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qyoYTRoPX34ZLgg42mZLA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Dit frisse, levenslustige Adicolor Firebird sportjack viert de kracht en authenticiteit van het legendarische adidas DNA. Het comfortabele jack trekt niet alleen de aandacht met het moderne tricot, maar ook zeker met onze iconische 3-Stripes langs de mouwen en een geborduurd Trefoil-logo op de borst. Rits 't dicht en laat de wereld jouw zelfverzekerde kant zien. KEN DE VOETAFDRUK: Alle fasen in de levenscyclus zijn meegenomen in onze methode om de CO2-voetafdruk van het product te berekenen, gebaseerd op het formaat van het adidas' prototype. We maten de koolstofvoetafdruk (CO2e) van de grondstofwinning en -verwerking, de productie en assemblage, de verpakking, en het transport en gebruik, helemaal tot het einde van de productlevenscyclus. Dit voldoet aan de internationaal erkende norm: ISO 14067. Om te begrijpen wat het meten en berekenen van de totale CO2-voetafdruk van het product inhoudt, kopieer je deze link naar je browser: https://www.adidas.com/go/campaign/carbon-footprint",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Trainingsjacks/Dames"
+              ],
+              "size": "",
+              "title": "Adicolor Classics Firebird Trainingsjack",
+              "link": "https://www.adidas.nl/adicolor-classics-firebird-trainingsjack/IL8764.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/Qq15RyuK04Ae4g75htGAi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/RdJUNbLzLd1Jo5M9YHhtC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "De Handball Spezial schoenen werden in 1979 voor het eerst geïntroduceerd voor elitehandballers en combineren een vintage stijl met moderne functionaliteit voor een klassieke uitstraling. Het bovenwerk van geolied leer en de leren strepen en hiel geven de schoenen een verfijnde, opvallende look. De voering van synthetisch leer biedt comfort, en de robuuste loopzool van zacht gumrubber zorgt voor meer grip. Dankzij de vetersluiting hebben de schoenen een goede pasvorm. De adidas branding op de hiel en tong voegt een vleugje adidas flair toe. Ga vol vertrouwen op pad in deze tijdloze sportschoenen. Geniet van de mix van klassieke straatstijl en topprestaties met adidas.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "49403C",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Bruin"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Sneakers/Unisex"
+              ],
+              "size": "",
+              "title": "HANDBALL SPEZIAL SCHOENEN",
+              "link": "https://www.adidas.nl/handball-spezial-schoenen/KI8581.html"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "Smartly Image Template - NL - Snapchat DPA - Hex Template - Dec24",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "FILL_HEIGHT",
+            "text_fields": [
+              "``",
+              "``"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "975985fd-91b6-4924-af23-185944d670d9",
+        "name": "Story|Vertical|NA|Dutch|ShopNow|NA|NA|1|Story",
+        "ad_account_name": "adidas eCom Europe (Smartly)",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Gratis Bezorging Voor Leden",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-03-01T00:00:00.000Z",
+        "impressions_total": 4593910,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 4593910,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "nl"
+              ],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "profile_name": "adidas",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": false,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "DYNAMIC",
+              "headline": "Gratis Bezorging Voor Leden",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "DYNAMIC",
+              "top_snap_crop_position": "MIDDLE",
+              "brand_name": ""
+            }
+          ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/JHR3HlQDjApEtHEFtW6la.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/VHE963Qnf1oIlHORvHVh0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Dit junior T-shirt, een adidas item voor elke gelegenheid, is perfect om elke dag te dragen. Het is gemaakt van zachte enkele jersey en houdt je comfortabel, of je nu met vrienden afspreekt of thuis relaxt. Een groot 3 Bar Logo op de borst laat zien dat adidas jouw merk is.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Sportswear",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "T-Shirts/Kinderen"
+              ],
+              "size": "",
+              "title": "Essentials T-shirt Kids",
+              "link": "https://www.adidas.nl/essentials-t-shirt-kids/JC9660.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/4NWNBmeEG9xoyDCuWASvN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/25ENzHS4VYU9K4AP4fdjA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Kleed je aan voor winterse avonturen met de adidas x Moon Boot Full Length jas. Omarm de fusie van berg en straat met deze iconische samenwerking. Het ripstop materiaal maakt 'm robuust en gestroomlijnd. De losse pasvorm biedt comfort en bewegingsvrijheid, waardoor hij erg geschikt is om ergens overheen te dragen. Met zijn lange model biedt de jas betrouwbare bedekking en helpt hij je warm te blijven. Of je nu de stad verkent of de bergen in trekt, deze jas past zich aan je leefstijl aan. Voeg een vleugje functionele stijl toe aan je wintergarderobe met dit veelzijdige stuk.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Sportswear",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Jassen/Dames"
+              ],
+              "size": "",
+              "title": "adidas x MOON BOOT Full Length Jack",
+              "link": "https://www.adidas.nl/adidas-x-moon-boot-full-length-jack/JM6490.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/9bjDN7A4QsM54bXP1ZHSg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/04qUUmOuoBzJITwj5KF4C.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Met deze adidas bikini voor kids kunnen jonge zwemmers hun individualiteit laten zien in en buiten het zwembad. Een racerbackmodel zorgt voor volledige bewegingsvrijheid. Een zilveren opdruk en een glinsterend 3 Bar Logo bieden een vleugje glans.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "C46689",
+              "custom_label_4": "Sportswear",
+              "availability": "IN STOCK",
+              "color": [
+                "Roze"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Zwemkleding/Kinderen"
+              ],
+              "size": "",
+              "title": "Glitter Bikini Kids",
+              "link": "https://www.adidas.nl/glitter-bikini-kids/JM8186.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3ENk6duXIH1bXVRcJE1fm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/sTR0ucqdeqqXTfEbrezB3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Legendarische F50-snelheid. Betoverende Messi-skills. Het flexibele HybridTouch-bovenwerk van deze adidas Elite voetbalschoen, die is gemaakt om te voldoen aan wat de GOAT nodig heeft op het veld, is voorzien van een gebreide 'burrito'-tong voor een bredere opening en een comfortabele pasvorm. De Speedframe 360-loopzool houdt je wendbaar op stevige ondergronden. Dit product bestaat voor minstens 20% uit gerecyclede materialen. Door hergebruik van materialen die al eerder zijn gecreëerd, helpen we afval verminderen, en ook onze afhankelijkheid van beperkt beschikbare grondstoffen. Daarnaast verkleint het de voetafdruk van onze producten.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "30",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "B7BABE",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zilver"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Voetbalschoenen/Unisex"
+              ],
+              "size": "",
+              "title": "F50 Elite Messi Firm Ground Voetbalschoenen",
+              "link": "https://www.adidas.nl/f50-elite-messi-firm-ground-voetbalschoenen/IH0915.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/tpRrb4Shph48BWJnDJPw5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ULztzuBDx3NK9hojthF5n.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Je schoenen moeten het laatste zijn waar je aan denkt op het hockeyveld. Daarom hebben deze adidas Flexcloud schoenen een ademend bovenwerk van air-mesh dat vastzit aan een dempende Cloudfoam-middenzool. Een overlay van folie biedt extra ondersteuning en slijtagebestendigheid, en een neuskap van TPU beschermt je tegen de bal. De rubberen loopzool met nopjes houdt je stabiel en beheerst. Dit product is gemaakt met Primegreen: een reeks gerecyclede high-performance materialen. 50% van het bovenwerk bestaat uit hergebruikte grondstoffen. Geen nieuw polyester.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "3A5C9B",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blauw"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Andere Sportschoenen/Unisex"
+              ],
+              "size": "",
+              "title": "Flexcloud 2.1 Hockeyschoenen",
+              "link": "https://www.adidas.nl/flexcloud-2.1-hockeyschoenen/JP9829.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/U0rZrIp9fbiOgZjDvfiK3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hjkKWYhd7Zk04EcTlq3Zk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Op het voetbalveld heeft Jude Bellingham een geheel eigen stijl. Met deze adidas trainingsbroek, die is afgewerkt met het logo van de spelverdeler op de pijp, kun je buiten de witte lijnen die van jou laten zien. Hij is gemaakt voor een losse, relaxte pasvorm van robuuste keperstof, zodat je hem constant kunt dragen.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "30",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "2C3248",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blauw"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Broeken/Heren"
+              ],
+              "size": "",
+              "title": "Jude Bellingham adidas Originals Trainingsbroek",
+              "link": "https://www.adidas.nl/jude-bellingham-adidas-originals-trainingsbroek/JX6336.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SPnu00yrLq1rVDua5SbCl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/p7ZgVkLPCttokfMjYAQjD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "De Stadium Graphic Hoodie is geïnspireerd op de levendige fancultuur rondom Amerikaanse schoolsport en viert de diversiteit en passie die sportliefhebbers verenigen. Of je nu voetbal, basketbal of honkbal support, deze hoodie is ontworpen om je comfortabel te voelen en er goed uit te zien. Hij is gemaakt van interlockstof en heeft een losse pasvorm voor bewegingsvrijheid. Een tonale adidas sportswear graphic en mesh stripes maken het helemaal af. Dit is meer dan zomaar een hoodie: het is een statement van verbondenheid en optimisme. Draag hem met trots en toon je liefde voor sport.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "F5F4E7",
+              "custom_label_4": "Sportswear",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Wit"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Hoodies/Heren"
+              ],
+              "size": "",
+              "title": "STADION GRAPHIC HOODIE",
+              "link": "https://www.adidas.nl/stadion-graphic-hoodie/KD0289.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3kOmSaOtq952mnYH0fKJO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/D8AdaH6qQ7OYxQFEjMVmX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Trek de aandacht met het comfort van dit casual T-shirt. Het brengt een eerbetoon aan de rijke sporthistorie van adidas, die altijd al draaide om grenzen verleggen en durven opvallen. Dankzij het oversized model en de katoenmix kun je vrij bewegen. Het iconische Trefoil-logo maakt een statement over jouw zelfverzekerde stijl. Door te kiezen voor gerecycled materiaal kunnen we materialen hergebruiken die al zijn gemaakt, wat helpt om afval te verminderen. Het kiezen voor hernieuwbare materialen zal ons helpen om onze afhankelijkheid van eindige hulpbronnen te verminderen. Onze producten gemaakt van een mix van gerecyclede en hernieuwbare materialen bevatten in totaal minimaal 70% van deze materialen.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "50",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "3A353D",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Paars"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "T-Shirts/Dames"
+              ],
+              "size": "",
+              "title": "Adicolor Trefoil Boxy T-shirt",
+              "link": "https://www.adidas.nl/adicolor-trefoil-boxy-t-shirt/IY4688.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/wycBBrrJJ25rxd9CL6GyG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qyoYTRoPX34ZLgg42mZLA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Dit frisse, levenslustige Adicolor Firebird sportjack viert de kracht en authenticiteit van het legendarische adidas DNA. Het comfortabele jack trekt niet alleen de aandacht met het moderne tricot, maar ook zeker met onze iconische 3-Stripes langs de mouwen en een geborduurd Trefoil-logo op de borst. Rits 't dicht en laat de wereld jouw zelfverzekerde kant zien. KEN DE VOETAFDRUK: Alle fasen in de levenscyclus zijn meegenomen in onze methode om de CO2-voetafdruk van het product te berekenen, gebaseerd op het formaat van het adidas' prototype. We maten de koolstofvoetafdruk (CO2e) van de grondstofwinning en -verwerking, de productie en assemblage, de verpakking, en het transport en gebruik, helemaal tot het einde van de productlevenscyclus. Dit voldoet aan de internationaal erkende norm: ISO 14067. Om te begrijpen wat het meten en berekenen van de totale CO2-voetafdruk van het product inhoudt, kopieer je deze link naar je browser: https://www.adidas.com/go/campaign/carbon-footprint",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Trainingsjacks/Dames"
+              ],
+              "size": "",
+              "title": "Adicolor Classics Firebird Trainingsjack",
+              "link": "https://www.adidas.nl/adicolor-classics-firebird-trainingsjack/IL8764.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/Qq15RyuK04Ae4g75htGAi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/RdJUNbLzLd1Jo5M9YHhtC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "De Handball Spezial schoenen werden in 1979 voor het eerst geïntroduceerd voor elitehandballers en combineren een vintage stijl met moderne functionaliteit voor een klassieke uitstraling. Het bovenwerk van geolied leer en de leren strepen en hiel geven de schoenen een verfijnde, opvallende look. De voering van synthetisch leer biedt comfort, en de robuuste loopzool van zacht gumrubber zorgt voor meer grip. Dankzij de vetersluiting hebben de schoenen een goede pasvorm. De adidas branding op de hiel en tong voegt een vleugje adidas flair toe. Ga vol vertrouwen op pad in deze tijdloze sportschoenen. Geniet van de mix van klassieke straatstijl en topprestaties met adidas.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "49403C",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Bruin"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Sneakers/Unisex"
+              ],
+              "size": "",
+              "title": "HANDBALL SPEZIAL SCHOENEN",
+              "link": "https://www.adidas.nl/handball-spezial-schoenen/KI8581.html"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "Smartly Image Template - NL - Snapchat DPA - Hex Template - Dec24",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "FILL_HEIGHT",
+            "text_fields": [
+              "``",
+              "``"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3fa0d236-4f3a-4d9e-abf6-7a4e2aa6c9ee",
+        "name": "CollectionAd|Vertical|NA|Dutch|ShopNow|NA|NA|1|Collection",
         "ad_account_name": "adidas eCom Europe (Smartly)",
         "status": "ACTIVE",
         "creative_type": "COLLECTION",
         "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "A PAIR FOR EVERY RUNNER",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Gratis Bezorging Voor Leden",
         "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
+        "top_snap_media_type": "DYNAMIC",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EDWg9ClzlZOWmxqWs1qdE.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-07-07T07:00:00.000Z",
-        "impressions_total": 2965,
+        "start_date": "2025-03-01T00:00:00.000Z",
+        "impressions_total": 3957179,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -476,7 +2767,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 2965,
+          "nl": 3957179,
           "tr": 0
         },
         "targeting_v2": {
@@ -485,44 +2776,419 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "languages": [],
+              "languages": [
+                "nl"
+              ],
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
         "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
         "profile_name": "adidas",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
         "collection_preview": {
-          "web_view_properties": {
-            "url": "https://ad.doubleclick.net/ddm/clk/616150730;423427654;b?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25LALPSE10"
-          },
           "collection_creative_element_attachment": [
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616150730;423427654;b?https://www.adidas.nl/ultraboost-5-schoenen/JQ2911.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25LALPSE10"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/ebec7cca-896b-4d7d-a402-4ba73af02e91/d8417cca-517a-46fb-9aa9-dddd77180992.png"
+              "app_install_properties": {}
             },
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616150730;423427654;b?https://www.adidas.nl/adistar-4-hardloopschoenen/JR0287.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25LALPSE10"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/cf8b45e9-6806-4d7a-af92-51cbe966e88e/25fd82a2-fdcd-4fe5-b04b-f92829a1dd30.png"
+              "app_install_properties": {}
             },
             {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616150730;423427654;b?https://www.adidas.nl/supernova-rise-2-hardloopschoenen/JQ7701.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25LALPSE10"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/642abff0-1baa-4c1f-8f4b-c5e1064a5c74/429a6580-6431-4e6a-ac52-aa8abab127f1.png"
+              "app_install_properties": {}
+            },
+            {
+              "app_install_properties": {}
             }
           ]
+        },
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/JHR3HlQDjApEtHEFtW6la.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/VHE963Qnf1oIlHORvHVh0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Dit junior T-shirt, een adidas item voor elke gelegenheid, is perfect om elke dag te dragen. Het is gemaakt van zachte enkele jersey en houdt je comfortabel, of je nu met vrienden afspreekt of thuis relaxt. Een groot 3 Bar Logo op de borst laat zien dat adidas jouw merk is.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Sportswear",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "T-Shirts/Kinderen"
+              ],
+              "size": "",
+              "title": "Essentials T-shirt Kids",
+              "link": "https://www.adidas.nl/essentials-t-shirt-kids/JC9660.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/4NWNBmeEG9xoyDCuWASvN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/25ENzHS4VYU9K4AP4fdjA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Kleed je aan voor winterse avonturen met de adidas x Moon Boot Full Length jas. Omarm de fusie van berg en straat met deze iconische samenwerking. Het ripstop materiaal maakt 'm robuust en gestroomlijnd. De losse pasvorm biedt comfort en bewegingsvrijheid, waardoor hij erg geschikt is om ergens overheen te dragen. Met zijn lange model biedt de jas betrouwbare bedekking en helpt hij je warm te blijven. Of je nu de stad verkent of de bergen in trekt, deze jas past zich aan je leefstijl aan. Voeg een vleugje functionele stijl toe aan je wintergarderobe met dit veelzijdige stuk.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Sportswear",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Jassen/Dames"
+              ],
+              "size": "",
+              "title": "adidas x MOON BOOT Full Length Jack",
+              "link": "https://www.adidas.nl/adidas-x-moon-boot-full-length-jack/JM6490.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/9bjDN7A4QsM54bXP1ZHSg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/04qUUmOuoBzJITwj5KF4C.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Met deze adidas bikini voor kids kunnen jonge zwemmers hun individualiteit laten zien in en buiten het zwembad. Een racerbackmodel zorgt voor volledige bewegingsvrijheid. Een zilveren opdruk en een glinsterend 3 Bar Logo bieden een vleugje glans.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "C46689",
+              "custom_label_4": "Sportswear",
+              "availability": "IN STOCK",
+              "color": [
+                "Roze"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Zwemkleding/Kinderen"
+              ],
+              "size": "",
+              "title": "Glitter Bikini Kids",
+              "link": "https://www.adidas.nl/glitter-bikini-kids/JM8186.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3ENk6duXIH1bXVRcJE1fm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/sTR0ucqdeqqXTfEbrezB3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Legendarische F50-snelheid. Betoverende Messi-skills. Het flexibele HybridTouch-bovenwerk van deze adidas Elite voetbalschoen, die is gemaakt om te voldoen aan wat de GOAT nodig heeft op het veld, is voorzien van een gebreide 'burrito'-tong voor een bredere opening en een comfortabele pasvorm. De Speedframe 360-loopzool houdt je wendbaar op stevige ondergronden. Dit product bestaat voor minstens 20% uit gerecyclede materialen. Door hergebruik van materialen die al eerder zijn gecreëerd, helpen we afval verminderen, en ook onze afhankelijkheid van beperkt beschikbare grondstoffen. Daarnaast verkleint het de voetafdruk van onze producten.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "30",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "B7BABE",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zilver"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Voetbalschoenen/Unisex"
+              ],
+              "size": "",
+              "title": "F50 Elite Messi Firm Ground Voetbalschoenen",
+              "link": "https://www.adidas.nl/f50-elite-messi-firm-ground-voetbalschoenen/IH0915.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/tpRrb4Shph48BWJnDJPw5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ULztzuBDx3NK9hojthF5n.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Je schoenen moeten het laatste zijn waar je aan denkt op het hockeyveld. Daarom hebben deze adidas Flexcloud schoenen een ademend bovenwerk van air-mesh dat vastzit aan een dempende Cloudfoam-middenzool. Een overlay van folie biedt extra ondersteuning en slijtagebestendigheid, en een neuskap van TPU beschermt je tegen de bal. De rubberen loopzool met nopjes houdt je stabiel en beheerst. Dit product is gemaakt met Primegreen: een reeks gerecyclede high-performance materialen. 50% van het bovenwerk bestaat uit hergebruikte grondstoffen. Geen nieuw polyester.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "3A5C9B",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blauw"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Andere Sportschoenen/Unisex"
+              ],
+              "size": "",
+              "title": "Flexcloud 2.1 Hockeyschoenen",
+              "link": "https://www.adidas.nl/flexcloud-2.1-hockeyschoenen/JP9829.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/U0rZrIp9fbiOgZjDvfiK3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hjkKWYhd7Zk04EcTlq3Zk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Op het voetbalveld heeft Jude Bellingham een geheel eigen stijl. Met deze adidas trainingsbroek, die is afgewerkt met het logo van de spelverdeler op de pijp, kun je buiten de witte lijnen die van jou laten zien. Hij is gemaakt voor een losse, relaxte pasvorm van robuuste keperstof, zodat je hem constant kunt dragen.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "30",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "2C3248",
+              "custom_label_4": "Performance",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Blauw"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Broeken/Heren"
+              ],
+              "size": "",
+              "title": "Jude Bellingham adidas Originals Trainingsbroek",
+              "link": "https://www.adidas.nl/jude-bellingham-adidas-originals-trainingsbroek/JX6336.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/SPnu00yrLq1rVDua5SbCl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/p7ZgVkLPCttokfMjYAQjD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "De Stadium Graphic Hoodie is geïnspireerd op de levendige fancultuur rondom Amerikaanse schoolsport en viert de diversiteit en passie die sportliefhebbers verenigen. Of je nu voetbal, basketbal of honkbal support, deze hoodie is ontworpen om je comfortabel te voelen en er goed uit te zien. Hij is gemaakt van interlockstof en heeft een losse pasvorm voor bewegingsvrijheid. Een tonale adidas sportswear graphic en mesh stripes maken het helemaal af. Dit is meer dan zomaar een hoodie: het is een statement van verbondenheid en optimisme. Draag hem met trots en toon je liefde voor sport.",
+              "brand": "adidas",
+              "custom_label_0": "",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "F5F4E7",
+              "custom_label_4": "Sportswear",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Wit"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Hoodies/Heren"
+              ],
+              "size": "",
+              "title": "STADION GRAPHIC HOODIE",
+              "link": "https://www.adidas.nl/stadion-graphic-hoodie/KD0289.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/3kOmSaOtq952mnYH0fKJO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/D8AdaH6qQ7OYxQFEjMVmX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Trek de aandacht met het comfort van dit casual T-shirt. Het brengt een eerbetoon aan de rijke sporthistorie van adidas, die altijd al draaide om grenzen verleggen en durven opvallen. Dankzij het oversized model en de katoenmix kun je vrij bewegen. Het iconische Trefoil-logo maakt een statement over jouw zelfverzekerde stijl. Door te kiezen voor gerecycled materiaal kunnen we materialen hergebruiken die al zijn gemaakt, wat helpt om afval te verminderen. Het kiezen voor hernieuwbare materialen zal ons helpen om onze afhankelijkheid van eindige hulpbronnen te verminderen. Onze producten gemaakt van een mix van gerecyclede en hernieuwbare materialen bevatten in totaal minimaal 70% van deze materialen.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "50",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "3A353D",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Paars"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "T-Shirts/Dames"
+              ],
+              "size": "",
+              "title": "Adicolor Trefoil Boxy T-shirt",
+              "link": "https://www.adidas.nl/adicolor-trefoil-boxy-t-shirt/IY4688.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/wycBBrrJJ25rxd9CL6GyG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qyoYTRoPX34ZLgg42mZLA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "Dit frisse, levenslustige Adicolor Firebird sportjack viert de kracht en authenticiteit van het legendarische adidas DNA. Het comfortabele jack trekt niet alleen de aandacht met het moderne tricot, maar ook zeker met onze iconische 3-Stripes langs de mouwen en een geborduurd Trefoil-logo op de borst. Rits 't dicht en laat de wereld jouw zelfverzekerde kant zien. KEN DE VOETAFDRUK: Alle fasen in de levenscyclus zijn meegenomen in onze methode om de CO2-voetafdruk van het product te berekenen, gebaseerd op het formaat van het adidas' prototype. We maten de koolstofvoetafdruk (CO2e) van de grondstofwinning en -verwerking, de productie en assemblage, de verpakking, en het transport en gebruik, helemaal tot het einde van de productlevenscyclus. Dit voldoet aan de internationaal erkende norm: ISO 14067. Om te begrijpen wat het meten en berekenen van de totale CO2-voetafdruk van het product inhoudt, kopieer je deze link naar je browser: https://www.adidas.com/go/campaign/carbon-footprint",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Kleding",
+              "custom_label_3": "040000",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Zwart"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Trainingsjacks/Dames"
+              ],
+              "size": "",
+              "title": "Adicolor Classics Firebird Trainingsjack",
+              "link": "https://www.adidas.nl/adicolor-classics-firebird-trainingsjack/IL8764.html"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/Qq15RyuK04Ae4g75htGAi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/RdJUNbLzLd1Jo5M9YHhtC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "46d2994b-8c12-49db-b3fb-d9692488fcdb"
+                  ]
+                }
+              ],
+              "description": "De Handball Spezial schoenen werden in 1979 voor het eerst geïntroduceerd voor elitehandballers en combineren een vintage stijl met moderne functionaliteit voor een klassieke uitstraling. Het bovenwerk van geolied leer en de leren strepen en hiel geven de schoenen een verfijnde, opvallende look. De voering van synthetisch leer biedt comfort, en de robuuste loopzool van zacht gumrubber zorgt voor meer grip. Dankzij de vetersluiting hebben de schoenen een goede pasvorm. De adidas branding op de hiel en tong voegt een vleugje adidas flair toe. Ga vol vertrouwen op pad in deze tijdloze sportschoenen. Geniet van de mix van klassieke straatstijl en topprestaties met adidas.",
+              "brand": "adidas",
+              "custom_label_0": "1",
+              "custom_label_1": "",
+              "custom_label_2": "Schoenen",
+              "custom_label_3": "49403C",
+              "custom_label_4": "Originals",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "Bruin"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Sneakers/Unisex"
+              ],
+              "size": "",
+              "title": "HANDBALL SPEZIAL SCHOENEN",
+              "link": "https://www.adidas.nl/handball-spezial-schoenen/KI8581.html"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "Smartly Image Template - NL - Snapchat DPA - Hex Template - Dec24",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "FILL_HEIGHT",
+            "text_fields": [
+              "title",
+              "price"
+            ],
+            "preferred_image_tags": [
+              "95d6d377-cfe7-475d-a084-3f28e40ee78d"
+            ]
+          },
+          "vertical": "COMMERCE"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -532,23 +3198,21 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "df0f4461-41ff-472f-a4b4-76db1ebdea7a",
-        "name": "SnapAd|Square|NA|Dutch|ShopNow|NA|NA|1|VideoTemplate1",
+        "id": "fb68ad52-5115-42c5-8aee-e8981d9c4561",
+        "name": "StoryPPLA|Square|NA|Dutch|ShopNow|NA|NA|9|PPLAUGC3",
         "ad_account_name": "adidas eCom Europe (Smartly)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [
-          "nl"
-        ],
-        "headline": "A PAIR FOR EVERY RUNNER",
+        "languages": [],
+        "headline": "THE ORIGINAL",
         "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/5T8LvLJjOsIBslN69u6Yt.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMItOUOIAEw4AM41AZAAUoOCgloCQEACAEABgEQ9ANQ8khoAiIGCgJIAhIAogEyCLoKEiUKIwiu0QogATDQBTiACkACSg4KCWwKAQEJAQEIABD0A1DySGgCIgYKAkgDEgCiATEIfxIlCiMInbcKIAEw4AM41AZAAkoOCglHBwIABQEBBQEQ9ANQ8khoAiIGCgJIAhIAogEyCJIKEiUKIwjAywogATDgAzjUBkACSg4KCUUHAQIFAgEGARD0A1DySGgCIgYKAkgCEgCiATIIxAoSJQojCLj7BiABMOADONYGQAJKDgoJTAYBBQABAQQAEPQDUPJIaAIiBgoCSAISAKIBMgjSChIlCiMI4LMHIAEw4AM41AZAAkoOCglRBgEGAAEABAEQ9ANQ8khoAiIGCgJIAhIAkAPySA%3D%3D&uc=15",
-        "start_date": "2025-07-07T07:00:00.000Z",
-        "impressions_total": 334273,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hUlzXFsI6TksnBjr97q4z.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-04-07T07:00:00.000Z",
+        "impressions_total": 50905,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -576,7 +3240,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 334273,
+          "nl": 50905,
           "tr": 0
         },
         "targeting_v2": {
@@ -592,262 +3256,12 @@
           "devices": []
         },
         "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
+        "brand_name": "adidas Originals",
         "profile_name": "adidas",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "favorite_display_mode": "HIDE",
         "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/616150760;423427684;h?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-3D-_-VideoTemplate-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25LALPSE10"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f0e535f9-4162-4932-a16e-a5a4ad6afb93",
-        "name": "CollectionAd|Square|NA|Polish|ShopNow|NA|NA|1|CollectionAd1",
-        "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "PAUSED",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "A PAIR FOR EVERY RUNNER",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0Prdk5TnszxIc3CefMG01.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-07-07T07:00:00.000Z",
-        "impressions_total": 31440,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 31440,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
-        "profile_name": "adidas",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/adistar-4-hardloopschoenen/JR0310.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/68e1ac38-3eaf-49aa-be2a-e033eb5629f7/26fd0213-0bf3-49f8-810c-38d4d37d8535.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/supernova-rise-2-hardloopschoenen/JQ7691.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/c958dd34-f453-4b60-98fe-408a5f199944/927c460b-94f9-4940-8e04-807a2f3ce3aa.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/616362177;423986553;t?https://www.adidas.nl/ultraboost-5-schoenen/JQ2909.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/4106f951-9d06-4ae2-b20a-690d164259ca/0e93abf9-9483-431d-92cf-de924fd1260c.png"
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f1cb033f-f873-4220-ac71-ed7a8528e138",
-        "name": "SnapAd|Square|NA|Dutch|ShopNow|NA|NA|7|PPLAGeneral1",
-        "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "A PAIR FOR EVERY RUNNER",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0Prdk5TnszxIc3CefMG01.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-07-07T07:00:00.000Z",
-        "impressions_total": 11352,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 11352,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
-        "profile_name": "adidas",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/616150718;423427642;e?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25LALPSE10"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "9fe0d6aa-390a-4a33-8e38-190dbf1c8755",
-        "name": "SnapAd|Square|NA|Dutch|ShopNow|NA|NA|8|PPLAGeneral2",
-        "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "A PAIR FOR EVERY RUNNER",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/EDWg9ClzlZOWmxqWs1qdE.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-07-07T07:00:00.000Z",
-        "impressions_total": 7981,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 7981,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas",
-        "profile_name": "adidas",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/616150724;423427648;h?https://www.adidas.nl/hardlopen-schoenen-everyday?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2507-4453-CP2ZJ05-Global-NA-EverydayRunningFW25PSE10"
+          "url": "https://ad.doubleclick.net/ddm/clk/610298222;418284909;m?https://www.adidas.nl/originals?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=NL&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-NL-AlwaysOnMidFunnel-2504-4453-CP2X67F-Global-NA-TheOriginalsSS25LALOriginalsPSE5&grid=true"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

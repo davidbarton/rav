@@ -1,14 +1,14 @@
 {
   "brand": "NYX",
   "country": "nl",
-  "fetched_at": "2026-04-09T22:51:43.412Z",
+  "fetched_at": "2026-04-10T06:58:33.880Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "ab64f186-e34b-47cb-92b5-b45dd364f1f4",
+        "id": "daccad3e-f816-4c47-9b3b-dd13532fd822",
         "name": "ADS",
         "ad_account_name": "Nyxgrain Self Service",
         "status": "ACTIVE",
@@ -23,21 +23,21 @@
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2025-04-09T01:14:42.000Z",
-        "impressions_total": 662,
+        "impressions_total": 717,
         "impressions_map": {
-          "de": 53,
-          "be": 251,
+          "de": 60,
+          "be": 301,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 24,
+          "dk": 30,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 177,
+          "se": 145,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -51,7 +51,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 157,
+          "nl": 181,
           "tr": 0
         },
         "targeting_v2": {
@@ -62,10 +62,17 @@
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
-          "devices": []
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": []
+            }
+          ]
         },
         "web_view_properties": {
           "url": "https://dub.sh/Ti1itj4"
@@ -80,9 +87,9 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "f1b17b8d-8c98-4be8-8063-6857ff4ffa89",
+        "id": "70ef3ddd-99f5-415b-927c-8b9bf8ba95a2",
         "name": "ADS",
-        "ad_account_name": "Ravionyx3 Self Service",
+        "ad_account_name": "Nyxgrain Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
@@ -90,27 +97,26 @@
         "languages": [
           "en"
         ],
-        "headline": "Buy 2 Get 1 For Free",
+        "headline": "Your Style, Your SpeeD",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Db5Jr1V9zZ5RYPBPU3X9c.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAjMpCYgAUoOCgkyGxctHikYJyEQ9ANoAiICEgCiASMIugoSGgoYCIjaHSABSg4KCTUWFicWKBggExD0A2gCIgISAKIBIgh_EhoKGAiIyxUgAUoOCgkkEQ4bFBkQFhEQ9ANoAiICEgCiASMIkgoSGgoYCMudFyABSg4KCSYTEB8VHBMYExD0A2gCIgISAKIBIwjEChIaChgI85EUIAFKDgoJKRAPGg8dEBUMEPQDaAIiAhIAkAPCSQ%3D%3D&uc=15",
-        "start_date": "2025-04-17T21:34:43.000Z",
-        "impressions_total": 1688,
+        "start_date": "2025-04-09T01:14:42.000Z",
+        "impressions_total": 831,
         "impressions_map": {
-          "de": 82,
-          "be": 1273,
+          "de": 104,
+          "be": 291,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 0,
+          "dk": 44,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 0,
+          "se": 200,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -124,18 +130,18 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 333,
+          "nl": 192,
           "tr": 0
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "24",
-              "max_age": "35",
+              "min_age": "22",
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -143,25 +149,178 @@
             {
               "marketing_name": [],
               "model": [],
-              "os_type": "iOS",
-              "carrier_id": []
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": []
+              "carrier_id": [],
+              "operation": "INCLUDE"
             }
           ]
         },
-        "paying_advertiser_name": "Ravionyx3",
-        "profile_name": "Ravionyx3",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaUdtaFY2blhwZFVvQUNPTkY3ME9QP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://dub.sh/y1K02jC"
+          "url": "https://dub.sh/Ti1itj4"
         },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "f42668b1-2141-45e6-9f8d-5894c7d44f93",
+        "name": "ADS",
+        "ad_account_name": "Nyxgrain Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Your Style, Your SpeeD",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-04-09T01:14:42.000Z",
+        "impressions_total": 355,
+        "impressions_map": {
+          "de": 37,
+          "be": 155,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 11,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 66,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 86,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "22",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "web_view_properties": {
+          "url": "https://dub.sh/Ti1itj4"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "bc9582e7-579a-45f2-8bf2-6a55e13a5963",
+        "name": "ADS",
+        "ad_account_name": "Nyxgrain Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Your Style, Your SpeeD",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-04-09T01:14:42.000Z",
+        "impressions_total": 501,
+        "impressions_map": {
+          "de": 96,
+          "be": 143,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 24,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 119,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 119,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "22",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "web_view_properties": {
+          "url": "https://dub.sh/Ti1itj4"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
+        ],
         "stickers": []
       }
     },
@@ -262,6 +421,177 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
+        "id": "ee669b3d-aeda-4c73-ae2e-fc1cb66996ae",
+        "name": "ADS",
+        "ad_account_name": "Nyxgrain Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Your Style, Your SpeeD",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-04-09T01:14:42.000Z",
+        "impressions_total": 304,
+        "impressions_map": {
+          "de": 57,
+          "be": 59,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 24,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 93,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 71,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "22",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "web_view_properties": {
+          "url": "https://dub.sh/Ti1itj4"
+        },
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
+        ],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ecb78bbc-98f9-4b92-af85-af70132af3cd",
+        "name": "ADS",
+        "ad_account_name": "Ravionyx3 Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Buy 2 Get 1 For Free",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Db5Jr1V9zZ5RYPBPU3X9c.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAjMpCYgAUoOCgkyGxctHikYJyEQ9ANoAiICEgCiASMIugoSGgoYCIjaHSABSg4KCTUWFicWKBggExD0A2gCIgISAKIBIgh_EhoKGAiIyxUgAUoOCgkkEQ4bFBkQFhEQ9ANoAiICEgCiASMIkgoSGgoYCMudFyABSg4KCSYTEB8VHBMYExD0A2gCIgISAKIBIwjEChIaChgI85EUIAFKDgoJKRAPGg8dEBUMEPQDaAIiAhIAkAPCSQ%3D%3D&uc=15",
+        "start_date": "2025-04-17T21:34:43.000Z",
+        "impressions_total": 1607,
+        "impressions_map": {
+          "de": 78,
+          "be": 1164,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 365,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "24",
+              "max_age": "35",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            },
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Ravionyx3",
+        "profile_name": "Ravionyx3",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaUdtaFY2blhwZFVvQUNPTkY3ME9QP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://dub.sh/y1K02jC"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
         "id": "b4005d61-b6e8-4785-b6f2-9e6979a513da",
         "name": "Ad 1",
         "ad_account_name": "Nyx Sleep Self Service",
@@ -347,7 +677,7 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "bc9582e7-579a-45f2-8bf2-6a55e13a5963",
+        "id": "ee0a979b-8736-4115-88a7-d5c2aa38a2c5",
         "name": "ADS",
         "ad_account_name": "Nyxgrain Self Service",
         "status": "ACTIVE",
@@ -362,10 +692,10 @@
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2025-04-09T01:14:42.000Z",
-        "impressions_total": 501,
+        "impressions_total": 581,
         "impressions_map": {
-          "de": 96,
-          "be": 143,
+          "de": 59,
+          "be": 181,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -376,7 +706,7 @@
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 119,
+          "se": 133,
           "si": 0,
           "sk": 0,
           "ie": 0,
@@ -390,87 +720,7 @@
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 119,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "22",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "web_view_properties": {
-          "url": "https://dub.sh/Ti1itj4"
-        },
-        "review_status": "DISAPPROVED",
-        "rejection_reasons": [
-          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
-        ],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "70ef3ddd-99f5-415b-927c-8b9bf8ba95a2",
-        "name": "ADS",
-        "ad_account_name": "Nyxgrain Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Your Style, Your SpeeD",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-04-09T01:14:42.000Z",
-        "impressions_total": 831,
-        "impressions_map": {
-          "de": 104,
-          "be": 291,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 44,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 200,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 192,
+          "nl": 184,
           "tr": 0
         },
         "targeting_v2": {
@@ -595,253 +845,6 @@
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ab15c04d-d23f-4efd-8218-eae25e486bcc",
-        "name": "ADS",
-        "ad_account_name": "Nyxgrain Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Your Style, Your SpeeD",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-04-09T01:14:42.000Z",
-        "impressions_total": 442,
-        "impressions_map": {
-          "de": 49,
-          "be": 138,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 15,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 113,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 127,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "22",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "web_view_properties": {
-          "url": "https://dub.sh/Ti1itj4"
-        },
-        "review_status": "DISAPPROVED",
-        "rejection_reasons": [
-          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
-        ],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "32bd7c2d-e2f4-4c92-9ebb-2c2037a69a4c",
-        "name": "ADS",
-        "ad_account_name": "Ravionyx3 Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Buy 2 Get 1 For Free",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Db5Jr1V9zZ5RYPBPU3X9c.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAjMpCYgAUoOCgkyGxctHikYJyEQ9ANoAiICEgCiASMIugoSGgoYCIjaHSABSg4KCTUWFicWKBggExD0A2gCIgISAKIBIgh_EhoKGAiIyxUgAUoOCgkkEQ4bFBkQFhEQ9ANoAiICEgCiASMIkgoSGgoYCMudFyABSg4KCSYTEB8VHBMYExD0A2gCIgISAKIBIwjEChIaChgI85EUIAFKDgoJKRAPGg8dEBUMEPQDaAIiAhIAkAPCSQ%3D%3D&uc=15",
-        "start_date": "2025-04-17T21:34:43.000Z",
-        "impressions_total": 2012,
-        "impressions_map": {
-          "de": 88,
-          "be": 1578,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 346,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "24",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": []
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "Ravionyx3",
-        "profile_name": "Ravionyx3",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaUdtaFY2blhwZFVvQUNPTkY3ME9QP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://dub.sh/y1K02jC"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4c94ea6d-4abc-41c7-aad7-ec06c4a55e3d",
-        "name": "ADS",
-        "ad_account_name": "Nyxgrain Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Your Style, Your SpeeD",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-04-09T01:14:42.000Z",
-        "impressions_total": 849,
-        "impressions_map": {
-          "de": 89,
-          "be": 302,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 31,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 175,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 252,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "22",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": []
-            }
-          ]
-        },
-        "web_view_properties": {
-          "url": "https://dub.sh/Ti1itj4"
-        },
-        "review_status": "DISAPPROVED",
-        "rejection_reasons": [
-          "Your ad or account is in violation of Snap policy—please see our Advertising Policies, Community Guidelines, Snap Ad Specifications and Creative Guidelines for more information."
-        ],
         "stickers": []
       }
     }

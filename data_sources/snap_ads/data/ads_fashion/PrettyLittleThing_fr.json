@@ -1,14 +1,15 @@
 {
   "brand": "PrettyLittleThing",
   "country": "fr",
-  "fetched_at": "2026-04-09T00:12:12.562Z",
+  "fetched_at": "2026-04-10T07:41:04.382Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "afcf746b-b11b-430f-99ae-dfd2f7417e91",
-        "name": "BROAD-FASHION_OFF_BF_15",
+        "id": "12300257-a389-41b7-ad21-7baabb2d3a56",
+        "name": "BROAD-FASHION_OFF_Valentines_Mix",
         "ad_account_name": "FR PLT Snap Account",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -17,13 +18,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "Offres Croustillantes",
+        "headline": "À Adorer",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OlGSxFiy0bz7TsK6k6W4Z.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjBgEYgATDgAzjUBkABSg4KCUITKTIeMB4cIBD0A1CYdWgCdeIyNEB9AACAPyIGCgJIAxIAogE8CLoKEi8KLQjd1TcgATDQBTiACkACSg4KCT0PHyggJBgVGhD0A1CYdWgCdeNYP0B9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjh-CogATDgAzjUBkACSg4KCTENHB8cIxMTERD0A1CYdWgCdTidLEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQil4yYgATDgAzjUBkACSg4KCTELFRoWGREPExD0A1CYdWgCdbCkOUB9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YQW8HaG7iPNxpc5ilb7Rf.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi-lkQgATDgAzjUBkABSg4KCVIZJS8cRBkfPhD0A1DKa2gCdax3VkAiBgoCSAQSAKIBNwi6ChIqCigIrP8-IAEw0AU4gApAAkoOCglZDh47Gi8WITwQ9ANQymtoAnX_22hAIgYKAkgCEgCiATwIkgoSLwotCMbZJyABMOADONQGQAJKDgoJNw0RGRUnEBIjEPQDUMpraAJ1oGFGQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCM_oKiABMOADONQGQAJKDgoJPwsTJRMgDhgpEPQDUMpraAJ1_D1gQH0AAIA_IgYKAkgCEgCQA8pr&uc=15",
         "start_date": "2025-11-24T00:00:00.000Z",
-        "impressions_total": 23484,
+        "impressions_total": 39410,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -35,7 +36,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 23484,
+          "fr": 39410,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -74,7 +75,7 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUGJFbjVoVmJXQnRWNzJRZEV4OVZZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
         "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://www.prettylittlething.fr/?UTM_medium=display&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+          "url": "https://www.prettylittlething.fr/trier-par/saint-valentin.html"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -84,8 +85,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "67a40555-82f0-4063-b04c-398ea354cbc2",
-        "name": "BROAD-FASHION_BF_Story_Image",
+        "id": "e77fc42b-3417-4987-9e7e-456db8d64cb0",
+        "name": "BROAD-FASHION_BF_Story_Video",
         "ad_account_name": "FR PLT Snap Account",
         "status": "ACTIVE",
         "creative_type": "COMPOSITE",
@@ -98,7 +99,7 @@
         "call_to_action": "SHOP_NOW",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2025-11-24T00:00:00.000Z",
-        "impressions_total": 437089,
+        "impressions_total": 11134,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -110,7 +111,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 437089,
+          "fr": 11134,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -155,9 +156,9 @@
               "render_type": "STATIC",
               "headline": "Offres Croustillantes",
               "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
+              "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/IGL9BeqkD2q4ksmw6ZHRW.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/POBN79E3TZ1lEEW65TbzG.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjBwUUgATDgAzjUBkABSg4KCUMTKjIaNB4bIRD0A1CYdWgCdb7fMkB9AACAPyIGCgJIAhIAogE8CLoKEi8KLQj0lzggATDQBTiACkACSg4KCT4OICkgIhgVGhD0A1CYdWgCdTAlQEB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQj0hCogATDgAzjUBkACSg4KCTIMHx0dIRQRERD0A1CYdWgCda9cLEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQiC7CYgATDgAzjUBkACSg4KCTILFRoWFxEOExD0A1CYdWgCdd9WO0B9AACAPyIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
                 "url": "https://www.prettylittlething.fr/"
@@ -168,9 +169,9 @@
               "render_type": "STATIC",
               "headline": "Offres Croustillantes",
               "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
+              "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xFNnnaiiDLVufYk7unhQf.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1kljjKgFRz8lXr64Om0vx.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQjouDQgATDgAzjUBkABSg4KCT8GESMkJTQSJBD0A1CSaGgCdZJNTUB9AACAPyIGCgJIAhIAogE8CLoKEi8KLQj08DIgATDQBTiACkACSg4KCVgHEiYjFxknIRD0A1CSaGgCdd-YXUB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjisyEgATDgAzjUBkACSg4KCS0FDRUVExgUHBD0A1CSaGgCdWXAQEB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjO-iMgATDgAzjUBkACSg4KCT0FDBUWExMVGxD0A1CSaGgCdTRcUUB9AACAPyIGCgJIAhIAkAOSaA%3D%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
                 "url": "https://www.prettylittlething.fr/"
@@ -181,22 +182,9 @@
               "render_type": "STATIC",
               "headline": "Offres Croustillantes",
               "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
+              "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qeV9pNPuZZEQvoKoxkzof.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.prettylittlething.fr/"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Offres Croustillantes",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BUA9X4oGQX7HhCq6KYwqn.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZOLSy7vfbZibXilkADGg9.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQiA6isgATDgAzjUBkABSg4KCTEWFg4ZDyQRHhD0A1DCcWgCdcIZU0B9AACAPyIGCgJIAhIAogE8CLoKEi8KLQiviiYgATDQBTiACkACSg4KCSwTFwwVCx4MGRD0A1DCcWgCdeJ1XkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQiqiR0gATDgAzjUBkACSg4KCSUNEQkPCxUKERD0A1DCcWgCddRJPkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQipsBsgATDgAzjUBkACSg4KCSQMDggPBxYIEhD0A1DCcWgCddRETkB9AACAPyIGCgJIAhIAkAPCcQ%3D%3D&uc=15",
               "brand_name": "",
               "web_view_preview": {
                 "url": "https://www.prettylittlething.fr/"
@@ -212,8 +200,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "8d01d7a6-a894-4fe9-9719-e72ef2778fc7",
-        "name": "BROAD-FASHION_OFF_Valentines_Mix",
+        "id": "edc014ac-e2a1-4c31-808f-d62244d88c33",
+        "name": "BROAD-FASHION_OFF_BF_GreyCoord",
         "ad_account_name": "FR PLT Snap Account",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -222,13 +210,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "À Adorer",
+        "headline": "Offres Croustillantes",
         "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ww9tichuWkuFvQHbrcUMP.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjv1kQgATDgAzjUBkABSg4KCVMZJTEaRBogPhD0A1DKa2gCdWrEVUAiBgoCSAQSAKIBNwi6ChIqCigIuto_IAEw0AU4gApAAkoOCglZDiA7GjAWIjwQ9ANQymtoAnWGhmlAIgYKAkgCEgCiATwIkgoSLwotCPeXKCABMOADONQGQAJKDgoJNw4RHBErEBMjEPQDUMpraAJ10txEQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCMesKyABMOADONQGQAJKDgoJQAoUJhMhDhkpEPQDUMpraAJ1zFRdQH0AAIA_IgYKAkgCEgCQA8pr&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SYfn15BaUQSq84fZE6e4v.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
         "start_date": "2025-11-24T00:00:00.000Z",
-        "impressions_total": 12563,
+        "impressions_total": 84714,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -240,7 +228,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 12563,
+          "fr": 84714,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -279,7 +267,7 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUGJFbjVoVmJXQnRWNzJRZEV4OVZZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
         "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://www.prettylittlething.fr/trier-par/saint-valentin.html"
+          "url": "https://www.prettylittlething.fr/"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -289,163 +277,10 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "5ccb4cc4-7307-4174-96b4-6112c06a3e69",
-        "name": "BROAD-FASHION_OFF_Valentines_Lift",
-        "ad_account_name": "FR PLT Snap Account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "À Adorer",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/nuLLYNYyf6DE1644lmiaC.67?mo=GowCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE4CEMSMAouCNXiXiABMOADONQGQAFKDgoJPxUYHB0gIhoMEPQDUPSvAmgCdU4TSEB9AACAPyICEgCiATkIugoSMAouCN70TyABMNAFOIAKQAJKDgoJORAYGBoXIRUKEPQDUPSvAmgCdbLgR0B9AACAPyICEgCiATkIkgoSMAouCJzNPiABMOADONQGQAJKDgoJOQ8SEBYVGhAHEPQDUPSvAmgCdVb2O0B9AACAPyICEgCiATkI0goSMAouCKTsOCABMOADONQGQAJKDgoJMgsREhMQFw4HEPQDUPSvAmgCdXGKREB9AACAPyICEgCQA_SvAg%3D%3D&uc=15",
-        "start_date": "2025-11-24T00:00:00.000Z",
-        "impressions_total": 1700,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1700,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "prettylittlething.com",
-        "profile_name": "PrettyLittleThing",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUGJFbjVoVmJXQnRWNzJRZEV4OVZZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://www.prettylittlething.fr/trier-par/saint-valentin.html"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "007d6862-7859-43c9-b684-0a392d1567a4",
-        "name": "BROAD-FASHION_OFF_ReadyForNew_Suede",
-        "ad_account_name": "FR PLT Snap Account",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Prête Pour La Nouveauté",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BQ4O7jbYvwwMrZhUxW31D.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjE2R4gATDgAzjUBkABSg4KCSUqGSUoLykxFhD0A1D6PWgCdWzFTkAiBgoCSAQSAKIBNwi6ChIqCigIrYEZIAEw0AU4gApAAkoOCgklGhUeIx0hJBIQ9ANQ-j1oAnVdsF5AIgYKAkgCEgCiATwIkgoSLwotCIChEyABMOADONQGQAJKDgoJGhoSGBseGhoSEPQDUPo9aAJ1as1BQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCIjeESABMOADONQGQAJKDgoJHRIPFhgVGBgMEPQDUPo9aAJ1YkBSQH0AAIA_IgYKAkgCEgCQA_o9&uc=15",
-        "start_date": "2025-11-24T00:00:00.000Z",
-        "impressions_total": 253889,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 253889,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "prettylittlething.com",
-        "profile_name": "PrettyLittleThing",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUGJFbjVoVmJXQnRWNzJRZEV4OVZZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://www.prettylittlething.fr/bomber-en-suedine-marron-clair-a-col-entonnoir-et-poches.html"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "df7309f6-d2a8-4d48-a0c2-f45c3616d9d3",
+        "id": "b25ac00f-23d8-4033-a160-c1263f88b516",
         "name": "BROAD-FASHION_OFF_Valentines_BlackLaceStood",
         "ad_account_name": "FR PLT Snap Account",
-        "status": "ACTIVE",
+        "status": "PAUSED",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
@@ -456,9 +291,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/lzu3cglWo7B51taYeI5BN.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/E0uRhwRPHvxArMot1Qn0m.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
         "start_date": "2025-11-24T00:00:00.000Z",
-        "impressions_total": 23358,
+        "impressions_total": 230304,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -470,7 +305,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 23358,
+          "fr": 230304,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -498,7 +333,6 @@
               "age_groups": [],
               "gender": "FEMALE",
               "languages": [],
-              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -519,85 +353,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "6e025a55-d302-4d28-8f3f-ba2329efd03f",
-        "name": "BROAD-FASHION_INF_KatherineBonddparty25dress",
-        "ad_account_name": "FR PLT Snap Account",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Saison des Fêtes",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xVL9PCtUMJZIVWgkkcWu3.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-11-24T00:00:00.000Z",
-        "impressions_total": 609546,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 609546,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "prettylittlething.com",
-        "profile_name": "PrettyLittleThing",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUGJFbjVoVmJXQnRWNzJRZEV4OVZZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://www.prettylittlething.fr/robe-longue-en-velours-noir-a-buste-en-mousseline-de-soie-contrastante.html?UTM_medium=display&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "9d207342-df19-4e37-aeb8-37dd47fb6c36",
-        "name": "BROAD-FASHION_OFF_Valentines_Lift",
+        "id": "92d9dc7b-4ed4-48cb-9863-c3943c5ec88d",
+        "name": "BROAD-FASHION_OFF_Athleisure_BrownTracksuit",
         "ad_account_name": "FR PLT Snap Account",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -606,13 +363,13 @@
         "languages": [
           "fr"
         ],
-        "headline": "À Adorer",
+        "headline": "Health and Social Club de PLT",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WFQA7DVPNSPyeSeHjfpjW.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiWyV4gATDgAzjUBkABSg4KCUARGx0cICQZCxD0A1D0rwJoAnXg6kdAIgYKAkgDEgCiATgIugoSKwopCKjQTyABMNAFOIAKQAJKDgoJOQ8YGBsXIBUKEPQDUPSvAmgCdTBASkAiBgoCSAISAKIBPQiSChIwCi4I9qQ-IAEw4AM41AZAAkoOCgk6DhIQFBgYEQcQ9ANQ9K8CaAJ1yiM8QH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCK7ROCABMOADONQGQAJKDgoJMgsRERMRFw4HEPQDUPSvAmgCdbNZREB9AACAPyIGCgJIAhIAkAP0rwI%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/j74LShGQ9q09LOgUCrzZ4.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAiT0yEgATDgAzjUBkABSg4KCT0RExERL0ZDIhD0A1CyQWgCdS_LSkAiBgoCSAQSAKIBNwi6ChIqCigI9q0dIAEw0AU4gApAAkoOCglCDRERDSM3Mh8Q9ANQskFoAnUS2V9AIgYKAkgDEgCiATwIkgoSLwotCLbXFCABMOADONQGQAJKDgoJJgsMCgkbLSsWEPQDULJBaAJ1dss6QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCKOrFCABMOADONQGQAJKDgoJMAoLDAkZJSIVEPQDULJBaAJ1arlTQH0AAIA_IgYKAkgCEgCQA7JB&uc=15",
         "start_date": "2025-11-24T00:00:00.000Z",
-        "impressions_total": 1557,
+        "impressions_total": 10189,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -624,7 +381,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 1557,
+          "fr": 10189,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -663,7 +420,7 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUGJFbjVoVmJXQnRWNzJRZEV4OVZZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
         "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://www.prettylittlething.fr/trier-par/saint-valentin.html"
+          "url": "https://www.prettylittlething.fr/plt-veste-de-course-en-nylon-chocolat-a-zip.html"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -750,8 +507,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "599c2868-3c80-45a3-af15-c96bfebafcde",
-        "name": "BROAD-FASHION_OFF_Valentines_BlackLaceStood",
+        "id": "b0138580-50b3-4797-85a7-ad50526c4b73",
+        "name": "BROAD-FASHION_OFF_Valentines_RedPJ's",
         "ad_account_name": "FR PLT Snap Account",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -764,9 +521,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/2rrc5he6LEBa9oTgepMAo.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/BLsWmGa2krXhcXK71rKYg.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
         "start_date": "2025-11-24T00:00:00.000Z",
-        "impressions_total": 30700,
+        "impressions_total": 18226,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -778,7 +535,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 30700,
+          "fr": 18226,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -817,7 +574,238 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUGJFbjVoVmJXQnRWNzJRZEV4OVZZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
         "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://www.prettylittlething.fr/robe-longue-style-corset-tissee-noire-a-bretelles-fines-et-ourlet-en-dentelle.html"
+          "url": "https://www.prettylittlething.fr/ensemble-debardeur-et-short-volante-en-mesh-rouge-a-detail-noue.html"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3e118bed-5078-47ff-a56e-89420adbe0d3",
+        "name": "BROAD-FASHION_OFF_BF_Studio_Mixed",
+        "ad_account_name": "FR PLT Snap Account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Offres Croustillantes",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ZOLSy7vfbZibXilkADGg9.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQiA6isgATDgAzjUBkABSg4KCTEWFg4ZDyQRHhD0A1DCcWgCdcIZU0B9AACAPyIGCgJIAhIAogE8CLoKEi8KLQiviiYgATDQBTiACkACSg4KCSwTFwwVCx4MGRD0A1DCcWgCdeJ1XkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQiqiR0gATDgAzjUBkACSg4KCSUNEQkPCxUKERD0A1DCcWgCddRJPkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQipsBsgATDgAzjUBkACSg4KCSQMDggPBxYIEhD0A1DCcWgCddRETkB9AACAPyIGCgJIAhIAkAPCcQ%3D%3D&uc=15",
+        "start_date": "2025-11-24T00:00:00.000Z",
+        "impressions_total": 78884,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 78884,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "prettylittlething.com",
+        "profile_name": "PrettyLittleThing",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUGJFbjVoVmJXQnRWNzJRZEV4OVZZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://www.prettylittlething.fr/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c51ed275-8020-4b04-9e1b-8c7f207d4125",
+        "name": "BROAD-FASHION_OFF_Valentines_Lift",
+        "ad_account_name": "FR PLT Snap Account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "À Adorer",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WFQA7DVPNSPyeSeHjfpjW.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiWyV4gATDgAzjUBkABSg4KCUARGx0cICQZCxD0A1D0rwJoAnXg6kdAIgYKAkgDEgCiATgIugoSKwopCKjQTyABMNAFOIAKQAJKDgoJOQ8YGBsXIBUKEPQDUPSvAmgCdTBASkAiBgoCSAISAKIBPQiSChIwCi4I9qQ-IAEw4AM41AZAAkoOCgk6DhIQFBgYEQcQ9ANQ9K8CaAJ1yiM8QH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCK7ROCABMOADONQGQAJKDgoJMgsRERMRFw4HEPQDUPSvAmgCdbNZREB9AACAPyIGCgJIAhIAkAP0rwI%3D&uc=15",
+        "start_date": "2025-11-24T00:00:00.000Z",
+        "impressions_total": 2355,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 2355,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "prettylittlething.com",
+        "profile_name": "PrettyLittleThing",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUGJFbjVoVmJXQnRWNzJRZEV4OVZZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://www.prettylittlething.fr/trier-par/saint-valentin.html"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c3dea1de-b8c2-4e62-93b8-18b0636222d8",
+        "name": "BROAD-FASHION_OFF_Party_30",
+        "ad_account_name": "FR PLT Snap Account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Saison des Fêtes",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fyHx4oTvDlckNehwmRcHT.67?mo=GpYCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgj7z5IBIAEw4AM41AZAAUoOCglGJRYPJxwmLCsQ9ANQsOoBaAJ1Qm5KQCIGCgJIAxIAogE9CLoKEjAKLgjNynogATDQBTiACkACSg4KCVYTGQ0jFhYyJRD0A1Cw6gFoAnW0EltAfQAAgD8iBgoCSAISAKIBPQiSChIwCi4I9r9YIAEw4AM41AZAAkoOCgk5GQ8IFxIRHBkQ9ANQsOoBaAJ1tQw6QH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCP_2UiABMOADONQGQAJKDgoJNR4SCRYODyIYEPQDULDqAWgCdexGTUB9AACAPyIGCgJIAhIAkAOw6gE%3D&uc=15",
+        "start_date": "2025-11-24T00:00:00.000Z",
+        "impressions_total": 128622,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 128622,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "prettylittlething.com",
+        "profile_name": "PrettyLittleThing",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUGJFbjVoVmJXQnRWNzJRZEV4OVZZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://www.prettylittlething.fr/trier-par/soiree.html?UTM_medium=display&utm_source=Snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

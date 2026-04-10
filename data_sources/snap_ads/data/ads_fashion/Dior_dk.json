@@ -1,35 +1,37 @@
 {
   "brand": "Dior",
   "country": "dk",
-  "fetched_at": "2026-04-09T22:55:29.691Z",
+  "fetched_at": "2026-04-10T04:44:57.637Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "d47f0003-829d-4750-be1a-2d9ce4196f3d",
-        "name": "MISS-DIOR-ROSE-ESSENCE_VIDEO-TVC-10S-FOCUS-RUE_SFD_10S_LEAR_MPP_INS_Interest-VIDEO-TVC-10S-FOCUS-RUE_OSF000GLNZ",
-        "ad_account_name": "PCD_PC_DNK_EMEA_SOCIAL-SNAPCHAT_PML_DKK_LVMH_",
+        "id": "c8b767b6-8cf7-4ba7-992c-0998f7dae94b",
+        "name": "UNIVALENTINESDAY26_STA_SIF_NO_LEARN_MCOP_STATICSHOES_INTEREST_DNK",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "MISS DIOR",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
+        "languages": [
+          "en"
+        ],
+        "headline": "From Paris, with Dior",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1bsKxOm4rCsAK6PBzWsHu.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIs4E3IAEw4AM41AZAAUoOCglSOykzKUM1LBkQ9ANQ2E9oAiIGCgJIBBIAogEyCLoKEiUKIwiugysgATDQBTiACkACSg4KCUYnHyQnLSobERD0A1DYT2gCIgYKAkgCEgCiATEIfxIlCiMI3JsfIAEw4AM41AZAAkoOCgk0HRYdGiMgFA0Q9ANQ2E9oAiIGCgJIAhIAogEyCJIKEiUKIwiJ1yAgATDgAzjUBkACSg4KCTcfFh0dJCEUDRD0A1DYT2gCIgYKAkgCEgCiATIIxAoSJQojCNyzHCABMOADONYGQAJKDgoJMhsUGBsfHRILEPQDUNhPaAIiBgoCSAISAKIBMgjSChIlCiMI-6AdIAEw4AM41AZAAkoOCgkzHBQZGx8dEQsQ9ANQ2E9oAiIGCgJIAhIAkAPYTw%3D%3D&uc=15",
-        "start_date": "2025-08-25T06:00:45.000Z",
-        "impressions_total": 228174,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LGYhu56An6WWOLF71Vllh.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-27T09:00:18.000Z",
+        "impressions_total": 4163,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 228174,
+          "dk": 4163,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -60,18 +62,17 @@
               "min_age": "18",
               "age_groups": [],
               "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
         "paying_advertiser_name": "Dior",
-        "brand_name": "Dior",
         "profile_name": "Dior",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://www.dior.com/en_dk/beauty/products/miss-dior-essence-Y0000088.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-MISS-DIOR-ROSE-ESSENCE-UNI-FRA-202508-AW-REAC-SN-MOB-DKK-INS-Reach-Miss-Dior-Essence-67309&utm_content=MISS-DIOR-ROSE-ESSENCE-VIDEO-TVC-10S-FOCUS-RUE-SFD-10S-MPP-INS-Interest-VIDEO-TVC-10S-FOCUS-RUE"
+          "url": "https://www.dior.com/en_dk/fashion/gifts/fashion-and-accessories-gifts?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -81,30 +82,28 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "006c93c8-ca39-4c30-bba3-99aaad58c438",
-        "name": "MOTHER-DAY_VIDEO-PRODUCT-FILM_SFD_10S_LEAR_MPP_INS_Interest-VIDEO-PRODUCT-FILM_OSF000D1IJ",
+        "id": "0a805f05-4d43-4af4-9638-8ef12d4c463b",
+        "name": "MOTHER-DAY_STATIC-JDR-EDP_SIF_IMG_LEAR_MPP_INS_Interest-STATIC-JDR-EDP_OSF000D1II",
         "ad_account_name": "PCD_PC_DNK_EMEA_SOCIAL-SNAPCHAT_PML_DKK_LVMH_",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "MISS DIOR PARFUM",
+        "languages": [],
+        "headline": "MOTHER'S DAY",
         "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ESRWiswPSK6bxUnExGnXE.67?mo=GuwBGggyAgR9UA9gAVoIQWRzTWVkaWGiASgIQxIcChoI649UIAFKEAoLwgGJAWgrNFhmSUcQ9ANoAiIGCgJIBBIAogEoCLoKEhsKGQjR0j8gAUoPCgqeAVdEHSw7RUYxEPQDaAIiBgoCSAISAKIBJgh_EhoKGAjdsjQgAUoOCgl6UTgWIT9CODMQ9ANoAiIGCgJIAhIAogEoCJIKEhsKGQi7hzYgAUoPCgqBAVM8GCI-SDUwEPQDaAIiBgoCSAISAKIBJwjEChIaChgIlpUpIAFKDgoJZDcrER4nKywfEPQDaAIiBgoCSAISAJADkE4%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zncBW8EVMFaPTSlPM1e5W.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
         "start_date": "2025-05-01T06:00:33.000Z",
-        "impressions_total": 12192,
+        "impressions_total": 15525,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 12192,
+          "dk": 15525,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -147,80 +146,7 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "favorite_display_mode": "HIDE",
         "web_view_properties": {
-          "url": "https://www.dior.com/en_dk/beauty/products/miss-dior-parfum-Y0997166.html?utm_source={{site_source_name}}&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-MOTHER-DAY-UNI-FRA-202505-CS-LPVI-SN-MOB-DKK-INS-LandingPageViews-MothersDay-65550&utm_content=MOTHER-DAY-VIDEO-PRODUCT-FILM-SFD-10S-MPP-INS-Interest-VIDEO-PRODUCT-FILM"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "164e0045-2a93-4ae0-9602-70b7afc664d6",
-        "name": "FATHER-DAY_VIDEO-TVC-DH_SFD_15S_LEAR_MPP_INS_Interest-VIDEO-TVC-DH_OSF000DZ74",
-        "ad_account_name": "PCD_PC_DNK_EMEA_SOCIAL-SNAPCHAT_PML_DKK_LVMH_",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "DIOR HOMME",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/tAgGYqHqgUidE9sP1e6xm.67?mo=GpICGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI77QyIAFKDgoJMBwqGiUdHykQEPQDaAIiBgoCSAUSAKIBJwi6ChIaChgI-4EmIAFKDgoJIw8fFhsWFB4LEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiO-BogAUoOCgkcDRgPFhQPFQgQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAjt2RsgAUoOCgkcDhYRFxUSFQgQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAj9ihkgAUoOCgkbCRUPEQ4OFAgQ9ANoAiIGCgJIAhIAogEnCNIKEhoKGAiGiRogAUoOCgkbChYPEg8OEwgQ9ANoAiIGCgJIAhIAkAOYdQ%3D%3D&uc=15",
-        "start_date": "2025-05-23T08:00:00.000Z",
-        "impressions_total": 145912,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 145912,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "brand_name": "DIOR",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.dior.com/en_dk/beauty/fragrance/discover-dior-homme-parfum.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-FATHER-DAY-UNI-FRA-202505-AW-REAC-SN-MOB-DKK-INS-Reach-FathersDay-66111&utm_content=FATHER-DAY-VIDEO-TVC-DH-SFD-15S-MPP-INS-Interest-VIDEO-TVC-DH"
+          "url": "https://www.dior.com/en_dk/beauty/products/j%E2%80%99adore-eau-de-parfum-Y0998031.html?utm_source={{site_source_name}}&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-MOTHER-DAY-UNI-FRA-202505-CS-LPVI-SN-MOB-DKK-INS-LandingPageViews-MothersDay-65550&utm_content=MOTHER-DAY-STATIC-JDR-EDP-SIF-IMG-MPP-INS-Interest-STATIC-JDR-EDP"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -295,6 +221,335 @@
         "favorite_display_mode": "HIDE",
         "web_view_properties": {
           "url": "https://www.dior.com/en_dk/beauty/fragrance/discover-miss-dior-parfum.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-MOTHER-DAY-UNI-FRA-202504-AW-REAC-SN-MOB-DKK-INS-Reach-MothersDay-65547&utm_content=MOTHER-DAY-STATIC-AD-VISUAL-MD-SIS-IMG-MRP-INS-Interest-STATIC-AD-VISUAL-MD"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "60c4e105-19a1-48bc-8f00-1f36b2f73323",
+        "name": "UNIVALENTINESDAY26_STA_SIF_NO_SHOP_MCOP_STATICAFEBRACELET_DNK",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Dior in the City of love",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/J36y2cqbCewfABRWTSvG8.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-30T13:38:40.000Z",
+        "impressions_total": 45644,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 45644,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_dk/fashion/gifts/fashion-and-accessories-gifts?utm_medium=social-paid-performance&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "5f1b5354-db03-450a-8e7d-d4ef533722c2",
+        "name": "FATHER-DAY_CAROUSEL-PRODUCT-DH_MC_MIX_LEAR_MPP_INS_LAL-CRM-CAROUSEL-PRODUCT-DH_OSF000DZAP",
+        "ad_account_name": "PCD_PC_DNK_EMEA_SOCIAL-SNAPCHAT_PML_DKK_LVMH_",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "DIOR HOMME",
+        "call_to_action": "MORE",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-05-23T08:00:56.000Z",
+        "impressions_total": 87205,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 87205,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "brand_name": "DIOR",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "DIOR HOMME",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/jIx9ZQU5D6Wq7C1Yq6fAc.67?mo=Gp8CGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIwIIQIAEw4AM41AZAAUoOCgkpCgsMDA4NDw0Q9ANQkE5oAiIGCgJIAxIAogEyCLoKEiUKIwiIsw8gATDQBTiACkACSg4KCTgHCgkMDAsNDBD0A1CQTmgCIgYKAkgCEgCiATEIfxIlCiMI4akJIAEw4AM41AZAAkoOCgkcBgUHBwcICAgQ9ANQkE5oAiIGCgJIAhIAogEyCJIKEiUKIwiplAogATDgAzjUBkACSg4KCSoGBgYHBwgIBxD0A1CQTmgCIgYKAkgCEgCiATIIxAoSJQojCPeQCiABMOADONYGQAJKDgoJKQQGBggHCAgIEPQDUJBOaAIiBgoCSAISAJADkE4%3D&uc=15",
+              "brand_name": "DIOR",
+              "web_view_preview": {
+                "url": "https://www.dior.com/en_dk/beauty/products/dior-homme-parfum-Y0997193.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-FATHER-DAY-UNI-FRA-202505-CS-LPVI-SN-MOB-DKK-INS-Landing-page-view-FathersDay-66114&utm_content=FATHER-DAY-CAROUSEL-PRODUCT-DH-MC-MIX-MPP-INS-LAL-CRM-CAROUSEL-PRODUCT-DH"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "DIOR HOMME",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/jdqfblT4Go3P1feO5YjuQ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "brand_name": "DIOR",
+              "web_view_preview": {
+                "url": "https://www.dior.com/en_dk/beauty/products/dior-homme-parfum-Y0997193.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-FATHER-DAY-UNI-FRA-202505-CS-LPVI-SN-MOB-DKK-INS-Landing-page-view-FathersDay-66114&utm_content=FATHER-DAY-CAROUSEL-PRODUCT-DH-MC-MIX-MPP-INS-LAL-CRM-CAROUSEL-PRODUCT-DH"
+              }
+            },
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "DIOR HOMME",
+              "call_to_action": "MORE",
+              "top_snap_media_type": "IMAGE",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LnKZlNI9CFPKMUwNKyZt5.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "brand_name": "DIOR",
+              "web_view_preview": {
+                "url": "https://www.dior.com/en_dk/beauty/products/dior-homme-parfum-Y0997193.html"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c63d217a-dcf4-49c7-a7ef-c74463719470",
+        "name": "MISS-DIOR-ROSE-ESSENCE_VIDEO-TVC-10S-FOCUS-TOIT_SFD_10S_LEAR_MPP_INS_Interest-VIDEO-TVC-10S-FOCUS-TOIT_OSF000GIED",
+        "ad_account_name": "PCD_PC_DNK_EMEA_SOCIAL-SNAPCHAT_PML_DKK_LVMH_",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "MISS DIOR",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hxlAatqDBQvXoDuLsE5de.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI1Kc2IAEw4AM41AZAAUoOCglaNytJLyw9EBIQ9ANQ2E9oAiIGCgJIBBIAogEyCLoKEiUKIwjSyyggATDQBTiACkACSg4KCUkkITAfHS0MChD0A1DYT2gCIgYKAkgDEgCiATEIfxIlCiMIz8sfIAEw4AM41AZAAkoOCgk7HxgpGhshCQsQ9ANQ2E9oAiIGCgJIAhIAogEyCJIKEiUKIwi1lSEgATDgAzjUBkACSg4KCTkjGiwbGiMKCRD0A1DYT2gCIgYKAkgCEgCiATIIxAoSJQojCKCcGyABMOADONYGQAJKDgoJMhkWHxQUHggGEPQDUNhPaAIiBgoCSAISAKIBMgjSChIlCiMIoMscIAEw4AM41AZAAkoOCgk0GxcgFRQfCQcQ9ANQ2E9oAiIGCgJIAhIAkAPYTw%3D%3D&uc=15",
+        "start_date": "2025-08-25T06:00:45.000Z",
+        "impressions_total": 221356,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 221356,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_dk/beauty/products/miss-dior-essence-Y0000088.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-MISS-DIOR-ROSE-ESSENCE-UNI-FRA-202508-AW-REAC-SN-MOB-DKK-INS-Reach-Miss-Dior-Essence-67309&utm_content=MISS-DIOR-ROSE-ESSENCE-VIDEO-TVC-10S-FOCUS-TOIT-SFD-10S-MPP-INS-Interest-VIDEO-TVC-10S-FOCUS-TOIT"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "04fa5de4-d97f-45dd-b29c-e3bce0e67328",
+        "name": "UNIVALENTINESDAY26_STA_SIF_NO_SHOP_MCOP_STATICDIORBAG_DNK",
+        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Dior in the City of love",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/S4MV9TEvVNfdSRKAQ3hGd.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2026-01-30T13:38:40.000Z",
+        "impressions_total": 45214,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 45214,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Dior",
+        "profile_name": "Dior",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_dk/fashion/gifts/fashion-and-accessories-gifts?utm_medium=social-paid-performance&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -425,248 +680,28 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "51d0ea1c-5a52-4831-a86c-34629fec0fcd",
-        "name": "UNIVALENTINESDAY26_STA_SIF_NO_LEARN_MCOP_STATICSHOES_INTEREST_DNK",
-        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "From Paris, with Dior",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/LGYhu56An6WWOLF71Vllh.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-01-27T09:00:18.000Z",
-        "impressions_total": 15135,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 15135,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.dior.com/en_dk/fashion/gifts/fashion-and-accessories-gifts?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "dcfc4098-81b2-4a93-912b-2be8f7ca1497",
-        "name": "UNIVALENTINESDAY26_STA_SIF_NO_LEARN_MCOP_STATICOUPLELADYD_INTEREST_DNK",
-        "ad_account_name": "CDC_FLG_HUB-FRA_EMEA_SOCIAL-SNAPCHAT_HAV_EUR_LVMH",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "From Paris, with Dior",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rUDOSWVE2awSaWX9BzM3e.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2026-01-27T09:00:18.000Z",
-        "impressions_total": 35605,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 35605,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Dior",
-        "profile_name": "Dior",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.dior.com/en_dk/fashion/gifts/fashion-and-accessories-gifts?utm_medium=paid-social-branding&utm_term={{adSet.name}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "2d49d668-e1ed-4fac-8b56-c7fa8011365c",
-        "name": "22-10-25 - Advertentie",
-        "ad_account_name": "iOS in-app promoties",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0RBxPJ5FDkyI779GigXKE.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-10-22T22:00:00.000Z",
-        "impressions_total": 1850,
-        "impressions_map": {
-          "de": 0,
-          "be": 1315,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 87,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 326,
-          "hu": 0,
-          "se": 85,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 37,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Maison Diorama",
-        "profile_name": "Maison Diorama",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVGE2RVJoSGdLV0FPM2E4NnV6Mm0wP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/maisondiorama",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVGE2RVJoSGdLV0FPM2E4NnV6Mm0wP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8ab09c7f-8272-437c-988a-a4b4ef503b96",
-        "name": "FATHER-DAY_CAROUSEL-VIDEO-ELIXIR_MC_MIX_LEAR_MPP_INS_LAL-CRM-CAROUSEL-VIDEO-ELIXIR_OSF000E7OW",
+        "id": "9002a0bc-bb40-4240-a319-e53510e11f62",
+        "name": "MISS-DIOR-ROSE-ESSENCE_STATIC-AD-VISUAL_SFD_IMG_LEAR_MPP_INS_Interest-STATIC-AD-VISUAL_OSF000GLO0",
         "ad_account_name": "PCD_PC_DNK_EMEA_SOCIAL-SNAPCHAT_PML_DKK_LVMH_",
         "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [],
-        "headline": "SAUVAGE",
+        "headline": "MISS DIOR",
         "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-05-23T08:00:56.000Z",
-        "impressions_total": 3510,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/PYSmdESqEizkub0lKdC55.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-08-25T06:00:45.000Z",
+        "impressions_total": 250579,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 3510,
+          "dk": 250579,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -697,44 +732,17 @@
               "min_age": "18",
               "age_groups": [],
               "languages": [],
-              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
         "paying_advertiser_name": "Dior",
-        "brand_name": "DIOR",
+        "brand_name": "Dior",
         "profile_name": "Dior",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTTBwRkdLV3hleFpraWtCbHd6emtIP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "SAUVAGE",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0Bu8cz5Kw1qZXiLSvvNRi.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIluAdIAEw4AM41AZAAUoOCgkjDg4YJiUXHhIQ9ANQ-EtoAiIGCgJIAxIAogEyCLoKEiUKIwiOnRYgATDQBTiACkACSg4KCSEJCREeHA8XDBD0A1D4S2gCIgYKAkgDEgCiATEIfxIlCiMIyq0QIAEw4AM41AZAAkoOCgkXCAYOFxULEAgQ9ANQ-EtoAiIGCgJIAhIAogEyCJIKEiUKIwiynhEgATDgAzjUBkACSg4KCRgIBxAXFg4QCRD0A1D4S2gCIgYKAkgCEgCiATIIxAoSJQojCM3zDiABMOADONYGQAJKDgoJGgYGCxUUCBAHEPQDUPhLaAIiBgoCSAISAKIBMgjSChIlCiMIyLsPIAEw4AM41AZAAkoOCgkbBgYMFhMKEAgQ9ANQ-EtoAiIGCgJIAhIAkAP4Sw%3D%3D&uc=15",
-              "brand_name": "DIOR",
-              "web_view_preview": {
-                "url": "https://www.dior.com/en_dk/beauty/products/sauvage-elixir-Y0996460.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-FATHER-DAY-UNI-FRA-202505-CS-LPVI-SN-MOB-DKK-INS-Landing-page-view-FathersDay-66114&utm_content=FATHER-DAY-CAROUSEL-VIDEO-ELIXIR-MC-MIX-MPP-INS-LAL-CRM-CAROUSEL-VIDEO-ELIXIR"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "headline": "SAUVAGE",
-              "call_to_action": "MORE",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MqAU30iGCqxgRUnCDBKQs.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "DIOR",
-              "web_view_preview": {
-                "url": "https://www.dior.com/en_dk/beauty/products/sauvage-elixir-Y0996460.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-FATHER-DAY-UNI-FRA-202505-CS-LPVI-SN-MOB-DKK-INS-Landing-page-view-FathersDay-66114&utm_content=FATHER-DAY-CAROUSEL-VIDEO-ELIXIR-MC-MIX-MPP-INS-LAL-CRM-CAROUSEL-VIDEO-ELIXIR"
-              }
-            }
-          ]
+        "web_view_properties": {
+          "url": "https://www.dior.com/en_dk/beauty/products/miss-dior-essence-Y0000088.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-MISS-DIOR-ROSE-ESSENCE-UNI-FRA-202508-AW-REAC-SN-MOB-DKK-INS-Reach-Miss-Dior-Essence-67309&utm_content=MISS-DIOR-ROSE-ESSENCE-STATIC-AD-VISUAL-SFD-IMG-MPP-INS-Interest-STATIC-AD-VISUAL"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -744,8 +752,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "7b3b065e-0c33-486d-811d-15ee62688da4",
-        "name": "MISS-DIOR-ROSE-ESSENCE_CAROUSEL-COUTURE-PACK_MC_MIX_LEAR_MPP_INS_LAL-CAROUSEL-COUTURE-PACK_OSF000GLQL",
+        "id": "4a427331-cabf-4628-b523-931058cf93c2",
+        "name": "MISS-DIOR-ROSE-ESSENCE_CAROUSEL-OLFACTION_MC_MIX_LEAR_MPP_INS_LAL-CAROUSEL-OLFACTION_OSF000GLQM",
         "ad_account_name": "PCD_PC_DNK_EMEA_SOCIAL-SNAPCHAT_PML_DKK_LVMH_",
         "status": "ACTIVE",
         "creative_type": "COMPOSITE",
@@ -758,14 +766,14 @@
         "call_to_action": "MORE",
         "top_snap_crop_position": "MIDDLE",
         "start_date": "2025-09-01T06:00:25.000Z",
-        "impressions_total": 69410,
+        "impressions_total": 30398,
         "impressions_map": {
           "de": 0,
           "be": 0,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 69410,
+          "dk": 30398,
           "lt": 0,
           "lu": 0,
           "hr": 0,
@@ -815,10 +823,10 @@
               "call_to_action": "MORE",
               "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/E5G3HNHpdkgqlAZim2mC8.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qSv3ItflAxQGXLJxudNkA.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
               "brand_name": "DIOR",
               "web_view_preview": {
-                "url": "https://www.dior.com/en_dk/beauty/products/miss-dior-essence-Y0000088.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-MISS-DIOR-ROSE-ESSENCE-UNI-FRA-202508-CS-LPVI-SN-MOB-DKK-INS-Landing-page-view-Miss-Dior-Essence-67312&utm_content=MISS-DIOR-ROSE-ESSENCE-CAROUSEL-COUTURE-PACK-MC-MIX-MPP-INS-LAL-CAROUSEL-COUTURE-PACK"
+                "url": "https://www.dior.com/en_dk/beauty/products/miss-dior-essence-Y0000088.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-MISS-DIOR-ROSE-ESSENCE-UNI-FRA-202508-CS-LPVI-SN-MOB-DKK-INS-Landing-page-view-Miss-Dior-Essence-67312&utm_content=MISS-DIOR-ROSE-ESSENCE-CAROUSEL-OLFACTION-MC-MIX-MPP-INS-LAL-CAROUSEL-OLFACTION"
               }
             },
             {
@@ -828,10 +836,10 @@
               "call_to_action": "MORE",
               "top_snap_media_type": "IMAGE",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RZg4gxCFzUhgpDNl1id6H.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HoJxtHvHH4RUsLvivYzfQ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
               "brand_name": "DIOR",
               "web_view_preview": {
-                "url": "https://www.dior.com/en_dk/beauty/products/miss-dior-essence-Y0000088.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-MISS-DIOR-ROSE-ESSENCE-UNI-FRA-202508-CS-LPVI-SN-MOB-DKK-INS-Landing-page-view-Miss-Dior-Essence-67312&utm_content=MISS-DIOR-ROSE-ESSENCE-CAROUSEL-COUTURE-PACK-MC-MIX-MPP-INS-LAL-CAROUSEL-COUTURE-PACK"
+                "url": "https://www.dior.com/en_dk/beauty/products/miss-dior-essence-Y0000088.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-MISS-DIOR-ROSE-ESSENCE-UNI-FRA-202508-CS-LPVI-SN-MOB-DKK-INS-Landing-page-view-Miss-Dior-Essence-67312&utm_content=MISS-DIOR-ROSE-ESSENCE-CAROUSEL-OLFACTION-MC-MIX-MPP-INS-LAL-CAROUSEL-OLFACTION"
               }
             },
             {
@@ -841,10 +849,10 @@
               "call_to_action": "MORE",
               "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/jnmKfCf2k1kPLW7BBf7Ip.67?mo=GsACGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLwhDEicKJQjBvTAgATDgAzjUBkABShAKCzhOH4kBTztNiQEoEPQDUPAuaAIiAhIAogEuCLoKEiUKIwiOiicgATDQBTiACkACSg4KCS8_FWM-O0F0HhD0A1DwLmgCIgISAKIBLQh_EiUKIwi33x4gATDgAzjUBkACSg4KCRwuEWEzLyxFIhD0A1DwLmgCIgISAKIBLgiSChIlCiMIwMIfIAEw4AM41AZAAkoOCgkfLRRgNCoySCAQ9ANQ8C5oAiICEgCiAS4IxAoSJQojCMqyFiABMOADONYGQAJKDgoJGiINOCMiIEEUEPQDUPAuaAIiAhIAogEuCNIKEiUKIwjMtRYgATDgAzjUBkACSg4KCRkhDjgiIh9BFhD0A1DwLmgCIgISAJAD8C4%3D&uc=15",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gYBLr8rBwYj0wObhmdqWC.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI6YwtIAEw4AM41AZAAUoOCglOJjBDPVM4XUgQ9ANQmC9oAiIGCgJIBBIAogEyCLoKEiUKIwi08SggATDQBTiACkACSg4KCVoeKD4xRypTRhD0A1CYL2gCIgYKAkgCEgCiATEIfxIlCiMI_t0fIAEw4AM41AZAAkoOCgk6GB4vKTQnODkQ9ANQmC9oAiIGCgJIAhIAogEyCJIKEiUKIwihnSEgATDgAzjUBkACSg4KCTsaHjUoOSs_NxD0A1CYL2gCIgYKAkgCEgCiATIIxAoSJQojCN7WGSABMOADONYGQAJKDgoJLxUYJyAtGzcuEPQDUJgvaAIiBgoCSAISAKIBMgjSChIlCiMI3v8aIAEw4AM41AZAAkoOCgkyFhooITAdOi4Q9ANQmC9oAiIGCgJIAhIAkAOYLw%3D%3D&uc=15",
               "brand_name": "DIOR",
               "web_view_preview": {
-                "url": "https://www.dior.com/en_dk/beauty/products/miss-dior-essence-Y0000088.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-MISS-DIOR-ROSE-ESSENCE-UNI-FRA-202508-CS-LPVI-SN-MOB-DKK-INS-Landing-page-view-Miss-Dior-Essence-67312&utm_content=MISS-DIOR-ROSE-ESSENCE-CAROUSEL-COUTURE-PACK-MC-MIX-MPP-INS-LAL-CAROUSEL-COUTURE-PACK"
+                "url": "https://www.dior.com/en_dk/beauty/products/miss-dior-essence-Y0000088.html?utm_source=snapchat&utm_medium=paid-social&utm_campaign=PCD-PC-DNK-MISS-DIOR-ROSE-ESSENCE-UNI-FRA-202508-CS-LPVI-SN-MOB-DKK-INS-Landing-page-view-Miss-Dior-Essence-67312&utm_content=MISS-DIOR-ROSE-ESSENCE-CAROUSEL-OLFACTION-MC-MIX-MPP-INS-LAL-CAROUSEL-OLFACTION"
               }
             }
           ]

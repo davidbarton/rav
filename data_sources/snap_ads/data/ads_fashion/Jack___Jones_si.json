@@ -1,132 +1,58 @@
 {
   "brand": "Jack & Jones",
   "country": "si",
-  "fetched_at": "2026-04-09T19:26:13.576Z",
+  "fetched_at": "2026-04-10T07:37:51.606Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "27a875a7-6b37-42fb-97ac-e184ad35c9c1",
-        "name": "singlead_still_dna_ss-25_v5",
+        "id": "648242df-c8c6-4b7a-8310-881815e93890",
+        "name": "singlead_still_50%off-jeans_v2",
         "ad_account_name": "jack&jones ad account",
-        "status": "PAUSED",
+        "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "en"
         ],
-        "headline": "Dare to double denim.",
+        "headline": "Save 50% on your 2nd pair of jeans",
         "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WkP0kv80Hz1bduLw1ED7l.380?mo=GjsaFDIBBDoBfUIGCPvRmbwGSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
-        "start_date": "2024-11-04T10:29:11.000Z",
-        "impressions_total": 13785,
-        "impressions_map": {
-          "de": 453,
-          "be": 1229,
-          "fi": 683,
-          "pt": 914,
-          "bg": 1428,
-          "dk": 215,
-          "lt": 148,
-          "lu": 242,
-          "hr": 441,
-          "lv": 0,
-          "fr": 127,
-          "hu": 286,
-          "se": 1353,
-          "si": 617,
-          "sk": 48,
-          "ie": 655,
-          "ee": 0,
-          "el": 1523,
-          "mt": 0,
-          "it": 461,
-          "es": 525,
-          "at": 218,
-          "cy": 0,
-          "cz": 139,
-          "pl": 215,
-          "ro": 543,
-          "nl": 1322,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JACK & JONES OFFICIAL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com/redirect?category=jj-denim&utm_source=snap&utm_medium=paid"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c1b76ecc-51ca-42ce-b5eb-90cbfe27ebf5",
-        "name": "singlead_still_50%off-tops_v1",
-        "ad_account_name": "jack&jones ad account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Get 50% off the 2nd item.",
-        "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ul7TK0nYyqDFpKAM3vPCG.67?mo=Gr8CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwirgQcgATDgAzjUBkABSg4KCVMDAwQDBAMDBBD0A1CIJ2gCIgISAKIBLwi6ChImCiQIkOQOIAEw0AU4gApAAkoPCgrAAQUFBQYEBgUFEPQDUIgnaAIiAhIAogEtCH8SJQojCOexBSABMOADONQGQAJKDgoJNAQEBAQEBAQDEPQDUIgnaAIiAhIAogEuCJIKEiUKIwjznQUgATDgAzjUBkACSg4KCS4EBQQEBQQEBRD0A1CIJ2gCIgISAKIBLgjEChIlCiMIqP0HIAEw4AM41gZAAkoOCglkAwQDAwMDAwMQ9ANQiCdoAiICEgCiAS4I0goSJQojCPrlCCABMOADONQGQAJKDgoJcQMEAwMDAwQDEPQDUIgnaAIiAhIAkAOIJw%3D%3D&uc=15",
-        "start_date": "2025-09-07T22:00:00.000Z",
-        "impressions_total": 106456,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/pBVyiBb4er3d0g2IrJExX.67?mo=GtUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI5-cFIAEw4AM41AZAAUoOCgk_BAMEAwMEAwMQ9ANQiCdoAiIGCgJIAhIAogEzCLoKEiYKJAia0AsgATDQBTiACkACSg8KCo4BBAUGBQUFBQUQ9ANQiCdoAiIGCgJIAxIAogExCH8SJQojCJz4BCABMOADONQGQAJKDgoJLgMFAwQEAwQEEPQDUIgnaAIiBgoCSAISAKIBMgiSChIlCiMI-P0EIAEw4AM41AZAAkoOCgkrBAUEBAQEBAQQ9ANQiCdoAiIGCgJIAhIAogEyCMQKEiUKIwiPyAYgATDgAzjWBkACSg4KCU4DAwMDAwQDAxD0A1CIJ2gCIgYKAkgCEgCiATII0goSJQojCKLmBiABMOADONQGQAJKDgoJUgMDAwMDAwMDEPQDUIgnaAIiBgoCSAISAJADiCc%3D&uc=15",
+        "start_date": "2025-08-27T22:00:00.000Z",
+        "impressions_total": 164974,
         "impressions_map": {
-          "de": 6860,
-          "be": 9608,
-          "fi": 3992,
-          "pt": 2565,
-          "bg": 968,
-          "dk": 8003,
-          "lt": 665,
-          "lu": 942,
-          "hr": 3150,
+          "de": 12213,
+          "be": 19639,
+          "fi": 9769,
+          "pt": 6083,
+          "bg": 1875,
+          "dk": 11510,
+          "lt": 1528,
+          "lu": 1954,
+          "hr": 6727,
           "lv": 0,
-          "fr": 554,
-          "hu": 690,
-          "se": 23468,
-          "si": 2329,
-          "sk": 110,
-          "ie": 5232,
+          "fr": 842,
+          "hu": 1993,
+          "se": 41610,
+          "si": 4622,
+          "sk": 251,
+          "ie": 11482,
           "ee": 0,
-          "el": 4045,
+          "el": 9017,
           "mt": 0,
-          "it": 777,
-          "es": 1739,
-          "at": 2452,
+          "it": 2891,
+          "es": 6689,
+          "at": 4211,
           "cy": 0,
-          "cz": 479,
-          "pl": 1475,
-          "ro": 1243,
-          "nl": 25110,
+          "cz": 1713,
+          "pl": 4765,
+          "ro": 3590,
+          "nl": 0,
           "tr": 0
         },
         "targeting_v2": {
@@ -147,7 +73,7 @@
         "profile_name": "JACK & JONES OFFICIAL",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
         "web_view_properties": {
-          "url": "https://www.jackjones.com?category=jj-crm-3&medium=paid&utm_source=snap"
+          "url": "https://www.jackjones.com/redirect?cgid=jj-jeans&medium=paid&utm_source=snap"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -157,383 +83,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "4f2933ef-c50f-43ec-83b8-b25c41da61d0",
-        "name": "singlead_still_&outerwear_aw1_september_25_v1",
-        "ad_account_name": "JJXX",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Easy autumn outerwear.",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/adpGeKD7pNH4vFZhu5NUF.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-08-13T10:50:49.000Z",
-        "impressions_total": 37468,
-        "impressions_map": {
-          "de": 1162,
-          "be": 3074,
-          "fi": 699,
-          "pt": 1253,
-          "bg": 1169,
-          "dk": 2256,
-          "lt": 186,
-          "lu": 629,
-          "hr": 1646,
-          "lv": 0,
-          "fr": 64,
-          "hu": 501,
-          "se": 8591,
-          "si": 648,
-          "sk": 83,
-          "ie": 617,
-          "ee": 0,
-          "el": 3304,
-          "mt": 0,
-          "it": 999,
-          "es": 2613,
-          "at": 450,
-          "cy": 0,
-          "cz": 371,
-          "pl": 709,
-          "ro": 845,
-          "nl": 5599,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JJXX",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTUF1OFhBbHRuZ29SMHRKZkdZOEtEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com/redirect?category=jj-jjxx-outerwear&utm_source=snap&utm_medium=paid"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "9aa36c0d-f426-4334-98b9-cfaa4a86db91",
-        "name": "junior_still_50%off_black-month_v1",
-        "ad_account_name": "jack&jones ad account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Save up to 50% off Junior",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NrZoIqEsVeQPuDelDg5Ge.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-10-31T23:00:00.000Z",
-        "impressions_total": 238962,
-        "impressions_map": {
-          "de": 10816,
-          "be": 34530,
-          "fi": 6104,
-          "pt": 7213,
-          "bg": 6723,
-          "dk": 11813,
-          "lt": 2567,
-          "lu": 1879,
-          "hr": 16436,
-          "lv": 0,
-          "fr": 1457,
-          "hu": 3785,
-          "se": 29232,
-          "si": 8571,
-          "sk": 598,
-          "ie": 17430,
-          "ee": 0,
-          "el": 15176,
-          "mt": 0,
-          "it": 5636,
-          "es": 10746,
-          "at": 3633,
-          "cy": 0,
-          "cz": 1541,
-          "pl": 1953,
-          "ro": 5876,
-          "nl": 35247,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JACK & JONES OFFICIAL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com?category=jj-junior-sale&utm_source=snap&utm_medium=paid"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "7705e0c5-a7e7-41ba-8ad4-852724dfdc8e",
-        "name": "singlead_still_jeansguide_loose_ss-25",
-        "ad_account_name": "jack&jones ad account",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Slim fit.",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/ctsi6SVR5ieVXz9mHy3zw.380?mo=GjsaFDIBBDoBfUIGCICFt70GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
-        "start_date": "2024-11-04T10:29:11.000Z",
-        "impressions_total": 1266,
-        "impressions_map": {
-          "de": 29,
-          "be": 90,
-          "fi": 100,
-          "pt": 66,
-          "bg": 7,
-          "dk": 26,
-          "lt": 5,
-          "lu": 22,
-          "hr": 10,
-          "lv": 0,
-          "fr": 25,
-          "hu": 5,
-          "se": 388,
-          "si": 24,
-          "sk": 0,
-          "ie": 99,
-          "ee": 0,
-          "el": 73,
-          "mt": 0,
-          "it": 16,
-          "es": 74,
-          "at": 23,
-          "cy": 0,
-          "cz": 3,
-          "pl": 6,
-          "ro": 14,
-          "nl": 161,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JACK & JONES OFFICIAL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com/redirect?category=jj-jeans-loose&utm_source=snap&utm_medium=paid"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "32c5d6be-4faf-4cb6-949a-3c27d9d20981",
-        "name": "singlead_still_&overshirt_aw1_september_v2",
-        "ad_account_name": "jack&jones ad account",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Overshirts, always effortless.",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/As8VfNmlH3mpLUyQeeQ46.67?mo=GtcCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIxqQIIAEw4AM41AZAAUoOCglnAwQDAwQDBAMQ9ANQiCdoAiIGCgJIAhIAogEzCLoKEiYKJAj_mRMgATDQBTiACkACSg8KCocCBQUFBQUFBgQQ9ANQiCdoAiIGCgJIAxIAogExCH8SJQojCImdByABMOADONQGQAJKDgoJUgQEBAMEBAQEEPQDUIgnaAIiBgoCSAISAKIBMgiSChIlCiMIxIgHIAEw4AM41AZAAkoOCglLBQQFBAQEBQQQ9ANQiCdoAiIGCgJIAhIAogEzCMQKEiYKJAjSkgogATDgAzjWBkACSg8KCocBAwMDBAMDAwMQ9ANQiCdoAiIGCgJIAhIAogEzCNIKEiYKJAjmwAogATDgAzjUBkACSg8KCo0BAwMDAwMEAwMQ9ANQiCdoAiIGCgJIAhIAkAOIJw%3D%3D&uc=15",
-        "start_date": "2025-08-04T08:53:12.000Z",
-        "impressions_total": 128997,
-        "impressions_map": {
-          "de": 9779,
-          "be": 12832,
-          "fi": 4328,
-          "pt": 1919,
-          "bg": 1275,
-          "dk": 7004,
-          "lt": 883,
-          "lu": 1249,
-          "hr": 3885,
-          "lv": 0,
-          "fr": 1505,
-          "hu": 1192,
-          "se": 26124,
-          "si": 2473,
-          "sk": 182,
-          "ie": 9766,
-          "ee": 0,
-          "el": 6391,
-          "mt": 0,
-          "it": 1289,
-          "es": 2582,
-          "at": 2705,
-          "cy": 0,
-          "cz": 641,
-          "pl": 1443,
-          "ro": 1674,
-          "nl": 27876,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JACK & JONES OFFICIAL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com/redirect?category=jj-shirts-overshirts&utm_source=snap&utm_medium=paid"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "67086fff-d4ab-4d05-b78c-ff11fc78ad0a",
-        "name": "singlead_still_&overshirt_aw1_september_v1",
-        "ad_account_name": "jack&jones ad account",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en",
-          "fr"
-        ],
-        "headline": "Your layering essential.",
-        "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CEPnwjg9hDp7mwCmBvao8.67?mo=Gr8CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwiCxQcgATDgAzjUBkABSg4KCVsDBAMEAwMEAxD0A1CIJ2gCIgISAKIBLwi6ChImCiQI-qYSIAEw0AU4gApAAkoPCgr4AQUFBgUFBQUFEPQDUIgnaAIiAhIAogEtCH8SJQojCLKhBiABMOADONQGQAJKDgoJQgQEBAQEBAQDEPQDUIgnaAIiAhIAogEuCJIKEiUKIwj_kAYgATDgAzjUBkACSg4KCT0EBAUEBAQFBBD0A1CIJ2gCIgISAKIBLgjEChIlCiMIiZgJIAEw4AM41gZAAkoOCgl4AwMDAwMEAwMQ9ANQiCdoAiICEgCiAS4I0goSJQojCM_CCSABMOADONQGQAJKDgoJfQMDAwQDAwMDEPQDUIgnaAIiAhIAkAOIJw%3D%3D&uc=15",
-        "start_date": "2025-08-04T08:53:12.000Z",
-        "impressions_total": 97601,
-        "impressions_map": {
-          "de": 6314,
-          "be": 7336,
-          "fi": 2260,
-          "pt": 1879,
-          "bg": 456,
-          "dk": 4098,
-          "lt": 613,
-          "lu": 652,
-          "hr": 863,
-          "lv": 0,
-          "fr": 30851,
-          "hu": 403,
-          "se": 14797,
-          "si": 922,
-          "sk": 167,
-          "ie": 3113,
-          "ee": 0,
-          "el": 1631,
-          "mt": 0,
-          "it": 506,
-          "es": 1416,
-          "at": 1744,
-          "cy": 0,
-          "cz": 296,
-          "pl": 775,
-          "ro": 614,
-          "nl": 15895,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "JACK & JONES",
-        "profile_name": "JACK & JONES OFFICIAL",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://www.jackjones.com/redirect?category=jj-shirts&utm_source=snap&utm_medium=paid"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4957d3e6-1349-416e-843d-0ef9fbd89115",
-        "name": "jjxx_still_30%off-jackets",
+        "id": "74e5d5e7-c98a-4a0b-b5fe-59a6ef347435",
+        "name": "jjxx_video_30%off-jackets",
         "ad_account_name": "jack&jones ad account",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -544,39 +95,39 @@
         ],
         "headline": "Minimum 30% off selected jackets",
         "call_to_action": "ORDER NOW",
-        "top_snap_media_type": "IMAGE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/atPE4ht9Uzpd2IIEyBvDo.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/2zDwETNHb87Yg4dM3jsl1.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQiSpBwgATDgAzjUBkABSg4KCRsdOzk2KhcmKxD0A1DmKWgCdby4T0B9AACAPyIGCgJIAxIAogE8CLoKEi8KLQif9BggATDQBTiACkACSg4KCRgYLj0wICgdKxD0A1DmKWgCdS0uUkB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjEqRUgATDgAzjUBkACSg4KCRYbLiokJxQZJBD0A1DmKWgCddjXRkB9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjInREgATDgAzjUBkACSg4KCRQRHC4jFxEVIRD0A1DmKWgCdaLXSkB9AACAPyIGCgJIAhIAkAPmKQ%3D%3D&uc=15",
         "start_date": "2025-11-17T00:00:00.000Z",
-        "impressions_total": 38287,
+        "impressions_total": 7693,
         "impressions_map": {
-          "de": 1350,
-          "be": 4524,
-          "fi": 806,
-          "pt": 1008,
-          "bg": 627,
-          "dk": 1949,
-          "lt": 491,
-          "lu": 290,
-          "hr": 3654,
+          "de": 282,
+          "be": 700,
+          "fi": 162,
+          "pt": 146,
+          "bg": 182,
+          "dk": 399,
+          "lt": 85,
+          "lu": 58,
+          "hr": 882,
           "lv": 0,
-          "fr": 115,
-          "hu": 520,
-          "se": 3868,
-          "si": 1944,
-          "sk": 86,
-          "ie": 4078,
+          "fr": 43,
+          "hu": 118,
+          "se": 665,
+          "si": 370,
+          "sk": 20,
+          "ie": 761,
           "ee": 0,
-          "el": 3597,
+          "el": 725,
           "mt": 0,
-          "it": 1012,
-          "es": 1374,
-          "at": 523,
+          "it": 259,
+          "es": 334,
+          "at": 105,
           "cy": 0,
-          "cz": 256,
-          "pl": 628,
-          "ro": 1695,
-          "nl": 3892,
+          "cz": 63,
+          "pl": 51,
+          "ro": 375,
+          "nl": 908,
           "tr": 0
         },
         "targeting_v2": {
@@ -597,6 +148,241 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTUF1OFhBbHRuZ29SMHRKZkdZOEtEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
         "web_view_properties": {
           "url": "https://www.jackjones.com?category=jj-jjxx-sale-outerwear&utm_source=snap&utm_medium=paid"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "03b6f7c2-90f7-4fd9-89be-7e927b05e6f5",
+        "name": "singlead_still_tops-offer_jj_v1",
+        "ad_account_name": "jack&jones ad account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "TOPS. 50% OFF THE 2ND ITEM",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6vBgs0ftLuZDhlhWQGxZT.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-05-04T22:01:00.000Z",
+        "impressions_total": 96884,
+        "impressions_map": {
+          "de": 1817,
+          "be": 9951,
+          "fi": 2414,
+          "pt": 5025,
+          "bg": 3735,
+          "dk": 2413,
+          "lt": 1301,
+          "lu": 1778,
+          "hr": 3046,
+          "lv": 0,
+          "fr": 320,
+          "hu": 2163,
+          "se": 10611,
+          "si": 5816,
+          "sk": 331,
+          "ie": 6750,
+          "ee": 0,
+          "el": 9997,
+          "mt": 0,
+          "it": 1886,
+          "es": 7069,
+          "at": 1465,
+          "cy": 0,
+          "cz": 882,
+          "pl": 755,
+          "ro": 2554,
+          "nl": 14805,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JACK & JONES OFFICIAL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.jackjones.com/redirect?category=jj-crm-3&utm_source=snap&utm_medium=paid"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "7fd731da-1dc1-46a7-aa2d-8a4d7026d489",
+        "name": "singlead_video_inhouse_aw1_september_v3",
+        "ad_account_name": "jack&jones ad account",
+        "status": "PAUSED",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Teddy jacket for fall",
+        "call_to_action": "ORDER_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-08-04T08:53:12.000Z",
+        "impressions_total": 58208,
+        "impressions_map": {
+          "de": 4406,
+          "be": 6960,
+          "fi": 1920,
+          "pt": 1265,
+          "bg": 671,
+          "dk": 2511,
+          "lt": 305,
+          "lu": 950,
+          "hr": 1301,
+          "lv": 0,
+          "fr": 890,
+          "hu": 623,
+          "se": 11056,
+          "si": 1055,
+          "sk": 124,
+          "ie": 4135,
+          "ee": 0,
+          "el": 2381,
+          "mt": 0,
+          "it": 678,
+          "es": 1228,
+          "at": 1423,
+          "cy": 0,
+          "cz": 361,
+          "pl": 759,
+          "ro": 850,
+          "nl": 12356,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JACK & JONES OFFICIAL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "composite_preview": {
+          "should_loop": true,
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "headline": "Teddy jacket for fall",
+              "call_to_action": "ORDER_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KQx4yrYvBxIIu5XHLRvE6.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIsao_IAEw4AM41AZAAUoOCgleJTEuKj8uIjkQ9ANQ-EFoAiIGCgJIAxIAogEyCLoKEiUKIwjOhDUgATDQBTiACkACSg4KCVYfGTYhPCkhLRD0A1D4QWgCIgYKAkgCEgCiATEIfxIlCiMImeIyIAEw4AM41AZAAkoOCglMHikkIzwgHzAQ9ANQ-EFoAiIGCgJIAhIAogEyCJIKEiUKIwjIsTMgATDgAzjUBkACSg4KCU0eKScjPCEeLhD0A1D4QWgCIgYKAkgCEgCiATIIxAoSJQojCIK6ICABMOADONYGQAJKDgoJOBMUGBQkGhUbEPQDUPhBaAIiBgoCSAISAKIBMgjSChIlCiMIvNYhIAEw4AM41AZAAkoOCgk5FBYZFSUcFRwQ9ANQ-EFoAiIGCgJIAhIAkAP4QQ%3D%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://www.jackjones.com/redirect?category=jj-outerwear&utm_source=snap&utm_medium=paid"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "619778cf-dd59-4e31-9ceb-6acb8df2db86",
+        "name": "jjxx_still_50%-2nd_jeans-pants",
+        "ad_account_name": "jack&jones ad account",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Save 50% off the 2nd pair!",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/wtkKzJ1TPWvWlguytIkYQ.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-11-17T00:00:00.000Z",
+        "impressions_total": 21454,
+        "impressions_map": {
+          "de": 1059,
+          "be": 2767,
+          "fi": 393,
+          "pt": 464,
+          "bg": 245,
+          "dk": 1426,
+          "lt": 211,
+          "lu": 125,
+          "hr": 1710,
+          "lv": 0,
+          "fr": 77,
+          "hu": 281,
+          "se": 2368,
+          "si": 776,
+          "sk": 54,
+          "ie": 1639,
+          "ee": 0,
+          "el": 1533,
+          "mt": 0,
+          "it": 834,
+          "es": 840,
+          "at": 431,
+          "cy": 0,
+          "cz": 171,
+          "pl": 225,
+          "ro": 789,
+          "nl": 3036,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JJXX",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTUF1OFhBbHRuZ29SMHRKZkdZOEtEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.jackjones.com?category=jj-jjxx-campaigns-50jeanspants&utm_source=snap&utm_medium=paid"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -679,8 +465,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "46ba8561-4223-496f-95dd-1f54ca70c385",
-        "name": "singlead_still_&newseason_aw1-25_v1",
+        "id": "8ef76d15-ab1c-4d27-8e17-c847f0a71990",
+        "name": "singlead_still_swimshorts_v1_ss-25",
         "ad_account_name": "jack&jones ad account",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -689,41 +475,41 @@
         "languages": [
           "en"
         ],
-        "headline": "Shop new arrivals",
+        "headline": "Swinshorts for you.",
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/56ckEGSLSjobvg3Oa4cfd.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-08-04T08:53:12.000Z",
-        "impressions_total": 64239,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QaaI4JviHm876KpzGAjAB.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2024-11-04T10:29:11.000Z",
+        "impressions_total": 5664,
         "impressions_map": {
-          "de": 3807,
-          "be": 4449,
-          "fi": 4117,
-          "pt": 1841,
-          "bg": 889,
-          "dk": 4073,
-          "lt": 433,
-          "lu": 654,
-          "hr": 1794,
+          "de": 76,
+          "be": 120,
+          "fi": 253,
+          "pt": 358,
+          "bg": 232,
+          "dk": 25,
+          "lt": 62,
+          "lu": 151,
+          "hr": 170,
           "lv": 0,
-          "fr": 236,
-          "hu": 490,
-          "se": 12643,
-          "si": 1702,
-          "sk": 93,
-          "ie": 5483,
+          "fr": 43,
+          "hu": 151,
+          "se": 847,
+          "si": 534,
+          "sk": 15,
+          "ie": 710,
           "ee": 0,
-          "el": 3584,
+          "el": 459,
           "mt": 0,
-          "it": 685,
-          "es": 1623,
-          "at": 1322,
+          "it": 124,
+          "es": 338,
+          "at": 213,
           "cy": 0,
-          "cz": 391,
-          "pl": 1716,
-          "ro": 800,
-          "nl": 11414,
+          "cz": 44,
+          "pl": 78,
+          "ro": 100,
+          "nl": 561,
           "tr": 0
         },
         "targeting_v2": {
@@ -734,7 +520,6 @@
               "age_groups": [],
               "gender": "MALE",
               "languages": [],
-              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -743,8 +528,234 @@
         "paying_advertiser_name": "JACK & JONES",
         "profile_name": "JACK & JONES OFFICIAL",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "favorite_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://www.jackjones.com/redirect?cgid=jj-campaign-3&utm_medium=paid&utm_source=snap"
+          "url": "https://www.jackjones.com/redirect?category=jj-shorts-swim&utm_source=snap&utm_medium=paid"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "0538e2c2-fb2a-4763-8d70-7f1ac18e7f01",
+        "name": "singlead_video_inhouse_aw1_september_25_v1",
+        "ad_account_name": "JJXX",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Fitting room outfits with JJXX",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/la0Gg6EWOey41FMbrWQg4.67?mo=GtwCGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUI4MyZASABMOADONQGQAFKDgoJbzY2PTs5Ljg9EPQDUOqPAWgCIgYKAkgFEgCiATMIugoSJgokCJrHeCABMNAFOIAKQAJKDgoJdCkmMywpJC0uEPQDUOqPAWgCIgYKAkgDEgCiATIIfxImCiQI8tRkIAEw4AM41AZAAkoOCglRJSUrIiQaIygQ9ANQ6o8BaAIiBgoCSAISAKIBMwiSChImCiQI5c9nIAEw4AM41AZAAkoOCglSKCctJCYbJCkQ9ANQ6o8BaAIiBgoCSAISAKIBMwjEChImCiQI1sRNIAEw4AM41gZAAkoOCglLHBghHhsXHB8Q9ANQ6o8BaAIiBgoCSAISAKIBMwjSChImCiQIkPBPIAEw4AM41AZAAkoOCglNHhkiHxsXHSEQ9ANQ6o8BaAIiBgoCSAISAJAD6o8B&uc=15",
+        "start_date": "2025-08-13T10:50:49.000Z",
+        "impressions_total": 85783,
+        "impressions_map": {
+          "de": 2529,
+          "be": 5558,
+          "fi": 1020,
+          "pt": 2885,
+          "bg": 3473,
+          "dk": 7348,
+          "lt": 606,
+          "lu": 1212,
+          "hr": 4011,
+          "lv": 0,
+          "fr": 169,
+          "hu": 1142,
+          "se": 18323,
+          "si": 2067,
+          "sk": 210,
+          "ie": 2366,
+          "ee": 0,
+          "el": 8266,
+          "mt": 0,
+          "it": 2139,
+          "es": 5902,
+          "at": 1142,
+          "cy": 0,
+          "cz": 1211,
+          "pl": 1225,
+          "ro": 2040,
+          "nl": 10939,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JJXX",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTUF1OFhBbHRuZ29SMHRKZkdZOEtEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.jackjones.com/redirect?category=jj-jjxx-newarrivals&utm_source=snap&utm_medium=paid"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1c3a3c66-bf10-4aac-b3df-a7a199141173",
+        "name": "singlead_still_50%off-tops_v1",
+        "ad_account_name": "JJXX",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Get 50% off the 2nd item.",
+        "call_to_action": "ORDER NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/l0qJYiCVZHvGWnOSwHcdA.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-09-07T22:00:00.000Z",
+        "impressions_total": 104062,
+        "impressions_map": {
+          "de": 2057,
+          "be": 7478,
+          "fi": 1787,
+          "pt": 2936,
+          "bg": 5658,
+          "dk": 4089,
+          "lt": 1921,
+          "lu": 1430,
+          "hr": 10438,
+          "lv": 0,
+          "fr": 118,
+          "hu": 2038,
+          "se": 14824,
+          "si": 3811,
+          "sk": 295,
+          "ie": 2322,
+          "ee": 0,
+          "el": 13705,
+          "mt": 0,
+          "it": 3490,
+          "es": 4526,
+          "at": 1615,
+          "cy": 0,
+          "cz": 1744,
+          "pl": 2485,
+          "ro": 4566,
+          "nl": 10729,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JJXX",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTUF1OFhBbHRuZ29SMHRKZkdZOEtEP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.jackjones.com?category=jj-jjxx-campaigns-50tops&medium=paid&utm_source=snap"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "9e6af58d-e7e5-4e46-85ec-38fb44baa1f4",
+        "name": "singlead_still_jeansguide_relaxed_ss-25",
+        "ad_account_name": "jack&jones ad account",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Relaxed fit.",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GoJG8KfOZe0La5J1iHxrJ.380?mo=GjsaFDIBBDoBfUIGCICFt70GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+        "start_date": "2024-11-04T10:29:11.000Z",
+        "impressions_total": 216,
+        "impressions_map": {
+          "de": 4,
+          "be": 27,
+          "fi": 9,
+          "pt": 9,
+          "bg": 5,
+          "dk": 4,
+          "lt": 0,
+          "lu": 3,
+          "hr": 3,
+          "lv": 0,
+          "fr": 7,
+          "hu": 0,
+          "se": 51,
+          "si": 3,
+          "sk": 0,
+          "ie": 16,
+          "ee": 0,
+          "el": 14,
+          "mt": 0,
+          "it": 9,
+          "es": 20,
+          "at": 6,
+          "cy": 0,
+          "cz": 1,
+          "pl": 1,
+          "ro": 1,
+          "nl": 23,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "JACK & JONES",
+        "profile_name": "JACK & JONES OFFICIAL",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUDFucjN6TlVVUTJSVWlVb1hFb09GP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://www.jackjones.com/redirect?category=jj-jeans-relaxed&utm_source=snap&utm_medium=paid"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

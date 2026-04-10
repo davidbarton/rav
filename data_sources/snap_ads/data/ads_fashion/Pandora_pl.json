@@ -1,162 +1,10 @@
 {
   "brand": "Pandora",
   "country": "pl",
-  "fetched_at": "2026-04-09T21:46:35.349Z",
+  "fetched_at": "2026-04-10T08:01:45.649Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "f9349a93-308c-468e-9c79-bb9687b82850",
-        "name": "PAND2_AWARENESS_BBL_BELOVEHOLIDAY_REACH_BROAD_18-54_PL_IMAGEAD_COLL_FULLJEWELRYBRAND_X_MIXED_2025Q4G;PLATFORM;HOLIDAY;GO_HOLIDAYVIDEO3-23-OCT-31-DEC",
-        "ad_account_name": "Pandora Poland",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "pl"
-        ],
-        "headline": "Prezenty, które błyszczą w Pandora",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/PQJHif7VINU2XVSZyafNX.67?mo=GpMCGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0Iic43IAEw4AM41AZAAUoOCglBJS8qRiwYGBwQ9ANQ8GBoAnWQ0WJAfQAAgD8iBgoCSAISAKIBPAi6ChIvCi0IyKAvIAEw0AU4gApAAkoOCglQHyEePCkQExsQ9ANQ8GBoAnVi9mtAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0Iy_ciIAEw4AM41AZAAkoOCgksFh0fLicXDhEQ9ANQ8GBoAnWmx1FAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IhZIfIAEw4AM41AZAAkoOCgk0FBUSIxkMDhIQ9ANQ8GBoAnXSQmFAfQAAgD8iBgoCSAISAJAD8GA%3D&uc=15",
-        "start_date": "2025-10-24T11:15:55.000Z",
-        "impressions_total": 4184614,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 4184614,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Pandora A/S",
-        "brand_name": "Pandora",
-        "profile_name": "The Official Pandora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://pl.pandora.net/pl/prezenty/okazja/swieta?cid=socp:snapchat::fulljewelrybrand:upperfunnel:promo:::::::mixed::::snap_awa_holiday_video"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "6bcab783-1a7c-4ab4-8610-874a7fe39ee3",
-        "name": "PAND3_AWARENESS_BBL_BELOVE_VIDEOAD_STANDARD_FULLJEWELRYBRAND_MIXED_2026Q2;GENERIC;PLATFORM;BRAND_BELOVEVIDEO2_01-APR-26-APR",
-        "ad_account_name": "Pandora Poland",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "pl"
-        ],
-        "headline": "Be Love ❤️ Pandora",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mdZrDW9I71fyF0itzMloq.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi8hh4gATDgAzjUBkABSg4KCTUhGSodGRUSExD0A1CQTmgCdQgoZ0AiBgoCSAQSAKIBNwi6ChIqCigI55EgIAEw0AU4gApAAkoOCgk9GiY1JyMaEQ8Q9ANQkE5oAnUmVmlAIgYKAkgCEgCiATwIkgoSLwotCOGLFiABMOADONQGQAJKDgoJKhgWGxYTDQ8OEPQDUJBOaAJ1ciRXQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCOfOFSABMOADONQGQAJKDgoJLhAQJhkWEgsLEPQDUJBOaAJ12dFeQH0AAIA_IgYKAkgCEgCQA5BO&uc=15",
-        "start_date": "2026-03-31T22:01:00.000Z",
-        "impressions_total": 200745,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 200745,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Pandora A/S",
-        "brand_name": "Pandora",
-        "profile_name": "The Official Pandora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://pl.pandora.net/?cid=socp:snapchat::fulljewelrybrand:upperfunnel:no_promo:::::::mixed::::snap_awa_belove_feed&ttclid=__CLICKID__"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -236,21 +84,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "72adab10-4b79-472d-b5b9-abd4209e14c3",
-        "name": "PAND2_PURCHASE_FGSS_BLACKFRIDAY_PURCHASE_BROAD_18-54_PL_VIDEOAD_COLL_FULLJEWELRYBRAND_PROMO_MIXED_2025Q4G;PROMOTION;BF;LO_BLACKFRIDAYVIDEO1-21-NOV-01-DEC",
+        "id": "b7cdebc7-fd3e-404a-999d-45ba49a34e01",
+        "name": "PAND2_AWARENESS_BBL_CAMPAIGN1_REACH_BROAD_18-54_PL_VIDEOAD_COLLECTION_FULLJEWELRYBRAND_X_MIXED_NA;NA;NA_VIDEO4MD",
         "ad_account_name": "Pandora Poland",
         "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Pandora Black Friday: rabat 25%",
-        "call_to_action": "SHOP_NOW",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "pl"
+        ],
+        "headline": "Dla Mamy. Z miłością. ❤️",
+        "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1fyJ9gjLXnKsyT8yRwdxZ.67?mo=GocCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE3CEMSLwotCJysBCABMOADONQGQAFKDgoJEwkIBwQDAwQDEPQDUPAuaAJ1rj95QH0AAIA_IgISAKIBOAi6ChIvCi0ImZUGIAEw0AU4gApAAkoOCgkYDAgOBgUFBgQQ9ANQ8C5oAnWGT39AfQAAgD8iAhIAogE4CJIKEi8KLQiB2AQgATDgAzjUBkACSg4KCRIKBgwEAwQDBBD0A1DwLmgCdVRMeUB9AACAPyICEgCiATgI0goSLwotCK-oBCABMOADONQGQAJKDgoJEgkGCwQDAwQDEPQDUPAuaAJ1Lp19QH0AAIA_IgISAJAD8C4%3D&uc=15",
-        "start_date": "2025-11-20T23:01:00.000Z",
-        "impressions_total": 213865,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/f62Xso99dT6RqQtoFuKUB.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIvOQOIAFKDgoJIhAYGBUUGyIVEPQDaAIiBgoCSAQSAKIBJwi6ChIaChgI8dkOIAFKDgoJIg0bGBkSGhwREPQDaAIiBgoCSAISAKIBJgh_EhoKGAj_yAogAUoOCgkaChASDw4SFw4Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAiq7gogAUoOCgkaCxEREA8SGA4Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAi5yAkgAUoOCgkZCRAODgwUEgsQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-04-27T22:01:00.000Z",
+        "impressions_total": 1150809,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -276,7 +126,81 @@
           "at": 0,
           "cy": 0,
           "cz": 0,
-          "pl": 213865,
+          "pl": 1150809,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Pandora A/S",
+        "brand_name": "Pandora",
+        "profile_name": "The Official Pandora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://pl.pandora.net/pl/prezenty/okazja/dzien-matki/?cid=socp:pinterest::fulljewelrybrand:upperfunnel:no_promo:::::::mixed::::snap_awa_mdbelove_video"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2aa05a8c-4a43-4f67-913a-be6613df074b",
+        "name": "PAND2_PURCHASE_FGSS_LOCALPROMO3X2_PURCHASE_BROAD_18-54_PL_VIDEOAD_COLL_FULLJEWELRYBRAND_PROMO_MIXED_2025Q4G;PROMOTION;PROMO;LO_3X2PROMOVIDEO2-02-DEC-14-DEC",
+        "ad_account_name": "Pandora Poland",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Świąteczne 3 za 2 w Pandora 🎁",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/d2SFwTfVhzxJ58NVIT2nJ.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjKjgogATDgAzjUBkABSg4KCTEDAwQDPwIEAxD0A1DwLmgCdbTegkAiBgoCSAQSAKIBNwi6ChIqCigIqvQOIAEw0AU4gApAAkoOCglgBQUFBUEIBgQQ9ANQ8C5oAnUsLoNAIgYKAkgDEgCiATwIkgoSLwotCOfSBiABMOADONQGQAJKDgoJHgMEBAQhBAMEEPQDUPAuaAJ1Iup6QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCNqOCCABMOADONQGQAJKDgoJMwMDAwMjBgMDEPQDUPAuaAJ1PEp9QH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
+        "start_date": "2025-12-02T12:30:00.000Z",
+        "impressions_total": 175224,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 175224,
           "ro": 0,
           "nl": 0,
           "tr": 0
@@ -300,7 +224,7 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "collection_preview": {
           "web_view_properties": {
-            "url": "https://pl.pandora.net/pl/bizuteria/blackfriday?cid=socp:snapchat::fulljewelrybrand:lowerfunnel:promo:::::::mixed::::snap_conv_bf_video&ttclid=__CLICKID__"
+            "url": "https://pl.pandora.net/pl/bizuteria/oferty?cid=socp:snapchat::fulljewelrybrand:lowerfunnel:promo:::::::mixed::::snap_conv_xmas_feed&ttclid=__CLICKID__"
           },
           "collection_creative_element_attachment": [
             {
@@ -673,6 +597,237 @@
           "template": {},
           "dynamic_template": {},
           "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "1803e844-617b-4550-882a-43cf08834964",
+        "name": "PAND3_AWARENESS_BE_BRIDGERTON_VIDEOAD_STANDARD_FULLJEWELRYBRAND_MIXED_2026Q1A;COLLECTION;OTHERCOLLAB;GOLO_BRIDGERTONVIDEO1_15-FEB-31-MAR",
+        "ad_account_name": "Pandora Poland",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "pl"
+        ],
+        "headline": "Kochaj na własnych zasadach 🎀",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/e31ZB8I7Pb3j4aEXD3Qmw.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAi1tDcgATDgAzjUBkABSg4KCS0bGBwLCxMaERD0A1CYdWgCdTMFYkAiBgoCSAQSAKIBNwi6ChIqCigI67AtIAEw0AU4gApAAkoOCgkkEg8ZCAcOGBEQ9ANQmHVoAnUc2GlAIgYKAkgCEgCiATwIkgoSLwotCKzlISABMOADONQGQAJKDgoJHhINDgYHCRINEPQDUJh1aAJ1tlFMQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCMqoICABMOADONQGQAJKDgoJHw0LEgYFCg8NEPQDUJh1aAJ1LcpgQH0AAIA_IgYKAkgCEgCQA5h1&uc=15",
+        "start_date": "2026-02-14T23:01:00.000Z",
+        "impressions_total": 659657,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 659657,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Pandora A/S",
+        "brand_name": "Pandora",
+        "profile_name": "The Official Pandora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://pl.pandora.net/pl/kolekcje/bridgerton-x-pandora/?cid=socp:snapchat::fulljewelrybrand:upperfunnel:no_promo:::::::mixed::::snap_awa_bridgerton_video"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "d579417e-6624-44c5-8003-e4dab2d407e1",
+        "name": "PAND2_AWARENESS_BBL_COINS-PANDORATALISMAN_REACH_BROAD_18-54_PL_LENSAD_COLL_PANDORAME_X_CHARMS_NA;NA;NA_TALISMANARLENS-10-SEP-30-SEP",
+        "ad_account_name": "Pandora Poland",
+        "status": "ACTIVE",
+        "creative_type": "LENS_WEB_VIEW",
+        "ad_type": "LENS_REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "pl"
+        ],
+        "headline": "The Official Pandora",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "LENS_PACKAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://storage.googleapis.com/community-lens/lens-packages/cea90931-1661-447b-8214-e3ccd0dcadcc.lens",
+        "start_date": "2025-09-09T22:01:00.000Z",
+        "impressions_total": 6914989,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 6914989,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Pandora A/S",
+        "profile_name": "The Official Pandora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://pl.pandora.net/pl/kolekcje/pandora-me/?discover=true"
+        },
+        "lens_preview": {
+          "icon_url": "https://bolt-gcdn.sc-cdn.net/3/U63Qmj1jOEAE4RM2nJR66?bo=EhQyAX06AQRCBgiBu-DFBkgCUBJgAQ%3D%3D&uc=18",
+          "preview_video_url": "https://community-lens.storage.googleapis.com/preview-media/final/a150d610-2180-46a2-b65d-14eaa460dc21.mp4",
+          "preview_image_url": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_image/a150d610-2180-46a2-b65d-14eaa460dc21.webp"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ef145ec9-414d-4a96-8423-cd5a24e88d78",
+        "name": "PAND2_AWARENESS_BBL_CAMPAIGN1_REACH_BROAD_18-54_PL_VIDEOAD_COLLECTION_FULLJEWELRYBRAND_X_MIXED_NA;NA;NA_VIDEO2MD",
+        "ad_account_name": "Pandora Poland",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "pl"
+        ],
+        "headline": "Dla Mamy. Z miłością. ❤️",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3v0zQO6olBaSqjNKmSzO5.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAjd4BggAUoOCglJMzItIyETOBkQ9ANoAiICEgCiASMIugoSGgoYCLm0GCABSg4KCVslMisfGRAxIhD0A2gCIgISAKIBIgh_EhoKGAi8oxAgAUoOCgkwHh8aGxYNIxIQ9ANoAiICEgCiASMIkgoSGgoYCKXIECABSg4KCTEdHSAcFg4hEhD0A2gCIgISAKIBIwjEChIaChgI4qsQIAFKDgoJPBoiHBURCyEXEPQDaAIiAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-04-27T22:01:00.000Z",
+        "impressions_total": 1132761,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 1132761,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Pandora A/S",
+        "brand_name": "Pandora",
+        "profile_name": "The Official Pandora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://pl.pandora.net/pl/prezenty/okazja/dzien-matki/?cid=socp:pinterest::fulljewelrybrand:upperfunnel:no_promo:::::::mixed::::snap_awa_mdbelove_video"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -1144,7 +1299,7 @@
         "top_snap_crop_position": "MIDDLE",
         "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/uhq56dQWVCtNobKXQJKT3.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAia5BAgATDgAzjUBkABSg4KCSoiGxwUGg0gGxD0A1DwLmgCdU3OY0AiBgoCSAISAKIBNwi6ChIqCigI1LUSIAEw0AU4gApAAkoOCgkmLBYYGh4jGB0Q9ANQ8C5oAnWfz2xAIgYKAkgDEgCiATwIkgoSLwotCJW6CyABMOADONQGQAJKDgoJIBYVEAsTCRMREPQDUPAuaAJ1cltXQH0AAIA_IgYKAkgCEgCiATwI0goSLwotCOaqCyABMOADONQGQAJKDgoJHhQQEBISDRAUEPQDUPAuaAJ1CuxfQH0AAIA_IgYKAkgCEgCQA_Au&uc=15",
         "start_date": "2026-03-31T22:01:00.000Z",
-        "impressions_total": 210398,
+        "impressions_total": 251101,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -1170,7 +1325,7 @@
           "at": 0,
           "cy": 0,
           "cz": 0,
-          "pl": 210398,
+          "pl": 251101,
           "ro": 0,
           "nl": 0,
           "tr": 0
@@ -1204,8 +1359,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b6bfc899-3381-45ef-aea3-267a69dbaa7a",
-        "name": "PAND2_ACTIVE_FGSS_CAMPAIGN2_COSTPERVIEWCONTENT_BROAD_18-54_PL_VIDEOAD_COLLECTION_FULLJEWELRYBRAND_PROMO_MIXED_ER;ER;ER_MDBOGO",
+        "id": "f9349a93-308c-468e-9c79-bb9687b82850",
+        "name": "PAND2_AWARENESS_BBL_BELOVEHOLIDAY_REACH_BROAD_18-54_PL_IMAGEAD_COLL_FULLJEWELRYBRAND_X_MIXED_2025Q4G;PLATFORM;HOLIDAY;GO_HOLIDAYVIDEO3-23-OCT-31-DEC",
         "ad_account_name": "Pandora Poland",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -1214,611 +1369,13 @@
         "languages": [
           "pl"
         ],
-        "headline": "Drugi produkt 50% taniej!",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Gwk8NDWXXBw9mlUg7ZTZM.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI3q4FIAFKDgoJFAQDAwMfAwMEEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIzKgIIAFKDgoJHQUFBTMFBQYEEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAiS8gQgAUoOCgkTAwQEAxYDBAMQ9ANoAiIGCgJIAhIAogEnCJIKEhoKGAifhgUgAUoOCgkTBAQEBBYDBAQQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAjNmgUgAUoOCgkWAwMDHQMDAwMQ9ANoAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-04-27T22:01:00.000Z",
-        "impressions_total": 237923,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 237923,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Pandora A/S",
-        "brand_name": "Pandora",
-        "profile_name": "The Official Pandora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://pl.pandora.net/pl/bizuteria/?cid=socp:pinterest::fulljewelrybrand:midfunnel:promo:::::::mixed::::snap_cons_mdbogo_video#shop"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ef145ec9-414d-4a96-8423-cd5a24e88d78",
-        "name": "PAND2_AWARENESS_BBL_CAMPAIGN1_REACH_BROAD_18-54_PL_VIDEOAD_COLLECTION_FULLJEWELRYBRAND_X_MIXED_NA;NA;NA_VIDEO2MD",
-        "ad_account_name": "Pandora Poland",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "pl"
-        ],
-        "headline": "Dla Mamy. Z miłością. ❤️",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3v0zQO6olBaSqjNKmSzO5.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAjd4BggAUoOCglJMzItIyETOBkQ9ANoAiICEgCiASMIugoSGgoYCLm0GCABSg4KCVslMisfGRAxIhD0A2gCIgISAKIBIgh_EhoKGAi8oxAgAUoOCgkwHh8aGxYNIxIQ9ANoAiICEgCiASMIkgoSGgoYCKXIECABSg4KCTEdHSAcFg4hEhD0A2gCIgISAKIBIwjEChIaChgI4qsQIAFKDgoJPBoiHBURCyEXEPQDaAIiAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-04-27T22:01:00.000Z",
-        "impressions_total": 1132761,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 1132761,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Pandora A/S",
-        "brand_name": "Pandora",
-        "profile_name": "The Official Pandora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://pl.pandora.net/pl/prezenty/okazja/dzien-matki/?cid=socp:pinterest::fulljewelrybrand:upperfunnel:no_promo:::::::mixed::::snap_awa_mdbelove_video"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "17b7d9fd-ee47-4da8-8411-3b93e0c7a2a5",
-        "name": "PAND2_PURCHASE_FGSS_BLACKFRIDAY_PURCHASE_BROAD_18-54_PL_VIDEOAD_COLL_FULLJEWELRYBRAND_PROMO_MIXED_2025Q4G;PROMOTION;BF;LO_BLACKFRIDAYVIDEO2-21-NOV-01-DEC",
-        "ad_account_name": "Pandora Poland",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Black Friday już w Pandora! -25%",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1fyJ9gjLXnKsyT8yRwdxZ.67?mo=GocCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE3CEMSLwotCJysBCABMOADONQGQAFKDgoJEwkIBwQDAwQDEPQDUPAuaAJ1rj95QH0AAIA_IgISAKIBOAi6ChIvCi0ImZUGIAEw0AU4gApAAkoOCgkYDAgOBgUFBgQQ9ANQ8C5oAnWGT39AfQAAgD8iAhIAogE4CJIKEi8KLQiB2AQgATDgAzjUBkACSg4KCRIKBgwEAwQDBBD0A1DwLmgCdVRMeUB9AACAPyICEgCiATgI0goSLwotCK-oBCABMOADONQGQAJKDgoJEgkGCwQDAwQDEPQDUPAuaAJ1Lp19QH0AAIA_IgISAJAD8C4%3D&uc=15",
-        "start_date": "2025-11-20T23:01:00.000Z",
-        "impressions_total": 166556,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 166556,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Pandora A/S",
-        "brand_name": "Pandora",
-        "profile_name": "The Official Pandora",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://pl.pandora.net/pl/bizuteria/blackfriday?cid=socp:snapchat::fulljewelrybrand:lowerfunnel:promo:::::::mixed::::snap_conv_bf_video&ttclid=__CLICKID__"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            }
-          ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/NDEdUhaNEOWoCC7eXCOdU.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2hqW4rWxHCR5GFu5Ljoef.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Złóż wyjątkowe życzenia urodzinowe za pomocą naszej ręcznie wykonanej ze srebra, radosnej zawieszki w kształcie balonów-serc. Precyzyjnie uformowane serca zostały ozdobione ręcznie nakładaną emalią oraz grawerem „Happy Bday”. Uchwyt został wykończony cyrkoniami sześciennymi, aby nadać mu urodzinowego blasku. Noś ją jako pamiątkę wyjątkowego dnia lub podaruj solenizantce. - Pandora Zawieszka Balony na urodziny - Emalia / Srebro / Cyrkonia sześcienna",
-              "brand": "Pandora",
-              "custom_label_0": "",
-              "custom_label_1": "Sale",
-              "custom_label_2": "",
-              "custom_label_3": "Charms",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Różowy"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Strona główna > Charmsy > Kategoria > Zawieszki"
-              ],
-              "size": "one size",
-              "title": "Pandora Zawieszka Balony na urodziny - Emalia / Srebro / Cyrkonia sześcienna",
-              "link": "https://pl.pandora.net/pl/charmsy/zawieszki/zawieszka-balony-na-urodziny/798076CZ.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/ltBT1QZX8U3X2gjtvBse7.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/oLCYOLDcH5OqBLxW8QMvI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Pieczołowicie kolekcjonujesz charmsy, którymi wyrażasz swoją naturę, a więc upewnij się, że są one bezpieczne na Twojej bransoletce, dzięki temu łańcuszkowi zabezpieczającemu. Wykonany ze srebra łańcuszek został jedynie minimalnie ozdobiony wypukłymi sercami i efektem granulacji. Obrotowe końcówki zapobiegają splątaniu zdobionego kamieniami łańcuszka. Nawlecz jeden koniec na bransoletkę Pandora Moments przed przyczepieniem charmsów, a gdy wszystkie charmsy znajdą się już na swoim miejscu, nawlecz drugi koniec łańcuszka zabezpieczającego. - Pandora Łańcuszek zabezpieczający z motywem wypukłych serc - Srebro / Cyrkonia sześcienna - Sz. 40 mm",
-              "brand": "Pandora",
-              "custom_label_0": "",
-              "custom_label_1": "Sale",
-              "custom_label_2": "",
-              "custom_label_3": "Charms",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "Przezroczysty"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Strona główna > Charmsy > Kategoria > Łańcuszki zabezpieczające"
-              ],
-              "size": "40 mm",
-              "title": "Pandora Łańcuszek zabezpieczający z motywem wypukłych serc - Srebro / Cyrkonia sześcienna - Sz. 40 mm",
-              "link": "https://pl.pandora.net/pl/charmsy/lancuszki-zabezpieczajace/lancuszek-zabezpieczajacy-z-motywem-wypuklych-serc/796457CZ.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/OT8X6hlyvzz3aH9DZEhsm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Vm6U13uO46XtHruNr2u2u.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Dodaj odrobinę charakteru – bransoletka z zawieszką przedstawiającą znak Lwa, symbol siły i pewności siebie. - Pandora Zestaw Bransoletka ze znakiem zodiaku Lew - Srebro",
-              "brand": "Pandora",
-              "custom_label_0": "",
-              "custom_label_1": "Sale",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Multicolor"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Strona główna > Product exclusions"
-              ],
-              "size": "one size",
-              "title": "Pandora Zestaw Bransoletka ze znakiem zodiaku Lew - Srebro",
-              "link": "https://pl.pandora.net/pl/product-exclusions/zestaw-bransoletka-ze-znakiem-zodiaku-lew/B8220703.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/nJf2qTuEiLTunqGwHpkyw.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/jXr8Wac8Iy3wckxbrWPUA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Urozmaić swoją kolekcję biżuterii przebłyskiem różu. Powierzchnia opalu syntetycznego mieni się blaskiem wielobarwnych drobinek i pasm, które odbijają światło. Charms symbolizujący piękno i różnorodność przyjaźni wniesie do Twoich stylizacji bogactwo znaczeń. - Pandora Charms Opalizujący róż - Srebro / Opal syntetyczny",
-              "brand": "Pandora",
-              "custom_label_0": "",
-              "custom_label_1": "Sale",
-              "custom_label_2": "",
-              "custom_label_3": "Charms",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Różowy"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Strona główna > Charmsy"
-              ],
-              "size": "one size",
-              "title": "Pandora Charms Opalizujący róż - Srebro / Opal syntetyczny",
-              "link": "https://pl.pandora.net/pl/charmsy/charms-opalizujacy-roz/791691C03.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/1B9WjH3MkJEZrbwnmX2vw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/sY6qkdYCiDpmTL5l1R0Yr.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Zestaw prezentowy składa się ze ściąganej bransoletki o splocie wężykowym oraz charmsa Zodiak Lśniące Ryby. Ryby mają ogromną intuicję oraz talenty artystyczne, wyróżnia je też niezwykła empatia. To wspaniały prezent dla Ciebie lub bliskiej kobiety spod znaku Ryb. - Pandora Zestaw Bransoletka ze znakiem zodiaku Ryby - Srebro",
-              "brand": "Pandora",
-              "custom_label_0": "",
-              "custom_label_1": "Sale",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Multicolor"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Strona główna > Product exclusions"
-              ],
-              "size": "one size",
-              "title": "Pandora Zestaw Bransoletka ze znakiem zodiaku Ryby - Srebro",
-              "link": "https://pl.pandora.net/pl/product-exclusions/zestaw-bransoletka-ze-znakiem-zodiaku-ryby/B8220203.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/SzvlGpCiZsLusAvUaE2qX.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/JITXfhVB8UbJa2hgTlzBN.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Oto jeszcze więcej sposobów noszenia charmsów. Nasza bransoletka o splocie ćwiekowym ma unikalną teksturę, która doda głębi i wymiaru Twojej stylizacji, a zamknięcie na karabińczyk zapewnia bezpieczne noszenie. - Pandora Bransoletka o splocie ćwiekowym z zapięciem karabińczykowym - Srebro - Sz. 20 cm",
-              "brand": "Pandora",
-              "custom_label_0": "",
-              "custom_label_1": "Sale",
-              "custom_label_2": "",
-              "custom_label_3": "Bracelets",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "Brak koloru"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Strona główna > Bransoletki > Kategoria > Bransoletki łańcuszkowe"
-              ],
-              "size": "20 cm",
-              "title": "Pandora Bransoletka o splocie ćwiekowym z zapięciem karabińczykowym - Srebro - Sz. 20 cm",
-              "link": "https://pl.pandora.net/pl/bransoletki/bransoletki-lancuszkowe/bransoletka-o-splocie-cwiekowym-z-zapieciem-karabinczykowym/593681C00.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/8YnSGvRb8gS69zcNp4i8s.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/sChRELN8NjoWmwmDr8GaH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Zainspirowany nieprzemijającym pięknem natury. Jeden kamień o szlifie łezka wygląda jak płatek oderwany od kwiatu okolonego płatkami z ułożonych naprzemiennie kamieni o szlifie łezka i markiza. Pośrodku tej mozaiki na otwartej obrączce lśni jeden okrągły kamień. - Pandora Otwarty lśniący pierścionek ze zbiorem roślin - Srebro / Cyrkonia sześcienna - Sz. 48",
-              "brand": "Pandora",
-              "custom_label_0": "",
-              "custom_label_1": "Sale",
-              "custom_label_2": "",
-              "custom_label_3": "Rings",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "Przezroczysty"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Strona główna > Pierścionki > Kategoria > Pierścionki z kamieniami"
-              ],
-              "size": "48",
-              "title": "Pandora Otwarty lśniący pierścionek ze zbiorem roślin - Srebro / Cyrkonia sześcienna - Sz. 48",
-              "link": "https://pl.pandora.net/pl/pierscionki/pierscionki-z-kamieniami/otwarty-lsniacy-pierscionek-ze-zbiorem-roslin/192611C01.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/Sur9ISs9Othvfo3IseVtj.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Xrge3TRZbnBc2mEtjyKmI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Niech Twoja miłość do czworonożnego przyjaciela błyszczy na charmsie Pies i kość. Wykonana ze srebra ozdoba w stylu retro została ozdobiona wygrawerowanymi liniami oraz lśniącą mozaiką pavé na zawieszce w kształcie kości. Noś go na bransoletce lub uchwycie na charmsy, aby pokazać, że Twój zwierzak zajmuje szczególne miejsce w Twoim sercu. - Pandora Charms Pies i kość - Srebro / Cyrkonia sześcienna",
-              "brand": "Pandora",
-              "custom_label_0": "",
-              "custom_label_1": "Sale",
-              "custom_label_2": "",
-              "custom_label_3": "Charms",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Przezroczysty"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Strona główna > Charmsy > Kategoria > Charmsy"
-              ],
-              "size": "one size",
-              "title": "Pandora Charms Pies i kość - Srebro / Cyrkonia sześcienna",
-              "link": "https://pl.pandora.net/pl/charmsy-i-bransoletki/charmsy/charmsy/charms-pies-i-kosc/792254C01.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/uphn3JaNLCP45RRZ5cms7.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ZpJnxf7hsq4A3qKjadjmM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Zaznacz swoją obecność dzięki olśniewającej nausznicy, która celebruje indywidualność i wyrażanie siebie. Jej wyjątkowe wzornictwo doda wyrafinowania każdej stylizacji. - Pandora Nausznica o delikatnym splocie, Platerowanie z 14k złota - Platerowanie z 14k złota",
-              "brand": "Pandora",
-              "custom_label_0": "",
-              "custom_label_1": "Sale",
-              "custom_label_2": "",
-              "custom_label_3": "Earrings",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "OUT OF STOCK",
-              "color": [
-                "Brak koloru"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Strona główna > Kolczyki > Kategoria > Kolczyki koła"
-              ],
-              "size": "one size",
-              "title": "Pandora Nausznica o delikatnym splocie, Platerowanie z 14k złota - Platerowanie z 14k złota",
-              "link": "https://pl.pandora.net/pl/kolczyki/kolczyki-kola/nausznica-o-delikatnym-splocie%2C-platerowanie-z-14k-zlota/263872C00.html"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/j7tystekQzRA1qzlnHcFA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/FuW9sIdZ5zlQ44XnLIUYJ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Spersonalizuj swoją historię charmsem z literą K - to piękny symbol wyrażania siebie. Ten efektowny charms muśnie Twoje stylizacje szczyptą elegancji. - Pandora Charms Alfabet Litera K - Platerowanie z 14k złota",
-              "brand": "Pandora",
-              "custom_label_0": "",
-              "custom_label_1": "Sale",
-              "custom_label_2": "",
-              "custom_label_3": "Charms",
-              "custom_label_4": "",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "Brak koloru"
-              ],
-              "condition": "NEW",
-              "gender": "FEMALE",
-              "product_type": [
-                "Strona główna > Charmsy"
-              ],
-              "size": "one size",
-              "title": "Pandora Charms Alfabet Litera K - Platerowanie z 14k złota",
-              "link": "https://pl.pandora.net/pl/charmsy/charms-alfabet-litera-k/763957C00.html"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {},
-          "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "3fc41ca7-2bf3-426d-bdb7-bf4247394e91",
-        "name": "PAND2_AWARENESS_BBL_BELOVEHOLIDAY_REACH_BROAD_18-54_PL_VIDEOAD_COLL_FULLJEWELRYBRAND_X_MIXED_2025Q4G;PLATFORM;HOLIDAY;GOLO_HOLIDAYVIDEO2-23-OCT-31-DEC",
-        "ad_account_name": "Pandora Poland",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "pl"
-        ],
-        "headline": "Otul miłością. Bądź miłością✨",
+        "headline": "Prezenty, które błyszczą w Pandora",
         "call_to_action": "VIEW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/okYn5QGEEwtpDHcb3Yqei.67?mo=GpMCGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0Il7MTIAEw4AM41AZAAUoOCgk9IRgbDBMaFC4Q9ANQ8C5oAnX8CT9AfQAAgD8iBgoCSAMSAKIBPAi6ChIvCi0Ih_INIAEw0AU4gApAAkoOCgkuEhASCQ0RDy0Q9ANQ8C5oAnW8dkJAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0IwMsJIAEw4AM41AZAAkoOCgkiDw4KBwoMCRMQ9ANQ8C5oAnW0PzNAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I8JkJIAEw4AM41AZAAkoOCgkiCwsMBggLCRwQ9ANQ8C5oAnWQHztAfQAAgD8iBgoCSAISAJAD8C4%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/PQJHif7VINU2XVSZyafNX.67?mo=GpMCGggyAgR9UA9gAVoIQWRzTWVkaWGiATsIQxIvCi0Iic43IAEw4AM41AZAAUoOCglBJS8qRiwYGBwQ9ANQ8GBoAnWQ0WJAfQAAgD8iBgoCSAISAKIBPAi6ChIvCi0IyKAvIAEw0AU4gApAAkoOCglQHyEePCkQExsQ9ANQ8GBoAnVi9mtAfQAAgD8iBgoCSAMSAKIBPAiSChIvCi0Iy_ciIAEw4AM41AZAAkoOCgksFh0fLicXDhEQ9ANQ8GBoAnWmx1FAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0IhZIfIAEw4AM41AZAAkoOCgk0FBUSIxkMDhIQ9ANQ8GBoAnXSQmFAfQAAgD8iBgoCSAISAJAD8GA%3D&uc=15",
         "start_date": "2025-10-24T11:15:55.000Z",
-        "impressions_total": 2887730,
+        "impressions_total": 4184614,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -1844,7 +1401,7 @@
           "at": 0,
           "cy": 0,
           "cz": 0,
-          "pl": 2887730,
+          "pl": 4184614,
           "ro": 0,
           "nl": 0,
           "tr": 0
@@ -1869,6 +1426,82 @@
         "favorite_display_mode": "SHOW",
         "web_view_properties": {
           "url": "https://pl.pandora.net/pl/prezenty/okazja/swieta?cid=socp:snapchat::fulljewelrybrand:upperfunnel:promo:::::::mixed::::snap_awa_holiday_video"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "31916e8c-5ea2-43bd-b6c8-cec31a08c7e8",
+        "name": "PAND3_AWARENESS_BBL_BELOVE_VIDEOAD_STANDARD_FULLJEWELRYBRAND_MIXED_2026Q1;GENERIC;PLATFORM;BRAND_BELOVEVIDEO2_01-JAN-31-MAR",
+        "ad_account_name": "Pandora Poland",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "pl"
+        ],
+        "headline": "Be Love ❤️ Pandora",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/1jVADFjzwEshje0fDoWrF.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOwhDEi8KLQi8hh4gATDgAzjUBkABSg4KCTUhGSodGRUSExD0A1CQTmgCdQgoZ0B9AACAPyIGCgJIAhIAogE8CLoKEi8KLQjnkSAgATDQBTiACkACSg4KCT0aJjUnIxoRDxD0A1CQTmgCdSZWaUB9AACAPyIGCgJIAxIAogE8CJIKEi8KLQjhixYgATDgAzjUBkACSg4KCSoYFhsWEw0PDhD0A1CQTmgCdXIkV0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQjnzhUgATDgAzjUBkACSg4KCS4QECYZFhILCxD0A1CQTmgCddnRXkB9AACAPyIGCgJIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-12-31T23:01:00.000Z",
+        "impressions_total": 1666993,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 1666993,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Pandora A/S",
+        "brand_name": "Pandora",
+        "profile_name": "The Official Pandora",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOXc2d2Fva1BnSDRqVmhPZDk4YjNMP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "web_view_properties": {
+          "url": "https://pl.pandora.net/?cid=socp:snapchat::fulljewelrybrand:upperfunnel:promo:::::::mixed::::snap_awa_belove_feed&ttclid=__CLICKID__"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

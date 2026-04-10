@@ -1,1029 +1,15 @@
 {
   "brand": "Zalando",
   "country": "lu",
-  "fetched_at": "2026-04-09T22:52:37.842Z",
+  "fetched_at": "2026-04-10T07:06:52.497Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b340e324-335f-4c42-a47d-1bd43139e2a3",
-        "name": "AW25-006_video-infeedads-9x16_6s_EyeSpyYE_a_LU-FR",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "« Comme lui, s’il vous plaît »",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UR0tb4RSZ3vcny4VLbmzd.67?mo=GtgCGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUI96czIAEw4AM41AZAAUoQCguBAUs5iQEeYSgtMBD0A1DwLmgCIgYKAkgDEgCiATQIugoSJwolCJTkLiABMNAFOIAKQAJKEAoLjwE9KocBGVIrJCIQ9ANQ8C5oAiIGCgJIAhIAogExCH8SJQojCMmrICABMOADONQGQAJKDgoJWjIgTRcvHyUcEPQDUPAuaAIiBgoCSAISAKIBMgiSChIlCiMIzIEiIAEw4AM41AZAAkoOCglbOSNLHTIpHSIQ9ANQ8C5oAiIGCgJIAhIAogEyCMQKEiUKIwjt9h0gATDgAzjWBkACSg4KCVsnGlQRNxoYFhD0A1DwLmgCIgYKAkgCEgCiATII0goSJQojCIjMHiABMOADONQGQAJKDgoJWigcVBE5GxsWEPQDUPAuaAIiBgoCSAISAJAD8C4%3D&uc=15",
-        "start_date": "2025-08-25T08:00:00.000Z",
-        "impressions_total": 113246,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 113246,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.lu/selection-saison/"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "49fc323a-4a4e-4598-8559-a19dd0300d4f",
-        "name": "SS25-SoMePaid-Snapchat-315_Video-Commercial_9x16_6s_SeriesSpring6_u_LU-FR",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Humeur du jour ? Iconique",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TPgl68XMPXhflNolREk0E.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAiKmDMgAUoOCglRN0pdZ1M9SzwQ9ANoAiICEgCiASMIugoSGgoYCPj4JiABSg4KCT0iN0NERj8mPRD0A2gCIgISAKIBIgh_EhoKGAjeqSAgAUoOCgkvIC4yRzcvLCoQ9ANoAiICEgCiASMIkgoSGgoYCMn4ISABSg4KCTIhLzlKPDIpKRD0A2gCIgISAKIBIwjEChIaChgI6P0YIAFKDgoJKhciKysrKRklEPQDaAIiAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-05-06T09:00:43.000Z",
-        "impressions_total": 50763,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 50763,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.lu/campaigns/SS25-men-what-do-i-wear/"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c33f9da3-864b-4ff1-8a9c-4999c6c3dfd4",
-        "name": "AW25-001_video-infeedads-9x16_6s_UmaBTS_a_LU-FR",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Croiser Uma au marché bio",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RUwnPd9SNRYTGJDFQRzhY.67?mo=GtUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIvpEuIAEw4AM41AZAAUoPCgqdATM2NjMxH1YtEPQDUPAuaAIiBgoCSAISAKIBMgi6ChIlCiMIvf4nIAEw0AU4gApAAkoOCgl8JysoKCMeVzcQ9ANQ8C5oAiIGCgJIAxIAogExCH8SJQojCPqhHCABMOADONQGQAJKDgoJZBsgHBoYEzYhEPQDUPAuaAIiBgoCSAISAKIBMgiSChIlCiMIhcUdIAEw4AM41AZAAkoOCglpGyUdGRsVMiUQ9ANQ8C5oAiIGCgJIAhIAogEyCMQKEiUKIwjeoxkgATDgAzjWBkACSg4KCU4ZHB4XGhMzIRD0A1DwLmgCIgYKAkgCEgCiATII0goSJQojCO3SGSABMOADONQGQAJKDgoJUBodHxcaFDIjEPQDUPAuaAIiBgoCSAISAJAD8C4%3D&uc=15",
-        "start_date": "2025-08-25T08:00:00.000Z",
-        "impressions_total": 593617,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 593617,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.lu/selection-saison/"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "80c35f48-cd04-4a63-a0dd-cf5b041d68ad",
-        "name": "SS25-SoMePaid-Snapchat-312_Video-SnapSingleVideo_9x16_10s_BoxVictor10_u_LU-FR",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Il y a stylé... et STYLÉ",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TLAu5eeAVz2zFZFNoRV3S.67?mo=GugBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgI6JcpIAFKDgoJOzsPEh5BDRUYEPQDaAIiBgoCSAMSAKIBJwi6ChIaChgIuK8gIAFKDgoJMCUODRsxDRATEPQDaAIiBgoCSAMSAKIBJgh_EhoKGAibkhkgAUoOCgklIAgKFCcKDA8Q9ANoAiIGCgJIAhIAogEnCJIKEhoKGAj6zhogAUoOCgkmIAoKFikKDg8Q9ANoAiIGCgJIAhIAogEnCMQKEhoKGAi4kRYgAUoOCgklGgoIEiIJCwwQ9ANoAiIGCgJIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-05-06T09:00:43.000Z",
-        "impressions_total": 57885,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 57885,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.lu/campaigns/SS25-men-what-do-i-wear/"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "635fe338-3418-405e-b302-52f0df7200d0",
-        "name": "LUXLocal_Snapchat_2_Street interview bus_9x16_French_21s",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "La mode sur Zalando",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/OCmdgJEcEKJr0Y7b6UTv7.67?mo=GtUCGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBNQhDEi0KKwi5gpkCIAEw4AM41AZAAUoUCg-oAbEBhwF9mgFslgFRgQEQ9ANQmKIBaAIiAhIAogE0CLoKEisKKQiL84ECIAEw0AU4gApAAkoSCg3GAVm3AVSZAWaTAWJyEPQDUJiiAWgCIgISAKIBLwh_EicKJQjB18MBIAEw4AM41AZAAkoOCgl-ZGBWdUFaP1oQ9ANQmKIBaAIiAhIAogEwCJIKEicKJQij38YBIAEw4AM41AZAAkoOCgl0d1xYc09ZRVYQ9ANQmKIBaAIiAhIAogEwCMQKEicKJQjtwp0BIAEw4AM41gZAAkoOCgluMWM2YEBTO0cQ9ANQmKIBaAIiAhIAogEwCNIKEicKJQj4waMBIAEw4AM41AZAAkoOCglsL18zY0JZPkkQ9ANQmKIBaAIiAhIAkAOYogE%3D&uc=15",
-        "start_date": "2025-06-09T22:01:52.000Z",
-        "impressions_total": 152044,
-        "impressions_map": {
-          "de": 0,
-          "be": 83597,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 68447,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.lu/campaigns/lu-summer25/"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "88d472be-b30d-4be5-8c99-2f434106c8f1",
-        "name": "LU_Web_Android_RH_DPA-DA_Frame_U_6-10s_NVO_2601_Grey",
-        "ad_account_name": "Zalando_SnapAds",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Découvrir",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "DYNAMIC",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-28T14:14:46.000Z",
-        "impressions_total": 139700,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 139700,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "6.0.0",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/1xgv2IdkKwpAp8Jr3tynf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/kOVhUvzlCsBZdGgQxNcQo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/WHzVS01EMYe4Mv8cBwb1W.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/SnKZO3wz211jSVpLk97sp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
-                  ]
-                }
-              ],
-              "description": "Jack & Jones Glenn - Jean boyfriend - blue denim",
-              "brand": "Jack & Jones",
-              "custom_label_0": "0",
-              "custom_label_1": "False",
-              "custom_label_2": "49",
-              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
-              "custom_label_4": "0",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "denim bleu"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Men > Clothing > Jeans > Relaxed"
-              ],
-              "size": "",
-              "title": "Jack & Jones Glenn - Jean boyfriend - blue denim",
-              "link": "https://www.zalando.lu/jack-and-jones-glenn-jeans-fusele-blue-denim-ja222g0vc-k11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/k8ezzMkEDkv7JyQAeqFUD.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ALXTat5tk9RjPkPzqOmLR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/OGz8qOdTZq9GzDeXj6I5Y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/xoXTlQWeLF5ALpBQ4ReYS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
-                  ]
-                }
-              ],
-              "description": "Jack & Jones JPSTMARCO JJDAVE NOOS - Chino - navy blazer",
-              "brand": "Jack & Jones",
-              "custom_label_0": "0",
-              "custom_label_1": "False",
-              "custom_label_2": "93",
-              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
-              "custom_label_4": "0",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "bleu marine"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Men > Clothing > Trousers > Chinos"
-              ],
-              "size": "",
-              "title": "Jack & Jones JPSTMARCO JJDAVE NOOS - Chino - navy blazer",
-              "link": "https://www.zalando.lu/jack-and-jones-jpstmarco-jjdave-chino-navy-blazer-ja222e0v2-k11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/QZLlrqvs4lmyGwXZzUxDB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/IuNOl7EwCVxsC4DkVXEOd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/pxTAEtiSOeAkK1kdkaxJd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/DtLVIEMj1EVx8ZpRJnyc6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
-                  ]
-                }
-              ],
-              "description": "adidas Originals STAN SMITH UNISEX - Baskets basses - core white/dark blue",
-              "brand": "adidas Originals",
-              "custom_label_0": "0",
-              "custom_label_1": "False",
-              "custom_label_2": "83",
-              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
-              "custom_label_4": "0",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "blanc"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "Men > Shoes > Sneakers > Low-Top Sneakers"
-              ],
-              "size": "",
-              "title": "adidas Originals STAN SMITH UNISEX - Baskets basses - core white/dark blue",
-              "link": "https://www.zalando.lu/adidas-originals-stan-smith-baskets-basses-run-whitenew-navy-ad115b01k-a11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/p5jPOl80S3MF87qDpzDme.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/MM5iW8m1zZfiSZ0PWzVGv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ebf6QRZp8tgivJTaArlDS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/XfVymRWQHdkiwNaw2KnT4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
-                  ]
-                }
-              ],
-              "description": "Levi's® 501® LEVI'S® ORIGINAL - Jean droit - you're a star",
-              "brand": "Levi's®",
-              "custom_label_0": "1",
-              "custom_label_1": "False",
-              "custom_label_2": "72",
-              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
-              "custom_label_4": "14",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "denim bleu"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Men > Clothing > Jeans > Straight"
-              ],
-              "size": "",
-              "title": "Levi's® 501® LEVI'S® ORIGINAL - Jean droit - you're a star",
-              "link": "https://www.zalando.lu/levis-501-levisoriginal-jean-droit-youre-a-star-le221000v-k41.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/MOdM21htZmPPXRTJNe0O7.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ACjIXrR0F4Wf4OO9IKKmu.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/B59Jw3H1YBb2oAOQAaU1t.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qddEvEt9WW5EQaGKYds3w.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
-                  ]
-                }
-              ],
-              "description": "Nike Sportswear CLUB TEE UNISEX - T-shirt basique - white/black",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "0",
-              "custom_label_1": "False",
-              "custom_label_2": "47",
-              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
-              "custom_label_4": "0",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "blanc"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Men > Clothing > T-shirts & Polos > Basic T-shirts"
-              ],
-              "size": "",
-              "title": "Nike Sportswear CLUB TEE UNISEX - T-shirt basique - white/black",
-              "link": "https://www.zalando.lu/nike-sportswear-club-tee-t-shirt-basique-whiteblack-ni122o0ce-a12.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/P347INvhUCiO2hcUZFkfT.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/HpxkGwF4kcJTaSyTwrXrg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/sdTfC47OPQUYqCAovxmdo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/FdO1f0YsaNALiIBSrYczc.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
-                  ]
-                }
-              ],
-              "description": "Vans HYLANE UNISEX - Baskets basses - black/white/gum",
-              "brand": "Vans",
-              "custom_label_0": "1",
-              "custom_label_1": "False",
-              "custom_label_2": "84",
-              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
-              "custom_label_4": "14",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "noir"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "Men > Shoes > Sneakers > Low-Top Sneakers"
-              ],
-              "size": "",
-              "title": "Vans HYLANE UNISEX - Baskets basses - black/white/gum",
-              "link": "https://www.zalando.lu/vans-hylane-unisex-baskets-basses-blackwhitegum-va215o0e3-q11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/5qYhnutN3XDVNS0dsvvuw.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/a7ZWcZLfmnmBYo5x5U8ZC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/sQ6aR6jVefbrHjEbJMBJx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/NDVrG2JoQgzT5F4VRaiIw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
-                  ]
-                }
-              ],
-              "description": "Pier One Derbies - ognac",
-              "brand": "Pier One",
-              "custom_label_0": "0",
-              "custom_label_1": "False",
-              "custom_label_2": "100",
-              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
-              "custom_label_4": "0",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "cognac"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Men > Shoes > Business shoes"
-              ],
-              "size": "",
-              "title": "Pier One Derbies - ognac",
-              "link": "https://www.zalando.lu/pier-one-derbies-and-richelieus-ognac-pi912m0g4-o11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/pSoJsmvYAbGLP4qkaQeyN.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/PcxGof7Rtqt7s2hDi7JLp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/cjLWcA0caOkLsbhpLPFdk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/VX74eRbhfynkKyanvvCEZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
-                  ]
-                }
-              ],
-              "description": "Jack & Jones LOOSE FIT EDDIE ORIGINAL SBD 330 - Jean boyfriend - blue denim",
-              "brand": "Jack & Jones",
-              "custom_label_0": "0",
-              "custom_label_1": "False",
-              "custom_label_2": "59",
-              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
-              "custom_label_4": "0",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "denim bleu"
-              ],
-              "condition": "NEW",
-              "gender": "MALE",
-              "product_type": [
-                "Men > Clothing > Jeans > Relaxed"
-              ],
-              "size": "",
-              "title": "Jack & Jones LOOSE FIT EDDIE ORIGINAL SBD 330 - Jean boyfriend - blue denim",
-              "link": "https://www.zalando.lu/jack-and-jones-loose-fit-eddie-original-sbd-330-jean-boyfriend-blue-denim-ja222g2cv-k11.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/WabChqzdGzdZjITiGCgiK.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Bd9C9LUXgkTGkIwCECFoi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/WyxnBNoChfeoVDaYnX0Pm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Mq1BFGUT9DsJI32qzD1Rn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
-                  ]
-                }
-              ],
-              "description": "Nike Sportswear COURT BOROUGH RECRAFT UNISEX - Baskets basses - white/pink",
-              "brand": "Nike Sportswear",
-              "custom_label_0": "0",
-              "custom_label_1": "False",
-              "custom_label_2": "100",
-              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
-              "custom_label_4": "0",
-              "age_group": "KIDS",
-              "availability": "IN STOCK",
-              "color": [
-                "blanc"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "Kids > Shoes > Sneakers > Low-top Sneakers"
-              ],
-              "size": "",
-              "title": "Nike Sportswear COURT BOROUGH RECRAFT UNISEX - Baskets basses - white/pink",
-              "link": "https://www.zalando.lu/nike-sportswear-court-borough-recraft-unisex-baskets-basses-whitepink-ni116d0lx-a12.html?otid=default"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/WF9iyMRXRzn4YanQX5gAr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RthtjxXCthFfNf3kLTl4n.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/5EpKrbhwwvXBV2Qdu86Xl.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
-                  ]
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/8SJTqCOzYEjr6E9Um5uaK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": [
-                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
-                  ]
-                }
-              ],
-              "description": "Vans KNU SKOOL UNISEX - Baskets basses - black true white",
-              "brand": "Vans",
-              "custom_label_0": "0",
-              "custom_label_1": "False",
-              "custom_label_2": "86",
-              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
-              "custom_label_4": "0",
-              "age_group": "ADULT",
-              "availability": "IN STOCK",
-              "color": [
-                "noir"
-              ],
-              "condition": "NEW",
-              "gender": "UNISEX",
-              "product_type": [
-                "Men > Shoes > Sneakers > Low-Top Sneakers"
-              ],
-              "size": "",
-              "title": "Vans KNU SKOOL UNISEX - Baskets basses - black true white",
-              "link": "https://www.zalando.lu/vans-knu-skool-unisex-baskets-basses-black-true-white-va215o0br-q11.html?otid=default"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "Smartly Image Template - FR_Q1_Snap_DPA_Grey",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "layout": "FILL_HEIGHT",
-            "text_fields": [
-              "title",
-              "price"
-            ],
-            "preferred_image_tags": [
-              "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
-            ]
-          },
-          "vertical": "COMMERCE"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "55298d79-1db6-44be-a4a4-6f4a2a0f6cc5",
-        "name": "LUXLocal_Snapchat_9_Bus 1_9x16_French_6s",
+        "id": "faa70002-e30c-47ec-b619-f7811c18c9c6",
+        "name": "LUXLocal_Snapchat_1_Bus 1_9x16_French_12s",
         "ad_account_name": "Zalando_DigitalMedia_Global",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -1036,18 +22,18 @@
         "call_to_action": "VIEW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mAz13ecjJs8FQ3Xa9vD0E.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI7OohIAEw4AM41AZAAUoOCgloLyw3KycnMSoQ9ANQ8C5oAiIGCgJIBBIAogEyCLoKEiUKIwjT2RsgATDQBTiACkACSg4KCWseIyUpICMlIBD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMI_vkXIAEw4AM41AZAAkoOCglHIR4nGyIaJh8Q9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwj-1xggATDgAzjUBkACSg4KCUkfHSgdIiAkHxD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCNDrEyABMOADONYGQAJKDgoJTxUZGh8WGRoWEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMI3uQUIAEw4AM41AZAAkoOCglUFhsaIRcaGhcQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/2uk4VJT2XfVrEVBfwXkUe.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI9Lw9IAEw4AM41AZAAUoOCglhGRsjKi0kKSgQ9ANQ4F1oAiIGCgJIBBIAogEyCLoKEiUKIwjKxi4gATDQBTiACkACSg4KCVUVFBgpIBwlIRD0A1DgXWgCIgYKAkgDEgCiATEIfxIlCiMIyY4oIAEw4AM41AZAAkoOCglEEg0WHCEZHR0Q9ANQ4F1oAiIGCgJIAhIAogEyCJIKEiUKIwjy6ikgATDgAzjUBkACSg4KCT4WEBYiGSIdIRD0A1DgXWgCIgYKAkgCEgCiATIIxAoSJQojCL3fISABMOADONYGQAJKDgoJPxEOEh8YFBwZEPQDUOBdaAIiBgoCSAISAKIBMgjSChIlCiMI1c0jIAEw4AM41AZAAkoOCglEEhESIBoWHhkQ9ANQ4F1oAiIGCgJIAhIAkAPgXQ%3D%3D&uc=15",
         "start_date": "2025-06-09T22:01:52.000Z",
-        "impressions_total": 150913,
+        "impressions_total": 151896,
         "impressions_map": {
           "de": 0,
-          "be": 82809,
+          "be": 83696,
           "fi": 0,
           "pt": 0,
           "bg": 0,
           "dk": 0,
           "lt": 0,
-          "lu": 68104,
+          "lu": 68200,
           "hr": 0,
           "lv": 0,
           "fr": 0,
@@ -1077,163 +63,6 @@
               "max_age": "54",
               "age_groups": [],
               "gender": "MALE",
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.lu/campaigns/lu-summer25/"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "6b999a5c-b01f-4add-9238-870ff9ac3ac6",
-        "name": "AW25-006_video-infeedads-9x16_6s_EyeSpyYE_a_LU-FR",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "#N/A",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/UR0tb4RSZ3vcny4VLbmzd.67?mo=GtgCGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUI96czIAEw4AM41AZAAUoQCguBAUs5iQEeYSgtMBD0A1DwLmgCIgYKAkgDEgCiATQIugoSJwolCJTkLiABMNAFOIAKQAJKEAoLjwE9KocBGVIrJCIQ9ANQ8C5oAiIGCgJIAhIAogExCH8SJQojCMmrICABMOADONQGQAJKDgoJWjIgTRcvHyUcEPQDUPAuaAIiBgoCSAISAKIBMgiSChIlCiMIzIEiIAEw4AM41AZAAkoOCglbOSNLHTIpHSIQ9ANQ8C5oAiIGCgJIAhIAogEyCMQKEiUKIwjt9h0gATDgAzjWBkACSg4KCVsnGlQRNxoYFhD0A1DwLmgCIgYKAkgCEgCiATII0goSJQojCIjMHiABMOADONQGQAJKDgoJWigcVBE5GxsWEPQDUPAuaAIiBgoCSAISAJAD8C4%3D&uc=15",
-        "start_date": "2025-08-25T08:00:00.000Z",
-        "impressions_total": 124395,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 124395,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.lu/selection-saison-homme/"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "3115a570-fec4-4be0-a655-b93e80749249",
-        "name": "LUXLocal_Snapchat_4_Skate 2_9x16_French_12s",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Le streetwear sur Zalando",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MRB5OSO5PULeddgYH6eBv.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI6p9CIAEw4AM41AZAAUoOCglNHhcrQi4sLSMQ9ANQqF9oAiIGCgJIAxIAogEyCLoKEiUKIwj66TMgATDQBTiACkACSg4KCU0SER04KCUlIRD0A1CoX2gCIgYKAkgCEgCiATEIfxIlCiMIr5krIAEw4AM41AZAAkoOCgk7EAwYISMjHR4Q9ANQqF9oAiIGCgJIAhIAogEyCJIKEiUKIwisnS0gATDgAzjUBkACSg4KCTwQDxoiKx8dHRD0A1CoX2gCIgYKAkgCEgCiATIIxAoSJQojCJy8IyABMOADONYGQAJKDgoJNgsNFSccFxkWEPQDUKhfaAIiBgoCSAISAKIBMgjSChIlCiMIuJclIAEw4AM41AZAAkoOCgk6DgsUKRwYGhYQ9ANQqF9oAiIGCgJIAhIAkAOoXw%3D%3D&uc=15",
-        "start_date": "2025-06-09T22:01:52.000Z",
-        "impressions_total": 156550,
-        "impressions_map": {
-          "de": 0,
-          "be": 93032,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 63518,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
               "languages": [
                 "fr"
               ],
@@ -1323,6 +152,1723 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://www.zalando.lu/campaigns/SS25-men-what-do-i-wear/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "49fc323a-4a4e-4598-8559-a19dd0300d4f",
+        "name": "SS25-SoMePaid-Snapchat-315_Video-Commercial_9x16_6s_SeriesSpring6_u_LU-FR",
+        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Humeur du jour ? Iconique",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TPgl68XMPXhflNolREk0E.67?mo=GtYBGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBIghDEhoKGAiKmDMgAUoOCglRN0pdZ1M9SzwQ9ANoAiICEgCiASMIugoSGgoYCPj4JiABSg4KCT0iN0NERj8mPRD0A2gCIgISAKIBIgh_EhoKGAjeqSAgAUoOCgkvIC4yRzcvLCoQ9ANoAiICEgCiASMIkgoSGgoYCMn4ISABSg4KCTIhLzlKPDIpKRD0A2gCIgISAKIBIwjEChIaChgI6P0YIAFKDgoJKhciKysrKRklEPQDaAIiAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-05-06T09:00:43.000Z",
+        "impressions_total": 50763,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 50763,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.zalando.lu/campaigns/SS25-men-what-do-i-wear/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "b9edc69d-74ae-44db-b300-dda1c7355538",
+        "name": "LUXLocal_Snapchat_12_Hike 2_9x16_French_6s",
+        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Le sport sur Zalando",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/DFQekqrsR7APi7Cweiwir.67?mo=GtUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIjvAYIAEw4AM41AZAAUoOCglVGxESGhUXHiYQ9ANQ8C5oAiIGCgJIBBIAogEzCLoKEiYKJAiNvRwgATDQBTiACkACSg8KCrQBDw8QGxAXHB8Q9ANQ8C5oAiIGCgJIAxIAogExCH8SJQojCK6uEiABMOADONQGQAJKDgoJQRYKDhMPExYaEPQDUPAuaAIiBgoCSAISAKIBMgiSChIlCiMIuKMSIAEw4AM41AZAAkoOCgk9EwsNEhASFR0Q9ANQ8C5oAiIGCgJIAhIAogEyCMQKEiUKIwjMkxEgATDgAzjWBkACSg4KCW4ICQoOCg8QFBD0A1DwLmgCIgYKAkgCEgCiATII0goSJQojCOy7ESABMOADONQGQAJKDgoJagsKChEKDxIUEPQDUPAuaAIiBgoCSAISAJAD8C4%3D&uc=15",
+        "start_date": "2025-06-09T22:01:52.000Z",
+        "impressions_total": 155493,
+        "impressions_map": {
+          "de": 0,
+          "be": 92419,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 63074,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.zalando.lu/campaigns/lu-summer25/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "6682401e-6e66-4ba9-b4bd-25659d637edd",
+        "name": "AW25-007_video-infeedads-9x16_6s_EyeSpyPP_a_LU-FR",
+        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Je mets quoi pour un appel épicé ?",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/pinUjkXdZQv6AAMPHlKCD.67?mo=GsICGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLwhDEicKJQiZ9EQgATDgAzjUBkABShAKC5EBcGpmI4EBTipqEPQDUPAuaAIiAhIAogEwCLoKEicKJQjr2T4gATDQBTiACkACShAKC5UBVm5FKoEBUx5WEPQDUPAuaAIiAhIAogEtCH8SJQojCITPMCABMOADONQGQAJKDgoJclRHOR5qLCY7EPQDUPAuaAIiAhIAogEuCJIKEiUKIwiaqDMgATDgAzjUBkACSg4KCW9eVzseaDgePRD0A1DwLmgCIgISAKIBLgjEChIlCiMI9tQnIAEw4AM41gZAAkoOCglhNkgvG0o2FTkQ9ANQ8C5oAiICEgCiAS4I0goSJQojCNOhKCABMOADONQGQAJKDgoJYzVLLx1LORQ5EPQDUPAuaAIiAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-08-25T08:00:00.000Z",
+        "impressions_total": 106513,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 106513,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "brand_name": "Zalando",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.zalando.lu/selection-saison/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4a72139d-58a4-4f23-aef3-643e6c241cb3",
+        "name": "LU_App_Android_RH_DPA-DA_Frame_U_6-10s_NVO_2601_Black",
+        "ad_account_name": "Zalando_SnapAds",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Découvrir",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-01-28T13:28:31.000Z",
+        "impressions_total": 106543,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 106543,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "os_version_min": "6.0.0",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/jpEivjLBITyfpcwQCPrSj.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mrb1wltIdp8RbOn53hWvV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/UElMB6Wjz2os4FgK38sjw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/BaNv5U4YcL1QFAPwHk0Ty.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                }
+              ],
+              "description": "Skechers Sport Baskets basses - black/rose gold",
+              "brand": "Skechers Sport",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "69",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Sneakers > Low-top sneakers"
+              ],
+              "size": "",
+              "title": "Skechers Sport Baskets basses - black/rose gold",
+              "link": "https://www.zalando.lu/skechers-sport-baskets-basses-blackrose-gold-sk211a0d0-q12.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ZR9OzUEMnn8efS1TPQVHx.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/zW5qfkT1Hf2hgXs8DAiY0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/1ViPIKI8XR6SYbbeZxFMD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/GhYNQYqEcjaJicaPDwv5b.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                }
+              ],
+              "description": "Vans KNU SKOOL UNISEX - Baskets basses - black",
+              "brand": "Vans",
+              "custom_label_0": "1",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "8",
+              "age_group": "KIDS",
+              "availability": "IN STOCK",
+              "color": [
+                "noir"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Kids > Shoes > Sneakers > Low-top Sneakers"
+              ],
+              "size": "",
+              "title": "Vans KNU SKOOL UNISEX - Baskets basses - black",
+              "link": "https://www.zalando.lu/vans-knu-skool-unisex-baskets-basses-black-va215p020-q15.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/8OwCWciLSsoYVZlH0Ol0n.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/BPnBDj4A3ENSmvxWB934i.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/oOmdsPJO24kuQkJdXwyM3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/53XKRR3KHq9IedaSpqbZA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                }
+              ],
+              "description": "Nike Sportswear COURT BOROUGH UNISEX - Baskets basses - black",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "KIDS",
+              "availability": "IN STOCK",
+              "color": [
+                "noir"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Kids > Shoes > Sneakers > Low-top Sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear COURT BOROUGH UNISEX - Baskets basses - black",
+              "link": "https://www.zalando.lu/nike-sportswear-court-borough-recraft-unisex-baskets-basses-black-ni116d0lr-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/6jfVYKiQRlIkQqUMQsQbq.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/abK0pQuxJHPo4DSIRrBhT.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/dG6dTFae9e6pjHzOm2qat.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/5Id2Vkxj2jnfMDdaseLre.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                }
+              ],
+              "description": "Nike SB SB CHRON 2 CANVAS - Baskets basses - black",
+              "brand": "Nike SB",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "68",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "noir"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "Nike SB SB CHRON 2 CANVAS - Baskets basses - black",
+              "link": "https://www.zalando.lu/nike-sb-chron-2-unisex-baskets-basses-black-ns415o00u-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/gwx9lZ2fJIuiTtPwZuOgr.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/z5kyCRE1puMzzlZEAArY3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/dG9laOyyGhOc4SnmPBauE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/cLpbvCj29hLM4vfG9DQBS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                }
+              ],
+              "description": "Casio Montre à affichage digital - silberfarben",
+              "brand": "Casio",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "argenté"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "All > Accessories > Watches"
+              ],
+              "size": "",
+              "title": "Casio Montre à affichage digital - silberfarben",
+              "link": "https://www.zalando.lu/casio-montre-a-affichage-digital-silber-c1554f003-d11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/IX8eWyZni6SXBjvhx8mdE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/a2bbE3mlQfZFIubDVngKy.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/zQvkjeAIVHzsA9w7FIFi2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/GuYPmGYA6pJFKNv2tWXo3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                }
+              ],
+              "description": "New Balance U530 UNISEX - Baskets basses - gold-coloured metallic",
+              "brand": "New Balance",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#654e7afb#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "doré"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "New Balance U530 UNISEX - Baskets basses - gold-coloured metallic",
+              "link": "https://www.zalando.lu/new-balance-u530-unisex-baskets-basses-gold-coloured-metallic-ne215p02l-f11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/4ibk0NgnVOJVyVLcBsNbb.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                }
+              ],
+              "description": "adidas Originals MID ANKLE SCK 6 PACK UNISEX - Chaussettes - white",
+              "brand": "adidas Originals",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "67",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "blanc"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Clothing > Underwear & Socks > Socks > Socks"
+              ],
+              "size": "",
+              "title": "adidas Originals MID ANKLE SCK 6 PACK UNISEX - Chaussettes - white",
+              "link": "https://www.zalando.lu/adidas-originals-6-pack-chaussettes-white-ad181003w-a12.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/AxuUyUMY11Ugxd3sX8VCa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LD2AoXPjhUruvYYSXFkUh.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Nmz4KZ7W3rLGiU4bJUvEv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/2896t3q4INDIvpQ1SSO9i.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                }
+              ],
+              "description": "adidas Originals CAMPUS 00S - Baskets basses - core black/footwear white/off-white",
+              "brand": "adidas Originals",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "50",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "noir"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "adidas Originals CAMPUS 00S - Baskets basses - core black/footwear white/off-white",
+              "link": "https://www.zalando.lu/adidas-originals-campus-00s-unisex-baskets-basses-core-blackfootwear-whiteoff-white-ad115o1j7-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/ARVijx5Wij76B7RR18C5N.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/nWO81REbiiK4e3O38nkZC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/atA8LxCiFs4TlbWsXGZgD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Wk9FZ6dHI04y0jszugyYD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                }
+              ],
+              "description": "Nike Sportswear ZOOM VOMERO 5 - Baskets basses - light bone/phantom/light orewood brown/black",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "1",
+              "custom_label_1": "False",
+              "custom_label_2": "87",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "6",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "écru"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Shoes > Sneakers > Low-top sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear ZOOM VOMERO 5 - Baskets basses - light bone/phantom/light orewood brown/black",
+              "link": "https://www.zalando.lu/nike-sportswear-zoom-vomero-5-baskets-basses-light-bonephantomlight-orewood-brownblack-ni111a1pz-a11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/jxjfNiFMWYi8aK72zVhUi.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ySbNacJNc8xU0Sm6Z6LhY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/S1LQDUZReoN0t11FIATys.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/KNnR9iO3rSqgtY0scOjM0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                }
+              ],
+              "description": "Anna Field Cabas - black",
+              "brand": "Anna Field",
+              "custom_label_0": "1",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "5",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "noir"
+              ],
+              "condition": "NEW",
+              "gender": "FEMALE",
+              "product_type": [
+                "Women > Accessories > Bags & cases > Shopper bags"
+              ],
+              "size": "",
+              "title": "Anna Field Cabas - black",
+              "link": "https://www.zalando.lu/anna-field-set-cabas-black-an651h18q-q11.html?otid=default"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "Smartly Image Template - FR_Q1_Snap_DPA_Black",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "FILL_HEIGHT",
+            "text_fields": [
+              "title",
+              "price"
+            ],
+            "preferred_image_tags": [
+              "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "63980d3e-e15c-482f-b738-25f284cc5f45",
+        "name": "LUXLocal_Snapchat_10_Hike 1_9x16_French_6s",
+        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Le sport sur Zalando",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vrInLHUTG221aex7umMLE.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIzYYmIAEw4AM41AZAAUoOCglZKi84MTM_OTkQ9ANQ8C5oAiIGCgJIBBIAogEyCLoKEiUKIwi88yIgATDQBTiACkACSg4KCWEjLTA1LC81KhD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMI2oUaIAEw4AM41AZAAkoOCgk_HB8mIicnKCgQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwiDxRogATDgAzjUBkACSg4KCUAcICYiKCgnKRD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCP2JFyABMOADONYGQAJKDgoJQxgeHiMdHyMbEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMIoJUYIAEw4AM41AZAAkoOCglHGR4eJB4hJhwQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-06-09T22:01:52.000Z",
+        "impressions_total": 152065,
+        "impressions_map": {
+          "de": 0,
+          "be": 83419,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 68646,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.zalando.lu/campaigns/lu-summer25/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "fff98924-f00f-4005-b7ba-8f303a32bcb8",
+        "name": "LUXLocal_Snapchat_4_Skate 2_9x16_French_12s",
+        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Le streetwear sur Zalando",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MRB5OSO5PULeddgYH6eBv.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI6p9CIAEw4AM41AZAAUoOCglNHhcrQi4sLSMQ9ANQqF9oAiIGCgJIAxIAogEyCLoKEiUKIwj66TMgATDQBTiACkACSg4KCU0SER04KCUlIRD0A1CoX2gCIgYKAkgCEgCiATEIfxIlCiMIr5krIAEw4AM41AZAAkoOCgk7EAwYISMjHR4Q9ANQqF9oAiIGCgJIAhIAogEyCJIKEiUKIwisnS0gATDgAzjUBkACSg4KCTwQDxoiKx8dHRD0A1CoX2gCIgYKAkgCEgCiATIIxAoSJQojCJy8IyABMOADONYGQAJKDgoJNgsNFSccFxkWEPQDUKhfaAIiBgoCSAISAKIBMgjSChIlCiMIuJclIAEw4AM41AZAAkoOCgk6DgsUKRwYGhYQ9ANQqF9oAiIGCgJIAhIAkAOoXw%3D%3D&uc=15",
+        "start_date": "2025-06-09T22:01:52.000Z",
+        "impressions_total": 150525,
+        "impressions_map": {
+          "de": 0,
+          "be": 82285,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 68240,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.zalando.lu/campaigns/lu-summer25/"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "9c00bac0-c2bc-477d-8d22-1da4421c329d",
+        "name": "LU_App_Android_RH_DPA-DA_Frame_U_6-10s_NVO_2601_Orange",
+        "ad_account_name": "Zalando_SnapAds",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "DYNAMIC",
+        "languages": [],
+        "headline": "Découvrir",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "DYNAMIC",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2026-01-28T13:28:31.000Z",
+        "impressions_total": 107323,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 107323,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "os_version_min": "6.0.0",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "SHOW",
+        "dpa_preview": {
+          "items": [
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/avQVZovP1Fv83zLoWTvZA.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/X7gsf9KIDYzeXhOVxwffd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/NcB4Iheg0xr8xjVcH6kcO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/yfaEXAsF0bN7e0MNQthGn.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                }
+              ],
+              "description": "YOURTURN UNISEX REGULAR FIT TOP - T-shirt imprimé - beige",
+              "brand": "YOURTURN",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "beige"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Clothing > T-shirts & Polos > Printed T-shirts"
+              ],
+              "size": "",
+              "title": "YOURTURN UNISEX REGULAR FIT TOP - T-shirt imprimé - beige",
+              "link": "https://www.zalando.lu/yourturn-unisex-t-shirt-imprime-beige-yo12101dj-b11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/rxSbk5moH0m1dT3h3EXpF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/pJ5z8bom63TVPSxCCM1qg.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/eVRDToXF86G2GtdLIr26k.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/wcpab9iYT4i0MvqkHzkqI.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                }
+              ],
+              "description": "ASICS SportStyle GEL 1130 UNISEX - Baskets basses - black/cream",
+              "brand": "ASICS SportStyle",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#654e7afb#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "écru"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "ASICS SportStyle GEL 1130 UNISEX - Baskets basses - black/cream",
+              "link": "https://www.zalando.lu/asics-sportstyle-gel-1130-unisex-baskets-basses-blackcream-a0h15o09a-a16.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/WCLD4ZOCYlPtPdo5tQvhj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/iTUgxzfg17W3EDl8TqwDe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/mBnPCWAMz8tRd4ZxLJjAp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ox1D6wwy8RgVyWsHmabBE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                }
+              ],
+              "description": "adidas Originals HANDBALL SPEZIAL UNISEX - Baskets basses - collegiate navy/clear sky",
+              "brand": "adidas Originals",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "95",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "bleu marine"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "adidas Originals HANDBALL SPEZIAL UNISEX - Baskets basses - collegiate navy/clear sky",
+              "link": "https://www.zalando.lu/adidas-originals-handball-spezial-unisex-baskets-basses-collegiate-navyclear-sky-ad115o07w-k11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/6ThesLYqKfhW7hPRWQTpH.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/O5IF73UYK8uhJFbJH4rck.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/ErN2MMW2MVX9vDyEd1h74.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/9KQ1lUXLcnXn7Ldf0UVG0.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                }
+              ],
+              "description": "Nike Performance TEE RESET - Débardeur - black/matte silver",
+              "brand": "Nike Performance",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "62",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "noir"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Men > Clothing > T-shirts & Polos > Tank Tops"
+              ],
+              "size": "",
+              "title": "Nike Performance TEE RESET - Débardeur - black/matte silver",
+              "link": "https://www.zalando.lu/nike-performance-tee-reset-debardeur-blackmatte-silver-n1242d5dq-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/AIejpVUp2jo8hVOFXMKB9.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/3NP30rIk5khOEgrGaPPop.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/75oO8I6QyKoPUFJmqJddW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/qBwfmF9UlA3hUwxzi9bJo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                }
+              ],
+              "description": "Calvin Klein LIGHT RUNNER - Baskets basses - triple black",
+              "brand": "Calvin Klein",
+              "custom_label_0": "1",
+              "custom_label_1": "False",
+              "custom_label_2": "89",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "14",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "noir"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "Calvin Klein LIGHT RUNNER - Baskets basses - triple black",
+              "link": "https://www.zalando.lu/calvin-klein-light-runner-baskets-basses-triple-black-6ca12p00x-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/cmmqowTdTfVoGoYNdT6S5.1023?mo=GhkaDRoAGgAyAQRIAlAGYAGiAQcI_wciAhIA&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/BrpizNqU4gpoGUoGdGoCd.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/TiVHtbPCu3PRDTI9e2P1E.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/SPJmaewfMgfEUIF3KyJY4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                }
+              ],
+              "description": "Nike Sportswear COURT BOROUGH UNISEX - Baskets basses - white",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "88",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "KIDS",
+              "availability": "IN STOCK",
+              "color": [
+                "blanc"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Kids > Shoes > Sneakers > Low-top Sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear COURT BOROUGH UNISEX - Baskets basses - white",
+              "link": "https://www.zalando.lu/nike-sportswear-court-borough-recraft-unisex-baskets-basses-white-ni116d0lr-a15.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/WTbrvwuqUwXmDKDLARSLo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/Vigrb95a0VGqtlgQlf8Io.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/RBoSWZdw7EEPOjDk2efX8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/WZwae3DFzwkRN8cZpW9SX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                }
+              ],
+              "description": "New Balance U740 UNISEX - Baskets basses - silver-coloured/beige",
+              "brand": "New Balance",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "35",
+              "custom_label_3": "#654e7afb#,#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "argenté"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Men > Shoes > Sneakers > Low-Top Sneakers"
+              ],
+              "size": "",
+              "title": "New Balance U740 UNISEX - Baskets basses - silver-coloured/beige",
+              "link": "https://www.zalando.lu/new-balance-740-unisex-baskets-basses-silver-colouredbeige-ne215p065-d12.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/TyPOMpohNPlb006bx6geV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/2etOg91SCs7xyxhaMRI0D.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/HgIqlmTkwjqnxDQ5h2hw6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/hwrZkqtFMP5gnp2I263zD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                }
+              ],
+              "description": "Jack & Jones JJIGLENN JJORIGINAL - Jean slim - blue denim",
+              "brand": "Jack & Jones",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "77",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "denim bleu"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "Men > Clothing > Jeans > Slim"
+              ],
+              "size": "",
+              "title": "Jack & Jones JJIGLENN JJORIGINAL - Jean slim - blue denim",
+              "link": "https://www.zalando.lu/jack-and-jones-jjiglenn-jjoriginal-jeans-fusele-blue-denim-ja222g24o-k11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/JXu8t0ejyciNpNkhBU8jy.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/0mXM5LiOsHy2hhVLz2qfi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/edMwNHYvvqIbzybrbIXuH.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/xkIlxL5cJVm7Cgq0pVnrB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                }
+              ],
+              "description": "The North Face QUEST JACKET - Veste Hardshell - black",
+              "brand": "The North Face",
+              "custom_label_0": "0",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "0",
+              "age_group": "ADULT",
+              "availability": "IN STOCK",
+              "color": [
+                "noir"
+              ],
+              "condition": "NEW",
+              "gender": "MALE",
+              "product_type": [
+                "All > Clothing > Jackets > Hardshell Jackets"
+              ],
+              "size": "",
+              "title": "The North Face QUEST JACKET - Veste Hardshell - black",
+              "link": "https://www.zalando.lu/the-north-face-quest-mono-jacket-veste-impermeable-black-th342f0kl-q11.html?otid=default"
+            },
+            {
+              "main_image": {
+                "image_links": [
+                  "https://cf-st.sc-cdn.net/d/E2t2O4MLQH8fQyM9nr6RA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                ]
+              },
+              "additional_media": [
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/LcmYTi9fdXD3ZeAdgEosO.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "fed86f7e-701f-44e1-be0f-b6935bb33ef1"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/zdKMwbCIFEUTbtVrzh23r.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "3819f607-4d6c-46e5-bd2a-8b1f067fedf6"
+                  ]
+                },
+                {
+                  "image_links": [
+                    "https://cf-st.sc-cdn.net/d/V0vVBRURbobke2sojWAjp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
+                  ],
+                  "tags": [
+                    "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+                  ]
+                }
+              ],
+              "description": "Nike Sportswear DUNK LOW UNISEX - Baskets basses - white/med soft pink",
+              "brand": "Nike Sportswear",
+              "custom_label_0": "1",
+              "custom_label_1": "False",
+              "custom_label_2": "100",
+              "custom_label_3": "#7a00c4fa#,#bacd3d51#",
+              "custom_label_4": "14",
+              "age_group": "KIDS",
+              "availability": "IN STOCK",
+              "color": [
+                "blanc"
+              ],
+              "condition": "NEW",
+              "gender": "UNISEX",
+              "product_type": [
+                "Kids > Shoes > Sneakers > Low-top Sneakers"
+              ],
+              "size": "",
+              "title": "Nike Sportswear DUNK LOW UNISEX - Baskets basses - white/med soft pink",
+              "link": "https://www.zalando.lu/nike-sportswear-dunk-low-unisex-baskets-basses-whitemed-soft-pink-ni116d0n2-a35.html?otid=default"
+            }
+          ],
+          "template": {},
+          "dynamic_template": {
+            "name": "Smartly Image Template - FR_Q1_Snap_DPA_Orange",
+            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
+            "layout": "FILL_HEIGHT",
+            "text_fields": [
+              "title",
+              "price"
+            ],
+            "preferred_image_tags": [
+              "b88637fd-9dc4-4dbb-8931-33ec2e19ac09"
+            ]
+          },
+          "vertical": "COMMERCE"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "56a029c3-0c77-4eab-be81-2192463adfe1",
+        "name": "AW25-001_video-infeedads-9x16_6s_UmaBTS_a_LU-FR",
+        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "#N/A",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RUwnPd9SNRYTGJDFQRzhY.67?mo=GtUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIvpEuIAEw4AM41AZAAUoPCgqdATM2NjMxH1YtEPQDUPAuaAIiBgoCSAISAKIBMgi6ChIlCiMIvf4nIAEw0AU4gApAAkoOCgl8JysoKCMeVzcQ9ANQ8C5oAiIGCgJIAxIAogExCH8SJQojCPqhHCABMOADONQGQAJKDgoJZBsgHBoYEzYhEPQDUPAuaAIiBgoCSAISAKIBMgiSChIlCiMIhcUdIAEw4AM41AZAAkoOCglpGyUdGRsVMiUQ9ANQ8C5oAiIGCgJIAhIAogEyCMQKEiUKIwjeoxkgATDgAzjWBkACSg4KCU4ZHB4XGhMzIRD0A1DwLmgCIgYKAkgCEgCiATII0goSJQojCO3SGSABMOADONQGQAJKDgoJUBodHxcaFDIjEPQDUPAuaAIiBgoCSAISAJAD8C4%3D&uc=15",
+        "start_date": "2025-08-25T08:00:00.000Z",
+        "impressions_total": 751044,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 751044,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [
+                "fr"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "brand_name": "Zalando",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.zalando.lu/selection-saison-homme/"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

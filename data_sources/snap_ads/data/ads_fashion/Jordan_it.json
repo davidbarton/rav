@@ -1,10 +1,308 @@
 {
   "brand": "Jordan",
   "country": "it",
-  "fetched_at": "2026-04-09T19:20:16.548Z",
+  "fetched_at": "2026-04-10T06:12:07.144Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c3e8f287-189d-4d59-b896-77bf2fd2ba6d",
+        "name": "2/15/26 - Ad",
+        "ad_account_name": "iOS In-App Promotions",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CLslwL8BKuv7OsV3WE2y5.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2026-02-15T14:55:42.000Z",
+        "impressions_total": 12,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 7,
+          "es": 5,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Jordan",
+        "profile_name": "Jordan",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaFRUaENzN2JVamJTdEEzZ0pOWDNpP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/sir_boudwin",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaFRUaENzN2JVamJTdEEzZ0pOWDNpP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "42214131-03e5-4c51-a9fa-70dfef5d9abb",
+        "name": "7/21/25 - Ad",
+        "ad_account_name": "iOS In-App Promotions",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "call_to_action": "VIEW PROFILE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NyEBJ5LJ418RugYC3UOxE.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2025-07-22T05:00:00.000Z",
+        "impressions_total": 3375651,
+        "impressions_map": {
+          "de": 86659,
+          "be": 523620,
+          "fi": 143598,
+          "pt": 56799,
+          "bg": 115325,
+          "dk": 74350,
+          "lt": 22462,
+          "lu": 30032,
+          "hr": 242562,
+          "lv": 0,
+          "fr": 11681,
+          "hu": 30394,
+          "se": 79891,
+          "si": 134026,
+          "sk": 5742,
+          "ie": 419358,
+          "ee": 0,
+          "el": 305890,
+          "mt": 0,
+          "it": 301226,
+          "es": 267560,
+          "at": 165023,
+          "cy": 0,
+          "cz": 30217,
+          "pl": 101742,
+          "ro": 138908,
+          "nl": 71554,
+          "tr": 17032
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Jordan",
+        "profile_name": "Jordan",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/jhillis6995",
+          "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/10226021-102427821505_2-s5-v1.webp?scale=0&trim=circle&ua=2",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a146cf7d-7cbc-4381-b9fa-cafde60465b3",
+        "name": "7/28/25 - Ad",
+        "ad_account_name": "iOS In-App Promotions",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xKsmX6CQVorGdQ44Nfgnl.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2025-07-29T05:00:00.000Z",
+        "impressions_total": 11205,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 4161,
+          "hu": 0,
+          "se": 1727,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 4340,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 977,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Jordan",
+        "profile_name": "Jordan",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTGxQakxOQ2xXZmZXbG5nZ1F2N3RSP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/jrob.923",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTGxQakxOQ2xXZmZXbG5nZ1F2N3RSP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "79e16949-57c0-4cc7-939a-5b446d73b14c",
+        "name": "5/2/25 - Ad",
+        "ad_account_name": "iOS In-App Promotions",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bzUXzDRQcbg8klqkGHreW.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2025-05-03T05:00:00.000Z",
+        "impressions_total": 3677,
+        "impressions_map": {
+          "de": 4,
+          "be": 31,
+          "fi": 14,
+          "pt": 162,
+          "bg": 813,
+          "dk": 1,
+          "lt": 90,
+          "lu": 70,
+          "hr": 248,
+          "lv": 0,
+          "fr": 0,
+          "hu": 47,
+          "se": 2,
+          "si": 402,
+          "sk": 11,
+          "ie": 53,
+          "ee": 0,
+          "el": 258,
+          "mt": 0,
+          "it": 100,
+          "es": 80,
+          "at": 22,
+          "cy": 0,
+          "cz": 82,
+          "pl": 98,
+          "ro": 261,
+          "nl": 11,
+          "tr": 817
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "40",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Jordan",
+        "profile_name": "Jordan",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/jhillis6995",
+          "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/10226021-102427821505_2-s5-v1.webp?scale=2&ua=2",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -85,8 +383,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c3e8f287-189d-4d59-b896-77bf2fd2ba6d",
-        "name": "2/15/26 - Ad",
+        "id": "d0a3d4be-e7ce-4c86-af3e-05c39b066a0e",
+        "name": "7/17/25 - Ad",
         "ad_account_name": "iOS In-App Promotions",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
@@ -96,13 +394,159 @@
         "call_to_action": "FOLLOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CLslwL8BKuv7OsV3WE2y5.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-        "start_date": "2026-02-15T14:55:42.000Z",
-        "impressions_total": 12,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/462w7aWhv3KVhc42VxCSg.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2025-07-18T05:00:00.000Z",
+        "impressions_total": 6568,
+        "impressions_map": {
+          "de": 16,
+          "be": 43,
+          "fi": 82,
+          "pt": 542,
+          "bg": 0,
+          "dk": 29,
+          "lt": 412,
+          "lu": 82,
+          "hr": 628,
+          "lv": 0,
+          "fr": 20,
+          "hu": 222,
+          "se": 62,
+          "si": 508,
+          "sk": 768,
+          "ie": 205,
+          "ee": 0,
+          "el": 818,
+          "mt": 0,
+          "it": 224,
+          "es": 213,
+          "at": 69,
+          "cy": 0,
+          "cz": 221,
+          "pl": 514,
+          "ro": 301,
+          "nl": 23,
+          "tr": 566
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Jordan",
+        "profile_name": "Jordan",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/jhillis6995",
+          "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/10226021-102427821505_2-s5-v1.webp?scale=0&trim=circle&ua=2",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "eda4e6d9-ab40-479d-9d7b-2b4ca9c24565",
+        "name": "3/10/26 - Ad",
+        "ad_account_name": "iOS In-App Promotions",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qb5Uk9owmQ5Tc2I3Nonjz.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2026-03-10T12:45:23.000Z",
+        "impressions_total": 425,
+        "impressions_map": {
+          "de": 0,
+          "be": 4,
+          "fi": 0,
+          "pt": 0,
+          "bg": 36,
+          "dk": 0,
+          "lt": 246,
+          "lu": 6,
+          "hr": 31,
+          "lv": 0,
+          "fr": 0,
+          "hu": 38,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 1,
+          "ee": 0,
+          "el": 37,
+          "mt": 0,
+          "it": 3,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 23,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Jordan",
+        "profile_name": "Jordan",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcHdxaGpGN3hzRFJZRWJVREV0Nk5TP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/reverse_richard",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcHdxaGpGN3hzRFJZRWJVREV0Nk5TP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "506938ad-44c0-403b-9f30-f319f646a799",
+        "name": "3/6/26 - Ad",
+        "ad_account_name": "iOS In-App Promotions",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KSkh9ONXe5SvusXNPl9zq.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2026-03-07T08:00:00.000Z",
+        "impressions_total": 40,
         "impressions_map": {
           "de": 0,
           "be": 0,
-          "fi": 0,
+          "fi": 14,
           "pt": 0,
           "bg": 0,
           "dk": 0,
@@ -119,14 +563,14 @@
           "ee": 0,
           "el": 0,
           "mt": 0,
-          "it": 7,
-          "es": 5,
+          "it": 3,
+          "es": 0,
           "at": 0,
           "cy": 0,
-          "cz": 0,
+          "cz": 21,
           "pl": 0,
           "ro": 0,
-          "nl": 0,
+          "nl": 2,
           "tr": 0
         },
         "targeting_v2": {
@@ -135,7 +579,7 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "gender": "FEMALE",
+              "gender": "MALE",
               "languages": [],
               "advanced_demographics": []
             }
@@ -143,12 +587,12 @@
           "devices": []
         },
         "paying_advertiser_name": "Jordan",
-        "profile_name": "Jordan",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaFRUaENzN2JVamJTdEEzZ0pOWDNpP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "profile_name": "Jaylindsayxo",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRGtzTjNVaWVLTlpaZXB3ZUtpdlBlP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "sticker_display_mode": "HIDE",
         "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/sir_boudwin",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaFRUaENzN2JVamJTdEEzZ0pOWDNpP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "deep_link_uri": "snapchat://add/jaylindsayxo",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRGtzTjNVaWVLTlpaZXB3ZUtpdlBlP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -237,227 +681,6 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "3dfefc9b-322c-46c1-b015-e634c4de26eb",
-        "name": "19/07/25 – Ad",
-        "ad_account_name": "iOS in-app promotions",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/DgdADGKg4Oci6LbulGW8R.67.IRZXSOY?mo=GrwDGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBQghDEiUKIwiHqB4gATDgAzjUBkABSg4KCTIDBAouBQQDBxD0A1CkcWgCIhcKCkIGCL-z3cMGSAQSACoHSVJaWFNPWaIBQwi6ChIlCiMIlvMlIAEw0AU4gApAAkoOCglKBwUSIAsFBiEQ9ANQpHFoAiIXCgpCBgjzs93DBkgDEgAqB0lSWlhTT1miAUIIfxIlCiMI2ZkVIAEw4AM41AZAAkoOCgkvBAQLHwQEBAUQ9ANQpHFoAiIXCgpCBgjzs93DBkgCEgAqB0lSWlhTT1miAUMIkgoSJQojCNvsFCABMOADONQGQAJKDgoJLgQFDxoFBQMGEPQDUKRxaAIiFwoKQgYI87PdwwZIAhIAKgdJUlpYU09ZogFDCMQKEiUKIwiB6RYgATDgAzjWBkACSg4KCTYDAxYZBAIEDBD0A1CkcWgCIhcKCkIGCPOz3cMGSAISACoHSVJaWFNPWaIBQwjSChIlCiMIxeoTIAEw4AM41AZAAkoOCgk2AwMLGAMDBAgQ9ANQpHFoAiIXCgpCBgjzs93DBkgCEgAqB0lSWlhTT1mQA6Rx&uc=15",
-        "start_date": "2025-07-21T22:00:00.000Z",
-        "impressions_total": 9452,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 9452,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Marks Jordan",
-        "profile_name": "Styve Jordan",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYXNrQnZNRURLbXZaWWRkUEJPWEs2P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/styvej6",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvajRsNnpDMm9lOUhYUTFZTFplYmdYP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a146cf7d-7cbc-4381-b9fa-cafde60465b3",
-        "name": "7/28/25 - Ad",
-        "ad_account_name": "iOS In-App Promotions",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xKsmX6CQVorGdQ44Nfgnl.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-        "start_date": "2025-07-29T05:00:00.000Z",
-        "impressions_total": 11205,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 4161,
-          "hu": 0,
-          "se": 1727,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 4340,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 977,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Jordan",
-        "profile_name": "Jordan",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTGxQakxOQ2xXZmZXbG5nZ1F2N3RSP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/jrob.923",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTGxQakxOQ2xXZmZXbG5nZ1F2N3RSP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "d0a3d4be-e7ce-4c86-af3e-05c39b066a0e",
-        "name": "7/17/25 - Ad",
-        "ad_account_name": "iOS In-App Promotions",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/462w7aWhv3KVhc42VxCSg.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-07-18T05:00:00.000Z",
-        "impressions_total": 6568,
-        "impressions_map": {
-          "de": 16,
-          "be": 43,
-          "fi": 82,
-          "pt": 542,
-          "bg": 0,
-          "dk": 29,
-          "lt": 412,
-          "lu": 82,
-          "hr": 628,
-          "lv": 0,
-          "fr": 20,
-          "hu": 222,
-          "se": 62,
-          "si": 508,
-          "sk": 768,
-          "ie": 205,
-          "ee": 0,
-          "el": 818,
-          "mt": 0,
-          "it": 224,
-          "es": 213,
-          "at": 69,
-          "cy": 0,
-          "cz": 221,
-          "pl": 514,
-          "ro": 301,
-          "nl": 23,
-          "tr": 566
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Jordan",
-        "profile_name": "Jordan",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/jhillis6995",
-          "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/10226021-102427821505_2-s5-v1.webp?scale=0&trim=circle&ua=2",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
         "id": "3127a2c9-3f2d-4b58-9e3a-aeddcc90bf01",
         "name": "3/13/26 - Ad",
         "ad_account_name": "iOS In-App Promotions",
@@ -522,231 +745,6 @@
         "deep_link_properties": {
           "deep_link_uri": "snapchat://add/reverse_richard",
           "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcHdxaGpGN3hzRFJZRWJVREV0Nk5TP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "79e16949-57c0-4cc7-939a-5b446d73b14c",
-        "name": "5/2/25 - Ad",
-        "ad_account_name": "iOS In-App Promotions",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bzUXzDRQcbg8klqkGHreW.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-05-03T05:00:00.000Z",
-        "impressions_total": 3677,
-        "impressions_map": {
-          "de": 4,
-          "be": 31,
-          "fi": 14,
-          "pt": 162,
-          "bg": 813,
-          "dk": 1,
-          "lt": 90,
-          "lu": 70,
-          "hr": 248,
-          "lv": 0,
-          "fr": 0,
-          "hu": 47,
-          "se": 2,
-          "si": 402,
-          "sk": 11,
-          "ie": 53,
-          "ee": 0,
-          "el": 258,
-          "mt": 0,
-          "it": 100,
-          "es": 80,
-          "at": 22,
-          "cy": 0,
-          "cz": 82,
-          "pl": 98,
-          "ro": 261,
-          "nl": 11,
-          "tr": 817
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "40",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Jordan",
-        "profile_name": "Jordan",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/jhillis6995",
-          "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/10226021-102427821505_2-s5-v1.webp?scale=2&ua=2",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "506938ad-44c0-403b-9f30-f319f646a799",
-        "name": "3/6/26 - Ad",
-        "ad_account_name": "iOS In-App Promotions",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KSkh9ONXe5SvusXNPl9zq.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-        "start_date": "2026-03-07T08:00:00.000Z",
-        "impressions_total": 40,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 14,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 3,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 21,
-          "pl": 0,
-          "ro": 0,
-          "nl": 2,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Jordan",
-        "profile_name": "Jaylindsayxo",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRGtzTjNVaWVLTlpaZXB3ZUtpdlBlP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/jaylindsayxo",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRGtzTjNVaWVLTlpaZXB3ZUtpdlBlP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "42214131-03e5-4c51-a9fa-70dfef5d9abb",
-        "name": "7/21/25 - Ad",
-        "ad_account_name": "iOS In-App Promotions",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "call_to_action": "VIEW PROFILE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NyEBJ5LJ418RugYC3UOxE.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-07-22T05:00:00.000Z",
-        "impressions_total": 3375651,
-        "impressions_map": {
-          "de": 86659,
-          "be": 523620,
-          "fi": 143598,
-          "pt": 56799,
-          "bg": 115325,
-          "dk": 74350,
-          "lt": 22462,
-          "lu": 30032,
-          "hr": 242562,
-          "lv": 0,
-          "fr": 11681,
-          "hu": 30394,
-          "se": 79891,
-          "si": 134026,
-          "sk": 5742,
-          "ie": 419358,
-          "ee": 0,
-          "el": 305890,
-          "mt": 0,
-          "it": 301226,
-          "es": 267560,
-          "at": 165023,
-          "cy": 0,
-          "cz": 30217,
-          "pl": 101742,
-          "ro": 138908,
-          "nl": 71554,
-          "tr": 17032
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Jordan",
-        "profile_name": "Jordan",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/jhillis6995",
-          "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/10226021-102427821505_2-s5-v1.webp?scale=0&trim=circle&ua=2",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",

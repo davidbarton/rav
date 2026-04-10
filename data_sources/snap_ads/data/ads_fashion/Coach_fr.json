@@ -1,62 +1,64 @@
 {
   "brand": "Coach",
   "country": "fr",
-  "fetched_at": "2026-04-09T18:41:39.819Z",
+  "fetched_at": "2026-04-10T07:02:11.336Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "eaea01fc-c2bc-462d-a397-a647fc258c1b",
-        "name": "4/30/25 - Ad",
+        "id": "bd4098a6-e318-4482-bd5d-f52b63dcbb51",
+        "name": "⁧29‏/8‏/25 - إعلان⁩",
         "ad_account_name": "iOS In-App Promotions",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
         "ad_type": "DEEP_LINK",
         "ad_render_type": "STATIC",
-        "languages": [],
+        "languages": [
+          "ar"
+        ],
         "call_to_action": "FOLLOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xXjSJ8WMZ9h3b6ZKwgICL.67.IRZXSOY?mo=GrcCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogE1CEMSGgoYCOuFCyABSg4KCSAJBgkIBwYHCBD0A2gCIhUKCEIGCKTcxsAGEgAqB0lSWlhTT1miATYIugoSGgoYCOHACiABSg4KCR8HBggICAYHCBD0A2gCIhUKCEIGCNncxsAGEgAqB0lSWlhTT1miATUIfxIaChgI28sHIAFKDgoJFwUEBgYFBAUGEPQDaAIiFQoIQgYI2dzGwAYSACoHSVJaWFNPWaIBNgiSChIaChgIm4QIIAFKDgoJFwYEBwUGBQUGEPQDaAIiFQoIQgYI2dzGwAYSACoHSVJaWFNPWaIBNgjEChIaChgIht8GIAFKDgoJFwUDBQUFBAQFEPQDaAIiFQoIQgYI2dzGwAYSACoHSVJaWFNPWZADhk4%3D&uc=15",
-        "start_date": "2025-04-30T05:09:31.000Z",
-        "impressions_total": 946,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9138DgisLfsoBxE9ptx8B.67.IRZXSOY?mo=GswDGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBRQhDEigKJgia9qsBIAEw4AM41AZAAUoPCgqdAQgHCwgIBwYHEPQDUILxBmgCIhcKCkIGCJ2OlsUGSAMSACoHSVJaWFNPWaIBRgi6ChIoCiYIl9auASABMNAFOIAKQAJKDwoKlwEIBwwKCAcICBD0A1CC8QZoAiIXCgpCBgibmJbFBkgDEgAqB0lSWlhTT1miAUQIfxInCiUIvoZ7IAEw4AM41AZAAkoPCgqTAQYGCQYGBgUFEPQDUILxBmgCIhcKCkIGCJuYlsUGSAISACoHSVJaWFNPWaIBRQiSChInCiUIqel6IAEw4AM41AZAAkoPCgqTAQYFCgYGBgYFEPQDUILxBmgCIhcKCkIGCJuYlsUGSAISACoHSVJaWFNPWaIBRQjEChInCiUIvdx4IAEw4AM41gZAAkoPCgqLAQUFCAcGBQUGEPQDUILxBmgCIhcKCkIGCJuYlsUGSAISACoHSVJaWFNPWaIBRgjSChIoCiYIkKqCASABMOADONQGQAJKDwoKjgEGBggIBgUGBRD0A1CC8QZoAiIXCgpCBgibmJbFBkgCEgAqB0lSWlhTT1mQA4LxBg%3D%3D&uc=15",
+        "start_date": "2025-08-29T21:00:00.000Z",
+        "impressions_total": 10776,
         "impressions_map": {
-          "de": 3,
-          "be": 53,
-          "fi": 0,
-          "pt": 0,
-          "bg": 290,
-          "dk": 2,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
+          "de": 6,
+          "be": 364,
+          "fi": 31,
+          "pt": 28,
+          "bg": 1283,
+          "dk": 53,
+          "lt": 27,
+          "lu": 17,
+          "hr": 6,
           "lv": 0,
-          "fr": 49,
-          "hu": 41,
-          "se": 16,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
+          "fr": 235,
+          "hu": 66,
+          "se": 78,
+          "si": 11,
+          "sk": 127,
+          "ie": 24,
           "ee": 0,
-          "el": 117,
+          "el": 262,
           "mt": 0,
-          "it": 56,
-          "es": 51,
-          "at": 5,
+          "it": 2623,
+          "es": 383,
+          "at": 30,
           "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 263
+          "cz": 269,
+          "pl": 521,
+          "ro": 101,
+          "nl": 22,
+          "tr": 4209
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "18",
+              "min_age": "30",
               "age_groups": [],
               "languages": [],
               "advanced_demographics": []
@@ -64,254 +66,14 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Coach J.J.",
-        "profile_name": "Coach J.J.🧘🏻‍♀️🫐",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZkZQY3JQNllRbmY4NlRRaTJCb2tXP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "paying_advertiser_name": "Coach Manal Abdulaziz",
+        "profile_name": "كوتش منال أبوالعلا",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWnp1ZzdpSmhhUnNkYjI5SHJyV1JrP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "sticker_display_mode": "HIDE",
         "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/an-nmh",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZkZQY3JQNllRbmY4NlRRaTJCb2tXP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
+          "deep_link_uri": "snapchat://add/divamanal",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWnp1ZzdpSmhhUnNkYjI5SHJyV1JrP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
           "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "02e150db-c8de-47d5-b2a5-ce4b929b0d28",
-        "name": "23/03/2026 - Publicité",
-        "ad_account_name": "Irina Queen libre-service",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6OOmSUaTJhrjaspR2vRlL.67?mo=Gq8CGgcyAQRQD2ABUIsCWghBZHNNZWRpYaIBQQhDEioKKAjEkXAgATDgAzjUBkABSg4KCVkqLz1QL0czOhD0A1DaaWgCdYKSS0AiEQoNOgF9QgYIsYGGzgZIBBIAogE6CLoKEioKKAiemE8gATDQBTiACkACSg4KCUwhKCI6MzYgKxD0A1DaaWgCdUzxVEAiCQoFMgF9SAMSAKIBRwiSChIvCi0I8-lBIAEw4AM41AZAAkoOCgk3GxopLh4sICAQ9ANQ2mloAnW-LUVAfQAAgD8iEQoNOgF9QgYIxYGGzgZIAhIAogFHCNIKEi8KLQiqkzUgATDgAzjUBkACSg4KCTcWGhgnIyMWGxD0A1DaaWgCdT7XR0B9AACAPyIRCg06AX1CBgjFgYbOBkgCEgCQA9pp&uc=15",
-        "start_date": "2026-03-23T23:00:00.000Z",
-        "impressions_total": 5465,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 5465,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Irina Coach",
-        "profile_name": "Irina/Coach/Athlète",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/irina-cherina",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,640_FMpng",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "b524cc7d-6599-45f0-9696-4f023c05cfdf",
-        "name": "14/07/25 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "call_to_action": "VIEW PROFILE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GzfeKIVdx3BTZiAkxbZ6I.67.IRZXSOY?mo=GsMDGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBQwhDEiYKJAjD_1sgATDgAzjQBkABSg4KCWkiNCEnNi4wIRD0A1CShgFoAiIXCgpCBgiut9XDBkgEEgAqB0lSWlhTT1miAUQIugoSJgokCPWXTSABMNAFOPgJQAJKDgoJaiUpIR86HikgEPQDUJKGAWgCIhcKCkIGCJC41cMGSAISACoHSVJaWFNPWaIBQwh_EiYKJAjukzwgATDgAzjQBkACSg4KCVAWJBcbJyEgFxD0A1CShgFoAiIXCgpCBgiQuNXDBkgCEgAqB0lSWlhTT1miAUQIkgoSJgokCL6dPyABMOADONAGQAJKDgoJTBomFx0nICIaEPQDUJKGAWgCIhcKCkIGCJC41cMGSAISACoHSVJaWFNPWaIBRAjEChImCiQImagwIAEw4AM40AZAAkoOCglHFxkUEyISGxMQ9ANQkoYBaAIiFwoKQgYIkLjVwwZIAhIAKgdJUlpYU09ZogFECNIKEiYKJAjLhzMgATDgAzjQBkACSg4KCUwaHBYVJBUcFRD0A1CShgFoAiIXCgpCBgiQuNXDBkgCEgAqB0lSWlhTT1mQA5KGAQ%3D%3D&uc=15",
-        "start_date": "2025-07-14T22:00:00.000Z",
-        "impressions_total": 24148,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 24148,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "IBRA COACH 🥇",
-        "profile_name": "IBRA COACH",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVlVYRFAwTjdIYnhUbzc0V1pBTVJnP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/ibra-west",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTU5tTG45bWQ5a0NVd1FCejMxZmNoP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8b8ca446-a845-46b7-9fd0-998bdfd250b3",
-        "name": "Max_10.mp4",
-        "ad_account_name": "Zing Coach Inc. Self Service",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Get your AI-powered fitness plan💪",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/gN7FGN4tOiOQ74qRG6bQp.67?mo=Gr4CGgoyAgR9SAJQD2ABWghBZHNNZWRpYaIBLQhDEiUKIwiphzQgATDgAzjUBkABSg4KCU8eGhsWEhcSEhD0A1Cae2gCIgISAKIBLgi6ChIlCiMIu-YqIAEw0AU4gApAAkoOCglXGhgWFBQQEhEQ9ANQmntoAiICEgCiAS0IfxIlCiMIlIklIAEw4AM41AZAAkoOCgk9EhUQDwwQDQsQ9ANQmntoAiICEgCiAS4IkgoSJQojCJrHJyABMOADONQGQAJKDgoJPxQWEQ4PEA0NEPQDUJp7aAIiAhIAogEuCMQKEiUKIwjV2R4gATDgAzjWBkACSg4KCUESEQ8NDgwMDBD0A1Cae2gCIgISAKIBLgjSChIlCiMI0rchIAEw4AM41AZAAkoOCglFExIRDw8NDw0Q9ANQmntoAiICEgCQA5p7&uc=15",
-        "start_date": "2025-06-27T21:00:00.000Z",
-        "impressions_total": 11418,
-        "impressions_map": {
-          "de": 149,
-          "be": 116,
-          "fi": 300,
-          "pt": 530,
-          "bg": 246,
-          "dk": 108,
-          "lt": 329,
-          "lu": 61,
-          "hr": 287,
-          "lv": 0,
-          "fr": 84,
-          "hu": 107,
-          "se": 215,
-          "si": 429,
-          "sk": 101,
-          "ie": 3002,
-          "ee": 0,
-          "el": 990,
-          "mt": 0,
-          "it": 307,
-          "es": 384,
-          "at": 105,
-          "cy": 0,
-          "cz": 182,
-          "pl": 697,
-          "ro": 289,
-          "nl": 452,
-          "tr": 1948
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [
-                "en"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": [],
-              "operation": "INCLUDE"
-            }
-          ]
-        },
-        "paying_advertiser_name": "Zing Coach Inc.",
-        "profile_name": "Zing Al: Home & Gym Workouts",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEdta2tNTWllR1V5SU93S0lLeXlXP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://zing-gym.coach/?utm_medium=snapchat_ads&campaign_id={{campaign.id}}&adset_id={{adSet.id}}&utm_term={{campaign.id}}_{{adSet.id}}_{{ad.id}}&utm_source=snapchat&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -394,8 +156,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "64820ffc-5d2f-44cb-a9a8-d6ad0b993055",
-        "name": "07/07/25 - Publicité",
+        "id": "e4850da7-5072-400f-a993-4dc13fbfd698",
+        "name": "21/01/26 - Publicité",
         "ad_account_name": "Promotions iOS in-app",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
@@ -404,12 +166,12 @@
         "languages": [
           "fr"
         ],
-        "call_to_action": "FOLLOW",
+        "call_to_action": "VIEW PROFILE",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0bWknBhssWNiYFOXkvlbM.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2025-07-07T09:36:42.000Z",
-        "impressions_total": 5640,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KGsBpnYUJW5IhEW1BVXiY.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
+        "start_date": "2026-01-21T23:00:00.000Z",
+        "impressions_total": 29333,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -421,7 +183,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 5640,
+          "fr": 29333,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -452,13 +214,238 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "El Coach ",
-        "profile_name": "ElCoach 💪🏼",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcHdBcXpHc0xYcDJoMWducVJWVllTP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "paying_advertiser_name": "Coach Carole",
+        "profile_name": "LBM • MINDSET & STYLE",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWDZmSXJMOXUySEFxOWgxTjBvVzB1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "sticker_display_mode": "HIDE",
         "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/el.coach95",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcHdBcXpHc0xYcDJoMWducVJWVllTP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+          "deep_link_uri": "snapchat://add/coaching-3",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWDZmSXJMOXUySEFxOWgxTjBvVzB1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "6bda52aa-7f38-4369-b85a-1fc8a5490c30",
+        "name": "10/02/26 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "call_to_action": "VIEW PROFILE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CuoCWS480n5c3jLFTHBst.67?mo=GsMCGgoyAQQ6AX1QD2ABUIsCWghBZHNNZWRpYaIBRghDEjIKMAjLi7UCIAEw4AM41AZAAUoPCgqPASwzFyAnKCAnEPQDUKrNA2gCdbuTWUB9AACAPyIOCgpCBgiWpa7MBkgCEgCiAUcIugoSMgowCP-8sgMgATDQBTiACkACSg8KCq8BSDU1NEMsPzoQ9ANQqs0DaAJ1sgt2QH0AAIA_Ig4KCkIGCIimrswGSAMSAKIBRgiSChIxCi8In9vQASABMOADONQGQAJKDgoJeB0lDhccHhcYEPQDUKrNA2gCdWZnT0B9AACAPyIOCgpCBgiIpq7MBkgCEgCiAUYI0goSMQovCJft3AEgATDgAzjUBkACSg4KCXkjHBcZIhceHRD0A1CqzQNoAnX5F2VAfQAAgD8iDgoKQgYIiKauzAZIAhIAkAOqzQM%3D&uc=15",
+        "start_date": "2026-02-10T23:00:00.000Z",
+        "impressions_total": 36534,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 36534,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "20",
+              "max_age": "40",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Coach Carole",
+        "profile_name": "LBM • MINDSET & STYLE",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWDZmSXJMOXUySEFxOWgxTjBvVzB1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/coaching-3",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWDZmSXJMOXUySEFxOWgxTjBvVzB1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ba69e0c6-0812-44d0-8783-ece94161eab8",
+        "name": "⁧14‏/4‏/25 - إعلان⁩",
+        "ad_account_name": "⁧عمليات الترويج داخل تطبيق iOS⁩",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "ar"
+        ],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/34SfsX2M47cTPQxqrKxRY.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2025-04-14T20:00:00.000Z",
+        "impressions_total": 11079,
+        "impressions_map": {
+          "de": 2,
+          "be": 42,
+          "fi": 42,
+          "pt": 24,
+          "bg": 5870,
+          "dk": 0,
+          "lt": 108,
+          "lu": 17,
+          "hr": 3,
+          "lv": 0,
+          "fr": 12,
+          "hu": 47,
+          "se": 4,
+          "si": 5,
+          "sk": 19,
+          "ie": 15,
+          "ee": 0,
+          "el": 586,
+          "mt": 0,
+          "it": 1428,
+          "es": 258,
+          "at": 5,
+          "cy": 0,
+          "cz": 428,
+          "pl": 113,
+          "ro": 79,
+          "nl": 2,
+          "tr": 1970
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Champions coach",
+        "profile_name": "كوتش _خالد",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvM1N4V3l3TWFEU0hET1BWVFpqMzJVP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/ikhalid.24",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMUY4ZU5pbU5MTjVWbVVEWERxWUhYP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "eaea01fc-c2bc-462d-a397-a647fc258c1b",
+        "name": "4/30/25 - Ad",
+        "ad_account_name": "iOS In-App Promotions",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/xXjSJ8WMZ9h3b6ZKwgICL.67.IRZXSOY?mo=GrcCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogE1CEMSGgoYCOuFCyABSg4KCSAJBgkIBwYHCBD0A2gCIhUKCEIGCKTcxsAGEgAqB0lSWlhTT1miATYIugoSGgoYCOHACiABSg4KCR8HBggICAYHCBD0A2gCIhUKCEIGCNncxsAGEgAqB0lSWlhTT1miATUIfxIaChgI28sHIAFKDgoJFwUEBgYFBAUGEPQDaAIiFQoIQgYI2dzGwAYSACoHSVJaWFNPWaIBNgiSChIaChgIm4QIIAFKDgoJFwYEBwUGBQUGEPQDaAIiFQoIQgYI2dzGwAYSACoHSVJaWFNPWaIBNgjEChIaChgIht8GIAFKDgoJFwUDBQUFBAQFEPQDaAIiFQoIQgYI2dzGwAYSACoHSVJaWFNPWZADhk4%3D&uc=15",
+        "start_date": "2025-04-30T05:09:31.000Z",
+        "impressions_total": 946,
+        "impressions_map": {
+          "de": 3,
+          "be": 53,
+          "fi": 0,
+          "pt": 0,
+          "bg": 290,
+          "dk": 2,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 49,
+          "hu": 41,
+          "se": 16,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 117,
+          "mt": 0,
+          "it": 56,
+          "es": 51,
+          "at": 5,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 263
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Coach J.J.",
+        "profile_name": "Coach J.J.🧘🏻‍♀️🫐",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZkZQY3JQNllRbmY4NlRRaTJCb2tXP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/an-nmh",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZkZQY3JQNllRbmY4NlRRaTJCb2tXP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -544,22 +531,93 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "57c8e3eb-18f0-44f5-b8d6-a54d0b4b68c7",
-        "name": "22/10/25 - Publicité",
+        "id": "7704b433-f65c-4da2-b685-16fce21e0c0b",
+        "name": "08/04/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "call_to_action": "BOOK NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/DtOFP9aX6cG5tby2XcshV.67.IRZXSOY?mo=Gr8CGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNwhDEhoKGAifsjAgAUoOCglQJBg0JyclNxsQ9ANoAiIXCgpCBgjJ3dS_BkgCEgAqB0lSWlhTT1miATgIugoSGgoYCPz5MCABSg4KCVMlGDIpLR9FIRD0A2gCIhcKCkIGCIPe1L8GSAMSACoHSVJaWFNPWaIBNwh_EhoKGAiPzxwgAUoOCgk2EhEeFhcXGxEQ9ANoAiIXCgpCBgiD3tS_BkgCEgAqB0lSWlhTT1miATgIkgoSGgoYCKuhHiABSg4KCTYVEB4aGBkeEhD0A2gCIhcKCkIGCIPe1L8GSAISACoHSVJaWFNPWaIBOAjEChIaChgI6LUdIAFKDgoJNBMNHhgbEigTEPQDaAIiFwoKQgYIg97UvwZIAhIAKgdJUlpYU09ZkAPyTQ%3D%3D&uc=15",
+        "start_date": "2025-04-09T02:29:30.000Z",
+        "impressions_total": 516,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 128,
+          "hr": 0,
+          "lv": 0,
+          "fr": 80,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 308
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "ZHM COACH",
+        "profile_name": "COAH ZHM",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
+        "sticker_display_mode": "HIDE",
+        "web_view_properties": {
+          "url": "https://www.zhmcoaching.com"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2e45fcfc-bfdd-4bc1-9caa-f63242911920",
+        "name": "21/11/25 - Publicité",
         "ad_account_name": "Promotions iOS in-app",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
         "ad_type": "DEEP_LINK",
         "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "call_to_action": "FOLLOW",
+        "languages": [],
+        "call_to_action": "VIEW PROFILE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oT2H9mPr4v468DeGov9qw.67?mo=GroCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBRAhDEjAKLgjtgFUgATDgAzjOBkABSg4KCWUbHBcgICkgJRD0A1DEkAFoAnVHZ15AfQAAgD8iDgoKQgYIydDixwZIBBIAogFFCLoKEjAKLgikuUQgATDQBTj2CUACSg4KCXcTERYbGRwdHBD0A1DEkAFoAnWinnBAfQAAgD8iDgoKQgYI6dDixwZIAhIAogFFCJIKEjAKLgi4kDggATDgAzjOBkACSg4KCUwPEw8XFx8VGRD0A1DEkAFoAnW8hVFAfQAAgD8iDgoKQgYI6dDixwZIAhIAogFFCNIKEjAKLgjNpjQgATDgAzjOBkACSg4KCVoQDxEWFRUXFRD0A1DEkAFoAnXt0mBAfQAAgD8iDgoKQgYI6dDixwZIAhIAkAPEkAE%3D&uc=15",
-        "start_date": "2025-10-22T09:59:27.000Z",
-        "impressions_total": 6159,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vZ3Vhn6HcRyv8QrvDTeIJ.67?mo=GrMCGgwyAQQ6AX1IAlAPYAFQiwJaCEFkc01lZGlhogE_CEMSLQorCLeWzgIgATDgAzjWBkABSg8KCpIBKy0wLEMoKzAQ9ANQ-usDaAJ1EqwtQCIMCghCBgjd_oLJBhIAogE_CLoKEiwKKgiCx8QBIAEw4AM41gZAAkoOCglrHRkcGS0UGR0Q9ANQ-usDaAJ10G8mQCIMCghCBgjK_4LJBhIAogFFCJIKEjIKMAjYxpMCIAEw4AM41gZAAkoPCgqEASQnJzYmIyYtEPQDUPrrA2gCdVmmH0B9AACAPyIMCghCBgjK_4LJBhIAogFECNIKEjEKLwiKq98BIAEw4AM41gZAAkoOCglzIBsgGzUZHiIQ9ANQ-usDaAJ1UPgnQH0AAIA_IgwKCEIGCMr_gskGEgCQA_rrAw%3D%3D&uc=15",
+        "start_date": "2026-03-23T16:51:54.000Z",
+        "impressions_total": 34801,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -571,7 +629,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 6159,
+          "fr": 34801,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -596,20 +654,19 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "gender": "FEMALE",
               "languages": [],
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
-        "paying_advertiser_name": "IBRA COACH 🥇",
-        "profile_name": "IBRA COACH",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVlVYRFAwTjdIYnhUbzc0V1pBTVJnP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "paying_advertiser_name": "MMCOACHING",
+        "profile_name": "MMCOACHING",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSlNqQkhLS3h3ZDR1Y2N5THFyMklBP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "sticker_display_mode": "HIDE",
         "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/ibra-west",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVlVYRFAwTjdIYnhUbzc0V1pBTVJnP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "deep_link_uri": "snapchat://add/mbembatipmiesi",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSlNqQkhLS3h3ZDR1Y2N5THFyMklBP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -620,113 +677,22 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "9af89b67-aaef-446a-a3be-871a4c4ec7a4",
-        "name": "April03-SV",
-        "ad_account_name": "MYFITNESSCOACH LLC Self Service",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Track Every Calorie with a Scan",
-        "call_to_action": "INSTALL NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/iISoEW7cDapQKbVbPSpuu.67?mo=GpsCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPQhDEjEKLwjTx4QBIAEw4AM41AZAAUoOCglUGwoSEgkODxIQ9ANQvPwCaAJ15JJhQH0AAIA_IgYKAkgDEgCiAT0IugoSMAouCMqYeiABMNAFOIAKQAJKDgoJWhAMEg8HDRAQEPQDULz8AmgCdeu7cUB9AACAPyIGCgJIAhIAogE9CJIKEjAKLgj05WIgATDgAzjUBkACSg4KCVAMCQwMBwoLDBD0A1C8_AJoAnVhDVNAfQAAgD8iBgoCSAISAKIBPQjSChIwCi4I18xZIAEw4AM41AZAAkoOCglKDAgNCgUJCQsQ9ANQvPwCaAJ1NkxiQH0AAIA_IgYKAkgCEgCQA7z8Ag%3D%3D&uc=15",
-        "start_date": "2026-04-03T11:26:19.000Z",
-        "impressions_total": 14372,
-        "impressions_map": {
-          "de": 88,
-          "be": 499,
-          "fi": 22,
-          "pt": 376,
-          "bg": 415,
-          "dk": 17,
-          "lt": 76,
-          "lu": 88,
-          "hr": 850,
-          "lv": 0,
-          "fr": 22,
-          "hu": 357,
-          "se": 36,
-          "si": 1438,
-          "sk": 8,
-          "ie": 157,
-          "ee": 0,
-          "el": 723,
-          "mt": 0,
-          "it": 416,
-          "es": 274,
-          "at": 0,
-          "cy": 0,
-          "cz": 152,
-          "pl": 154,
-          "ro": 1662,
-          "nl": 71,
-          "tr": 6471
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "MYFITNESSCOACH LLC",
-        "profile_name": "My Fitness Coach",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR3hDU0tFbTJTc2lXbHEyR3pJbTVnP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "app_install_preview": {
-          "app_name": "MyFitnessCoach Calorie Counter",
-          "ios_app_id": "1670136195",
-          "android_app_url": "com.myfitnesscoach",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/r4oGLXJsBuWrFtP3Ktxrw.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
-          "playable_media_properties": {},
-          "ios_app_end_card_media_download_links": [
-            "https://cf-st.sc-cdn.net/d/ok9bLxpuHgggwKq34VKPp.1023?mo=GhYaCjICBH1IAlAPYAGiAQcI_wciAhIA&uc=15",
-            "https://cf-st.sc-cdn.net/d/YLXIo5T2720o5jrQs8fyu.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15"
-          ],
-          "android_app_end_card_media_download_links": [
-            "https://cf-st.sc-cdn.net/d/ok9bLxpuHgggwKq34VKPp.1023?mo=GhYaCjICBH1IAlAPYAGiAQcI_wciAhIA&uc=15",
-            "https://cf-st.sc-cdn.net/d/YLXIo5T2720o5jrQs8fyu.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15"
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "5f6c8af6-0e31-4404-8e6f-63234afef3d2",
-        "name": "08/04/25 - Publicité",
+        "id": "6c07a506-4ec8-47a0-bd11-05b7c0115620",
+        "name": "09/07/25 - Publicité",
         "ad_account_name": "Promotions iOS in-app",
         "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
         "ad_render_type": "STATIC",
         "languages": [
           "fr"
         ],
-        "call_to_action": "BOOK NOW",
-        "top_snap_media_type": "VIDEO",
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/DtOFP9aX6cG5tby2XcshV.67.IRZXSOY?mo=Gr8CGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBNwhDEhoKGAifsjAgAUoOCglQJBg0JyclNxsQ9ANoAiIXCgpCBgjJ3dS_BkgCEgAqB0lSWlhTT1miATgIugoSGgoYCPz5MCABSg4KCVMlGDIpLR9FIRD0A2gCIhcKCkIGCIPe1L8GSAMSACoHSVJaWFNPWaIBNwh_EhoKGAiPzxwgAUoOCgk2EhEeFhcXGxEQ9ANoAiIXCgpCBgiD3tS_BkgCEgAqB0lSWlhTT1miATgIkgoSGgoYCKuhHiABSg4KCTYVEB4aGBkeEhD0A2gCIhcKCkIGCIPe1L8GSAISACoHSVJaWFNPWaIBOAjEChIaChgI6LUdIAFKDgoJNBMNHhgbEigTEPQDaAIiFwoKQgYIg97UvwZIAhIAKgdJUlpYU09ZkAPyTQ%3D%3D&uc=15",
-        "start_date": "2025-09-26T17:52:53.000Z",
-        "impressions_total": 699,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/AUwEiVrgqRZBTUlG0aQ0M.380.IRZXSOY?mo=GjoaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2025-07-11T22:00:00.000Z",
+        "impressions_total": 2892,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -735,10 +701,10 @@
           "bg": 0,
           "dk": 0,
           "lt": 0,
-          "lu": 561,
+          "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 27,
+          "fr": 2892,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -755,7 +721,7 @@
           "pl": 0,
           "ro": 0,
           "nl": 0,
-          "tr": 111
+          "tr": 0
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -769,12 +735,14 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "ZHM COACH",
-        "profile_name": "COAH ZHM",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
+        "paying_advertiser_name": "Coach Carole",
+        "profile_name": "Coach De Vie",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWDZmSXJMOXUySEFxOWgxTjBvVzB1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "sticker_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://www.zhmcoaching.com"
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/coaching-3",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMUdzbkRLN0RvRXZTZzBybmtSY1F4P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+          "playable_media_properties": {}
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

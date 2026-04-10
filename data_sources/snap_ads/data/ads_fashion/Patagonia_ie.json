@@ -1,245 +1,10 @@
 {
   "brand": "Patagonia",
   "country": "ie",
-  "fetched_at": "2026-04-09T22:11:00.282Z",
+  "fetched_at": "2026-04-10T07:55:49.923Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "99bfb92a-ebec-441a-8187-3892752e5cdb",
-        "name": "R1SS25-VideoStory",
-        "ad_account_name": "Patagonia Europe Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Regulator® Technical Fleece",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-04-22T06:00:00.000Z",
-        "impressions_total": 238890,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 238890,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Patagonia Europe",
-        "profile_name": "Patagonia Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "title_headline": "Regulator® Technical Fleece",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Regulator® Technical Fleece",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/5upKvHPpGVsEY1lvCHnVr.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIo6drIAEw4AM41AZAAUoOCgk6GSAcIS4fOBUQ9ANQ6HVoAiIGCgJIAhIAogEyCLoKEiUKIwiQplIgATDQBTiACkACSg4KCS0TFBIVIxg4EhD0A1DodWgCIgYKAkgDEgCiATEIfxIlCiMIiJhEIAEw4AM41AZAAkoOCgkmDQ4NERoYKRAQ9ANQ6HVoAiIGCgJIAhIAogEyCJIKEiUKIwjI3kUgATDgAzjUBkACSg4KCScODw4QHBkpDxD0A1DodWgCIgYKAkgCEgCiATIIxAoSJQojCP_iNCABMOADONYGQAJKDgoJIw0NCxAXEDIMEPQDUOh1aAIiBgoCSAISAKIBMgjSChIlCiMIuJo1IAEw4AM41AZAAkoOCgklDQ0LEBgSNAwQ9ANQ6HVoAiIGCgJIAhIAkAPodQ%3D%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://eu.patagonia.com/ie/en/shop/favorites/regulator-fleece?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-R1SS25-IE-Conversion-Snapchat-Product-Brand"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ec058988-cd2a-4aec-81d2-af6cad4d63cd",
-        "name": "Social Engagers Video 1",
-        "ad_account_name": "Patagonia Europe Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Find activism opportunities",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WanIHjOyUJ16FEV4EcF8G.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIg84lIAEw4AM41AZAAUoOCgkjCQkFCwg4KBgQ9ANQrHVoAiIGCgJIBRIAogEyCLoKEiUKIwiV1h8gATDQBTiACkACSg4KCSEKCAYKBzUeFxD0A1CsdWgCIgYKAkgDEgCiATEIfxIlCiMI-tYaIAEw4AM41AZAAkoOCgkkCAcECQUqGxIQ9ANQrHVoAiIGCgJIAhIAogEyCJIKEiUKIwj_2xwgATDgAzjUBkACSg4KCSgLBwUJCCocExD0A1CsdWgCIgYKAkgCEgCiATIIxAoSJQojCJeTFiABMOADONYGQAJKDgoJHQgGAwcFJRUQEPQDUKx1aAIiBgoCSAISAKIBMgjSChIlCiMI448XIAEw4AM41AZAAkoOCgkfCQYECAUoFhEQ9ANQrHVoAiIGCgJIAhIAkAOsdQ%3D%3D&uc=15",
-        "start_date": "2024-12-11T15:02:29.000Z",
-        "impressions_total": 181987,
-        "impressions_map": {
-          "de": 0,
-          "be": 143821,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 1323,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1418,
-          "hu": 0,
-          "se": 1962,
-          "si": 0,
-          "sk": 0,
-          "ie": 31286,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 2177,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Patagonia Europe",
-        "profile_name": "Patagonia Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Traffic-ROE-Snapchat&utm_medium=cpc"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "e0597cbf-6b84-408e-937e-c1c83205a955",
-        "name": "Existing Customers Video",
-        "ad_account_name": "Patagonia Europe Self Service",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Find activism opportunities",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VQQFrSsSmdQOgwCMAGS4g.67?mo=Gv0CGg4aABoAMgEEOgF9UA9gAVoIQWRzTWVkaWGiAUMIQxIvCi0I66AiIAFKIwoeIwcFBAUEBAUGUiUsMBYSETAdIScGBAQEAwMXAwMDEPQDaAIiDgoKQgYInqSBuwZIAxIAogFDCLoKEi4KLAj2-R0gAUoiCh0hCQcGBgYFBg8qIB8nFhMPKxoaIgsGBgQGBQUFBRD0A2gCIg4KCkIGCOKkgbsGSAISAKIBQwh_Ei8KLQjL9BggAUojCh4cBwUEBAUEBAUvFx4fDw0NHRcjJAYEAwQDAwQEAwQQ9ANoAiIOCgpCBgjipIG7BkgCEgCiAUQIkgoSLwotCMvdGiABSiMKHh8HBgQEBAUFBTIeHh8RDA4eFyQnBwQFBAQEBAQFBBD0A2gCIg4KCkIGCOKkgbsGSAISAKIBQwjEChIuCiwI2cYUIAFKIgodHwYFAwUDBAQJGxYXGw4MCh0QERkJBAMDAwMDAwQQ9ANoAiIOCgpCBgjipIG7BkgCEgCQA6x1&uc=15",
-        "start_date": "2024-12-16T16:25:00.000Z",
-        "impressions_total": 727492,
-        "impressions_map": {
-          "de": 0,
-          "be": 485850,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 5894,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 11302,
-          "hu": 0,
-          "se": 32014,
-          "si": 0,
-          "sk": 0,
-          "ie": 164356,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 28076,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Patagonia Europe",
-        "profile_name": "Patagonia Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Conversion-ROE-Snapchat&utm_medium=cpc"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -308,6 +73,390 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://eu.patagonia.com/ie/en/shop/favorites/regulator-fleece?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-R1SS25-IE-Conversion-Snapchat-Product-Ecom"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "66f04632-d38a-419d-a39c-c3e37904b5c1",
+        "name": "CommonKnowledge-FieldGoodFridays-Event-IE-13Mar26",
+        "ad_account_name": "Social Amp ",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Common Knowledge",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/0Hs62hp9MRJHUBZPgeQcV.67?mo=Go8CGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQic5SsgATDgAzjUBkABSg8KCrMBWSI-JkAxOzgQ9ANQ8C5oAnXSiGtAIgYKAkgCEgCiATgIugoSKwopCK6RKCABMNAFOIAKQAJKDwoK4wE2MCEtKzElKhD0A1DwLmgCdZEje0AiBgoCSAMSAKIBPQiSChIwCi4I2e4lIAEw4AM41AZAAkoPCgqTASg3NjBCLjQbEPQDUPAuaAJ1iGFdQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCIGiHyABMOADONQGQAJKDwoKogElJhsnLCMlIhD0A1DwLmgCdXBQd0B9AACAPyIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2026-03-03T14:24:50.000Z",
+        "impressions_total": 113232,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 113232,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Patagonia Europe",
+        "profile_name": "Patagonia Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.ourcommonknowledge.org/events/fieldgoodfriday26?utm_source=snapchat&utm_medium=cpc&utm_campaign=SocialAmp-Snapchat-CommonKnowledge-FieldGoodFridays-Event-IE-13Mar26"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ca84834a-54fa-4f9d-bc1e-9ca4298a332e",
+        "name": "WasteNylonSS25-SingleImage-GraniteCrest",
+        "ad_account_name": "Patagonia Europe Self Service",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "NetPlus® Granite Crest Jacket",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CcKGxyyaL7XT2mGkJTVzp.380?mo=GjsaFDIBBDoBfUIGCPKYj78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+        "start_date": "2025-03-27T15:53:58.000Z",
+        "impressions_total": 36314,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 36314,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Patagonia Europe",
+        "profile_name": "Patagonia Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://eu.patagonia.com/ie/en/shop/collections/netplus?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-WasteNylonSS25-IE-Conversion-Snapchat-Product-Ecom"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "8d8dc73d-b92f-4e65-8f35-472366b007d1",
+        "name": "WasteNylonSS25-SingleImage-Baggies",
+        "ad_account_name": "Patagonia Europe Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "NetPlus® Nylon Baggies™ Shorts",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8LAZCtovS3v5ffQuhRQHK.380?mo=GjsaFDIBBDoBfUIGCOCWj78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+        "start_date": "2025-03-27T15:53:58.000Z",
+        "impressions_total": 30625,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 30625,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Patagonia Europe",
+        "profile_name": "Patagonia Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://eu.patagonia.com/ie/en/shop/collections/netplus?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-WasteNylonSS25-IE-Conversion-Snapchat-Product-Ecom"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "88a29282-1aab-45ff-9c17-abb40d11b0b9",
+        "name": "R1SS25-DoneInR1Story",
+        "ad_account_name": "Patagonia Europe Self Service",
+        "status": "ACTIVE",
+        "creative_type": "COMPOSITE",
+        "ad_type": "STORY",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Regulator® Technical Fleece",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_crop_position": "MIDDLE",
+        "start_date": "2025-04-22T06:00:00.000Z",
+        "impressions_total": 1684019,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 1684019,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Patagonia Europe",
+        "profile_name": "Patagonia Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "composite_preview": {
+          "preview_creative_render_type": "STATIC",
+          "should_loop": true,
+          "title_headline": "Regulator® Technical Fleece",
+          "ad_snaps": [
+            {
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "Regulator® Technical Fleece",
+              "call_to_action": "SHOP_NOW",
+              "top_snap_media_type": "VIDEO",
+              "top_snap_crop_position": "MIDDLE",
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rRFCOyNYs6gXb9EVs54tu.67?mo=GukBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIgLZpIAFKDgoJX3UWDzYaZih2EPQDaAIiBgoCSAQSAKIBKAi6ChIbChkI_IJgIAFKDwoKbYMBDQoqFmAcfRD0A2gCIgYKAkgCEgCiASYIfxIaChgIu6JGIAFKDgoJSE4NByAPQBlREPQDaAIiBgoCSAISAKIBJwiSChIaChgI9ZBIIAFKDgoJSUwNCB4UQB1REPQDaAIiBgoCSAISAKIBJwjEChIaChgI3Yw_IAFKDgoJTFUJBh0QPhFSEPQDaAIiBgoCSAISAJAD1HU%3D&uc=15",
+              "brand_name": "",
+              "web_view_preview": {
+                "url": "https://eu.patagonia.com/nl/en/shop/favorites/regulator-fleece?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-R1SS25-NL-Conversion-Snapchat-Product-Ecom"
+              }
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "7e744726-8996-4018-b69a-826c7342e1f3",
+        "name": "WasteNylonSS25-SingleImage-DownSweater",
+        "ad_account_name": "Patagonia Europe Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "NetPlus® Down Sweater™ Jacket",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vu7kLXVtsUnLYfliXVEeY.380?mo=GjsaFDIBBDoBfUIGCLyZj78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
+        "start_date": "2025-03-27T15:53:58.000Z",
+        "impressions_total": 47794,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 47794,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Patagonia Europe",
+        "profile_name": "Patagonia Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://eu.patagonia.com/ie/en/shop/collections/netplus?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-WasteNylonSS25-IE-Conversion-Snapchat-Product-Ecom"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -462,281 +611,45 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "7e744726-8996-4018-b69a-826c7342e1f3",
-        "name": "WasteNylonSS25-SingleImage-DownSweater",
+        "id": "469957ad-5c5a-4caa-9e86-cf4aca95301f",
+        "name": "SurfStoke-Video15Sec-AW25-OnLocation-Action-Mixed",
         "ad_account_name": "Patagonia Europe Self Service",
-        "status": "ACTIVE",
+        "status": "PAUSED",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
           "en"
         ],
-        "headline": "NetPlus® Down Sweater™ Jacket",
+        "headline": "Patagonia Surf Gear",
         "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/vu7kLXVtsUnLYfliXVEeY.380?mo=GjsaFDIBBDoBfUIGCLyZj78GSAJQD2ABWhlBZHNJbWFnZVdlYlRvcFNuYXBQcmV2aWV3ogEHCPwCIgISAA%3D%3D&uc=15",
-        "start_date": "2025-03-27T15:53:58.000Z",
-        "impressions_total": 47794,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 47794,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Patagonia Europe",
-        "profile_name": "Patagonia Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://eu.patagonia.com/ie/en/shop/collections/netplus?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-WasteNylonSS25-IE-Conversion-Snapchat-Product-Ecom"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "88a29282-1aab-45ff-9c17-abb40d11b0b9",
-        "name": "R1SS25-DoneInR1Story",
-        "ad_account_name": "Patagonia Europe Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "Regulator® Technical Fleece",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-04-22T06:00:00.000Z",
-        "impressions_total": 1684019,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 1684019,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Patagonia Europe",
-        "profile_name": "Patagonia Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "preview_creative_render_type": "STATIC",
-          "should_loop": true,
-          "title_headline": "Regulator® Technical Fleece",
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Regulator® Technical Fleece",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/rRFCOyNYs6gXb9EVs54tu.67?mo=GukBGggyAgR9UA9gAVoIQWRzTWVkaWGiASYIQxIaChgIgLZpIAFKDgoJX3UWDzYaZih2EPQDaAIiBgoCSAQSAKIBKAi6ChIbChkI_IJgIAFKDwoKbYMBDQoqFmAcfRD0A2gCIgYKAkgCEgCiASYIfxIaChgIu6JGIAFKDgoJSE4NByAPQBlREPQDaAIiBgoCSAISAKIBJwiSChIaChgI9ZBIIAFKDgoJSUwNCB4UQB1REPQDaAIiBgoCSAISAKIBJwjEChIaChgI3Yw_IAFKDgoJTFUJBh0QPhFSEPQDaAIiBgoCSAISAJAD1HU%3D&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://eu.patagonia.com/nl/en/shop/favorites/regulator-fleece?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-R1SS25-NL-Conversion-Snapchat-Product-Ecom"
-              }
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "61f7db9f-cb27-4f2f-97c5-aa47eaae7102",
-        "name": "Euronatur-ShowYourLoveForNatureinpictures-Event-EU-31-Mar-25",
-        "ad_account_name": "Social Amp ",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "EuroNatur Foundation",
-        "call_to_action": "SIGN UP",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/aOwKKCJIiauHLnUyEsqVW.67?mo=GpwCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBMAhDEhwKGgii9QsgAUoQCgsqDg0PDAwOCycJBhD0A2gCIg4KCkIGCITFh70GSAQSAKIBMQi6ChIcChoIzqUIIAFKEAoLPQgJCAkGCAcGBAYQ9ANoAiIOCgpCBgicxYe9BkgCEgCiATAIfxIcChoIytAGIAFKEAoLHAgHBwYGBgYWBAQQ9ANoAiIOCgpCBgicxYe9BkgCEgCiATEIkgoSHAoaCPLyBiABShAKCx0HBwgHBwYGFgQFEPQDaAIiDgoKQgYInMWHvQZIAhIAogExCMQKEhwKGgixjwYgAUoQCgswBQcGBgUFBAUDAxD0A2gCIg4KCkIGCJzFh70GSAISAJAD8C4%3D&uc=15",
-        "start_date": "2026-02-01T23:00:56.000Z",
-        "impressions_total": 410517,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/KwpGENbPR2yjKxVIIHXSz.67?mo=GpYCGggyAgR9UA9gAVoIQWRzTWVkaWGiATwIQxIwCi4ItrRnIAEw4AM41AZAAUoPCgo7HCYtctMBQREaEPQDUKx1aAJ1gfcyQH0AAIA_IgYKAkgDEgCiAT0IugoSMAouCJztQCABMNAFOIAKQAJKDwoKKxUYGk2TAS0LERD0A1CsdWgCdfRVOkB9AACAPyIGCgJIAhIAogE9CJIKEjAKLgj47zggATDgAzjUBkACSg8KCiwVFhVJlQErCA4Q9ANQrHVoAnWzRDVAfQAAgD8iBgoCSAISAKIBPAjSChIvCi0I2JkpIAEw4AM41AZAAkoOCgkkDxAQMWMdBw0Q9ANQrHVoAnUVRzlAfQAAgD8iBgoCSAISAJADrHU%3D&uc=15",
+        "start_date": "2025-08-15T07:00:00.000Z",
+        "impressions_total": 11714,
         "impressions_map": {
           "de": 0,
-          "be": 88284,
-          "fi": 219,
-          "pt": 53905,
-          "bg": 0,
-          "dk": 116,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 206,
-          "hu": 30391,
-          "se": 7,
-          "si": 0,
-          "sk": 0,
-          "ie": 3999,
-          "ee": 0,
-          "el": 82400,
-          "mt": 0,
-          "it": 50413,
-          "es": 69917,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 30598,
-          "ro": 0,
-          "nl": 62,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Patagonia Europe",
-        "profile_name": "Patagonia Europe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.euronatur.org/en/about-euronatur/information-and-contact/publications-and-events/photo-competition/competition-2026?utm_source=snapchat&utm_medium=cpc&utm_campaign=SocialAmp-Snapchat-EuroNaturFoundation-Photocompetition-Other-EU-29Jan26"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "9bffbbd8-b75e-4470-b8d1-8f9a274a0d5b",
-        "name": "R1SS25-Story",
-        "ad_account_name": "Patagonia Europe Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "de",
-          "en"
-        ],
-        "headline": "Most Breathable Technical Fleece",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-04-22T06:00:00.000Z",
-        "impressions_total": 681584,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
+          "be": 1201,
           "fi": 0,
           "pt": 0,
           "bg": 0,
-          "dk": 0,
+          "dk": 781,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
           "fr": 0,
           "hu": 0,
-          "se": 0,
+          "se": 5112,
           "si": 0,
           "sk": 0,
-          "ie": 681584,
+          "ie": 3910,
           "ee": 0,
           "el": 0,
           "mt": 0,
           "it": 0,
-          "es": 0,
+          "es": 710,
           "at": 0,
           "cy": 0,
           "cz": 0,
@@ -761,64 +674,82 @@
         "paying_advertiser_name": "Patagonia Europe",
         "profile_name": "Patagonia Europe",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "composite_preview": {
-          "preview_creative_render_type": "STATIC",
-          "should_loop": true,
-          "title_headline": "Most Breathable Technical Fleece",
-          "ad_snaps": [
+        "web_view_properties": {
+          "url": "https://eu.patagonia.com/nl/en/shop/sport/surfing?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-AlwaysOn-ROE-Conversion-Snapchat-Product-Ecom&bg_source=sn&bg_source_id={{ad.id}}&bg_campaign={{campaign.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "ec058988-cd2a-4aec-81d2-af6cad4d63cd",
+        "name": "Social Engagers Video 1",
+        "ad_account_name": "Patagonia Europe Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Find activism opportunities",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/WanIHjOyUJ16FEV4EcF8G.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIg84lIAEw4AM41AZAAUoOCgkjCQkFCwg4KBgQ9ANQrHVoAiIGCgJIBRIAogEyCLoKEiUKIwiV1h8gATDQBTiACkACSg4KCSEKCAYKBzUeFxD0A1CsdWgCIgYKAkgDEgCiATEIfxIlCiMI-tYaIAEw4AM41AZAAkoOCgkkCAcECQUqGxIQ9ANQrHVoAiIGCgJIAhIAogEyCJIKEiUKIwj_2xwgATDgAzjUBkACSg4KCSgLBwUJCCocExD0A1CsdWgCIgYKAkgCEgCiATIIxAoSJQojCJeTFiABMOADONYGQAJKDgoJHQgGAwcFJRUQEPQDUKx1aAIiBgoCSAISAKIBMgjSChIlCiMI448XIAEw4AM41AZAAkoOCgkfCQYECAUoFhEQ9ANQrHVoAiIGCgJIAhIAkAOsdQ%3D%3D&uc=15",
+        "start_date": "2024-12-11T15:02:29.000Z",
+        "impressions_total": 182677,
+        "impressions_map": {
+          "de": 0,
+          "be": 144371,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 1324,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1422,
+          "hu": 0,
+          "se": 1969,
+          "si": 0,
+          "sk": 0,
+          "ie": 31406,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 2185,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
             {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Most Breathable Technical Fleece",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/M13Es5VMwF6LC9BIx8bXB.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://eu.patagonia.com/ie/en/shop/favorites/regulator-fleece?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-R1SS25-IE-Conversion-Snapchat-Product-Ecom"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Most Breathable Technical Fleece",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CyhKNJuaeHugFjJ5JFHRK.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://eu.patagonia.com/ie/en/shop/favorites/regulator-fleece?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-R1SS25-IE-Conversion-Snapchat-Product-Ecom"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Most Breathable Technical Fleece",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/fYC3vJGwAJa8HATD3FaCt.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://eu.patagonia.com/ie/en/shop/favorites/regulator-fleece?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-R1SS25-IE-Conversion-Snapchat-Product-Ecom"
-              }
-            },
-            {
-              "type": "WEB_VIEW",
-              "render_type": "STATIC",
-              "headline": "Most Breathable Technical Fleece",
-              "call_to_action": "SHOP_NOW",
-              "top_snap_media_type": "IMAGE",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/DsRWFPyjGnn86XdvtwsIu.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://eu.patagonia.com/ie/en/shop/favorites/regulator-fleece?utm_source=snapchat&utm_medium=cpc&utm_campaign=Nativve-R1SS25-IE-Conversion-Snapchat-Product-Ecom"
-              }
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
             }
-          ]
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Patagonia Europe",
+        "profile_name": "Patagonia Europe",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb2NBR1pKa0xhM2cwdFB2cmF6SktOP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://eu.patagonia.com/gb/en/actionworks/home/choose-location/?utm_source=snapchat&utm_campaign=PAW-Traffic-ROE-Snapchat&utm_medium=cpc"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

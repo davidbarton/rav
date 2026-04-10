@@ -1,29 +1,32 @@
 {
   "brand": "Arket",
   "country": "be",
-  "fetched_at": "2026-04-09T06:37:14.548Z",
+  "fetched_at": "2026-04-10T07:39:20.898Z",
   "ads_count": 10,
+  "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "f74d3009-d04f-4e23-9386-a60c5218bb3a",
-        "name": "30/10/25 - Publicité",
-        "ad_account_name": "D3 MARKETING Self Service",
+        "id": "302dda9b-9a8a-4b4c-bf4a-3695bc9ce506",
+        "name": "2025-10-30 - Single Image/Video Website Ad",
+        "ad_account_name": "MarketMuse Self Service",
         "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
+        "languages": [
+          "nl"
+        ],
+        "headline": "New Europese en Amerikaanse Herfst",
+        "call_to_action": "SHOP NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8Grmi0gZNMmgdDo0zW2iQ.385?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-        "start_date": "2025-10-30T23:00:00.000Z",
-        "impressions_total": 11458,
+        "start_date": "2025-10-30T08:58:59.000Z",
+        "impressions_total": 7654,
         "impressions_map": {
           "de": 0,
-          "be": 11458,
+          "be": 7654,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -63,102 +66,23 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "D3 MARKETING",
-        "profile_name": "Gori Sur Tanger 🔥✅️📈💻",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVVAwcHdyWTN4alBnaEtwSGprZDI0P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/salmane-tms",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvd2tIQWxZYWVnbE4weHdmTWhCS3dVP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "96e5bdda-dbd5-4e46-a40e-2b79ab121b2a",
-        "name": "Romuald Ad2",
-        "ad_account_name": "NMRCY MARKETING LTD Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Transforme une idée en marque",
-        "call_to_action": "WATCH",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/HROXpYqqdeMffSQfjhJbA.67?mo=GpkCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgjYrqYBIAEw4AM41AZAAUoSCg1YHBhEhQGDAZQBhQFHEPQDUIi_AmgCdTHZa0AiBgoCSAQSAKIBPAi6ChIvCi0IsNqmASABMNAFOIAKQAJKEQoMTxsTRIQBnQGdAXxcEPQDUIi_AmgCdUoKfEAiBgoCSAISAKIBPQiSChIwCi4I1NlqIAEw4AM41AZAAkoOCglHEA8mUXBxbDMQ9ANQiL8CaAJ1zFpVQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCKfVYCABMOADONQGQAJKDgoJPxAMJDdHSjstEPQDUIi_AmgCdX_GZ0B9AACAPyIGCgJIAhIAkAOIvwI%3D&uc=15",
-        "start_date": "2026-03-21T15:15:29.000Z",
-        "impressions_total": 5600,
-        "impressions_map": {
-          "de": 0,
-          "be": 2515,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 3085,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "fr"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "NMRCY MARKETING LTD",
-        "profile_name": "Romuald Ceo",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbVVjM0Myc1JkNHd0ZW1tdXF2VGhOP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "SHOW",
         "web_view_properties": {
-          "url": "https://www.ecom-shark.com/masterclass-by-romualdceo"
+          "url": "https://temu.to/k/e6xovq2sw7w"
         },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
+        "review_status": "DISAPPROVED",
+        "rejection_reasons": [
+          "Your Brand Name does not reflect the Paying Advertiser. Paying Advertiser examples include your Organization Name, Product Name, Parent Company, Artist Name or Co-Branded Partnerships. Please update your Brand Name to be reflective of the content you are advertising, resubmit for review, and our team will take another look."
+        ],
         "stickers": []
       }
     },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "2511e828-1dcf-4bc7-9aa3-d54bb23f8079",
-        "name": "Plus de followers",
-        "ad_account_name": "D3 MARKETING Self Service",
+        "id": "7e8466f8-05fe-4715-a45c-03d400609bec",
+        "name": "Crea 2026-046 FR / A, Votre appartement à Marrakech dès 65.000€",
+        "ad_account_name": "Nexus marketing digital Self Service",
         "status": "ACTIVE",
         "creative_type": "COMPOSITE",
         "ad_type": "STORY",
@@ -166,13 +90,14 @@
         "languages": [
           "fr"
         ],
-        "headline": "Gori sur Tanger",
+        "headline": "1er apport à partir de 22.000€",
+        "call_to_action": "VIEW",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2025-10-30T16:00:10.000Z",
-        "impressions_total": 125599,
+        "start_date": "2026-03-05T18:18:20.000Z",
+        "impressions_total": 4749,
         "impressions_map": {
           "de": 0,
-          "be": 22710,
+          "be": 4749,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -181,7 +106,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 102889,
+          "fr": 0,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -204,12 +129,10 @@
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "20",
-              "max_age": "40",
+              "min_age": "21",
               "age_groups": [],
-              "languages": [
-                "fr"
-              ],
+              "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -218,30 +141,38 @@
               "marketing_name": [],
               "model": [],
               "os_type": "iOS",
-              "carrier_id": []
+              "carrier_id": [],
+              "operation": "INCLUDE"
             },
             {
               "marketing_name": [],
               "model": [],
               "os_type": "ANDROID",
-              "carrier_id": []
+              "carrier_id": [],
+              "operation": "INCLUDE"
             }
           ]
         },
-        "paying_advertiser_name": "D3 MARKETING",
-        "profile_name": "Gori Sur Tanger 🔥✅️📈💻",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVVAwcHdyWTN4alBnaEtwSGprZDI0P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "paying_advertiser_name": "Nexus marketing digital",
+        "brand_name": "Nexis Properties - Marrakech",
+        "profile_name": "Nexis Properties",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc0RDbnhRckNJanVxUHFXeXpsd0ZKP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "composite_preview": {
           "should_loop": true,
-          "title_headline": "Gori sur Tanger",
+          "title_headline": "Votre appartement à Marrakech dès 65.590€",
           "ad_snaps": [
             {
-              "type": "SNAP_AD",
-              "headline": "Gori sur Tanger",
-              "top_snap_media_type": "IMAGE",
+              "type": "WEB_VIEW",
+              "render_type": "STATIC",
+              "headline": "1er apport à partir de 22.000€",
+              "call_to_action": "VIEW",
+              "top_snap_media_type": "VIDEO",
               "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/iDd7K1T8VRJOTJUOMBhDQ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-              "brand_name": ""
+              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/T9A8JoLOuzBGMojEOm4OO.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQiMkmAgATDgAzjUBkABSg4KCVstFTArIBYXDRD0A1DEqQFoAnXMWVRAIgYKAkgCEgCiATgIugoSKwopCNPsWSABMNAFOIAKQAJKDgoJUTASLikcDxUNEPQDUMSpAWgCddqBYEAiBgoCSAMSAKIBPQiSChIwCi4I_e5CIAEw4AM41AZAAkoOCglHIA0kHRUNEQkQ9ANQxKkBaAJ1kBNGQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCKmhQSABMOADONQGQAJKDgoJQyMMIh8UChAJEPQDUMSpAWgCdRwWUEB9AACAPyIGCgJIAhIAkAPEqQE%3D&uc=15",
+              "brand_name": "Nexis Properties - Marrakech",
+              "web_view_preview": {
+                "url": "https://nexis-properties.com/pages/miraya-residence-marrakech-2-eu"
+              }
             }
           ]
         },
@@ -253,82 +184,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "a7a1bb99-9260-4929-8f50-5be178e538c0",
-        "name": "Black Friday quantité limitée  - Publicité",
-        "ad_account_name": "discount market  Self Service",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "Black Friday quantité limitée",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6cIZTKo2IyevGgxZo1TE2.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-11-19T08:00:01.000Z",
-        "impressions_total": 8143,
-        "impressions_map": {
-          "de": 1,
-          "be": 884,
-          "fi": 1,
-          "pt": 1699,
-          "bg": 0,
-          "dk": 0,
-          "lt": 103,
-          "lu": 2362,
-          "hr": 0,
-          "lv": 0,
-          "fr": 123,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 181,
-          "mt": 0,
-          "it": 952,
-          "es": 987,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 17,
-          "ro": 831,
-          "nl": 2,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "discount market ",
-        "brand_name": "Black market",
-        "profile_name": "discount market",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://backsmarket.net"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "ae7bd55f-df50-4b53-88c8-930a479215d1",
-        "name": "MM1 RB FR1",
+        "id": "1ee569fc-d753-47f5-9554-af4147ba55e9",
+        "name": "founder",
         "ad_account_name": "Market D LLC Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -337,25 +194,25 @@
         "languages": [
           "fr"
         ],
-        "headline": "BLACK FRIDAY: JUSQU'À -70%",
+        "headline": "Confort, style & protection.",
         "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/MhCpkKRJOF1N993FVwytn.67?mo=GpUCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwiHsMABIAEw4AM41AZAAUoPCgqAAUAdW3xibW9lEPQDUMi1AWgCda3cXEAiBgoCSAMSAKIBOgi6ChItCisIjbSdASABMNAFOIAKQAJKDwoKoAFMIElTUURWUhD0A1DItQFoAnV2JWRAIgYKAkgDEgCiAT4IkgoSMQovCKOhggEgATDgAzjUBkACSg4KCV0uFDNPP0dTUBD0A1DItQFoAnVW3k9AfQAAgD8iBgoCSAISAKIBPQjSChIwCi4IxMtpIAEw4AM41AZAAkoOCglvMhUoMS40LDkQ9ANQyLUBaAJ1sEVVQH0AAIA_IgYKAkgCEgCQA8i1AQ%3D%3D&uc=15",
-        "start_date": "2025-11-28T15:18:41.000Z",
-        "impressions_total": 1350417,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hGotnZVBmYtJvFoPGvOCd.67?mo=GqECGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPghDEjIKMAji5sUEIAEw4AM41AZAAUoPCgqsASofayVXNTIrEPQDUMy3BmgCdbQRVUB9AACAPyIGCgJIAxIAogE_CLoKEjIKMAidoPADIAEw0AU4gApAAkoPCgqKASwkXR9TISorEPQDUMy3BmgCdfNiV0B9AACAPyIGCgJIAxIAogE_CJIKEjIKMAiqjoEDIAEw4AM41AZAAkoPCgqbARsbODUeHSMfEPQDUMy3BmgCdTxGRUB9AACAPyIGCgJIAhIAogE-CNIKEjEKLwiy2NgCIAEw4AM41AZAAkoOCgl8IBo9FDgVHiAQ9ANQzLcGaAJ1wOpPQH0AAIA_IgYKAkgCEgCQA8y3Bg%3D%3D&uc=15",
+        "start_date": "2026-03-10T15:12:41.000Z",
+        "impressions_total": 153503,
         "impressions_map": {
           "de": 0,
-          "be": 151388,
+          "be": 17283,
           "fi": 0,
           "pt": 0,
           "bg": 0,
           "dk": 0,
           "lt": 0,
-          "lu": 17785,
+          "lu": 1764,
           "hr": 0,
           "lv": 0,
-          "fr": 1181244,
+          "fr": 134456,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -393,7 +250,7 @@
         "profile_name": "Satyn",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvd1k2N1JNQldQVGRtbkJNejhhT2FqP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://us.satyn.fr/fr/products/ribbed-beanie"
+          "url": "https://satyn.fr/collections/shop-all?utm_source=snap&utm_campaign={{campaign.name}}&utm_content={{creative.name}}"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -403,100 +260,26 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "f65da7c8-02c9-411a-9e68-404104b01568",
-        "name": "الانغماس اللغوي ar",
-        "ad_account_name": "King Salman for Arabic language",
+        "id": "b792228a-c91d-4814-abe5-c748a9ed950a",
+        "name": "VIDEO 1",
+        "ad_account_name": "HMarket Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "ar"
-        ],
-        "headline": "سجل الآن",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QYJzTjf7DAJOZMePo2zHF.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-05-13T10:20:02.000Z",
-        "impressions_total": 6876,
-        "impressions_map": {
-          "de": 51,
-          "be": 405,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 7,
-          "hu": 0,
-          "se": 10,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 6372,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 31,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "ar"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Ways Marketing",
-        "profile_name": "مجمع الملك سلمان العالمي للغة ا",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYnhQTFd0blhrMEd6cDdLSnUzRDEzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
-        "web_view_properties": {
-          "url": "https://arabiccenter.ksaa.gov.sa/ar/language-immersion-form"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "6f29ba4d-123d-4a8e-9123-74e647fc685a",
-        "name": "SHARK #1",
-        "ad_account_name": "NMRCY MARKETING LTD Self Service",
-        "status": "ACTIVE",
-        "creative_type": "COMPOSITE",
-        "ad_type": "STORY",
-        "ad_render_type": "STATIC",
-        "languages": [
           "fr"
         ],
-        "headline": "Masterclass 100 % gratuite",
+        "headline": "Promos Afrique et +dispo",
         "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "start_date": "2026-01-13T16:05:35.000Z",
-        "impressions_total": 82829,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SndsCjaY2OUv7m878kbP1.67?mo=GpcCGggyAgR9UA9gAVoIQWRzTWVkaWGiATgIQxIsCioI6tuoAiABMOADONQGQAFKDgoJeyovRjYvOi8lEPQDUPThAmgCdZzLZUAiBgoCSAQSAKIBPgi6ChIxCi8ItL6mAiABMNAFOIAKQAJKDgoJdCobQjIvKy8jEPQDUPThAmgCdeHxc0B9AACAPyIGCgJIAxIAogE-CJIKEjEKLwimm9ABIAEw4AM41AZAAkoOCgleGBUtJiEmHhYQ9ANQ9OECaAJ1mRNXQH0AAIA_IgYKAkgCEgCiAT4I0goSMQovCM_RtwEgATDgAzjUBkACSg4KCVMZECwfHRseFxD0A1D04QJoAnVc61xAfQAAgD8iBgoCSAISAJAD9OEC&uc=15",
+        "start_date": "2025-10-08T13:36:37.000Z",
+        "impressions_total": 31591,
         "impressions_map": {
           "de": 0,
-          "be": 16842,
+          "be": 30153,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -505,7 +288,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 65987,
+          "fr": 1438,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -539,25 +322,11 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "NMRCY MARKETING LTD",
-        "profile_name": "Romuald Ceo",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbVVjM0Myc1JkNHd0ZW1tdXF2VGhOP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "composite_preview": {
-          "should_loop": true,
-          "ad_snaps": [
-            {
-              "type": "WEB_VIEW",
-              "headline": "Masterclass 100 % gratuite",
-              "call_to_action": "VIEW",
-              "top_snap_media_type": "VIDEO",
-              "top_snap_crop_position": "MIDDLE",
-              "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hSv6UbdEVwU1N3oPFb7yE.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgjk7HwgATDgAzjUBkABSg4KCVQlIhw6HyQgJRD0A1C22QFoAnVQMFNAfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4IwoxyIAEw0AU4gApAAkoOCglHHxsZMhscHiIQ9ANQttkBaAJ1zNlvQH0AAIA_IgYKAkgCEgCiAT0IkgoSMAouCNLSUSABMOADONQGQAJKDgoJQBkVEyQTGBcbEPQDULbZAWgCdRx3RkB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiOwE4gATDgAzjUBkACSg4KCTsXExEkFBQWGBD0A1C22QFoAnXep1tAfQAAgD8iBgoCSAISAJADttkB&uc=15",
-              "brand_name": "",
-              "web_view_preview": {
-                "url": "https://www.ecom-shark.com/masterclass-by-romualdceo"
-              }
-            }
-          ]
+        "paying_advertiser_name": "HMarket",
+        "profile_name": "Supermarché Hmarket",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN0ZESkhCZ3dyMmF1NXN3RG5ZRUpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://bit.ly/Catalogue-afrique-2025-a"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -567,9 +336,9 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "f53d59f0-935a-4de2-a3f5-977d90438ecc",
-        "name": "26/03/26 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
+        "id": "3b69b0ae-2a1a-4c01-b06d-736b77718d2b",
+        "name": "Destockage avant fermeture  - Publicité",
+        "ad_account_name": "discount market  Self Service",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
@@ -577,15 +346,162 @@
         "languages": [
           "fr"
         ],
+        "headline": "Destockage avant fermeture",
         "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/J39vu874RLVqRp7W6dE0o.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-12-03T08:00:21.000Z",
+        "impressions_total": 20067,
+        "impressions_map": {
+          "de": 0,
+          "be": 14605,
+          "fi": 0,
+          "pt": 935,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 280,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 1245,
+          "es": 3001,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 1,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "discount market ",
+        "profile_name": "discount market",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://www.discountmarket.net"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "2ef6b5bc-924b-4ac4-a443-bda7c61733bb",
+        "name": "Ad2",
+        "ad_account_name": "SB",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Buy Real Google Maps Reviews Today",
+        "call_to_action": "ORDER NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/loAfALiV5ZSgsveW6R7Hf.67.IRZXSOY?mo=GtcCGgoyAQQ6AX1QD2ABUIsCWghBZHNNZWRpYaIBRwhDEioKKAi2qwMgATDgAzjUBkABSg4KCRABAAEAAQABABD0A1CQTmgCdXfta0AiFwoKQgYInJCWzgZIBBIAKgdJUlpYU09ZogFNCLoKEi8KLQjA1wIgATDQBTiACkACSg4KCRkBAQAAAAAAABD0A1CQTmgCdd4ockB9AACAPyIXCgpCBgijkJbOBkgDEgAqB0lSWlhTT1miAU0IkgoSLwotCOa4AyABMOADONQGQAJKDgoJDQECAQACAQEBEPQDUJBOaAJ1G61bQH0AAIA_IhcKCkIGCKOQls4GSAISACoHSVJaWFNPWaIBTQjSChIvCi0I7ZsCIAEw4AM41AZAAkoOCgkWAQAAAQAAAAAQ9ANQkE5oAnUJ12tAfQAAgD8iFwoKQgYIo5CWzgZIAhIAKgdJUlpYU09ZkAOQTg%3D%3D&uc=15",
-        "start_date": "2026-03-26T23:00:00.000Z",
-        "impressions_total": 4536,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/aNrWxey198xZIWR60NHMu.67?mo=GokCGggyAgR9UA9gAVoIQWRzTWVkaWGiATYIQxIqCigIsYckIAEw4AM41AZAAUoOCgk5GRIXGSwbFRAQ9ANQqH1oAnVYWnJAIgYKAkgDEgCiATcIugoSKgooCKDhHCABMNAFOIAKQAJKDgoJLQ8MDxEhFhESEPQDUKh9aAJ1Mcp7QCIGCgJIAxIAogE8CJIKEi8KLQjr2iIgATDgAzjUBkACSg4KCTAVDxMXHBIQDxD0A1CofWgCdRiEe0B9AACAPyIGCgJIAhIAogE8CNIKEi8KLQil_xYgATDgAzjUBkACSg4KCSYNCgsOFxEMDRD0A1CofWgCdVr8e0B9AACAPyIGCgJIAhIAkAOofQ%3D%3D&uc=15",
+        "start_date": "2025-10-18T14:28:57.000Z",
+        "impressions_total": 491107,
         "impressions_map": {
-          "de": 7,
-          "be": 4172,
+          "de": 164,
+          "be": 10386,
+          "fi": 201,
+          "pt": 7218,
+          "bg": 69520,
+          "dk": 77,
+          "lt": 1649,
+          "lu": 2264,
+          "hr": 7895,
+          "lv": 0,
+          "fr": 36,
+          "hu": 2115,
+          "se": 71,
+          "si": 5187,
+          "sk": 261,
+          "ie": 1957,
+          "ee": 0,
+          "el": 11524,
+          "mt": 0,
+          "it": 24422,
+          "es": 10218,
+          "at": 243,
+          "cy": 0,
+          "cz": 2930,
+          "pl": 2096,
+          "ro": 8666,
+          "nl": 117,
+          "tr": 321890
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Oasthouse Marketing",
+        "profile_name": "Starsbooster LTD",
+        "web_view_properties": {
+          "url": "https://starsbooster.io"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "cb9f304c-8f3c-4212-bf55-bc9e66e3d5f3",
+        "name": "Vidéo 6",
+        "ad_account_name": "NMRCY MARKETING LTD Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Regarder  la vidéo offerte",
+        "call_to_action": "WATCH",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/YIjXikfbnKKEzDDy53C5P.67?mo=GpYCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwjblNIBIAEw4AM41AZAAUoPCgqgAQsjKyAfJSM3EPQDUJjYA2gCdfHSUEAiBgoCSAISAKIBOgi6ChItCisI-_rVASABMNAFOIAKQAJKDwoKgQELIx4gHxwfNBD0A1CY2ANoAnUoDHFAIgYKAkgDEgCiAT4IkgoSMQovCPW4fiABMOADONQGQAJKDwoKjgEHFBUSEBYRIBD0A1CY2ANoAnVovDRAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8IuPOGASABMOADONQGQAJKDgoJbgcQHBMRERUeEPQDUJjYA2gCde5FV0B9AACAPyIGCgJIAhIAkAOY2AM%3D&uc=15",
+        "start_date": "2026-03-24T00:03:21.000Z",
+        "impressions_total": 58,
+        "impressions_map": {
+          "de": 0,
+          "be": 9,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -594,7 +510,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 357,
+          "fr": 49,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -620,17 +536,17 @@
               "min_age": "18",
               "age_groups": [],
               "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Intermarketfr",
-        "profile_name": "Intermarketfr",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
-        "sticker_display_mode": "HIDE",
+        "paying_advertiser_name": "NMRCY MARKETING LTD",
+        "profile_name": "Romuald Ceo",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbVVjM0Myc1JkNHd0ZW1tdXF2VGhOP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://intermarketfr.com/products/creatine-monohydrate-1000g-doypack-1?keyword=creatine"
+          "url": "https://www.ecom-shark.com/masterclass-by-romualdceo"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -640,49 +556,51 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "58338946-643e-4bc9-a2a8-158025b10201",
-        "name": "Outdoor Vibes",
-        "ad_account_name": "Haslbeck Online Marketing Self Service",
+        "id": "f47be6ab-4109-4b69-81e3-b921db69ad87",
+        "name": "Vidéo #1 ",
+        "ad_account_name": "NMRCY MARKETING LTD Self Service",
         "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "DYNAMIC",
-        "languages": [],
-        "headline": "Outdoor Vibes",
-        "call_to_action": "SHOP_NOW",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Masterclass bientôt indisponible",
+        "call_to_action": "VIEW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3Of160JNcjy29V15LYUYY.67?mo=GogCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE3CEMSLwotCOvNBiABMOADONQGQAFKDgoJTAQDAwQDAwQDEPQDUIgnaAJ18puMQH0AAIA_IgISAKIBOQi6ChIwCi4IheQLIAEw0AU4gApAAkoPCgqQAQUFBQUFBQYFEPQDUIgnaAJ1ZmyVQH0AAIA_IgISAKIBOAiSChIvCi0I-f4EIAEw4AM41AZAAkoOCgksBAUDBQQDBQQQ9ANQiCdoAnXjN4JAfQAAgD8iAhIAogE4CNIKEi8KLQjJswggATDgAzjUBkACSg4KCWsDAwQDAwMDAxD0A1CIJ2gCdfsYkkB9AACAPyICEgCQA4gn&uc=15",
-        "start_date": "2026-02-12T17:30:59.000Z",
-        "impressions_total": 63517,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/hSv6UbdEVwU1N3oPFb7yE.67?mo=GpoCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPAhDEjAKLgjk7HwgATDgAzjUBkABSg4KCVQlIhw6HyQgJRD0A1C22QFoAnVQMFNAfQAAgD8iBgoCSAMSAKIBPQi6ChIwCi4IwoxyIAEw0AU4gApAAkoOCglHHxsZMhscHiIQ9ANQttkBaAJ1zNlvQH0AAIA_IgYKAkgCEgCiAT0IkgoSMAouCNLSUSABMOADONQGQAJKDgoJQBkVEyQTGBcbEPQDULbZAWgCdRx3RkB9AACAPyIGCgJIAhIAogE9CNIKEjAKLgiOwE4gATDgAzjUBkACSg4KCTsXExEkFBQWGBD0A1C22QFoAnXep1tAfQAAgD8iBgoCSAISAJADttkB&uc=15",
+        "start_date": "2026-01-15T14:04:49.000Z",
+        "impressions_total": 5057,
         "impressions_map": {
-          "de": 716,
-          "be": 8925,
-          "fi": 155,
-          "pt": 4611,
-          "bg": 7800,
-          "dk": 129,
+          "de": 0,
+          "be": 3010,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
           "lt": 0,
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 6170,
+          "fr": 2047,
           "hu": 0,
           "se": 0,
           "si": 0,
           "sk": 0,
           "ie": 0,
           "ee": 0,
-          "el": 16417,
+          "el": 0,
           "mt": 0,
-          "it": 8973,
-          "es": 8071,
-          "at": 876,
+          "it": 0,
+          "es": 0,
+          "at": 0,
           "cy": 0,
           "cz": 0,
           "pl": 0,
           "ro": 0,
-          "nl": 674,
+          "nl": 0,
           "tr": 0
         },
         "targeting_v2": {
@@ -691,1046 +609,19 @@
             {
               "min_age": "18",
               "age_groups": [],
-              "languages": [],
+              "languages": [
+                "fr"
+              ],
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Haslbeck Online Marketing",
-        "profile_name": "colorfulrobe",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcXZ0dDJCaHB2bmdCV2lNVktJTVEzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://colorfulrobe.de"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            },
-            {
-              "app_install_properties": {}
-            }
-          ]
-        },
-        "dpa_preview": {
-          "items": [
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/PbSVdWNgVA9suEHybl7v6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/PbSVdWNgVA9suEHybl7v6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/7B1C0QYjujxZ1dYKNfB71.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/unpujaqEkpHQC3hbM0ZYw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/8spG6blHNKNV052yKv5II.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/r3s8JHM3TRUQFhQW7hBgP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Q9bBc8aEV08yS50LmhKS6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/DUIzOypNccxtCm55VGxBj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/3HnilRuXvxty1wDA3WCdM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/KvJvWsMxfHtr6KoJh51mr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/27aLCOf2vnTyxX0lxJDUR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Ein Schmuckstück mit BedeutungDas personalisierbare Herrenarmband „Family Bond“ vereint stilvolles Design mit emotionaler Botschaft. Geflochtenes schwarzes Leder und hochwertige Edelstahlringe mit individueller Gravur machen dieses Armband zu einem einzigartigen Symbol für Familie, Liebe und Zusammenhalt.Trage die Namen deiner Kinder, deines Partners oder wichtige Daten immer bei dir – ein täglicher Begleiter, der an die Menschen erinnert, die wirklich zählen. Handgefertigt, individuell und mit Herz personalisiert.💎 Produktdetails Material: Geflochtenes Echtleder oder Premium-Kunstleder Farbe: Schwarz mit silberfarbenen Edelstahl-Ringen Gravur: Frei wählbare Namen, Daten oder kurze Worte (z. B. Kinder, Partner, Initialen) Stil: Elegant, maskulin und dennoch emotional Verschluss: Magnetverschluss, sicher & leicht anzulegen Länge: ca. 18–23 cm (verschiedene Größen verfügbar) 🎁 Perfekte GeschenkideeIdeal für: Vatertag – zeige Papa, wie wichtig er ist Geburtstag – ein persönliches Geschenk mit Bedeutung Jahrestag – feiere eure gemeinsame Zeit Weihnachten – ein Geschenk, das berührt Geburt eines Kindes – die Namen der Kleinen immer dabei ✨ Warum Family Bond?Dieses Armband ist mehr als nur Schmuck – es ist eine Erinnerung an die Menschen, die dein Leben besonders machen. Jeder Blick auf dein Handgelenk bringt ein Lächeln und erinnert dich an Familie, Liebe und Zusammenhalt.Ein bedeutungsvolles Accessoire, das jeden Tag an die Liebsten erinnert.",
-              "brand": "colorfulrobe",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "NEW",
-              "product_type": [
-                "Armbänder"
-              ],
-              "size": "",
-              "title": "Family Bond Herrenarmband Personalisiert Gravur",
-              "link": "https://mbpemw-m7.myshopify.com/products/personalisiertes-herrenarmband-family-bond-lederarmband-mit-gravur-namen-botschaft-individuell-1?variant=51975522025815"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/IrTg3e2oSm8zA7xIls6at.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/MhO2HhdfeHajWzVsVN7x4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qoi39Xd6pBwwrJMRO6liV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/iMGxwZQaubCBOCDVf0gEz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/IrTg3e2oSm8zA7xIls6at.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/vkch7wyGocmgpS07MHAM3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/9lEb3OIiqAPQvA9mmHlZX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Leicht, atmungsaktiv und durchdacht gemacht – dieses Tee trägt ein kleines Statement mit großem Herz. Das helle, handgeschriebene „Stay Curious“ auf der Brust fühlt sich wie ein Stupser an, weiter Fragen zu stellen, Ideen zu erkunden und Staunen zu teilen. Weiche Bio-Baumwolle liegt nah am Körper, ohne sich eng anzufühlen. Trage es unter einer Jacke für Stadttage oder allein an langsamen Wochenendmorgen. Die einfache weiße Leinwand hält den verspielten grünen Text im Vordergrund, sodass die Botschaft klar lesbar ist, egal ob du in einem Café, einem Klassenzimmer oder einer Wochenend-Maker-Session bist. Es ist gebaut, um sich mit dir zu bewegen: Stretch am Kragen, verstärkte Nähte, die häufigem Waschen standhalten, und ein abreizbares Label für juckfreien Komfort. Für Menschen, die Lernen, Machen und ein bisschen Optimismus zeigen lieben, schlüpft dieses Shirt ins echte Leben und bleibt dort.Produktmerkmale 100% Bio-Baumwolle, ringgesponnene Baumwolle – weich, atmungsaktiv, ohne Pestizide angebaut Mittelschwerer Stoff (180 g/m²) mit bequemer mittlerer Passform 1x1 gerippter Kragen für einfachen Stretch und Erholung Selbststoff-Schulter- und Nackenband plus doppelte Nähte für Langlebigkeit Abreizbares Label und EU REACH-konform Pflegehinweise Maschinewäsche: kalt (max. 30°C) Nicht chloren: bei Bedarf bleichen Trockner: niedrige Hitze Bügeln, dämpfen oder trocknen: niedrige Hitze Nicht chemisch reinigen",
-              "brand": "colorfulrobe",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "Black"
-              ],
-              "condition": "NEW",
-              "product_type": [
-                "T-Shirt"
-              ],
-              "size": "4XL",
-              "title": "Stay Curious T-Shirt Retro Grün Kreativ",
-              "link": "https://mbpemw-m7.myshopify.com/products/stay-curious-t-shirt-retro-green-graphic-tee-for-creatives?variant=52844878201175"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/miPZn2UYEW5GEOTKNERzE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/3CRtNnXjpTXUlW99UZqY8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/b6IPAxsq011YJdzRtxqCP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/7z3M0huVKIFWauFRdORAW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/0V7ePJqkj0SiFlV7H9qDa.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Jv7MMiGvl31b5LJ2jYbx2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/KqEEMZwXFETNYsU0I8aK5.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/a9t7cbUvUaNnTOozFysNq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/dXMyHY6CBb1QtTnx8LIEs.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/7FmMY52u1Qti5O263MZin.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/DrJDXE5UgGc9KcZYKFMvG.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RqoOBvot0WyTSQj2Ht28e.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/lnrR1wTkrFMyLO7FOv6pv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/47vWRNiQQ70EbeX6d5Rom.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/NtU6c3TYttGiM6a3Y4CBy.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/MfS5tEghsIJx02yViNf4L.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/ZLvA77yew7MBZzSw1NT7s.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/miPZn2UYEW5GEOTKNERzE.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/FRYX3xIFi5Inv1pDBpvWf.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UCfBLY1jA4okMZA20Giuo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/nBxDNgV3AFlKF2mn15Plo.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Elevate your wardrobe with this Unisex Ultra Cotton Tee, perfect for those who appreciate comfort and style. Made from 100% US cotton, this tee provides a thick, vintage feel while being environmentally friendly. Its classic fit and crew neckline make it suitable for casual outings or semi-formal events. Ideal for layering or standing alone, it effortlessly blends into any wardrobe. This versatile piece is perfect for adults looking to express their individuality while staying comfortable. Whether you’re celebrating a special occasion, attending festivals, or simply enjoying everyday wear, this tee is a must-have. Suitable for various celebrations including birthdays, casual gatherings, and even themed events, it’s designed for those who value both quality and aesthetic. Product features - Environmentally-friendly cotton for a vintage look. - Classic fit with a crew neckline for versatility. - Runs larger for additional comfort. - Seamless ribbed collar retains shape and elasticity. - Tear-away label minimizes skin irritation. Care instructions - Machine wash: cold (max 30C or 90F) - Non-chlorine: bleach as needed - Do not tumble dry - Do not iron - Do not dryclean",
-              "brand": "Printify",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "Charcoal"
-              ],
-              "condition": "NEW",
-              "product_type": [
-                "T-Shirt"
-              ],
-              "size": "2XL",
-              "title": "Peace Sign Unisex Ultra Cotton Tee, Graphic Tee, Casual Wear, Gift for Friends, Summer Outfit, Eco-Friendly Fashion",
-              "link": "https://mbpemw-m7.myshopify.com/products/peace-sign-unisex-ultra-cotton-tee-graphic-tee-casual-wear-gift-for-friends-summer-outfit-eco-friendly-fashion?variant=51879256424791"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/EXqgiX2UVqbNQzHqO0Uoe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ke7F7k3UinjTRa8JozDWY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/z14mCmExa83GX5dpuaFoD.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/5ciap2U5mNvHj1zNCUQ5K.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/zVg4zY2LBCelIpcGtBNJK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/zTxby2pOAZEJvXAes95Rj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/LFHBqaKSSUHcWf5CTuD1S.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/fwT33ofGHxBdukb19UNZR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Pav2N5AFzRdxGAJ5VLSb8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/N2DgfnfR51mGhjK4IaFwB.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/AVsLbP2dLFt9uBAvuwTgX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/BBCrWgIT1KgNT9kTMrZvz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/o4Y1BU61ZqiNgxZzPGEUL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/g6jivQupx1dDigChLD6dY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/n0oW4xwf7VlR8kyo4j4ZV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/IMR3Aj6OEEj9IgLzEwxhi.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/CgGW1pBIIN6fy7VZoa10y.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/QMrdSTGOQi2yKXxSTJkIW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/lmBscQkcbvqPuhJOeSUdF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/rCG0S2xS2cnCvJZ436oIe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/EXqgiX2UVqbNQzHqO0Uoe.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Embrace your passion for pets with this stylish Unisex Ultra Cotton Tee. The comfortable fabric and classic fit make it a perfect choice for casual outings or relaxed home days. Featuring a bold design that resonates with dog lovers, this tee captures a playful yet strong vibe. Whether you're celebrating a special occasion or just showcasing your love for your canine companion, it's an ideal gift for dog dads, proudly worn on holidays like Father's Day or any dog-centric gathering. Elevate your wardrobe with a piece that perfectly blends comfort and personality! Product features - Without side seams for minimal waste and a sleek look. - Elastic ribbed collar that retains its shape all day. - Shoulder tape to stabilize seams and prevent stretching. - Made from high-quality, ethically sourced cotton for comfort. - Durably constructed to last through everyday adventures. Care instructions - Machine wash: cold (max 30C or 90F) - Non-chlorine: bleach as needed - Do not tumble dry - Do not iron - Do not dryclean",
-              "brand": "Printify",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "White"
-              ],
-              "condition": "NEW",
-              "product_type": [
-                "T-Shirt"
-              ],
-              "size": "S",
-              "title": "Dog Dad Ultra Cotton Tee | Father's Day Gift, Pet Lover Tee, Gift for Dog Owners, Casual Wear, Dog-Themed Apparel",
-              "link": "https://mbpemw-m7.myshopify.com/products/dog-dad-ultra-cotton-tee-fathers-day-gift-pet-lover-tee-gift-for-dog-owners-casual-wear-dog-themed-apparel?variant=51665450467671"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/90X098DqmHLjwlsSJS7pL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/YNJLTLTLAieWompZ26IuL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/V569O5KICJKEK6sxAARFQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ta6w2WwpPYqUW730md6q2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/KNX6fCSUGtgdXT8hc3my8.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/hGDSXr3I8vh2YnT1Yg1IK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Fl1z4Yh5kgr70vlChVFpZ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/90X098DqmHLjwlsSJS7pL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/NTF37R1z0y1Zr4HBZmEku.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/njiJy0XtKTtGZ8Gk80UD6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/GiIVkJCdfTfvE3BWSRMWm.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/AEFYIMd40G3bxcvKArIYW.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/TvGNtW33hEmyO6UiHfsHU.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/fibT0HY2u0iOhuRG0zm5m.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/QlodBDVa8NMgXh1mlHK3A.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/RDJaW8wLK0Xwf4X4LvEfF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/p8HUSzDSAho1gVOJ5ZB4z.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Introducing the ultimate Unisex Ultra Cotton Tee, designed for those who embrace a fun and playful vibe. This shirt combines casual comfort with quirky style, making it the perfect addition to your everyday wardrobe. Whether you're lounging at home, hanging out with friends, or attending casual gatherings, this tee effortlessly elevates your style. Ideal for gamers and fandom enthusiasts, it sparks conversations and brings a smile to faces. Perfect for holidays like Halloween or game release parties, this tee makes an excellent gift for Birthdays, holidays, and special events. Embrace your individuality and express your passion with this versatile t-shirt! Product features - Knitted in one piece without side seams for reduced fabric waste and enhanced beauty. - Ribbed knit collar retains shape, providing a comfortable fit. - Shoulder tape stabilizes seams to prevent stretching and enhance durability. - Crafted from environmentally-friendly cotton for a vintage feel, ensuring long-lasting wear. - Designed as a bigger shirt size for extra comfort and a relaxed fit. Care instructions - Machine wash: cold (max 30C or 90F) - Non-chlorine: bleach as needed - Do not tumble dry - Do not iron - Do not dryclean",
-              "brand": "colrfulrobe",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "Dark Heather"
-              ],
-              "condition": "NEW",
-              "product_type": [
-                "T-Shirt"
-              ],
-              "size": "L",
-              "title": "Gaming Humor Tee, I Came I Saw I Respawned Shirt, Unisex Cotton T-Shirt, Gaming Gift, Casual Wear, Geeky Tee",
-              "link": "https://mbpemw-m7.myshopify.com/products/gaming-humor-tee-i-came-i-saw-i-respawned-shirt-unisex-cotton-t-shirt-gaming-gift-casual-wear-geeky-tee?variant=51665542381911"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/eCXcT4eV4APZBUkyMJ1Dr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/eCXcT4eV4APZBUkyMJ1Dr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/246FtLB5Gr6R2KRdmmm3G.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/AhHifW5KPdUcfQYqd4ddQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/JYSF0Dah6rCjJdlxC5pWL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/w7g7jl6v3M55PIgXeLK4M.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/FXfXMVt4fUUXP9s2XDVAY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/aHq56V4vWIEeKsXFOgh6A.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/y5KkNrP83KY0y1eQ1jwXC.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/1YD8GLGqYl4It9b9O65mQ.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/UMgmy3gniTF9P2dDyQKEP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Entdecke die perfekte Mischung aus Komfort und Stil mit diesem Unisex Ultra Cotton Tee. Der weiche, umweltfreundliche Stoff verleiht ihm ein Vintage-Gefühl und macht es zu einem Alltagsessential. Dieses Shirt bietet eine entspannte Passform, perfekt zum Entspannen zu Hause oder für Ausflüge mit Freunden. Ob du die Natur genießt oder einen gemütlichen Tag zu Hause verbringst – dieses Tee passt zu allen Gelegenheiten. Ideal für umweltbewusste Menschen und Tierliebhaber, perfekt für Feiertage, lockere Treffen oder als durchdachtes Geschenk zu Geburtstagen und Feiern.Produktmerkmale In einem Stück gestrickt, reduziert Stoffverschwendung Elastischer gerippter Strickkragen behält seine Form Schulterband stabilisiert und verhindert Dehnung Umweltfreundliche Baumwolle für Vintage-Gefühl Fällt größer aus für ultimativen Komfort Pflegehinweise Maschinewäsche: kalt (max. 30°C) Nicht chloren: bei Bedarf bleichen Nicht im Trockner trocknen Nicht bügeln Nicht chemisch reinigen",
-              "brand": "colorfulrobe",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "White"
-              ],
-              "condition": "NEW",
-              "product_type": [
-                "T-Shirt"
-              ],
-              "size": "4XL",
-              "title": "Owl Graphic Tee Eulen Shirt Naturliebhaber",
-              "link": "https://mbpemw-m7.myshopify.com/products/stylish-owl-graphic-tee-for-nature-lovers-unisex-shirt-eco-friendly-gift-casual-wear-animal-lover-apparel?variant=51918351532375"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/MhO2HhdfeHajWzVsVN7x4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/MhO2HhdfeHajWzVsVN7x4.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qoi39Xd6pBwwrJMRO6liV.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/iMGxwZQaubCBOCDVf0gEz.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/IrTg3e2oSm8zA7xIls6at.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/vkch7wyGocmgpS07MHAM3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/9lEb3OIiqAPQvA9mmHlZX.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Leicht, atmungsaktiv und durchdacht gemacht – dieses Tee trägt ein kleines Statement mit großem Herz. Das helle, handgeschriebene „Stay Curious“ auf der Brust fühlt sich wie ein Stupser an, weiter Fragen zu stellen, Ideen zu erkunden und Staunen zu teilen. Weiche Bio-Baumwolle liegt nah am Körper, ohne sich eng anzufühlen. Trage es unter einer Jacke für Stadttage oder allein an langsamen Wochenendmorgen. Die einfache weiße Leinwand hält den verspielten grünen Text im Vordergrund, sodass die Botschaft klar lesbar ist, egal ob du in einem Café, einem Klassenzimmer oder einer Wochenend-Maker-Session bist. Es ist gebaut, um sich mit dir zu bewegen: Stretch am Kragen, verstärkte Nähte, die häufigem Waschen standhalten, und ein abreizbares Label für juckfreien Komfort. Für Menschen, die Lernen, Machen und ein bisschen Optimismus zeigen lieben, schlüpft dieses Shirt ins echte Leben und bleibt dort.Produktmerkmale 100% Bio-Baumwolle, ringgesponnene Baumwolle – weich, atmungsaktiv, ohne Pestizide angebaut Mittelschwerer Stoff (180 g/m²) mit bequemer mittlerer Passform 1x1 gerippter Kragen für einfachen Stretch und Erholung Selbststoff-Schulter- und Nackenband plus doppelte Nähte für Langlebigkeit Abreizbares Label und EU REACH-konform Pflegehinweise Maschinewäsche: kalt (max. 30°C) Nicht chloren: bei Bedarf bleichen Trockner: niedrige Hitze Bügeln, dämpfen oder trocknen: niedrige Hitze Nicht chemisch reinigen",
-              "brand": "colorfulrobe",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "White"
-              ],
-              "condition": "NEW",
-              "product_type": [
-                "T-Shirt"
-              ],
-              "size": "2XL",
-              "title": "Stay Curious T-Shirt Retro Grün Kreativ",
-              "link": "https://mbpemw-m7.myshopify.com/products/stay-curious-t-shirt-retro-green-graphic-tee-for-creatives?variant=52844878102871"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/PbSVdWNgVA9suEHybl7v6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/PbSVdWNgVA9suEHybl7v6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/7B1C0QYjujxZ1dYKNfB71.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/unpujaqEkpHQC3hbM0ZYw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/8spG6blHNKNV052yKv5II.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/r3s8JHM3TRUQFhQW7hBgP.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Q9bBc8aEV08yS50LmhKS6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/DUIzOypNccxtCm55VGxBj.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/3HnilRuXvxty1wDA3WCdM.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/KvJvWsMxfHtr6KoJh51mr.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/27aLCOf2vnTyxX0lxJDUR.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Ein Schmuckstück mit BedeutungDas personalisierbare Herrenarmband „Family Bond“ vereint stilvolles Design mit emotionaler Botschaft. Geflochtenes schwarzes Leder und hochwertige Edelstahlringe mit individueller Gravur machen dieses Armband zu einem einzigartigen Symbol für Familie, Liebe und Zusammenhalt.Trage die Namen deiner Kinder, deines Partners oder wichtige Daten immer bei dir – ein täglicher Begleiter, der an die Menschen erinnert, die wirklich zählen. Handgefertigt, individuell und mit Herz personalisiert.💎 Produktdetails Material: Geflochtenes Echtleder oder Premium-Kunstleder Farbe: Schwarz mit silberfarbenen Edelstahl-Ringen Gravur: Frei wählbare Namen, Daten oder kurze Worte (z. B. Kinder, Partner, Initialen) Stil: Elegant, maskulin und dennoch emotional Verschluss: Magnetverschluss, sicher & leicht anzulegen Länge: ca. 18–23 cm (verschiedene Größen verfügbar) 🎁 Perfekte GeschenkideeIdeal für: Vatertag – zeige Papa, wie wichtig er ist Geburtstag – ein persönliches Geschenk mit Bedeutung Jahrestag – feiere eure gemeinsame Zeit Weihnachten – ein Geschenk, das berührt Geburt eines Kindes – die Namen der Kleinen immer dabei ✨ Warum Family Bond?Dieses Armband ist mehr als nur Schmuck – es ist eine Erinnerung an die Menschen, die dein Leben besonders machen. Jeder Blick auf dein Handgelenk bringt ein Lächeln und erinnert dich an Familie, Liebe und Zusammenhalt.Ein bedeutungsvolles Accessoire, das jeden Tag an die Liebsten erinnert.",
-              "brand": "colorfulrobe",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [],
-              "condition": "NEW",
-              "product_type": [
-                "Armbänder"
-              ],
-              "size": "",
-              "title": "Family Bond Herrenarmband Personalisiert Gravur",
-              "link": "https://mbpemw-m7.myshopify.com/products/personalisiertes-herrenarmband-family-bond-lederarmband-mit-gravur-namen-botschaft-individuell-1?variant=51975521861975"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/hmCwzBVFOIjh1BQy6NYo3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/qs3YOgSLtvXicbEOPt6bL.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/NmsGT3RyHbCD1c6Nz3zQt.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/hmCwzBVFOIjh1BQy6NYo3.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/tHFtFDl64h2p5wtCcztkK.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/3tJTdcS4B6v2EWEncfeVv.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/3KiJ63wnEEsIdrizPuJNA.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/cADgjsarCSfHl1r3QCUAp.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/117uxoWS3UJUaLE6spLQq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/x0J2Ya0gSPWrJHkytXSCS.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/SAhXT55SmNIyCMWOjp4Wq.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Bleib warm und stylisch mit diesem Unisex Heavy Blend Hoodie – perfekt für kalte Tage und festliche Zusammenkünfte. Das lebendige Design bringt eine fröhliche Atmosphäre und macht ihn zur idealen Wahl für die Weihnachtszeit. Ob beim Kakao trinken am Kamin oder beim Geschenke einpacken mit Liebsten – dieser Hoodie bringt Wärme und Freude in deine Wintergarderobe. Ein perfektes Geschenk für Freunde und Familie, die Komfort und Stil schätzen. Feiere Weihnachten und Silvester oder genieße einfach einen gemütlichen Tag in diesem vielseitigen Stück.Produktmerkmale Geräumige Känguru-Taschen halten deine Hände warm Verstellbare Kapuze mit Kordelzug für individuelle Passform Nahtloses Design reduziert Stoffverschwendung für einen glatten Look Warmer und weicher Stoffmix sorgt für Komfort an kalten Tagen Ethisch hergestellt mit nachhaltigen Praktiken Pflegehinweise Maschinewäsche: kalt (max. 30°C) Nicht chloren: bei Bedarf bleichen Trockner: mittlere Temperatur Bügeln, dämpfen oder trocknen: niedrige Hitze Nicht chemisch reinigen",
-              "brand": "colorfulrobe",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "Black"
-              ],
-              "condition": "NEW",
-              "product_type": [
-                "Hoodie"
-              ],
-              "size": "5XL",
-              "title": "Pink Christmas Tree Hoodie",
-              "link": "https://mbpemw-m7.myshopify.com/products/pink-christmas-tree-hoodie-for-holiday-cheer-cozy-sweatshirt-gift-unisex-winter-apparel-festive-tree-hooded-sweater-seasonal-gift?variant=51879296631127"
-            },
-            {
-              "main_image": {
-                "image_links": [
-                  "https://cf-st.sc-cdn.net/d/syRPrqVjONQ30Ba5dCzTF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                ]
-              },
-              "additional_media": [
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Gd8bIw9U06SnjlaPN7rXw.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/iRJWJxnexIbDHqS2rd83N.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/8J2SYAbrKK5w4ffn0AW9x.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/pF4oCJ1a7UjVctqS78e6I.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/rBbYlVEpyokCiIkldHQl6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/EJNuIM58IAXiMNWhmK56p.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/HWhDYzSEszCwAwPPzaiWY.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/AM4lJcHTygVYvdH58641P.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/Ki9Rq6V6iUHtz2k8kd1g6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/3b3FOBCAmBikYkjaFpoi6.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/vVOdfnI9mLfXwGThDsu5C.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/9tmKW3hqemdVyWvl2YyA2.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/syRPrqVjONQ30Ba5dCzTF.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                },
-                {
-                  "image_links": [
-                    "https://cf-st.sc-cdn.net/d/2eXPhUJ4Vf41eUxhboxMk.1023?mo=GhUaCTIBBEgCUAZgAaIBBwj_ByICEgA%3D&uc=6"
-                  ],
-                  "tags": []
-                }
-              ],
-              "description": "Ein leichtes, weiches Baumwoll-Tee mit einer klaren Sonnen-Grafik in leuchtenden Orangen und warmen Gelbtönen. Der Stoff ist 100% ringgesponnene Baumwolle (153 g/m²) mit Tubular Knit und geripptem Rundhalsausschnitt. Perfekt für sonnige Tage, Strandausflüge, Festivals oder einfach um gute Laune zu verbreiten. Die lächelnde Sonne bringt positive Vibes in deinen Alltag und erinnert dich daran, das Leben mit einem Lächeln zu genießen.Produktmerkmale 100% ringgesponnene Baumwolle (153 g/m²) Tubular Knit für Langlebigkeit Gerippter Rundhalsausschnitt Leicht und atmungsaktiv Fröhliches Sonnen-Design in Orange/Gelb Pflegehinweise Maschinewäsche: kalt Trockner: niedrige Hitze Nicht chemisch reinigen",
-              "brand": "colorfulrobe",
-              "custom_label_0": "",
-              "custom_label_1": "",
-              "custom_label_2": "",
-              "custom_label_3": "",
-              "custom_label_4": "",
-              "availability": "IN STOCK",
-              "color": [
-                "White"
-              ],
-              "condition": "NEW",
-              "product_type": [
-                "T-Shirt"
-              ],
-              "size": "3XL",
-              "title": "Happy Sunshine T-Shirt Sonne Sommer",
-              "link": "https://mbpemw-m7.myshopify.com/products/happy-sunshine-t-shirt-smiling-sun-graphic-tee?variant=52844853231959"
-            }
-          ],
-          "template": {},
-          "dynamic_template": {
-            "name": "Outdoor Vibes",
-            "ios_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "android_url": "https://ads-interfaces.sc-cdn.net/adformats/templates/V2/index.html",
-            "text_fields": [
-              "title",
-              "price"
-            ]
-          },
-          "vertical": "COMMERCE"
+        "paying_advertiser_name": "NMRCY MARKETING LTD",
+        "profile_name": "Romuald Ceo",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbVVjM0Myc1JkNHd0ZW1tdXF2VGhOP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.ecom-shark.com/masterclass-1"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -1740,26 +631,26 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "5a7aea67-e5de-4920-90ef-e8176b295e23",
-        "name": "Video Amy - LP",
-        "ad_account_name": "RMG Marketing Self Service",
+        "id": "8e31be09-0702-4871-bbf6-b9834bc4f0a1",
+        "name": " الانغماس اللغوي en",
+        "ad_account_name": "King Salman for Arabic language",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "nl"
+          "en"
         ],
-        "headline": "Lees Knack voor maar €1/week",
-        "call_to_action": "VIEW",
-        "top_snap_media_type": "VIDEO",
+        "headline": "Register now",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/9XNbAtB7BDZCK89rI2rbT.67?mo=GtoDGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBWQhDEkUKQwjl2p8BIAFKOAozywFHUjpJQVWDAUiaAVBSN4kBUqYBW3U9ODMsKo0BHhAWDxIRDgwJawgFBgUFBAkfBQ0EEPQDaAIiDgoKQgYIlqmbvgZIBRIAogFZCLoKEkQKQgintaYBIAFKNwoymAI6PjBAQkSXAT3qATdOKbgBPOkBWXlKMUU4OyUqGR4PHyQXEgsVCQ8HBggHCR0LBgUQ9ANoAiIOCgpCBgjjqpu-BkgCEgCiAVQIfxJACj4IiIx8IAFKNAovrQE2OCkvMDtVO3NFTStmQHROYzSQASUpKBsdDxULExAQCwsUBwUFBQYKCR0FAwQQ9ANoAiIOCgpCBgjjqpu-BkgCEgCiAVUIkgoSQAo-CLq9fCABSjQKL7ABNj4rNS85Xz50REYuZER1S10zigEjJCUYGw0UDREPDQ8IFgsGBgYGDAogBgQFEPQDaAIiDgoKQgYI46qbvgZIAhIAogFVCMQKEkAKPgiwh2EgAUo0Ci-rASQrISkpLFsmfiMvGGUjhQEyPiYbIB8fExoNEgkRFAoLBw4MBQQFBQUGFQgEAxD0A2gCIg4KCkIGCOOqm74GSAISAJADrrIB&uc=15",
-        "start_date": "2025-03-11T12:00:00.000Z",
-        "impressions_total": 20134,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/8OmRl7WJukGxEedZ9SMol.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-05-13T10:20:02.000Z",
+        "impressions_total": 523,
         "impressions_map": {
-          "de": 0,
-          "be": 20134,
+          "de": 3,
+          "be": 5,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -1775,6 +666,82 @@
           "sk": 0,
           "ie": 0,
           "ee": 0,
+          "el": 515,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "ar"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Ways Marketing",
+        "profile_name": "مجمع الملك سلمان العالمي للغة ا",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYnhQTFd0blhrMEd6cDdLSnUzRDEzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "web_view_properties": {
+          "url": "https://arabiccenter.ksaa.gov.sa/en/language-immersion-form-en"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a2536daa-a733-4d25-b771-993cd8f43a94",
+        "name": "Video inde",
+        "ad_account_name": "HMarket Self Service",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "headline": "Promos Spécial Inde : Hmarket",
+        "call_to_action": "VIEW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zOr3WTwy0AS1kq0R7DNkG.67?mo=Gu8BGggyAgR9UA9gAVoIQWRzTWVkaWGiASgIQxIcChoIgL3UASABSg8KCpkBPy1LOTYpKj4Q9ANoAiIGCgJIBBIAogEpCLoKEhwKGgj_w8QBIAFKDwoKtAFQL0c9Pi01QhD0A2gCIgYKAkgCEgCiAScIfxIbChkI6PeRASABSg4KCXQuJS4lJh4fLRD0A2gCIgYKAkgCEgCiASgIkgoSGwoZCIiAlwEgAUoOCgl1KyE1KCQkGywQ9ANoAiIGCgJIAhIAogEnCMQKEhoKGAim-3kgAUoOCglxKhopIiMaHScQ9ANoAiIGCgJIAhIAkAPi4AE%3D&uc=15",
+        "start_date": "2025-04-09T08:11:22.000Z",
+        "impressions_total": 89264,
+        "impressions_map": {
+          "de": 0,
+          "be": 85584,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 3680,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
           "el": 0,
           "mt": 0,
           "it": 0,
@@ -1792,24 +759,19 @@
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "25",
               "age_groups": [],
-              "languages": [
-                "nl",
-                "en"
-              ],
-              "operation": "INCLUDE",
+              "languages": [],
               "advanced_demographics": []
             }
           ],
           "devices": []
         },
-        "paying_advertiser_name": "RMG Marketing",
-        "brand_name": "Knack",
-        "profile_name": "Knack.be",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMjl1YjNhQjI0dW0zVlBtSWI0blRyP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "paying_advertiser_name": "HMarket",
+        "brand_name": "Hmarket Supermarchés",
+        "profile_name": "Supermarché Hmarket",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN0ZESkhCZ3dyMmF1NXN3RG5ZRUpzP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://digitaal.mijnmagazines.be/jongerenabonnement/?utm_source=advertising&utm_medium=cpc&utm_term=snapchat&utm_campaign=kn_abo_jongerenabonnement&utm_content=video"
+          "url": "https://bit.ly/promos-inde-a"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

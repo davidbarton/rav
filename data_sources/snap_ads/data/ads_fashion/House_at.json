@@ -1,66 +1,68 @@
 {
   "brand": "House",
   "country": "at",
-  "fetched_at": "2026-04-09T16:31:01.090Z",
+  "fetched_at": "2026-04-10T07:13:12.890Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "c2b2d10b-d3ee-4b4d-949b-3c8326ab83fb",
-        "name": "002_SC_AND_Install_1205",
-        "ad_account_name": "appbubble.adventure-chengdubabu-/-MH-ZT-gaming-02",
-        "status": "ACTIVE",
+        "id": "2f1d2854-dd2a-4df7-a07e-07458b8cd0c8",
+        "name": "Samo_V_EN_3D_抢帕鲁短版_CB_152_1080x1920_54s_250324_NR_876857",
+        "ad_account_name": "AppCall of Dragons-lilisiCOD-/-MH-ZT-gaming-02",
+        "status": "PAUSED",
         "creative_type": "APP_INSTALL",
         "ad_type": "APP_INSTALL",
         "ad_render_type": "STATIC",
         "languages": [
           "en"
         ],
-        "headline": "Save Her Before Too Late!",
+        "headline": "Mmo Strategy rpg game",
         "call_to_action": "INSTALL NOW",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/N61OPMigy7WQ9qSf3WP8P.67?mo=GpwCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwi65ooDIAEw4AM41AZAAUoPCgqZASczMTEzNkJAEPQDUILSA2gCde3YU0AiBgoCSAISAKIBPwi6ChIyCjAIt8K-AiABMNAFOIAKQAJKDwoKlgEnKy8vNig7NRD0A1CC0gNoAnV0MFlAfQAAgD8iBgoCSAMSAKIBPwiSChIyCjAIhNGPAiABMOADONQGQAJKDwoKgwEeKScnJygzLxD0A1CC0gNoAnUeKEZAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8IkdTfASABMOADONQGQAJKDgoJexsdIiEnHCsmEPQDUILSA2gCdZWOTUB9AACAPyIGCgJIAhIAkAOC0gM%3D&uc=15",
-        "start_date": "2025-12-05T09:57:27.000Z",
-        "impressions_total": 1148,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/3ENY1Ry3cd7k3uj6U8A8L.67?mo=Gu8BGggyAgR9UA9gAVoIQWRzTWVkaWGiAScIQxIbChkIjZ2PAyABSg4KCXc3NBQvRxsYQBD0A2gCIgYKAkgFEgCiASkIugoSHAoaCLGPxAIgAUoPCgqNASozGS42IRtGEPQDaAIiBgoCSAISAKIBJwh_EhsKGQj7xP8BIAFKDgoJayMnDyQzFxQiEPQDaAIiBgoCSAISAKIBKAiSChIbChkI_b-EAiABSg4KCWokKBAkMhYUIxD0A2gCIgYKAkgCEgCiASgIxAoSGwoZCI3tyAEgAUoOCgluGiEPHSIUESoQ9ANoAiIGCgJIAhIAkAOwqAM%3D&uc=15",
+        "start_date": "2025-04-03T06:16:46.000Z",
+        "impressions_total": 9821,
         "impressions_map": {
-          "de": 0,
-          "be": 32,
-          "fi": 0,
-          "pt": 15,
-          "bg": 146,
-          "dk": 1,
-          "lt": 2,
-          "lu": 16,
-          "hr": 148,
+          "de": 464,
+          "be": 1090,
+          "fi": 66,
+          "pt": 994,
+          "bg": 387,
+          "dk": 132,
+          "lt": 91,
+          "lu": 205,
+          "hr": 97,
           "lv": 0,
-          "fr": 3,
-          "hu": 10,
-          "se": 0,
-          "si": 123,
-          "sk": 2,
-          "ie": 3,
+          "fr": 192,
+          "hu": 166,
+          "se": 298,
+          "si": 173,
+          "sk": 39,
+          "ie": 283,
           "ee": 0,
-          "el": 154,
+          "el": 943,
           "mt": 0,
-          "it": 59,
-          "es": 42,
-          "at": 2,
+          "it": 361,
+          "es": 382,
+          "at": 246,
           "cy": 0,
-          "cz": 14,
-          "pl": 27,
-          "ro": 215,
-          "nl": 5,
-          "tr": 129
+          "cz": 161,
+          "pl": 207,
+          "ro": 657,
+          "nl": 382,
+          "tr": 1805
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "18",
+              "min_age": "20",
+              "max_age": "54",
               "age_groups": [],
+              "gender": "MALE",
               "languages": [],
               "operation": "INCLUDE",
               "advanced_demographics": []
@@ -70,20 +72,22 @@
             {
               "marketing_name": [],
               "model": [],
-              "os_type": "ANDROID",
+              "os_type": "iOS",
+              "os_version_min": "11.3",
+              "connection_type": "WIFI",
               "carrier_id": [],
               "operation": "INCLUDE"
             }
           ]
         },
         "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "profile_name": "bubblegame",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
-        "favorite_display_mode": "HIDE",
+        "brand_name": "Call of Dragons",
         "app_install_preview": {
-          "app_name": "Bubble Shooter - Pop Adventure",
-          "android_app_url": "cc.bubble.adventure",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/JElWAofQiBFWH0Wis5iyd.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "app_name": "Call of Dragons",
+          "ios_app_id": "1605558677",
+          "android_app_url": "com.farlightgames.samo.gp",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/lt8qKm4kP2fGS4K1dG9gy.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "enable_skoverlay": true,
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -94,8 +98,98 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "6ebd4263-5497-414f-98c4-755af3ab477d",
-        "name": "WJ643_WJ------SKOverlay",
+        "id": "2a802930-e11d-4d1a-9ef0-58f22a37b5e3",
+        "name": "Samo_V_EN_3D_海底帕鲁30s_CB_152_1080x1920_29s_250331_NR_881717",
+        "ad_account_name": "AppCall of Dragons-lilisiCOD-/-MH-ZT-gaming-02",
+        "status": "PAUSED",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "ar"
+        ],
+        "headline": "Mmo Strategy rpg game",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/7ClnHrQIF48Bb3LLfTezp.67?mo=GvIBGggyAgR9UA9gAVoIQWRzTWVkaWGiASkIQxIdChsI-cvTAiABShAKC5YBQkZTQUpkrwFWEPQDaAIiBgoCSAMSAKIBKgi6ChIdChsIquuNAiABShAKC4wBMjFDNjhLlQFGEPQDaAIiBgoCSAISAKIBJwh_EhsKGQic7dUBIAFKDgoJbScrLiktQW45EPQDaAIiBgoCSAISAKIBKAiSChIbChkI1OrZASABSg4KCW0pKTMqLUVuPBD0A2gCIgYKAkgCEgCiASgIxAoSGwoZCM7NqgEgAUoOCgllHh0pJCIuVy0Q9ANoAiIGCgJIAhIAkAO46QE%3D&uc=15",
+        "start_date": "2025-04-03T06:16:46.000Z",
+        "impressions_total": 18153,
+        "impressions_map": {
+          "de": 2314,
+          "be": 754,
+          "fi": 91,
+          "pt": 37,
+          "bg": 2970,
+          "dk": 90,
+          "lt": 193,
+          "lu": 52,
+          "hr": 11,
+          "lv": 0,
+          "fr": 1664,
+          "hu": 94,
+          "se": 645,
+          "si": 9,
+          "sk": 38,
+          "ie": 36,
+          "ee": 0,
+          "el": 527,
+          "mt": 0,
+          "it": 3107,
+          "es": 924,
+          "at": 575,
+          "cy": 0,
+          "cz": 442,
+          "pl": 113,
+          "ro": 220,
+          "nl": 800,
+          "tr": 2447
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "20",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "iOS",
+              "os_version_min": "11.3",
+              "connection_type": "WIFI",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "brand_name": "Call of Dragons",
+        "app_install_preview": {
+          "app_name": "Call of Dragons",
+          "ios_app_id": "1605558677",
+          "android_app_url": "com.farlightgames.samo.gp",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/lt8qKm4kP2fGS4K1dG9gy.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "enable_skoverlay": true,
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "a0d9e361-9f83-415a-b05a-332f2ddb39f4",
+        "name": "LSJ896",
         "ad_account_name": "HS-EU-IOS-NEOMAN-MH-ZT-gaming",
         "status": "ACTIVE",
         "creative_type": "APP_INSTALL",
@@ -108,36 +202,37 @@
         "call_to_action": "DOWNLOAD",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/kJq638O68msBUbf1UXDXN.67?mo=GpoEGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBZAhDElAKTgjLsYsCIAFKQwo-owFTTU9NODtobDQyMC5GTj04KWZbX1RbOklKTTldRYQBbEk9f1kvET1FQURFREJgPzQYOnJFQ1BHQC0xFgwQ9ANoAiIOCgpCBgjO5pO8BkgEEgCiAWMIugoSTgpMCMWf4gEgAUpBCjyjAT47RkMzNFJgLS8tKDVFOzkpKkNOTEo5QENHKXM-ZVpCK2JgLxUyODc-PTU3PDwrHSxQKjI7OiswJxsQ9ANoAiIOCgpCBgiV6pO8BkgCEgCiAWMIfxJPCk0I3L2vASABSkIKPYEBNjA1MiQnSEAkICIgKzUrKhwmRz1ARSo1Mz0pIjBWSTMoUjghDytBMDMvMysuKiUQHz0iIy8lIB0fEAkQ9ANoAiIOCgpCBgiV6pO8BkgCEgCiAWQIkgoSTwpNCI_irAEgAUpCCj2BATExNS8jKkk8JiIeIS02KiccI0g9PD0sMDU3JyMvWkYxJ1c3HA0sQS0tLDIqKy4hEiA-IyMwKCEdHg8JEPQDaAIiDgoKQgYIleqTvAZIAhIAogFiCMQKEk0KSwjCp5EBIAFKQAo7dickKysfHzVAHR8fGiIsJSMbGSsyMC4jKCotG0YlPzgnGT5BIQ0hIiQnJyIkJScdFBw1HB8oJhsiHw0Q9ANoAiIOCgpCBgiV6pO8BkgCEgCQA7DqAQ%3D%3D&uc=15",
         "start_date": "2024-11-08T10:01:29.000Z",
-        "impressions_total": 16239,
+        "impressions_total": 700247,
         "impressions_map": {
-          "de": 881,
-          "be": 3157,
-          "fi": 1057,
-          "pt": 0,
-          "bg": 0,
-          "dk": 297,
-          "lt": 0,
+          "de": 35560,
+          "be": 122221,
+          "fi": 30319,
+          "pt": 21175,
+          "bg": 21453,
+          "dk": 23548,
+          "lt": 9207,
           "lu": 0,
-          "hr": 0,
+          "hr": 12496,
           "lv": 0,
-          "fr": 80,
-          "hu": 0,
-          "se": 919,
-          "si": 0,
-          "sk": 0,
-          "ie": 1186,
+          "fr": 3994,
+          "hu": 25107,
+          "se": 55610,
+          "si": 19592,
+          "sk": 2220,
+          "ie": 43220,
           "ee": 0,
-          "el": 0,
+          "el": 18177,
           "mt": 0,
-          "it": 2946,
-          "es": 4886,
-          "at": 830,
+          "it": 18186,
+          "es": 17503,
+          "at": 33724,
           "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
+          "cz": 11556,
+          "pl": 33735,
+          "ro": 79080,
+          "nl": 62564,
           "tr": 0
         },
         "targeting_v2": {
@@ -163,6 +258,10 @@
             }
           ]
         },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "brand_name": "Hunting Sniper",
+        "profile_name": "Huntingsniper",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ21HcHV1N01Cd1ZJOHQwaXliMFRmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "app_install_preview": {
           "app_name": "Hunting Sniper",
           "ios_app_id": "6472705058",
@@ -171,104 +270,6 @@
           "enable_skoverlay": true,
           "playable_media_properties": {}
         },
-        "review_status": "DISAPPROVED",
-        "rejection_reasons": [
-          "Your ad contains content that could be perceived as shocking, disturbing, or otherwise upsetting to Snapchatters. We prohibit ads intended to shock the user, including depictions of accidents, gore, excessive violence, graphic imagery of people/animals/events, bodily fluids, internal organs, shocking medical imagery, hyper-realistic violence or shock and awe tactics. Please edit, resubmit for review, and our team will take another look."
-        ],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c9b4ef60-7a24-4478-954f-f446a18e9b4f",
-        "name": "1-3-5_3",
-        "ad_account_name": "新阅自投_snap_MH_huangcw_GS_英语_XY_双端_25_西四",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "en"
-        ],
-        "headline": "🔥Trending Hit! Click to Watch🔥",
-        "call_to_action": "WATCH",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XGHrKF1nQzyM5lI213xOG.67?mo=GqICGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPghDEjIKMAjRi5EcIAEw4AM41AZAAUoPCgrCByEnFxkrKCElEPQDULiTNWgCdbweUkB9AACAPyIGCgJIAhIAogE_CLoKEjIKMAjvuIIfIAEw0AU4gApAAkoPCgr4BRshHx0jHSoxEPQDULiTNWgCdSDYYEB9AACAPyIGCgJIAxIAogE_CJIKEjIKMAizydQTIAEw4AM41AZAAkoPCgrbBxQaDhASHBUaEPQDULiTNWgCdbDsRkB9AACAPyIGCgJIAhIAogE_CNIKEjIKMAiys_wTIAEw4AM41AZAAkoPCgrjBRIVExAfERYYEPQDULiTNWgCdYz6U0B9AACAPyIGCgJIAhIAkAO4kzU%3D&uc=15",
-        "start_date": "2026-03-24T04:06:00.000Z",
-        "impressions_total": 64,
-        "impressions_map": {
-          "de": 6,
-          "be": 4,
-          "fi": 0,
-          "pt": 0,
-          "bg": 1,
-          "dk": 1,
-          "lt": 2,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 12,
-          "hu": 0,
-          "se": 6,
-          "si": 0,
-          "sk": 0,
-          "ie": 8,
-          "ee": 0,
-          "el": 1,
-          "mt": 0,
-          "it": 3,
-          "es": 4,
-          "at": 2,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 3,
-          "nl": 2,
-          "tr": 9
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "55",
-              "age_groups": [],
-              "languages": [
-                "en"
-              ],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": []
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": []
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "WEB",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "GoodShort",
-        "profile_name": "GoodShort",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR2U2Qll0S05lcWU0NEtkdHNhVDJFP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.fixfs.com/market/goodreels/t18-33-11/18?lpid=45199&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&adset_name={{adSet.name}}&adset_id={{adSet.id}}&ad_id={{ad.id}}"
-        },
         "review_status": "APPROVED",
         "rejection_reasons": [],
         "stickers": []
@@ -277,9 +278,9 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "0849fcd4-2488-4f63-bcac-5e565903132e",
-        "name": "250908_GMP-tilepush-粉色星座牌+le60s_en_VM_1080x1920.mp4",
-        "ad_account_name": "Appvitaand-lexinshengwen-/-MH-ZT-gaming-02",
+        "id": "69ae8ac4-615d-487c-8911-6d3e38ac9758",
+        "name": "1108242",
+        "ad_account_name": "md_AppLandsofJail-aileyou_SG骏游_ios_Lands of Jail_Social_snap_abing03-01",
         "status": "ACTIVE",
         "creative_type": "APP_INSTALL",
         "ad_type": "APP_INSTALL",
@@ -287,48 +288,48 @@
         "languages": [
           "en"
         ],
-        "headline": "#1 Mahjong Tile Puzzle Game",
-        "call_to_action": "INSTALL NOW",
+        "headline": "The latest prison crime theme RPG",
+        "call_to_action": "PLAY GAME",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Wx5IXhW23bKelAxry5HAz.67?mo=Gp0CGggyAgR9UA9gAVoIQWRzTWVkaWGiAT4IQxIyCjAIw6L4ASABMOADONQGQAFKDwoKgAEoKiswKC0zLRD0A1CK0QNoAnUJwUtAfQAAgD8iBgoCSAISAKIBPgi6ChIxCi8IqubDASABMNAFOIAKQAJKDgoJah0iIyUcJCciEPQDUIrRA2gCdT5IS0B9AACAPyIGCgJIAxIAogE-CJIKEjEKLwiT35cBIAEw4AM41AZAAkoOCglmFxkZGxcbHxoQ9ANQitEDaAJ1o3JEQH0AAIA_IgYKAkgCEgCiAT4I0goSMQovCKj0igEgATDgAzjUBkACSg4KCVkUGBgbExocFxD0A1CK0QNoAnXetkxAfQAAgD8iBgoCSAISAJADitED&uc=15",
-        "start_date": "2025-09-30T09:58:16.000Z",
-        "impressions_total": 70564,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FLudw6x2AN0W60FbKl6q1.67?mo=GqwCGggyAgR9UA9gAVoIQWRzTWVkaWGiATMIQxInCiUI-b7nASABMOADONQGQAFKDgoJehMODA4UCgoHEPQDUID3AmgCIgYKAkgCEgCiATUIugoSKAomCOn57gEgATDQBTiACkACSg8KCroBFRITEhUSDw4Q9ANQgPcCaAIiBgoCSAMSAKIBMwh_EicKJQjvpqYBIAEw4AM41AZAAkoOCglkDQsIChAICQcQ9ANQgPcCaAIiBgoCSAISAKIBNAiSChInCiUIp5SqASABMOADONQGQAJKDgoJYQ0JCAwMCAgHEPQDUID3AmgCIgYKAkgCEgCiATUI0goSKAomCNfwmQEgATDgAzjUBkACSg8KCoEBCwoJCwsKCQcQ9ANQgPcCaAIiBgoCSAISAJADgPcC&uc=15",
+        "start_date": "2025-09-16T02:27:56.000Z",
+        "impressions_total": 2503633,
         "impressions_map": {
-          "de": 1199,
-          "be": 3554,
-          "fi": 558,
-          "pt": 1383,
-          "bg": 18052,
-          "dk": 135,
-          "lt": 291,
-          "lu": 550,
-          "hr": 2558,
+          "de": 0,
+          "be": 523607,
+          "fi": 220728,
+          "pt": 0,
+          "bg": 37419,
+          "dk": 0,
+          "lt": 19241,
+          "lu": 40225,
+          "hr": 26314,
           "lv": 0,
-          "fr": 255,
-          "hu": 842,
-          "se": 335,
-          "si": 1729,
-          "sk": 48,
-          "ie": 989,
+          "fr": 0,
+          "hu": 34861,
+          "se": 0,
+          "si": 32154,
+          "sk": 4171,
+          "ie": 264192,
           "ee": 0,
-          "el": 4109,
+          "el": 97085,
           "mt": 0,
-          "it": 4022,
-          "es": 3037,
-          "at": 389,
+          "it": 0,
+          "es": 66181,
+          "at": 173435,
           "cy": 0,
-          "cz": 1000,
-          "pl": 1694,
-          "ro": 5633,
-          "nl": 678,
-          "tr": 17524
+          "cz": 21397,
+          "pl": 73848,
+          "ro": 76872,
+          "nl": 493704,
+          "tr": 298199
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "18",
+              "min_age": "21",
               "age_groups": [],
               "languages": [],
               "operation": "INCLUDE",
@@ -339,19 +340,20 @@
             {
               "marketing_name": [],
               "model": [],
-              "os_type": "ANDROID",
+              "os_type": "iOS",
+              "os_version_min": "14.0",
               "carrier_id": [],
               "operation": "INCLUDE"
             }
           ]
         },
         "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "Vita Mahjong",
+        "brand_name": "Lands of Jail",
         "app_install_preview": {
-          "app_name": "Vita Mahjong",
-          "ios_app_id": "6468921495",
-          "android_app_url": "com.vitastudio.mahjong",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/NvcuT7yiinlx00fZi7ySU.438?mo=GjUaGBoAGgAyAQQ6AX1CBgiG4uO4BkgCUA9gAVoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "app_name": "Lands of Jail",
+          "ios_app_id": "6738469826",
+          "android_app_url": "com.justgame.jails",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/iR7sOPOBt7MiZJ1zphrSA.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -362,303 +364,58 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "bc5b62b6-84e4-4828-accf-9a70566087d3",
-        "name": "1146407",
-        "ad_account_name": "AppDramabox-dianzhong-2组-rhp-MH-ZT-app-01",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "النمر المتخفي",
-        "call_to_action": "WATCH",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/SbSI6sbBUXLzf5qq8Nx44.67?mo=GsMCGggyAgR9UA9gAVoIQWRzTWVkaWGiATQIQxIoCiYIj_DuJiABMOADONQGQAFKDwoK6QsmLi0aGhofGxD0A1CamFNoAiIGCgJIAhIAogE1CLoKEigKJgjglpglIAEw0AU4gApAAkoPCgqpCSciJxcWEBoWEPQDUJqYU2gCIgYKAkgDEgCiAT4IfxIyCjAIsO2_GCABMOADONQGQAJKDwoK3wsaIB0RDQ8RDxD0A1CamFNoAnWwdVBAfQAAgD8iBgoCSAISAKIBNQiSChIoCiYI3M39GSABMOADONQGQAJKDwoKjgwaIB8RDxASEBD0A1CamFNoAiIGCgJIAhIAogE_CNIKEjIKMAjA7usaIAEw4AM41AZAAkoPCgqKCR0XGhAQCxMPEPQDUJqYU2gCdZpUXEB9AACAPyIGCgJIAhIAkAOamFM%3D&uc=15",
-        "start_date": "2025-09-15T16:00:35.000Z",
-        "impressions_total": 32957,
-        "impressions_map": {
-          "de": 3118,
-          "be": 809,
-          "fi": 421,
-          "pt": 132,
-          "bg": 3557,
-          "dk": 136,
-          "lt": 79,
-          "lu": 115,
-          "hr": 43,
-          "lv": 0,
-          "fr": 2232,
-          "hu": 205,
-          "se": 1011,
-          "si": 25,
-          "sk": 111,
-          "ie": 142,
-          "ee": 0,
-          "el": 1158,
-          "mt": 0,
-          "it": 6235,
-          "es": 1698,
-          "at": 906,
-          "cy": 0,
-          "cz": 318,
-          "pl": 619,
-          "ro": 477,
-          "nl": 1389,
-          "tr": 8021
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [
-                "ar"
-              ],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "profile_name": "DramaBox - Stream Drama Shorts",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUktrYWhQOWloV3JQT0lka1d4c3BiP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://sn.dramabox.com/db_land_page/DLLPS1051225.html?language=ar&timestamp=1757934372568&channelCode=DLLPS1051225&bid=41000118757&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&ad_group_name={{adSet.name}}&ad_group_id={{adSet.id}}&ad_id={{ad.id}}&ad_name={{creative.name}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "a54f2476-117d-40e2-9555-bdaecc759362",
-        "name": "LXJ-深v内衣-0122-1(C).mp4",
-        "ad_account_name": "webcurvevera.de-bokesi-/-MH-ZT-EC-01",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
+        "id": "83ee5f31-a569-4694-889d-66683abe232c",
+        "name": "1229979",
+        "ad_account_name": "md_AppLandsofJail-aileyou_SG骏游_ios_Lands of Jail_Social_snap_abing03-01",
+        "status": "PAUSED",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
         "ad_render_type": "STATIC",
         "languages": [
-          "de"
+          "en"
         ],
-        "headline": "⚡Letzte Chance! Heute 50% sparen✨",
-        "call_to_action": "SHOP NOW",
+        "headline": "Grow Your Prison, Rule the Game",
+        "call_to_action": "PLAY GAME",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/x6hBBCoftiEHOPElDtL7n.67?mo=GpQCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOAhDEiwKKgi_o9UCIAEw4AM41AZAAUoOCgltHh4oKDI3OSIQ9ANQqpYDaAJ1FCtWQCIGCgJIAxIAogE5CLoKEiwKKgjS-eUCIAEw0AU4gApAAkoOCglyHRYlIEMuNCUQ9ANQqpYDaAJ19SFnQCIGCgJIAhIAogE-CJIKEjEKLwiLtd4BIAEw4AM41AZAAkoOCglcEhMcFiMmIxcQ9ANQqpYDaAJ1DulBQH0AAIA_IgYKAkgCEgCiAT4I0goSMQovCMy81QEgATDgAzjUBkACSg4KCVoUDxoVJRccFhD0A1CqlgNoAnWu6VdAfQAAgD8iBgoCSAISAJADqpYD&uc=15",
-        "start_date": "2026-01-22T23:00:00.000Z",
-        "impressions_total": 13140,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/yiLv15hQmjGso8ostBGcd.67?mo=GqgCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBQghDEjYKNAjqm_QEIAEw4AM41AZAAUoTCg6OAVgaTKoBtAGmAZcBWhD0A1D8oQNoAnXPK2FAfQAAgD8iBgoCSAQSAKIBQQi6ChI0CjIIn4qGBSABMNAFOIAKQAJKEQoMflUdQMkBd6sBlAF3EPQDUPyhA2gCdbh7dkB9AACAPyIGCgJIAhIAogFACJIKEjMKMQiC5cwDIAEw4AM41AZAAkoQCgt5ORY2jQGJAXFvNhD0A1D8oQNoAnVLFldAfQAAgD8iBgoCSAISAKIBPgjSChIxCi8Ijv7QAiABMOADONQGQAJKDgoJYzIRK31HaVQ9EPQDUPyhA2gCddf8WkB9AACAPyIGCgJIAhIAkAP8oQM%3D&uc=15",
+        "start_date": "2025-12-25T10:30:59.000Z",
+        "impressions_total": 228586,
         "impressions_map": {
-          "de": 3060,
-          "be": 8126,
-          "fi": 0,
+          "de": 7802,
+          "be": 38068,
+          "fi": 10941,
           "pt": 0,
           "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 594,
+          "dk": 12268,
+          "lt": 5287,
+          "lu": 5885,
           "hr": 0,
           "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
+          "fr": 1569,
+          "hu": 3621,
+          "se": 45588,
           "si": 0,
-          "sk": 0,
-          "ie": 0,
+          "sk": 965,
+          "ie": 24949,
           "ee": 0,
-          "el": 0,
+          "el": 3744,
           "mt": 0,
           "it": 0,
-          "es": 0,
-          "at": 1360,
+          "es": 6446,
+          "at": 7749,
           "cy": 0,
-          "cz": 0,
+          "cz": 2045,
           "pl": 0,
           "ro": 0,
-          "nl": 0,
+          "nl": 51659,
           "tr": 0
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
-              "min_age": "30",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "Curvevera",
-        "web_view_properties": {
-          "url": "https://curvevera.de/products/seamless-deep-v-push-up-wireless-bra?utm_source={{site_source_name}}&utm_campaign={{campaign.name}}&utm_content={{creative.headline}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "8a443225-e0c6-4ba1-8e09-47ae89a47976",
-        "name": "1_2",
-        "ad_account_name": "新阅自投_snap_MH_wqt_GS_阿语_XY_双端_02_赖皮蛇_东二",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "ar"
-        ],
-        "headline": "ضعيف ينتقم، يبتلع السماء والآلهة!",
-        "call_to_action": "WATCH",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/luPESyRmIiNqBI34DSPLc.67?mo=GpgCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwiM9eQkIAEw4AM41AZAAUoPCgq3BxkgLTAXDyQjEPQDUJyQTGgCdYoLSkAiBgoCSAQSAKIBOgi6ChItCisIx-vULCABMNAFOIAKQAJKDwoKggcoKCs6JgswMRD0A1CckExoAnViQFtAIgYKAkgCEgCiAT8IkgoSMgowCOaV8R4gATDgAzjUBkACSg8KCuQHFBwoKRIMFR0Q9ANQnJBMaAJ15G9IQH0AAIA_IgYKAkgCEgCiAT8I0goSMgowCIeW7hggATDgAzjUBkACSg8KCsQGDRYaIhEJEhMQ9ANQnJBMaAJ1JhtMQH0AAIA_IgYKAkgCEgCQA5yQTA%3D%3D&uc=15",
-        "start_date": "2026-03-15T03:37:00.000Z",
-        "impressions_total": 61,
-        "impressions_map": {
-          "de": 10,
-          "be": 6,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 1,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 10,
-          "hu": 0,
-          "se": 3,
-          "si": 0,
-          "sk": 0,
-          "ie": 1,
-          "ee": 0,
-          "el": 5,
-          "mt": 0,
-          "it": 7,
-          "es": 1,
-          "at": 5,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 3,
-          "nl": 4,
-          "tr": 5
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
               "min_age": "18",
-              "max_age": "55",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": [
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "iOS",
-              "carrier_id": []
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
-              "carrier_id": []
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "WEB",
-              "carrier_id": []
-            }
-          ]
-        },
-        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "GoodShort",
-        "profile_name": "GoodShort",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR2U2Qll0S05lcWU0NEtkdHNhVDJFP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.fixfs.com/market/goodreels/t18-33-11/18?lpid=44323&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&adset_name={{adSet.name}}&adset_id={{adSet.id}}&ad_id={{ad.id}}"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "785de674-785e-4676-b70f-a6dc447f914e",
-        "name": "1162148",
-        "ad_account_name": "md_AppLandsofJail-aileyou_SG骏游_android_Lands of Jail_Social_snap_abing03-01",
-        "status": "ACTIVE",
-        "creative_type": "APP_INSTALL",
-        "ad_type": "APP_INSTALL",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "The latest prison crime theme RPG",
-        "call_to_action": "PLAY GAME",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Fkhht9p9Y6DGfsUDfX1wX.67?mo=GpUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATkIQxItCisIm9eOBCABMOADONQGQAFKDwoKnAEqLzMtQlBKRxD0A1CuxQNoAnUJxFxAIgYKAkgDEgCiAToIugoSLQorCJyi-QMgATDQBTiACkACSg8KCsMBMTYwQEBPS0EQ9ANQrsUDaAJ1xuJ_QCIGCgJIAhIAogE-CJIKEjEKLwjkqP8CIAEw4AM41AZAAkoOCgl7IicuKDhGPjoQ9ANQrsUDaAJ1o09RQH0AAIA_IgYKAkgCEgCiAT8I0goSMgowCI7CuwIgATDgAzjUBkACSg8KCoMBHCQcKSo1MCoQ9ANQrsUDaAJ1kAtYQH0AAIA_IgYKAkgCEgCQA67FAw%3D%3D&uc=15",
-        "start_date": "2025-10-13T10:13:38.000Z",
-        "impressions_total": 87573,
-        "impressions_map": {
-          "de": 1961,
-          "be": 1607,
-          "fi": 701,
-          "pt": 427,
-          "bg": 448,
-          "dk": 649,
-          "lt": 2206,
-          "lu": 243,
-          "hr": 333,
-          "lv": 0,
-          "fr": 66626,
-          "hu": 201,
-          "se": 1551,
-          "si": 522,
-          "sk": 1008,
-          "ie": 1444,
-          "ee": 0,
-          "el": 415,
-          "mt": 0,
-          "it": 471,
-          "es": 366,
-          "at": 1021,
-          "cy": 0,
-          "cz": 192,
-          "pl": 1245,
-          "ro": 548,
-          "nl": 1906,
-          "tr": 1482
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "20",
               "max_age": "50",
               "age_groups": [],
               "gender": "MALE",
@@ -671,8 +428,8 @@
             {
               "marketing_name": [],
               "model": [],
-              "os_type": "ANDROID",
-              "os_version_min": "10.1",
+              "os_type": "iOS",
+              "os_version_min": "17.0",
               "carrier_id": [],
               "operation": "INCLUDE"
             }
@@ -684,7 +441,7 @@
           "app_name": "Lands of Jail",
           "ios_app_id": "6738469826",
           "android_app_url": "com.justgame.jails",
-          "media_download_link": "https://cf-st.sc-cdn.net/d/uYhc1p7vdJtaIx6JvdaUH.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/iR7sOPOBt7MiZJ1zphrSA.438?mo=GicaCjICBH1IAlAPYAFaD0Fkc0ltYWdlQXBwSWNvbqIBBwi2AyICEgA%3D&uc=15",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -695,61 +452,61 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "d31fdf4d-d153-41a0-b050-0a2341fe0eb2",
-        "name": "1_4",
-        "ad_account_name": "appGoodshort-xinyueduanju-MH-ZT-tool-30",
+        "id": "44194937-ba47-4b11-87da-1d4304df777e",
+        "name": "BJ-ZQL-SAITKOC-EABFV01-OL-251114-9_16-HC04-HLD-SANP-EN-SSK.mp4",
+        "ad_account_name": "APPReelShort-Crazymaple-tool-/-MH-ZT-02",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "ar"
+          "en"
         ],
-        "headline": "حاول قتلها، أصبحت زوجة الجنرال!",
+        "headline": "Step Aside, I'm the King of Capita",
         "call_to_action": "WATCH",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NH47LBYgxRCnXbCTYC5Un.67?mo=GuwBGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogEwCEMSKAomCOitjC8gATDgAzjUBkABSg8KCqcKDw8OFBcZHhUQ9ANQ3rlLaAIiAhIAogExCLoKEigKJgjH3rs5IAEw0AU4gApAAkoPCgqPCBYPEBseISgZEPQDUN65S2gCIgISAKIBMQiSChIoCiYIosyyISABMOADONQGQAJKDwoK4AoNDAwPEhMXEhD0A1DeuUtoAiICEgCiATEI0goSKAomCNzj0iMgATDgAzjUBkACSg8KCoAICggKDxQOFA4Q9ANQ3rlLaAIiAhIAkAPeuUs%3D&uc=15",
-        "start_date": "2026-03-29T22:00:00.000Z",
-        "impressions_total": 211,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oZmct2sA0k7dYE1Pk5Fml.67?mo=GooCGgoyAgR9SAJQD2ABUC9aCEFkc01lZGlhogE1CEMSLQorCPOdnhogATDgAzjUBkABSg8KCoIIPD0wGhYdGBcQ9ANQ6IA2aAJ1nVNYQCICEgCiATYIugoSLQorCKKXmxkgATDQBTiACkACSg8KCpcGOisrHRkXFBQQ9ANQ6IA2aAJ1_BVlQCICEgCiATsIkgoSMgowCLOcxhEgATDgAzjUBkACSg8KCoUILCYgExISDQ0Q9ANQ6IA2aAJ17uBJQH0AAIA_IgISAKIBOwjSChIyCjAIp6WrEiABMOADONQGQAJKDwoKgwYoHh8VExAPDhD0A1DogDZoAnUedFxAfQAAgD8iAhIAkAPogDY%3D&uc=15",
+        "start_date": "2025-11-21T08:00:00.000Z",
+        "impressions_total": 3784,
         "impressions_map": {
-          "de": 37,
-          "be": 12,
-          "fi": 2,
-          "pt": 0,
-          "bg": 1,
-          "dk": 1,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
+          "de": 50,
+          "be": 266,
+          "fi": 76,
+          "pt": 87,
+          "bg": 90,
+          "dk": 139,
+          "lt": 39,
+          "lu": 15,
+          "hr": 167,
           "lv": 0,
-          "fr": 13,
-          "hu": 0,
-          "se": 11,
-          "si": 0,
-          "sk": 1,
-          "ie": 1,
+          "fr": 5,
+          "hu": 57,
+          "se": 162,
+          "si": 127,
+          "sk": 6,
+          "ie": 165,
           "ee": 0,
-          "el": 2,
+          "el": 137,
           "mt": 0,
-          "it": 19,
-          "es": 9,
-          "at": 1,
+          "it": 205,
+          "es": 133,
+          "at": 56,
           "cy": 0,
-          "cz": 2,
-          "pl": 0,
-          "ro": 2,
-          "nl": 13,
-          "tr": 84
+          "cz": 40,
+          "pl": 223,
+          "ro": 837,
+          "nl": 304,
+          "tr": 398
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "55",
               "age_groups": [],
               "languages": [],
+              "operation": "INCLUDE",
               "advanced_demographics": []
             }
           ],
@@ -758,28 +515,23 @@
               "marketing_name": [],
               "model": [],
               "os_type": "iOS",
-              "carrier_id": []
+              "carrier_id": [],
+              "operation": "INCLUDE"
             },
             {
               "marketing_name": [],
               "model": [],
               "os_type": "ANDROID",
-              "carrier_id": []
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "WEB",
-              "carrier_id": []
+              "carrier_id": [],
+              "operation": "INCLUDE"
             }
           ]
         },
         "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "GoodShort",
-        "profile_name": "GoodShort",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR2U2Qll0S05lcWU0NEtkdHNhVDJFP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "profile_name": "ReelShort",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QveHFvVm1LblVwNHlubTJGS3RXVktJP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://www.fixfs.com/market/goodreels/t18-33-11/18?lpid=45728&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&adset_name={{adSet.name}}&adset_id={{adSet.id}}&ad_id={{ad.id}}"
+          "url": "https://w2a.reelshort.com/w2a/booksAdvPageV2/?book_id=690306d7afd90472c800cf3a&chapterId=k9t8limd36&chapterIndex=1&mediaType=sc&px=1f8e9185.3ffb.5%253Abb.b2%253A%253A.363g9f51f33e&push_type=2&book_type=1&utm_adset={{adSet.id}}&utm_source={{site_source_name}}&utm_campaign={{campaign.id}}&utm_content={{ad.id}}&cms_atid=691c3e2b7c79850e9f550ee5"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -789,9 +541,85 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "9600c284-3cfd-4527-8fa0-013ba26181fe",
-        "name": "1838_feifei_QT_AE_P112_260120_FF_AISC",
-        "ad_account_name": "SC-MAD-NS-LR-UTC+0-9",
+        "id": "23ba816e-882e-4732-9be1-6232c9d67e33",
+        "name": "1224354",
+        "ad_account_name": "AppDramabox-dianzhong-北京一组-jxk-MH-ZT-app-02",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "House Husband? Try Supreme Immorta",
+        "call_to_action": "WATCH",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/eMKteEFap46JZlblGz1LM.67?mo=GvoBGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNAhDEigKJgi94YAuIAEw4AM41AZAAUoPCgrADRwtGBwVGQ9IEPQDUNSUXmgCIgYKAkgEEgCiATUIugoSKAomCOGXgC0gATDQBTiACkACSg8KCrYKGR8ZGRcPDzkQ9ANQ1JReaAIiBgoCSAISAKIBNQiSChIoCiYItrWiHyABMOADONQGQAJKDwoK2w0UHA8RDRAIJxD0A1DUlF5oAiIGCgJIAhIAogE1CNIKEigKJgiegbYgIAEw4AM41AZAAkoPCgqdChEXEhISCwosEPQDUNSUXmgCIgYKAkgCEgCQA9SUXg%3D%3D&uc=15",
+        "start_date": "2025-11-21T16:00:00.000Z",
+        "impressions_total": 2359,
+        "impressions_map": {
+          "de": 19,
+          "be": 97,
+          "fi": 61,
+          "pt": 174,
+          "bg": 45,
+          "dk": 7,
+          "lt": 144,
+          "lu": 22,
+          "hr": 73,
+          "lv": 0,
+          "fr": 54,
+          "hu": 28,
+          "se": 37,
+          "si": 110,
+          "sk": 30,
+          "ie": 171,
+          "ee": 0,
+          "el": 153,
+          "mt": 0,
+          "it": 117,
+          "es": 206,
+          "at": 21,
+          "cy": 0,
+          "cz": 48,
+          "pl": 35,
+          "ro": 111,
+          "nl": 68,
+          "tr": 528
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "profile_name": "DramaBox - Stream Drama Shorts",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUktrYWhQOWloV3JQT0lka1d4c3BiP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://sn.dramabox.com/db_land_page/DLLPS1051869.html?language=en&timestamp=1763745593478&channelCode=DLLPS1051869&bid=42000000141&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&ad_group_name={{adSet.name}}&ad_group_id={{adSet.id}}&ad_id={{ad.id}}&ad_name={{creative.name}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "8e381d1a-c032-49dc-8a28-22fc32cc3340",
+        "name": "251225-3051-TT-ljm-阿语-配音萌宝追击-剧剪-17",
+        "ad_account_name": "新阅自投_snap_MH_wqt_GS_阿语_XY_双端_01_甜甜夏日歌_东二",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
@@ -799,53 +627,50 @@
         "languages": [
           "ar"
         ],
-        "headline": "صعود المنبوذين",
+        "headline": "أغنى رجل ناداه: يا ابني!",
         "call_to_action": "WATCH",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mlxbzBFbhMueRnjmswC2I.67?mo=GpgCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBOQhDEi0KKwiC3pQkIAEw4AM41AZAAUoPCgrpCSgjFTYUPR0lEPQDUPT-RWgCdRK1QEAiBgoCSAQSAKIBOgi6ChItCisI2ayvKCABMNAFOIAKQAJKDwoK_wcoHxdDHFEfKxD0A1D0_kVoAnX2xUxAIgYKAkgCEgCiAT8IkgoSMgowCL6v6xcgATDgAzjUBkACSg8KCpEKHCAQIREmFBoQ9ANQ9P5FaAJ11Rg4QH0AAIA_IgYKAkgCEgCiAT8I0goSMgowCM7-_hcgATDgAzjUBkACSg8KCt4HGhUPKxA4FRoQ9ANQ9P5FaAJ1U6tAQH0AAIA_IgYKAkgCEgCQA_T-RQ%3D%3D&uc=15",
-        "start_date": "2026-01-21T07:20:35.000Z",
-        "impressions_total": 331,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VpvluT1RQEDNlAVchm3PY.67?mo=GqICGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPghDEjIKMAiZ4NQjIAEw4AM41AZAAUoPCgqYBy4cFTMsKiIhEPQDUMz3MGgCdcvNYEB9AACAPyIGCgJIAhIAogE_CLoKEjIKMAiOmLcoIAEw0AU4gApAAkoPCgrcBTYcHz8zJishEPQDUMz3MGgCdftwcUB9AACAPyIGCgJIAxIAogE_CJIKEjIKMAiv1N4YIAEw4AM41AZAAkoPCgqkByATDSIiHBgWEPQDUMz3MGgCdaSYVEB9AACAPyIGCgJIAhIAogE_CNIKEjIKMAiCjKQaIAEw4AM41AZAAkoPCgq_BSMQECghGRwWEPQDUMz3MGgCdTfnYkB9AACAPyIGCgJIAhIAkAPM9zA%3D&uc=15",
+        "start_date": "2026-01-08T01:05:51.000Z",
+        "impressions_total": 520,
         "impressions_map": {
-          "de": 6,
-          "be": 17,
-          "fi": 6,
-          "pt": 1,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 1,
+          "de": 40,
+          "be": 0,
+          "fi": 4,
+          "pt": 0,
+          "bg": 10,
+          "dk": 2,
+          "lt": 1,
+          "lu": 4,
           "hr": 0,
           "lv": 0,
-          "fr": 25,
-          "hu": 0,
-          "se": 6,
+          "fr": 48,
+          "hu": 3,
+          "se": 11,
           "si": 0,
           "sk": 1,
-          "ie": 2,
+          "ie": 0,
           "ee": 0,
-          "el": 19,
+          "el": 20,
           "mt": 0,
-          "it": 65,
-          "es": 35,
-          "at": 3,
+          "it": 103,
+          "es": 0,
+          "at": 24,
           "cy": 0,
-          "cz": 2,
-          "pl": 4,
-          "ro": 7,
-          "nl": 6,
-          "tr": 125
+          "cz": 4,
+          "pl": 7,
+          "ro": 5,
+          "nl": 23,
+          "tr": 210
         },
         "targeting_v2": {
           "regulated_content": false,
           "demographics": [
             {
               "min_age": "18",
-              "max_age": "55",
               "age_groups": [],
-              "languages": [
-                "ar"
-              ],
+              "languages": [],
               "advanced_demographics": []
             }
           ],
@@ -853,23 +678,178 @@
             {
               "marketing_name": [],
               "model": [],
-              "os_type": "iOS",
-              "carrier_id": []
-            },
-            {
-              "marketing_name": [],
-              "model": [],
-              "os_type": "ANDROID",
               "carrier_id": []
             }
           ]
         },
         "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
-        "brand_name": "NetShort-Popular Dramas & TV",
-        "profile_name": "NetShort-Popular Dramas & TV",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR0M0YUMzdXpmejZLZ2s2ZFdBM01yP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMpng",
+        "profile_name": "GoodShort",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR2U2Qll0S05lcWU0NEtkdHNhVDJFP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://sc.netshort.com/snapchat/wR3Q0Vr_4eh.html?pid=snapchat_web&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset_id={{adSet.id}}&af_ad_id={{ad.id}}&af_adset={{adSet.name}}&af_force_deeplink=true&type=1&link_id=2013874316022898690&af_sub2=0"
+          "url": "https://www.tikaik.com/market/goodreels/t18-33-11/18?lpid=38694&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&adset_name={{adSet.name}}&adset_id={{adSet.id}}&ad_id={{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "99e80a83-ff4c-4966-b2f1-c38df5a84f37",
+        "name": " 1-3-5",
+        "ad_account_name": "新阅自投_snap_MH_huangcw_GS_英语_XY_双端_13_西五",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "🔥Trending Hit! Click to Watch🔥",
+        "call_to_action": "WATCH",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/cvtzUIScUoDVZiAYNRM8r.67?mo=GqICGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBPghDEjIKMAjMqoI3IAEw4AM41AZAAUoPCgqDCRwmExcnHiIaEPQDULjGW2gCdeaiSEB9AACAPyIGCgJIAxIAogE_CLoKEjIKMAjMofU3IAEw0AU4gApAAkoPCgrQBxUoGCouHCkZEPQDULjGW2gCdbDGVkB9AACAPyIGCgJIAhIAogE_CJIKEjIKMAif__QjIAEw4AM41AZAAkoPCgqhCREXDA4cFR0UEPQDULjGW2gCdfCzPUB9AACAPyIGCgJIAhIAogE_CNIKEjIKMAikx_YiIAEw4AM41AZAAkoPCgq7Bw4ZDRIdERsPEPQDULjGW2gCdXLHSkB9AACAPyIGCgJIAhIAkAO4xls%3D&uc=15",
+        "start_date": "2026-02-07T05:00:36.000Z",
+        "impressions_total": 58,
+        "impressions_map": {
+          "de": 3,
+          "be": 5,
+          "fi": 6,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 4,
+          "lu": 0,
+          "hr": 4,
+          "lv": 0,
+          "fr": 3,
+          "hu": 1,
+          "se": 2,
+          "si": 2,
+          "sk": 0,
+          "ie": 13,
+          "ee": 0,
+          "el": 2,
+          "mt": 0,
+          "it": 3,
+          "es": 1,
+          "at": 2,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 1,
+          "nl": 0,
+          "tr": 6
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [
+                "en"
+              ],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "brand_name": "goodshort",
+        "profile_name": "GoodShort",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR2U2Qll0S05lcWU0NEtkdHNhVDJFP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.fixfs.com/market/goodreels/t18-33-11/18?lpid=41773&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&adset_name={{adSet.name}}&adset_id={{adSet.id}}&ad_id={{ad.id}}"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "43a9f7ef-ac60-4831-9212-c95835858efb",
+        "name": "251124_gmp-tmm-number+le60s_en_TT_1080x1920",
+        "ad_account_name": "appTile Explorer-lexinshengwen-/-MH-ZT-gaming-01",
+        "status": "ACTIVE",
+        "creative_type": "APP_INSTALL",
+        "ad_type": "APP_INSTALL",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "en"
+        ],
+        "headline": "Free to play",
+        "call_to_action": "INSTALL NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/570vSXt0dzRti5bbxuyr3.67?mo=GpACGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNwhDEisKKQjP7EIgATDgAzjUBkABSg4KCTIMDAwOERIQDxD0A1DAuwFoAnVJ8HRAIgYKAkgCEgCiATgIugoSKwopCLmVNSABMNAFOIAKQAJKDgoJMgkMDAwOEA8NEPQDUMC7AWgCdUaleEAiBgoCSAMSAKIBPQiSChIwCi4Iu_EzIAEw4AM41AZAAkoOCgktCgsLDQ8QDw0Q9ANQwLsBaAJ1t_FqQH0AAIA_IgYKAkgCEgCiAT0I0goSMAouCKmGKiABMOADONQGQAJKDgoJKgcJCQkKDQsKEPQDUMC7AWgCdWyTcUB9AACAPyIGCgJIAhIAkAPAuwE%3D&uc=15",
+        "start_date": "2025-11-25T03:53:42.000Z",
+        "impressions_total": 28128,
+        "impressions_map": {
+          "de": 474,
+          "be": 6899,
+          "fi": 924,
+          "pt": 1017,
+          "bg": 819,
+          "dk": 786,
+          "lt": 560,
+          "lu": 538,
+          "hr": 0,
+          "lv": 0,
+          "fr": 442,
+          "hu": 465,
+          "se": 1074,
+          "si": 1617,
+          "sk": 77,
+          "ie": 2459,
+          "ee": 0,
+          "el": 1689,
+          "mt": 0,
+          "it": 3686,
+          "es": 2210,
+          "at": 791,
+          "cy": 0,
+          "cz": 0,
+          "pl": 793,
+          "ro": 0,
+          "nl": 808,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": [
+            {
+              "marketing_name": [],
+              "model": [],
+              "os_type": "ANDROID",
+              "carrier_id": [],
+              "operation": "INCLUDE"
+            }
+          ]
+        },
+        "paying_advertiser_name": "TOMATO INTERACTIVE LIMITED (MADHOUSE) ",
+        "profile_name": "Tile Explorer - Triple Match",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
+        "app_install_preview": {
+          "app_name": "Tile Trip - Match Puzzle Game",
+          "ios_app_id": "6498883328",
+          "android_app_url": "com.oakever.tiletrip",
+          "media_download_link": "https://cf-st.sc-cdn.net/d/0982VS9Dbh6qWup3Rzyxo.438?mo=GikaCjICBH1IAlAPYAFQLFoPQWRzSW1hZ2VBcHBJY29uogEHCLYDIgISAA%3D%3D&uc=15",
+          "playable_media_properties": {}
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

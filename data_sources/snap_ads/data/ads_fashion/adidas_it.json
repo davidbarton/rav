@@ -1,90 +1,15 @@
 {
   "brand": "adidas",
   "country": "it",
-  "fetched_at": "2026-04-09T22:26:02.835Z",
+  "fetched_at": "2026-04-10T07:14:47.626Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "3c8ec62a-f962-4061-b47f-4807430fdd6c",
-        "name": "SnapAd|Square|NA|Italian|ShopNow|NA|NA|5|VPPLA5",
-        "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "it"
-        ],
-        "headline": "Vibe in stile running anni 2000.",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/O27HzoeTAza2URkMWrbgp.67?mo=GosCGggyAgR9UA9gAVAvWghBZHNNZWRpYaIBNghDEioKKAjnsDAgATDgAzjUBkABSg4KCTcoJyMnHxoiJhD0A1CQTmgCdVj6SEAiBgoCSAMSAKIBNwi6ChIqCigIoqspIAEw0AU4gApAAkoOCgk5IB4cKRkVHCIQ9ANQkE5oAnVwelZAIgYKAkgCEgCiATwIkgoSLwotCL24ISABMOADONQGQAJKDgoJKB0YGBsUFRYcEPQDUJBOaAJ1kzQ_QH0AAIA_IgYKAkgCEgCiATwI0goSLwotCOPaHCABMOADONQGQAJKDgoJKBYWFB4TDxMZEPQDUJBOaAJ1fodGQH0AAIA_IgYKAkgCEgCQA5BO&uc=15",
-        "start_date": "2025-11-17T08:00:00.000Z",
-        "impressions_total": 304,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 304,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas Originals",
-        "profile_name": "adidas",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/624434741;431241382;y?https://www.adidas.it/adistar?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-3D-_-StoryVPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2511-4453-CP3339X-Global-NA-AdistarFW25LALPSE10"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "bec3f9ec-46c6-425c-b1c0-a30852476b70",
-        "name": "StoryVPPLA|Square|NA|Italian|ShopNow|NA|NA|3|VPPLA3",
+        "id": "ffcec085-e661-4477-aef9-5f3ea0eeb774",
+        "name": "StoryPPLA|Square|NA|Italian|ShopNow|NA|NA|6|PPLA6",
         "ad_account_name": "adidas eCom Europe (Smartly)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
@@ -95,11 +20,11 @@
         ],
         "headline": "CREATA PER LA VELOCITÀ",
         "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "VIDEO",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/QmIZyAfyZyc2YTB2qidrC.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIjIQlIAEw4AM41AZAAUoOCgk5KCYsMzkzNzQQ9ANQ8C5oAiIGCgJIAhIAogEyCLoKEiUKIwi5xhYgATDQBTiACkACSg4KCSgYGRojIB8gHBD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMI-MgSIAEw4AM41AZAAkoOCgkgFRMXGx0YGRkQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwj3khQgATDgAzjUBkACSg4KCSEXFRgfIBkcGhD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCP2UDyABMOADONYGQAJKDgoJHRAQEhgVFRUTEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMImpQPIAEw4AM41AZAAkoOCgkeEBASFxUVFRMQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/44eamkRnqVY4GtZLIPYmS.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
         "start_date": "2025-06-09T07:00:00.000Z",
-        "impressions_total": 134183,
+        "impressions_total": 68668,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -120,7 +45,7 @@
           "ee": 0,
           "el": 0,
           "mt": 0,
-          "it": 134183,
+          "it": 68668,
           "es": 0,
           "at": 0,
           "cy": 0,
@@ -147,7 +72,7 @@
         "profile_name": "adidas",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/614170778;421385389;t?https://www.adidas.it/lifestyle_running?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-3D-_-StoryVPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2506-4453-CP2X67F-Global-NA-EVOSLSS25PSE10"
+          "url": "https://ad.doubleclick.net/ddm/clk/614351509;421917297;l?https://www.adidas.it/lifestyle_running?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2506-4453-CP2X67F-Global-NA-EVOSLSS25PSE10"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -157,23 +82,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "fc8d98e6-d0c5-4587-bae6-4fd597740634",
-        "name": "CollectionAd|Square|NA|Italian|ShopNow|NA|NA|2|CollectionAd2",
+        "id": "9693edbe-a096-43e0-9efe-d8acfd0f9dca",
+        "name": "StoryPPLA|Square|NA|Italian|ShopNow|NA|NA|7|PPLAUGC1",
         "ad_account_name": "adidas eCom Europe (Smartly)",
         "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "it"
+          "en"
         ],
-        "headline": "LO STILE SI ACCENDE",
-        "call_to_action": "SHOP_NOW",
+        "headline": "THE ORIGINAL",
+        "call_to_action": "SHOP NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/oHdFmkxUZNxMHeMCery1U.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-05-06T07:00:00.000Z",
-        "impressions_total": 163768,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mTsmLoWX1MU0ZvON9WtDn.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-04-07T07:00:00.000Z",
+        "impressions_total": 45597,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -194,7 +119,404 @@
           "ee": 0,
           "el": 0,
           "mt": 0,
-          "it": 163768,
+          "it": 45597,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "brand_name": "adidas Originals",
+        "profile_name": "adidas",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "HIDE",
+        "web_view_properties": {
+          "url": "https://ad.doubleclick.net/ddm/clk/610480356;418108352;a?https://www.adidas.it/originals?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2504-4453-CP2X67F-Global-NA-TheOriginalsSS25LALOriginalsPSE5&grid=true"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c72f7762-f692-48a2-af6b-e32d0d727a4b",
+        "name": "SnapAd|Square|NA|Italian|ShopNow|NA|NA|2|PPLA2",
+        "ad_account_name": "adidas eCom Europe (Smartly)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "it"
+        ],
+        "headline": "LO STILE SI ACCENDE",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/eKUOFpYClhfjbLEeHCiGL.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-05-06T07:00:00.000Z",
+        "impressions_total": 173762,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 173762,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "brand_name": "adidas Originals",
+        "profile_name": "adidas",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "favorite_display_mode": "HIDE",
+        "web_view_properties": {
+          "url": "https://ad.doubleclick.net/ddm/clk/612896016;420374387;m?https://www.adidas.it/originals?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2505-4453-CP2X67F-Global-NA-SummerGlowSS25LALPSE10&grid=true"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "379f6744-ab26-48f7-a3d7-a2073e646f4d",
+        "name": "CollectionAd|Square|NA|Italian|ShopNow|NA|NA|2|CollectionAd2",
+        "ad_account_name": "adidas eCom Europe (Smartly)",
+        "status": "ACTIVE",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "it"
+        ],
+        "headline": "Vibe in stile running anni 2000.",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/qO2w1L7Q62TkiJgYzvd94.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
+        "start_date": "2025-11-17T08:00:00.000Z",
+        "impressions_total": 569847,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 569847,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "brand_name": "adidas Originals",
+        "favorite_display_mode": "SHOW",
+        "collection_preview": {
+          "web_view_properties": {
+            "url": "https://ad.doubleclick.net/ddm/clk/624434732;431241373;y?https://www.adidas.it/adistar?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2511-4453-CP3339X-Global-NA-AdistarFW25PSE10"
+          },
+          "collection_creative_element_attachment": [
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://ad.doubleclick.net/ddm/clk/624434732;431241373;y?https://www.adidas.it/scarpe-adistar-control-5/KI6153.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2511-4453-CP3339X-Global-NA-AdistarFW25PSE10"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/38bda4b6-5b83-4b92-80e5-ba77b6ae85aa/c753eb3c-1554-4a1a-a0be-173c1cfb3a2b.jpeg"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://ad.doubleclick.net/ddm/clk/624434732;431241373;y?https://www.adidas.it/scarpe-adistar-control-3/KI8666.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2511-4453-CP3339X-Global-NA-AdistarFW25PSE10"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/fab4dd2c-0245-4c75-8f93-01efed92f9b1/0eb76fba-50f4-4f5a-98d9-79aa7e2c20ca.jpeg"
+            },
+            {
+              "app_install_properties": {},
+              "web_view_properties": {
+                "url": "https://ad.doubleclick.net/ddm/clk/624434732;431241373;y?https://www.adidas.it/scarpe-adistar-control-5/IH1799.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2511-4453-CP3339X-Global-NA-AdistarFW25PSE10"
+              },
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/13db8ef4-8738-4369-b44a-9ce79d4ff722/844a154f-d987-4bfe-b894-3c8049979ba5.jpeg"
+            }
+          ]
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "7f50120a-c13c-4d73-8a56-972b08026207",
+        "name": "VideoTemplate|Square|NA|Italian|ShopNow|NA|NA|1|VideoTemplate1",
+        "ad_account_name": "adidas eCom Europe (Smartly)",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "it"
+        ],
+        "headline": "CREATA PER LA VELOCITÀ",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/wGDwcdpxsHYjIEcjstOoS.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMI39MIIAEw4AM41AZAAUoOCglQCwEDCgEJAAEQ9ANQwD5oAiIGCgJIBBIAogEyCLoKEiUKIwjOtAggATDQBTiACkACSg4KCVgKAQgAAQEHABD0A1DAPmgCIgYKAkgDEgCiATEIfxIlCiMIop4GIAEw4AM41AZAAkoOCgkyCQEDBwEBBwEQ9ANQwD5oAiIGCgJIAhIAogEyCJIKEiUKIwiqrwYgATDgAzjUBkACSg4KCTAJAQMHAgEIARD0A1DAPmgCIgYKAkgCEgCiATIIxAoSJQojCKOcBSABMOADONYGQAJKDgoJNQYBAAUBAQQAEPQDUMA-aAIiBgoCSAISAKIBMgjSChIlCiMIucUFIAEw4AM41AZAAkoOCgk4BgEABgEABQEQ9ANQwD5oAiIGCgJIAhIAkAPAPg%3D%3D&uc=15",
+        "start_date": "2025-06-09T07:00:00.000Z",
+        "impressions_total": 183731,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 183731,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "brand_name": "adidas",
+        "profile_name": "adidas",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://ad.doubleclick.net/ddm/clk/614351701;421385392;a?https://www.adidas.it/lifestyle_running?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-3D-_-VideoTemplate-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2506-4453-CP2X67F-Global-NA-EVOSLSS25LALPSE10"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "e5ce9b7b-cbe8-4eed-a222-8a0bbdee2e4c",
+        "name": "StoryPPLA|Square|NA|Italian|ShopNow|NA|NA|5|PPLA5",
+        "ad_account_name": "adidas eCom Europe (Smartly)",
+        "status": "PAUSED",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "it"
+        ],
+        "headline": "CREATA PER LA VELOCITÀ",
+        "call_to_action": "SHOP NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zGZPiplmj7Z16IQNH0bbw.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-09T07:00:00.000Z",
+        "impressions_total": 48020,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 48020,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "adidas AG",
+        "brand_name": "adidas",
+        "profile_name": "adidas",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://ad.doubleclick.net/ddm/clk/614171606;421915683;g?https://www.adidas.it/lifestyle_running?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2506-4453-CP2X67F-Global-NA-EVOSLSS25LALPSE10"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4b0381aa-c8d5-47c5-b7de-7207004cf1fb",
+        "name": "CollectionAd|Square|NA|Italian|ShopNow|NA|NA|1|CollectionAd1",
+        "ad_account_name": "adidas eCom Europe (Smartly)",
+        "status": "PAUSED",
+        "creative_type": "COLLECTION",
+        "ad_type": "COLLECTION",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "it"
+        ],
+        "headline": "LO STILE SI ACCENDE",
+        "call_to_action": "SHOP_NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/N834mklPWwH6PSjJf9JL5.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-05-06T07:00:00.000Z",
+        "impressions_total": 284209,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 284209,
           "es": 0,
           "at": 0,
           "cy": 0,
@@ -228,23 +550,23 @@
             {
               "app_install_properties": {},
               "web_view_properties": {
-                "url": "https://www.adidas.it/scarpe-sl-72-og/JS0254.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2505-4453-CP2X67F-Global-NA-SummerGlowSS25LALPSE10&grid=true"
+                "url": "https://www.adidas.it/adidas-originals-cali-t-shirt/KC4960.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2505-4453-CP2X67F-Global-NA-SummerGlowSS25LALPSE10&grid=true"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/c0547963-8956-4836-bb7d-d5991b893ac5/23cd0006-f94b-4fd5-8aad-067cfe9e15fe.png"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/be996ff6-9f3a-498e-ba1c-8bff61c63de1/dcb9c535-7f1a-4a98-b1ce-2e546fb38036.png"
             },
             {
               "app_install_properties": {},
               "web_view_properties": {
-                "url": "https://www.adidas.it/maglia-adidas-originals-summer-glow/KC0672.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2505-4453-CP2X67F-Global-NA-SummerGlowSS25LALPSE10&grid=true"
+                "url": "https://www.adidas.it/scarpe-handball-spezial/IF6562.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2505-4453-CP2X67F-Global-NA-SummerGlowSS25LALPSE10&grid=true"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/6f3ca24a-31e6-4dd5-bfbe-5e5842506684/300c004e-58af-4cb6-a9e3-0ae3cbbee8ba.png"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/54b4b79c-b60f-4d23-90bc-3190d9cd327d/77da3099-a06c-4361-bcd7-b2953b086fab.png"
             },
             {
               "app_install_properties": {},
               "web_view_properties": {
-                "url": "https://www.adidas.it/polo-adidas-originals-waffle-knit/KC0691.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2505-4453-CP2X67F-Global-NA-SummerGlowSS25LALPSE10&grid=true"
+                "url": "https://www.adidas.it/t-shirt-adidas-originals-summer-glow-cali/KC0770.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2505-4453-CP2X67F-Global-NA-SummerGlowSS25LALPSE10&grid=true"
               },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/72b9cfe0-feaf-4055-bb9b-cedcddf6591a/6ca79edf-bc9a-4a2b-80e8-274a906096dc.png"
+              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/2624562c-b783-40c5-b597-ab6c651bb452/247db32c-337a-4e34-94de-900526ddecb1.png"
             }
           ]
         },
@@ -256,121 +578,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "3f4e18c8-c046-45a2-8f55-02b5755d299d",
-        "name": "CollectionAd|Square|NA|Italian|ShopNow|NA|NA|3|CollectionAd3Firebird",
-        "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "ACTIVE",
-        "creative_type": "COLLECTION",
-        "ad_type": "COLLECTION",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "THE ORIGINAL",
-        "call_to_action": "SHOP_NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/b6u9FL2t7olDax7X421PJ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-04-07T07:00:00.000Z",
-        "impressions_total": 36824,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 36824,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas Originals",
-        "profile_name": "adidas",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
-        "collection_preview": {
-          "web_view_properties": {
-            "url": "https://ad.doubleclick.net/ddm/clk/610479462;418108355;j?https://www.adidas.it/firebird?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2504-4453-CP2X67F-Global-NA-TheOriginalsSS25FirebirdPSE5"
-          },
-          "collection_creative_element_attachment": [
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/610479462;418108355;j?https://www.adidas.it/track-top-adicolor-classic-firebird-loose/JC8251.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2504-4453-CP2X67F-Global-NA-TheOriginalsSS25FirebirdPSE5"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/2396b2d7-c948-4aa1-b9dd-cfcdd91042c5/cfbfde57-f24a-4c06-aacd-c0502095c6ea.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/610479462;418108355;j?https://www.adidas.it/track-pants-firebird-loose/IL3817.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2504-4453-CP2X67F-Global-NA-TheOriginalsSS25FirebirdPSE5"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/6730b48d-9d3c-421a-99af-dec93f96b266/0b03f4d6-265c-4522-918e-b80716058e04.png"
-            },
-            {
-              "app_install_properties": {},
-              "web_view_properties": {
-                "url": "https://ad.doubleclick.net/ddm/clk/610479462;418108355;j?https://www.adidas.it/track-pants-adicolor-classics-firebird/IJ7055.html?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-CollectionAd-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2504-4453-CP2X67F-Global-NA-TheOriginalsSS25FirebirdPSE5"
-              },
-              "media_download_link": "https://storage.googleapis.com/ad-manager-creatives-production-europe/44f17dac-cf01-4f63-999e-d375d63b457e/c525948d-f2fd-43c9-a803-e0267c75ae07.png"
-            }
-          ]
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "52bb21fd-c792-4051-b5f7-deab197ba1a0",
-        "name": "StoryPPLA|Square|NA|Italian|ShopNow|NA|NA|4|PPLASpezial2",
+        "id": "cbcaf9db-037e-47e7-b613-8dcf43ce9cd8",
+        "name": "StoryVPPLA|Square|NA|Italian|ShopNow|NA|NA|2|VPPLA2",
         "ad_account_name": "adidas eCom Europe (Smartly)",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "en"
+          "it"
         ],
-        "headline": "THE ORIGINAL",
+        "headline": "CREATA PER LA VELOCITÀ",
         "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NXvBoxYj4ISRV6f3g4Ky4.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-04-07T07:00:00.000Z",
-        "impressions_total": 4861,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zyk9ISHvIppbw6PU8XYdJ.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIk6IpIAEw4AM41AZAAUoOCglXQDIvKiosVUUQ9ANQ8C5oAiIGCgJIBBIAogEyCLoKEiUKIwjOvRggATDQBTiACkACSg4KCTYfIiAhHB0qJRD0A1DwLmgCIgYKAkgCEgCiATEIfxIlCiMIzs8TIAEw4AM41AZAAkoOCgknGh0bGBoWIyEQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwirwBUgATDgAzjUBkACSg4KCSodHh4aGxknIxD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCLf7DyABMOADONYGQAJKDgoJIxQXFhcTFBoXEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMImOMPIAEw4AM41AZAAkoOCgkjExgXFxMUGRYQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
+        "start_date": "2025-06-09T07:00:00.000Z",
+        "impressions_total": 78412,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -391,7 +615,7 @@
           "ee": 0,
           "el": 0,
           "mt": 0,
-          "it": 4861,
+          "it": 78412,
           "es": 0,
           "at": 0,
           "cy": 0,
@@ -414,12 +638,11 @@
           "devices": []
         },
         "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas Originals",
+        "brand_name": "adidas",
         "profile_name": "adidas",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
         "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/610480356;418108352;a?https://www.adidas.it/spezial?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2504-4453-CP2X67F-Global-NA-TheOriginalsSS25LALSpezialPSE5"
+          "url": "https://ad.doubleclick.net/ddm/clk/614170778;421385389;t?https://www.adidas.it/lifestyle_running?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-3D-_-StoryVPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2506-4453-CP2X67F-Global-NA-EVOSLSS25PSE10"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -502,227 +725,8 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "5ec3b342-c7d7-4805-9acb-572277277420",
-        "name": "SnapAd|Square|NA|Italian|ShopNow|NA|NA|5|PPLA5",
-        "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "it"
-        ],
-        "headline": "Vibe in stile running anni 2000.",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FGnOvanZO4yulWJDHiHGj.380?mo=GjMaCjICBH1IAlAPYAFQK1oZQWRzSW1hZ2VXZWJUb3BTbmFwUHJldmlld6IBBwj8AiICEgA%3D&uc=15",
-        "start_date": "2025-11-17T08:00:00.000Z",
-        "impressions_total": 210501,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 210501,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas Originals",
-        "favorite_display_mode": "SHOW",
-        "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/624434747;431241388;k?https://www.adidas.it/adistar?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2511-4453-CP3339X-Global-NA-AdistarFW25LALPSE10"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4e293bdd-8c0c-4205-849a-2d596170a020",
-        "name": "StoryPPLA|Square|NA|Italian|ShopNow|NA|NA|1|PPLASamba1",
-        "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "PAUSED",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "THE ORIGINAL",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/2b73FgQ46qReOhJQ4StIK.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-04-07T07:00:00.000Z",
-        "impressions_total": 239400,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 239400,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas Originals",
-        "profile_name": "adidas",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/610420025;418423521;l?https://www.adidas.it/samba?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2504-4453-CP2X67F-Global-NA-TheOriginalsSS25SambaPSE5"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "951fc44e-8b2e-4699-8c3f-0827972196ac",
-        "name": "StoryPPLA|Square|NA|Italian|ShopNow|NA|NA|2|PPLASamba2",
-        "ad_account_name": "adidas eCom Europe (Smartly)",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "headline": "THE ORIGINAL",
-        "call_to_action": "SHOP NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/RhqWjYQYiEHGAphWYDTFo.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
-        "start_date": "2025-04-07T07:00:00.000Z",
-        "impressions_total": 16269,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 16269,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "adidas AG",
-        "brand_name": "adidas Originals",
-        "profile_name": "adidas",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "favorite_display_mode": "HIDE",
-        "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/610420025;418423521;l?https://www.adidas.it/samba?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2504-4453-CP2X67F-Global-NA-TheOriginalsSS25SambaPSE5"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "bf7b99f8-eab2-44af-9973-c4bf41657b20",
-        "name": "StoryPPLA|Square|NA|Italian|ShopNow|NA|NA|7|PPLA7",
+        "id": "0ad0c1df-aee4-4166-89c6-4b94a6fbac87",
+        "name": "StoryPPLA|Square|NA|Italian|ShopNow|NA|NA|5|PPLA5",
         "ad_account_name": "adidas eCom Europe (Smartly)",
         "status": "PAUSED",
         "creative_type": "WEB_VIEW",
@@ -735,9 +739,9 @@
         "call_to_action": "SHOP NOW",
         "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/VT3cOeGvRWXjsIXoCptwq.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/zGZPiplmj7Z16IQNH0bbw.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
         "start_date": "2025-06-09T07:00:00.000Z",
-        "impressions_total": 64243,
+        "impressions_total": 37167,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -758,7 +762,7 @@
           "ee": 0,
           "el": 0,
           "mt": 0,
-          "it": 64243,
+          "it": 37167,
           "es": 0,
           "at": 0,
           "cy": 0,
@@ -785,7 +789,7 @@
         "profile_name": "adidas",
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMk1HS0FEUTFSaTRIeVZBVDBaVkk3P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
-          "url": "https://ad.doubleclick.net/ddm/clk/614171606;421915683;g?https://www.adidas.it/lifestyle_running?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2506-4453-CP2X67F-Global-NA-EVOSLSS25LALPSE10"
+          "url": "https://ad.doubleclick.net/ddm/clk/614351509;421917297;l?https://www.adidas.it/lifestyle_running?cm_mmc=AdiPaidSocial_Snapchat-_-CrossCategory-_-Darkpost-_-2D-_-StoryPPLA-_-dv:eCOM-_-cn:AlwaysOnMidFunnel_MidFunnel-_-pc:CrossCategory&cm_mmc1=IT&cm_mmc2=adidas-EMEA-eCOM-PaidSocial-Snapchat-CrossCategory-Prospecting_MidFunnel-IT-AlwaysOnMidFunnel-2506-4453-CP2X67F-Global-NA-EVOSLSS25PSE10"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

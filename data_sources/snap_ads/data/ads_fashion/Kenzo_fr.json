@@ -1,7 +1,7 @@
 {
   "brand": "Kenzo",
   "country": "fr",
-  "fetched_at": "2026-04-09T22:23:04.258Z",
+  "fetched_at": "2026-04-10T07:17:13.230Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
@@ -83,22 +83,20 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "6e5fa859-4dce-4d0b-ab46-d355779fd905",
-        "name": "20/09/25 - Publicité",
+        "id": "e20557c2-e404-4972-8f40-c8c225f22916",
+        "name": "17/12/25 - Publicité",
         "ad_account_name": "Promotions iOS in-app",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
         "ad_type": "DEEP_LINK",
         "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "call_to_action": "VIEW PROFILE",
-        "top_snap_media_type": "VIDEO",
+        "languages": [],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "IMAGE",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/XamhOViA0K30Ektm5OOlH.67?mo=GvkCGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBQghDEi4KLAi69QYgATDgAziMCEABSg0KCCMLBwYFBAYGEPQDULQuaAJ1oWl_QH0AAIA_Ig4KCkIGCMXKucYGSAQSAKIBRAi6ChIvCi0I3tcJIAEw0AU4lAxAAkoOCgk0DAcGDRAJCAcQ9ANQtC5oAnWA7oNAfQAAgD8iDgoKQgYIz8q5xgZIAhIAogFCCH8SLgosCLzKBSABMOADOIwIQAJKDQoIGQsFBgQFBQQQ9ANQtC5oAnUGkH9AfQAAgD8iDgoKQgYIz8q5xgZIAhIAogFECJIKEi8KLQi6nQcgATDgAziMCEACSg4KCRkPBggIBggHCRD0A1C0LmgCdUije0B9AACAPyIOCgpCBgjPyrnGBkgCEgCiAUQI0goSLwotCM3vBCABMOADOIwIQAJKDgoJIAUDAwQEBQMEEPQDULQuaAJ1PgiCQH0AAIA_Ig4KCkIGCM_KucYGSAISAJADtC4%3D&uc=15",
-        "start_date": "2025-09-20T09:23:40.000Z",
-        "impressions_total": 8379,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/okZ6pj6xK171OM4lXnDAE.380.IRZXSOY?mo=Gj0aCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2026-01-12T23:00:00.000Z",
+        "impressions_total": 3092,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -110,7 +108,157 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 8379,
+          "fr": 3092,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "30",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Kenzoptr7",
+        "profile_name": "Kenzoptr7",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU3RLdXlJeXpBbnBVYVY3Q0VWald1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/tktjegeres",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU3RLdXlJeXpBbnBVYVY3Q0VWald1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMpng",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4d13509d-9f1d-4a02-8a3b-2a644ec84bca",
+        "name": "EK-25_TEST-VDAY_SIF_IMG_LEAR_E-RETAILER_Static-Summer-Hands_OSF000EZPG",
+        "ad_account_name": "KENZOPARFUMS_PC_FRA_EMEA_SOCIAL-SNAPCHAT_PML_EUR_LVMH_",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "headline": "L’Eau Pure le nouveau parfum KENZO",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/CgkQHhaHplpBn7hjk3kEJ.380?mo=GjEaCjICBH1IAlAPYAFaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcI_AIiAhIA&uc=15",
+        "start_date": "2025-06-16T08:23:46.000Z",
+        "impressions_total": 1181533,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 1181533,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "35",
+              "age_groups": [],
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "KENZO Parfums",
+        "profile_name": "KENZO Parfums",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZDhhOUs3bVhWVmZhNm5OQlI0MW1QP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.nocibe.fr/fr/p/5011777115?variant=1233458&utm_source=SOCIAL&utm_medium=SNAPCHAT&utm_campaign=L+EAU+PURE&utm_content=CONSIDERATION"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "86e627ca-b52a-40fd-adac-1cbf714b728a",
+        "name": "28/12/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "call_to_action": "VIEW PROFILE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/NXJXjMDfIuoVHhQ2rRnKt.67?mo=GrgCGgoyAQQ6AX1QD2ABUIsCWghBZHNNZWRpYaIBQwhDEi8KLQjfgAggATDgAzjSBkABSg4KCTQHBQYEBAYDBRD0A1CQTmgCdWDKe0B9AACAPyIOCgpCBgjjlcXKBkgCEgCiAUQIugoSLwotCNuVCyABMNAFOPwJQAJKDgoJSAYFCgYFCAYGEPQDUJBOaAJ1Xut_QH0AAIA_Ig4KCkIGCOWVxcoGSAMSAKIBRAiSChIvCi0IxP0GIAEw4AM40gZAAkoOCgkpBAQGAwQEBAQQ9ANQkE5oAnXGYHlAfQAAgD8iDgoKQgYI5ZXFygZIAhIAogFECNIKEi8KLQjCkQcgATDgAzjSBkACSg4KCTYDAwUDAwQDBBD0A1CQTmgCdQAigEB9AACAPyIOCgpCBgjllcXKBkgCEgCQA5BO&uc=15",
+        "start_date": "2026-01-12T23:00:00.000Z",
+        "impressions_total": 6054,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 6054,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -141,15 +289,158 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "KenzoNiNo Pekenio💥❤",
-        "profile_name": "KenzoNiNo Pekenio💥❤",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
+        "paying_advertiser_name": "Kenzou 🇩🇿🇲🇦",
+        "profile_name": "Kenzou 🇩🇿🇲🇦",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc1RZZWZ1bDRWQTJ2aFJtSkJrcXBHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
         "sticker_display_mode": "HIDE",
         "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/kpekenio13",
-          "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/10226428-99108371437_9-s5-v1.webp?scale=0&trim=circle&ua=2",
+          "deep_link_uri": "snapchat://add/kenzou9377",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc1RZZWZ1bDRWQTJ2aFJtSkJrcXBHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
           "playable_media_properties": {}
         },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "5adb1b28-6573-4fcd-9e02-764c58bf4be7",
+        "name": "05/01/26 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "DEEP_LINK",
+        "ad_type": "DEEP_LINK",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "fr"
+        ],
+        "call_to_action": "FOLLOW",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/FF4Nmbs4hJP1nApKj2KW5.67.IRZXSOY?mo=GtwCGgoyAQQ6AX1QD2ABUIsCWghBZHNNZWRpYaIBTAhDEi8KLQjMrgsgATDgAzjUBkABSg4KCUMRCQUFDAUHCRD0A1DKTWgCdeKsikB9AACAPyIXCgpCBgjZ-OzKBkgEEgAqB0lSWlhTT1miAU0IugoSLwotCM3yCSABMOADONQGQAJKDgoJMwkGBwUIBQYGEPQDUMpNaAJ1oUCEQH0AAIA_IhcKCkIGCNz47MoGSAISACoHSVJaWFNPWaIBTQiSChIvCi0IjNoHIAEw4AM41AZAAkoOCgksCAUFAwcDBAQQ9ANQyk1oAnXauYJAfQAAgD8iFwoKQgYI3PjsygZIAhIAKgdJUlpYU09ZogFNCNIKEi8KLQjs5QggATDgAzjUBkACSg4KCT4KBAcDCAMEBRD0A1DKTWgCdYzoiUB9AACAPyIXCgpCBgjc-OzKBkgCEgAqB0lSWlhTT1mQA8pN&uc=15",
+        "start_date": "2026-01-12T23:00:00.000Z",
+        "impressions_total": 3854,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 3854,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Kenzou 🇩🇿🇲🇦",
+        "profile_name": "Kenzou 🇩🇿🇲🇦",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc1RZZWZ1bDRWQTJ2aFJtSkJrcXBHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
+        "deep_link_properties": {
+          "deep_link_uri": "snapchat://add/kenzou9377",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc1RZZWZ1bDRWQTJ2aFJtSkJrcXBHP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMjpeg",
+          "playable_media_properties": {}
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "0bee06fa-9c31-462f-9134-d9a84fd1102f",
+        "name": "14/12/25 - Publicité",
+        "ad_account_name": "Promotions iOS in-app",
+        "status": "ACTIVE",
+        "creative_type": "AD_TO_CALL",
+        "ad_type": "AD_TO_CALL",
+        "ad_render_type": "STATIC",
+        "languages": [],
+        "call_to_action": "CALL NOW",
+        "top_snap_media_type": "IMAGE",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/t783lykzXeLvUwtsux6B4.380.IRZXSOY?mo=Gj0aCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
+        "start_date": "2026-01-01T23:00:00.000Z",
+        "impressions_total": 22473,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 0,
+          "lv": 0,
+          "fr": 22473,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "age_groups": [],
+              "languages": [],
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Kenzo NANGARD",
+        "profile_name": "Kenzo NANGARD",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU3o0bENIeE9JRnBHN1FFZHhzZUtNP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "sticker_display_mode": "HIDE",
         "review_status": "APPROVED",
         "rejection_reasons": [],
         "stickers": []
@@ -220,81 +511,6 @@
         "deep_link_properties": {
           "deep_link_uri": "snapchat://add/abkenzo107",
           "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOTRQZzdEYzRSUVVSbFZvZWlwYVJWP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMpng",
-          "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "e49540ec-0b3f-4bf5-ba57-e96666e31fdd",
-        "name": "23/05/25 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
-        "status": "ACTIVE",
-        "creative_type": "DEEP_LINK",
-        "ad_type": "DEEP_LINK",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "call_to_action": "VIEW PROFILE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GhHtGUQ2hAXggLeD61seo.67.IRZXSOY?mo=GrwDGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBQghDEiUKIwiVkUwgATDgAzjUBkABSg4KCV03NzM2N0Y8LhD0A1DyTWgCIhcKCkIGCPCdwMEGSAQSACoHSVJaWFNPWaIBQwi6ChIlCiMIvo5FIAEw0AU4gApAAkoOCglcLigsMC0tOlYQ9ANQ8k1oAiIXCgpCBgibn8DBBkgDEgAqB0lSWlhTT1miAUIIfxIlCiMIuPIxIAEw4AM41AZAAkoOCglFHyMkJiMoKyMQ9ANQ8k1oAiIXCgpCBgibn8DBBkgCEgAqB0lSWlhTT1miAUMIkgoSJQojCPCIMyABMOADONQGQAJKDgoJQSQlIiYkKywiEPQDUPJNaAIiFwoKQgYIm5_AwQZIAhIAKgdJUlpYU09ZogFDCMQKEiUKIwjU6iggATDgAzjWBkACSg4KCTsaGRkdGx0kMBD0A1DyTWgCIhcKCkIGCJufwMEGSAISACoHSVJaWFNPWaIBQwjSChIlCiMIgokoIAEw4AM41AZAAkoOCglBHBodHh0fIh4Q9ANQ8k1oAiIXCgpCBgibn8DBBkgCEgAqB0lSWlhTT1mQA_JN&uc=15",
-        "start_date": "2025-05-23T06:46:28.000Z",
-        "impressions_total": 23734,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 23734,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Kenzo.",
-        "profile_name": "Kenzo’Life 👻",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTzhLTHpjMkRBMlZ4OWFQeklvczRCP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/kenzo.ctv",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvenc0QVM2elNuRW9raEJvTWR4V29zP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -376,95 +592,22 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "b345603c-51fb-4ac4-b1c5-a40dac12cd7d",
-        "name": "EK-25_VIDEO_SVF_VID_LEAR_E-RETAILER_Video-Bottle-Reveal-Pure_OSF000EZP0",
-        "ad_account_name": "KENZOPARFUMS_PC_FRA_EMEA_SOCIAL-SNAPCHAT_PML_EUR_LVMH_",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "L’Eau Pure le nouveau parfum KENZO",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/6fqkvOeGoAr9fXC5b71dh.67?mo=GtQCGggyAgR9UA9gAVoIQWRzTWVkaWGiATEIQxIlCiMIyJckIAEw4AM41AZAAUoOCglCNUNKPi80IiAQ9ANQ8C5oAiIGCgJIAxIAogEyCLoKEiUKIwje0BsgATDQBTiACkACSg4KCTcjMDMuHDQcGhD0A1DwLmgCIgYKAkgDEgCiATEIfxIlCiMIqqoVIAEw4AM41AZAAkoOCgkmHigoIhoeFhYQ9ANQ8C5oAiIGCgJIAhIAogEyCJIKEiUKIwjgmBYgATDgAzjUBkACSg4KCSchKiwjHB0WFhD0A1DwLmgCIgYKAkgCEgCiATIIxAoSJQojCL7vESABMOADONYGQAJKDgoJJxgfIR0SIxEQEPQDUPAuaAIiBgoCSAISAKIBMgjSChIlCiMI78oSIAEw4AM41AZAAkoOCgkpGCAhHxIlExAQ9ANQ8C5oAiIGCgJIAhIAkAPwLg%3D%3D&uc=15",
-        "start_date": "2025-06-11T09:12:50.000Z",
-        "impressions_total": 3111166,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 3111166,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "KENZO Parfums",
-        "profile_name": "KENZO Parfums",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZDhhOUs3bVhWVmZhNm5OQlI0MW1QP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.my-origines.com/fr/l-eau-pure-49916775.html?utm_source=SOCIAL&utm_medium=SNAPCHAT&utm_campaign=L+EAU+PURE&utm_content=VIDEO+VIEWS"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "cf86eda5-5edc-450a-a8af-a61e88ae9532",
-        "name": "25/12/25 - Publicité",
+        "id": "e49540ec-0b3f-4bf5-ba57-e96666e31fdd",
+        "name": "23/05/25 - Publicité",
         "ad_account_name": "Promotions iOS in-app",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
         "ad_type": "DEEP_LINK",
         "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "FOLLOW",
-        "top_snap_media_type": "IMAGE",
+        "languages": [
+          "fr"
+        ],
+        "call_to_action": "VIEW PROFILE",
+        "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Zrcu5b0RyRtza807zqIYe.385?mo=GjQaCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiAQcIgQMiAhIA&uc=15",
-        "start_date": "2026-01-12T23:21:33.000Z",
-        "impressions_total": 1502,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/GhHtGUQ2hAXggLeD61seo.67.IRZXSOY?mo=GrwDGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBQghDEiUKIwiVkUwgATDgAzjUBkABSg4KCV03NzM2N0Y8LhD0A1DyTWgCIhcKCkIGCPCdwMEGSAQSACoHSVJaWFNPWaIBQwi6ChIlCiMIvo5FIAEw0AU4gApAAkoOCglcLigsMC0tOlYQ9ANQ8k1oAiIXCgpCBgibn8DBBkgDEgAqB0lSWlhTT1miAUIIfxIlCiMIuPIxIAEw4AM41AZAAkoOCglFHyMkJiMoKyMQ9ANQ8k1oAiIXCgpCBgibn8DBBkgCEgAqB0lSWlhTT1miAUMIkgoSJQojCPCIMyABMOADONQGQAJKDgoJQSQlIiYkKywiEPQDUPJNaAIiFwoKQgYIm5_AwQZIAhIAKgdJUlpYU09ZogFDCMQKEiUKIwjU6iggATDgAzjWBkACSg4KCTsaGRkdGx0kMBD0A1DyTWgCIhcKCkIGCJufwMEGSAISACoHSVJaWFNPWaIBQwjSChIlCiMIgokoIAEw4AM41AZAAkoOCglBHBodHh0fIh4Q9ANQ8k1oAiIXCgpCBgibn8DBBkgCEgAqB0lSWlhTT1mQA_JN&uc=15",
+        "start_date": "2025-05-23T06:46:28.000Z",
+        "impressions_total": 23734,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -476,7 +619,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 1502,
+          "fr": 23734,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -507,13 +650,13 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Kenzoptr7",
-        "profile_name": "Kenzoptr7",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU3RLdXlJeXpBbnBVYVY3Q0VWald1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+        "paying_advertiser_name": "Kenzo.",
+        "profile_name": "Kenzo’Life 👻",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTzhLTHpjMkRBMlZ4OWFQeklvczRCP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "sticker_display_mode": "HIDE",
         "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/tktjegeres",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU3RLdXlJeXpBbnBVYVY3Q0VWald1P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMpng",
+          "deep_link_uri": "snapchat://add/kenzo.ctv",
+          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvenc0QVM2elNuRW9raEJvTWR4V29zP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
           "playable_media_properties": {}
         },
         "review_status": "APPROVED",
@@ -524,9 +667,9 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "21535eb8-2287-4cfd-b731-c79c0ffa79f8",
-        "name": "01/09/25 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
+        "id": "7f7cbe19-fb90-454b-9b5c-1d8777e65daf",
+        "name": "25-11-28 - Ad",
+        "ad_account_name": "iOS In-App Promotions",
         "status": "ACTIVE",
         "creative_type": "DEEP_LINK",
         "ad_type": "DEEP_LINK",
@@ -535,12 +678,12 @@
         "call_to_action": "VIEW PROFILE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/TZkMpvTmxeUFmbPeevlv5.67?mo=GoADGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBOAhDEiQKIgiizwogATDgAzjUBkABSg0KCEIMFBEMEggPEPQDUIQgaAIiDgoKQgYIo-XVxQZIAhIAogE5CLoKEiQKIgi_vgogATDQBTiACkACSg0KCDcOExIVCBQNEPQDUIQgaAIiDgoKQgYI4uXVxQZIAxIAogE4CH8SJAoiCPPiBSABMOADONQGQAJKDQoIJgoGCAkGBwgQ9ANQhCBoAiIOCgpCBgji5dXFBkgCEgCiATkIkgoSJAoiCK-MByABMOADONQGQAJKDQoIJgYNDgsLCQwQ9ANQhCBoAiIOCgpCBgji5dXFBkgCEgCiATkIxAoSJAoiCL3qBiABMOADONYGQAJKDQoIJgkMDA0FDAgQ9ANQhCBoAiIOCgpCBgjh5dXFBkgCEgCiATkI0goSJAoiCK_gBSABMOADONQGQAJKDQoIKAkJCQgDCQUQ9ANQhCBoAiIOCgpCBgji5dXFBkgCEgCQA4Qg&uc=15",
-        "start_date": "2025-09-01T22:00:00.000Z",
-        "impressions_total": 9501,
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/5eI6tyOTsJSZqIos5NYv8.67?mo=Gr4CGgoyAQQ6AX1QD2ABUIsCWghBZHNNZWRpYaIBRQhDEjEKLwiAyI0BIAEw4AM41gZAAUoOCgl6RD8wMkBBPTsQ9ANQ9poBaAJ1z0EPQH0AAIA_Ig4KCkIGCPbQp8kGSAISAKIBRQi6ChIwCi4ImqVIIAEw4AM41gZAAkoOCglWJxscHCYbJBwQ9ANQ9poBaAJ11GMRQH0AAIA_Ig4KCkIGCJnRp8kGSAMSAKIBRQiSChIwCi4I4c1mIAEw4AM41gZAAkoOCgl4OjMiKDI2LS0Q9ANQ9poBaAJ1mzEJQH0AAIA_Ig4KCkIGCJnRp8kGSAISAKIBRQjSChIwCi4I-e5MIAEw4AM41gZAAkoOCglhLB0eHSoeJh8Q9ANQ9poBaAJ1Mm8SQH0AAIA_Ig4KCkIGCJnRp8kGSAISAJAD9poB&uc=15",
+        "start_date": "2025-12-03T04:00:00.000Z",
+        "impressions_total": 8042,
         "impressions_map": {
           "de": 0,
-          "be": 0,
+          "be": 101,
           "fi": 0,
           "pt": 0,
           "bg": 0,
@@ -549,7 +692,7 @@
           "lu": 0,
           "hr": 0,
           "lv": 0,
-          "fr": 9501,
+          "fr": 15,
           "hu": 0,
           "se": 0,
           "si": 0,
@@ -566,7 +709,7 @@
           "pl": 0,
           "ro": 0,
           "nl": 0,
-          "tr": 0
+          "tr": 7926
         },
         "targeting_v2": {
           "regulated_content": false,
@@ -580,156 +723,14 @@
           ],
           "devices": []
         },
-        "paying_advertiser_name": "Ab🇨🇮🇫🇷 kenzo🔥🤴Fofana",
-        "profile_name": "Ab🇨🇮🇫🇷 kenzo🔥🤴Fofana",
+        "paying_advertiser_name": "Mackenzo 🌬",
+        "profile_name": "Mackenzo 🌬",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,72_FMpng",
         "sticker_display_mode": "HIDE",
         "deep_link_properties": {
-          "deep_link_uri": "snapchat://add/abkenzo107",
-          "icon_media_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOTRQZzdEYzRSUVVSbFZvZWlwYVJWP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMpng",
+          "deep_link_uri": "snapchat://add/fly_bloke",
+          "icon_media_url": "https://cf-st.sc-cdn.net/3d/render/10226022-263864531_39-s5-v1.webp?scale=0&trim=circle&ua=2",
           "playable_media_properties": {}
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "0bee06fa-9c31-462f-9134-d9a84fd1102f",
-        "name": "14/12/25 - Publicité",
-        "ad_account_name": "Promotions iOS in-app",
-        "status": "ACTIVE",
-        "creative_type": "AD_TO_CALL",
-        "ad_type": "AD_TO_CALL",
-        "ad_render_type": "STATIC",
-        "languages": [],
-        "call_to_action": "CALL NOW",
-        "top_snap_media_type": "IMAGE",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/t783lykzXeLvUwtsux6B4.380.IRZXSOY?mo=Gj0aCjICBH1IAlAPYAFQlQJaGUFkc0ltYWdlV2ViVG9wU25hcFByZXZpZXeiARAI_AIiCxIAKgdJUlpYU09Z&uc=15",
-        "start_date": "2026-01-01T23:00:00.000Z",
-        "impressions_total": 22473,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 22473,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "age_groups": [],
-              "languages": [],
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Kenzo NANGARD",
-        "profile_name": "Kenzo NANGARD",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU3o0bENIeE9JRnBHN1FFZHhzZUtNP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "sticker_display_mode": "HIDE",
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "18f61027-64bb-44a4-aefc-cd777464d336",
-        "name": "EK-25_VIDEO_SVF_VID_LEAR_E-RETAILER_Video-Hero-Movie-10s_OSF000EZOM",
-        "ad_account_name": "KENZOPARFUMS_PC_FRA_EMEA_SOCIAL-SNAPCHAT_PML_EUR_LVMH_",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "fr"
-        ],
-        "headline": "L’Eau Pure le nouveau parfum KENZO",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/kXzyR3T7zGX7scFY8VlQO.67?mo=GtUCGggyAgR9UA9gAVoIQWRzTWVkaWGiATIIQxImCiQIv6NRIAEw4AM41AZAAUoPCgo5WiQmLTFclwFLEPQDUJBOaAIiBgoCSAISAKIBMgi6ChIlCiMIgc87IAEw0AU4gApAAkoOCgksPBAZJSBmaysQ9ANQkE5oAiIGCgJIAxIAogExCH8SJQojCJHFMiABMOADONQGQAJKDgoJHy0VERoeTV0pEPQDUJBOaAIiBgoCSAISAKIBMgiSChIlCiMI6IYzIAEw4AM41AZAAkoOCgkgKxURHB1PWikQ9ANQkE5oAiIGCgJIAhIAogEyCMQKEiUKIwiNiSYgATDgAzjWBkACSg4KCSAnChEZFT9EGRD0A1CQTmgCIgYKAkgCEgCiATII0goSJQojCJOHJyABMOADONQGQAJKDgoJICgNERoXPkEYEPQDUJBOaAIiBgoCSAISAJADkE4%3D&uc=15",
-        "start_date": "2025-06-12T08:08:25.000Z",
-        "impressions_total": 1941500,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 0,
-          "lv": 0,
-          "fr": 1941500,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "35",
-              "age_groups": [],
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "KENZO Parfums",
-        "profile_name": "KENZO Parfums",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZDhhOUs3bVhWVmZhNm5OQlI0MW1QP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.nocibe.fr/fr/p/5011777115?variant=1233458&utm_source=SOCIAL&utm_medium=SNAPCHAT&utm_campaign=L+EAU+PURE&utm_content=BRAND+AWARENESS"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],

@@ -1,164 +1,10 @@
 {
   "brand": "Zalando",
   "country": "hr",
-  "fetched_at": "2026-04-09T22:52:45.551Z",
+  "fetched_at": "2026-04-10T05:58:30.661Z",
   "ads_count": 10,
   "pagination_complete": false,
   "ads": [
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "4591ac1a-e8cb-4cb7-8eea-5d99bea2abc2",
-        "name": "SS25-007_video-infeedads-9x16_10s_SeriesSpring_a_HR",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "sr"
-        ],
-        "headline": "Vajb? Stil koji privlači poglede",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/A4mj9mVkTlLBi6x6y3v5E.67?mo=GooCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogEsCEMSGgoYCIGjSiABSg4KCWFNMjhDX1xPTBD0A2gCIgwKCEIGCJfpib8GEgCiAS0IugoSGgoYCMG1OSABSg4KCVMxJyw5RT07RxD0A2gCIgwKCEIGCOTpib8GEgCiASwIfxIaChgIzv8vIAFKDgoJOishJSk9PDYxEPQDaAIiDAoIQgYI5OmJvwYSAKIBLQiSChIaChgI3NAyIAFKDgoJPC4hKCxBQDo0EPQDaAIiDAoIQgYI5OmJvwYSAKIBLQjEChIaChgIhMomIAFKDgoJOiAZHiUuJicvEPQDaAIiDAoIQgYI5OmJvwYSAJADkE4%3D&uc=15",
-        "start_date": "2025-03-31T11:00:00.000Z",
-        "impressions_total": 78432,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 78432,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.hr/campaigns/SS25-men-what-do-i-wear/?wmc=smp385__.80924612___..&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "c60d406e-6aad-4f2d-9c42-716b2253e5df",
-        "name": "SS25-010_video-infeedads-9x16_10s_BoxVictor_a_HR",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "hr"
-        ],
-        "headline": "Postoji toplo, a postoji i vruće",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mU9sEf8SyXZVo4VBFBubq.67?mo=GooCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogEsCEMSGgoYCLuYKSABSg4KCTwzFg8gQA0VGBD0A2gCIgwKCEIGCILpib8GEgCiAS0IugoSGgoYCL_7HyABSg4KCTAjDg0aMQwREhD0A2gCIgwKCEIGCK_pib8GEgCiASwIfxIaChgIja4ZIAFKDgoJJR0JChQpCQwOEPQDaAIiDAoIQgYIr-mJvwYSAKIBLQiSChIaChgI5N8aIAFKDgoJJh4MCRYqCQwQEPQDaAIiDAoIQgYIr-mJvwYSAKIBLQjEChIaChgIrIsWIAFKDgoJJRYMCBQhBwsMEPQDaAIiDAoIQgYIr-mJvwYSAJADkE4%3D&uc=15",
-        "start_date": "2025-03-31T11:00:00.000Z",
-        "impressions_total": 191108,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 191108,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.hr/campaigns/SS25-women-what-do-I-wear/?wmc=smp385__.80924612___..&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
@@ -230,6 +76,160 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://www.zalando.hr/campaigns/SS25-men-what-do-i-wear/?wmc=smp385__.80924612___..&opc=2211"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "3d0bb095-4339-482b-a084-24a5705604a4",
+        "name": "SS25-008_video-infeedads-9x16_10s_Table_a_HR",
+        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "hr"
+        ],
+        "headline": "POV: ti si glavna atrakcija",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bC374myKO1Pnd8rLGIDJp.67?mo=GpICGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLghDEhoKGAjxuSggAUoOCgloFxcxJxwkLiAQ9ANoAiIOCgpCBgiD6Ym_BkgDEgCiAS8IugoSGgoYCKzYJCABSg4KCWITFywpHBgkGhD0A2gCIg4KCkIGCKnpib8GSAISAKIBLgh_EhoKGAiQ2BwgAUoOCglLDxIjGhYaHRUQ9ANoAiIOCgpCBgip6Ym_BkgCEgCiAS8IkgoSGgoYCM-dHSABSg4KCUgSEiIdFRccGBD0A2gCIg4KCkIGCKnpib8GSAISAKIBLwjEChIaChgIiLIYIAFKDgoJQw0PHBsTEBkSEPQDaAIiDgoKQgYIqemJvwZIAhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-03-31T11:00:00.000Z",
+        "impressions_total": 206230,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 206230,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "brand_name": "Zalando",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.zalando.hr/campaigns/SS25-women-what-do-I-wear/?wmc=smp385__.80924612___..&opc=2211"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "7c709b80-c395-4401-a92f-9828074f78b7",
+        "name": "SS25-009_video-infeedads-9x16_10s_CandidMoments_a_HR",
+        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "hr"
+        ],
+        "headline": "Ova sezona pripada tebi",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/weuKDAIzFq6osBoQmrC5G.67?mo=GpYCGgcyAQRQD2ABWghBZHNNZWRpYaIBKQhDEhoKGAir6ikgAUoOCglpHzUrHTcgMAkQ9ANoAiIJCgUyAX1IBBIAogEyCLoKEhoKGAj67SQgAUoOCglLFzYgGysdLQgQ9ANoAiIRCg06AX1CBgje6Ym_BkgCEgCiATEIfxIaChgI4s8bIAFKDgoJPRgcGxYkFxgGEPQDaAIiEQoNOgF9QgYI3umJvwZIAhIAogEyCJIKEhoKGAis2RwgAUoOCglAGR0cFyUYGQcQ9ANoAiIRCg06AX1CBgje6Ym_BkgCEgCiATIIxAoSGgoYCMy9GCABSg4KCTUOJRQSHBMeBRD0A2gCIhEKDToBfUIGCN7pib8GSAISAJADkE4%3D&uc=15",
+        "start_date": "2025-03-31T11:00:00.000Z",
+        "impressions_total": 195832,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 195832,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "brand_name": "Zalando",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.zalando.hr/campaigns/SS25-women-what-do-I-wear/?wmc=smp385__.80924612___..&opc=2211"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
@@ -393,23 +393,23 @@
     {
       "sub_request_status": "SUCCESS",
       "ad_preview": {
-        "id": "fadca691-8975-452d-90a4-b09cd07da5ea",
-        "name": "SS25-005_video-infeedads-9x16_10s_SJP_a_HR",
+        "id": "a1811296-0c99-4d8b-a97a-6cdca659d745",
+        "name": "SS25-007_video-infeedads-9x16_10s_SeriesSpring_a_HR",
         "ad_account_name": "Zalando_DigitalMedia_Global",
         "status": "ACTIVE",
         "creative_type": "WEB_VIEW",
         "ad_type": "REMOTE_WEBPAGE",
         "ad_render_type": "STATIC",
         "languages": [
-          "hr"
+          "sr"
         ],
-        "headline": "Budi glavna zvijezda",
+        "headline": "Vajb? Stil koji privlači poglede",
         "call_to_action": "MORE",
         "top_snap_media_type": "VIDEO",
         "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/sTMQ1vg3PdRSmMLohIYVU.67?mo=GooCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogEsCEMSGgoYCPOCSyABSg4KCUpPVBIPPklKKRD0A2gCIgwKCEIGCIfpib8GEgCiAS0IugoSGgoYCOjUPyABSg4KCVI8RxAfH0FILhD0A2gCIgwKCEIGCOnpib8GEgCiASwIfxIaChgI7oAyIAFKDgoJMjQ-DxcWIzoaEPQDaAIiDAoIQgYI6emJvwYSAKIBLQiSChIaChgI9sszIAFKDgoJMzQ-Dw0iLjIbEPQDaAIiDAoIQgYI6emJvwYSAKIBLQjEChIaChgIgKcqIAFKDgoJPCwwDRkTLS4ZEPQDaAIiDAoIQgYI6emJvwYSAJADkE4%3D&uc=15",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/A4mj9mVkTlLBi6x6y3v5E.67?mo=GooCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogEsCEMSGgoYCIGjSiABSg4KCWFNMjhDX1xPTBD0A2gCIgwKCEIGCJfpib8GEgCiAS0IugoSGgoYCMG1OSABSg4KCVMxJyw5RT07RxD0A2gCIgwKCEIGCOTpib8GEgCiASwIfxIaChgIzv8vIAFKDgoJOishJSk9PDYxEPQDaAIiDAoIQgYI5OmJvwYSAKIBLQiSChIaChgI3NAyIAFKDgoJPC4hKCxBQDo0EPQDaAIiDAoIQgYI5OmJvwYSAKIBLQjEChIaChgIhMomIAFKDgoJOiAZHiUuJicvEPQDaAIiDAoIQgYI5OmJvwYSAJADkE4%3D&uc=15",
         "start_date": "2025-03-31T11:00:00.000Z",
-        "impressions_total": 204693,
+        "impressions_total": 70384,
         "impressions_map": {
           "de": 0,
           "be": 0,
@@ -419,238 +419,7 @@
           "dk": 0,
           "lt": 0,
           "lu": 0,
-          "hr": 204693,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.hr/campaigns/SS25-men-what-do-i-wear/?wmc=smp385__.80924612___..&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "7c709b80-c395-4401-a92f-9828074f78b7",
-        "name": "SS25-009_video-infeedads-9x16_10s_CandidMoments_a_HR",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "hr"
-        ],
-        "headline": "Ova sezona pripada tebi",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/weuKDAIzFq6osBoQmrC5G.67?mo=GpYCGgcyAQRQD2ABWghBZHNNZWRpYaIBKQhDEhoKGAir6ikgAUoOCglpHzUrHTcgMAkQ9ANoAiIJCgUyAX1IBBIAogEyCLoKEhoKGAj67SQgAUoOCglLFzYgGysdLQgQ9ANoAiIRCg06AX1CBgje6Ym_BkgCEgCiATEIfxIaChgI4s8bIAFKDgoJPRgcGxYkFxgGEPQDaAIiEQoNOgF9QgYI3umJvwZIAhIAogEyCJIKEhoKGAis2RwgAUoOCglAGR0cFyUYGQcQ9ANoAiIRCg06AX1CBgje6Ym_BkgCEgCiATIIxAoSGgoYCMy9GCABSg4KCTUOJRQSHBMeBRD0A2gCIhEKDToBfUIGCN7pib8GSAISAJADkE4%3D&uc=15",
-        "start_date": "2025-03-31T11:00:00.000Z",
-        "impressions_total": 195832,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 195832,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "FEMALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.hr/campaigns/SS25-women-what-do-I-wear/?wmc=smp385__.80924612___..&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "81fcbf07-32e4-4f86-ac4a-a2115f0380bd",
-        "name": "SS25-008_video-infeedads-9x16_10s_Table_a_HR",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "hr"
-        ],
-        "headline": "POV: ti si glavna atrakcija",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bC374myKO1Pnd8rLGIDJp.67?mo=GpICGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLghDEhoKGAjxuSggAUoOCgloFxcxJxwkLiAQ9ANoAiIOCgpCBgiD6Ym_BkgDEgCiAS8IugoSGgoYCKzYJCABSg4KCWITFywpHBgkGhD0A2gCIg4KCkIGCKnpib8GSAISAKIBLgh_EhoKGAiQ2BwgAUoOCglLDxIjGhYaHRUQ9ANoAiIOCgpCBgip6Ym_BkgCEgCiAS8IkgoSGgoYCM-dHSABSg4KCUgSEiIdFRccGBD0A2gCIg4KCkIGCKnpib8GSAISAKIBLwjEChIaChgIiLIYIAFKDgoJQw0PHBsTEBkSEPQDaAIiDgoKQgYIqemJvwZIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-03-31T11:00:00.000Z",
-        "impressions_total": 215323,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 215323,
-          "lv": 0,
-          "fr": 0,
-          "hu": 0,
-          "se": 0,
-          "si": 0,
-          "sk": 0,
-          "ie": 0,
-          "ee": 0,
-          "el": 0,
-          "mt": 0,
-          "it": 0,
-          "es": 0,
-          "at": 0,
-          "cy": 0,
-          "cz": 0,
-          "pl": 0,
-          "ro": 0,
-          "nl": 0,
-          "tr": 0
-        },
-        "targeting_v2": {
-          "regulated_content": false,
-          "demographics": [
-            {
-              "min_age": "18",
-              "max_age": "54",
-              "age_groups": [],
-              "gender": "MALE",
-              "languages": [],
-              "operation": "INCLUDE",
-              "advanced_demographics": []
-            }
-          ],
-          "devices": []
-        },
-        "paying_advertiser_name": "Zalando SE",
-        "brand_name": "Zalando",
-        "profile_name": "Zalando",
-        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
-        "web_view_properties": {
-          "url": "https://www.zalando.hr/campaigns/SS25-men-what-do-i-wear/?wmc=smp385__.80924612___..&opc=2211"
-        },
-        "review_status": "APPROVED",
-        "rejection_reasons": [],
-        "stickers": []
-      }
-    },
-    {
-      "sub_request_status": "SUCCESS",
-      "ad_preview": {
-        "id": "3d0bb095-4339-482b-a084-24a5705604a4",
-        "name": "SS25-008_video-infeedads-9x16_10s_Table_a_HR",
-        "ad_account_name": "Zalando_DigitalMedia_Global",
-        "status": "ACTIVE",
-        "creative_type": "WEB_VIEW",
-        "ad_type": "REMOTE_WEBPAGE",
-        "ad_render_type": "STATIC",
-        "languages": [
-          "hr"
-        ],
-        "headline": "POV: ti si glavna atrakcija",
-        "call_to_action": "MORE",
-        "top_snap_media_type": "VIDEO",
-        "top_snap_crop_position": "MIDDLE",
-        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/bC374myKO1Pnd8rLGIDJp.67?mo=GpICGgoyAQQ6AX1QD2ABWghBZHNNZWRpYaIBLghDEhoKGAjxuSggAUoOCgloFxcxJxwkLiAQ9ANoAiIOCgpCBgiD6Ym_BkgDEgCiAS8IugoSGgoYCKzYJCABSg4KCWITFywpHBgkGhD0A2gCIg4KCkIGCKnpib8GSAISAKIBLgh_EhoKGAiQ2BwgAUoOCglLDxIjGhYaHRUQ9ANoAiIOCgpCBgip6Ym_BkgCEgCiAS8IkgoSGgoYCM-dHSABSg4KCUgSEiIdFRccGBD0A2gCIg4KCkIGCKnpib8GSAISAKIBLwjEChIaChgIiLIYIAFKDgoJQw0PHBsTEBkSEPQDaAIiDgoKQgYIqemJvwZIAhIAkAOQTg%3D%3D&uc=15",
-        "start_date": "2025-03-31T11:00:00.000Z",
-        "impressions_total": 206230,
-        "impressions_map": {
-          "de": 0,
-          "be": 0,
-          "fi": 0,
-          "pt": 0,
-          "bg": 0,
-          "dk": 0,
-          "lt": 0,
-          "lu": 0,
-          "hr": 206230,
+          "hr": 70384,
           "lv": 0,
           "fr": 0,
           "hu": 0,
@@ -769,6 +538,237 @@
         "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
         "web_view_properties": {
           "url": "https://www.zalando.hr/campaigns/SS25-men-what-do-i-wear/?wmc=smp385__.80924612___..&opc=2211"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "c60d406e-6aad-4f2d-9c42-716b2253e5df",
+        "name": "SS25-010_video-infeedads-9x16_10s_BoxVictor_a_HR",
+        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "hr"
+        ],
+        "headline": "Postoji toplo, a postoji i vruće",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/mU9sEf8SyXZVo4VBFBubq.67?mo=GooCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogEsCEMSGgoYCLuYKSABSg4KCTwzFg8gQA0VGBD0A2gCIgwKCEIGCILpib8GEgCiAS0IugoSGgoYCL_7HyABSg4KCTAjDg0aMQwREhD0A2gCIgwKCEIGCK_pib8GEgCiASwIfxIaChgIja4ZIAFKDgoJJR0JChQpCQwOEPQDaAIiDAoIQgYIr-mJvwYSAKIBLQiSChIaChgI5N8aIAFKDgoJJh4MCRYqCQwQEPQDaAIiDAoIQgYIr-mJvwYSAKIBLQjEChIaChgIrIsWIAFKDgoJJRYMCBQhBwsMEPQDaAIiDAoIQgYIr-mJvwYSAJADkE4%3D&uc=15",
+        "start_date": "2025-03-31T11:00:00.000Z",
+        "impressions_total": 191108,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 191108,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "brand_name": "Zalando",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.zalando.hr/campaigns/SS25-women-what-do-I-wear/?wmc=smp385__.80924612___..&opc=2211"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "4591ac1a-e8cb-4cb7-8eea-5d99bea2abc2",
+        "name": "SS25-007_video-infeedads-9x16_10s_SeriesSpring_a_HR",
+        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "sr"
+        ],
+        "headline": "Vajb? Stil koji privlači poglede",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/A4mj9mVkTlLBi6x6y3v5E.67?mo=GooCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogEsCEMSGgoYCIGjSiABSg4KCWFNMjhDX1xPTBD0A2gCIgwKCEIGCJfpib8GEgCiAS0IugoSGgoYCMG1OSABSg4KCVMxJyw5RT07RxD0A2gCIgwKCEIGCOTpib8GEgCiASwIfxIaChgIzv8vIAFKDgoJOishJSk9PDYxEPQDaAIiDAoIQgYI5OmJvwYSAKIBLQiSChIaChgI3NAyIAFKDgoJPC4hKCxBQDo0EPQDaAIiDAoIQgYI5OmJvwYSAKIBLQjEChIaChgIhMomIAFKDgoJOiAZHiUuJicvEPQDaAIiDAoIQgYI5OmJvwYSAJADkE4%3D&uc=15",
+        "start_date": "2025-03-31T11:00:00.000Z",
+        "impressions_total": 78432,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 78432,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "MALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "brand_name": "Zalando",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.zalando.hr/campaigns/SS25-men-what-do-i-wear/?wmc=smp385__.80924612___..&opc=2211"
+        },
+        "review_status": "APPROVED",
+        "rejection_reasons": [],
+        "stickers": []
+      }
+    },
+    {
+      "sub_request_status": "SUCCESS",
+      "ad_preview": {
+        "id": "53e58c68-c4d4-442f-b3fe-c0913745a918",
+        "name": "SS25-006_video-infeedads-9x16_10s_Mahmood_a_HR",
+        "ad_account_name": "Zalando_DigitalMedia_Global",
+        "status": "ACTIVE",
+        "creative_type": "WEB_VIEW",
+        "ad_type": "REMOTE_WEBPAGE",
+        "ad_render_type": "STATIC",
+        "languages": [
+          "hr"
+        ],
+        "headline": "Stručnjak za svjetla reflektora",
+        "call_to_action": "MORE",
+        "top_snap_media_type": "VIDEO",
+        "top_snap_crop_position": "MIDDLE",
+        "top_snap_media_download_link": "https://cf-st.sc-cdn.net/d/Rb0uxsR8gY5qkSMLvfltk.67?mo=GowCGgwyAQQ6AX1IAlAPYAFaCEFkc01lZGlhogEtCEMSGwoZCMKKSSABSg8KCpoBbBo6KEBAPyUQ9ANoAiIMCghCBgj76Im_BhIAogEuCLoKEhsKGQjP1jwgAUoPCgqOAU0VKjAiLiwfEPQDaAIiDAoIQgYIxOmJvwYSAKIBLAh_EhoKGAjwhi8gAUoOCglqSw8jFiwpJRgQ9ANoAiIMCghCBgjE6Ym_BhIAogEtCJIKEhoKGAiD1DEgAUoOCglxTxEkGTErKhsQ9ANoAiIMCghCBgjE6Ym_BhIAogEtCMQKEhoKGAjgyyYgAUoOCglcMg0cIRggHRUQ9ANoAiIMCghCBgjE6Ym_BhIAkAOQTg%3D%3D&uc=15",
+        "start_date": "2025-03-31T11:00:00.000Z",
+        "impressions_total": 192506,
+        "impressions_map": {
+          "de": 0,
+          "be": 0,
+          "fi": 0,
+          "pt": 0,
+          "bg": 0,
+          "dk": 0,
+          "lt": 0,
+          "lu": 0,
+          "hr": 192506,
+          "lv": 0,
+          "fr": 0,
+          "hu": 0,
+          "se": 0,
+          "si": 0,
+          "sk": 0,
+          "ie": 0,
+          "ee": 0,
+          "el": 0,
+          "mt": 0,
+          "it": 0,
+          "es": 0,
+          "at": 0,
+          "cy": 0,
+          "cz": 0,
+          "pl": 0,
+          "ro": 0,
+          "nl": 0,
+          "tr": 0
+        },
+        "targeting_v2": {
+          "regulated_content": false,
+          "demographics": [
+            {
+              "min_age": "18",
+              "max_age": "54",
+              "age_groups": [],
+              "gender": "FEMALE",
+              "languages": [],
+              "operation": "INCLUDE",
+              "advanced_demographics": []
+            }
+          ],
+          "devices": []
+        },
+        "paying_advertiser_name": "Zalando SE",
+        "brand_name": "Zalando",
+        "profile_name": "Zalando",
+        "profile_logo_url": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYU81YWs0aElEVElVeHdQdkxBR0J5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+        "web_view_properties": {
+          "url": "https://www.zalando.hr/campaigns/SS25-women-what-do-I-wear/?wmc=smp385__.80924612___..&opc=2211"
         },
         "review_status": "APPROVED",
         "rejection_reasons": [],
