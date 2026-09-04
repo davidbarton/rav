@@ -2,6 +2,29 @@
 
 > AI Agents reading this will find lots of context inside the `./agents/` directory.
 
+## Original assignment text
+
+```
+Zadání
+
+Pinterest nebo Snapchat — vyber jedno podle vlastního uvážení.
+Vysvětli proč sis vybral co sis vybral.
+Co od tebe čekáme
+
+Průzkum datových zdrojů — Zmapuj, jaká data jsou na platformě dostupná. Zajímají nás:
+Reklamní data (ad libraries, transparency tools, API)
+Influencer / creator aktivita
+Organický obsah (je stažitelný? jak?)
+Jakákoli data relevantní pro detekci ovlivňování veřejného mínění nebo finančního fraudu ("social charity")
+Stáhni vzorek dat — Reálná data, ne mockupy. Může to být přes oficiální API, DSA transparency repozitář, web scraping, third-party providery — cokoliv, co funguje. Zdokumentuj jak jsi k datům došel a jaké jsou limity (rate limits, coverage, granularita).
+Navrhni, co z toho půjde vytřískat — Na základě vzorku dat navrhni, jaké analytické pohledy a insighty by Ravineo mohlo klientům nabídnout. Mysli na to, že naši klienti jsou velké B2C brandy (Siemens, Philips, Beiersdorf apod.) a zajímá je:
+Kolik konkurence utrácí za reklamu
+S kým spolupracují (influenceři)
+Jak vypadá jejich organická přítomnost na platformě
+Potenciální zneužití (dezinformace, scam reklamy, fake influenceři)
+Vykopni nad tím UI pro vizualizaci — Prototyp, dashboard, cokoliv co ukáže data v použitelné formě. Neřešíme produkční kvalitu — jde o to ukázat, co data umí říct a jak by to šlo prezentovat.
+```
+
 ## Research we conducted
 
 Map of Snapchat data sources (APIs, scraping, transparency, governance): **[RESEARCH.md](./RESEARCH.md)**.
