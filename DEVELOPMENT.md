@@ -4,7 +4,7 @@ Prerequisites, fetch pipelines, the report apps, and DuckDB build/refresh. Raw d
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) 18+
+- [Node.js](https://nodejs.org/) 24 LTS (see `.node-version`)
 - [DuckDB CLI](https://duckdb.org/docs/installation/) (`brew install duckdb`)
 
 ## Environment variables
@@ -18,7 +18,7 @@ Create a `.env` file in the repo root:
 | `APIFY_TOKEN` | Apify API token for scraper-based ad fetching |
 | `REPORT_PASS` | Password for HTTP Basic Auth on the deployed report server |
 
-All except `REPORT_PASS` are optional — scripts degrade gracefully when unset. `REPORT_PASS` is required by `app/server.ts` (the server refuses to start without it).
+All except `REPORT_PASS` are optional — scripts degrade gracefully when unset. `REPORT_PASS` is required by the production server (`server.mjs`) and research API (`app/server.ts`). Both refuse to start without it. The Basic Auth username can be any value.
 
 ## Data fetching
 
@@ -79,13 +79,17 @@ Two standalone React + Vite + Tailwind apps, both reading baked-in JSON data:
 ### Local development
 
 ```bash
+npm ci
+npm ci --prefix app --include=dev
+npm ci --prefix app-political --include=dev
+
 # Dior report
 npm run app:data              # regenerate dior-report.json from DuckDB
-npm run app:dev               # Vite dev server (http://localhost:5173)
+npm run app:dev               # Vite dev server (http://localhost:5173/dior/)
 
 # Political report
 npm run pol:data              # regenerate report.json from DuckDB
-npm run pol:dev               # Vite dev server (http://localhost:5174)
+npm run pol:dev               # Vite dev server (http://localhost:5174/norway/)
 ```
 
 ### Stack
@@ -108,56 +112,77 @@ db/rav.db → build_report.ts  → app-political/data/report.json → Vite bundl
 
 The React apps import the JSON at build time. No database queries happen at runtime — the reports are fully static.
 
-### Production server (`app/server.ts`)
+### Production server (`server.mjs`)
 
-Express server that handles:
-- **HTTP Basic Auth** — password from `REPORT_PASS` env var, browser shows native dialog
-- **Static file serving** — both built apps from their `dist/` directories
-- **SPA catch-all** — serves `index.html` for client-side routing
-- **API endpoints** — explore keyword search, sponsored content search (require DuckDB CLI)
+One Express service serves both reports. `npm run build` installs each app's locked dependencies with `npm ci` (including build tools) and builds both apps. `npm start` only starts the server; it never builds or fetches data. The server listens on `0.0.0.0:$PORT` (default 3001), checks that both reports exist before listening, and drains requests on SIGTERM.
 
 ```bash
-npm run app:start             # build both apps + start server on port 3001
+npm ci
+npm run build
+npm test
+# Set REPORT_PASS in .env or the process environment first.
+npm start
 ```
+
+`npm run app:start` combines build and start for local convenience. The experimental research API remains available through `npm run app:api`; its live exploration and sponsored-search endpoints need local data/DuckDB and are not part of the deployed static reports.
 
 ## Deployment (Railway)
 
-A separate lightweight deploy repo lives at `../rav-deploy/`. It contains only the built static files and a minimal Express server (~60 lines) — no data sources, no DuckDB, no build step.
+Deploy **this repository** (`davidbarton/rav`) as **one service**, from the repository root. Both frontends compile to static assets and share one small Express router; they do not need separate Railway services.
 
-### Build and deploy
+Railway [automatically detects the root Dockerfile](https://docs.railway.com/builds/dockerfiles). The multi-stage build uses Node 24 and `npm ci`, with separate cached stages for each report. A change to one report leaves the other report's build cache reusable. The final image contains only Node, the server, Express and its dependencies, and the two `dist/` directories. Research dependencies (`tsx`, `got-scraping`, `xlsx`, and `cors`) are development dependencies and are not installed in the image. `.dockerignore` keeps raw research data, the DuckDB database/LFS file, local dependencies, and secrets out of the Docker build context. Report JSON is committed and compiled into the bundles; deployment needs neither DuckDB nor a volume. Docker filtering reduces the build context, not Railway's initial GitHub repository fetch.
 
-```bash
-./scripts/build_deploy.sh     # builds both apps, syncs to ../rav-deploy/
-cd ../rav-deploy
-railway up                    # deploys to Railway
-```
+### One-time service settings
 
-### What's deployed
+| Railway setting | Value |
+| --- | --- |
+| Source repository | `davidbarton/rav` |
+| Connected branch | `main` (or the branch you actually release from) |
+| Root directory | `/` |
+| Automatic deployments | Enabled |
+| Build | Root `Dockerfile`, detected automatically |
+| Custom build / start / pre-deploy commands | Clear old overrides; Dockerfile supplies build and start |
+| Healthcheck path | `/health` |
+| Healthcheck timeout | 30 seconds |
+| Restart policy | On failure |
+| Variables | Set `REPORT_PASS`; let Railway provide `PORT` |
+| Networking | Generate a Railway domain or retain your existing custom domain; target the injected `PORT` |
+| Wait for CI | Enable after the Reports workflow is present on the connected branch |
 
-```
-rav-deploy/
-  server.ts              # Auth + static serving only
-  package.json           # 2 deps: express, tsx
-  public/
-    dior/                # built Dior report
-    norway/              # built political report
-```
+Remove any old watch-path restrictions that exclude either report, the root package files, or the Dockerfile. Leaving watch paths unset deploys on every push. No Railway API token or GitHub deployment secret is needed for native GitHub autodeploys.
 
-### Routes
+The [GitHub integration](https://docs.railway.com/deployments/github-autodeploys) triggers deployment on pushes to the connected branch. `.github/workflows/reports.yml` uses sparse checkout to skip research directories, builds the same Docker image, and tests the reports inside it on pushes and pull requests. With **Wait for CI**, Railway deploys only after that workflow succeeds.
+
+The unauthenticated [`/health` endpoint](https://docs.railway.com/deployments/healthchecks) lets Railway check readiness before routing traffic. All report pages and assets remain behind Basic Auth, including the landing page.
 
 | URL | Content |
 | --- | --- |
-| `/` | Landing page (links to both reports) |
-| `/dior` | Dior fashion intelligence report |
-| `/norway` | Norway political ads report |
+| `/` | Landing page linking both reports |
+| `/dior/` | Dior fashion intelligence report |
+| `/norway/` | Norway political ads report |
+| `/health` | Readiness JSON (no authentication) |
 
-All routes are behind HTTP Basic Auth. Set `REPORT_PASS` in Railway's environment variables.
+### Updating reports
 
-### Updating
+1. Edit the apps. If changing report data, regenerate it locally with `npm run app:data` and/or `npm run pol:data` and include the updated JSON in your commit.
+2. Run `./scripts/build_deploy.sh` to install, build, and test locally, or use the Docker check below.
+3. Commit and push to the connected branch. GitHub CI validates the image and Railway builds/deploys it automatically.
 
-1. Make changes in the main repo
-2. Run `./scripts/build_deploy.sh` to rebuild and sync
-3. Run `cd ../rav-deploy && railway up` to deploy
+The previous `../rav-deploy` copy-and-push workflow is retired. Do not commit `dist/`, rebuild the database during deployment, or put `REPORT_PASS` in a `VITE_*` variable (those values are public in browser bundles).
+
+### Verify the production image locally
+
+```bash
+docker build -t rav-reports .
+docker run --rm --mount type=bind,source="$PWD/tests",target=/app/tests,readonly \
+  rav-reports node --test tests/server.test.mjs
+# Export REPORT_PASS in your shell first.
+docker run --rm -p 3001:3001 -e PORT=3001 -e REPORT_PASS rav-reports
+```
+
+### Railway configuration files
+
+The current Railway docs [deprecate `railway.json` / `railway.toml`](https://docs.railway.com/infrastructure-as-code); new services cannot opt into that legacy configuration. This repository uses the automatically detected Dockerfile and the service settings above. If you later want project settings in code, first link the existing project and run `railway config pull` to import its actual resources, then edit and review with `railway config plan`. Do not apply a guessed project definition over an existing environment.
 
 ## DuckDB
 

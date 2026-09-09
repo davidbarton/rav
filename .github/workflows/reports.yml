@@ -1,0 +1,33 @@
+name: Reports
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: reports-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  production-image:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          lfs: false
+          persist-credentials: false
+          sparse-checkout: |
+            app
+            app-political
+            tests
+      - name: Build both reports and production server
+        run: docker build --tag rav-reports .
+      - name: Check production routes, assets, authentication, and readiness
+        run: >-
+          docker run --rm
+          --mount type=bind,source="$PWD/tests",target=/app/tests,readonly
+          rav-reports node --test tests/server.test.mjs

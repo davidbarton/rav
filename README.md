@@ -48,3 +48,7 @@ Concrete use cases for competitive intelligence — competitor ad spend estimati
 Runbooks and technical setup: **[DEVELOPMENT.md](./DEVELOPMENT.md)**.
 
 **If you’re building or extending this repo:** everything you need to run fetchers, rebuild **`db/rav.db`**, wire proxies, and ship the prototype lives in **[DEVELOPMENT.md](./DEVELOPMENT.md)** — TypeScript/Node pipelines under `data_sources/`, a single DuckDB loader in `db/init.sql`, and a small static app in `app/`. Clone, `npm install` once at the root, and you can reproduce the full stack from raw pulls to queryable tables.
+
+## Railway deployment
+
+This repository builds and serves both report apps through the root `Dockerfile` and `server.mjs`. Pushes to the connected branch trigger Railway deployments. See [the Railway setup and update instructions](./DEVELOPMENT.md#deployment-railway), including `REPORT_PASS`, `/health`, and Wait for CI.

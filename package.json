@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
   "scripts": {
     "fetch:ads": "tsx data_sources/snap_ads/src/fetch_ads.ts ads",
     "fetch:sponsored": "tsx data_sources/snap_sponsored/src/fetch_sponsored.ts sponsored",
@@ -18,25 +21,27 @@
     "app:dev": "cd app && npm run dev",
     "app:api": "tsx app/server.ts",
     "app:build": "cd app && npm run build",
-    "app:start": "npm run build && node --import tsx/esm app/server.ts",
-    "build": "cd app && npm install && npm run build && cd ../app-political && npm install && npm run build",
-    "start": "node --import tsx/esm app/server.ts",
+    "app:start": "npm run build && npm start",
+    "build": "npm ci --prefix app --include=dev && npm ci --prefix app-political --include=dev && npm run build:apps",
+    "build:apps": "npm run app:build && npm run pol:build",
+    "start": "node --env-file-if-exists=.env server.mjs",
+    "test": "node --test tests/*.test.mjs",
     "db:init": "duckdb db/rav.db < db/init.sql",
     "pol:data": "tsx app-political/build_report.ts",
     "pol:dev": "cd app-political && npm run dev",
     "pol:build": "cd app-political && npm run build"
   },
   "dependencies": {
-    "cors": "^2.8.6",
-    "express": "^5.2.1",
-    "got-scraping": "^4.2.1",
-    "tsx": "^4.19.4",
-    "xlsx": "^0.18.5"
+    "express": "^5.2.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
     "@types/node": "^25.5.2",
-    "typescript": "^6.0.2"
+    "cors": "^2.8.6",
+    "got-scraping": "^4.2.1",
+    "tsx": "^4.19.4",
+    "typescript": "^6.0.2",
+    "xlsx": "^0.18.5"
   }
 }
